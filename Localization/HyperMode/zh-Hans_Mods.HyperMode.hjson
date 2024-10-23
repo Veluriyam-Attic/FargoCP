@@ -1,0 +1,30 @@
+Configs: {
+	HyperConfig: {
+		hyperTime: {
+			Tooltip: 激活时增加时间流速
+			Label: 超级时间
+		}
+
+		hyperProj: {
+			Tooltip: 增加弹幕的速度和效果
+			Label: 超级弹幕
+		}
+
+		hyperPlayer: {
+			Tooltip: 提升玩家的移速
+			Label: 超级玩家
+		}
+
+		hyperNPC: {
+			Tooltip: 提升NPC的速度和活动频率
+			Label: 超级NPC
+		}
+
+		hyperMultiplier: {
+			Tooltip: 设置超级模式下的速度倍率
+			Label: 速度倍率
+		}
+
+		DisplayName: Fargo超级配置
+	}
+}

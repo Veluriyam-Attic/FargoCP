@@ -1,0 +1,30 @@
+Configs: {
+	LootConfig: {
+		DisplayName: Loot Config
+
+		LootMulti: {
+			Label: Loot Multiplier
+			Tooltip: ""
+		}
+
+		MultiplyCoins: {
+			Label: Multiply coin drops
+			Tooltip: ""
+		}
+
+		AffectBosses: {
+			Label: Bonus Loot affects Bosses
+			Tooltip: ""
+		}
+
+		Banners: {
+			Label: Multiply kill count for banners
+			Tooltip: ""
+		}
+
+		NPCBlacklist: {
+			Label: NPC Blacklist
+			Tooltip: NPCs here will not have loot multiplied
+		}
+	}
+}

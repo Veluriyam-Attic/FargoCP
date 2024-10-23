@@ -1,0 +1,35 @@
+Configs: {
+	GodConfig: {
+		disabledSpawns: {
+			Tooltip: ""
+			Label: Disabled Spawns
+		}
+
+		mapTeleport: {
+			Tooltip: ""
+			Label: Map Teleport
+		}
+
+		noRain: {
+			Tooltip: ""
+			Label: No Rain
+		}
+
+		timeFreeze: {
+			Tooltip: ""
+			Label: Paused Time
+		}
+
+		infiniteMana: {
+			Tooltip: ""
+			Label: Infinite Mana
+		}
+
+		godMode: {
+			Tooltip: ""
+			Label: God Mode
+		}
+
+		DisplayName: God Config
+	}
+}

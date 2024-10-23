@@ -1,0 +1,30 @@
+Configs: {
+	LootConfig: {
+		DisplayName: Fargo掉落物配置
+
+		LootMulti: {
+			Label: 物品掉落倍率
+			Tooltip: 调整游戏中物品掉落的倍率
+		}
+
+		MultiplyCoins: {
+			Label: 钱币掉落倍率
+			Tooltip: 增加游戏中钱币掉落的数量
+		}
+
+		AffectBosses: {
+			Label: 是否对Boss生效
+			Tooltip: 决定掉落物倍率是否对Boss掉落物生效
+		}
+
+		Banners: {
+			Label: 增加旗帜击杀计数
+			Tooltip: 增加击杀敌人时旗帜的计数倍率
+		}
+
+		NPCBlacklist: {
+			Label: 增加击杀敌人时旗帜的计数倍率
+			Tooltip: 在黑名单中的NPC将不会有掉落物倍率加成
+		}
+	}
+}

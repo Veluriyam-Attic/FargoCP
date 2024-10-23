@@ -1,0 +1,30 @@
+Configs: {
+	HyperConfig: {
+		hyperTime: {
+			Tooltip: ""
+			Label: Hyper Time
+		}
+
+		hyperProj: {
+			Tooltip: ""
+			Label: Hyper Projectiles
+		}
+
+		hyperPlayer: {
+			Tooltip: ""
+			Label: Hyper Player
+		}
+
+		hyperNPC: {
+			Tooltip: ""
+			Label: Hyper NPCs
+		}
+
+		hyperMultiplier: {
+			Tooltip: ""
+			Label: Speed Multiplier
+		}
+
+		DisplayName: Hyper Config
+	}
+}

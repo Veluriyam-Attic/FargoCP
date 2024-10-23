@@ -1,0 +1,35 @@
+Configs: {
+	GodConfig: {
+		disabledSpawns: {
+			Tooltip: 禁用NPC的生成
+			Label: 禁用生成
+		}
+
+		mapTeleport: {
+			Tooltip: 允许玩家在地图上任意位置进行传送
+			Label: 地图传送
+		}
+
+		noRain: {
+			Tooltip: 禁止下雨
+			Label: 无雨模式
+		}
+
+		timeFreeze: {
+			Tooltip: 冻结游戏内的时间，使时间不流逝
+			Label: 时间暂停
+		}
+
+		infiniteMana: {
+			Tooltip: 为玩家提供无限的魔力值
+			Label: 无限魔力
+		}
+
+		godMode: {
+			Tooltip: 激活上帝模式
+			Label: 上帝模式
+		}
+
+		DisplayName: Fargo上帝配置
+	}
+}
