@@ -1,6 +1,6 @@
 Configs: {
 	OmniConfig: {
-		DisplayName: Fargo全向物品配置
+		DisplayName: Fargo背包物品配置
 
 		spendMana: {
 			Label: 消耗魔力
