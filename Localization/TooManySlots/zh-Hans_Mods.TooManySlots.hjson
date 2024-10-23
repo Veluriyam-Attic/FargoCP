@@ -1,0 +1,25 @@
+Configs: {
+	TooManySlotsConfig: {
+		DisplayName: Fargo更多饰品栏配置
+
+		Inventory: {
+			Label: 背包饰品生效
+			Tooltip: ""
+		}
+
+		Piggy: {
+			Label: 猪猪存钱罐饰品生效
+			Tooltip: ""
+		}
+
+		Safe: {
+			Label: 保险箱饰品生效
+			Tooltip: ""
+		}
+
+		Forge: {
+			Label: 护卫熔炉饰品生效
+			Tooltip: ""
+		}
+	}
+}

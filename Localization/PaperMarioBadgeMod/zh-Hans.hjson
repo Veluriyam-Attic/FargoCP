@@ -1,0 +1,141 @@
+Mods: {
+	PaperMarioBadgeMod: {
+		Items: {
+			AllorNothing: {
+				DisplayName: 孤注一掷勋章
+				Tooltip: 当攻击产生暴击时，所有攻击造成3倍伤害，否则造成1点伤害
+			}
+
+			BumpAttack: {
+				DisplayName: 冲撞攻击徽章
+				Tooltip: 如果你击杀了超过25个相同的敌人，你只需触碰它即可击杀
+			}
+
+			CloseCall: {
+				DisplayName: 化危为运徽章
+				Tooltip: 当生命值低于25%时，有33%的几率闪避攻击
+			}
+
+			LuckyDay: {
+				DisplayName: 十分幸运徽章
+				Tooltip: 有25%的几率闪避攻击
+			}
+
+			DefendPlus: {
+				DisplayName: 防御提升徽章
+				Tooltip: 防御力提高50%
+			}
+
+			DoublePain: {
+				DisplayName: 两倍伤害徽章
+				Tooltip: 受到的伤害加倍
+			}
+
+			FeelingFine: {
+				DisplayName: 充满精神徽章
+				Tooltip: 免疫中毒、混乱、带电、着火和破甲状态
+			}
+
+			FirstAttack: {
+				DisplayName: 火速歼灭徽章
+				Tooltip: 你对敌人的第一次攻击造成5倍伤害
+			}
+
+			FlowerFinder: {
+				DisplayName: 花朵掉落徽章
+				Tooltip: 敌人更有可能掉落魔法星
+			}
+
+			HappyFlower: {
+				DisplayName: 快乐花朵徽章
+				Tooltip: 每30秒恢复100点魔法值
+			}
+
+			HappyHeart: {
+				DisplayName: 快乐爱心徽章
+				Tooltip: 每30秒恢复50点生命值
+			}
+
+			HeartFinder: {
+				DisplayName: 爱心掉落徽章
+				Tooltip: 敌人更有可能掉落红心
+			}
+
+			PowerPlus: {
+				DisplayName: 力量提升徽章
+				Tooltip:
+					'''
+					伤害提高30%
+					暴击几率提高20%
+					'''
+			}
+
+			PUpDDown: {
+				DisplayName: 双面刃徽章
+				Tooltip: 受到和造成的伤害提高25%
+			}
+
+			PDownDUp: {
+				DisplayName: 钝刀徽章
+				Tooltip: 受到和造成的伤害减少25%
+			}
+
+			Refund: {
+				DisplayName: 金币还原徽章
+				Tooltip: 使用消耗品时，返还25%的价值
+			}
+
+			ReturnPostage: {
+				DisplayName: 伤害奉还徽章
+				Tooltip:
+					'''
+					将所有接触伤害的10倍反射给攻击者
+					反射所有投射物，但它们仍然会对你造成伤害
+					'''
+			}
+
+			HPDrain: {
+				DisplayName: 吸取爱心徽章
+				Tooltip:
+					'''
+					伤害减少20%
+					吸血增加10%
+					'''
+			}
+
+			FPDrain: {
+				DisplayName: 吸取花朵徽章
+				Tooltip:
+					'''
+					伤害减少20%
+					魔法偷取5%
+					'''
+			}
+
+			HPPlus: {
+				DisplayName: 爱心增加徽章
+				Tooltip: 最大生命值增加100点
+			}
+
+			FPPlus: {
+				DisplayName: 花朵增加徽章
+				Tooltip: 最大魔法值增加100点
+			}
+
+			PowerRush: {
+				DisplayName: 化危为攻徽章
+				Tooltip: 当生命值低于25%时，伤害提高50%
+			}
+
+			MegaRush: {
+				DisplayName: 化危为力徽章
+				Tooltip: 当生命值低于10%时，伤害提高150%
+			}
+
+			FlowerSaver: {
+				DisplayName: 花朵节约徽章
+				Tooltip: 减少25%的魔法消耗
+			}
+		}
+	}
+}

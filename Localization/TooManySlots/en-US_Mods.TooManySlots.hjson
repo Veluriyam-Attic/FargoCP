@@ -1,0 +1,25 @@
+Configs: {
+	TooManySlotsConfig: {
+		DisplayName: Too Many Slots Config
+
+		Inventory: {
+			Label: Accessories work from your Inventory
+			Tooltip: ""
+		}
+
+		Piggy: {
+			Label: Accessories work from your Piggy Bank
+			Tooltip: ""
+		}
+
+		Safe: {
+			Label: Accessories work from your Safe
+			Tooltip: ""
+		}
+
+		Forge: {
+			Label: Accessories work from your Defender's Forge
+			Tooltip: ""
+		}
+	}
+}

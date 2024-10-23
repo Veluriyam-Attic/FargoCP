@@ -1,0 +1,40 @@
+Configs: {
+	OmniConfig: {
+		DisplayName: Omni Config
+
+		spendMana: {
+			Label: Spend Mana
+			Tooltip: ""
+		}
+
+		spendConsumables: {
+			Label: Spend Consumables
+			Tooltip: ""
+		}
+
+		itemBlacklist: {
+			Label: Item Blacklist
+			Tooltip: Items here will be ignored
+		}
+
+		fullInventory: {
+			Label: Use Full Inventory
+			Tooltip: ""
+		}
+
+		hotBar: {
+			Label: Use Hot Bar Inventory
+			Tooltip: ""
+		}
+
+		inventorySlots: {
+			Label: Use Set Inventory Slots
+			Tooltip: ""
+		}
+
+		slotsSlider: {
+			Label: Num Slots
+			Tooltip: ""
+		}
+	}
+}

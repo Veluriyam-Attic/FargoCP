@@ -1,0 +1,10 @@
+Configs: {
+	RainbowConfig: {
+		rainbowGen: {
+			Tooltip: ""
+			Label: Rainbow Worldgen
+		}
+
+		DisplayName: Rainbow Config
+	}
+}

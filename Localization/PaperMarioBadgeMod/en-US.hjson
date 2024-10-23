@@ -1,0 +1,141 @@
+Mods: {
+	PaperMarioBadgeMod: {
+		Items: {
+			AllorNothing: {
+				DisplayName: All or Nothing
+				Tooltip: All attacks deal 3x damage when they crit, otherwise they deal 1 damage
+			}
+
+			BumpAttack: {
+				DisplayName: Bump Attack
+				Tooltip: If you have killed over 25 of an enemy, you kill it just by touching it
+			}
+
+			CloseCall: {
+				DisplayName: Close Call
+				Tooltip: Grants a 33% dodge chance when below 25% HP
+			}
+
+			LuckyDay: {
+				DisplayName: Lucky Day
+				Tooltip: Grants a 25% dodge chance
+			}
+
+			DefendPlus: {
+				DisplayName: Defend Plus
+				Tooltip: Increases defense by 50%
+			}
+
+			DoublePain: {
+				DisplayName: Double Pain
+				Tooltip: You take double damage
+			}
+
+			FeelingFine: {
+				DisplayName: Feeling Fine
+				Tooltip: Grants immunity to Poison, Confusion, Electrified, On Fire, and Broken Armor
+			}
+
+			FirstAttack: {
+				DisplayName: First Attack
+				Tooltip: Your first attack against an enemy deal 5x damage
+			}
+
+			FlowerFinder: {
+				DisplayName: Flower Finder
+				Tooltip: Enemies are more likely to drop Mana Stars
+			}
+
+			HappyFlower: {
+				DisplayName: Happy Flower
+				Tooltip: Recovers 100 Mana every 30 seconds
+			}
+
+			HappyHeart: {
+				DisplayName: Happy Heart
+				Tooltip: Recovers 50 HP every 30 seconds
+			}
+
+			HeartFinder: {
+				DisplayName: Heart Finder
+				Tooltip: Enemies are more likely to drop Hearts
+			}
+
+			PowerPlus: {
+				DisplayName: Power Plus
+				Tooltip:
+					'''
+					Increases damage by 30%
+					Increases crit chance by 20%
+					'''
+			}
+
+			PUpDDown: {
+				DisplayName: P-Up D-Down
+				Tooltip: Increases damage taken and dealt by 25%
+			}
+
+			PDownDUp: {
+				DisplayName: P-Down D-Up
+				Tooltip: Decreases damage taken and dealt by 25%
+			}
+
+			Refund: {
+				DisplayName: Refund
+				Tooltip: Using a consumable refunds 25% of the value
+			}
+
+			ReturnPostage: {
+				DisplayName: Return Postage
+				Tooltip:
+					'''
+					Reflect 10x all contact damage back to attackers
+					Reflect all projectiles, but they still do damage to you
+					'''
+			}
+
+			HPDrain: {
+				DisplayName: HP Drain
+				Tooltip:
+					'''
+					20% reduced damage
+					10% lifesteal
+					'''
+			}
+
+			FPDrain: {
+				DisplayName: FP Drain
+				Tooltip:
+					'''
+					20% reduced damage
+					5% manasteal
+					'''
+			}
+
+			HPPlus: {
+				DisplayName: HP Plus
+				Tooltip: Increases max HP by 100
+			}
+
+			FPPlus: {
+				DisplayName: FP Plus
+				Tooltip: Increases max mana by 100
+			}
+
+			PowerRush: {
+				DisplayName: Power Rush
+				Tooltip: While below 25% HP, your damage is increased by 50%
+			}
+
+			MegaRush: {
+				DisplayName: Mega Rush
+				Tooltip: While below 10% HP, your damage is increased by 150%
+			}
+
+			FlowerSaver: {
+				DisplayName: Flower Saver
+				Tooltip: Reduces mana costs by 25%
+			}
+		}
+	}
+}

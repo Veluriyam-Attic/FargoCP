@@ -1,0 +1,15 @@
+Configs: {
+	StarConfig: {
+		StarMulti: {
+			Tooltip: ""
+			Label: Star Frequency Multiplier
+		}
+
+		StarsHurt: {
+			Tooltip: Turn on to allow fallen stars to damage players
+			Label: Stars Hurt
+		}
+
+		DisplayName: Star Config
+	}
+}

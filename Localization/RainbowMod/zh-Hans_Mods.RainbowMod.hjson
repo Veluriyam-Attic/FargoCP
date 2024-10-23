@@ -1,0 +1,10 @@
+Configs: {
+	RainbowConfig: {
+		rainbowGen: {
+			Tooltip: ""
+			Label: 彩虹世界！
+		}
+
+		DisplayName: Fargo彩虹配置
+	}
+}

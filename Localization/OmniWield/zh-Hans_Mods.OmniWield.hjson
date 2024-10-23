@@ -1,0 +1,40 @@
+Configs: {
+	OmniConfig: {
+		DisplayName: Fargo全向物品配置
+
+		spendMana: {
+			Label: 消耗魔力
+			Tooltip: 是否允许在攻击时消耗魔力值
+		}
+
+		spendConsumables: {
+			Label: 消耗消耗品
+			Tooltip: 是否允许在攻击时消耗消耗品
+		}
+
+		itemBlacklist: {
+			Label: 物品黑名单
+			Tooltip: 在黑名单中的物品将被忽略
+		}
+
+		fullInventory: {
+			Label: 使用背包物品
+			Tooltip: 是否使用背包中的所有物品进行攻击
+		}
+
+		hotBar: {
+			Label: 使用快捷栏物品
+			Tooltip: 是否仅使用快捷栏中的物品进行攻击
+		}
+
+		inventorySlots: {
+			Label: 使用指定背包槽位
+			Tooltip: 是否仅使用指定槽位的物品进行攻击
+		}
+
+		slotsSlider: {
+			Label: 槽位数
+			Tooltip: 指定用于攻击的物品栏槽位数
+		}
+	}
+}

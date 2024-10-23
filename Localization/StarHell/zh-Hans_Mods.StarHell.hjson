@@ -1,0 +1,15 @@
+Configs: {
+	StarConfig: {
+		StarMulti: {
+			Tooltip: ""
+			Label: 坠星生成倍率
+		}
+
+		StarsHurt: {
+			Tooltip: 启用以允许坠星对玩家造成伤害
+			Label: 坠星伤害
+		}
+
+		DisplayName: Fargo坠星配置
+	}
+}

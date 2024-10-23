@@ -1,0 +1,390 @@
+Configs: {
+	SatanistServerConfig: {
+		DisplayName: 服务器配置
+
+		Headers: {
+			World: 世界设定
+			Difficulty: 难度设定
+			Gameplay: 玩法设定
+		}
+
+		ItemDespawnEnabled: {
+			Label: 物品自然消失
+			Tooltip: 是否允许物品自然消失
+		}
+
+		ItemDespawnTime: {
+			Label: 自然消失时间
+			Tooltip: 表示物品消失所需的时间「秒」
+		}
+
+		ForceMasterMode: {
+			Label: 强制大师模式
+			Tooltip: 是否强制将大师模式应用到世界中，此操作不可逆
+		}
+
+		ForceGetFixedBoi: {
+			Label: 强制天顶世界
+			Tooltip: 是否强制将天顶世界应用到世界中，此操作不可逆
+		}
+
+		ForceForTheWorthy: {
+			Label: 强制传奇模式
+			Tooltip: 是否强制将传奇模式应用到世界中，此操作不可逆
+		}
+
+		ForceUHC: {
+			Label: 强制极限模式
+			Tooltip: 是否强制将极限模式应用到世界中，此操作不可逆
+		}
+
+		ForceEternity: {
+			Label: 强制永恒模式
+			Tooltip: 是否强制将永恒模式应用到世界中，此操作不可逆
+		}
+
+		SlipperyFriendlyProjectilesEnabled: {
+			Label: 滑溜溜的友方弹药
+			Tooltip: 是否使友方弹药变得滑溜溜「Duang~」
+		}
+
+		SlipperyHostileProjectilesEnabled: {
+			Label: 滑溜溜的敌方弹药
+			Tooltip: 是否使敌方弹药变得滑溜溜「Duang~」
+		}
+
+		YoyosEnabled: {
+			Label: 悠悠球
+			Tooltip: 选择是否开启悠悠球
+		}
+
+		DashEnabled: {
+			Label: 默认可以冲刺
+			Tooltip: 选择是否可以冲刺
+		}
+	}
+
+	SatanistClientConfig: {
+		DisplayName: 客户端配置
+
+		Headers: {
+			Dialogue: 对话设置
+			Visuals: 视觉设置
+			Audio: 音效设置
+		}
+
+		DialogueDaddyEnabled: {
+			Label: daddy开关
+			Tooltip: 启用以让NPC称呼你为daddy
+		}
+
+		HostileProjectileScale: {
+			Label: 缩放敌方弹幕大小
+			Tooltip: 敌方弹幕缩放大小
+		}
+
+		FriendlyProjectileScale: {
+			Label: 缩放友方弹幕大小
+			Tooltip: 友方弹幕缩放大小
+		}
+
+		CustomDeathSoundsEnabled: {
+			Label: 自定义死亡音效
+			Tooltip: 是否启用自定义随机死亡音效
+		}
+	}
+}
+
+NPCs: {
+	BugCatcher: {
+		DisplayName: 捕虫人
+
+		TownNPCMood: {
+			Content: 我很满意.
+			NoHome: 我讨厌没有家.
+			FarFromHome: 我离家太远了.
+			LoveSpace: 我喜欢有这么多空间.
+			DislikeCrowded: 我不喜欢这么拥挤.
+			HateCrowded: 我讨厌这么拥挤.
+			LoveBiome: 我喜欢{BiomeName}.
+			HateBiome: 我讨厌{BiomeName}.
+			LikeNPC_Princess: 我喜欢{NPCName}.
+			Princess_LovesNPC: 我喜欢{NPCName}.
+		}
+
+		Chat: {
+			Wizard: 是的，{0}是一个巫师，但他不能从帽子里拉出一只兔子...
+			Angler: 我要远离{0}.他用我的虫子做诱饵！
+			Guide: 你不能从{0}那里买小动物，但可以从我这里买！
+
+			Common: {
+				0: 你好！你在找小动物吗？我有很多可以卖。
+				1: 你不会相信我的价格！
+				2: 你不会认识著名的老鼠厨师，对吧？
+				3: 如果你不感兴趣买任何东西，那就走开！
+				4: 我们有虫子、兔子、松鼠。你说得出的我们都有！
+			}
+		}
+
+		Buttons.Shop: 商店
+	}
+
+	CultistIllusion.DisplayName: Cultist Illusion
+	PhantomPortal.DisplayName: Phantom Portal
+	PurityPortal.DisplayName: Purity Portal
+	BabyZombie.DisplayName: Baby Zombie
+	BoomstickBunny.DisplayName: Boomstick Bunny
+	CopperWarriorBunny.DisplayName: Copper Warrior Bunny
+	FlintockBunny.DisplayName: Flintock Bunny
+	GiantBunny.DisplayName: Giant Bunny
+	GoldBunnyWarrior.DisplayName: Gold Bunny Warrior
+	IronWarriorBunny.DisplayName: Iron Warrior Bunny
+	LeadWarriorBunny.DisplayName: Lead Warrior Bunny
+	MinisharkBunny.DisplayName: Minishark Bunny
+	NinjaBunny.DisplayName: Ninja Bunny
+	PlatinumBunnyWarrior.DisplayName: Platinum Bunny Warrior
+	SeaBunny.DisplayName: Sea Bunny
+	SilverWarriorBunny.DisplayName: Silver Warrior Bunny
+	SupportBunny.DisplayName: Support Bunny
+	TinWarriorBunny.DisplayName: Tin Warrior Bunny
+	TungstenWarriorBunny.DisplayName: Tungsten Warrior Bunny
+	WizardBunny.DisplayName: Wizard Bunny
+	WoodenWarriorBunny.DisplayName: Wooden Warrior Bunny
+	FakeBat.DisplayName: Fake Bat
+	FakeHallowBat.DisplayName: Fake Hallow Bat
+	FakeShark.DisplayName: Fake Shark
+	HeartMimic.DisplayName: Heart Mimic
+	DarkFloater.DisplayName: Dark Floater
+	EpicPurplor.DisplayName: Epic Purplor
+	GrayBlob.DisplayName: Gray Blob
+	ImmensePain.DisplayName: Immense Pain
+	Lardy.DisplayName: Lardy
+	LivingEmblem.DisplayName: Living Emblem
+	PurpleOrb.DisplayName: Purple Orb
+	StalwartWall.DisplayName: Stalwart Wall
+	SuperArrow.DisplayName: Super Arrow
+	HellPotMimic.DisplayName: Hell Pot Mimic
+	HellPotMimic2.DisplayName: Hell Pot Mimic
+	TemplePotBagMimic.DisplayName: Temple Pot Mimic
+	TemplePotBagMimic2.DisplayName: Temple Pot Mimic
+	VaseMimic.DisplayName: Vase Mimic
+	VaseMimic2.DisplayName: Vase Mimic
+	PsychoVoodooDemon.DisplayName: Psycho Voodoo Demon
+
+	Monstrocity: {
+		DisplayName: Monstrocity
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+
+	BrainedCreeper.DisplayName: Brained Creeper
+	EyeMother.DisplayName: Eye Mother
+	GoblinThrower.DisplayName: Goblin Thrower
+	QueenBeeThree.DisplayName: Queen Bee Three
+	QueenBeeTwo.DisplayName: Queen Bee Two
+	WeakEyeNPC.DisplayName: Weak Eye N P C
+	LihzahrdCurse.DisplayName: Lihzahrd Curse
+	LihzahrdCursePlayer.DisplayName: Lihzahrd Curse Player
+	MidasCurse.DisplayName: Midas Curse
+	StatueCurse.DisplayName: Statue Curse
+	TempleGuardian.DisplayName: Temple Guardian
+}
+
+Buffs: {
+	Depression: {
+		DisplayName: Depression
+		Description: You deal 25% less damage.
+	}
+
+	Failure: {
+		DisplayName: Failure
+		Description: You're a shame.
+	}
+
+	GodEaterEx: {
+		DisplayName: God Eater Ex
+		Description: If there is something beyond a god,/n he is probably mad at you to throw that many stuff at the same time.
+	}
+
+	Heartache: {
+		DisplayName: Heartache
+		Description: You are taking damage.
+	}
+
+	Overheated: {
+		DisplayName: Overheated
+		Description: It's too hot.
+	}
+
+	GolemCurse: {
+		DisplayName: Golem Curse
+		Description: Mods.Satanist.Buffs.GolemCurse.Description
+	}
+
+	GolemPresence: {
+		DisplayName: Golem Presence
+		Description: Mods.Satanist.Buffs.GolemPresence.Description
+	}
+
+	MasoImpaled: {
+		DisplayName: Maso Impaled
+		Description: Mods.Satanist.Buffs.MasoImpaled.Description
+	}
+
+	SolidifyingCurse: {
+		DisplayName: Solidifying Curse
+		Description: Mods.Satanist.Buffs.SolidifyingCurse.Description
+	}
+
+	Stopga: {
+		DisplayName: Stopga
+		Description: Mods.Satanist.Buffs.Stopga.Description
+	}
+}
+
+Items: {
+	AntiOverheated: {
+		DisplayName: Anti Overheated
+		Tooltip: ""
+	}
+
+	H: {
+		DisplayName: H
+		Tooltip: ""
+	}
+
+	Vineshroom: {
+		DisplayName: Vineshroom
+		Tooltip: ""
+	}
+
+	ContagiousMud: {
+		DisplayName: Contagious Mud
+		Tooltip: ""
+	}
+
+	YharimsGift: {
+		DisplayName: Yharims Gift
+		Tooltip: ""
+	}
+
+	BeeGenerator: {
+		DisplayName: Bee Generator
+		Tooltip: ""
+	}
+
+	BoneCharger: {
+		DisplayName: Bone Charger
+		Tooltip: ""
+	}
+
+	CreeperSample: {
+		DisplayName: Creeper Sample
+		Tooltip: ""
+	}
+
+	RoyalLeap: {
+		DisplayName: Royal Leap
+		Tooltip: ""
+	}
+
+	ShadowTooth: {
+		DisplayName: Shadow Tooth
+		Tooltip: ""
+	}
+
+	TheEverHungry: {
+		DisplayName: The Ever Hungry
+		Tooltip: ""
+	}
+
+	WeakEye: {
+		DisplayName: Weak Eye
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	MoonLordText.DisplayName: Moon Lord Text
+	MutantText.DisplayName: Mutant Text
+	PhantasmalDeathrayIce.DisplayName: Phantasmal Deathray Ice
+	DrBonesWhip.DisplayName: Dr Bones Whip
+	HeartExplosion.DisplayName: Heart Explosion
+	HeartMimicExplosion.DisplayName: Heart Mimic Explosion
+	SupportRing.DisplayName: Support Ring
+	ThiccBoulder.DisplayName: Thicc Boulder
+	Vineshroom.DisplayName: Vineshroom
+	BigStinger.DisplayName: Big Stinger
+	BoneFriendly.DisplayName: Bone Friendly
+	BoneHostile.DisplayName: Bone Hostile
+	CrimsandFallingHostile.DisplayName: Crimsand Falling Hostile
+	EbonsandFallingHostile.DisplayName: Ebonsand Falling Hostile
+	SkullHostile.DisplayName: Skull Hostile
+	SpikyBallHostile.DisplayName: Spiky Ball Hostile
+	StickyGrenadeHostile.DisplayName: Sticky Grenade Hostile
+	TheEverHungryProj.DisplayName: The Ever Hungry Proj
+	WaterBoltHostile.DisplayName: Water Bolt Hostile
+	WaterStreamHostile.DisplayName: Water Stream Hostile
+	BigExplosion.DisplayName: Big Explosion
+	ButterflyBullet.DisplayName: Butterfly Bullet
+	ButterflyBullet2.DisplayName: Butterfly Bullet2
+	ChainExplosion.DisplayName: Chain Explosion
+	ClockBullet.DisplayName: Clock Bullet
+	ClockHand.DisplayName: Clock Hand
+	DeviBigDeathray2.DisplayName: Devi Big Deathray2
+	DeviBigDeathrayDespair.DisplayName: Devi Big Deathray Despair
+	DeviBlazingWheel.DisplayName: Devi Blazing Wheel
+	DeviChasingHeart.DisplayName: Devi Chasing Heart
+	DeviChibiAngry.DisplayName: Devi Chibi Angry
+	DeviChibiLove.DisplayName: Devi Chibi Love
+	DeviDespairEffect.DisplayName: Devi Despair Effect
+	DeviEnergyHeart2.DisplayName: Devi Energy Heart2
+	DeviFake.DisplayName: Devi Fake
+	DeviLightBall2.DisplayName: Devi Light Ball2
+	DeviMimic2.DisplayName: Devi Mimic2
+	DeviMoth.DisplayName: Devi Moth
+	DeviMoth2.DisplayName: Devi Moth2
+	DeviMoth3.DisplayName: Devi Moth3
+	DeviMoth4.DisplayName: Devi Moth4
+	DeviMothDust.DisplayName: Devi Moth Dust
+	DeviPhase2Heart.DisplayName: Devi Phase2 Heart
+	DeviReticle.DisplayName: Devi Reticle
+	DeviSkull.DisplayName: Devi Skull
+	DeviSparklingLove2.DisplayName: Devi Sparkling Love2
+	DeviSparklingLove3.DisplayName: Devi Sparkling Love3
+	DeviSparklingLoveDespair.DisplayName: Devi Sparkling Love Despair
+	DeviSparklingLoveDespair2.DisplayName: Devi Sparkling Love Despair2
+	DeviSparklingLoveUltimate.DisplayName: Devi Sparkling Love Ultimate
+	DeviSpellEffect.DisplayName: Devi Spell Effect
+	DeviSpellSprite.DisplayName: Devi Spell Sprite
+	DeviSpellSprite2.DisplayName: Devi Spell Sprite2
+	DeviTrueHeart.DisplayName: Devi True Heart
+	DeviUltimateWeapon.DisplayName: Devi Ultimate Weapon
+	DeviUltimateWeaponLaser.DisplayName: Devi Ultimate Weapon Laser
+	KoishiHeart.DisplayName: Koishi Heart
+	LoveBlast.DisplayName: Love Blast
+	Portal.DisplayName: Portal
+	YukariSpell.DisplayName: Yukari Spell
+	YuyuBullet.DisplayName: Yuyu Bullet
+	ArchWyvernBody.DisplayName: Arch Wyvern Body
+	ArchWyvernBody2.DisplayName: Arch Wyvern Body2
+	ArchWyvernBody3.DisplayName: Arch Wyvern Body3
+	ArchWyvernHead.DisplayName: Arch Wyvern Head
+	ArchWyvernLegs.DisplayName: Arch Wyvern Legs
+	ArchWyvernTail.DisplayName: Arch Wyvern Tail
+	MythicalWyvernBody.DisplayName: Mythical Wyvern Body
+	MythicalWyvernBody2.DisplayName: Mythical Wyvern Body2
+	MythicalWyvernBody3.DisplayName: Mythical Wyvern Body3
+	MythicalWyvernHead.DisplayName: Mythical Wyvern Head
+	MythicalWyvernLegs.DisplayName: Mythical Wyvern Legs
+	MythicalWyvernTail.DisplayName: Mythical Wyvern Tail
+}
