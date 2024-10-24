@@ -1,251 +1,251 @@
 Configs: {
 	MusicConfig: {
-		DisplayName: Music Config
+		DisplayName: 音乐配置
 
 		Headers: {
 			Tracks: Tracks
-			Biomes: Biomes
-			Events: Events
-			Bosses: Bosses
+			Biomes: 群系
+			Events: 事件
+			Bosses: Boss
 		}
 
 		Lieflight: {
-			Label: Lifelight
+			Label: 缥缈游光
 			Tooltip: ""
 		}
 
 		SkeletronPrime: {
-			Label: Skeletron Prime
+			Label: 机械骷髅王
 			Tooltip: ""
 		}
 
 		MoonLord: {
-			Label: Moon Lord
+			Label: 月亮领主
 			Tooltip: ""
 		}
 
 		Betsy: {
-			Label: Betsy
+			Label: 双足翼龙
 			Tooltip: ""
 		}
 
 		ChampionOfShadow: {
-			Label: Champion of Shadow
+			Label: 暗影英灵
 			Tooltip: ""
 		}
 
 		Golem: {
-			Label: Golem
+			Label: 石巨人
 			Tooltip: ""
 		}
 
 		Town: {
 			Tooltip: ""
-			Label: Town
+			Label: 城镇
 		}
 
 		EmpressOfLight: {
-			Tooltip: Determines which theme the Empress of Light uses.
-			Label: Empress of Light
+			Tooltip: 决定光之女皇使用哪个曲子
+			Label: 光之女皇
 		}
 
 		WallOfFlesh: {
 			Tooltip: ""
-			Label: Wall of Flesh
+			Label: 血肉墙
 		}
 
 		Eridanus: {
-			Label: Eridanus
+			Label: 厄里达诺斯，宇宙英灵
 			Tooltip: ""
 		}
 
 		Abom: {
-			Label: Abominationn
-			Tooltip: Determines which theme Abominationn uses.
+			Label: 憎恶
+			Tooltip: 决定憎恶使用哪个曲子
 		}
 
 		Mutant: {
-			Label: Mutant
+			Label: 突变体
 			Tooltip: ""
 		}
 
 		EyeOfCthulhu: {
-			Label: Eye of Cthulhu
+			Label: 克苏鲁之眼
 			Tooltip: ""
 		}
 
 		BrainOfCthulhu: {
-			Label: Brain of Cthulhu
+			Label: 克苏鲁之脑
 			Tooltip: ""
 		}
 
 		MechBosses: {
-			Tooltip: Determines which theme the Mech Bosses use.
-			Label: Mech Bosses
+			Tooltip: 决定机械三王使用哪个曲子
+			Label: 机械三王
 		}
 
 		QueenBee: {
 			Tooltip: ""
-			Label: Queen Bee
+			Label: 蜂后
 		}
 
 		EaterOfWorlds: {
 			Tooltip: ""
-			Label: Eater of Worlds
+			Label: 世界吞噬者
 		}
 
 		Deviantt: {
 			Tooltip: ""
-			Label: Deviantt
+			Label: 戴薇安
 		}
 
 		Plantera: {
-			Label: Plantera
+			Label: 世纪之花
 			Tooltip: ""
 		}
 
 		Purity: {
-			Label: Forest
+			Label: 森林
 			Tooltip: ""
 		}
 
 		Jungle: {
-			Label: Jungle
+			Label: 丛林
 			Tooltip: ""
 		}
 
 		UndergroundJungle: {
-			Label: Underground Jungle
+			Label: 地下丛林
 			Tooltip: ""
 		}
 
 		Crimson: {
-			Label: Crimson
+			Label: 猩红
 			Tooltip: ""
 		}
 
 		Corruption: {
-			Label: Corruption
+			Label: 腐化
 			Tooltip: ""
 		}
 
 		Space: {
-			Label: Space
+			Label: 太空
 			Tooltip: ""
 		}
 
 		Desert: {
-			Label: Desert
+			Label: 沙漠
 			Tooltip: ""
 		}
 
 		Tundra: {
-			Label: Tundra
+			Label: 雪原
 			Tooltip: ""
 		}
 
 		Hallow: {
-			Label: Hallow
+			Label: 神圣
 			Tooltip: ""
 		}
 
 		Ocean: {
-			Label: Ocean
+			Label: 海洋
 			Tooltip: ""
 		}
 
 		Baron: {
-			Label: Baron
+			Label: 放逐遗爵
 			Tooltip: ""
 		}
 
 		Dungeon: {
 			Tooltip: ""
-			Label: Dungeon
+			Label: 地牢
 		}
 
 		Mushroom: {
 			Tooltip: ""
-			Label: Mushroom
+			Label: 发光蘑菇
 		}
 
 		UndergroundHallow: {
 			Tooltip: ""
-			Label: Underground Hallow
+			Label: 地下神圣
 		}
 
 		Underground: {
-			Label: Underground
+			Label: 地下
 			Tooltip: ""
 		}
 
 		PirateInvasion: {
 			Tooltip: ""
-			Label: Pirate Invasion
+			Label: 海盗入侵
 		}
 
 		LunarPillars: {
 			Tooltip: ""
-			Label: Lunar Pillars
+			Label: 月亮事件
 		}
 
 		DukeFishron: {
 			Tooltip: ""
-			Label: Duke Fishron
+			Label: 猪龙鱼公爵
 		}
 
 		UndergroundDesert: {
-			Label: Underground Desert
+			Label: 地下沙漠
 			Tooltip: ""
 		}
 
 		UndergroundCorruption: {
 			Tooltip: ""
-			Label: Underground Corruption
+			Label: 地下腐化
 		}
 
 		UndergroundCrimson: {
 			Tooltip: ""
-			Label: Underground Crimson
+			Label: 地下猩红
 		}
 
 		Forest: {
 			Tooltip: ""
-			Label: Forest
+			Label: 森林
 		}
 
 		UndergroundTundra: {
-			Label: Underground Tundra
+			Label: 地下雪原
 			Tooltip: ""
 		}
 
 		Underworld: {
-			Label: Underworld
+			Label: 地狱
 			Tooltip: ""
 		}
 
 		Rain: {
-			Label: Rain
+			Label: 雨
 			Tooltip: ""
 		}
 
 		KingSlime: {
-			Label: King Slime
+			Label: 史莱姆王
 			Tooltip: ""
 		}
 
 		Sandstorm: {
-			Label: Sandstorm
+			Label: 沙尘暴
 			Tooltip: ""
 		}
 
 		Blizzard: {
-			Label: Blizzard
+			Label: 暴风雪
 			Tooltip: ""
 		}
 
 		Temple: {
-			Label: Temple
+			Label: 神庙
 			Tooltip: ""
 		}
 	}

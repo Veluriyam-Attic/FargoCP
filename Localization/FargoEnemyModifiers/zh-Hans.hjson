@@ -315,7 +315,7 @@ Mods: {
 
 			Accelerating: {
 				DisplayName: 加速
-				Tooltip: 不断加速，速度可达到正常速度的4倍。如果它们击中你或者你用近战攻击击中它们，它们的速度会重置
+				Tooltip: 不断加速，速度可达到正常速度的4倍，如果它们击中你或者你用近战攻击击中它们，它们的速度会重置
 			}
 
 			Bloodthirsty: {
@@ -335,7 +335,7 @@ Mods: {
 
 			Fortifying: {
 				DisplayName: 防御光环
-				Tooltip: 防御力减少50%。获得一个光环，使其他敌人获得50%的伤害抗性
+				Tooltip: 防御力减少50%，获得一个光环，使其他敌人获得50%的伤害抗性
 			}
 
 			Hexproof: {
@@ -395,69 +395,69 @@ Mods: {
 
 			Veiled: {
 				DisplayName: 魔法防护
-				Tooltip: Gains 80% resistance to magic and summon damage
+				Tooltip: 获得80%的魔法和召唤伤害抗性
 			}
 
 			Chained: {
 				DisplayName: 被束缚
-				Tooltip: They spawn chained to you and cannot leave a radius around you
+				Tooltip: 它们被束缚在你周围并无法离开你周围的一定半径范围
 			}
 
 			Devouring: {
 				DisplayName: 吞噬
-				Tooltip: Devours any enemy it comes across with lesser or equal HP. When it does so, it heals itself and gains max HP and damage
+				Tooltip: 它会吞噬任何遇到的生命值较少或相等的敌人，并会治愈自己以及增加最大生命值和伤害
 			}
 
 			Hyper: {
 				DisplayName: 二倍速
-				Tooltip: Performs all actions twice as fast
+				Tooltip: 所有行动速度提高一倍
 			}
 
 			Imaginary: {
 				DisplayName: 透明
-				Tooltip: Transparent. Ceases to exist when contact is made in any way
+				Tooltip: 透明.在任何形式的接触后都会消失
 			}
 
 			Juggernaut: {
 				DisplayName: 泰坦
-				Tooltip: 60% increased size. 250% increased HP increased. 50% increased damage and defense.  Immune to knockback, but has Sluggish built in (performs actions half as fast). Drops 2x loot
+				Tooltip: 体型增加60%，生命值提升250%，伤害和防御增加50%，免疫击退效果，但内置迟缓效果（行动速度减半），掉落物品数量翻倍
 			}
 
 			Merchant: {
 				DisplayName: 商人
-				Tooltip: Replaces its usual AI with Town NPC AI. It will give you one random free item from the Travelling Merchant's current shop then vanish
+				Tooltip: 替换成城镇NPC的AI.它会随机给你一个旅行商人当前商店中的免费物品，然后消失
 				Interaction: 拿着这个，别告诉任何人，假装你从未见过我
 				AllIGot: 这就是我要给你的
 			}
 
 			Rainbow: {
 				DisplayName: 彩虹
-				Tooltip: It's rainbow, has 2x HP, and drops 10x more loot
+				Tooltip: 它是彩虹色的，生命值加倍，并且掉落的物品数量是原来的10倍
 			}
 
 			Showman: {
 				DisplayName: 表演家
-				Tooltip: On death explodes into smoke and birds
+				Tooltip: 死亡时会爆炸成烟雾和鸟群
 			}
 
 			Solidified: {
 				DisplayName: 凝固
-				Tooltip: Can no longer pass through tiles
+				Tooltip: 不能再穿过物块了
 			}
 
 			Undying: {
 				DisplayName: 硬撑
-				Tooltip: Hangs on with 5 HP for 5 seconds before dying
+				Tooltip: 在死亡前会以5点生命值坚持5秒钟
 			}
 
 			Warping: {
 				DisplayName: 扭曲
-				Tooltip: When they reach half HP, you switch places with them
+				Tooltip: 当它们的生命值降至一半时，你与它们交换位置
 			}
 
 			Worm: {
 				DisplayName: 蠕虫
-				Tooltip: Spawns with several body segments that lag behind it. Gains knockback immunity and 2x HP
+				Tooltip: 生成时带有多个身体节段，这些节段会在它身后.获得击退免疫和生命值加倍
 			}
 
 			WormBody: {
@@ -467,170 +467,170 @@ Mods: {
 
 			Swarming: {
 				DisplayName: 蜂拥而至
-				Tooltip: Spawns with several copies of itself when it spawns. 4x HP, 2x size
+				Tooltip: 生成时会伴随几个自身的复制体.生命值提高至4倍，体型增大至2倍.
 			}
 
 			Delirious: {
 				DisplayName: 精神错乱
-				Tooltip: Changes its AI periodically and sprays projectiles whenever it does
+				Tooltip: 它会定期改变其AI，并且在每次改变时喷洒投射物
 			}
 
 			Aquarian: {
 				DisplayName: 水瓶座
-				Tooltip: Occassionally duke dashes
+				Tooltip: 偶尔会进行冲刺
 			}
 
 			Nested: {
 				DisplayName: 分身
-				Tooltip: 200% HP, 200% size, 60% move speed, immune to knockback, spawns mini versions of itself every so often when hurt
+				Tooltip: 生命值提高至200%，体型增大至200%，移动速度降低至60%，免疫击退效果，受伤时偶尔会生成自身的小型版本
 			}
 
 			Royal: {
 				DisplayName: 贵族
-				Tooltip: 200% HP, 200% size, 60% move speed, immune to knockback, spawns mini versions of itself every so often when hurt
+				Tooltip: 生命值提高至200%，体型增大至200%，移动速度降低至60%，免疫击退效果，受伤时偶尔会生成自身的小型版本
 			}
 
 			Modifying: {
 				DisplayName: 多面手
-				Tooltip: Adds a new modifier every 10 seconds up to the max allowed
+				Tooltip: 每10秒增加一个新的修饰语，直到达到最大允许数量
 			}
 
 			Reflective: {
 				DisplayName: 反射
-				Tooltip: Reflects projectiles for 1.5 second every 15 seconds. Turns grey when doing so, you have 0.5 seconds to react
+				Tooltip: 每15秒反射投射物，持续1.5秒.在这样做时会变成灰色，你有0.5秒的时间做出反应
 			}
 
 			Fluctuating: {
 				DisplayName: 大小变
-				Tooltip: 2x HP, Grows bigger and smaller over time. Defense and damage changes with size. Max 2.5x damage and defense. Min 0.25 damage and defense
+				Tooltip: 生命值加倍，体型随时间变大变小.防御力和伤害随体型变化.最大伤害和防御力提高至2.5倍，最小伤害和防御力降至0.25倍
 			}
 
 			Shiny: {
 				DisplayName: 发光
-				Tooltip: Glows in the dark and drops torches
+				Tooltip: 在黑暗中发光，并且会掉落火把
 			}
 
 			Skeletal: {
 				DisplayName: 骷髅臂
-				Tooltip: Spawns with 2 skeletron hands
+				Tooltip: 生成时带有2个骷髅王手臂
 			}
 
 			Volatile: {
 				DisplayName: 自爆
-				Tooltip: Explodes on death
+				Tooltip: 死亡时爆炸
 			}
 
 			Disguised: {
 				DisplayName: 伪装者
-				Tooltip: Changes its sprite to a blue slime
+				Tooltip: 将它的贴图变为蓝色史莱姆
 			}
 
 			Stinky: {
 				DisplayName: 恶臭
-				Tooltip: It's stinky and applies stinky on hit. Deals 25% more damage
+				Tooltip: 它很臭，并且在击中目标时施加臭气效果.造成的伤害增加25%
 			}
 
 			Lovestruck: {
 				DisplayName: 恋爱脑
-				Tooltip: Deals 50% less damage and spawns bursts of hearts on hit and on death. Drops 2x loot
+				Tooltip: 造成的伤害减少50%，并且在击中时和死亡时会爆出心形能量，掉落的物品数量是原来的两倍
 			}
 
 			Poor: {
 				DisplayName: 差生
-				Tooltip: Drops no loot, moves 25% slower and has 25% less HP
+				Tooltip: 不掉落物品，移动速度降低25%，生命值减少25%
 			}
 
 			Pink: {
 				DisplayName: 粉红
-				Tooltip: Colored Pink
+				Tooltip: 粉红
 			}
 
 			Frenzied: {
 				DisplayName: 疯狂
-				Tooltip: Gains increased damage and speed as HP drops up to double damage and double speed. Turns red past 50% HP
+				Tooltip: 随着生命值的降低，它的伤害和速度逐渐增加，最高可达双倍伤害和双倍速度.当生命值降至50%以下时，它会变成红色
 			}
 
 			Shimmering: {
 				DisplayName: 闪光
-				Tooltip: Phases in and out of visibility, moves 25% faster, drops 2x loot
+				Tooltip: 在可见与不可见之间转换，移动速度提高25%，死亡时掉落的物品数量是原来的两倍
 			}
 
 			Big: {
 				DisplayName: 大型
-				Tooltip: 25% increased size and HP, 20% increased damage, 10% reduced speed
+				Tooltip: 体型和生命值增加25%，伤害提高20%，速度降低10%
 			}
 
 			Small: {
 				DisplayName: 小型
-				Tooltip: 25% reduced size, damage and HP. 20% increased speed
+				Tooltip: 体型、伤害和生命值减少25%，速度提高20%
 			}
 
 			Scary: {
 				DisplayName: 可怕
-				Tooltip: Has an aura of confusion
+				Tooltip: 拥有混乱光环
 			}
 
 			Celebratory: {
 				DisplayName: 庆祝
-				Tooltip: Spawns confetti occasionally. Explodes into fireworks on death
+				Tooltip: 偶尔会生成彩纸.死亡时会爆炸成烟花
 			}
 
 			Sleepy: {
 				DisplayName: 瞌睡虫
-				Tooltip: After not taking damage for 10 seconds, falls asleep. Getting hit while asleep deals bonus damage and wakes them
+				Tooltip: 如果在10秒内没有受到伤害，就会进入睡眠状态.在睡眠状态下被击中会受到额外伤害并唤醒它们
 			}
 
 			Sticky: {
 				DisplayName: 蜘蛛侠
-				Tooltip: Leaves a trail of cobwebs
+				Tooltip: 留下蛛网的痕迹
 			}
 
 			Medic: {
 				DisplayName: 治疗师
-				Tooltip: Heals all other enemies in a radius. Healing value is equilavent to Regenerating
+				Tooltip: 在一定半径内为所有其他敌人治疗.治疗值等同于再生效果
 			}
 
 			Sorcerous: {
 				DisplayName: 术士
-				Tooltip: Occasionally shoots Chaos Balls towards the player (only post goblins)
+				Tooltip: 偶尔会向玩家发射混沌球（仅在哥布林之后）
 			}
 
 			Creepy: {
 				DisplayName: 毛骨悚然
-				Tooltip: Spawns with 10 creepers
+				Tooltip: 生成时伴随10个飞眼怪仆从
 			}
 
 			Shy: {
 				DisplayName: 害羞
-				Tooltip: Stops moving and takes much less damage while looking at them
+				Tooltip: 在盯着它们看时停止移动，并受到的伤害大幅减少
 			}
 
 			Polite: {
 				DisplayName: 礼貌
-				Tooltip: Greets you when first seeing you and when dying
+				Tooltip: 首次看到你时会向你打招呼，死亡时也会如此
 			}
 
 			Fishy: {
 				DisplayName: 钓鱼佬
-				Tooltip: Drops the quest fish and is wet
+				Tooltip: 处于湿润状态时掉落任务鱼
 			}
 
 			Smoky: {
 				DisplayName: 烟雾
-				Tooltip: Creates smoke
+				Tooltip: 产生烟雾效果
 			}
 
 			Dramatic: {
 				DisplayName: 戏剧性
-				Tooltip: Has it's own spawning and defeated messages. Only applies to non bosses
+				Tooltip: 拥有自己独特的生成和击败消息.仅适用于非Boss敌人
 			}
 
 			Buzzing: {
 				DisplayName: 嗡嗡嗡
-				Tooltip: Creates bees when taking damage. Only appears post EoC
+				Tooltip: 在受到攻击时会产生蜜蜂.只在击败克苏鲁之眼后出现
 			}
 		}
 
-		Projectiles.Explosion.DisplayName: Explosion
+		Projectiles.Explosion.DisplayName: 爆炸
 	}
 }

@@ -1,25 +1,25 @@
 Configs: {
 	FishAnythingConfig: {
-		// DisplayName: Fish Anything Config
+		DisplayName: Fargo钓上一切配置
 
 		fishPercent: {
-			// Label: % Chance to fish random loot
-			// Tooltip: ""
+			Label: %几率随机钓取物品
+			Tooltip: ""
 		}
 
 		rarityCap: {
-			// Label: Rarity Cap
-			// Tooltip: ""
+			Label: 稀有度上限
+			Tooltip: ""
 		}
 
 		noBlocks: {
-			// Label: No Blocks/Furniture
-			// Tooltip: ""
+			Label: 无方块/家具
+			Tooltip: ""
 		}
 
 		noVanity: {
-			// Label: No Vanity
-			// Tooltip: ""
+			Label: 无装饰性物品
+			Tooltip: ""
 		}
 	}
 }

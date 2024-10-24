@@ -2,105 +2,58 @@ Mods: {
 	FargowiltasSoulsDLC: {
 		Items: {
 			NekomiEnchantment: {
-				// DisplayName: Nekomi Enchantment
-				// Tooltip: ""
+				DisplayName: 猫猫睡衣魔石
+				Tooltip: ""
 			}
 
 			GaiaEnchantment: {
-				// DisplayName: Gaia Enchantment
-				// Tooltip: ""
+				DisplayName: 盖亚魔石
+				Tooltip: ""
 			}
 
 			EridanusEnchantment: {
-				// DisplayName: Eridanus Enchantment
-				// Tooltip: ""
+				DisplayName: 波江魔石
+				Tooltip: ""
 			}
 
 			StyxEnchantment: {
-				// DisplayName: Styx Enchantment
-				// Tooltip: ""
+				DisplayName: 冥河魔石
+				Tooltip: ""
 			}
 
 			TrueMutantEnchantment: {
-				// DisplayName: True Mutant Enchantment
-				// Tooltip: ""
+				DisplayName: 真·突变魔石
+				Tooltip: ""
 			}
 
 			EternityForce: {
-				// DisplayName: Force of Eternity
-				/* Tooltip:
+				DisplayName: 永恒之力
+				Tooltip:
 					'''
 					[i:FargowiltasSoulsDLC/NekomiEnchantment] [i:FargowiltasSoulsDLC/GaiaEnchantment] [i:FargowiltasSoulsDLC/EridanusEnchantment] [i:FargowiltasSoulsDLC/StyxEnchantment] [i:FargowiltasSoulsDLC/TrueMutantEnchantment]
-					Grants all effects of material Enchantments
-					'0.00001% of the Lumberjack's power'
-					''' */
+					获得上述所有魔石的能力
+					'0.00001%伐木工的力量'
+					'''
 			}
 
 			PandorasBox: {
-				// DisplayName: Pandora's Box
-				/* Tooltip:
+				DisplayName: 潘多拉之盒
+				Tooltip:
 					'''
-					Summons something at random
-					Much friendlier options during the day
-					''' */
+					随机召唤某个东西
+					在白天使用或许会更好......
+					'''
 			}
 
 			PandoraTwo: {
-				// DisplayName: Pandora's Tome
-				// Tooltip: A true mess of projectiles
+				DisplayName: 潘多拉秘典
+				Tooltip: 真正混乱的弹幕！
 			}
 
 			VoidSoul: {
-				// DisplayName: Soul of the Void
-				// Tooltip: Summons SOMETHING
+				DisplayName: 虚无之魂
+				Tooltip: 召唤一些东西
 			}
 		}
-	}
-}
-
-Items: {
-	EridanusEnchantment: {
-		// DisplayName: Eridanus Enchantment
-		// Tooltip: ""
-	}
-
-	EternityForce: {
-		// DisplayName: Eternity Force
-		// Tooltip: ""
-	}
-
-	GaiaEnchantment: {
-		// DisplayName: Gaia Enchantment
-		// Tooltip: ""
-	}
-
-	NekomiEnchantment: {
-		// DisplayName: Nekomi Enchantment
-		// Tooltip: ""
-	}
-
-	StyxEnchantment: {
-		// DisplayName: Styx Enchantment
-		// Tooltip: ""
-	}
-
-	TrueMutantEnchantment: {
-		// DisplayName: True Mutant Enchantment
-		// Tooltip: ""
-	}
-
-	PandorasBox: {
-		// DisplayName: Pandoras Box
-		// Tooltip: ""
-	}
-
-	PandoraTwo: {
-		// DisplayName: Pandora Two
-		// Tooltip: ""
-	}
-
-	VoidSoul: {
-		// DisplayName: Void Soul
-		// Tooltip: ""
 	}
 }
