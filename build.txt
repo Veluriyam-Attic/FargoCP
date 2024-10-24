@@ -1,3 +1,4 @@
 displayName = 法狗附属汉化合集
 author = 虞悖
 version = 0.1
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, lib\*, .git\*, *.sln*
