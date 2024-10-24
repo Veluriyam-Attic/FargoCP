@@ -1,4 +1,6 @@
 displayName = 法狗附属汉化合集
 author = 虞悖
 version = 0.1
+weakReferences = DirtCraft,FargoAltMusicMod,FargoMoreSoulsCompat,FargoRarities,FargosExpertModifs,fargosoulstweaks,RainbowMod,PaperMarioBadgeMod,OmniWield,HyperMode,GodMode,FishAnything,YharimMutant,BannerBoost,Satanist,FargoEnemyModifiers,MasomodeEX,TooManySlots,LootBonus,CraftingTreeGenerator,StarHell,FargoSeeds
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, lib\*, .git\*, *.sln*
+translationMod = true

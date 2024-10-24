@@ -62,6 +62,16 @@ Configs: {
 			Label: Default Dashes
 			Tooltip: Whether default dashes are enabled or not.
 		}
+
+		MaxLifeHostile: {
+			Label: Max Life Hostile
+			Tooltip: ""
+		}
+
+		MinLifeFriendly: {
+			Label: Min Life Friendly
+			Tooltip: ""
+		}
 	}
 
 	SatanistClientConfig: {
@@ -127,6 +137,7 @@ NPCs: {
 		}
 
 		Buttons.Shop: Shop
+		Census.SpawnCondition: Conditions unknown
 	}
 
 	CultistIllusion.DisplayName: Cultist Illusion
@@ -184,6 +195,8 @@ NPCs: {
 			LikeNPC_Princess: I like {NPCName}.
 			Princess_LovesNPC: I like {NPCName}.
 		}
+
+		Census.SpawnCondition: Conditions unknown
 	}
 
 	BrainedCreeper.DisplayName: Brained Creeper
@@ -387,4 +400,6 @@ Projectiles: {
 	MythicalWyvernHead.DisplayName: Mythical Wyvern Head
 	MythicalWyvernLegs.DisplayName: Mythical Wyvern Legs
 	MythicalWyvernTail.DisplayName: Mythical Wyvern Tail
+	MoonOfDoom.DisplayName: Moon Of Doom
+	AppleOfCommunism.DisplayName: Apple Of Communism
 }

@@ -1,0 +1,43 @@
+Buffs: {
+	MutantJudgement: {
+		// DisplayName: Mutant Judgement
+		// Description: Mods.MasomodeEX.Buffs.MutantJudgement.Description
+	}
+}
+
+Items: {
+	MutantSummon: {
+		// DisplayName: Mutant Summon
+		// Tooltip: ""
+	}
+}
+
+// Death.Tree: "{0} was pricked by a Tree."
+
+Messages: {
+	// MeteoriteVeinMiner: Don't even try to bring that vein-mining cheese in here!
+	// MLDungeon: A celestial being is preventing you from doing that!
+	// BrainHellstone: You need a brain to be able to that.
+	// WormHellstone: You need to know how to eat the hellstone before doing that.
+	// SkullHellstone: Your self conscious tells you to help an old man before doing that.
+	// ForcedBM: Congrats! You're now forced to deal with the Blood Moon for the rest of the night!
+	// ForcedSE: Congrats! You're now forced to deal with the Solar Eclipse for the rest of the night!
+	// FailedMLHits: Mwahahahahahaha! You survived nothing!!
+	// JoinWorld: Masochist mode Ex is now active!
+	// JoinWorld1: there is no way to turn it off without turning the mod off.
+	// JoinWorld2: Good luck!
+}
+
+NPCs: {
+	// CultistIllusion.DisplayName: Cultist Illusion
+	// PhantomPortal.DisplayName: Phantom Portal
+	// PurityPortal.DisplayName: Purity Portal
+}
+
+Projectiles: {
+	// Arena.DisplayName: Arena
+	// EyePhantom.DisplayName: Eye Phantom
+	// MoonLordText.DisplayName: Moon Lord Text
+	// MutantText.DisplayName: Mutant Text
+	// PhantasmalDeathrayIce.DisplayName: Phantasmal Deathray Ice
+}

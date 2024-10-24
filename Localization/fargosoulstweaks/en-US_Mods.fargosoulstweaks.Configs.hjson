@@ -1,0 +1,186 @@
+FargosSoulsUtilitiesConfig: {
+	DisplayName: Config
+
+	Headers: {
+		Recipes: "[i:36] Recipes (reload required)"
+		Buffs: "[i:298] Buffs / Nerfs (reload required)"
+		Debuffs: "[i:66] Disabling Debuffs (reload required)"
+		AccessorySlots: "[i:75] Accessory Slots (reload not required)"
+		EternityDrops: "[i:FargowiltasSouls/EternalEnergy] Eternity Boss Drops (reload required)"
+	}
+
+	DungeonGuardianRecipe: {
+		Label: "[i:FargowiltasSouls/SinisterIcon]  Sinister Icon"
+		Tooltip: Turns on/off recipe for Sinister Icon.
+	}
+
+	MagicalBulbRecipe: {
+		Label: "[i:FargowiltasSouls/MagicalBulb]  Magical Bulb"
+		Tooltip: Turns on/off recipe for Magical Bulb, useful against Plantera.
+	}
+
+	SqueakyToyRecipe: {
+		Label: "[i:FargowiltasSouls/SqueakyToy]  Squeaky Toy"
+		Tooltip: Turns on/off recipe for Squeaky Toy, crafted only at night.
+	}
+
+	ParadoxRecipe: {
+		Label: "[i:FargowiltasSouls/ParadoxWolfSoul]  Paradox Wolf Soul"
+		Tooltip: Turns on/off recipe for Paradox Wolf Soul, that allows to dash.
+	}
+
+	TimRecipe: {
+		Label: "[i:FargowiltasSouls/TimsConcoction]  Tim's Concoction"
+		Tooltip: Turns on/off recipe for Tim's Concoction, useful when low on potions.
+	}
+
+	MutantPactRecipe: {
+		Label: "[i:FargowiltasSouls/MutantsPact]  Mutant's Pact"
+		Tooltip: Turns on/off recipe for Mutant's Pact, that gives 1+ accessory slot.
+	}
+
+	EasyForceCombining: {
+		Label: "[i:3549]  Pre-HM Forces"
+		Tooltip: Turns on/off recipes for all forces, they are the same as the normal ones, but without Ancient Manipulator requirement.
+	}
+
+	GolemPartsNerf: {
+		Label: "[i:FargowiltasSouls/LihzahrdTreasureBox]  Nerf Golem Healing"
+		Tooltip: Nerf Golem healing that usually bugs out when using Eternity Mode and Calamity Difficulty Modes.
+	}
+
+	SummonerClassUnnerf: {
+		Label: "[i:FargowiltasSouls/StaffOfUnleashedOcean]  Summoner's Melee Speed Bonus"
+		Tooltip: Adds melee speed bonus to summoner's class.
+	}
+
+	MinerEnchantBuff: {
+		Label: "[i:298]  Buff Shine of Miner Enchantment"
+		Tooltip: Buffs shine effect from Miner Enchantment.
+	}
+
+	AnnoyingBuff1: {
+		Label: "[i:FargowiltasSouls/TopHatSquirrelCaught]  Guilty"
+		Tooltip: Turn off -25% damage from accidentally (or not) attacking critters.
+	}
+
+	AnnoyingBuff2: {
+		Label: "[i:FargowiltasSouls/GuttedHeart]  Lovestruck"
+		Tooltip: Nymphs can finally say 'ouch'.
+	}
+
+	AnnoyingBuff3: {
+		Label: "[i:FargowiltasSouls/DarkenedHeart]  Purified"
+		Tooltip: Not my buffs!
+	}
+
+	AnnoyingBuff4: {
+		Label: "[i:963]  Nullification Curse"
+		Tooltip: No problem with dodging anymore!
+	}
+
+	AnnoyingBuff5: {
+		Label: "[i:FargowiltasSouls/PureHeart]  Suffocation"
+		Tooltip: No more running out of breath.
+	}
+
+	AnnoyingBuff6: {
+		Label: "[i:FargowiltasSouls/ConcentratedRainbowMatter]  Flames of the Universe"
+		Tooltip: Heavens do not judge you anymore.
+	}
+
+	ExtraAccessorySlot: {
+		Label: "[i:53] Accessory Slots Amount"
+		Tooltip: How many accessory slots should be added? (max: 6)
+	}
+
+	SlotVanity: {
+		Label: "[i:4744]  Enable Vanity Slots"
+		Tooltip: Turning this on will show vanity slots next to existing accessory slots.
+	}
+
+	SlotDye: {
+		Label: "[i:3024]  Enable Dye Slots"
+		Tooltip: Turning this on will show dye slots next to existing accessory slots.
+	}
+
+	KingSlimeEMDrop: {
+		Label: "[i:FargowiltasSouls/SlimyShield]  King Slime"
+		Tooltip: ""
+	}
+
+	EoCEMDrop: {
+		Label: "[i:FargowiltasSouls/AgitatingLens]  Eye of Cthulhu"
+		Tooltip: ""
+	}
+
+	EoWEMDrop: {
+		Label: "[i:FargowiltasSouls/DarkenedHeart]  Eater of Worlds"
+		Tooltip: ""
+	}
+
+	BoCEMDrop: {
+		Label: "[i:FargowiltasSouls/GuttedHeart]  Brain of Cthulhu"
+		Tooltip: ""
+	}
+
+	QueenBeeEMDrop: {
+		Label: "[i:FargowiltasSouls/QueenStinger]  Queen Bee"
+		Tooltip: ""
+	}
+
+	SkeletronEMDrop: {
+		Label: "[i:FargowiltasSouls/NecromanticBrew]  Skeletron"
+		Tooltip: ""
+	}
+
+	DeerclopsEMDrop: {
+		Label: "[i:FargowiltasSouls/Deerclawps]  Deerclops"
+		Tooltip: ""
+	}
+
+	WoFEMDrop: {
+		Label: "[i:FargowiltasSouls/PungentEyeball]  Wall of Flesh"
+		Tooltip: ""
+	}
+
+	TwinsEMDrop: {
+		Label: "[i:FargowiltasSouls/FusedLens]  The Twins"
+		Tooltip: ""
+	}
+
+	DestroyerEMDrop: {
+		Label: "[i:FargowiltasSouls/GroundStick]  The Destroyer"
+		Tooltip: ""
+	}
+
+	SkeletronPrimeEMDrop: {
+		Label: "[i:FargowiltasSouls/ReinforcedPlating]  Skeletron Prime"
+		Tooltip: ""
+	}
+
+	PlanteraEMDrop: {
+		Label: "[i:FargowiltasSouls/MagicalBulb]  Plantera"
+		Tooltip: ""
+	}
+
+	GolemEMDrop: {
+		Label: "[i:FargowiltasSouls/LihzahrdTreasureBox]  Golem"
+		Tooltip: ""
+	}
+
+	DukeFishronEMDrop: {
+		Label: "[i:FargowiltasSouls/MutantAntibodies]  Duke Fishron"
+		Tooltip: ""
+	}
+
+	LunaticCultistEMDrop: {
+		Label: "[i:FargowiltasSouls/CelestialRune]  Lunatic Cultist"
+		Tooltip: ""
+	}
+
+	MoonLordEMDrop: {
+		Label: "[i:FargowiltasSouls/GalacticGlobe]  Moon Lord"
+		Tooltip: ""
+	}
+}

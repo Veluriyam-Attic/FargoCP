@@ -1,0 +1,37 @@
+Mods: {
+	FargosExpertModifs: {
+		Config: {
+			Header: {
+				// M: Main Settings
+				// O: Optional
+				// MC: Mod Compatibility Settings
+			}
+		}
+
+		Configs: {
+			MainConfig: {
+				// DisplayName: Main Config
+
+				EnableBossHealthChange: {
+					// Label: Enable Boss Health Change
+					// Tooltip: Changes the health of all bosses to Master difficulty.
+				}
+
+				EnableBossRelicDrops: {
+					// Label: Enable Boss Relic Drops
+					// Tooltip: Enables all Bosses to drop their Relics, regardless of the difficulty.
+				}
+
+				EnableBossSummonsChange: {
+					// Label: Enable Boss Summons Change
+					// Tooltip: Makes Boss Summons (From Fargos) be non-consumable.
+				}
+
+				SetCanBreakPlayerDefense: {
+					// Label: Enable Calamity Defense Damage
+					// Tooltip: Enables defense damage from the Calamity Mod to work with Thorium.  !!! Note: Calamity Mod MUST be active for this to work. !!!
+				}
+			}
+		}
+	}
+}

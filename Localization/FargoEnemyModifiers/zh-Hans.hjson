@@ -1,0 +1,636 @@
+Mods: {
+	FargoEnemyModifiers: {
+		NPCs: {
+			// BabySpider.DisplayName: Baby Spider
+			// SkeleArm.DisplayName: Skele Arm
+			// Creeper.DisplayName: Creeper
+		}
+
+		Configs: {
+			EnemyModifiersServerConfig: {
+				// DisplayName: Server Config
+				// ModifierConfiguration: Modifier Configuration
+				// Blacklists: Blacklists
+
+				ModifierAnnouncements: {
+					// Label: Modifier Announcements
+					// Tooltip: An enemies modifier will appear above its head for a while
+				}
+
+				BossModifiers: {
+					// Label: Bosses can get Modifiers
+					// Tooltip: ""
+				}
+
+				ChanceForModifier: {
+					// Label: Modifier Chance (%)
+					// Tooltip: ""
+				}
+
+				ForceModifier: {
+					// Label: Force A Modifier
+					// Tooltip: ""
+				}
+
+				ModifierEnum: {
+					// Label: Modifier to Force
+					// Tooltip: ""
+				}
+
+				NPCBlacklist: {
+					// Label: NPC Blacklist
+					// Tooltip: NPCs here can never receive modifiers
+				}
+
+				ModifierBlacklist: {
+					// Label: Modifier Blacklist
+					// Tooltip: These modifiers will not appear
+					// Enabled.Tooltip: Hi
+				}
+
+				ModifierAmount: {
+					// Label: Maximum Amount of Possible Modifiers
+					// Tooltip: ""
+				}
+
+				ChanceForExtraModifier: {
+					// Label: Extra Modifier Chance (%)
+					// Tooltip: ""
+				}
+
+				AnnouncementsForever: {
+					// Label: Announcements Last Forever
+					// Tooltip: The Modifier name will always appear above the enemy
+				}
+
+				Headers: {
+					// ModifierConfiguration: Modifier Configuration Header
+					// Blacklists: Blacklists Header
+				}
+
+				ModifierToggles: {
+					// Label: Modifier Toggles
+					// Tooltip: ""
+				}
+			}
+
+			ConfigModifierID: {
+				// Tooltip: ""
+				// Armored.Label: Armored
+				// Impenetrable.Label: Impenetrable
+				// Light.Label: Light
+				// Menacing.Label: Menacing
+				// Rampaging.Label: Rampaging
+				// Regenerating.Label: Regenerating
+				// Slow.Label: Slow
+				// Sluggish.Label: Sluggish
+				// Splitting.Label: Splitting
+				// Swift.Label: Swift
+				// Unrelenting.Label: Unrelenting
+				// Wealthy.Label: Wealthy
+				// Accelerating.Label: Accelerating
+				// Bloodthirsty.Label: Bloodthirsty
+				// Bulletproof.Label: Bulletproof
+				// Fortifying.Label: Fortifying
+				// Hexproof.Label: Hexproof
+				// Huge.Label: Huge
+				// Infested.Label: Infested
+				// Miniature.Label: Miniature
+				// Possessed.Label: Possessed
+				// Rallying.Label: Rallying
+				// Shielded.Label: Shielded
+				// Stealthy.Label: Stealthy
+				// Veiled.Label: Veiled
+				// Chained.Label: Chained
+				// Devouring.Label: Devouring
+				// Hyper.Label: Hyper
+				// Juggernaut.Label: Juggernaut
+				// Merchant.Label: Merchant
+				// Rainbow.Label: Rainbow
+				// Warping.Label: Warping
+				// Worm.Label: Worm
+				// Delerious.Label: Delerious
+				// Duke.Label: Duke
+				// Healthy.Label: Healthy
+				// Flaming.Label: Flaming
+				// Medic.Label: Medic
+				// Metallic.Label: Metallic
+				// Pyro.Label: Pyro
+				// Vaccinated.Label: Vaccinated
+				// Vampiric.Label: Vampiric
+				// Solidifed.Label: Solidifed
+				// Undying.Label: Undying
+				// Imaginary.Label: Imaginary
+				// Sticky.Label: Sticky
+				// Unstable.Label: Unstable
+				// Nested.Label: Nested
+				// Royal.Label: Royal
+				// Showman.Label: Showman
+				// Red.Label: Red
+				// Lethal.Label: Lethal
+				// Blue.Label: Blue
+				// Green.Label: Green
+				// Orange.Label: Orange
+				// Purple.Label: Purple
+				// Yellow.Label: Yellow
+				// Swarming.Label: Swarming
+				// Solidified.Label: Solidified
+				// Modifying.Label: Modifying
+				// Aquarian.Label: Aquarian
+				// Reflective.Label: Reflective
+				// Sentry.Label: Sentry
+				// Fluctuating.Label: Fluctuating
+				// Shiny.Label: Shiny
+				// Skeletal.Label: Skeletal
+				// Volatile.Label: Volatile
+				// Disguised.Label: Disguised
+				// Stinky.Label: Stinky
+				// Lovestruck.Label: Lovestruck
+				// Poor.Label: Poor
+				// Pink.Label: Pink
+				// Frenzied.Label: Frenzied
+				// Shimmering.Label: Shimmering
+				// Big.Label: Big
+				// Small.Label: Small
+				// Scary.Label: Scary
+				// Celebratory.Label: Celebratory
+				// Sleepy.Label: Sleepy
+				// Sorcerous.Label: Sorcerous
+				// Creepy.Label: Creepy
+				// Shy.Label: Shy
+				// Polite.Label: Polite
+				// Fishy.Label: Fishy
+				// Smoky.Label: Smoky
+				// Dramatic.Label: Dramatic
+				// Buzzing.Label: Buzzing
+				// Monumental.Label: Monumental
+			}
+
+			ModifierToggle: {
+				// Tooltip: ""
+
+				Enabled: {
+					// Label: Enabled
+					// Tooltip: Whether or not this modifier will appear
+				}
+
+				// Headers.FirstHeader: First Header Header
+
+				Name: {
+					// Label: Name
+					// Tooltip: ""
+				}
+
+				enumVal: {
+					// Label: enum Val
+					// Tooltip: ""
+				}
+			}
+
+			EnemyModifiersClientConfig: {
+				// DisplayName: Client Config
+				// Headers.Announcements: Modifier Announcements
+
+				announcementsEnabled: {
+					// Label: Announcements enabled
+					// Tooltip: Mobs will show what modifiers they have above their head
+				}
+
+				announcementsForever: {
+					// Label: Announcements Forever
+					// Tooltip: The modifier names will be shown until the mob dies
+				}
+
+				announcementsDuration: {
+					// Label: Announcements Duration
+					// Tooltip: The modifiers will be shown for this many seconds
+				}
+			}
+
+			ModifierPicker: {
+				// Tooltip: ""
+
+				ModifierEnum: {
+					// Label: Modifier Enum
+					// Tooltip: ""
+				}
+			}
+		}
+
+		Modifiers: {
+			Armored: {
+				// DisplayName: Armored
+				// Tooltip: Defense is increased by 50%
+			}
+
+			Blue: {
+				// DisplayName: Blue
+				// Tooltip: Blue
+			}
+
+			Green: {
+				// DisplayName: Green
+				// Tooltip: Green
+			}
+
+			Healthy: {
+				// DisplayName: Healthy
+				// Tooltip: HP is increased by 50%
+			}
+
+			Impenetrable: {
+				// DisplayName: Impenetrable
+				// Tooltip: Piercing projectiles are destroyed on hit
+			}
+
+			Light: {
+				// DisplayName: Light
+				// Tooltip: Takes increased knockback and has reduced gravity
+			}
+
+			Menacing: {
+				// DisplayName: Menacing
+				// Tooltip: Damage is increased by 50%
+			}
+
+			Orange: {
+				// DisplayName: Orange
+				// Tooltip: Orange
+			}
+
+			Purple: {
+				// DisplayName: Purple
+				// Tooltip: Purple
+			}
+
+			Rampaging: {
+				// DisplayName: Rampaging
+				// Tooltip: Deals extremely high knockback to you
+			}
+
+			Red: {
+				// DisplayName: Red
+				// Tooltip: Red
+			}
+
+			Regenerating: {
+				// DisplayName: Regenerating
+				// Tooltip: Regenerates 2% HP every second
+			}
+
+			Slow: {
+				// DisplayName: Slow
+				// Tooltip: Speed is decreased by 50%
+			}
+
+			Sluggish: {
+				// DisplayName: Sluggish
+				// Tooltip: Performs all actions half as fast
+			}
+
+			Splitting: {
+				// DisplayName: Splitting
+				// Tooltip: Spawns 2-3 smaller versions of itself with reduced stats on death
+			}
+
+			Swift: {
+				// DisplayName: Swift
+				// Tooltip: Speed is increased by 50%
+			}
+
+			Unrelenting: {
+				// DisplayName: Unrelenting
+				// Tooltip: Gains knockback immunity
+			}
+
+			Wealthy: {
+				// DisplayName: Wealthy
+				// Tooltip: Drops 5x more coins
+			}
+
+			Yellow: {
+				// DisplayName: Yellow
+				// Tooltip: Yellow
+			}
+
+			Accelerating: {
+				// DisplayName: Accelerating
+				// Tooltip: Constantly gains speed up to 4x normal speed. If they hit you or you hit them with a melee attack, their speed resets
+			}
+
+			Bloodthirsty: {
+				// DisplayName: Bloodthirsty
+				// Tooltip: Gains 25% damage every time they hit you
+			}
+
+			Bulletproof: {
+				// DisplayName: Bulletproof
+				// Tooltip: Gains 80% resistance to ranged damage
+			}
+
+			Flaming: {
+				// DisplayName: Flaming
+				// Tooltip: Spawns with a permanent On Fire debuff, leaves a trail of damaging flames, 50% increased speed
+			}
+
+			Fortifying: {
+				// DisplayName: Fortifying
+				// Tooltip: Defense decreased by 50%. Gains an aura that gives other enemies 50% damage resistance
+			}
+
+			Hexproof: {
+				// DisplayName: Hex-proof
+				// Tooltip: Damage over time does not work on them
+			}
+
+			Huge: {
+				// DisplayName: Huge
+				// Tooltip: Size and damage increased by 40%, HP increased by 50%, speed decreased by 25%
+			}
+
+			Infested: {
+				// DisplayName: Infested
+				// Tooltip: Periodically spawns Baby Spiders
+			}
+
+			Metallic: {
+				// DisplayName: Metallic
+				// Tooltip: Has increased defense, takes less knockback, and drops ore
+			}
+
+			Miniature: {
+				// DisplayName: Miniature
+				// Tooltip: Size and HP decreased by 50%, damage reduced by 25%, speed increased by 50%
+			}
+
+			Possessed: {
+				// DisplayName: Possessed
+				// Tooltip: Replaces its normal AI with Ghost AI
+			}
+
+			Rallying: {
+				// DisplayName: Rallying
+				// Tooltip: Gains an aura that buffs other enemies: +25% damage and +25% speed
+			}
+
+			Shielded: {
+				// DisplayName: Shielded
+				// Tooltip: Gains 80% resistance to melee damage
+			}
+
+			Stealthy: {
+				// DisplayName: Stealthy
+				// Tooltip: Slowly turns nearly invisible, becomes fully visible when hit
+			}
+
+			Vaccinated: {
+				// DisplayName: Vaccinated
+				// Tooltip: Immune to all debuffs
+			}
+
+			Vampiric: {
+				// DisplayName: Vampiric
+				// Tooltip: Heals some HP when they deal damage
+			}
+
+			Veiled: {
+				// DisplayName: Veiled
+				// Tooltip: Gains 80% resistance to magic and summon damage
+			}
+
+			Chained: {
+				// DisplayName: Chained
+				// Tooltip: They spawn chained to you and cannot leave a radius around you
+			}
+
+			Devouring: {
+				// DisplayName: Devouring
+				// Tooltip: Devours any enemy it comes across with lesser or equal HP. When it does so, it heals itself and gains max HP and damage
+			}
+
+			Hyper: {
+				// DisplayName: Hyper
+				// Tooltip: Performs all actions twice as fast
+			}
+
+			Imaginary: {
+				// DisplayName: Imaginary
+				// Tooltip: Transparent. Ceases to exist when contact is made in any way
+			}
+
+			Juggernaut: {
+				// DisplayName: Juggernaut
+				// Tooltip: 60% increased size. 250% increased HP increased. 50% increased damage and defense.  Immune to knockback, but has Sluggish built in (performs actions half as fast). Drops 2x loot
+			}
+
+			Merchant: {
+				// DisplayName: Merchant
+				// Tooltip: Replaces its usual AI with Town NPC AI. It will give you one random free item from the Travelling Merchant's current shop then vanish
+				// Interaction: Don't tell anyone, but take this. Pretend you never saw me..
+				// AllIGot: That's all I got for you..
+			}
+
+			Rainbow: {
+				// DisplayName: Rainbow
+				// Tooltip: It's rainbow, has 2x HP, and drops 10x more loot
+			}
+
+			Showman: {
+				// DisplayName: Showman
+				// Tooltip: On death explodes into smoke and birds
+			}
+
+			Solidified: {
+				// DisplayName: Solidified
+				// Tooltip: Can no longer pass through tiles
+			}
+
+			Undying: {
+				// DisplayName: Undying
+				// Tooltip: Hangs on with 5 HP for 5 seconds before dying
+			}
+
+			Warping: {
+				// DisplayName: Warping
+				// Tooltip: When they reach half HP, you switch places with them
+			}
+
+			Worm: {
+				// DisplayName: Worm
+				// Tooltip: Spawns with several body segments that lag behind it. Gains knockback immunity and 2x HP
+			}
+
+			WormBody: {
+				// DisplayName: ""
+				// Tooltip: ""
+			}
+
+			Swarming: {
+				// DisplayName: Swarming
+				// Tooltip: Spawns with several copies of itself when it spawns. 4x HP, 2x size
+			}
+
+			Delirious: {
+				// DisplayName: Delirious
+				// Tooltip: Changes its AI periodically and sprays projectiles whenever it does
+			}
+
+			Aquarian: {
+				// DisplayName: Aquarian
+				// Tooltip: Occassionally duke dashes
+			}
+
+			Nested: {
+				// DisplayName: Nested
+				// Tooltip: 200% HP, 200% size, 60% move speed, immune to knockback, spawns mini versions of itself every so often when hurt
+			}
+
+			Royal: {
+				// DisplayName: Royal
+				// Tooltip: 200% HP, 200% size, 60% move speed, immune to knockback, spawns mini versions of itself every so often when hurt
+			}
+
+			Modifying: {
+				// DisplayName: Modifying
+				// Tooltip: Adds a new modifier every 10 seconds up to the max allowed
+			}
+
+			Reflective: {
+				// DisplayName: Reflective
+				// Tooltip: Reflects projectiles for 1.5 second every 15 seconds. Turns grey when doing so, you have 0.5 seconds to react
+			}
+
+			Fluctuating: {
+				// DisplayName: Fluctuating
+				// Tooltip: 2x HP, Grows bigger and smaller over time. Defense and damage changes with size. Max 2.5x damage and defense. Min 0.25 damage and defense
+			}
+
+			Shiny: {
+				// DisplayName: Shiny
+				// Tooltip: Glows in the dark and drops torches
+			}
+
+			Skeletal: {
+				// DisplayName: Skeletal
+				// Tooltip: Spawns with 2 skeletron hands
+			}
+
+			Volatile: {
+				// DisplayName: Volatile
+				// Tooltip: Explodes on death
+			}
+
+			Disguised: {
+				// DisplayName: Disguised
+				// Tooltip: Changes its sprite to a blue slime
+			}
+
+			Stinky: {
+				// DisplayName: Stinky
+				// Tooltip: It's stinky and applies stinky on hit. Deals 25% more damage
+			}
+
+			Lovestruck: {
+				// DisplayName: Lovestruck
+				// Tooltip: Deals 50% less damage and spawns bursts of hearts on hit and on death. Drops 2x loot
+			}
+
+			Poor: {
+				// DisplayName: Poor
+				// Tooltip: Drops no loot, moves 25% slower and has 25% less HP
+			}
+
+			Pink: {
+				// DisplayName: Pink
+				// Tooltip: Colored Pink
+			}
+
+			Frenzied: {
+				// DisplayName: Frenzied
+				// Tooltip: Gains increased damage and speed as HP drops up to double damage and double speed. Turns red past 50% HP
+			}
+
+			Shimmering: {
+				// DisplayName: Shimmering
+				// Tooltip: Phases in and out of visibility, moves 25% faster, drops 2x loot
+			}
+
+			Big: {
+				// DisplayName: Big
+				// Tooltip: 25% increased size and HP, 20% increased damage, 10% reduced speed
+			}
+
+			Small: {
+				// DisplayName: Small
+				// Tooltip: 25% reduced size, damage and HP. 20% increased speed
+			}
+
+			Scary: {
+				// DisplayName: Scary
+				// Tooltip: Has an aura of confusion
+			}
+
+			Celebratory: {
+				// DisplayName: Celebratory
+				// Tooltip: Spawns confetti occasionally. Explodes into fireworks on death
+			}
+
+			Sleepy: {
+				// DisplayName: Sleepy
+				// Tooltip: After not taking damage for 10 seconds, falls asleep. Getting hit while asleep deals bonus damage and wakes them
+			}
+
+			Sticky: {
+				// DisplayName: Sticky
+				// Tooltip: Leaves a trail of cobwebs
+			}
+
+			Medic: {
+				// DisplayName: Medic
+				// Tooltip: Heals all other enemies in a radius. Healing value is equilavent to Regenerating
+			}
+
+			Sorcerous: {
+				// DisplayName: Sorcerous
+				// Tooltip: Occasionally shoots Chaos Balls towards the player (only post goblins)
+			}
+
+			Creepy: {
+				// DisplayName: Creepy
+				// Tooltip: Spawns with 10 creepers
+			}
+
+			Shy: {
+				// DisplayName: Shy
+				// Tooltip: Stops moving and takes much less damage while looking at them
+			}
+
+			Polite: {
+				// DisplayName: Polite
+				// Tooltip: Greets you when first seeing you and when dying
+			}
+
+			Fishy: {
+				// DisplayName: Fishy
+				// Tooltip: Drops the quest fish and is wet
+			}
+
+			Smoky: {
+				// DisplayName: Smoky
+				// Tooltip: Creates smoke
+			}
+
+			Dramatic: {
+				// DisplayName: Dramatic
+				// Tooltip: Has it's own spawning and defeated messages. Only applies to non bosses
+			}
+
+			Buzzing: {
+				// DisplayName: Buzzing
+				// Tooltip: Creates bees when taking damage. Only appears post EoC
+			}
+		}
+
+		// Projectiles.Explosion.DisplayName: Explosion
+	}
+}

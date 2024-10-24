@@ -1,0 +1,60 @@
+HeroHeader: "{$Mods.FargoMoreSoulsCompat.Items.HeroForce.DisplayName}"
+OstaraJump: Bunny Hops
+OstaraGift: Ostara's Gift
+DragonBurst: Dragon Burst
+TitanRecoil: Ranged Recoil
+PhantasmalAura: Spectral Aura
+PhantasmalJump: Shadowbound Jump
+AdvancementHeader: "{$Mods.FargoMoreSoulsCompat.Items.AdvancementForce.DisplayName}"
+CommonGuardBauble: Soul Bauble
+PureIronCross: Holy Shield
+XenomiteNecklace: Necklace of Perception
+XenomiteArmorEffect: Toxic Gas
+HardlightEffect: Drones Summon
+XeniumConcoction: Beelzebub Concoction
+XeniumShield: Infected Thornshield Dash
+AdventurerHeader: "{$Mods.FargoMoreSoulsCompat.Items.AdventurerForce.DisplayName}"
+BotanistHerbEffect: Glowing Herb
+FloranWellFed: Raw Meat Drops
+FloranGrassEffect: Standing On Grass Bonus
+WayfarerTreads: Explorer's Treads
+WayfarerBand: Metal Band
+WayfarerArmorBuff: Wayfarer Stacking Buff
+HurricaneHeader: "{$Mods.FargoMoreSoulsCompat.Items.HurricaneForce.DisplayName}"
+RogueCrestEffect: Rogue Invisibility On Hit
+RogueRuneEffect: Rusted Sword Summon
+RogueArmorEffect: Movement Increases
+ChitinTornadoDash: Tornado Dash
+ApostleEffect: Feathers Spawn
+MarbleChunkEffect: Limited Flight
+AstraliteArmorEffect: Energy Field
+AstraliteBoots: Fast Falling
+SeraphAngelicSigil: Angelic Spark
+RunicSpawn: Explosive Runes
+RunicScroll: Rune Wizard's Scroll
+AtlantisHeader: "{$Mods.FargoMoreSoulsCompat.Items.AtlantisForce.DisplayName}"
+BismiteExplosion: Toxic Explosion
+BismiteShieldEffect: Festering Wounds On Hit
+CascadeBubble: Bubble Shield
+CascadePendant: Improved Swimming
+GraniteChunkStomp: Granite Stomp
+GraniteBoots: Low Health Speed Boost
+StreamSurferFishJump: Fish Jump/ Fall Speed
+StreamSurferSpout: Water Spout Summon
+SpiritFangEffect: Shadow-Singed Fang
+PrimalStoneArmorEffect: Inflict Unstable Affliction
+FrostburnHeader: "{$Mods.FargoMoreSoulsCompat.Items.FrostburnForce.DisplayName}"
+BloodCourtBolt: Blood Bolt
+BloodCourtTongue: Grisly Tongue
+BloodCourtWard: Sanguine Ward
+CryoliteAura: Icy Aura
+CryoliteCard: Four Of A Kind
+DuskRunes: Shadowflame Magic Attack
+DuskGuitar: Guitar Lightning
+FrigidAttackSpeed: Icy Wall
+FrigidIceWall: Frigid Melee Speed
+MarksmanCrit: Concentrated Critical Attack
+PainMongerGuard: Infernal Guardians
+PainMongerMaw: Magic Fiery Spit
+SlagTyrantBurst: Sentries Fireballs Burst
+SlagTyrantSummon: Magic Scepter Summon

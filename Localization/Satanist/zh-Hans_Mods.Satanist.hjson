@@ -62,6 +62,16 @@ Configs: {
 			Label: 默认可以冲刺
 			Tooltip: 选择是否可以冲刺
 		}
+		
+		MaxLifeHostile: {
+			Label: Max Life Hostile
+			Tooltip: ""
+		}
+
+		MinLifeFriendly: {
+			Label: Min Life Friendly
+			Tooltip: ""
+		}
 	}
 
 	SatanistClientConfig: {

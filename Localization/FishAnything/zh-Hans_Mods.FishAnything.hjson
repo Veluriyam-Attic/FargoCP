@@ -1,0 +1,25 @@
+Configs: {
+	FishAnythingConfig: {
+		// DisplayName: Fish Anything Config
+
+		fishPercent: {
+			// Label: % Chance to fish random loot
+			// Tooltip: ""
+		}
+
+		rarityCap: {
+			// Label: Rarity Cap
+			// Tooltip: ""
+		}
+
+		noBlocks: {
+			// Label: No Blocks/Furniture
+			// Tooltip: ""
+		}
+
+		noVanity: {
+			// Label: No Vanity
+			// Tooltip: ""
+		}
+	}
+}

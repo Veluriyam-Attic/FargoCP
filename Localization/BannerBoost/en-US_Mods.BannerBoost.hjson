@@ -1,14 +1,14 @@
 Configs: {
 	BannerConfig: {
-		DisplayName: 旗帜设定
+		DisplayName: Banner Config
 
 		KillsPerLevel: {
-			Label: 所需击杀数
+			Label: Kills Per Level
 			Tooltip: ""
 		}
 
 		MaxLevel: {
-			Label: 免疫所需等级
+			Label: Max Level Achievable
 			Tooltip: ""
 		}
 	}
