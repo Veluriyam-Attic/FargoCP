@@ -62,7 +62,7 @@ Configs: {
 			Label: 默认可以冲刺
 			Tooltip: 选择是否可以冲刺
 		}
-		
+
 		MaxLifeHostile: {
 			Label: Max Life Hostile
 			Tooltip: ""
@@ -137,6 +137,7 @@ NPCs: {
 		}
 
 		Buttons.Shop: 商店
+		// Census.SpawnCondition: Conditions unknown
 	}
 
 	CultistIllusion.DisplayName: Cultist Illusion
@@ -194,6 +195,8 @@ NPCs: {
 			LikeNPC_Princess: I like {NPCName}.
 			Princess_LovesNPC: I like {NPCName}.
 		}
+
+		// Census.SpawnCondition: Conditions unknown
 	}
 
 	BrainedCreeper.DisplayName: Brained Creeper
@@ -397,4 +400,6 @@ Projectiles: {
 	MythicalWyvernHead.DisplayName: Mythical Wyvern Head
 	MythicalWyvernLegs.DisplayName: Mythical Wyvern Legs
 	MythicalWyvernTail.DisplayName: Mythical Wyvern Tail
+	// MoonOfDoom.DisplayName: Moon Of Doom
+	// AppleOfCommunism.DisplayName: Apple Of Communism
 }
