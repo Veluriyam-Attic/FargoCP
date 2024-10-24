@@ -1,636 +1,636 @@
 Mods: {
 	FargoEnemyModifiers: {
 		NPCs: {
-			// BabySpider.DisplayName: Baby Spider
-			// SkeleArm.DisplayName: Skele Arm
-			// Creeper.DisplayName: Creeper
+			BabySpider.DisplayName: 小蜘蛛
+			SkeleArm.DisplayName: 骷髅臂
+			Creeper.DisplayName: 飞眼怪仆从
 		}
 
 		Configs: {
 			EnemyModifiersServerConfig: {
-				// DisplayName: Server Config
-				// ModifierConfiguration: Modifier Configuration
-				// Blacklists: Blacklists
+				DisplayName: 服务器配置
+				ModifierConfiguration: 模组配置
+				Blacklists: 黑名单
 
 				ModifierAnnouncements: {
-					// Label: Modifier Announcements
-					// Tooltip: An enemies modifier will appear above its head for a while
+					Label: 词缀显示时间
+					Tooltip: 敌人词缀在头上显示的时间
 				}
 
 				BossModifiers: {
-					// Label: Bosses can get Modifiers
-					// Tooltip: ""
+					Label: BOSS可以获得词缀
+					Tooltip: BOSS可以获得词缀
 				}
 
 				ChanceForModifier: {
-					// Label: Modifier Chance (%)
-					// Tooltip: ""
+					Label: 词缀生成几率 (%)
+					Tooltip: 词缀生成几率
 				}
 
 				ForceModifier: {
-					// Label: Force A Modifier
-					// Tooltip: ""
+					Label: 强制修改词缀
+					Tooltip: 强制修改词缀，配合下面使用
 				}
 
 				ModifierEnum: {
-					// Label: Modifier to Force
-					// Tooltip: ""
+					Label: 强制修改的词缀选择
+					Tooltip: 强制修改的词缀选择
 				}
 
 				NPCBlacklist: {
-					// Label: NPC Blacklist
-					// Tooltip: NPCs here can never receive modifiers
+					Label: NPC黑名单
+					Tooltip: 添加的NPC永远不会有词缀
 				}
 
 				ModifierBlacklist: {
-					// Label: Modifier Blacklist
-					// Tooltip: These modifiers will not appear
-					// Enabled.Tooltip: Hi
+					Label: 词缀黑名单
+					Tooltip: 添加的词缀将禁用
+					Enabled.Tooltip: Hi
 				}
 
 				ModifierAmount: {
-					// Label: Maximum Amount of Possible Modifiers
-					// Tooltip: ""
+					Label: 可能产生词缀的最大数量
+					Tooltip: 产生词缀的最大数量
 				}
 
 				ChanceForExtraModifier: {
-					// Label: Extra Modifier Chance (%)
-					// Tooltip: ""
+					Label: 产生额外词缀几率 (%)
+					Tooltip: 额外词缀的几率
 				}
 
 				AnnouncementsForever: {
-					// Label: Announcements Last Forever
-					// Tooltip: The Modifier name will always appear above the enemy
+					Label: 词缀永久悬浮
+					Tooltip: 词缀会一直显示在敌人上方
 				}
 
 				Headers: {
-					// ModifierConfiguration: Modifier Configuration Header
-					// Blacklists: Blacklists Header
+					ModifierConfiguration: 词缀配置
+					Blacklists: 黑名单配置
 				}
 
 				ModifierToggles: {
-					// Label: Modifier Toggles
-					// Tooltip: ""
+					Label: 词缀切换
+					Tooltip: ""
 				}
 			}
 
 			ConfigModifierID: {
-				// Tooltip: ""
-				// Armored.Label: Armored
-				// Impenetrable.Label: Impenetrable
-				// Light.Label: Light
-				// Menacing.Label: Menacing
-				// Rampaging.Label: Rampaging
-				// Regenerating.Label: Regenerating
-				// Slow.Label: Slow
-				// Sluggish.Label: Sluggish
-				// Splitting.Label: Splitting
-				// Swift.Label: Swift
-				// Unrelenting.Label: Unrelenting
-				// Wealthy.Label: Wealthy
-				// Accelerating.Label: Accelerating
-				// Bloodthirsty.Label: Bloodthirsty
-				// Bulletproof.Label: Bulletproof
-				// Fortifying.Label: Fortifying
-				// Hexproof.Label: Hexproof
-				// Huge.Label: Huge
-				// Infested.Label: Infested
-				// Miniature.Label: Miniature
-				// Possessed.Label: Possessed
-				// Rallying.Label: Rallying
-				// Shielded.Label: Shielded
-				// Stealthy.Label: Stealthy
-				// Veiled.Label: Veiled
-				// Chained.Label: Chained
-				// Devouring.Label: Devouring
-				// Hyper.Label: Hyper
-				// Juggernaut.Label: Juggernaut
-				// Merchant.Label: Merchant
-				// Rainbow.Label: Rainbow
-				// Warping.Label: Warping
-				// Worm.Label: Worm
-				// Delerious.Label: Delerious
-				// Duke.Label: Duke
-				// Healthy.Label: Healthy
-				// Flaming.Label: Flaming
-				// Medic.Label: Medic
-				// Metallic.Label: Metallic
-				// Pyro.Label: Pyro
-				// Vaccinated.Label: Vaccinated
-				// Vampiric.Label: Vampiric
-				// Solidifed.Label: Solidifed
-				// Undying.Label: Undying
-				// Imaginary.Label: Imaginary
-				// Sticky.Label: Sticky
-				// Unstable.Label: Unstable
-				// Nested.Label: Nested
-				// Royal.Label: Royal
-				// Showman.Label: Showman
-				// Red.Label: Red
-				// Lethal.Label: Lethal
-				// Blue.Label: Blue
-				// Green.Label: Green
-				// Orange.Label: Orange
-				// Purple.Label: Purple
-				// Yellow.Label: Yellow
-				// Swarming.Label: Swarming
-				// Solidified.Label: Solidified
-				// Modifying.Label: Modifying
-				// Aquarian.Label: Aquarian
-				// Reflective.Label: Reflective
-				// Sentry.Label: Sentry
-				// Fluctuating.Label: Fluctuating
-				// Shiny.Label: Shiny
-				// Skeletal.Label: Skeletal
-				// Volatile.Label: Volatile
-				// Disguised.Label: Disguised
-				// Stinky.Label: Stinky
-				// Lovestruck.Label: Lovestruck
-				// Poor.Label: Poor
-				// Pink.Label: Pink
-				// Frenzied.Label: Frenzied
-				// Shimmering.Label: Shimmering
-				// Big.Label: Big
-				// Small.Label: Small
-				// Scary.Label: Scary
-				// Celebratory.Label: Celebratory
-				// Sleepy.Label: Sleepy
-				// Sorcerous.Label: Sorcerous
-				// Creepy.Label: Creepy
-				// Shy.Label: Shy
-				// Polite.Label: Polite
-				// Fishy.Label: Fishy
-				// Smoky.Label: Smoky
-				// Dramatic.Label: Dramatic
-				// Buzzing.Label: Buzzing
-				// Monumental.Label: Monumental
+				Tooltip: ""
+				Armored.Label: 装甲
+				Impenetrable.Label: 穿透无效
+				Light.Label: 轻
+				Menacing.Label: 威胁
+				Rampaging.Label: 狂暴
+				Regenerating.Label: 恢复
+				Slow.Label: 慢
+				Sluggish.Label: 迟缓
+				Splitting.Label: 分裂
+				Swift.Label: 飞毛腿
+				Unrelenting.Label: 免击退
+				Wealthy.Label: 富有
+				Accelerating.Label: 加速
+				Bloodthirsty.Label: 嗜血
+				Bulletproof.Label: 防弹
+				Fortifying.Label: 防御光环
+				Hexproof.Label: 扛揍
+				Huge.Label: 巨型
+				Infested.Label: 蜘蛛为患
+				Miniature.Label: 迷你
+				Possessed.Label: 幽灵
+				Rallying.Label: 强化光环
+				Shielded.Label: 防护罩
+				Stealthy.Label: 隐身
+				Veiled.Label: 魔法防护
+				Chained.Label: 被束缚
+				Devouring.Label: 吞噬
+				Hyper.Label: 二倍速
+				Juggernaut.Label: 泰坦
+				Merchant.Label: 商人
+				Rainbow.Label: 彩虹
+				Warping.Label: 扭曲
+				Worm.Label: 蠕虫
+				Delerious.Label: 不义
+				Duke.Label: Duke
+				Healthy.Label: 健康
+				Flaming.Label: 燃烧
+				Medic.Label: 治疗师
+				Metallic.Label: 金属
+				Pyro.Label: Pyro
+				Vaccinated.Label: 免疫
+				Vampiric.Label: 吸血
+				Solidifed.Label: 凝固
+				Undying.Label: 硬撑
+				Imaginary.Label: 透明
+				Sticky.Label: 蜘蛛侠
+				Unstable.Label: 不稳定
+				Nested.Label: 分身
+				Royal.Label: 贵族
+				Showman.Label: 表演家
+				Red.Label: 红
+				Lethal.Label: 致命
+				Blue.Label: 蓝
+				Green.Label: 绿
+				Orange.Label: 橙
+				Purple.Label: 紫
+				Yellow.Label: 黄
+				Swarming.Label: 蜂拥而至
+				Solidified.Label: 凝固
+				Modifying.Label: 多面手
+				Aquarian.Label: 水瓶座
+				Reflective.Label: 反射
+				Sentry.Label: 警惕
+				Fluctuating.Label: 大小变
+				Shiny.Label: 发光
+				Skeletal.Label: 骷髅臂
+				Volatile.Label: 自爆
+				Disguised.Label: 伪装者
+				Stinky.Label: 恶臭
+				Lovestruck.Label: 恋爱脑
+				Poor.Label: 差生
+				Pink.Label: 粉红
+				Frenzied.Label: 疯狂
+				Shimmering.Label: 闪光
+				Big.Label: 大型
+				Small.Label: 小型
+				Scary.Label: 可怕
+				Celebratory.Label: 庆祝
+				Sleepy.Label: 瞌睡虫
+				Sorcerous.Label: 术士
+				Creepy.Label: 毛骨悚然
+				Shy.Label: 害羞
+				Polite.Label: 礼貌
+				Fishy.Label: 钓鱼佬
+				Smoky.Label: 烟雾
+				Dramatic.Label: 戏剧性
+				Buzzing.Label: 嗡嗡嗡
+				Monumental.Label: 不朽
 			}
 
 			ModifierToggle: {
-				// Tooltip: ""
+				Tooltip: ""
 
 				Enabled: {
-					// Label: Enabled
-					// Tooltip: Whether or not this modifier will appear
+					Label: 启用
+					Tooltip: 此修正是否会出现
 				}
 
-				// Headers.FirstHeader: First Header Header
+				Headers.FirstHeader: 第一
 
 				Name: {
-					// Label: Name
-					// Tooltip: ""
+					Label: Name
+					Tooltip: ""
 				}
 
 				enumVal: {
-					// Label: enum Val
-					// Tooltip: ""
+					Label: enum Val
+					Tooltip: ""
 				}
 			}
 
 			EnemyModifiersClientConfig: {
-				// DisplayName: Client Config
-				// Headers.Announcements: Modifier Announcements
+				DisplayName: 客户端配置
+				Headers.Announcements: 修改词缀
 
 				announcementsEnabled: {
-					// Label: Announcements enabled
-					// Tooltip: Mobs will show what modifiers they have above their head
+					Label: 显示词缀
+					Tooltip: 开启将在头上显示敌人的词缀
 				}
 
 				announcementsForever: {
-					// Label: Announcements Forever
-					// Tooltip: The modifier names will be shown until the mob dies
+					Label: 永久显示
+					Tooltip: 词缀会一直显示在敌人上方
 				}
 
 				announcementsDuration: {
-					// Label: Announcements Duration
-					// Tooltip: The modifiers will be shown for this many seconds
+					Label: 显示时间
+					Tooltip: 词缀会显示几秒
 				}
 			}
 
 			ModifierPicker: {
-				// Tooltip: ""
+				Tooltip: ""
 
 				ModifierEnum: {
-					// Label: Modifier Enum
-					// Tooltip: ""
+					Label: 词缀显示时间
+					Tooltip: ""
 				}
 			}
 		}
 
 		Modifiers: {
 			Armored: {
-				// DisplayName: Armored
-				// Tooltip: Defense is increased by 50%
+				DisplayName: 装甲
+				Tooltip: 增加50%防御力
 			}
 
 			Blue: {
-				// DisplayName: Blue
-				// Tooltip: Blue
+				DisplayName: 蓝
+				Tooltip: 蓝
 			}
 
 			Green: {
-				// DisplayName: Green
-				// Tooltip: Green
+				DisplayName: 绿
+				Tooltip: 绿
 			}
 
 			Healthy: {
-				// DisplayName: Healthy
-				// Tooltip: HP is increased by 50%
+				DisplayName: 健康
+				Tooltip: 增加50%生命值
 			}
 
 			Impenetrable: {
-				// DisplayName: Impenetrable
-				// Tooltip: Piercing projectiles are destroyed on hit
+				DisplayName: 穿透无效
+				Tooltip: 子弹集中后消失
 			}
 
 			Light: {
-				// DisplayName: Light
-				// Tooltip: Takes increased knockback and has reduced gravity
+				DisplayName: 轻
+				Tooltip: 减少重力并更容易被击退
 			}
 
 			Menacing: {
-				// DisplayName: Menacing
-				// Tooltip: Damage is increased by 50%
+				DisplayName: 威胁
+				Tooltip: 增加50%伤害
 			}
 
 			Orange: {
-				// DisplayName: Orange
-				// Tooltip: Orange
+				DisplayName: 橙
+				Tooltip: 橙
 			}
 
 			Purple: {
-				// DisplayName: Purple
-				// Tooltip: Purple
+				DisplayName: 紫
+				Tooltip: 紫
 			}
 
 			Rampaging: {
-				// DisplayName: Rampaging
-				// Tooltip: Deals extremely high knockback to you
+				DisplayName: 狂暴
+				Tooltip: 获得更高的击退
 			}
 
 			Red: {
-				// DisplayName: Red
-				// Tooltip: Red
+				DisplayName: 红
+				Tooltip: 红
 			}
 
 			Regenerating: {
-				// DisplayName: Regenerating
-				// Tooltip: Regenerates 2% HP every second
+				DisplayName: 恢复
+				Tooltip: 每秒恢复2%生命值
 			}
 
 			Slow: {
-				// DisplayName: Slow
-				// Tooltip: Speed is decreased by 50%
+				DisplayName: 慢
+				Tooltip: 减少50%移速
 			}
 
 			Sluggish: {
-				// DisplayName: Sluggish
-				// Tooltip: Performs all actions half as fast
+				DisplayName: 迟缓
+				Tooltip: 减半所有动作
 			}
 
 			Splitting: {
-				// DisplayName: Splitting
-				// Tooltip: Spawns 2-3 smaller versions of itself with reduced stats on death
+				DisplayName: 分裂
+				Tooltip: 死亡时生成2到3个体型更小、属性降低的自身版本
 			}
 
 			Swift: {
-				// DisplayName: Swift
-				// Tooltip: Speed is increased by 50%
+				DisplayName: 飞毛腿
+				Tooltip: 增加50%移速
 			}
 
 			Unrelenting: {
-				// DisplayName: Unrelenting
-				// Tooltip: Gains knockback immunity
+				DisplayName: 免击退
+				Tooltip: 免疫击退
 			}
 
 			Wealthy: {
-				// DisplayName: Wealthy
-				// Tooltip: Drops 5x more coins
+				DisplayName: 富有
+				Tooltip: 掉落五倍钱币
 			}
 
 			Yellow: {
-				// DisplayName: Yellow
-				// Tooltip: Yellow
+				DisplayName: 黄
+				Tooltip: 黄
 			}
 
 			Accelerating: {
-				// DisplayName: Accelerating
-				// Tooltip: Constantly gains speed up to 4x normal speed. If they hit you or you hit them with a melee attack, their speed resets
+				DisplayName: 加速
+				Tooltip: 不断加速，速度可达到正常速度的4倍。如果它们击中你或者你用近战攻击击中它们，它们的速度会重置
 			}
 
 			Bloodthirsty: {
-				// DisplayName: Bloodthirsty
-				// Tooltip: Gains 25% damage every time they hit you
+				DisplayName: 嗜血
+				Tooltip: 每当它们击中你时，都会增加25%的伤害
 			}
 
 			Bulletproof: {
-				// DisplayName: Bulletproof
-				// Tooltip: Gains 80% resistance to ranged damage
+				DisplayName: 防弹
+				Tooltip: 获得对远程伤害80%的抗性
 			}
 
 			Flaming: {
-				// DisplayName: Flaming
-				// Tooltip: Spawns with a permanent On Fire debuff, leaves a trail of damaging flames, 50% increased speed
+				DisplayName: 燃烧
+				Tooltip: 生成时附带永久的着火减益效果，留下一条造成伤害的火焰路径，速度提高50%
 			}
 
 			Fortifying: {
-				// DisplayName: Fortifying
-				// Tooltip: Defense decreased by 50%. Gains an aura that gives other enemies 50% damage resistance
+				DisplayName: 防御光环
+				Tooltip: 防御力减少50%。获得一个光环，使其他敌人获得50%的伤害抗性
 			}
 
 			Hexproof: {
-				// DisplayName: Hex-proof
-				// Tooltip: Damage over time does not work on them
+				DisplayName: 扛揍
+				Tooltip: 无法持续造成伤害
 			}
 
 			Huge: {
-				// DisplayName: Huge
-				// Tooltip: Size and damage increased by 40%, HP increased by 50%, speed decreased by 25%
+				DisplayName: 巨型
+				Tooltip: 体型和伤害增加40%，生命值增加50%，速度减少25%
 			}
 
 			Infested: {
-				// DisplayName: Infested
-				// Tooltip: Periodically spawns Baby Spiders
+				DisplayName: 蜘蛛为患
+				Tooltip: 定期生成小蜘蛛
 			}
 
 			Metallic: {
-				// DisplayName: Metallic
-				// Tooltip: Has increased defense, takes less knockback, and drops ore
+				DisplayName: 金属
+				Tooltip: 拥有更高的防御力，受到的击退效果减少，并且会掉落矿石
 			}
 
 			Miniature: {
-				// DisplayName: Miniature
-				// Tooltip: Size and HP decreased by 50%, damage reduced by 25%, speed increased by 50%
+				DisplayName: 迷你
+				Tooltip: 体型和生命值减少50%，伤害降低25%，速度提高50%
 			}
 
 			Possessed: {
-				// DisplayName: Possessed
-				// Tooltip: Replaces its normal AI with Ghost AI
+				DisplayName: 幽灵
+				Tooltip: 将其正常的AI替换为幽灵AI
 			}
 
 			Rallying: {
-				// DisplayName: Rallying
-				// Tooltip: Gains an aura that buffs other enemies: +25% damage and +25% speed
+				DisplayName: 强化光环
+				Tooltip: 获得一个光环，增强其他敌人：伤害增加25%，速度增加25%
 			}
 
 			Shielded: {
-				// DisplayName: Shielded
-				// Tooltip: Gains 80% resistance to melee damage
+				DisplayName: 防护罩
+				Tooltip: 获得对近战伤害80%的抗性
 			}
 
 			Stealthy: {
-				// DisplayName: Stealthy
-				// Tooltip: Slowly turns nearly invisible, becomes fully visible when hit
+				DisplayName: 隐身
+				Tooltip: 逐渐变得几乎看不见，被击中时变得完全可见
 			}
 
 			Vaccinated: {
-				// DisplayName: Vaccinated
-				// Tooltip: Immune to all debuffs
+				DisplayName: 免疫
+				Tooltip: 免疫所有减益效果
 			}
 
 			Vampiric: {
-				// DisplayName: Vampiric
-				// Tooltip: Heals some HP when they deal damage
+				DisplayName: 吸血
+				Tooltip: 当它们造成伤害时，会恢复一部分生命值
 			}
 
 			Veiled: {
-				// DisplayName: Veiled
-				// Tooltip: Gains 80% resistance to magic and summon damage
+				DisplayName: 魔法防护
+				Tooltip: Gains 80% resistance to magic and summon damage
 			}
 
 			Chained: {
-				// DisplayName: Chained
-				// Tooltip: They spawn chained to you and cannot leave a radius around you
+				DisplayName: 被束缚
+				Tooltip: They spawn chained to you and cannot leave a radius around you
 			}
 
 			Devouring: {
-				// DisplayName: Devouring
-				// Tooltip: Devours any enemy it comes across with lesser or equal HP. When it does so, it heals itself and gains max HP and damage
+				DisplayName: 吞噬
+				Tooltip: Devours any enemy it comes across with lesser or equal HP. When it does so, it heals itself and gains max HP and damage
 			}
 
 			Hyper: {
-				// DisplayName: Hyper
-				// Tooltip: Performs all actions twice as fast
+				DisplayName: 二倍速
+				Tooltip: Performs all actions twice as fast
 			}
 
 			Imaginary: {
-				// DisplayName: Imaginary
-				// Tooltip: Transparent. Ceases to exist when contact is made in any way
+				DisplayName: 透明
+				Tooltip: Transparent. Ceases to exist when contact is made in any way
 			}
 
 			Juggernaut: {
-				// DisplayName: Juggernaut
-				// Tooltip: 60% increased size. 250% increased HP increased. 50% increased damage and defense.  Immune to knockback, but has Sluggish built in (performs actions half as fast). Drops 2x loot
+				DisplayName: 泰坦
+				Tooltip: 60% increased size. 250% increased HP increased. 50% increased damage and defense.  Immune to knockback, but has Sluggish built in (performs actions half as fast). Drops 2x loot
 			}
 
 			Merchant: {
-				// DisplayName: Merchant
-				// Tooltip: Replaces its usual AI with Town NPC AI. It will give you one random free item from the Travelling Merchant's current shop then vanish
-				// Interaction: Don't tell anyone, but take this. Pretend you never saw me..
-				// AllIGot: That's all I got for you..
+				DisplayName: 商人
+				Tooltip: Replaces its usual AI with Town NPC AI. It will give you one random free item from the Travelling Merchant's current shop then vanish
+				Interaction: 拿着这个，别告诉任何人，假装你从未见过我
+				AllIGot: 这就是我要给你的
 			}
 
 			Rainbow: {
-				// DisplayName: Rainbow
-				// Tooltip: It's rainbow, has 2x HP, and drops 10x more loot
+				DisplayName: 彩虹
+				Tooltip: It's rainbow, has 2x HP, and drops 10x more loot
 			}
 
 			Showman: {
-				// DisplayName: Showman
-				// Tooltip: On death explodes into smoke and birds
+				DisplayName: 表演家
+				Tooltip: On death explodes into smoke and birds
 			}
 
 			Solidified: {
-				// DisplayName: Solidified
-				// Tooltip: Can no longer pass through tiles
+				DisplayName: 凝固
+				Tooltip: Can no longer pass through tiles
 			}
 
 			Undying: {
-				// DisplayName: Undying
-				// Tooltip: Hangs on with 5 HP for 5 seconds before dying
+				DisplayName: 硬撑
+				Tooltip: Hangs on with 5 HP for 5 seconds before dying
 			}
 
 			Warping: {
-				// DisplayName: Warping
-				// Tooltip: When they reach half HP, you switch places with them
+				DisplayName: 扭曲
+				Tooltip: When they reach half HP, you switch places with them
 			}
 
 			Worm: {
-				// DisplayName: Worm
-				// Tooltip: Spawns with several body segments that lag behind it. Gains knockback immunity and 2x HP
+				DisplayName: 蠕虫
+				Tooltip: Spawns with several body segments that lag behind it. Gains knockback immunity and 2x HP
 			}
 
 			WormBody: {
-				// DisplayName: ""
-				// Tooltip: ""
+				DisplayName: 蠕虫宝宝
+				Tooltip: ""
 			}
 
 			Swarming: {
-				// DisplayName: Swarming
-				// Tooltip: Spawns with several copies of itself when it spawns. 4x HP, 2x size
+				DisplayName: 蜂拥而至
+				Tooltip: Spawns with several copies of itself when it spawns. 4x HP, 2x size
 			}
 
 			Delirious: {
-				// DisplayName: Delirious
-				// Tooltip: Changes its AI periodically and sprays projectiles whenever it does
+				DisplayName: 精神错乱
+				Tooltip: Changes its AI periodically and sprays projectiles whenever it does
 			}
 
 			Aquarian: {
-				// DisplayName: Aquarian
-				// Tooltip: Occassionally duke dashes
+				DisplayName: 水瓶座
+				Tooltip: Occassionally duke dashes
 			}
 
 			Nested: {
-				// DisplayName: Nested
-				// Tooltip: 200% HP, 200% size, 60% move speed, immune to knockback, spawns mini versions of itself every so often when hurt
+				DisplayName: 分身
+				Tooltip: 200% HP, 200% size, 60% move speed, immune to knockback, spawns mini versions of itself every so often when hurt
 			}
 
 			Royal: {
-				// DisplayName: Royal
-				// Tooltip: 200% HP, 200% size, 60% move speed, immune to knockback, spawns mini versions of itself every so often when hurt
+				DisplayName: 贵族
+				Tooltip: 200% HP, 200% size, 60% move speed, immune to knockback, spawns mini versions of itself every so often when hurt
 			}
 
 			Modifying: {
-				// DisplayName: Modifying
-				// Tooltip: Adds a new modifier every 10 seconds up to the max allowed
+				DisplayName: 多面手
+				Tooltip: Adds a new modifier every 10 seconds up to the max allowed
 			}
 
 			Reflective: {
-				// DisplayName: Reflective
-				// Tooltip: Reflects projectiles for 1.5 second every 15 seconds. Turns grey when doing so, you have 0.5 seconds to react
+				DisplayName: 反射
+				Tooltip: Reflects projectiles for 1.5 second every 15 seconds. Turns grey when doing so, you have 0.5 seconds to react
 			}
 
 			Fluctuating: {
-				// DisplayName: Fluctuating
-				// Tooltip: 2x HP, Grows bigger and smaller over time. Defense and damage changes with size. Max 2.5x damage and defense. Min 0.25 damage and defense
+				DisplayName: 大小变
+				Tooltip: 2x HP, Grows bigger and smaller over time. Defense and damage changes with size. Max 2.5x damage and defense. Min 0.25 damage and defense
 			}
 
 			Shiny: {
-				// DisplayName: Shiny
-				// Tooltip: Glows in the dark and drops torches
+				DisplayName: 发光
+				Tooltip: Glows in the dark and drops torches
 			}
 
 			Skeletal: {
-				// DisplayName: Skeletal
-				// Tooltip: Spawns with 2 skeletron hands
+				DisplayName: 骷髅臂
+				Tooltip: Spawns with 2 skeletron hands
 			}
 
 			Volatile: {
-				// DisplayName: Volatile
-				// Tooltip: Explodes on death
+				DisplayName: 自爆
+				Tooltip: Explodes on death
 			}
 
 			Disguised: {
-				// DisplayName: Disguised
-				// Tooltip: Changes its sprite to a blue slime
+				DisplayName: 伪装者
+				Tooltip: Changes its sprite to a blue slime
 			}
 
 			Stinky: {
-				// DisplayName: Stinky
-				// Tooltip: It's stinky and applies stinky on hit. Deals 25% more damage
+				DisplayName: 恶臭
+				Tooltip: It's stinky and applies stinky on hit. Deals 25% more damage
 			}
 
 			Lovestruck: {
-				// DisplayName: Lovestruck
-				// Tooltip: Deals 50% less damage and spawns bursts of hearts on hit and on death. Drops 2x loot
+				DisplayName: 恋爱脑
+				Tooltip: Deals 50% less damage and spawns bursts of hearts on hit and on death. Drops 2x loot
 			}
 
 			Poor: {
-				// DisplayName: Poor
-				// Tooltip: Drops no loot, moves 25% slower and has 25% less HP
+				DisplayName: 差生
+				Tooltip: Drops no loot, moves 25% slower and has 25% less HP
 			}
 
 			Pink: {
-				// DisplayName: Pink
-				// Tooltip: Colored Pink
+				DisplayName: 粉红
+				Tooltip: Colored Pink
 			}
 
 			Frenzied: {
-				// DisplayName: Frenzied
-				// Tooltip: Gains increased damage and speed as HP drops up to double damage and double speed. Turns red past 50% HP
+				DisplayName: 疯狂
+				Tooltip: Gains increased damage and speed as HP drops up to double damage and double speed. Turns red past 50% HP
 			}
 
 			Shimmering: {
-				// DisplayName: Shimmering
-				// Tooltip: Phases in and out of visibility, moves 25% faster, drops 2x loot
+				DisplayName: 闪光
+				Tooltip: Phases in and out of visibility, moves 25% faster, drops 2x loot
 			}
 
 			Big: {
-				// DisplayName: Big
-				// Tooltip: 25% increased size and HP, 20% increased damage, 10% reduced speed
+				DisplayName: 大型
+				Tooltip: 25% increased size and HP, 20% increased damage, 10% reduced speed
 			}
 
 			Small: {
-				// DisplayName: Small
-				// Tooltip: 25% reduced size, damage and HP. 20% increased speed
+				DisplayName: 小型
+				Tooltip: 25% reduced size, damage and HP. 20% increased speed
 			}
 
 			Scary: {
-				// DisplayName: Scary
-				// Tooltip: Has an aura of confusion
+				DisplayName: 可怕
+				Tooltip: Has an aura of confusion
 			}
 
 			Celebratory: {
-				// DisplayName: Celebratory
-				// Tooltip: Spawns confetti occasionally. Explodes into fireworks on death
+				DisplayName: 庆祝
+				Tooltip: Spawns confetti occasionally. Explodes into fireworks on death
 			}
 
 			Sleepy: {
-				// DisplayName: Sleepy
-				// Tooltip: After not taking damage for 10 seconds, falls asleep. Getting hit while asleep deals bonus damage and wakes them
+				DisplayName: 瞌睡虫
+				Tooltip: After not taking damage for 10 seconds, falls asleep. Getting hit while asleep deals bonus damage and wakes them
 			}
 
 			Sticky: {
-				// DisplayName: Sticky
-				// Tooltip: Leaves a trail of cobwebs
+				DisplayName: 蜘蛛侠
+				Tooltip: Leaves a trail of cobwebs
 			}
 
 			Medic: {
-				// DisplayName: Medic
-				// Tooltip: Heals all other enemies in a radius. Healing value is equilavent to Regenerating
+				DisplayName: 治疗师
+				Tooltip: Heals all other enemies in a radius. Healing value is equilavent to Regenerating
 			}
 
 			Sorcerous: {
-				// DisplayName: Sorcerous
-				// Tooltip: Occasionally shoots Chaos Balls towards the player (only post goblins)
+				DisplayName: 术士
+				Tooltip: Occasionally shoots Chaos Balls towards the player (only post goblins)
 			}
 
 			Creepy: {
-				// DisplayName: Creepy
-				// Tooltip: Spawns with 10 creepers
+				DisplayName: 毛骨悚然
+				Tooltip: Spawns with 10 creepers
 			}
 
 			Shy: {
-				// DisplayName: Shy
-				// Tooltip: Stops moving and takes much less damage while looking at them
+				DisplayName: 害羞
+				Tooltip: Stops moving and takes much less damage while looking at them
 			}
 
 			Polite: {
-				// DisplayName: Polite
-				// Tooltip: Greets you when first seeing you and when dying
+				DisplayName: 礼貌
+				Tooltip: Greets you when first seeing you and when dying
 			}
 
 			Fishy: {
-				// DisplayName: Fishy
-				// Tooltip: Drops the quest fish and is wet
+				DisplayName: 钓鱼佬
+				Tooltip: Drops the quest fish and is wet
 			}
 
 			Smoky: {
-				// DisplayName: Smoky
-				// Tooltip: Creates smoke
+				DisplayName: 烟雾
+				Tooltip: Creates smoke
 			}
 
 			Dramatic: {
-				// DisplayName: Dramatic
-				// Tooltip: Has it's own spawning and defeated messages. Only applies to non bosses
+				DisplayName: 戏剧性
+				Tooltip: Has it's own spawning and defeated messages. Only applies to non bosses
 			}
 
 			Buzzing: {
-				// DisplayName: Buzzing
-				// Tooltip: Creates bees when taking damage. Only appears post EoC
+				DisplayName: 嗡嗡嗡
+				Tooltip: Creates bees when taking damage. Only appears post EoC
 			}
 		}
 
-		// Projectiles.Explosion.DisplayName: Explosion
+		Projectiles.Explosion.DisplayName: Explosion
 	}
 }

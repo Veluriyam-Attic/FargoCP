@@ -28,22 +28,22 @@ Configs: {
 		DisplayName: Fargo超级配置
 
 		hyperEnemyProj: {
-			Label: Hyper Enemy Projectiles
+			Label: 超级敌对弹幕
 			Tooltip: ""
 		}
 
 		hyperFriendlyProj: {
-			Label: Hyper Friendly Projectiles
+			Label: 超级友好弹幕
 			Tooltip: ""
 		}
 
 		NPCBlacklist: {
-			Label: N P C Blacklist
+			Label: NPC黑名单
 			Tooltip: ""
 		}
 
 		ProjBlacklist: {
-			Label: Proj Blacklist
+			Label: 弹幕黑名单
 			Tooltip: ""
 		}
 	}

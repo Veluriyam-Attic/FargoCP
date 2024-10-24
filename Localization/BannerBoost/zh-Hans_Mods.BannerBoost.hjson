@@ -4,12 +4,12 @@ Configs: {
 
 		KillsPerLevel: {
 			Label: 所需击杀数
-			Tooltip: ""
+			Tooltip: 每升一级需要的击杀数
 		}
 
 		MaxLevel: {
 			Label: 免疫所需等级
-			Tooltip: ""
+			Tooltip: 满级时将免疫该敌方
 		}
 	}
 }

@@ -1,252 +1,252 @@
 Configs: {
 	MusicConfig: {
-		// DisplayName: Music Config
+		DisplayName: Music Config
 
 		Headers: {
-			// Tracks: Tracks
-			// Biomes: Biomes
-			// Events: Events
-			// Bosses: Bosses
+			Tracks: Tracks
+			Biomes: Biomes
+			Events: Events
+			Bosses: Bosses
 		}
 
 		Lieflight: {
-			// Label: Lifelight
-			// Tooltip: ""
+			Label: Lifelight
+			Tooltip: ""
 		}
 
 		SkeletronPrime: {
-			// Label: Skeletron Prime
-			// Tooltip: ""
+			Label: Skeletron Prime
+			Tooltip: ""
 		}
 
 		MoonLord: {
-			// Label: Moon Lord
-			// Tooltip: ""
+			Label: Moon Lord
+			Tooltip: ""
 		}
 
 		Betsy: {
-			// Label: Betsy
-			// Tooltip: ""
+			Label: Betsy
+			Tooltip: ""
 		}
 
 		ChampionOfShadow: {
-			// Label: Champion of Shadow
-			// Tooltip: ""
+			Label: Champion of Shadow
+			Tooltip: ""
 		}
 
 		Golem: {
-			// Label: Golem
-			// Tooltip: ""
+			Label: Golem
+			Tooltip: ""
 		}
 
 		Town: {
-			// Tooltip: ""
-			// Label: Town
+			Tooltip: ""
+			Label: Town
 		}
 
 		EmpressOfLight: {
-			// Tooltip: Determines which theme the Empress of Light uses.
-			// Label: Empress of Light
+			Tooltip: Determines which theme the Empress of Light uses.
+			Label: Empress of Light
 		}
 
 		WallOfFlesh: {
-			// Tooltip: ""
-			// Label: Wall of Flesh
+			Tooltip: ""
+			Label: Wall of Flesh
 		}
 
 		Eridanus: {
-			// Label: Eridanus
-			// Tooltip: ""
+			Label: Eridanus
+			Tooltip: ""
 		}
 
 		Abom: {
-			// Label: Abominationn
-			// Tooltip: Determines which theme Abominationn uses.
+			Label: Abominationn
+			Tooltip: Determines which theme Abominationn uses.
 		}
 
 		Mutant: {
-			// Label: Mutant
-			// Tooltip: ""
+			Label: Mutant
+			Tooltip: ""
 		}
 
 		EyeOfCthulhu: {
-			// Label: Eye of Cthulhu
-			// Tooltip: ""
+			Label: Eye of Cthulhu
+			Tooltip: ""
 		}
 
 		BrainOfCthulhu: {
-			// Label: Brain of Cthulhu
-			// Tooltip: ""
+			Label: Brain of Cthulhu
+			Tooltip: ""
 		}
 
 		MechBosses: {
-			// Tooltip: Determines which theme the Mech Bosses use.
-			// Label: Mech Bosses
+			Tooltip: Determines which theme the Mech Bosses use.
+			Label: Mech Bosses
 		}
 
 		QueenBee: {
-			// Tooltip: ""
-			// Label: Queen Bee
+			Tooltip: ""
+			Label: Queen Bee
 		}
 
 		EaterOfWorlds: {
-			// Tooltip: ""
-			// Label: Eater of Worlds
+			Tooltip: ""
+			Label: Eater of Worlds
 		}
 
 		Deviantt: {
-			// Tooltip: ""
-			// Label: Deviantt
+			Tooltip: ""
+			Label: Deviantt
 		}
 
 		Plantera: {
-			// Label: Plantera
-			// Tooltip: ""
+			Label: Plantera
+			Tooltip: ""
 		}
 
 		Purity: {
-			// Label: Forest
-			// Tooltip: ""
+			Label: Forest
+			Tooltip: ""
 		}
 
 		Jungle: {
-			// Label: Jungle
-			// Tooltip: ""
+			Label: Jungle
+			Tooltip: ""
 		}
 
 		UndergroundJungle: {
-			// Label: Underground Jungle
-			// Tooltip: ""
+			Label: Underground Jungle
+			Tooltip: ""
 		}
 
 		Crimson: {
-			// Label: Crimson
-			// Tooltip: ""
+			Label: Crimson
+			Tooltip: ""
 		}
 
 		Corruption: {
-			// Label: Corruption
-			// Tooltip: ""
+			Label: Corruption
+			Tooltip: ""
 		}
 
 		Space: {
-			// Label: Space
-			// Tooltip: ""
+			Label: Space
+			Tooltip: ""
 		}
 
 		Desert: {
-			// Label: Desert
-			// Tooltip: ""
+			Label: Desert
+			Tooltip: ""
 		}
 
 		Tundra: {
-			// Label: Tundra
-			// Tooltip: ""
+			Label: Tundra
+			Tooltip: ""
 		}
 
 		Hallow: {
-			// Label: Hallow
-			// Tooltip: ""
+			Label: Hallow
+			Tooltip: ""
 		}
 
 		Ocean: {
-			// Label: Ocean
-			// Tooltip: ""
+			Label: Ocean
+			Tooltip: ""
 		}
 
 		Baron: {
-			// Label: Baron
-			// Tooltip: ""
+			Label: Baron
+			Tooltip: ""
 		}
 
 		Dungeon: {
-			// Tooltip: ""
-			// Label: Dungeon
+			Tooltip: ""
+			Label: Dungeon
 		}
 
 		Mushroom: {
-			// Tooltip: ""
-			// Label: Mushroom
+			Tooltip: ""
+			Label: Mushroom
 		}
 
 		UndergroundHallow: {
-			// Tooltip: ""
-			// Label: Underground Hallow
+			Tooltip: ""
+			Label: Underground Hallow
 		}
 
 		Underground: {
-			// Label: Underground
-			// Tooltip: ""
+			Label: Underground
+			Tooltip: ""
 		}
 
 		PirateInvasion: {
-			// Tooltip: ""
-			// Label: Pirate Invasion
+			Tooltip: ""
+			Label: Pirate Invasion
 		}
 
 		LunarPillars: {
-			// Tooltip: ""
-			// Label: Lunar Pillars
+			Tooltip: ""
+			Label: Lunar Pillars
 		}
 
 		DukeFishron: {
-			// Tooltip: ""
-			// Label: Duke Fishron
+			Tooltip: ""
+			Label: Duke Fishron
 		}
 
 		UndergroundDesert: {
-			// Label: Underground Desert
-			// Tooltip: ""
+			Label: Underground Desert
+			Tooltip: ""
 		}
 
 		UndergroundCorruption: {
-			// Tooltip: ""
-			// Label: Underground Corruption
+			Tooltip: ""
+			Label: Underground Corruption
 		}
 
 		UndergroundCrimson: {
-			// Tooltip: ""
-			// Label: Underground Crimson
+			Tooltip: ""
+			Label: Underground Crimson
 		}
 
 		Forest: {
-			// Tooltip: ""
-			// Label: Forest
+			Tooltip: ""
+			Label: Forest
 		}
 
 		UndergroundTundra: {
-			// Label: Underground Tundra
-			// Tooltip: ""
+			Label: Underground Tundra
+			Tooltip: ""
 		}
 
 		Underworld: {
-			// Label: Underworld
-			// Tooltip: ""
+			Label: Underworld
+			Tooltip: ""
 		}
 
 		Rain: {
-			// Label: Rain
-			// Tooltip: ""
+			Label: Rain
+			Tooltip: ""
 		}
 
 		KingSlime: {
-			// Label: King Slime
-			// Tooltip: ""
+			Label: King Slime
+			Tooltip: ""
 		}
 
 		Sandstorm: {
-			// Label: Sandstorm
-			// Tooltip: ""
+			Label: Sandstorm
+			Tooltip: ""
 		}
 
 		Blizzard: {
-			// Label: Blizzard
-			// Tooltip: ""
+			Label: Blizzard
+			Tooltip: ""
 		}
 
 		Temple: {
-			// Label: Temple
-			// Tooltip: ""
+			Label: Temple
+			Tooltip: ""
 		}
 	}
 }
