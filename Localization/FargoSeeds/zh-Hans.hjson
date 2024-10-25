@@ -52,372 +52,372 @@ Mods: {
 					Label: "[i:68][i:1330] 同时存在两种邪恶地形"
 				}
 
-				DisplayName: Best of Both Worlds Config
-				Header0: Multipliers
-				Header1: Drunk Seed
-				Header2: Celebration Seed
-				Header3: For the Worthy Seed
+				DisplayName: Fargo最好的世界生成配置
+				Header0: 倍数配置
+				Header1: 醉酒世界配置
+				Header2: 十周年世界配置
+				Header3: 传奇世界配置
 
 				MarbleMultiplier: {
-					Label: "[i:3157] Marble Multiplier"
+					Label: "[i:3157] 大理石洞穴倍率"
 					Tooltip: ""
 				}
 
 				GraniteMultiplier: {
-					Label: "[i:3086] Granite Multiplier"
+					Label: "[i:3086] 花岗岩洞穴倍率"
 					Tooltip: ""
 				}
 
 				MarbleGraniteSwapped: {
-					Label: "[i:3157][i:3086] Marble and Granite Swapped"
+					Label: "[i:3157][i:3086] 大理石和花岗岩互换"
 					Tooltip: ""
 				}
 
 				GlowingMushroomMultiplier: {
-					Label: "[i:183] Glowing Mushroom Multiplier"
+					Label: "[i:183] 发光蘑菇倍率"
 					Tooltip: ""
 				}
 
 				LarvaMultiplier: {
-					Label: "[i:1133] Bee Larva Multiplier"
+					Label: "[i:1133] 幼虫倍率"
 					Tooltip: ""
 				}
 
 				LifeCrystalMultiplier: {
-					Label: "[i:29] Life Crystal Multiplier"
+					Label: "[i:29] 生命水晶倍率"
 					Tooltip: ""
 				}
 
 				StatueMultiplier: {
-					Label: "[i:52] Statue Multiplier"
+					Label: "[i:52] 雕像倍率"
 					Tooltip: ""
 				}
 
 				ChestMultiplier: {
-					Label: "[i:306] Chest Multiplier"
+					Label: "[i:306] 宝箱倍率"
 					Tooltip: ""
 				}
 
 				SpiderMultiplier: {
-					Label: "[i:952] Spider Cave Multiplier"
+					Label: "[i:952] 蜘蛛洞穴倍率"
 					Tooltip: ""
 				}
 
 				PotMultiplier: {
-					Label: "[i:345] Pot Multiplier"
+					Label: "[i:345] 罐子倍率"
 					Tooltip: ""
 				}
 
 				TrapMultiplier: {
-					Label: "[i:539] Trap Multiplier"
+					Label: "[i:539] 机关倍率"
 					Tooltip: ""
 				}
 
 				DungeonMultiplier: {
-					Label: "[i:134] Dungeon Toggle"
+					Label: "[i:134] 地牢是否生成"
 					Tooltip: ""
 				}
 
 				CaveMultiplier: {
-					Label: "[i:4761] Cave Multiplier"
+					Label: "[i:4761] 洞穴倍率"
 					Tooltip: ""
 				}
 
 				GemMultiplier: {
-					Label: "[i:182] Gem Multiplier"
+					Label: "[i:182] 宝石倍率"
 					Tooltip: ""
 				}
 
 				AltarMultiplier: {
-					Label: "[i:86] Altar Multiplier"
+					Label: "[i:86] 邪恶祭坛倍率"
 					Tooltip: ""
 				}
 
 				HiveMultiplier: {
-					Label: "[i:1126] Hive Multiplier"
+					Label: "[i:1126] 蜂巢倍率"
 					Tooltip: ""
 				}
 
 				DungeonToggle: {
-					Label: "[i:134] Dungeon Toggle"
+					Label: "[i:134] 地牢是否生成"
 					Tooltip: ""
 				}
 
 				FloatingIslandMultiplier: {
-					Label: "[i:838] Floating Island Multiplier"
+					Label: "[i:838] 空岛倍率"
 					Tooltip: ""
 				}
 
 				OreMultiplier: {
-					Label: "[i:13] Ore Multiplier"
+					Label: "[i:13] 矿石倍率"
 					Tooltip: ""
 				}
 
 				LakeMultiplier: {
-					Label: "[i:3086] Lake Multiplier"
+					Label: "[i:3086] 天湖倍率"
 					Tooltip: ""
 				}
 
-				HeaderToggles: Toggles
+				HeaderToggles: 生成配置
 
 				UnderworldToggle: {
-					Label: "[i:318] Underworld Toggle"
+					Label: "[i:318] 地狱是否生成"
 					Tooltip: ""
 				}
 
 				EvilToggle: {
-					Label: "[i:86][i:1329] World Evil Toggle"
+					Label: "[i:86][i:1329] 邪恶地形是否生成"
 					Tooltip: ""
 				}
 
 				DesertToggle: {
-					Label: "[i:276] Desert Toggle"
+					Label: "[i:276] 沙漠是否生成"
 					Tooltip: ""
 				}
 
 				JungleToggle: {
-					Label: "[i:208] Jungle Toggle"
+					Label: "[i:208] 丛林是否生成"
 					Tooltip: ""
 				}
 
 				IceToggle: {
-					Label: "[i:2358] Ice Toggle"
+					Label: "[i:2358] 雪原是否生成"
 					Tooltip: ""
 				}
 
 				ShimmerMultiplier: {
-					Label: "[i:5357] Aether Multiplier"
+					Label: "[i:5357] 以太倍率"
 					Tooltip: ""
 				}
 
 				OceanToggle: {
-					Label: "[i:2625] Ocean Toggle"
+					Label: "[i:2625] 海洋是否生成"
 					Tooltip: ""
 				}
 
 				MushroomToggle: {
-					Label: "[i:183] Glowing Mushroom Toggle"
+					Label: "[i:183] 发光蘑菇是否生成"
 					Tooltip: ""
 				}
 
 				TreeMultiplier: {
-					Label: "[i:4765] Tree Multiplier"
+					Label: "[i:4765] 树是否生成"
 					Tooltip: ""
 				}
 
 				LivingTreeMultiplier: {
-					Label: "[i:832] Living Tree Multiplier"
+					Label: "[i:832] 生命树倍率"
 					Tooltip: ""
 				}
 
-				HeaderExtras: Extras
+				HeaderExtras: 额外配置
 
 				SecondDungeon: {
-					Label: "[i:1169] Two Dungeons"
+					Label: "[i:1169] 双地牢"
 					Tooltip: ""
 				}
 
 				AllLava: {
-					Label: "[i:4820] Replace all Liquids with Lava"
+					Label: "[i:4820] 替换所有液体为岩浆"
 					Tooltip: ""
 				}
 
 				AllWater: {
-					Label: "[i:3031] Replace all Liquids with Water"
+					Label: "[i:3031] 替换所有液体为水"
 					Tooltip: ""
 				}
 
 				AllHoney: {
-					Label: "[i:5302] Replace all Liquids with Honey"
+					Label: "[i:5302] 替换所有液体为蜂蜜"
 					Tooltip: ""
 				}
 
 				AllShimmer: {
-					Label: "[i:5364] Replace all Liquids with Shimmer"
+					Label: "[i:5364] 替换所有液体为微光"
 					Tooltip: ""
 				}
 
 				LiquidSwap: {
-					Label: "[i:3031][i:4820][i:5302][i:5364] Randomly Swap Liquids"
+					Label: "[i:3031][i:4820][i:5302][i:5364] 随机交换液体"
 					Tooltip: ""
 				}
 
 				CavesToggle: {
-					Label: "[i:315] Caves Toggle"
+					Label: "[i:315] 洞穴是否生成"
 					Tooltip: ""
 				}
 
 				EarlyHardMode: {
-					Label: "[i:3335] Start in HardMode"
+					Label: "[i:3335] 苦难模式开局"
 					Tooltip: ""
 				}
 
 				UndergroundDungeon: {
-					Label: "[i:1274] Underground Dungeon"
+					Label: "[i:1274] 地下地牢"
 					Tooltip: ""
 				}
 
 				RainbowCabins: {
-					Label: "[i:662] Rainbow Underground Cabins"
+					Label: "[i:662] 彩虹地下小屋"
 					Tooltip: ""
 				}
 
 				ExtraShimmer: {
-					Label: "[i:5340] Extra Shimmer Pools"
+					Label: "[i:5340] 额外微光湖"
 					Tooltip: ""
 				}
 
-				HeaderConstant: Constant Seed
+				HeaderConstant: 饥荒世界配置
 
 				SurfaceSpiders: {
-					Label: "[i:2607] Surface Spider Caves"
+					Label: "[i:2607] 地表蜘蛛洞"
 					Tooltip: ""
 				}
 
 				SurfaceMarble: {
-					Label: "[i:3157] Surface Marble"
+					Label: "[i:3157] 地表大理石"
 					Tooltip: ""
 				}
 
 				WavyCaves: {
-					Label: "[i:4524] Wavy Caves"
+					Label: "[i:4524] 波浪洞穴"
 					Tooltip: ""
 				}
 
 				PaintEverything: {
-					Label: "[i:1073] Paint Everything"
+					Label: "[i:1073] 上色一切！"
 					Tooltip: ""
 				}
 
-				HeaderTraps: No Traps Seed
+				HeaderTraps: 陷阱世界配置
 
 				NoTraps: {
-					Label: '''[i:5384] "No" Traps'''
+					Label: '''[i:5384] "没有" 陷阱'''
 					Tooltip: ""
 				}
 
-				HeaderRemix: Remix Seed
+				HeaderRemix: 颠倒世界配置
 
 				EvilSurface: {
-					Label: "[i:59][i:2171] Evil Surface"
+					Label: "[i:59][i:2171] 地表邪恶"
 					Tooltip: ""
 				}
 
 				SurfaceTemple: {
-					Label: "[i:1153] Surface Temple"
+					Label: "[i:1153] 地表丛林神庙"
 					Tooltip: ""
 				}
 
 				UnderworldSpawn: {
-					Label: "[i:207] Underworld Spawn"
+					Label: "[i:207] 地狱生成点"
 					Tooltip: ""
 				}
 
 				MushroomLayer: {
-					Label: "[i:183] Mushroom Layer"
+					Label: "[i:183] 发光蘑菇层"
 					Tooltip: ""
 				}
 
 				AetherToggle: {
-					Label: "[i:5340] Aether Toggle"
+					Label: "[i:5340] 以太是否生成"
 					Tooltip: ""
 				}
 
 				SurfaceMushroom: {
-					Label: "[i:183] Surface Mushroom Biome"
+					Label: "[i:183] 地表发光蘑菇地"
 					Tooltip: ""
 				}
 
 				AetherIsland: {
-					Label: "[i:5340] Aether Floating Island"
+					Label: "[i:5340] 以太空岛"
 					Tooltip: ""
 				}
 
 				MinecartMultiplier: {
-					Label: "[i:2340] Minecart Track Multiplier"
+					Label: "[i:2340] 矿车轨道倍率"
 					Tooltip: ""
 				}
 
 				SecondShimmer: {
-					Label: "[i:5340] Two Shimmers"
+					Label: "[i:5340] 双微光"
 					Tooltip: ""
 				}
 
 				MicroMultiplier: {
-					Label: "[i:2340][i:989] Microbiome Multiplier"
+					Label: "[i:2340][i:989] 建筑物倍率"
 					Tooltip: ""
 				}
 
 				HardModeOreMulti: {
-					Label: "[i:364] HardMode Ore"
+					Label: "[i:364] 困难模式矿石"
 					Tooltip: ""
 				}
 
-				HeaderPost: No Evil Spread Header
+				HeaderPost: 邪恶不蔓延
 
 				NoEvilSpread: {
-					Label: "[i:66] No Evil Spread"
+					Label: "[i:66] 邪恶不蔓延"
 					Tooltip: ""
 				}
 
 				RemixUnderworld: {
-					Label: "[i:207] Remix Underworld"
+					Label: "[i:207] 颠倒地狱"
 					Tooltip: ""
 				}
 
 				RandomSpawn: {
-					Label: "[i:267] Random Spawn Location"
+					Label: "[i:267] 随机出生点"
 					Tooltip: ""
 				}
 
 				MahoganyTrees: {
-					Label: "[i:3360] Mahogany Trees Everywhere"
+					Label: "[i:3360] 超多红木"
 					Tooltip: ""
 				}
 
 				spawnLocation: {
-					Label: "[i:267] Spawn Location"
+					Label: "[i:267] 生成地点"
 					Tooltip: ""
 				}
 
 				liquidReplace: {
-					Label: "[i:3031][i:4820][i:5302][i:5364] Replace all Liquids With"
+					Label: "[i:3031][i:4820][i:5302][i:5364] 替换所有液体为"
 					Tooltip: ""
 				}
 
 				startingNPC: {
-					Label: "[i:267] Starting NPC"
+					Label: "[i:267] 初始NPC"
 					Tooltip: ""
 				}
 			}
 
 			SpawnLocation: {
 				Tooltip: ""
-				Normal.Label: Normal
-				Ocean.Label: Ocean
-				Underworld.Label: Underworld
-				Random.Label: Random
+				Normal.Label: 正常
+				Ocean.Label: 海洋
+				Underworld.Label: 地狱
+				Random.Label: 随机
 			}
 
 			LiquidReplace: {
 				Tooltip: ""
-				None.Label: None
-				Water.Label: Water
-				Lava.Label: Lava
-				Honey.Label: Honey
-				Shimmer.Label: Shimmer
-				Random.Label: Random
+				None.Label: 无
+				Water.Label: 水
+				Lava.Label: 岩浆
+				Honey.Label: 蜂蜜
+				Shimmer.Label: 微光
+				Random.Label: 随机
 			}
 
 			StartingNPC: {
 				Tooltip: ""
-				Guide.Label: Guide
-				PartyGirl.Label: Party Girl
-				Merchant.Label: Merchant
-				Demolitionist.Label: Demolitionist
-				PartyGroup.Label: Party Group
-				TaxCollector.Label: Tax Collector
-				Angler.Label: Angler
+				Guide.Label: 向导
+				PartyGirl.Label: 派对女孩
+				Merchant.Label: 商人
+				Demolitionist.Label: 爆破专家
+				PartyGroup.Label: 派对组
+				TaxCollector.Label: 税收官
+				Angler.Label: 渔夫
 			}
 		}
 	}

@@ -1,10 +1,10 @@
 SoulOfTmod: {
-	DisplayName: Soul of Unification
+	DisplayName: 大一统之魂
 	Tooltip:
 		'''
-		Contains the power of many forces
-		A fragment of eternity
-		'What did it costs?'
+		蕴含着众多力量
+		这仅仅是永恒的一角
+		“代价如何？”
 		'''
 }
 
@@ -389,89 +389,89 @@ FrostburnForce: {
 }
 
 CommonGuardEnchant: {
-	DisplayName: Common Guard Enchantment
+	DisplayName: 共同卫兵魔石
 	Tooltip:
 		'''
-		+12% increased melee speed 
-		Reduces damage taken by 6%
-		Effect of Trapped Soul Bauble
+		+12%近战攻速
+		减少6%受到的伤害
+		获得缚魂珠的效果
 		'''
 }
 
 DragonLeadEnchant: {
-	DisplayName: Dragon Lead Enchantment
+	DisplayName: 龙铅魔石
 	Tooltip:
 		'''
-		20% increased Ice elemental resistance
-		33% chance for weapons to inflict Dragonblaze 
-		100% chance for all Dragon-Lead weapons to inflict Dragonblaze
-		Effect of Heart Insignia
-		- Good Route -
+		增加20%冰元素抗性
+		武器有33%的几率附加龙炎效果
+		龙铅武器有100%的概率施加龙炎效果
+		获得心形徽章的效果
+		- 好方法！ -
 		'''
 }
 
 PureIronEnchant: {
-	DisplayName: Pure Iron Enchantment
+	DisplayName: 净钢魔石
 	Tooltip:
 		'''
-		20% increased Fire elemental resistance 
-		33% chance for weapons to inflict Pure Chill 
-		100% chance for all Pure-Iron weapons to inflict Pure Chill
-		Effect of Erhan's Cross
-		- Bad Route -
+		增加20%火元素抗性
+		武器有33%的几率附加净寒效果
+		净钢武器有100%的概率施加净寒效果
+		获得埃尔罕十字架的效果
+		- 差方法！ -
 		'''
 }
 
 HardlightEnchant: {
-	DisplayName: Hardlight Enchantment
+	DisplayName: 强光魔石
 	Tooltip:
 		'''
-		Press 'Special Ability Key' to get different effects of Hardlight Armor
-		Effects depend on what weapon class you are using and will not work if you aren't holding any
-		Melee: Summons 2 orbiting mini spaceships that fire lasers whenever you attack using a melee weapon
-		Ranged: Fires a missile barrage, targetting the enemy nearest to the cursor position
-		Magic: Summons a drone that gives a continuous feed of mana for 10 seconds
-		Summon: Summons 2 missile drones and a magnet drone
+		按下“特殊能力按键”来获得与强光套装相同效果
+		效果取决于你正在使用的武器种类，如果你没有持有任何武器则不会生效.
+		近战: 召唤2架迷你宇宙飞船环绕着你，使用近战武器攻击时发射激光
+		远程: 从弑君者飞船发射一波导弹轰炸，瞄准距离你光标最近的敌人
+		魔法: 召唤一架无人机，持续10秒为你补充魔力
+		召唤: 召唤2架导弹无人机和1架磁能无人机
 		'''
 }
 
 LivingTwigEnchant: {
-	DisplayName: Living Twig Enchantment
+	DisplayName: 生命木魔石
 	Tooltip:
 		'''
-		Immunity to the Poisoned debuff 
-		3% Increased minions damage
+		免疫中毒减益
+		增加3%随从伤害
 		'''
 }
 
 XeniumEnchant: {
-	DisplayName: Xenium Enchantment
+	DisplayName: 异金魔石
 	Tooltip:
 		'''
-		+10 increased Energy regeneration 			
-		Effects of Beelzebub Concoction and Infected Thornshield
+		+10能量恢复速度		
+		获得瘟魔混浆和疫染荆棘盾的效果
 		'''
 }
 
 XenomiteEnchant: {
-	DisplayName: Xenomite Enchantment
+	DisplayName: 异辉魔石
 	Tooltip:
 		'''
-		Press 'Special Ability Key' to unleash toxic gas in a radius around the player, inflicting Burning Acid
-		Effect of Necklace of Perception
+		按下“特殊能力按键”来在玩家周围释放有毒气体，造成沸腾酸液减益
+		获得感知项链的效果
 		'''
 }
 
 AdvancementForce: {
-	DisplayName: Force of Advancement
+	DisplayName: 飞升之力
 	Tooltip:
 		'''
-		[i:FargoMoreSoulsCompat/LivingTwigEnchant] Immunity to the Poisoned debuff 
-		[i:FargoMoreSoulsCompat/CommonGuardEnchant] +12% increased melee speed and reduces damage taken by 6%
-		[i:FargoMoreSoulsCompat/PureIronEnchant][i:FargoMoreSoulsCompat/DragonLeadEnchant] 33% chance for weapons to inflict Pure Chill and Dragonblaze  
-		[i:FargoMoreSoulsCompat/PureIronEnchant][i:FargoMoreSoulsCompat/DragonLeadEnchant] 100% chance for all Dragon-Lead weapons to inflict Pure Chill and Dragonblaze
-		[i:FargoMoreSoulsCompat/PureIronEnchant][i:FargoMoreSoulsCompat/DragonLeadEnchant] 20% increased Ice and Fire elemental resistance 
-		[i:FargoMoreSoulsCompat/HardlightEnchant] Press 'Special Ability Key' to get different effects of Hardlight Armor
-		[i:FargoMoreSoulsCompat/XeniumEnchant] +10 increased Energy regeneration
+		[i:FargoMoreSoulsCompat/LivingTwigEnchant] 免疫中毒减益
+		[i:FargoMoreSoulsCompat/CommonGuardEnchant] 增加12近战攻速并减少6%受到的伤害
+		[i:FargoMoreSoulsCompat/PureIronEnchant][i:FargoMoreSoulsCompat/DragonLeadEnchant] 武器有33%的几率附加净寒和龙炎效果
+		[i:FargoMoreSoulsCompat/PureIronEnchant][i:FargoMoreSoulsCompat/DragonLeadEnchant] 净钢武器有100%的概率施加净寒效果，龙铅武器有100%的概率施加龙炎效果
+		[i:FargoMoreSoulsCompat/PureIronEnchant][i:FargoMoreSoulsCompat/DragonLeadEnchant] 增加20%火元素与冰元素抗性
+		[i:FargoMoreSoulsCompat/HardlightEnchant] 按下“特殊能力按键”来获得与强光套装相同效果
+		[i:FargoMoreSoulsCompat/XeniumEnchant] +10能量恢复速度	
 		'''
 }
