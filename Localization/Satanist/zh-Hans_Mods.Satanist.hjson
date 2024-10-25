@@ -84,8 +84,8 @@ Configs: {
 		}
 
 		DialogueDaddyEnabled: {
-			Label: daddy开关
-			Tooltip: 启用以让NPC称呼你为daddy
+			Label: Daddy开关
+			Tooltip: 启用以让NPC称呼你为Daddy
 		}
 
 		HostileProjectileScale: {
