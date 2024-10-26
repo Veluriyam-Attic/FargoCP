@@ -1,6 +1,6 @@
 Configs: {
 	TooManySlotsConfig: {
-		DisplayName: Fargo储存饰品栏配置
+		DisplayName: Fargo背包饰品配置
 
 		Inventory: {
 			Label: 背包饰品生效

@@ -1,21 +1,68 @@
-[h1]This is a Chinese-translation Mod for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019925104] Lunar Veil Legacy[/url] [/h1]
+[h1]This is a Chinese-translation Mod for Some Fargo's Mod [/h1]
 
 [h1]†Ξ介绍Ξ†[/h1]
-本品为由玲珑汉化组出品的
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019925104] Lunar Veil Legacy：穹月天纱 传承 [/url] 汉化
+本品为由玲珑汉化组和ROH共同制作的汉化
 汉化进度：99%
-适配穹月天纱版本1.7.0.1
+适配模组列表
+[code] 
+[olist]
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3248054405] More Fargo's Souls [/url] 
+灾厄瑟银Fargo魂石拓展
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3139796298] Satanist Mode [/url] 
+撒旦模式
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3138681141] Masochist Mode EX [/url] 
+受虐EX模式
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3044249615] Fargo's Souls DLC (Calamity) [/url] 
+灾厄FargoDLC
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838767066] Utilities for Fargo's Souls [/url] 
+实用Fargo魂石配置
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2926396335] Javyz' Fargo Music DLC [/url] 
+Javyz的Fargo音乐DLC
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3061125617] Fargos Expert Modifications [/url] 
+Fargo的专家配置
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3326463997] Fargo's Souls More Cross-mod (Unofficial Addon) [/url] 
+非官方Fargo魂多开衔接模组（魂灵、救赎、Consolaria）
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2565993369] Fargo's Testing Mod [/url] 
+Fargo测试模组
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567015462] Fargo's Hyper Mode [/url] 
+Fargo超级模式
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567016793] Fargo's OmniWield [/url] 
+Fargo背包物品生效
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567018576] Fargo's Equipable Inventory [/url] 
+Fargo背包饰品生效
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567152289] Fargo's Fallen Stars [/url] 
+Fargo落星
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567156295] Fargo's Fish Anything [/url] 
+Fargo钓上一切
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590054406] Fargo's Crafting Tree Generator [/url] 
+Fargo合成树导出
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590065264] Fargo's Banner Boost [/url] 
+Fargo针对性免疫
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2802867430] Fargo's Best of Both Worlds [/url] 
+Fargo最好的世界生成
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2823410160] Fargo's Rainbow Mod [/url] 
+Fargo彩虹世界
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2803697863] Fargo's Loot Bonus [/url] 
+Fargo掉落物修改
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2906451681] Fargo's Soul Mod Extras [/url] 
+额外Fargo魂石
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3015054070] Paper Mario Badges [/url] 
+Fargo马里奥物品
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3329620648] StarlightCat's Fargos Expansion [/url] 
+StarlightCat的Fargo魂石拓展
+[/olist] 
+[/code] 
 
 反馈群号：909428503
 贡献汉化：3412615165
 
 [h1]†Ξ使用方法Ξ†[/h1]
-1.同时订阅穹月天纱Mod和本汉化Mod
+1.同时订阅你想要游玩的Mod和本汉化Mod
 2.进入tModLoader，在模组管理中启用本汉化Mod
 3.重载模组
 
 [h1]†Ξ后续规划Ξ†[/h1]
-1.将全流程攻略并入汉化模组
+纠正错误文本，增加新的Fargo系列翻译
 
 [quote=虞悖] 致谢：
-玲珑汉化组全体初代组员以及后续维护人员 [/quote] 
+Fargo汉化人员&玲珑汉化组[/quote] 
