@@ -1,1 +1,21 @@
-Modify this file with a description of your mod.
+[h1]This is a Chinese-translation Mod for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019925104] Lunar Veil Legacy[/url] [/h1]
+
+[h1]†Ξ介绍Ξ†[/h1]
+本品为由玲珑汉化组出品的
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019925104] Lunar Veil Legacy：穹月天纱 传承 [/url] 汉化
+汉化进度：99%
+适配穹月天纱版本1.7.0.1
+
+反馈群号：909428503
+贡献汉化：3412615165
+
+[h1]†Ξ使用方法Ξ†[/h1]
+1.同时订阅穹月天纱Mod和本汉化Mod
+2.进入tModLoader，在模组管理中启用本汉化Mod
+3.重载模组
+
+[h1]†Ξ后续规划Ξ†[/h1]
+1.将全流程攻略并入汉化模组
+
+[quote=虞悖] 致谢：
+玲珑汉化组全体初代组员以及后续维护人员 [/quote] 
