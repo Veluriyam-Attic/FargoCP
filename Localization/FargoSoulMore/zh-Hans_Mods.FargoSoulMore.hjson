@@ -1,0 +1,392 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	RealityTranscendentor: {
+		DisplayName: Reality Transcendentor
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	GodEnchantment: {
+		DisplayName: Soul of the Transcendentor
+		Tooltip:
+			'''
+			Grants immunity to Mutant Rebirth, Time Frozen, Coffin Toss Buff, Time Stop Cooldown, Abominable Cooldown, Berserker Cooldown, Abominable Fang, Abominable Presence, God Eater, Mutant Fang, Mutant Presence, Lovestruck, Fake Hearts, Deviant Presence
+			Effects of [i:FargowiltasSouls/EternitySoul] Soul of Eternity, [i:FargoSoulMore/TyrantSoul] Tyrant Soul
+			[i:FargowiltasSouls/AbominableWand] Can endure any attack and survive with one life, endurance recovers when you reach max life
+			Increased damage gained Sparkling Adoration graze, halves heart cooldown, Abominationn periodically manifests to support your critical hits
+			If with Styx armor, charges energy when graze is maxed
+			[i:FargowiltasSouls/StyxCrown][i:FargowiltasSouls/StyxChestplate][i:FargowiltasSouls/StyxLeggings] 20% Increased damage for current weapon class
+			Attack enemies to charge energy, reduces damage taken for energy
+			Double tap down key to release energy as homing shots & brandish a blade of infernal magic when fully charged
+			Your attacks inflict Abominable Fang, Mutant Fang, God Eater, Hellfire, Deviant Presence
+			[i:FargowiltasSouls/MutantEye] 25% increased graze bonus damage cap
+			Converts Sparkling Adoration hearts to love rays, Increases damage gained per graze
+			Increases Spectral Abominationn respawn rate & damage
+			Press the bomb key to unleash a wave of spheres and destroy most hostile projectiles, it has 60 second cooldown
+			[i:FargowiltasSouls/MutantMask][i:FargowiltasSouls/MutantBody][i:FargowiltasSouls/MutantPants] Phantasmal eyes will shoot phantasmal deathray at nearby enemies
+			Summons spectral abominationn, you erupt into a massive deathray when revived, 20% increased weapon use speed
+			Max damage you take is capped at 1000
+			[i:FargowiltasSouls/SparklingAdoration] Graze attacks to gain up to x1.25 increased damage
+			Damage bonus decreases over time and is fully lost on hit
+			Your attacks periodically summon life draining heart
+			[i:FargowiltasSouls/NekomiHood][i:FargowiltasSouls/NekomiHoodie][i:FargowiltasSouls/NekomiLeggings] 7% increased damage & critical strike chance for your current weapon class
+			Increases Sparkling Adoration graze radius, graze attacks to temporarily charge energy
+			Increases life regeneration when damaged at the cost of some energy
+			Double tap down key to release energy as life draining heart
+			Wield a demon axe of love and justice when fully charged
+			Effects of [i:FargowiltasSouls/EridanusHat][i:FargowiltasSouls/EridanusBattleplate][i:FargowiltasSouls/EridanusLegwear]Eridanus Armor, [i:FargowiltasSouls/GaiaHelmet][i:FargowiltasSouls/GaiaPlate][i:FargowiltasSouls/GaiaGreaves]Gaia Armor
+			'Transcend the god limits, ascending to true eternity.'
+			'''
+	}
+
+	PhantasmalEnchantment: {
+		Tooltip:
+			'''
+			Grants immunity to Mutant Fang, Mutant Presence, God Eater
+			[i:FargowiltasSouls/MutantEye] 25% increased graze bonus damage cap
+			Converts Sparkling Adoration hearts to love rays, Increases damage gained per graze
+			Increases Spectral Abominationn respawn rate & damage
+			Press the bomb key to unleash a wave of spheres and destroy most hostile projectiles, it has 60 second cooldown
+			[i:FargowiltasSouls/MutantMask][i:FargowiltasSouls/MutantBody][i:FargowiltasSouls/MutantPants] Phantasmal eyes will shoot phantasmal deathray at nearby enemies
+			Summons spectral abominationn, you erupt into a massive deathray when revived, 20% increased weapon use speed
+			Max damage you take is capped at 1000
+			Your attacks inflict Mutant Fang
+			'Very suspicious'
+			'''
+		DisplayName: Phantasmal Enchantment
+	}
+
+	TrueMutantEnergy: {
+		DisplayName: True Mutant Energy
+		Tooltip: ""
+	}
+
+	TrueMutantsCurse: {
+		DisplayName: True Mutant's Curse
+		Tooltip: ""
+	}
+
+	AbominableEnchantment: {
+		DisplayName: Abominable Enchantment
+		Tooltip:
+			'''
+			Grants immunity to Abominable Fang, Abominable Presence, God Eater
+			[i:FargowiltasSouls/AbominableWand] Can endure any attack and survive with one life, endurance recovers when you reach max life
+			Increased damage gained Sparkling Adoration graze, halves heart cooldown, Abominationn periodically manifests to support your critical hits
+			If with Styx armor, charges energy when graze is maxed
+			[i:FargowiltasSouls/StyxCrown][i:FargowiltasSouls/StyxChestplate][i:FargowiltasSouls/StyxLeggings] 20% Increased damage for current weapon class
+			Attack enemies to charge energy, reduces damage taken for energy
+			Double tap down key to release energy as homing shots & brandish a blade of infernal magic when fully charged
+			Your attacks inflict Abominable Fang
+			'Embrace infernal magic'
+			'''
+	}
+
+	DeviatingEnchantment: {
+		DisplayName: Deviating Enchantment
+		Tooltip:
+			'''
+			Grants immunity to Lovestruck, Fake Hearts, Deviant Presence
+			[i:FargowiltasSouls/SparklingAdoration] Graze attacks to gain up to x1.25 increased damage
+			Damage bonus decreases over time and is fully lost on hit
+			Your attacks periodically summon life draining heart
+			[i:FargowiltasSouls/NekomiHood][i:FargowiltasSouls/NekomiHoodie][i:FargowiltasSouls/NekomiLeggings] 7% increased damage & critical strike chance for your current weapon class
+			Increases Sparkling Adoration graze radius, graze attacks to temporarily charge energy
+			Increases life regeneration when damaged at the cost of some energy
+			Double tap down key to release energy as life draining heart
+			Wield a demon axe of love and justice when fully charged
+			Your attacks inflict Deviant Presence
+			'Deviating'
+			'''
+	}
+
+	DaedalusEnchantment: {
+		DisplayName: Daedalus Enchantment
+		Tooltip:
+			'''
+			[i:CalamityMod/OrnateShield] Allows the ability to ram dash, this dash can slam through enemies without taking damage
+			Immunity to Chilled, Frostburn, Frostbite and Frozen
+			Effects of Daedalus Armor
+			'Cryonic'
+			'''
+	}
+
+	ReaverEnchantment: {
+		DisplayName: Reaver Enchantment
+		Tooltip:
+			'''
+			[i:CalamityMod/LivingDew] Increases max life by 50
+			Grants +1 life regen and an additional +1 life regen when inflicted with a damage debuff
+			Standing still in Honey grants +1.5 life regen
+			sHalves how long you are afflicted with fire and sickness debuffs
+			Effects of Reaver Armor
+			'It's living'
+			'''
+	}
+
+	PlaguebringerEnchantment: {
+		DisplayName: Plaguebringer Enchantment
+		Tooltip:
+			'''
+			[i:CalamityMod/BloomStone] Grants between +1 HP/s and +3 HP/s life regen depending on time of day
+			Accelerates life regen based on time of day
+			Both of these effects are maximized from noon to sunset
+			Flowers grow if you are standing on grass
+			Random dye plants will grow while standing on non grass dirt
+			Effects of Plaguebringer Armor
+			'Plague'
+			'''
+	}
+
+	HydrothermicEnchantment: {
+		DisplayName: Hydrothermic Enchantment
+		Tooltip:
+			'''
+			[i:CalamityMod/VoidofExtinction] 13% increased critical strike chance
+			Critical strikes explode, causing nearby enemies to ignite with Brimstone Flames
+			Reduces Brimstone Flames debuff damage
+			Effects of Hydrothermic Armor
+			'Warm'
+			'''
+	}
+
+	DevastationForce: {
+		DisplayName: Force of Devastation
+		Tooltip:
+			'''
+			[i:FargoSoulMore/DaedalusEnchantment] Effects of Daedalus Armor, Ornate Shield
+			[i:FargoSoulMore/HydrothermicEnchantment] Effects of Hydrothermic Armor, Void of Extinction
+			[i:FargoSoulMore/ReaverEnchantment] Effects of Reaver Armor, Living Dew
+			[i:FargoSoulMore/PlaguebringerEnchantment] Effects of Plaguebringer Armor, Bloom Stone
+			'''
+	}
+
+	TyrantSoul: {
+		DisplayName: Tyrant Soul
+		Tooltip:
+			'''
+			[i:CalamityMod/TheEvolution] You reflect projectiles when they hit you, reflected projectiles deal no damage to you, projectiles that deal less than 5% of your max life in damage will not be reflected
+			Reflect has a cooldown that ranges between 15 and 90 seconds depending on the reflected projectile's damage, this cooldown is shared with all other dodges and reflects
+			After reflecting, grants +1 life regen and accelerated life regen for 5 seconds, if the same enemy projectile type hits you again you will resist its damage by 15%
+			[i:CalamityMod/HideofAstrumDeus] Taking damage / inflicting a true melee strike, drops an immense amount of astral stars from the sky, taking damage boosts true melee damage by 30%, boost duration scales with the amount of damage you took, up to 10 seconds
+			immunity to the astral infection, cursed inferno, on fire, and frostburn, enemies take damage when they hit you and inflicted with the astral infection
+			[i:CalamityMod/BlazingCore] Pressing activate accessory parry key will activate a parry, encasing you in profaned crystal, being hit shortly after encasement will shatter the crystal
+			Upon shattering, waves of holy stars spiral outwards and the damage you would have taken is reduced to 1, after shattering, this damage reduction effect goes on cooldown
+			If another encasement is shattered whilst on cooldown, healing stars will be interspersed throughout the waves of stars, the damage of a hit is not reduced whilst on cooldown, provides a moderate amount of light in the Abyss
+			[i:CalamityMod/PhantomicArtifact] Whenever your minions hit an enemy you will gain a random phantomic buff, does not stack with downgrades, phantomic Empowerment increases summon damage by 10% and makes minion hits spawn phantomic knives
+			Phantomic Shield increases defense by 10 and damage reduction by 5% and spawns a phantomic bulwark which absorbs 20% of the next projectile's damage that touches it
+			Phantomic Regen grants +2 life regen and spawns a phantomic heart which grants an additional 2 life regen when touched, [I:FargoSoulMore/TyrantSoul] grants immunity to Calamitous Presence
+			[i:CalamityMod/BloodflareCore] Taking defense damage heals you over time, you gain 1 health for every 1 defense damage recovered, taking damage always deals at least half of your total defense in defense damage
+			[i:CalamityMod/EldritchSoulArtifact] Boosts melee speed by 10%, ranged velocity by 25%, rogue stealth regen by 15%, max minions by 1, reduces mana cost by 25%, grants immunity to whispering death
+			[i:CalamityMod/AuricSoulArtifact] For each Fiery Draconid you have summoned, you gain 1 minion slot, effects of [i:CalamityMod/TheCommunity] The Community, [i:CalamityMod/ShatteredCommunity] Shattered Community, [i:CalamityMod/DimensionalSoulArtifact] multiplies all damage by 1.2x, but at the cost of increasing damage taken by 15%
+			[i:CalamityMod/TheAbsorber] 12% increased movement and jump speed, grants immunity to knockback, enemies take immense damage when they touch you and are afflicted with a damaging sickness debuff that reduces damage reduction significantly
+			Using a healing potion will spawn a cleansing aura, aura removes all debuffs one time, aura grants +3 life regen, +8% damage, and +5% damage reduction for all players inside for 10 seconds, 5% of the damage from enemy attacks is absorbed and converted into healing
+			[i:CalamityMod/Affliction] Grants you and all other players on your team +0.5 life regen, +10% max life, 7% damage reduction, 13 defense and +10% damage
+			[i:CalamityMod/DarkSunRing] 12% increase to damage, +0.5 life regen and +2 max minions, increases minion knockback, during the day, grants +2 life regen, during the night, grants +20 defense, during an eclipse, grants +1 life regen and +10 defense
+			[i:FargowiltasCrossmod/BrandoftheBrimstoneWitch] Effects of [i:CalamityMod/HeartoftheElements] Heart of the Elements, [i:CalamityMod/OccultSkullCrown] Occult Skull Crown, [i:CalamityMod/Radiance] Radiance, [i:CalamityMod/TheSponge] The Sponge, [i:CalamityMod/ChaliceOfTheBloodGod] Chalice of the Blood God, [i:CalamityMod/NebulousCore] Nebulous Core, [i:CalamityMod/YharimsGift] Yharim's Gift, [i:CalamityMod/DraedonsHeart] Draedon's heart and [i:CalamityMod/Calamity] Calamity
+			[i:FargowiltasCrossmod/MarniteEnchant] 25% increased placement speed and +10 placement range, lasers strike nearby enemies when building and mining, effects of [i:CalamityMod/MarniteRepulsionShield] Marnite Repulsion Shield, [i:FargowiltasCrossmod/WulfrumEnchant] wulfrum drone tells you enemy debuff weaknesses and makes enemies take extra debuff damage
+			[i:FargowiltasCrossmod/DesertProwlerEnchant] Replaces jumping boot hovering with a charged sand jump that boosts you horizontally, [i:FargowiltasCrossmod/AerospecEnchant] jumping and using double jumps increase critical strike chance and summon damage
+			[i:FargowiltasCrossmod/SulphurEnchant] Grants an extra jump that spawns a bubble, shooting the bubble releases toxic gas, [i:FargowiltasCrossmod/VictideEnchant] gives you urchin spikes, which after attacking for a short time and releasing attack, launch outward
+			[i:FargoSoulMore/DaedalusEnchantment] Effects of Daedalus Armor, Ornate Shield, [i:FargoSoulMore/HydrothermicEnchantment] Effects of Hydrothermic Armor, Void of Extinction, [i:FargoSoulMore/ReaverEnchantment] Effects of Reaver Armor, Living Dew, [i:FargoSoulMore/PlaguebringerEnchantment] Effects of Plaguebringer Armor, Bloom Stone
+			'The ruler of the jungle'
+			'''
+	}
+
+	PlagueReaperEnchantment: {
+		DisplayName: Plague Reaper Enchantment
+		Tooltip:
+			'''
+			[i:CalamityMod/LumenousAmulet] Attacks inflict Crush Depth
+			Immunity to Riptide and Crush Depth
+			25% increased max life while in the abyss
+			Provides moderate amount of light in the abyss
+			Effects of Plague Reaper Armor
+			'Plague's soul harvesting'
+			'''
+	}
+
+	TitanHeartEnchantment: {
+		DisplayName: Titan Heart Enchantment
+		Tooltip:
+			'''
+			[i:CalamityMod/AeroStone] Provides an additional 50 flight time
+			You slowly recover flight time while in the air if you are not flying or gliding
+			Effects of Titan Heart Armor
+			'Atlas'
+			'''
+	}
+
+	UmbraphileEnchantment: {
+		DisplayName: Umbraphile Enchantment
+		Tooltip:
+			'''
+			[i:CalamityMod/VampiricTalisman] Rogue projectiles give lifesteal on crits
+			12% increased rogue damage
+			Effects of Umbraphile Armor
+			'The eclipse'
+			'''
+	}
+
+	TerrariumEnchantment: {
+		DisplayName: Terrarium Enchantment
+		Tooltip:
+			'''
+			[i:ThoriumMod/TerrariumSurroundSound] Increases symphonic damage by 10%
+			You and nearby allies have a chance to elementally backlash enemies when attacking
+			Doubles the range of your empowerments effect radius
+			[i:ThoriumMod/TerrariumDefender] Maximum life increased by 20, prolonges after hit invincibility
+			Grants immunity to most debuffs, knockback, fire blocks
+			When above 25% life, absorbs 25% of damage done to nearby players on your team
+			When below 25% life, you will rapidly regenerate life and gain increased defense
+			[i:ThoriumMod/TerrariumParticleSprinters] Allows flight, hyper fast running, extra mobility on ice
+			10% increased movement speed, Grants immunity to fire blocks and lava
+			[i:FargoSoulMore/ThoriumEnchantment] Effects of Thorium Enchantment
+			Effects of Terrarium Armor
+			'The might of Terraria'
+			'''
+	}
+
+	ThoriumEnchantment: {
+		DisplayName: Thorium Enchantment
+		Tooltip:
+			'''
+			[i:ThoriumMod/RingofUnity] Increases damage by 1
+			Increases damage by additional 1 for every nearby player that also has it equipped
+			[i:FargoSoulMore/JesterEnchantment] Effects of Jester Enchantment
+			Effects of Thorium Armor
+			'The essence of Thorium'
+			'''
+	}
+
+	JesterEnchantment: {
+		DisplayName: Jester Enchantment
+		Tooltip:
+			'''
+			[i:ThoriumMod/MixTape] Your symphonic damage will briefly singe hit enemies
+			Symphonic critical strikes cause an eruption of molten music notes
+			Effects of Jester Armor
+			'Clown'
+			'''
+	}
+
+	ShadeMasterEnchantment: {
+		DisplayName: Shade Master Enchantment
+		Tooltip:
+			'''
+			[i:ThoriumMod/ShinobiSigil] 6% increased throwing critical strike chance
+			Dealing two consecutive throwing critical strikes will discharge dark lightning and increase throwing speed briefly 
+			Effects of Shade Master Armor
+			'Living with shadow'
+			'''
+	}
+
+	IllumiteEnchantment: {
+		DisplayName: Illumite Enchantment
+		Tooltip:
+			'''
+			[i:ThoriumMod/TheNuclearOption] While equipped, every 5th rocket launcher use will propel a radioactive missile
+			This missile deals double the damage and knockback of the rocket it replaces
+			Effects of Illumite Armor
+			'Illusions'
+			'''
+	}
+
+	ValadiumEnchantment: {
+		DisplayName: Valadium Enchantment
+		Tooltip:
+			'''
+			[i:ThoriumMod/GlitteringChalice] While equipped, hitting enemies will cause them to drop more money on death
+			Effects of Valadium Armor
+			'The valadium'
+			'''
+	}
+
+	LodestoneEnchantment: {
+		DisplayName: Lodestone Enchantment
+		Tooltip:
+			'''
+			[i:ThoriumMod/BloomingShield] When out of combat, your life recovery will increase up to 5 over time
+			Effects of Lodestone Armor
+			'Stone?'
+			'''
+	}
+
+	GeodeEnchantment: {
+		DisplayName: Geode Enchantment
+		Tooltip:
+			'''
+			[i:ThoriumMod/CrystalSpearTip] 100% basic damage
+			Spear weapons will release a shattering spear tip
+			Effects of Geode Armor
+			'Luxurious'
+			'''
+	}
+
+	ForceOfMidgard: {
+		DisplayName: Force of Midgard
+		Tooltip:
+			'''
+			[i:FargoSoulMore/GeodeEnchantment] Effects of Crystal Spear Tip, Geode Armor
+			[i:FargoSoulMore/LodestoneEnchantment] Effects of Blooming Shield, Lodestone Armor
+			[i:FargoSoulMore/ValadiumEnchantment] Effects of Glittering Chalice, Valadium Armor
+			[i:FargoSoulMore/IllumiteEnchantment] Effects of The Nuclear Option, Illumite Armor
+			[i:FargoSoulMore/ShadeMasterEnchantment] Effects of Shinobi Sigil, Shade Master Armor
+			[i:FargoSoulMore/TerrariumEnchantment] Effects of Terrarium Surround Sound, Terrarium Defender,
+			Terrarium Particle Sprinters, Thorium Enchantment, Terrarium Armor
+			'''
+	}
+
+	LivingWoodEnchantment: {
+		DisplayName: Living Wood Enchantment
+		Tooltip:
+			'''
+			[i:ThoriumMod/CrystalSpearTip] Increases summon damage by 1
+			Increases minion knockback
+			Effects of Living Wood Armor
+			'Living nature'
+			'''
+	}
+
+	BloomingEnchantment: {
+		DisplayName: Blooming Enchantment
+		Tooltip:
+			'''
+			[i:ThoriumMod/CrystalSpearTip] 	Percussion damage has a 25% chance to activate
+			'panic petal', which orbits around the player
+			Allies that touch an activated petal gain a massive speed boost
+			Enemies that touch an activated petal take damage
+			Effects of Blooming Armor
+			'The bloom'
+			'''
+	}
+
+	LifeBloomEnchantment: {
+		DisplayName: Life Bloom Enchantment
+		Tooltip:
+			'''
+			[i:FargoSoulMore/LivingWoodEnchantment] Effects of Living Wood Enchantment
+			[i:FargoSoulMore/BloomingEnchantment] Effects of Blooming Enchantment
+			Effects of Life Bloom Armor
+			'True nature'
+			'''
+	}
+}
+
+NPCs.MutantEX.DisplayName: True Mutant
+
+Buffs: {
+	TrueMutantPresence: {
+		Description:
+			'''
+			Losing life, ichor & chaos state effect, flying carpet disabled, moon leech effect &
+			defense, damage reduction, max life, life regeneration reduced, soul of the master & berserker install
+			disabled, effects reseted
+			'''
+		DisplayName: True Mutant Presence
+	}
+}
