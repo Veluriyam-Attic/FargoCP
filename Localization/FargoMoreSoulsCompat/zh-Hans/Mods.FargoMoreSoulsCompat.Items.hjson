@@ -9,382 +9,382 @@ SoulOfTmod: {
 }
 
 OstaraEnchant: {
-	DisplayName: Ostara Enchantment
+	DisplayName: 奥丝塔拉魔石
 	Tooltip:
 		'''
-		3% Increased movement speed
-		Allows wearer to perform up to 5 bunny hops
-		Enemies have a chance of leaving chocolate eggs on death
-		Eggs drop life hearts and mana stars when broken
-		Negates fall damage
+		提高3%移动速度
+		装备者在前进过程中跳跃会逐渐提升跳跃高度，最多提升五次
+		敌人死后有概率掉落巧克力蛋
+		蛋破碎后产生心和魔力
+		免疫坠落伤害
 		'''
 }
 
 DragonEnchant: {
-	DisplayName: Dragon Enchantment
-	Tooltip: Creates a burst of shadowflames after taking damage
+	DisplayName: 龙魔石
+	Tooltip: 受到伤害后造成火焰爆发
 }
 
 TitanEnchant: {
-	DisplayName: Titan Enchantment
-	Tooltip: Using ranged weapons triggers a recoil blast
+	DisplayName: 泰坦魔石
+	Tooltip: 充能完成后使用远程武器射击将引发爆炸并对玩家造成击退
 }
 
 PhantasmalEnchant: {
-	DisplayName: Phantasmal Enchantment
+	DisplayName: 灵能魔石
 	Tooltip:
 		'''
-		Spectral aura drains mana out of nearby enemies
-		Effects of Shadowbound Exoskeleton
+		汲取附近敌人的魔力
+		获得影月外骨骼的效果
 		'''
 }
 
 WarlockEnchant: {
-	DisplayName: Warlock Enchantment
+	DisplayName: 巫士魔石
 	Tooltip:
 		'''
-		Increases health regeneration and jump speed
-		Enemies killed by minions heal the player
+		提高生命恢复速度和跳跃速度
+		召唤物击杀敌人时将会治疗你
 		'''
 }
 
 AncientDragonEnchant: {
-	DisplayName: Ancient Dragon Enchantment
+	DisplayName: 远古龙魔石
 	Tooltip:
 		'''
-		12% Increased melee speed
-		10% Increased melee damage
+		增加12%近战攻速
+		增加10%近战伤害
 		'''
 }
 
 AncientTitanEnchant: {
-	DisplayName: Ancient Titan Enchantment
+	DisplayName: 远古泰坦魔石
 	Tooltip:
 		'''
-		8% Increased ranged critical strike chance
-		15% Increased ranged attack speed
+		增加8%远程暴击率
+		增加15%远程攻速
 		'''
 }
 
 AncientPhantasmalEnchant: {
-	DisplayName: Ancient Phantasmal Enchantment
+	DisplayName: 远古灵能魔石
 	Tooltip:
 		'''
-		8% increased magic critical strike chance
-		12% Increased magic damage
+		增加8%魔法暴击率
+		增加12%魔法伤害
 		'''
 }
 
 AncientWarlockEnchant: {
-	DisplayName: Ancient Warlock Enchantment
+	DisplayName: 远古巫士魔石
 	Tooltip:
 		'''
-		Increases your max number of minions by 2
-		10% Increased summon damage
+		增加2最大随从栏
+		增加10%召唤伤害
 		'''
 }
 
 HeroForce: {
-	DisplayName: Force of Hero
+	DisplayName: 英雄之力
 	Tooltip:
 		'''
-		[i:FargoMoreSoulsCompat/OstaraEnchant] Allows wearer to perform up to 5 bunny hops
-		[i:FargoMoreSoulsCompat/OstaraEnchant] Effects of Ostara's Gift
-		[i:FargoMoreSoulsCompat/DragonEnchant] Creates a burst of shadowflames after taking damage	
-		[i:FargoMoreSoulsCompat/TitanEnchant] Using ranged weapons triggers a recoil blast
-		[i:FargoMoreSoulsCompat/PhantasmalEnchant] Spectral aura drains mana out of nearby enemies
-		[i:FargoMoreSoulsCompat/WarlockEnchant] Enemies killed by minions heal the player
+		[i:FargoMoreSoulsCompat/OstaraEnchant] 装备者在前进过程中跳跃会逐渐提升跳跃高度，最多提升五次
+		[i:FargoMoreSoulsCompat/OstaraEnchant] 获得奥丝塔拉之贺的效果
+		[i:FargoMoreSoulsCompat/DragonEnchant] 受到伤害后造成火焰爆发
+		[i:FargoMoreSoulsCompat/TitanEnchant] 充能完成后使用远程武器射击将引发爆炸并对玩家造成击退
+		[i:FargoMoreSoulsCompat/PhantasmalEnchant] 汲取附近敌人的魔力
+		[i:FargoMoreSoulsCompat/WarlockEnchant] 召唤物击杀敌人时将会治疗你
 		'''
 }
 
 BotanistEnchant: {
-	DisplayName: Botanist Enchantment
+	DisplayName: 植物学家魔石
 	Tooltip:
 		'''
-		Increases the amount of Herbs the player can yield
-		Herbs glow in dark places
-		Increased vision in Briar at night or underground
+		增加玩家获取的草药数量
+		草药在黑暗的地方发光
+		在荆棘之地地下或夜晚增加视野
 		'''
 }
 
 ElderbarkEnchant: {
-	DisplayName: Elderbark Enchantment
-	Tooltip: Increases all item damage by 2
+	DisplayName: 古木魔石
+	Tooltip: 提高所有物品2点伤害
 }
 
 DriftwoodEnchant: {
-	DisplayName: Driftwood Enchantment
-	Tooltip: Increased fishing power, chance of fishing up crate and defense when in ocean biome
+	DisplayName: 浮木魔石
+	Tooltip: 增加渔力, 在海洋生物群系中钓鱼时，有几率钓上宝箱和防御性物品
 }
 
 FloranEnchant: {
-	DisplayName: Floran Enchantment
+	DisplayName: 叶族魔石
 	Tooltip:
 		'''
-		Killing enemies may drop raw meat, restoring health and granting 'Well Fed'
-		5% increased melee speed and slightly increases life regeneration while standing on grass
+		击杀敌人时有几率掉落生肉，生肉会回复生命值并给予“吃得好”增益
+		站在草地上时增加5%近战攻速并小幅度增加生命再生速度
 		'''
 }
 
 SunflowerEnchant: {
-	DisplayName: Sunflower Enchantment
-	Tooltip: Being outside during daytime increases defense, maximum mana, and life regeneration slightly
+	DisplayName: 太阳花魔石
+	Tooltip: Being 在白天时小幅度增加防御力、最大魔力值、和生命再生速度.
 }
 
 WayfarersEnchant: {
-	DisplayName: Wayfarer Enchantment
+	DisplayName: 远行者魔石
 	Tooltip:
 		'''
-		Killing enemies, breaking pots, mining ore grants stacking buffs. All buffs stack up to 4 times.
-		Effect of Explorer's Treads
-		Effect of Metal Band
+		击杀敌人, 打破罐子, 挖掘矿石时获得至多叠加四次的增益.
+		获得探险家之靴的效果
+		获得金属手环的效果
 		'''
 }
 
 ApostleEnchant: {
-	DisplayName: Apostle Enchantment
+	DisplayName: 古翼信徒魔石
 	Tooltip:
 		'''
-		Wind Spirits guide you, granting you double jumps
-		Magic and ranged attacks occasionally spawn feathers to attack foes
+		魂风指引着你，并给予你二段跳
+		魔法和远程攻击偶尔会产生羽毛来协同攻击
 		'''
 }
 
 AstraliteEnchant: {
-	DisplayName: Astralite Enchantment
+	DisplayName: 星界魔石
 	Tooltip:
 		'''
-		Double tap 'Down' to deploy an energy field at the cursor position
-		This field lasts for five seconds and supercharges all ranged projectiles that pass through it
-		Effects of High-Grav Boots
+		双击向上或向下键在光标位置部署一个能量场
+		能量场存在5秒，并会增压所有经过能量场的远程弹幕
+		获得超重力靴的效果
 		'''
 }
 
 ChitinEnchant: {
-	DisplayName: Chitin Enchantment
+	DisplayName: 甲壳魔石
 	Tooltip:
 		'''
-		Double tap in a direction to dash and envelop yourself in a tornado
-		Provides immunity to the Mighty Wind debuff during Sandstorms
+		双击方向键将你包裹在一股旋风中并进行冲刺
+		沙尘暴期间免疫强风减益
 		'''
 }
 
 RogueEnchant: {
-	DisplayName: Rogue Enchantment
+	DisplayName: 盗贼魔石
 	Tooltip:
 		'''
-		Getting hit grants four seconds of invisibility and 100% increased damage. 25 second cooldown
-		Effects of Rogue's Crest and Swiftness Rune
+		受到攻击时会获得4秒的隐身和100%的伤害提升效果，此效果有25秒冷却时间
+		获得盗贼饰章和迅捷符文的效果
 		'''
 }
 
 MarbleChunkEnchant: {
-	DisplayName: Ancient Marble Enchantment
-	Tooltip: Press 'Up' to grant 'Divine Winds', allowing for limited flight. 5 second cooldown
+	DisplayName: 镀金魔石
+	Tooltip: 按“上”获得“神性之风”增益，允许你进行有限制的飞行，此效果有10秒冷却时间
 }
 
 RunicEnchant: {
-	DisplayName: Runic Enchantment
+	DisplayName: 符文魔石
 	Tooltip:
 		'''
-		Leave behind dangerous explosive runes
-		Effects of Rune Wizard's Scroll
+		在身后留下危险的爆炸符文
+		获得符文巫师的卷轴的效果
 		'''
 }
 
 SeraphEnchant: {
-	DisplayName: Seraph Enchantment
+	DisplayName: 炽天使魔石
 	Tooltip:
 		'''
-		Being near enemies increases life regen, increases melee speed and reduces mana cost by 6% per enemy
-		Effects of Angelic Sigil and Seraphim Bulwark
+		附近每有一名敌人，便会增加生命再生速度、魔力再生速度和近战攻速，并降低6%魔力消耗
+		获得堕天使旗和炽天使壁垒的效果
 		'''
 }
 
 BismiteEnchant: {
-	DisplayName: Bismite Enchantment
+	DisplayName: 铋华魔石
 	Tooltip:
 		'''
-		Not getting hit builds up stacks of Virulence
-		Striking while Virulence is charged releases a toxic explosion
-		Being struck by an enemy inflicts them with festering wounds debuff
+		未受到攻击时会积蓄毒性
+		毒性充能后，攻击会释放剧毒爆炸
+		被敌人击中时会对敌人施加溃烂伤口减益效果
 		'''
 }
 
 CascadeEnchant: {
-	DisplayName: Cascade Enchantment
+	DisplayName: 涌流魔石
 	Tooltip:
 		'''
-		Dealing damage to enemies builds up a bubble shield
-		The bubble at full size grants heavy damage resistance against the next attack
-		Double tap 'Down' to gain unhindered movement underwater for a short time
+		对敌人造成伤害时会构建起泡泡盾
+		完整尺寸大小的泡泡盾对受到的下次攻击有着极高的伤害抗性
+		双击向上或向下键可以在短时间内在水中自由移动
 		'''
 }
 
 GraniteChunkEnchant: {
-	DisplayName: Granite Chunk Enchantment
+	DisplayName: 花岗岩魔石
 	Tooltip:
 		'''
-		Double tap 'Down' while falling to stomp downward
-		Hitting the ground releases a shockwave that scales with height
-		Effect of Heartbeat Cleats and Sharpshooter's Glove
+		在下落时双击向上或向下键进行下砸践踏
+		撞击地面时会释放随高度变化的冲击波
+		获得心律防滑鞋和神射手手套的效果
 		'''
 }
 
 PrimalstoneEnchant: {
-	DisplayName: Primalstone Enchantment
+	DisplayName: 擎元古石魔石
 	Tooltip:
 		'''
-		Melee and magic hits on enemies trigger Unstable Affliction
-		Effect of Titanbound Bulwark
+		近战和魔法攻击会造成痛苦无常减益
+		获得泰坦壁垒的效果
 		'''
 }
 
 SpiritEnchant: {
-	DisplayName: Spirit Enchantment
+	DisplayName: 魂灵魔石
 	Tooltip:
 		'''
-		Spirits grant you various buffs based on your health
-		Effect of Shadow-Singed Fang
+		魂灵会基于你当前生命值赋予你各种增益
+		获得影迹之牙的效果
 		'''
 }
 
 StreamSurferEnchant: {
-	DisplayName: Stream Surfer Enchantment
+	DisplayName: 越浪者魔石
 	Tooltip:
 		'''
-		Double tap 'Down' to create a ridable waterspout that damages enemies
-		Increases jump height and descent speed
+		双击向上或向下键创造一个可驾驭的水龙卷来伤害敌人
+		增加跳跃高度和下落速度
 		'''
 }
 
 BloodcourtEnchant: {
-	DisplayName: Bloodcourt Enchantment
+	DisplayName: 血庭魔石
 	Tooltip:
 		'''
-		Double tap 'Down' to sacrifice 8% of your maximum health and launch a bolt of Dark Anima dealing damage in a radius
-		Effects of Grisly Tongue and Sanguine Ward
+		双击向上或向下键献祭8%生命值,并发射一束暗魂矢，在半径范围内造成高额伤害
+		获得可怖之舌和血染戒石的效果
 		'''
 }
 
 CryoliteEnchant: {
-	DisplayName: Cryolite Enchantment
+	DisplayName: 冰晶魔石
 	Tooltip:
 		'''
-		Generates an icy aura that slows nearby enemies
-		This aura expands gradually, but resets when injured
-		Effects of Winter hat and Four of a Kind
+		生成一个能减速附近敌人的冰环
+		冰环会逐渐扩大，但会在你受到伤害时重置大小
+		获得寒冬帽和四牌同点的效果
 		'''
 }
 
 DuskEnchant: {
-	DisplayName: Dusk Enchantment
+	DisplayName: 薄暮魔石
 	Tooltip:
 		'''
-		Magic attacks inflict Shadowflame
-		8% Increased Magic and Ranged Damage at Night
-		Nearby enemies and enemies hit by attacks may be hit by a chain of lightning
+		魔法攻击造成暗影焰效果
+		在夜晚提高8%魔法和远程伤害
+		附近的敌人和被攻击的敌人有几率受到连锁闪电的攻击
 		'Andrew Hulshult'
 		'''
 }
 
 FrigidEnchant: {
-	DisplayName: Frigid Enchantment
+	DisplayName: 严寒魔石
 	Tooltip:
 		'''
-		Double tap 'Down' to create an icy wall at the cursor position, effect has 8 second cooldown
-		Effects of Frigid Wraps
+		双击向上或向下键在光标位置创造一面冰墙，此效果有8秒冷却时间
+		获得严寒护膝的效果
 		'''
 }
 
 MarksmanEnchant: {
-	DisplayName: Marksman Enchantment
+	DisplayName: 神射手魔石
 	Tooltip:
 		'''
-		4% increased critical strike chance
-		Wearing Marksman's Armor builds up concentration
-		While concentrated, your next strike is a critical strike and deals more damage
-		Concentration is disrupted when hurt, but charges faster while standing still
+		增加4%暴击率
+		穿戴神射手盔甲时可以集中注意力
+		注意力集中时，你的下次攻击必定暴击并且会造成更多伤害
+		受到伤害时注意力会消失，但站定不动时会使注意力恢复的更快
 		'''
 }
 
 PainMongerEnchant: {
-	DisplayName: Pain Monger Enchantment
+	DisplayName: 苦痛散播者魔石
 	Tooltip:
 		'''
-		When under 25% health, defense is decreased by 4, but Infernal Guardians surround you
-		Infernal Guardians vastly increase magic damage and reduce mana cost
-		Magic attacks shoot out fiery spit that explode upon hitting enemies
+		生命值低于25%时，降低4点防御，但炎狱守卫会环绕着你
+		炎狱守卫会大幅度增加魔法伤害并降低魔力消耗
+		受到伤害时有几率生成多个爆炸性炎狱灰烬
 		'''
 }
 
 SlagTyrantEnchant: {
-	DisplayName: Slag Tyrant Enchantment
+	DisplayName: 熔渣暴君魔石
 	Tooltip:
 		'''
-		Double tap 'Down' to cause all sentries to release a burst of fireballs, 8 second cooldown
-		Summons a magic scepter to fight for you
-		This scepter does not take up minion slots
+		双击向上或向下键使所有哨兵释放火球，此效果有8秒冷却时间
+		召唤魔法权杖为你而战
+		权杖不占用随从栏
 		'''
 }
 
 AdventurerForce: {
-	DisplayName: Adventurer Force
+	DisplayName: 行者之力
 	Tooltip:
 		'''
-		[i:FargoMoreSoulsCompat/ElderbarkEnchant] Increases all item damage by 10
-		[i:FargoMoreSoulsCompat/DriftwoodEnchant] Allows the wearer to float on water
-		[i:FargoMoreSoulsCompat/DriftwoodEnchant] Increased fishing power
-		[i:FargoMoreSoulsCompat/BotanistEnchant] Increases the amount of Herbs the player can yield
-		[i:FargoMoreSoulsCompat/BotanistEnchant] Herbs glow in dark places
-		[i:FargoMoreSoulsCompat/FloranEnchant] Killing enemies may drop raw meat, restoring health and granting 'Well Fed'
-		[i:FargoMoreSoulsCompat/WayfarersEnchant] Killing enemies, breaking pots, mining ore grants stacking buffs. All buffs stack up to 4 times.
-		[i:FargoMoreSoulsCompat/WayfarersEnchant] Effect of Explorer's Treads and Metal Band
-		[i:FargoMoreSoulsCompat/SunflowerEnchant] Being outside during daytime increases defense, maximum mana, and life regeneration slightly
+		[i:FargoMoreSoulsCompat/ElderbarkEnchant] 提高所有物品2点伤害
+		[i:FargoMoreSoulsCompat/DriftwoodEnchant] 允许佩戴者漂浮在水面
+		[i:FargoMoreSoulsCompat/DriftwoodEnchant] 增加渔力
+		[i:FargoMoreSoulsCompat/BotanistEnchant] 增加玩家获取的草药数量
+		[i:FargoMoreSoulsCompat/BotanistEnchant] 草药在黑暗的地方发光
+		[i:FargoMoreSoulsCompat/FloranEnchant] 击杀敌人时有几率掉落生肉，生肉会回复生命值并给予“吃得好”增益
+		[i:FargoMoreSoulsCompat/WayfarersEnchant] 击杀敌人, 打破罐子, 挖掘矿石时获得至多叠加四次的增益.
+		[i:FargoMoreSoulsCompat/WayfarersEnchant] 获得探险家之靴和金属手环的效果
+		[i:FargoMoreSoulsCompat/SunflowerEnchant] 在白天时小幅度增加防御力、最大魔力值、和生命再生速度.
 		'''
 }
 
 HurricaneForce: {
-	DisplayName: Force of Hurricane
+	DisplayName: 飓风之力
 	Tooltip:
 		'''
-		[i:FargoMoreSoulsCompat/RogueEnchant] Getting hit grants four seconds of invisibility and 100% increased damage
-		[i:FargoMoreSoulsCompat/ChitinEnchant] Double tap in a direction to dash and envelop yourself in a tornado
-		[i:FargoMoreSoulsCompat/ChitinEnchant] Provides immunity to the Mighty Wind debuff during Sandstorms
-		[i:FargoMoreSoulsCompat/ApostleEnchant] Wind Spirits guide you, granting you double jumps
-		[i:FargoMoreSoulsCompat/ApostleEnchant] Magic and ranged attacks occasionally spawn feathers to attack foes
-		[i:FargoMoreSoulsCompat/MarbleChunkEnchant] Press 'Up' to grant 'Divine Winds', allowing for limited flight
-		[i:FargoMoreSoulsCompat/AstraliteEnchant] Double tap 'Down' to deploy an energy field at the cursor position
-		[i:FargoMoreSoulsCompat/SeraphEnchant] Being near enemies increases life regen, increases melee speed and reduces mana cost
-		[i:FargoMoreSoulsCompat/RunicEnchant] Leave behind dangerous explosive runes
+		[i:FargoMoreSoulsCompat/RogueEnchant] 受到攻击时会获得4秒的隐身和100%的伤害提升效果
+		[i:FargoMoreSoulsCompat/ChitinEnchant] 双击方向键将你包裹在一股旋风中并进行冲刺
+		[i:FargoMoreSoulsCompat/ChitinEnchant] 沙尘暴期间免疫强风减益
+		[i:FargoMoreSoulsCompat/ApostleEnchant] 魂风指引着你，并给予你二段跳
+		[i:FargoMoreSoulsCompat/ApostleEnchant] 魔法和远程攻击偶尔会产生羽毛来协同攻击
+		[i:FargoMoreSoulsCompat/MarbleChunkEnchant] 按“上”获得“神性之风”增益，允许你进行有限制的飞行，此效果有10秒冷却时间
+		[i:FargoMoreSoulsCompat/AstraliteEnchant] 双击向上或向下键在光标位置部署一个能量场
+		[i:FargoMoreSoulsCompat/SeraphEnchant] 附近每有一名敌人，便会增加生命再生速度、魔力再生速度和近战攻速，并降低6%魔力消耗
+		[i:FargoMoreSoulsCompat/RunicEnchant] 在身后留下危险的爆炸符文
 		'''
 }
 
 AtlantisForce: {
-	DisplayName: Atlantis Force
+	DisplayName: 亚特兰蒂斯之力
 	Tooltip:
 		'''
-		[i:FargoMoreSoulsCompat/BismiteEnchant] Not getting hit builds up Virulence, striking while Virulence is charged releases a toxic explosion
-		[i:FargoMoreSoulsCompat/CascadeEnchant] Dealing damage to enemies builds up a bubble shield that rants heavy damage resistance
-		[i:FargoMoreSoulsCompat/GraniteChunkEnchant] Double tap 'Down' while falling to stomp downward, hitting the ground releases shockwave
-		[i:FargoMoreSoulsCompat/StreamSurferEnchant] Double tap 'Down' to create a ridable waterspout that damages enemies
-		[i:FargoMoreSoulsCompat/SpiritEnchant] Spirits grant you various buffs based on your health
-		[i:FargoMoreSoulsCompat/PrimalstoneEnchant] Melee and magic hits on enemies trigger Unstable Affliction debuff
+		[i:FargoMoreSoulsCompat/BismiteEnchant] 未受到攻击时会积蓄毒性，毒性充能后，攻击会释放剧毒爆炸，被敌人击中时会对敌人施加溃烂伤口减益效果
+		[i:FargoMoreSoulsCompat/CascadeEnchant] 对敌人造成伤害时会构建起有着极高的伤害抗性的泡泡盾
+		[i:FargoMoreSoulsCompat/GraniteChunkEnchant] 在下落时双击向上或向下键进行下砸践踏，撞击地面时会释放随高度变化的冲击波
+		[i:FargoMoreSoulsCompat/StreamSurferEnchant] 双击向上或向下键创造一个可驾驭的水龙卷来伤害敌人
+		[i:FargoMoreSoulsCompat/SpiritEnchant] S魂灵会基于你当前生命值赋予你各种增益
+		[i:FargoMoreSoulsCompat/PrimalstoneEnchant] 近战和魔法攻击会造成痛苦无常减益
 
 		'''
 }
 
 FrostburnForce: {
-	DisplayName: Frostburn Force
+	DisplayName: 冰疮之力
 	Tooltip:
 		'''
-		[i:FargoMoreSoulsCompat/BloodcourtEnchant] Double tap 'Down' to sacrifice 8% of your maximum health and launch a bolt of Dark Anima dealing high damage in a radius
-		[i:FargoMoreSoulsCompat/CryoliteEnchant] Generates an icy aura that slows nearby enemies
-		[i:FargoMoreSoulsCompat/DuskEnchant] You are surrounded by a rune that guides the way
-		[i:FargoMoreSoulsCompat/FrigidEnchant] Double tap 'Down' to create an icy wall at the cursor position
-		[i:FargoMoreSoulsCompat/MarksmanEnchant] Wearing Marksman's Armor builds up concentration, your next strike is a critical strike when concentrated
-		[i:FargoMoreSoulsCompat/PainMongerEnchant] Infernal Guardians surround you when under 25% health, vastly increase magic damage and reduce mana cost
-		[i:FargoMoreSoulsCompat/SlagTyrantEnchant] Double tap 'Down' to cause all sentries to release a burst of fireballs
+		[i:FargoMoreSoulsCompat/BloodcourtEnchant] 双击向上或向下键献祭8%生命值,并发射一束暗魂矢，在半径范围内造成高额伤害
+		[i:FargoMoreSoulsCompat/CryoliteEnchant] 生成一个能减速附近敌人的冰环
+		[i:FargoMoreSoulsCompat/DuskEnchant] 指引道路的符文环绕着你
+		[i:FargoMoreSoulsCompat/FrigidEnchant] 双击向上或向下键在光标位置创造一面冰墙
+		[i:FargoMoreSoulsCompat/MarksmanEnchant] 穿戴神射手盔甲时可以集中注意力，注意力集中时，你的下次攻击必定暴击
+		[i:FargoMoreSoulsCompat/PainMongerEnchant] 生命值低于25%时炎狱守卫会环绕着你, 大幅度增加魔法伤害并降低魔力消耗
+		[i:FargoMoreSoulsCompat/SlagTyrantEnchant] 双击向上或向下键使所有哨兵释放火球
 		'''
 }
 
@@ -392,7 +392,7 @@ CommonGuardEnchant: {
 	DisplayName: 共同卫兵魔石
 	Tooltip:
 		'''
-		+12%近战攻速
+		增加12%近战攻速
 		减少6%受到的伤害
 		获得缚魂珠的效果
 		'''
@@ -406,7 +406,7 @@ DragonLeadEnchant: {
 		武器有33%的几率附加龙炎效果
 		龙铅武器有100%的概率施加龙炎效果
 		获得心形徽章的效果
-		- 好方法！ -
+		- 好抉择！ -
 		'''
 }
 
@@ -418,7 +418,7 @@ PureIronEnchant: {
 		武器有33%的几率附加净寒效果
 		净钢武器有100%的概率施加净寒效果
 		获得埃尔罕十字架的效果
-		- 差方法！ -
+		- 差抉择！ -
 		'''
 }
 

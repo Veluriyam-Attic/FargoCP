@@ -6,6 +6,7 @@ using Terraria.UI.Chat;
 
 namespace FargoCP.Localization.BannerBoost.GlobalTranslation
 {
+    [JITWhenModsEnabled ("BannerBoost")]
     public class BannerBoostGlobalTranslation : ModSystem
     {
         public override void Load()

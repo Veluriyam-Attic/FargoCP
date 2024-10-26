@@ -6,6 +6,7 @@ using Terraria.UI.Chat;
 
 namespace FargoCP.Localization.GodMode.GlobalTranslation
 {
+    [JITWhenModsEnabled ("GodMode")]
     public class GodModeGlobalTranslation : ModSystem
     {
         public override void Load()

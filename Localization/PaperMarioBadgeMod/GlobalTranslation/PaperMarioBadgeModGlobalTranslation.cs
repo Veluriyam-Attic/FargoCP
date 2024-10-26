@@ -6,6 +6,7 @@ using Terraria.UI.Chat;
 
 namespace FargoCP.Localization.PaperMarioBadgeMod.GlobalTranslation
 {
+    [JITWhenModsEnabled ("PaperMarioBadgeMod")]
     public class PaperMarioBadgeModGlobalTranslation : ModSystem
     {
         public override void Load()

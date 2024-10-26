@@ -1,186 +1,186 @@
 FargosSoulsUtilitiesConfig: {
-	DisplayName: Config
+	DisplayName: 实用Fargo配置
 
 	Headers: {
-		Recipes: "[i:36] Recipes (reload required)"
-		Buffs: "[i:298] Buffs / Nerfs (reload required)"
-		Debuffs: "[i:66] Disabling Debuffs (reload required)"
-		AccessorySlots: "[i:75] Accessory Slots (reload not required)"
-		EternityDrops: "[i:FargowiltasSouls/EternalEnergy] Eternity Boss Drops (reload required)"
+		Recipes: "[i:36] 合成配方 (需要重新加载)"
+		Buffs: "[i:298] Buff和修复 (需要重新加载)"
+		Debuffs: "[i:66] 禁用Buff (需要重新加载)"
+		AccessorySlots: "[i:75] 饰品栏 (reload not required)"
+		EternityDrops: "[i:FargowiltasSouls/EternalEnergy] 永恒Boss掉落 (需要重新加载)"
 	}
 
 	DungeonGuardianRecipe: {
-		Label: "[i:FargowiltasSouls/SinisterIcon]  Sinister Icon"
-		Tooltip: Turns on/off recipe for Sinister Icon.
+		Label: "[i:FargowiltasSouls/SinisterIcon]  邪恶头骨"
+		Tooltip: 开启或关闭邪恶头骨的合成配方
 	}
 
 	MagicalBulbRecipe: {
-		Label: "[i:FargowiltasSouls/MagicalBulb]  Magical Bulb"
-		Tooltip: Turns on/off recipe for Magical Bulb, useful against Plantera.
+		Label: "[i:FargowiltasSouls/MagicalBulb]  魔法球茎"
+		Tooltip: 开启或关闭魔法球茎的合成配方, 对付世纪之花很有用.
 	}
 
 	SqueakyToyRecipe: {
-		Label: "[i:FargowiltasSouls/SqueakyToy]  Squeaky Toy"
-		Tooltip: Turns on/off recipe for Squeaky Toy, crafted only at night.
+		Label: "[i:FargowiltasSouls/SqueakyToy]  吱吱响的玩具"
+		Tooltip: 开启或关闭吱吱响的玩具的合成配方, 只能在夜晚合成.
 	}
 
 	ParadoxRecipe: {
-		Label: "[i:FargowiltasSouls/ParadoxWolfSoul]  Paradox Wolf Soul"
-		Tooltip: Turns on/off recipe for Paradox Wolf Soul, that allows to dash.
+		Label: "[i:FargowiltasSouls/ParadoxWolfSoul]  悖论狼魂"
+		Tooltip: 开启或关闭悖论狼魂的合成配方, 允许你冲刺.
 	}
 
 	TimRecipe: {
-		Label: "[i:FargowiltasSouls/TimsConcoction]  Tim's Concoction"
-		Tooltip: Turns on/off recipe for Tim's Concoction, useful when low on potions.
+		Label: "[i:FargowiltasSouls/TimsConcoction]  蒂姆的秘药"
+		Tooltip: 开启或关闭蒂姆的秘药的合成配方, 药水少的时候很好用.
 	}
 
 	MutantPactRecipe: {
-		Label: "[i:FargowiltasSouls/MutantsPact]  Mutant's Pact"
-		Tooltip: Turns on/off recipe for Mutant's Pact, that gives 1+ accessory slot.
+		Label: "[i:FargowiltasSouls/MutantsPact]  突变体契约"
+		Tooltip: 开启或关闭突变体契约的合成配方, 给予你1魔石栏.
 	}
 
 	EasyForceCombining: {
-		Label: "[i:3549]  Pre-HM Forces"
-		Tooltip: Turns on/off recipes for all forces, they are the same as the normal ones, but without Ancient Manipulator requirement.
+		Label: "[i:3549]  困难模式前的力"
+		Tooltip: 开启或关闭所有力级饰品的合成配方, 与正常配方没有不同，只是取消了远古操纵机的限制
 	}
 
 	GolemPartsNerf: {
-		Label: "[i:FargowiltasSouls/LihzahrdTreasureBox]  Nerf Golem Healing"
-		Tooltip: Nerf Golem healing that usually bugs out when using Eternity Mode and Calamity Difficulty Modes.
+		Label: "[i:FargowiltasSouls/LihzahrdTreasureBox]  灾法石巨人修复"
+		Tooltip: 修复在同时启用永恒模式和灾厄的难度下造成的石巨人异常回血
 	}
 
 	SummonerClassUnnerf: {
-		Label: "[i:FargowiltasSouls/StaffOfUnleashedOcean]  Summoner's Melee Speed Bonus"
-		Tooltip: Adds melee speed bonus to summoner's class.
+		Label: "[i:FargowiltasSouls/StaffOfUnleashedOcean]  近战攻速召唤师适配"
+		Tooltip: 让召唤师受到近战攻速加成.
 	}
 
 	MinerEnchantBuff: {
-		Label: "[i:298]  Buff Shine of Miner Enchantment"
-		Tooltip: Buffs shine effect from Miner Enchantment.
+		Label: "[i:298]  矿工魔石照明"
+		Tooltip: 提高矿工魔石的照明效果
 	}
 
 	AnnoyingBuff1: {
-		Label: "[i:FargowiltasSouls/TopHatSquirrelCaught]  Guilty"
-		Tooltip: Turn off -25% damage from accidentally (or not) attacking critters.
+		Label: "[i:FargowiltasSouls/TopHatSquirrelCaught]  内疚"
+		Tooltip: 关闭因意外（或故意）攻击小动物而减少的25%伤害
 	}
 
 	AnnoyingBuff2: {
-		Label: "[i:FargowiltasSouls/GuttedHeart]  Lovestruck"
-		Tooltip: Nymphs can finally say 'ouch'.
+		Label: "[i:FargowiltasSouls/GuttedHeart]  热恋"
+		Tooltip: 仙女终于可以说“哎哟”了.
 	}
 
 	AnnoyingBuff3: {
-		Label: "[i:FargowiltasSouls/DarkenedHeart]  Purified"
-		Tooltip: Not my buffs!
+		Label: "[i:FargowiltasSouls/DarkenedHeart]  净化"
+		Tooltip: 不是我的Buff！
 	}
 
 	AnnoyingBuff4: {
-		Label: "[i:963]  Nullification Curse"
-		Tooltip: No problem with dodging anymore!
+		Label: "[i:963]  无效诅咒"
+		Tooltip: 再闪避也没问题了！
 	}
 
 	AnnoyingBuff5: {
-		Label: "[i:FargowiltasSouls/PureHeart]  Suffocation"
-		Tooltip: No more running out of breath.
+		Label: "[i:FargowiltasSouls/PureHeart]  窒息"
+		Tooltip: 不会再窒息了！
 	}
 
 	AnnoyingBuff6: {
-		Label: "[i:FargowiltasSouls/ConcentratedRainbowMatter]  Flames of the Universe"
-		Tooltip: Heavens do not judge you anymore.
+		Label: "[i:FargowiltasSouls/ConcentratedRainbowMatter]  宇宙之焰"
+		Tooltip: 上天不会再评判你了.
 	}
 
 	ExtraAccessorySlot: {
-		Label: "[i:53] Accessory Slots Amount"
-		Tooltip: How many accessory slots should be added? (max: 6)
+		Label: "[i:53] 饰品栏数量"
+		Tooltip: 应该增加多少饰品栏？? (上限: 6)
 	}
 
 	SlotVanity: {
-		Label: "[i:4744]  Enable Vanity Slots"
-		Tooltip: Turning this on will show vanity slots next to existing accessory slots.
+		Label: "[i:4744]  时装栏可见性"
+		Tooltip: 启用以显示时装栏
 	}
 
 	SlotDye: {
-		Label: "[i:3024]  Enable Dye Slots"
-		Tooltip: Turning this on will show dye slots next to existing accessory slots.
+		Label: "[i:3024]  染料栏可见性"
+		Tooltip: 启用以显示染料栏
 	}
 
 	KingSlimeEMDrop: {
-		Label: "[i:FargowiltasSouls/SlimyShield]  King Slime"
+		Label: "[i:FargowiltasSouls/SlimyShield]  史莱姆王"
 		Tooltip: ""
 	}
 
 	EoCEMDrop: {
-		Label: "[i:FargowiltasSouls/AgitatingLens]  Eye of Cthulhu"
+		Label: "[i:FargowiltasSouls/AgitatingLens]  克苏鲁之眼"
 		Tooltip: ""
 	}
 
 	EoWEMDrop: {
-		Label: "[i:FargowiltasSouls/DarkenedHeart]  Eater of Worlds"
+		Label: "[i:FargowiltasSouls/DarkenedHeart]  世界吞噬者"
 		Tooltip: ""
 	}
 
 	BoCEMDrop: {
-		Label: "[i:FargowiltasSouls/GuttedHeart]  Brain of Cthulhu"
+		Label: "[i:FargowiltasSouls/GuttedHeart]  克苏鲁之脑"
 		Tooltip: ""
 	}
 
 	QueenBeeEMDrop: {
-		Label: "[i:FargowiltasSouls/QueenStinger]  Queen Bee"
+		Label: "[i:FargowiltasSouls/QueenStinger]  蜂后"
 		Tooltip: ""
 	}
 
 	SkeletronEMDrop: {
-		Label: "[i:FargowiltasSouls/NecromanticBrew]  Skeletron"
+		Label: "[i:FargowiltasSouls/NecromanticBrew]  骷髅王"
 		Tooltip: ""
 	}
 
 	DeerclopsEMDrop: {
-		Label: "[i:FargowiltasSouls/Deerclawps]  Deerclops"
+		Label: "[i:FargowiltasSouls/Deerclawps]  独眼巨鹿"
 		Tooltip: ""
 	}
 
 	WoFEMDrop: {
-		Label: "[i:FargowiltasSouls/PungentEyeball]  Wall of Flesh"
+		Label: "[i:FargowiltasSouls/PungentEyeball]  血肉墙"
 		Tooltip: ""
 	}
 
 	TwinsEMDrop: {
-		Label: "[i:FargowiltasSouls/FusedLens]  The Twins"
+		Label: "[i:FargowiltasSouls/FusedLens]  双子魔眼"
 		Tooltip: ""
 	}
 
 	DestroyerEMDrop: {
-		Label: "[i:FargowiltasSouls/GroundStick]  The Destroyer"
+		Label: "[i:FargowiltasSouls/GroundStick]  毁灭者"
 		Tooltip: ""
 	}
 
 	SkeletronPrimeEMDrop: {
-		Label: "[i:FargowiltasSouls/ReinforcedPlating]  Skeletron Prime"
+		Label: "[i:FargowiltasSouls/ReinforcedPlating]  机械骷髅王"
 		Tooltip: ""
 	}
 
 	PlanteraEMDrop: {
-		Label: "[i:FargowiltasSouls/MagicalBulb]  Plantera"
+		Label: "[i:FargowiltasSouls/MagicalBulb]  世纪之花"
 		Tooltip: ""
 	}
 
 	GolemEMDrop: {
-		Label: "[i:FargowiltasSouls/LihzahrdTreasureBox]  Golem"
+		Label: "[i:FargowiltasSouls/LihzahrdTreasureBox]  石巨人"
 		Tooltip: ""
 	}
 
 	DukeFishronEMDrop: {
-		Label: "[i:FargowiltasSouls/MutantAntibodies]  Duke Fishron"
+		Label: "[i:FargowiltasSouls/MutantAntibodies]  猪龙鱼公爵"
 		Tooltip: ""
 	}
 
 	LunaticCultistEMDrop: {
-		Label: "[i:FargowiltasSouls/CelestialRune]  Lunatic Cultist"
+		Label: "[i:FargowiltasSouls/CelestialRune]  拜月教邪教徒"
 		Tooltip: ""
 	}
 
 	MoonLordEMDrop: {
-		Label: "[i:FargowiltasSouls/GalacticGlobe]  Moon Lord"
+		Label: "[i:FargowiltasSouls/GalacticGlobe]  月亮领主"
 		Tooltip: ""
 	}
 }

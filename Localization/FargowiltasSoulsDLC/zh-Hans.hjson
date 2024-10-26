@@ -57,3 +57,50 @@ Mods: {
 		}
 	}
 }
+
+Items: {
+	EridanusEnchantment: {
+		// DisplayName: Eridanus Enchantment
+		// Tooltip: ""
+	}
+
+	EternityForce: {
+		// DisplayName: Eternity Force
+		// Tooltip: ""
+	}
+
+	GaiaEnchantment: {
+		// DisplayName: Gaia Enchantment
+		// Tooltip: ""
+	}
+
+	NekomiEnchantment: {
+		// DisplayName: Nekomi Enchantment
+		// Tooltip: ""
+	}
+
+	StyxEnchantment: {
+		// DisplayName: Styx Enchantment
+		// Tooltip: ""
+	}
+
+	TrueMutantEnchantment: {
+		// DisplayName: True Mutant Enchantment
+		// Tooltip: ""
+	}
+
+	PandorasBox: {
+		// DisplayName: Pandoras Box
+		// Tooltip: ""
+	}
+
+	PandoraTwo: {
+		// DisplayName: Pandora Two
+		// Tooltip: ""
+	}
+
+	VoidSoul: {
+		// DisplayName: Void Soul
+		// Tooltip: ""
+	}
+}

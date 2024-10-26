@@ -1,60 +1,60 @@
 HeroHeader: "{$Mods.FargoMoreSoulsCompat.Items.HeroForce.DisplayName}"
-OstaraJump: Bunny Hops
-OstaraGift: Ostara's Gift
-DragonBurst: Dragon Burst
-TitanRecoil: Ranged Recoil
-PhantasmalAura: Spectral Aura
-PhantasmalJump: Shadowbound Jump
+OstaraJump: 奥丝塔拉跳跃
+OstaraGift: 奥丝塔拉之贺
+DragonBurst: 火焰爆发
+TitanRecoil: 远程爆炸
+PhantasmalAura: 汲取魔力
+PhantasmalJump: 影月外骨骼
 AdvancementHeader: "{$Mods.FargoMoreSoulsCompat.Items.AdvancementForce.DisplayName}"
-CommonGuardBauble: Soul Bauble
-PureIronCross: Holy Shield
-XenomiteNecklace: Necklace of Perception
-XenomiteArmorEffect: Toxic Gas
-HardlightEffect: Drones Summon
-XeniumConcoction: Beelzebub Concoction
-XeniumShield: Infected Thornshield Dash
+CommonGuardBauble: 缚魂珠
+PureIronCross: 埃尔罕十字架
+XenomiteNecklace: 感知项链
+XenomiteArmorEffect: 有毒气体
+HardlightEffect: 召唤物
+XeniumConcoction: 瘟魔混浆
+XeniumShield: 疫染荆棘盾
 AdventurerHeader: "{$Mods.FargoMoreSoulsCompat.Items.AdventurerForce.DisplayName}"
-BotanistHerbEffect: Glowing Herb
-FloranWellFed: Raw Meat Drops
-FloranGrassEffect: Standing On Grass Bonus
-WayfarerTreads: Explorer's Treads
-WayfarerBand: Metal Band
-WayfarerArmorBuff: Wayfarer Stacking Buff
+BotanistHerbEffect: 草药发光
+FloranWellFed: 掉落生肉
+FloranGrassEffect: 站在草地上增益
+WayfarerTreads: 探险家之靴
+WayfarerBand: 金属手环
+WayfarerArmorBuff: 叠加增益
 HurricaneHeader: "{$Mods.FargoMoreSoulsCompat.Items.HurricaneForce.DisplayName}"
-RogueCrestEffect: Rogue Invisibility On Hit
-RogueRuneEffect: Rusted Sword Summon
-RogueArmorEffect: Movement Increases
-ChitinTornadoDash: Tornado Dash
-ApostleEffect: Feathers Spawn
-MarbleChunkEffect: Limited Flight
-AstraliteArmorEffect: Energy Field
-AstraliteBoots: Fast Falling
-SeraphAngelicSigil: Angelic Spark
-RunicSpawn: Explosive Runes
-RunicScroll: Rune Wizard's Scroll
+RogueCrestEffect: 隐身
+RogueRuneEffect: 盗贼饰章
+RogueArmorEffect: 迅捷符文
+ChitinTornadoDash: 旋风冲刺
+ApostleEffect: 生成羽毛
+MarbleChunkEffect: 有限制的飞行
+AstraliteArmorEffect: 能量场
+AstraliteBoots: 超重力靴
+SeraphAngelicSigil: 堕天使旗
+RunicSpawn: 爆炸符文
+RunicScroll: 符文巫师的卷轴
 AtlantisHeader: "{$Mods.FargoMoreSoulsCompat.Items.AtlantisForce.DisplayName}"
-BismiteExplosion: Toxic Explosion
-BismiteShieldEffect: Festering Wounds On Hit
-CascadeBubble: Bubble Shield
-CascadePendant: Improved Swimming
-GraniteChunkStomp: Granite Stomp
-GraniteBoots: Low Health Speed Boost
-StreamSurferFishJump: Fish Jump/ Fall Speed
-StreamSurferSpout: Water Spout Summon
-SpiritFangEffect: Shadow-Singed Fang
-PrimalStoneArmorEffect: Inflict Unstable Affliction
+BismiteExplosion: 剧毒爆炸
+BismiteShieldEffect: 溃烂伤口减益
+CascadeBubble: 泡泡盾
+CascadePendant: 提高游泳
+GraniteChunkStomp: 下砸践踏
+GraniteBoots: 心率防滑靴
+StreamSurferFishJump: 跳跃高度和下落速度
+StreamSurferSpout: 水龙卷
+SpiritFangEffect: 影迹之牙
+PrimalStoneArmorEffect: 痛苦无常减益
 FrostburnHeader: "{$Mods.FargoMoreSoulsCompat.Items.FrostburnForce.DisplayName}"
-BloodCourtBolt: Blood Bolt
-BloodCourtTongue: Grisly Tongue
-BloodCourtWard: Sanguine Ward
-CryoliteAura: Icy Aura
-CryoliteCard: Four Of A Kind
-DuskRunes: Shadowflame Magic Attack
-DuskGuitar: Guitar Lightning
-FrigidAttackSpeed: Icy Wall
-FrigidIceWall: Frigid Melee Speed
-MarksmanCrit: Concentrated Critical Attack
-PainMongerGuard: Infernal Guardians
-PainMongerMaw: Magic Fiery Spit
-SlagTyrantBurst: Sentries Fireballs Burst
-SlagTyrantSummon: Magic Scepter Summon
+BloodCourtBolt: 暗魂矢
+BloodCourtTongue: 可怖之舌
+BloodCourtWard: 血染戒石
+CryoliteAura: 冰环
+CryoliteCard: 四牌同点
+DuskRunes: 暗影焰
+DuskGuitar: 闪电
+FrigidAttackSpeed: 冰墙
+FrigidIceWall: 近战攻速
+MarksmanCrit: 注意力攻击暴击
+PainMongerGuard: 炎狱守卫
+PainMongerMaw: 炎狱灰烬
+SlagTyrantBurst: 火球
+SlagTyrantSummon: 召唤物

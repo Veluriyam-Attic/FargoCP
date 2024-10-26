@@ -2,34 +2,34 @@ Mods: {
 	FargosExpertModifs: {
 		Config: {
 			Header: {
-				M: Main Settings
-				O: Optional
-				MC: Mod Compatibility Settings
+				M: 主要配置
+				O: 选择性配置
+				MC: 兼容性配置
 			}
 		}
 
 		Configs: {
 			MainConfig: {
-				DisplayName: Main Config
+				DisplayName: 主要配置
 
 				EnableBossHealthChange: {
-					Label: Enable Boss Health Change
-					Tooltip: Changes the health of all bosses to Master difficulty.
+					Label: Boss血量修改
+					Tooltip: 修改Boss血量到大师难度
 				}
 
 				EnableBossRelicDrops: {
-					Label: Enable Boss Relic Drops
-					Tooltip: Enables all Bosses to drop their Relics, regardless of the difficulty.
+					Label: Boss圣物掉落
+					Tooltip: Boss圣物掉落忽视难度
 				}
 
 				EnableBossSummonsChange: {
-					Label: Enable Boss Summons Change
-					Tooltip: Makes Boss Summons (From Fargos) be non-consumable.
+					Label: Boss召唤物不消耗
+					Tooltip: 让Fargo的Boss召唤物不消耗
 				}
 
 				SetCanBreakPlayerDefense: {
-					Label: Enable Calamity Defense Damage
-					Tooltip: Enables defense damage from the Calamity Mod to work with Thorium.  !!! Note: Calamity Mod MUST be active for this to work. !!!
+					Label: 灾厄的防御损伤机制
+					Tooltip: 允许防御损伤对瑟银和Fargo的Boss生效  !!! 注：必须启用了灾厄 !!!
 				}
 			}
 		}
