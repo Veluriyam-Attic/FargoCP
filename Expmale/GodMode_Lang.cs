@@ -33,7 +33,7 @@ namespace FargoCP.Expmale
                 //有其他类的内容要汉化就加一个这个
                 ForL.LocalizeByTypeFullName("GodMode.World", "PostDrawFullscreenMap", new ()
                 {
-                    {"Release to teleport","右键以传送"},
+                    {"Release to teleport","释放以传送"},
                 });
 
                 //例如 在XXXX.XXX类下的ZZZ方法里面有一条硬编码"Hello"
