@@ -4,14 +4,11 @@
 本品为由玲珑汉化组和ROH共同制作的汉化
 汉化进度：99%
 适配模组列表
+（标注*的为有硬编码内容还未解决，后续会更新）
 [code] 
 [olist]
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3248054405] More Fargo's Souls [/url] 
 灾厄瑟银Fargo魂石拓展
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3139796298] Satanist Mode [/url] 
-撒旦模式
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3138681141] Masochist Mode EX [/url] 
-受虐EX模式
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3044249615] Fargo's Souls DLC (Calamity) [/url] 
 灾厄FargoDLC
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838767066] Utilities for Fargo's Souls [/url] 
@@ -23,7 +20,7 @@ Fargo的专家配置
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3326463997] Fargo's Souls More Cross-mod (Unofficial Addon) [/url] 
 非官方Fargo魂多开衔接模组（魂灵、救赎、Consolaria）
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2565993369] Fargo's Testing Mod [/url] 
-Fargo测试模组
+Fargo测试模组*
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567015462] Fargo's Hyper Mode [/url] 
 Fargo超级模式
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567016793] Fargo's OmniWield [/url] 
@@ -37,7 +34,7 @@ Fargo钓上一切
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590054406] Fargo's Crafting Tree Generator [/url] 
 Fargo合成树导出
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590065264] Fargo's Banner Boost [/url] 
-Fargo针对性免疫
+Fargo针对性免疫*
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2802867430] Fargo's Best of Both Worlds [/url] 
 Fargo最好的世界生成
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2823410160] Fargo's Rainbow Mod [/url] 
@@ -47,9 +44,7 @@ Fargo掉落物修改
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2906451681] Fargo's Soul Mod Extras [/url] 
 额外Fargo魂石
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3015054070] Paper Mario Badges [/url] 
-Fargo马里奥物品
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3329620648] StarlightCat's Fargos Expansion [/url] 
-StarlightCat的Fargo魂石拓展
+Fargo马里奥物品*
 [/olist] 
 [/code] 
 
@@ -62,7 +57,18 @@ StarlightCat的Fargo魂石拓展
 3.重载模组
 
 [h1]†Ξ后续规划Ξ†[/h1]
-纠正错误文本，增加新的Fargo系列翻译
+[code] 
+[olist]
+    [*]待制作汉化
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3139796298] Satanist Mode [/url] 
+撒旦模式*
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3138681141] Masochist Mode EX [/url] 
+受虐EX模式*
+    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3329620648] StarlightCat's Fargos Expansion [/url] 
+StarlightCat的Fargo魂石拓展
+    [*]纠正错误文本，增加新的Fargo系列翻译
+[/olist] 
+[/code] 
 
 [quote=虞悖] 致谢：
 Fargo汉化人员&玲珑汉化组[/quote] 

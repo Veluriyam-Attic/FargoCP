@@ -58,7 +58,6 @@ Mods: {
 						'''
 				}
 
-
 				EternityPriorityOverRev: {
 					Label: 永恒模式优先级高于复仇/死亡模式
 					Tooltip:
@@ -394,7 +393,7 @@ Mods: {
 
 			WulfrumEnchant: {
 				DisplayName: 钨钢魔石
-				Tooltip: 
+				Tooltip:
 					'''
 					召唤一架跟随光标的钨钢无人机
 					无人机会扫描附近敌怪
@@ -502,7 +501,7 @@ Mods: {
 
 			StatigelEnchant: {
 				DisplayName: 斯塔提斯魔石
-				Tooltip: 
+				Tooltip:
 					'''
 					提高最大移动速度但降低加速度
 					根据移动速度提升伤害，最多提升15%伤害
@@ -511,7 +510,7 @@ Mods: {
 
 			SulphurEnchant: {
 				DisplayName: 硫磺魔石
-				Tooltip: 
+				Tooltip:
 					'''
 					获得硫磺二段跳，二段跳时会产生硫磺泡泡
 					击中硫磺泡泡时泡泡会释放伤害性气体
@@ -520,7 +519,7 @@ Mods: {
 
 			VictideEnchant: {
 				DisplayName: 胜潮魔石
-				Tooltip: 
+				Tooltip:
 					'''
 					海胆尖刺会从玩家身体中伸出，伤害接触到的敌怪
 					攻击会为尖刺充能，充能完毕后停止攻击时尖刺会向外发射
@@ -707,6 +706,15 @@ Mods: {
 			Sulphur: 跳跃时会产生三个泡泡，造成的伤害增加
 			Victide: 尖刺不再受重力影响并会附带毒液效果
 			Statigel: 增大最大速度，伤害加成翻倍
+		}
+
+		// Cooldowns.DaedalusPlatformCooldown: Daedalus Platform
+
+		ExpandedTooltips: {
+			// FountainAstral: Forces surrounding biome state to Astral Infection upon activation
+			// FountainCrags: Forces surrounding biome state to Brimstone Crags upon activation
+			// FountainSulphur: Forces surrounding biome state to Sulphurous Sea upon activation
+			// FountainSunken: Forces surrounding biome state to Sunken Sea upon activation
 		}
 	}
 }

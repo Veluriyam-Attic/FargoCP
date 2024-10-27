@@ -49,15 +49,17 @@ Items: {
 		Tooltip:
 			'''
 			免疫突变毒牙, 突变驾到, 噬神者
-			[i:FargowiltasSouls/MutantEye] 闪烁崇心的擦弹伤害加成上限增加25%
+			[i:FargowiltasSouls/MutantEye] 
+			闪烁崇心的擦弹伤害加成上限增加25%
 			将闪烁崇心的心攻击加强为爱之射线，增加闪烁崇心的擦弹伤害加成
 			I提升幽灵憎恶的出现频率和攻击力
 			按下“炸弹”键时施放一圈幻影眼球，摧毁大多数敌对弹幕，突变炸弹有60秒的冷却时间
-			[i:FargowiltasSouls/MutantMask][i:FargowiltasSouls/MutantBody][i:FargowiltasSouls/MutantPants] 召唤会向周围的敌怪发射激光的幻影球
+			[i:FargowiltasSouls/MutantMask][i:FargowiltasSouls/MutantBody][i:FargowiltasSouls/MutantPants] 
+			召唤会向周围的敌怪发射激光的幻影球
 			召唤幽灵憎恶与你一同战斗,你复活时会爆发出巨大的幻影死亡射线,增加20%武器使用速度
 			攻击最多对你造成1000点伤害
 			你的攻击会附加突变毒牙Buff
-			'Very suspicious'
+			'非常可疑'
 			'''
 		DisplayName: 突变魔石
 	}
@@ -77,10 +79,12 @@ Items: {
 		Tooltip:
 			'''
 			免疫憎恶毒牙, 憎恶驾到, 噬神者
-			[i:FargowiltasSouls/AbominableWand] 受到致命伤害时，保留1点生命值并避免死亡,你再次恢复到满生命值后，免死效果才能再被激活
+			[i:FargowiltasSouls/AbominableWand] 
+			受到致命伤害时，保留1点生命值并避免死亡,你再次恢复到满生命值后，免死效果才能再被激活
 			增加闪烁崇心的擦弹伤害加成，红心发射冷却减半, 暴击时偶尔会召唤幽灵憎恶
 			装备冥河套装时，闪烁崇心擦弹计满也会增加冥河能量
-			[i:FargowiltasSouls/StyxCrown][i:FargowiltasSouls/StyxChestplate][i:FargowiltasSouls/StyxLeggings] 增加20%手持武器职业的伤害
+			[i:FargowiltasSouls/StyxCrown][i:FargowiltasSouls/StyxChestplate][i:FargowiltasSouls/StyxLeggings] 
+			增加20%手持武器职业的伤害
 			攻击敌人以积蓄冥河能量，受伤时消耗冥河能量，减免一部分伤害
 			双击向下或向上键以消耗能量，释放追踪镰刀，能量蓄满时会释放出冥狱魔剑
 			你的攻击会附加憎恶毒牙Buff
@@ -93,10 +97,12 @@ Items: {
 		Tooltip:
 			'''
 			免疫热恋, 假心, 戴薇安驾到的效果
-			[i:FargowiltasSouls/SparklingAdoration] 擦弹（擦过弹幕和敌怪本体）能提高伤害，最高可增加25%
+			[i:FargowiltasSouls/SparklingAdoration] 
+			擦弹（擦过弹幕和敌怪本体）能提高伤害，最高可增加25%
 			伤害加成会随时间流逝而减少，被击中时清零
 			你的攻击会周期性地生成能吸血的红心
-			[i:FargowiltasSouls/NekomiHood][i:FargowiltasSouls/NekomiHoodie][i:FargowiltasSouls/NekomiLeggings] 增加7%手持武器职业伤害和该职业暴击率
+			[i:FargowiltasSouls/NekomiHood][i:FargowiltasSouls/NekomiHoodie][i:FargowiltasSouls/NekomiLeggings] 
+			增加7%手持武器职业伤害和该职业暴击率
 			增加闪烁崇心的擦弹半径, 擦弹以暂时积蓄能量
 			受伤时消耗能量，增加生命恢复速度
 			双击向下或向上键以消耗能量，释放吸血爱心
@@ -110,7 +116,8 @@ Items: {
 		DisplayName: 代达罗斯魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/OrnateShield] 获得撞击冲刺能力, 此冲刺可以在不受伤害的情况下猛击穿过敌怪
+			[i:CalamityMod/OrnateShield] 
+			获得撞击冲刺能力, 此冲刺可以在不受伤害的情况下猛击穿过敌怪
 			使你免疫霜冻、冷冻和冰冻减益
 			获得代达罗斯套装的效果
 			'凛寒之元'
@@ -121,7 +128,8 @@ Items: {
 		DisplayName: 掠夺者魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/LivingDew] 增加50点最大生命值
+			[i:CalamityMod/LivingDew] 
+			增加50点最大生命值
 			获得+1HP/s生命再生，受到伤害性减益时再额外获得+1HP/s生命再生
 			站立不动时获得+1.5HP/s生命再生
 			减半受到火系和疾病系减益的持续时间
@@ -134,7 +142,8 @@ Items: {
 		DisplayName: 瘟疫使者魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/BloomStone] 基于一天中的时间+1~+3HP/s生命再生
+			[i:CalamityMod/BloomStone] 
+			基于一天中的时间+1~+3HP/s生命再生
 			基于一天中的时间加速生命再生
 			两种效果都会在午后至日落期间达到最大
 			你走过的草地会百花齐放
@@ -148,7 +157,8 @@ Items: {
 		DisplayName: 渊泉魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/VoidofExtinction] 增加13%的暴击率
+			[i:CalamityMod/VoidofExtinction] 
+			增加13%的暴击率
 			暴击会产生爆炸，并将附近的敌人用硫磺火引燃
 			大幅减少硫磺火减益造成的伤害
 			获得渊泉套装的效果
@@ -203,7 +213,8 @@ Items: {
 		DisplayName: 瘟疫死神魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/LumenousAmulet] 攻击造成深渊水压减益
+			[i:CalamityMod/LumenousAmulet] 
+			攻击造成深渊水压减益
 			使你免疫激流与深渊水压减益
 			处于深渊时增加25%最大生命值
 			在深渊中提供适量光照
@@ -216,7 +227,8 @@ Items: {
 		DisplayName: 泰坦之心魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/AeroStone] 提供50的额外飞行时间
+			[i:CalamityMod/AeroStone] 
+			提供50的额外飞行时间
 			当你处于空中并且没有处于飞行或滑翔状态时，你的飞行时间会缓慢恢复
 			获得泰坦之心套装的效果
 			'擎天巨神，阿特拉斯'
@@ -227,7 +239,8 @@ Items: {
 		DisplayName: 日影魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/VampiricTalisman] 盗贼武器的弹幕在暴击时会吸血
+			[i:CalamityMod/VampiricTalisman] 
+			盗贼武器的弹幕在暴击时会吸血
 			增加12%盗贼伤害
 			获得日影套装的效果
 			'祟日之蚀'
@@ -238,16 +251,20 @@ Items: {
 		DisplayName: 元素之灵魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/TerrariumSurroundSound] 增加10%音波伤害
+			[i:ThoriumMod/TerrariumSurroundSound] 
+			增加10%音波伤害
 			你和附近的队友攻击时有概率元素打击敌怪
 			咒音增幅的效用范围翻倍
-			[i:ThoriumMod/TerrariumDefender] 最大生命值增加20，延长受伤后的无敌帧时间
+			[i:ThoriumMod/TerrariumDefender] 
+			最大生命值增加20，延长受伤后的无敌帧时间
 			免疫大部分状态减益，击退和火块
 			高于25%生命值时可吸收团队附近队友所受伤害的25%
 			低于25%生命值时，你会快速再生生命并增加防御
-			[i:ThoriumMod/TerrariumParticleSprinters] 允许飞行，超高速奔跑和冰面上的额外机动力
+			[i:ThoriumMod/TerrariumParticleSprinters] 
+			允许飞行，超高速奔跑和冰面上的额外机动力
 			增加10%移动速度, 免疫火块和熔岩
-			[i:FargoSoulMore/ThoriumEnchantment] 获得瑟银魔石的效果
+			[i:FargoSoulMore/ThoriumEnchantment] 
+			获得瑟银魔石的效果
 			获得元素之灵套装的效果
 			'Terraria的力量'
 			'''
@@ -257,9 +274,11 @@ Items: {
 		DisplayName: 瑟银魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/RingofUnity] 增加1点伤害
+			[i:ThoriumMod/RingofUnity] 
+			增加1点伤害
 			附近所有装备它的玩家也会增加额外1点伤害
-			[i:FargoSoulMore/JesterEnchantment] 获得弄臣魔石的效果
+			[i:FargoSoulMore/JesterEnchantment] 
+			获得弄臣魔石的效果
 			获得瑟银魔石的效果
 			'瑟银的本质'
 			'''
@@ -269,7 +288,8 @@ Items: {
 		DisplayName: 弄臣魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/MixTape] 你的音波伤害会短暂烧焦击中的敌怪
+			[i:ThoriumMod/MixTape] 
+			你的音波伤害会短暂烧焦击中的敌怪
 			音波暴击会产生一阵熔岩音符喷发
 			获得弄臣套装的效果
 			'Clown'
@@ -280,7 +300,8 @@ Items: {
 		DisplayName: 暗影大师魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/ShinobiSigil] 增加6%投掷暴击率
+			[i:ThoriumMod/ShinobiSigil] 
+			增加6%投掷暴击率
 			连续造成两次投掷暴击会产生暗影闪电并短暂增加投掷速度
 			获得暗影大师套装的效果
 			'与影携行'
@@ -291,7 +312,8 @@ Items: {
 		DisplayName: 荧光魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/TheNuclearOption] 每第5发发射器使用的火箭会发射一枚放射性导弹
+			[i:ThoriumMod/TheNuclearOption] 
+			每第5发发射器使用的火箭会发射一枚放射性导弹
 			导弹会造成它所取代的火箭的两倍伤害和击退
 			获得荧光套装的效果
 			'鲜荧灿光'
@@ -302,7 +324,8 @@ Items: {
 		DisplayName: 虚金魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/GlitteringChalice] 击中敌怪会让它们死亡时掉落更多的钱
+			[i:ThoriumMod/GlitteringChalice] 
+			击中敌怪会让它们死亡时掉落更多的钱
 			获得虚金套装的效果
 			'影虚之金'
 			'''
@@ -312,7 +335,8 @@ Items: {
 		DisplayName: 地脉魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/BloomingShield] 脱战时你的生命恢复会随时间增加，至多5点
+			[i:ThoriumMod/BloomingShield] 
+			脱战时你的生命恢复会随时间增加，至多5点
 			获得地脉套装的效果
 			'一块恒石?'
 			'''
@@ -322,7 +346,8 @@ Items: {
 		DisplayName: 晶体魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/CrystalSpearTip] 100%基础伤害
+			[i:ThoriumMod/CrystalSpearTip] 
+			100%基础伤害
 			矛类武器会释放碎裂的矛尖
 			获得晶体套装的效果
 			'娇奢之荣'
@@ -346,7 +371,8 @@ Items: {
 		DisplayName: 生命木魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/LivingWoodSap] 增加1点召唤伤害
+			[i:ThoriumMod/LivingWoodSap] 
+			增加1点召唤伤害
 			增加仆从击退
 			获得生命木套装的效果
 			'万物皆有灵'
@@ -357,7 +383,8 @@ Items: {
 		DisplayName: 绽花魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/KickPetal] 打击乐器伤害有25%概率激活一片“恐慌花瓣”，花瓣会绕玩家旋转
+			[i:ThoriumMod/KickPetal] 
+			打击乐器伤害有25%概率激活一片“恐慌花瓣”，花瓣会绕玩家旋转
 			触摸花瓣的玩家会获得大幅速度提升
 			触摸花瓣的敌怪会受到伤害
 			获得绽花套装的效果

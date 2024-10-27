@@ -1,0 +1,937 @@
+Items: {
+	Lore: {
+		ShtuxibusLore: {
+		}
+	}
+
+	AdamantiteSingularity: {
+	}
+
+	AeraliteSingularity: {
+	}
+
+	ShtuxianSoul: {
+	}
+
+	AstralSingularity: {
+	}
+
+	AuricSingularity: {
+	}
+
+	ChlorophyteSingularity: {
+	}
+
+	CobaltSingularity: {
+	}
+
+	CopperSingularity: {
+	}
+
+	CosmiliteSingularity: {
+	}
+
+	CrimtaneSingularity: {
+	}
+
+	CryoniteSingularity: {
+	}
+
+	DemoniteSingularity: {
+	}
+
+	GoldSingularity: {
+	}
+
+	HallowSingularity: {
+	}
+
+	HellstoneSingularity: {
+	}
+
+	LeadSingularity: {
+	}
+
+	MeteoriteSingularity: {
+	}
+
+	MythrillSingularity: {
+	}
+
+	OrichalcumSingularity: {
+	}
+
+	PalladiumSingularity: {
+	}
+
+	PerenialSingularity: {
+	}
+
+	PlatinumSingularity: {
+	}
+
+	ScoriaSingularity: {
+	}
+
+	SilverSingularity: {
+	}
+
+	SpectreSingularity: {
+	}
+
+	TinSingularity: {
+	}
+
+	TitaniumSingularity: {
+	}
+
+	TungstenSingularity: {
+	}
+
+	UelibloomSingularity: {
+	}
+
+	UltimateHealingPotion: {
+	}
+
+	LuminiteSingularity: {
+	}
+
+	AuricBullet: {
+	}
+
+	ShroomiteSingularity: {
+	}
+
+	CalamitySoul: {
+	}
+
+	ShtuxibusSword: {
+	}
+
+	InfinityCatalyst: {
+	}
+
+	InfinityIngot: {
+	}
+
+	ShtuxianCurse: {
+	}
+
+	chtuxmantle: {
+	}
+
+	DemonshadeBreastplateCat: {
+	}
+
+	DemonshadeHelmetCat: {
+	}
+
+	DemonshadeLegginsCat: {
+	}
+
+	ShtuxiumOre: {
+	}
+
+	ShtuxiumBar: {
+	}
+
+	ShtuxiumSoulShard: {
+	}
+
+	ShtuxibusBag: {
+	}
+
+	ShtuxibusSpear: {
+	}
+
+	NekomiEnchant: {
+	}
+
+	PhantaplazmalEnchant: {
+	}
+
+	StyxEnchant: {
+	}
+
+	ShtuxibusTrophy: {
+	}
+
+	ShtuxibusRelic: {
+	}
+
+	AnnihilationAshSingularity: {
+	}
+
+	AscendantSingularity: {
+	}
+
+	BloodSampleSingularity: {
+	}
+
+	BloodstoneSingularity: {
+	}
+
+	CalamityAshSingularity: {
+	}
+
+	CalamitySingularity: {
+	}
+
+	CorrodedSingularity: {
+	}
+
+	DepthSingularity: {
+	}
+
+	ExoSingularity: {
+	}
+
+	MeldSingularity: {
+	}
+
+	NecroplasmSingularity: {
+	}
+
+	PlagueCanisterSingularity: {
+	}
+
+	PurifiedGelSingularity: {
+	}
+
+	RottenMatterSingularity: {
+	}
+
+	SeaRemainsSingularity: {
+	}
+
+	SolarVeilSingularity: {
+	}
+
+	TerrariaSingularity: {
+	}
+
+	WulfrumSingularity: {
+	}
+
+	UltimateFargoWeapon: {
+	}
+
+	MutantsForge: {
+	}
+
+	ShtuxibusForge: {
+	}
+
+	MonstrosityMask: {
+	}
+
+	MonstrosityPants: {
+	}
+
+	MonstrositySuit: {
+	}
+
+	ShtuxibusHeadgear: {
+	}
+
+	ShtuxibusPants: {
+	}
+
+	ShtuxibusSuit: {
+	}
+
+	TrueMonstrosityMask: {
+	}
+
+	TrueMonstrosityPants: {
+	}
+
+	TrueMonstrositySuit: {
+	}
+
+	Sadism: {
+	}
+
+	TrueAuricTeslaBody: {
+	}
+
+	TrueAuricTeslaHelm: {
+	}
+
+	TrueAuricTeslaLegs: {
+	}
+
+	ShtuxibusBagGfb: {
+	}
+
+	CrabulonEnergizer: {
+	}
+
+	OverloadSprout: {
+	}
+
+	DesertEnergizer: {
+	}
+
+	HiveEnergizer: {
+	}
+
+	PerforatorEnergizer: {
+	}
+
+	SlimeGodEnergizer: {
+	}
+
+	BunchOfMedalions: {
+	}
+
+	AnahitaEnergizer: {
+	}
+
+	AstralEnergizer: {
+	}
+
+	AureusEnergizer: {
+	}
+
+	AuricEnergizer: {
+	}
+
+	BrimstoneEnergizer: {
+	}
+
+	CalamitousEnergizer: {
+	}
+
+	CryoEnergizer: {
+	}
+
+	DevouringEnergizer: {
+	}
+
+	FleshyEnergizer: {
+	}
+
+	FollyEnergizer: {
+	}
+
+	PlagueEnergizer: {
+	}
+
+	ProfandedEnergizer: {
+	}
+
+	TerraEnergizer: {
+	}
+
+	ToxicEnergizer: {
+	}
+
+	WaifuCloneEnergizer: {
+	}
+
+	WaifuEnergizer: {
+	}
+
+	AstralLump: {
+	}
+
+	BloodyWormChicken: {
+	}
+
+	CosmicAmalgamation: {
+	}
+
+	CryonicCore: {
+	}
+
+	DeepFriedIdol: {
+	}
+
+	EyeofExtintion: {
+	}
+
+	OverloadedWaifu: {
+	}
+
+	OverloadPheromones: {
+	}
+
+	OverloadSeafood: {
+	}
+
+	OverloadStarcore: {
+	}
+
+	OverloadTeratoma: {
+	}
+
+	OverloadWhistle: {
+	}
+
+	PhantasmalBeacon: {
+	}
+
+	PileOfBloodWorms: {
+	}
+
+	PlagueTerminal: {
+	}
+
+	ProfandedCluster: {
+	}
+
+	TrueOverloadedSludge: {
+	}
+
+	YharonEggsBox: {
+	}
+
+	SwarmDeactivatorDebug: {
+	}
+
+	OverloadedSirenPearl: {
+	}
+
+	DemonshadeHelmMagic: {
+	}
+
+	DemonshadeHelmRanged: {
+	}
+
+	DemonshadeHelmRogue: {
+	}
+
+	DemonshadeHelmSummon: {
+	}
+
+	EridanusEnchant: {
+	}
+
+	EternityForce: {
+	}
+
+	GaiaEnchant: {
+	}
+
+	CelestialEnchant: {
+	}
+
+	ChtuxlagorHeart: {
+	}
+
+	RampartOfAsgard: {
+	}
+
+	StarlightVodka: {
+	}
+
+	ProfandedSomething: {
+	}
+
+	AsthraltiteEnchant: {
+	}
+
+	BismuthEnchant: {
+	}
+
+	BlazingBruteEnchant: {
+	}
+
+	BlightboneEnchant: {
+	}
+
+	CosmicCommanderEnchant: {
+	}
+
+	DreadfireEnchant: {
+	}
+
+	EerieEnchant: {
+	}
+
+	ExitumLuxEnchant: {
+	}
+
+	FallenPrinceEnchant: {
+	}
+
+	FlariumEnchant: {
+	}
+
+	FrosthunterEnchant: {
+	}
+
+	LapisEnchant: {
+	}
+
+	MarstechEnchant: {
+	}
+
+	NebulousApprenticeEnchant: {
+	}
+
+	PrairieEnchant: {
+	}
+
+	QuasarEnchant: {
+	}
+
+	SpaceJunkEnchant: {
+	}
+
+	StellarPriestEnchant: {
+	}
+
+	VoidWardenEnchant: {
+	}
+
+	VulcanReaperEnchant: {
+	}
+
+	FoundationsForce: {
+	}
+
+	GenerationsForce: {
+	}
+
+	SoranForce: {
+	}
+
+	SyranForce: {
+	}
+
+	SoASoul: {
+	}
+
+	OverloadCoznix: {
+	}
+
+	ThunderEnergizer: {
+	}
+
+	ThoriumEnergizer: {
+	}
+
+	LichEnergizer: {
+	}
+
+	JellyfishEnergizer: {
+	}
+
+	GraniteEnergizer: {
+	}
+
+	FallenEnergizer: {
+	}
+
+	BuriedEnergizer: {
+	}
+
+	BoreanEnergizer: {
+	}
+
+	BardEssence: {
+	}
+
+	HealerEssence: {
+	}
+
+	BardSoul: {
+	}
+
+	GuardianAngelsSoul: {
+	}
+
+	AssassinEnchant: {
+	}
+
+	BerserkerEnchant: {
+	}
+
+	BiotechEnchant: {
+	}
+
+	BronzeEnchant: {
+	}
+
+	BulbEnchant: {
+	}
+
+	CelestiaEnchant: {
+	}
+
+	ConduitEnchant: {
+	}
+
+	CrierEnchant: {
+	}
+
+	CryomancerEnchant: {
+	}
+
+	CyberPunkEnchant: {
+	}
+
+	DarksteelEnchant: {
+	}
+
+	DemonBloodEnchant: {
+	}
+
+	DepthDiverEnchant: {
+	}
+
+	DragonEnchant: {
+	}
+
+	DreadEnchant: {
+	}
+
+	DreamWeaverEnchant: {
+	}
+
+	DurasteelEnchant: {
+	}
+
+	EbonEnchant: {
+	}
+
+	FallenPaladinEnchant: {
+	}
+
+	FleshEnchant: {
+	}
+
+	FlightEnchant: {
+	}
+
+	FungusEnchant: {
+	}
+
+	GeodeEnchant: {
+	}
+
+	GraniteEnchant: {
+	}
+
+	IcyEnchant: {
+	}
+
+	IllumiteEnchant: {
+	}
+
+	IridescentEnchant: {
+	}
+
+	JesterEnchant: {
+	}
+
+	LichEnchant: {
+	}
+
+	LifeBinderEnchant: {
+	}
+
+	LifeBloomEnchant: {
+	}
+
+	LivingWoodEnchant: {
+	}
+
+	LodestoneEnchant: {
+	}
+
+	MaestroEnchant: {
+	}
+
+	MagmaEnchant: {
+	}
+
+	MarchingBandEnchant: {
+	}
+
+	NagaSkinEnchant: {
+	}
+
+	NobleEnchant: {
+	}
+
+	NoviceClericEnchant: {
+	}
+
+	OceanEnchant: {
+	}
+
+	OrnateEnchant: {
+	}
+
+	PlagueDoctorEnchant: {
+	}
+
+	PyromancerEnchant: {
+	}
+
+	RhapsodistEnchant: {
+	}
+
+	SacredEnchant: {
+	}
+
+	SandstoneEnchant: {
+	}
+
+	ShadeMasterEnchant: {
+	}
+
+	ShootingStarEnchant: {
+	}
+
+	SilkEnchant: {
+	}
+
+	SpiritTrapperEnchant: {
+	}
+
+	SteelEnchant: {
+	}
+
+	TemplarEnchant: {
+	}
+
+	TerrariumEnchant: {
+	}
+
+	ThoriumEnchant: {
+	}
+
+	TideHunterEnchant: {
+	}
+
+	TideTurnerEnchant: {
+	}
+
+	TitanEnchant: {
+	}
+
+	ValadiumEnchant: {
+	}
+
+	WarlockEnchant: {
+	}
+
+	WhisperingEnchant: {
+	}
+
+	WhiteDwarfEnchant: {
+	}
+
+	WhiteKnightEnchant: {
+	}
+
+	YewWoodEnchant: {
+	}
+
+	AlfheimForce: {
+	}
+
+	AsgardForce: {
+	}
+
+	HelheimForce: {
+	}
+
+	JotunheimForce: {
+	}
+
+	MidgardForce: {
+	}
+
+	MuspelheimForce: {
+	}
+
+	NiflheimForce: {
+	}
+
+	SvartalfheimForce: {
+	}
+
+	VanaheimForce: {
+	}
+
+	ThoriumSoul: {
+	}
+
+	ForgottenEnergizer: {
+	}
+
+	ViscountEnergizer: {
+	}
+
+	OverloadChampion: {
+	}
+
+	OverloadGranite: {
+	}
+
+	OverloadJelly: {
+	}
+
+	OverloadLich: {
+	}
+
+	OverloadRag: {
+	}
+
+	OverloadSaucer: {
+	}
+
+	OverloadStrider: {
+	}
+
+	OverloadThunderbird: {
+	}
+
+	OverloadViscount: {
+	}
+
+	OverloadAbyssalion: {
+	}
+}
+
+Buffs: {
+	ShtuxibusCurse: {
+	}
+
+	ChtuxlagorBuff: {
+	}
+
+	ShtuxibusMinionBuff: {
+	}
+
+	AntiCollision: {
+	}
+
+	AntiDeath: {
+	}
+
+	AntiDebuff: {
+	}
+
+	ChtuxlagorInferno: {
+	}
+
+	SadismEX: {
+	}
+
+	YharimBuff: {
+	}
+
+	CelestialPowerBuff: {
+	}
+
+	DeviSoulBuff: {
+	}
+
+	MutantSoulBuff: {
+	}
+
+	StarlightVodkaBuff: {
+	}
+
+	ChtuxlagorInfernoEX: {
+	}
+
+	StellarGuardianBuff: {
+	}
+}
+
+NPCs: {
+	ShtuxianHarbringer: {
+		// DisplayName: Shtuxian Harbringer
+		
+		TownNPCMood: {
+		}
+
+		Chat: {
+		}
+	}
+
+	// ShtuxibusGFB.DisplayName: The true eldrich multiversal horror of Chtux'Lag'Or EX
+	
+	Shtuxibus: {
+		// DisplayName: Shtuxibus
+		
+		BossChecklistIntegration: {
+		}
+	}
+
+	// ShtuxibusIllusion.DisplayName: Shtuxibus
+	
+	Monstrocity: {
+		TownNPCMood: {
+		}
+
+		Chat: {
+		}
+	}
+}
+
+Toggler: {
+}
+
+Tiles: {
+}
+
+// ItemClass.Chtuxlagor: ∞ Chtux'Lag'Or Item ∞
+
+WorldGen: {
+}
+
+Projectiles: {
+}
+
+Biomes: {
+	ShtuxibusSurfaceBiome: {
+	}
+}
+
+Bestiary: {
+}
+
+Configs: {
+	ShtunConfig: {
+		ShtuxibusRayOneshot: {
+		}
+
+		ShtuxibusMultiversalHorrorOfChtuxlagorOnGFB: {
+		}
+
+		Headers: {
+		}
+
+		ItemsUsedInSingularity: {
+		}
+
+		// DisplayName: Shtun Config
+		
+		ShtuxibusBreakRodOfHarmony: {
+		}
+
+		SoulOfShtundexCraftable: {
+		}
+
+		MultiversalHorrorOfChtuxlagorOnGetfixedboi: {
+		}
+
+		ShtuxibusKillInGodmode: {
+		}
+
+		ForcedFilters: {
+		}
+
+		Stalin: {
+		}
+	}
+}

@@ -140,7 +140,7 @@ NPCs: {
 		// Census.SpawnCondition: Conditions unknown
 	}
 
-	CultistIllusion.DisplayName: Cultist Illusion
+	CultistIllusion.DisplayName: 教徒幻象
 	PhantomPortal.DisplayName: Phantom Portal
 	PurityPortal.DisplayName: Purity Portal
 	BabyZombie.DisplayName: Baby Zombie

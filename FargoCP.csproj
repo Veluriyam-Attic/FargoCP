@@ -7,10 +7,12 @@
 	<PropertyGroup>
 		
 	</PropertyGroup>
+	<ItemGroup>
+	  <Reference Include="GodMode">
+	    <HintPath>lib\GodMode.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
 
 	<!-- References -->
-	<ItemGroup>
-	  <PackageReference Update="tModLoader.CodeAssist" Version="0.1.5" />
-	</ItemGroup>
 
 </Project>

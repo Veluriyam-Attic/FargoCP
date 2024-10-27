@@ -1,3 +1,5 @@
+using FargoCP.Systems;
+using MasomodeEX;
 using Microsoft.Xna.Framework;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
@@ -6,7 +8,9 @@ using Terraria.UI.Chat;
 
 namespace FargoCP.Localization.MasomodeEX.GlobalTranslation
 {
-    [JITWhenModsEnabled ("MasomodeEX")]
+
+
+    [JITWhenModsEnabled("MasomodeEX")]
     public class MasomodeEXGlobalTranslation : ModSystem
     {
         public override void Load()
