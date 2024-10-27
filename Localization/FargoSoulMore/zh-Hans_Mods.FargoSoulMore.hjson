@@ -2,391 +2,392 @@
 
 Items: {
 	RealityTranscendentor: {
-		DisplayName: Reality Transcendentor
+		DisplayName: 真人之魂
 		Tooltip:
 			'''
-			Template of an item
-			Replacing this tooltip is duty 
-			It's snowing on Mt.Fuji
+			项目物品
+			更换此物品提示是职责所在
+			富士山的雪，又下了......
 			'''
 	}
 
 	GodEnchantment: {
-		DisplayName: Soul of the Transcendentor
+		DisplayName: 凌虚真人
 		Tooltip:
 			'''
-			Grants immunity to Mutant Rebirth, Time Frozen, Coffin Toss Buff, Time Stop Cooldown, Abominable Cooldown, Berserker Cooldown, Abominable Fang, Abominable Presence, God Eater, Mutant Fang, Mutant Presence, Lovestruck, Fake Hearts, Deviant Presence
-			Effects of [i:FargowiltasSouls/EternitySoul] Soul of Eternity, [i:FargoSoulMore/TyrantSoul] Tyrant Soul
-			[i:FargowiltasSouls/AbominableWand] Can endure any attack and survive with one life, endurance recovers when you reach max life
-			Increased damage gained Sparkling Adoration graze, halves heart cooldown, Abominationn periodically manifests to support your critical hits
-			If with Styx armor, charges energy when graze is maxed
-			[i:FargowiltasSouls/StyxCrown][i:FargowiltasSouls/StyxChestplate][i:FargowiltasSouls/StyxLeggings] 20% Increased damage for current weapon class
-			Attack enemies to charge energy, reduces damage taken for energy
-			Double tap down key to release energy as homing shots & brandish a blade of infernal magic when fully charged
-			Your attacks inflict Abominable Fang, Mutant Fang, God Eater, Hellfire, Deviant Presence
-			[i:FargowiltasSouls/MutantEye] 25% increased graze bonus damage cap
-			Converts Sparkling Adoration hearts to love rays, Increases damage gained per graze
-			Increases Spectral Abominationn respawn rate & damage
-			Press the bomb key to unleash a wave of spheres and destroy most hostile projectiles, it has 60 second cooldown
-			[i:FargowiltasSouls/MutantMask][i:FargowiltasSouls/MutantBody][i:FargowiltasSouls/MutantPants] Phantasmal eyes will shoot phantasmal deathray at nearby enemies
-			Summons spectral abominationn, you erupt into a massive deathray when revived, 20% increased weapon use speed
-			Max damage you take is capped at 1000
-			[i:FargowiltasSouls/SparklingAdoration] Graze attacks to gain up to x1.25 increased damage
-			Damage bonus decreases over time and is fully lost on hit
-			Your attacks periodically summon life draining heart
-			[i:FargowiltasSouls/NekomiHood][i:FargowiltasSouls/NekomiHoodie][i:FargowiltasSouls/NekomiLeggings] 7% increased damage & critical strike chance for your current weapon class
-			Increases Sparkling Adoration graze radius, graze attacks to temporarily charge energy
-			Increases life regeneration when damaged at the cost of some energy
-			Double tap down key to release energy as life draining heart
-			Wield a demon axe of love and justice when fully charged
-			Effects of [i:FargowiltasSouls/EridanusHat][i:FargowiltasSouls/EridanusBattleplate][i:FargowiltasSouls/EridanusLegwear]Eridanus Armor, [i:FargowiltasSouls/GaiaHelmet][i:FargowiltasSouls/GaiaPlate][i:FargowiltasSouls/GaiaGreaves]Gaia Armor
-			'Transcend the god limits, ascending to true eternity.'
+			免疫突变重生, 时间冻结, 大力抛投, 时停冷却, 憎恶冷却, 狂暴冷却, 憎恶毒牙, 憎恶驾到, 噬神者, 突变毒牙, 突变驾到, 热恋, 假心, 戴薇安驾到
+			获得[i:FargowiltasSouls/EternitySoul]永恒之魂, [i:FargoSoulMore/TyrantSoul]暴君之魂的效果
+			[i:FargowiltasSouls/AbominableWand] 受到致命伤害时，保留1点生命值并避免死亡,你再次恢复到满生命值后，免死效果才能再被激活
+			增加闪烁崇心的擦弹伤害加成，红心发射冷却减半, 暴击时偶尔会召唤幽灵憎恶
+			装备冥河套装时，闪烁崇心擦弹计满也会增加冥河能量
+			[i:FargowiltasSouls/StyxCrown][i:FargowiltasSouls/StyxChestplate][i:FargowiltasSouls/StyxLeggings] 增加20%手持武器职业的伤害
+			攻击敌人以积蓄冥河能量，受伤时消耗冥河能量，减免一部分伤害
+			双击向下或向上键以消耗能量，释放追踪镰刀，能量蓄满时会释放出冥狱魔剑
+			你的攻击会附加憎恶毒牙Buff
+			你的攻击会附加憎恶毒牙, 突变毒牙, 噬神者, 地狱烈焰, 戴薇安驾到Buff
+			[i:FargowiltasSouls/MutantEye] 闪烁崇心的擦弹伤害加成上限增加25%
+			将闪烁崇心的心攻击加强为爱之射线，增加闪烁崇心的擦弹伤害加成
+			I提升幽灵憎恶的出现频率和攻击力
+			按下“炸弹”键时施放一圈幻影眼球，摧毁大多数敌对弹幕，突变炸弹有60秒的冷却时间
+			[i:FargowiltasSouls/MutantMask][i:FargowiltasSouls/MutantBody][i:FargowiltasSouls/MutantPants] 召唤会向周围的敌怪发射激光的幻影球
+			召唤幽灵憎恶与你一同战斗,你复活时会爆发出巨大的幻影死亡射线,增加20%武器使用速度
+			攻击最多对你造成1000点伤害
+			[i:FargowiltasSouls/SparklingAdoration] 擦弹（擦过弹幕和敌怪本体）能提高伤害，最高可增加25%
+			伤害加成会随时间流逝而减少，被击中时清零
+			你的攻击会周期性地生成能吸血的红心
+			[i:FargowiltasSouls/NekomiHood][i:FargowiltasSouls/NekomiHoodie][i:FargowiltasSouls/NekomiLeggings] 增加7%手持武器职业伤害和该职业暴击率
+			增加闪烁崇心的擦弹半径, 擦弹以暂时积蓄能量
+			受伤时消耗能量，增加生命恢复速度
+			双击向下或向上键以消耗能量，释放吸血爱心
+			能量蓄满时会挥舞象征着爱与正义的恶魔之斧
+			获得[i:FargowiltasSouls/EridanusHat][i:FargowiltasSouls/EridanusBattleplate][i:FargowiltasSouls/EridanusLegwear]波江套装, [i:FargowiltasSouls/GaiaHelmet][i:FargowiltasSouls/GaiaPlate][i:FargowiltasSouls/GaiaGreaves]盖亚套装的效果
+			'凌驾于神灵之上，升华至永恒之境'
 			'''
 	}
 
 	PhantasmalEnchantment: {
 		Tooltip:
 			'''
-			Grants immunity to Mutant Fang, Mutant Presence, God Eater
-			[i:FargowiltasSouls/MutantEye] 25% increased graze bonus damage cap
-			Converts Sparkling Adoration hearts to love rays, Increases damage gained per graze
-			Increases Spectral Abominationn respawn rate & damage
-			Press the bomb key to unleash a wave of spheres and destroy most hostile projectiles, it has 60 second cooldown
-			[i:FargowiltasSouls/MutantMask][i:FargowiltasSouls/MutantBody][i:FargowiltasSouls/MutantPants] Phantasmal eyes will shoot phantasmal deathray at nearby enemies
-			Summons spectral abominationn, you erupt into a massive deathray when revived, 20% increased weapon use speed
-			Max damage you take is capped at 1000
-			Your attacks inflict Mutant Fang
+			免疫突变毒牙, 突变驾到, 噬神者
+			[i:FargowiltasSouls/MutantEye] 闪烁崇心的擦弹伤害加成上限增加25%
+			将闪烁崇心的心攻击加强为爱之射线，增加闪烁崇心的擦弹伤害加成
+			I提升幽灵憎恶的出现频率和攻击力
+			按下“炸弹”键时施放一圈幻影眼球，摧毁大多数敌对弹幕，突变炸弹有60秒的冷却时间
+			[i:FargowiltasSouls/MutantMask][i:FargowiltasSouls/MutantBody][i:FargowiltasSouls/MutantPants] 召唤会向周围的敌怪发射激光的幻影球
+			召唤幽灵憎恶与你一同战斗,你复活时会爆发出巨大的幻影死亡射线,增加20%武器使用速度
+			攻击最多对你造成1000点伤害
+			你的攻击会附加突变毒牙Buff
 			'Very suspicious'
 			'''
-		DisplayName: Phantasmal Enchantment
+		DisplayName: 突变魔石
 	}
 
 	TrueMutantEnergy: {
-		DisplayName: True Mutant Energy
+		DisplayName: 真·突变能量
 		Tooltip: ""
 	}
 
 	TrueMutantsCurse: {
-		DisplayName: True Mutant's Curse
+		DisplayName: 真·突变体的诅咒
 		Tooltip: ""
 	}
 
 	AbominableEnchantment: {
-		DisplayName: Abominable Enchantment
+		DisplayName: 憎恶魔石
 		Tooltip:
 			'''
-			Grants immunity to Abominable Fang, Abominable Presence, God Eater
-			[i:FargowiltasSouls/AbominableWand] Can endure any attack and survive with one life, endurance recovers when you reach max life
-			Increased damage gained Sparkling Adoration graze, halves heart cooldown, Abominationn periodically manifests to support your critical hits
-			If with Styx armor, charges energy when graze is maxed
-			[i:FargowiltasSouls/StyxCrown][i:FargowiltasSouls/StyxChestplate][i:FargowiltasSouls/StyxLeggings] 20% Increased damage for current weapon class
-			Attack enemies to charge energy, reduces damage taken for energy
-			Double tap down key to release energy as homing shots & brandish a blade of infernal magic when fully charged
-			Your attacks inflict Abominable Fang
-			'Embrace infernal magic'
+			免疫憎恶毒牙, 憎恶驾到, 噬神者
+			[i:FargowiltasSouls/AbominableWand] 受到致命伤害时，保留1点生命值并避免死亡,你再次恢复到满生命值后，免死效果才能再被激活
+			增加闪烁崇心的擦弹伤害加成，红心发射冷却减半, 暴击时偶尔会召唤幽灵憎恶
+			装备冥河套装时，闪烁崇心擦弹计满也会增加冥河能量
+			[i:FargowiltasSouls/StyxCrown][i:FargowiltasSouls/StyxChestplate][i:FargowiltasSouls/StyxLeggings] 增加20%手持武器职业的伤害
+			攻击敌人以积蓄冥河能量，受伤时消耗冥河能量，减免一部分伤害
+			双击向下或向上键以消耗能量，释放追踪镰刀，能量蓄满时会释放出冥狱魔剑
+			你的攻击会附加憎恶毒牙Buff
+			'紧拥着冥狱魔法'
 			'''
 	}
 
 	DeviatingEnchantment: {
-		DisplayName: Deviating Enchantment
+		DisplayName: 戴薇安魔石
 		Tooltip:
 			'''
-			Grants immunity to Lovestruck, Fake Hearts, Deviant Presence
-			[i:FargowiltasSouls/SparklingAdoration] Graze attacks to gain up to x1.25 increased damage
-			Damage bonus decreases over time and is fully lost on hit
-			Your attacks periodically summon life draining heart
-			[i:FargowiltasSouls/NekomiHood][i:FargowiltasSouls/NekomiHoodie][i:FargowiltasSouls/NekomiLeggings] 7% increased damage & critical strike chance for your current weapon class
-			Increases Sparkling Adoration graze radius, graze attacks to temporarily charge energy
-			Increases life regeneration when damaged at the cost of some energy
-			Double tap down key to release energy as life draining heart
-			Wield a demon axe of love and justice when fully charged
-			Your attacks inflict Deviant Presence
-			'Deviating'
+			免疫热恋, 假心, 戴薇安驾到的效果
+			[i:FargowiltasSouls/SparklingAdoration] 擦弹（擦过弹幕和敌怪本体）能提高伤害，最高可增加25%
+			伤害加成会随时间流逝而减少，被击中时清零
+			你的攻击会周期性地生成能吸血的红心
+			[i:FargowiltasSouls/NekomiHood][i:FargowiltasSouls/NekomiHoodie][i:FargowiltasSouls/NekomiLeggings] 增加7%手持武器职业伤害和该职业暴击率
+			增加闪烁崇心的擦弹半径, 擦弹以暂时积蓄能量
+			受伤时消耗能量，增加生命恢复速度
+			双击向下或向上键以消耗能量，释放吸血爱心
+			能量蓄满时会挥舞象征着爱与正义的恶魔之斧
+			你的攻击会附加戴薇安驾到Buff
+			'既定偏离'
 			'''
 	}
 
 	DaedalusEnchantment: {
-		DisplayName: Daedalus Enchantment
+		DisplayName: 代达罗斯魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/OrnateShield] Allows the ability to ram dash, this dash can slam through enemies without taking damage
-			Immunity to Chilled, Frostburn, Frostbite and Frozen
-			Effects of Daedalus Armor
-			'Cryonic'
+			[i:CalamityMod/OrnateShield] 获得撞击冲刺能力, 此冲刺可以在不受伤害的情况下猛击穿过敌怪
+			使你免疫霜冻、冷冻和冰冻减益
+			获得代达罗斯套装的效果
+			'凛寒之元'
 			'''
 	}
 
 	ReaverEnchantment: {
-		DisplayName: Reaver Enchantment
+		DisplayName: 掠夺者魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/LivingDew] Increases max life by 50
-			Grants +1 life regen and an additional +1 life regen when inflicted with a damage debuff
-			Standing still in Honey grants +1.5 life regen
-			sHalves how long you are afflicted with fire and sickness debuffs
-			Effects of Reaver Armor
-			'It's living'
+			[i:CalamityMod/LivingDew] 增加50点最大生命值
+			获得+1HP/s生命再生，受到伤害性减益时再额外获得+1HP/s生命再生
+			站立不动时获得+1.5HP/s生命再生
+			减半受到火系和疾病系减益的持续时间
+			获得掠夺者套装的效果
+			'它的心脏还在搏动！'
 			'''
 	}
 
 	PlaguebringerEnchantment: {
-		DisplayName: Plaguebringer Enchantment
+		DisplayName: 瘟疫使者魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/BloomStone] Grants between +1 HP/s and +3 HP/s life regen depending on time of day
-			Accelerates life regen based on time of day
-			Both of these effects are maximized from noon to sunset
-			Flowers grow if you are standing on grass
-			Random dye plants will grow while standing on non grass dirt
-			Effects of Plaguebringer Armor
-			'Plague'
+			[i:CalamityMod/BloomStone] 基于一天中的时间+1~+3HP/s生命再生
+			基于一天中的时间加速生命再生
+			两种效果都会在午后至日落期间达到最大
+			你走过的草地会百花齐放
+			站在无草泥土上时有几率长出随机的染料植物
+			获得瘟疫使者套装的效果
+			'疫染之瘟'
 			'''
 	}
 
 	HydrothermicEnchantment: {
-		DisplayName: Hydrothermic Enchantment
+		DisplayName: 渊泉魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/VoidofExtinction] 13% increased critical strike chance
-			Critical strikes explode, causing nearby enemies to ignite with Brimstone Flames
-			Reduces Brimstone Flames debuff damage
-			Effects of Hydrothermic Armor
-			'Warm'
+			[i:CalamityMod/VoidofExtinction] 增加13%的暴击率
+			暴击会产生爆炸，并将附近的敌人用硫磺火引燃
+			大幅减少硫磺火减益造成的伤害
+			获得渊泉套装的效果
+			'岩渊温泉'
 			'''
 	}
 
 	DevastationForce: {
-		DisplayName: Force of Devastation
+		DisplayName: 毁灭之力
 		Tooltip:
 			'''
-			[i:FargoSoulMore/DaedalusEnchantment] Effects of Daedalus Armor, Ornate Shield
-			[i:FargoSoulMore/HydrothermicEnchantment] Effects of Hydrothermic Armor, Void of Extinction
-			[i:FargoSoulMore/ReaverEnchantment] Effects of Reaver Armor, Living Dew
-			[i:FargoSoulMore/PlaguebringerEnchantment] Effects of Plaguebringer Armor, Bloom Stone
+			[i:FargoSoulMore/DaedalusEnchantment] 获得代达罗斯套装和宝光盾牌的效果
+			[i:FargoSoulMore/HydrothermicEnchantment] 获得渊泉套装和终结虚空的效果
+			[i:FargoSoulMore/ReaverEnchantment] 获得掠夺者套装和生命露珠的效果
+			[i:FargoSoulMore/PlaguebringerEnchantment] 获得瘟疫使者套装和绽花石的效果
 			'''
 	}
 
 	TyrantSoul: {
-		DisplayName: Tyrant Soul
+		DisplayName: 暴君之魂
 		Tooltip:
 			'''
-			[i:CalamityMod/TheEvolution] You reflect projectiles when they hit you, reflected projectiles deal no damage to you, projectiles that deal less than 5% of your max life in damage will not be reflected
-			Reflect has a cooldown that ranges between 15 and 90 seconds depending on the reflected projectile's damage, this cooldown is shared with all other dodges and reflects
-			After reflecting, grants +1 life regen and accelerated life regen for 5 seconds, if the same enemy projectile type hits you again you will resist its damage by 15%
-			[i:CalamityMod/HideofAstrumDeus] Taking damage / inflicting a true melee strike, drops an immense amount of astral stars from the sky, taking damage boosts true melee damage by 30%, boost duration scales with the amount of damage you took, up to 10 seconds
-			immunity to the astral infection, cursed inferno, on fire, and frostburn, enemies take damage when they hit you and inflicted with the astral infection
-			[i:CalamityMod/BlazingCore] Pressing activate accessory parry key will activate a parry, encasing you in profaned crystal, being hit shortly after encasement will shatter the crystal
-			Upon shattering, waves of holy stars spiral outwards and the damage you would have taken is reduced to 1, after shattering, this damage reduction effect goes on cooldown
-			If another encasement is shattered whilst on cooldown, healing stars will be interspersed throughout the waves of stars, the damage of a hit is not reduced whilst on cooldown, provides a moderate amount of light in the Abyss
-			[i:CalamityMod/PhantomicArtifact] Whenever your minions hit an enemy you will gain a random phantomic buff, does not stack with downgrades, phantomic Empowerment increases summon damage by 10% and makes minion hits spawn phantomic knives
-			Phantomic Shield increases defense by 10 and damage reduction by 5% and spawns a phantomic bulwark which absorbs 20% of the next projectile's damage that touches it
-			Phantomic Regen grants +2 life regen and spawns a phantomic heart which grants an additional 2 life regen when touched, [I:FargoSoulMore/TyrantSoul] grants immunity to Calamitous Presence
-			[i:CalamityMod/BloodflareCore] Taking defense damage heals you over time, you gain 1 health for every 1 defense damage recovered, taking damage always deals at least half of your total defense in defense damage
-			[i:CalamityMod/EldritchSoulArtifact] Boosts melee speed by 10%, ranged velocity by 25%, rogue stealth regen by 15%, max minions by 1, reduces mana cost by 25%, grants immunity to whispering death
-			[i:CalamityMod/AuricSoulArtifact] For each Fiery Draconid you have summoned, you gain 1 minion slot, effects of [i:CalamityMod/TheCommunity] The Community, [i:CalamityMod/ShatteredCommunity] Shattered Community, [i:CalamityMod/DimensionalSoulArtifact] multiplies all damage by 1.2x, but at the cost of increasing damage taken by 15%
-			[i:CalamityMod/TheAbsorber] 12% increased movement and jump speed, grants immunity to knockback, enemies take immense damage when they touch you and are afflicted with a damaging sickness debuff that reduces damage reduction significantly
-			Using a healing potion will spawn a cleansing aura, aura removes all debuffs one time, aura grants +3 life regen, +8% damage, and +5% damage reduction for all players inside for 10 seconds, 5% of the damage from enemy attacks is absorbed and converted into healing
-			[i:CalamityMod/Affliction] Grants you and all other players on your team +0.5 life regen, +10% max life, 7% damage reduction, 13 defense and +10% damage
-			[i:CalamityMod/DarkSunRing] 12% increase to damage, +0.5 life regen and +2 max minions, increases minion knockback, during the day, grants +2 life regen, during the night, grants +20 defense, during an eclipse, grants +1 life regen and +10 defense
-			[i:FargowiltasCrossmod/BrandoftheBrimstoneWitch] Effects of [i:CalamityMod/HeartoftheElements] Heart of the Elements, [i:CalamityMod/OccultSkullCrown] Occult Skull Crown, [i:CalamityMod/Radiance] Radiance, [i:CalamityMod/TheSponge] The Sponge, [i:CalamityMod/ChaliceOfTheBloodGod] Chalice of the Blood God, [i:CalamityMod/NebulousCore] Nebulous Core, [i:CalamityMod/YharimsGift] Yharim's Gift, [i:CalamityMod/DraedonsHeart] Draedon's heart and [i:CalamityMod/Calamity] Calamity
-			[i:FargowiltasCrossmod/MarniteEnchant] 25% increased placement speed and +10 placement range, lasers strike nearby enemies when building and mining, effects of [i:CalamityMod/MarniteRepulsionShield] Marnite Repulsion Shield, [i:FargowiltasCrossmod/WulfrumEnchant] wulfrum drone tells you enemy debuff weaknesses and makes enemies take extra debuff damage
-			[i:FargowiltasCrossmod/DesertProwlerEnchant] Replaces jumping boot hovering with a charged sand jump that boosts you horizontally, [i:FargowiltasCrossmod/AerospecEnchant] jumping and using double jumps increase critical strike chance and summon damage
-			[i:FargowiltasCrossmod/SulphurEnchant] Grants an extra jump that spawns a bubble, shooting the bubble releases toxic gas, [i:FargowiltasCrossmod/VictideEnchant] gives you urchin spikes, which after attacking for a short time and releasing attack, launch outward
-			[i:FargoSoulMore/DaedalusEnchantment] Effects of Daedalus Armor, Ornate Shield, [i:FargoSoulMore/HydrothermicEnchantment] Effects of Hydrothermic Armor, Void of Extinction, [i:FargoSoulMore/ReaverEnchantment] Effects of Reaver Armor, Living Dew, [i:FargoSoulMore/PlaguebringerEnchantment] Effects of Plaguebringer Armor, Bloom Stone
-			'The ruler of the jungle'
+			[i:CalamityMod/TheEvolution] 你会反弹来犯的弹幕, 被反弹的弹幕不会对你造成伤害, 低于最大生命值5%伤害的弹幕不会被反弹
+			根据被反弹的弹幕伤害，反弹有15到90秒的冷却时间, 该冷却时间与其他的闪避或反弹效果共享
+			反弹后，你会获得+1HP/s生命再生和生命再生加速效果，持续5秒, 再次被相同弹幕击中时，此弹幕对你造成的伤害降低15%
+			[i:CalamityMod/HideofAstrumDeus] 受到伤害或使用真近战武器击中敌人时会令许多幻星从天而降, 受到伤害后增加30%真近战伤害, 增幅的持续时间基于你受到的伤害值，至多持续10秒
+			使你免疫幻星感染、诅咒狱火、着火了！和霜冻减益, 攻击你的敌人也会受到伤害并且会受到幻星感染减益
+			[i:CalamityMod/BlazingCore] 按下激活饰品格挡按键会将你包裹在发光的亵渎水晶中，并激活一次格挡, 包裹后短时间内受击会使水晶破碎
+			水晶破碎时，几波神圣之星会向外螺旋扩散且你受到的伤害降低为1, 破碎后，此伤害减免效果将进入冷却
+			处于冷却期间时如果水晶再次破碎，部分治愈之星将穿插在神圣之星中, 处于冷却期间时受击伤害不会降低, 在深渊中提供适量光照
+			[i:CalamityMod/PhantomicArtifact] 仆从攻击会使你获得一个随机幻魂增益，该效果不会与其下位合成材料叠加, 幻魂之力会增加10%召唤伤害并使仆从攻击击中时生成幻魂之刃
+			幻魂坚盾会增加10点防御和5%伤害减免并生成一个幻魂壁垒，吸收下次接触其弹幕的20%伤害
+			幻魂还生会提供+2HP/s生命再生并生成一个幻魂之心，接触时额外获得+2HP/s生命再生
+			[I:FargoSoulMore/TyrantSoul] 免疫灾厄驾到 [i:CalamityMod/BloodflareCore] 受到防御损伤时会缓慢治疗你，每恢复1点防御便为你回复1点生命值，受到伤害时会损失至少一半的防御
+			[i:CalamityMod/EldritchSoulArtifact] 增加10%近战攻速、25%远程弹幕速度、15%潜行值恢复速度、1格最大仆从栏位并降低25%魔力消耗，免疫死亡低语减益
+			[i:CalamityMod/AuricSoulArtifact] 你每召唤一只炽焰天龙，便会获得一格仆从栏位 [i:CalamityMod/TheCommunity] 归一心元石 [i:CalamityMod/ShatteredCommunity] 幻灭心元石 [i:CalamityMod/DimensionalSoulArtifact] 所有伤害乘1.2倍，代价是所受伤害增加15%
+			[i:CalamityMod/TheAbsorber] 增加12%移动速度和跳跃速度，使你免疫击退，击中你的敌怪会受到极高伤害以及一个显著降低伤害减免的伤害性疾病减益
+			使用治疗药水后会产生一个纯净光环，首次进入光环会净化所有减益，光环内所有玩家的生命再生，伤害和伤害减免提升，持续10秒，吸收敌人攻击5%的伤害并将其转化为对你的治疗
+			[i:CalamityMod/Affliction] 为你和你的所有队友+0.5HP/s生命再生、10%最大生命值、7%伤害减免、13点防御和10%伤害
+			[i:CalamityMod/DarkSunRing] 增加12%伤害，+0.5HP/s生命再生和2格最大仆从栏位，增加仆从击退，在白天时+2HP/s生命再生，在夜晚时增加20点防御，在日食时+1HP/s生命再生和10点防御
+			[i:FargowiltasCrossmod/BrandoftheBrimstoneWitch]获得[i:CalamityMod/HeartoftheElements] 元灵之心, [i:CalamityMod/OccultSkullCrown] 玄秘颅冠, [i:CalamityMod/Radiance] 辐辉, [i:CalamityMod/TheSponge] 化绵留香石, [i:CalamityMod/ChaliceOfTheBloodGod] 血神圣杯, [i:CalamityMod/NebulousCore] 星云之核e, [i:CalamityMod/YharimsGift] 寻神者之礼, [i:CalamityMod/DraedonsHeart] 嘉登之心和 [i:CalamityMod/Calamity] 灾厄的效果
+			[i:FargowiltasCrossmod/MarniteEnchant] 提高10%放置速度，放置距离+5, 建造和采矿时会产生激光攻击附近敌人, 获得[i:CalamityMod/MarniteRepulsionShield]合成岩斥力盾的效果
+			[i:FargowiltasCrossmod/WulfrumEnchant] 召唤一架跟随光标的钨钢无人机，无人机会扫描附近敌怪，扫描敌怪可得知敌怪对减益类型的弱性与抗性，绿色表示对该减益有弱性，红色表示对减益有抗性，被扫描的敌怪在受到减益时也会随时间推移受到额外伤害	
+			[i:FargowiltasCrossmod/DesertProwlerEnchant] 替换悬停为进行强大的充能跳跃并提升水平移速 [i:FargowiltasCrossmod/AerospecEnchant] 每次跳跃或二段跳后都会增加5%暴击率和5%召唤伤害
+			[i:FargowiltasCrossmod/SulphurEnchant] 获得一次额外的二段跳，二段跳时产生气泡，气泡受击时释放伤害性气体
+			[i:FargoSoulMore/DaedalusEnchantment] 获得代达罗斯套装和宝光盾牌的效果, [i:FargoSoulMore/HydrothermicEnchantment] 获得渊泉套装和终结虚空的效果, [i:FargoSoulMore/ReaverEnchantment] 获得掠夺者套装和生命露珠的效果, [i:FargoSoulMore/PlaguebringerEnchantment] 获得瘟疫使者套装和绽花石的效果
+			'丛林的君主'
 			'''
 	}
 
 	PlagueReaperEnchantment: {
-		DisplayName: Plague Reaper Enchantment
+		DisplayName: 瘟疫死神魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/LumenousAmulet] Attacks inflict Crush Depth
-			Immunity to Riptide and Crush Depth
-			25% increased max life while in the abyss
-			Provides moderate amount of light in the abyss
-			Effects of Plague Reaper Armor
-			'Plague's soul harvesting'
+			[i:CalamityMod/LumenousAmulet] 攻击造成深渊水压减益
+			使你免疫激流与深渊水压减益
+			处于深渊时增加25%最大生命值
+			在深渊中提供适量光照
+			获得文艺死神套装的效果
+			'收割瘟疫之魂'
 			'''
 	}
 
 	TitanHeartEnchantment: {
-		DisplayName: Titan Heart Enchantment
+		DisplayName: 泰坦之心魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/AeroStone] Provides an additional 50 flight time
-			You slowly recover flight time while in the air if you are not flying or gliding
-			Effects of Titan Heart Armor
-			'Atlas'
+			[i:CalamityMod/AeroStone] 提供50的额外飞行时间
+			当你处于空中并且没有处于飞行或滑翔状态时，你的飞行时间会缓慢恢复
+			获得泰坦之心套装的效果
+			'擎天巨神，阿特拉斯'
 			'''
 	}
 
 	UmbraphileEnchantment: {
-		DisplayName: Umbraphile Enchantment
+		DisplayName: 日影魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/VampiricTalisman] Rogue projectiles give lifesteal on crits
-			12% increased rogue damage
-			Effects of Umbraphile Armor
-			'The eclipse'
+			[i:CalamityMod/VampiricTalisman] 盗贼武器的弹幕在暴击时会吸血
+			增加12%盗贼伤害
+			获得日影套装的效果
+			'祟日之蚀'
 			'''
 	}
 
 	TerrariumEnchantment: {
-		DisplayName: Terrarium Enchantment
+		DisplayName: 元素之灵魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/TerrariumSurroundSound] Increases symphonic damage by 10%
-			You and nearby allies have a chance to elementally backlash enemies when attacking
-			Doubles the range of your empowerments effect radius
-			[i:ThoriumMod/TerrariumDefender] Maximum life increased by 20, prolonges after hit invincibility
-			Grants immunity to most debuffs, knockback, fire blocks
-			When above 25% life, absorbs 25% of damage done to nearby players on your team
-			When below 25% life, you will rapidly regenerate life and gain increased defense
-			[i:ThoriumMod/TerrariumParticleSprinters] Allows flight, hyper fast running, extra mobility on ice
-			10% increased movement speed, Grants immunity to fire blocks and lava
-			[i:FargoSoulMore/ThoriumEnchantment] Effects of Thorium Enchantment
-			Effects of Terrarium Armor
-			'The might of Terraria'
+			[i:ThoriumMod/TerrariumSurroundSound] 增加10%音波伤害
+			你和附近的队友攻击时有概率元素打击敌怪
+			咒音增幅的效用范围翻倍
+			[i:ThoriumMod/TerrariumDefender] 最大生命值增加20，延长受伤后的无敌帧时间
+			免疫大部分状态减益，击退和火块
+			高于25%生命值时可吸收团队附近队友所受伤害的25%
+			低于25%生命值时，你会快速再生生命并增加防御
+			[i:ThoriumMod/TerrariumParticleSprinters] 允许飞行，超高速奔跑和冰面上的额外机动力
+			增加10%移动速度, 免疫火块和熔岩
+			[i:FargoSoulMore/ThoriumEnchantment] 获得瑟银魔石的效果
+			获得元素之灵套装的效果
+			'Terraria的力量'
 			'''
 	}
 
 	ThoriumEnchantment: {
-		DisplayName: Thorium Enchantment
+		DisplayName: 瑟银魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/RingofUnity] Increases damage by 1
-			Increases damage by additional 1 for every nearby player that also has it equipped
-			[i:FargoSoulMore/JesterEnchantment] Effects of Jester Enchantment
-			Effects of Thorium Armor
-			'The essence of Thorium'
+			[i:ThoriumMod/RingofUnity] 增加1点伤害
+			附近所有装备它的玩家也会增加额外1点伤害
+			[i:FargoSoulMore/JesterEnchantment] 获得弄臣魔石的效果
+			获得瑟银魔石的效果
+			'瑟银的本质'
 			'''
 	}
 
 	JesterEnchantment: {
-		DisplayName: Jester Enchantment
+		DisplayName: 弄臣魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/MixTape] Your symphonic damage will briefly singe hit enemies
-			Symphonic critical strikes cause an eruption of molten music notes
-			Effects of Jester Armor
+			[i:ThoriumMod/MixTape] 你的音波伤害会短暂烧焦击中的敌怪
+			音波暴击会产生一阵熔岩音符喷发
+			获得弄臣套装的效果
 			'Clown'
 			'''
 	}
 
 	ShadeMasterEnchantment: {
-		DisplayName: Shade Master Enchantment
+		DisplayName: 暗影大师魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/ShinobiSigil] 6% increased throwing critical strike chance
-			Dealing two consecutive throwing critical strikes will discharge dark lightning and increase throwing speed briefly 
-			Effects of Shade Master Armor
-			'Living with shadow'
+			[i:ThoriumMod/ShinobiSigil] 增加6%投掷暴击率
+			连续造成两次投掷暴击会产生暗影闪电并短暂增加投掷速度
+			获得暗影大师套装的效果
+			'与影携行'
 			'''
 	}
 
 	IllumiteEnchantment: {
-		DisplayName: Illumite Enchantment
+		DisplayName: 荧光魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/TheNuclearOption] While equipped, every 5th rocket launcher use will propel a radioactive missile
-			This missile deals double the damage and knockback of the rocket it replaces
-			Effects of Illumite Armor
-			'Illusions'
+			[i:ThoriumMod/TheNuclearOption] 每第5发发射器使用的火箭会发射一枚放射性导弹
+			导弹会造成它所取代的火箭的两倍伤害和击退
+			获得荧光套装的效果
+			'鲜荧灿光'
 			'''
 	}
 
 	ValadiumEnchantment: {
-		DisplayName: Valadium Enchantment
+		DisplayName: 虚金魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/GlitteringChalice] While equipped, hitting enemies will cause them to drop more money on death
-			Effects of Valadium Armor
-			'The valadium'
+			[i:ThoriumMod/GlitteringChalice] 击中敌怪会让它们死亡时掉落更多的钱
+			获得虚金套装的效果
+			'影虚之金'
 			'''
 	}
 
 	LodestoneEnchantment: {
-		DisplayName: Lodestone Enchantment
+		DisplayName: 地脉魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/BloomingShield] When out of combat, your life recovery will increase up to 5 over time
-			Effects of Lodestone Armor
-			'Stone?'
+			[i:ThoriumMod/BloomingShield] 脱战时你的生命恢复会随时间增加，至多5点
+			获得地脉套装的效果
+			'一块恒石?'
 			'''
 	}
 
 	GeodeEnchantment: {
-		DisplayName: Geode Enchantment
+		DisplayName: 晶体魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/CrystalSpearTip] 100% basic damage
-			Spear weapons will release a shattering spear tip
-			Effects of Geode Armor
-			'Luxurious'
+			[i:ThoriumMod/CrystalSpearTip] 100%基础伤害
+			矛类武器会释放碎裂的矛尖
+			获得晶体套装的效果
+			'娇奢之荣'
 			'''
 	}
 
 	ForceOfMidgard: {
-		DisplayName: Force of Midgard
+		DisplayName: 中庭之力
 		Tooltip:
 			'''
-			[i:FargoSoulMore/GeodeEnchantment] Effects of Crystal Spear Tip, Geode Armor
-			[i:FargoSoulMore/LodestoneEnchantment] Effects of Blooming Shield, Lodestone Armor
-			[i:FargoSoulMore/ValadiumEnchantment] Effects of Glittering Chalice, Valadium Armor
-			[i:FargoSoulMore/IllumiteEnchantment] Effects of The Nuclear Option, Illumite Armor
-			[i:FargoSoulMore/ShadeMasterEnchantment] Effects of Shinobi Sigil, Shade Master Armor
-			[i:FargoSoulMore/TerrariumEnchantment] Effects of Terrarium Surround Sound, Terrarium Defender,
-			Terrarium Particle Sprinters, Thorium Enchantment, Terrarium Armor
+			[i:FargoSoulMore/GeodeEnchantment] 获得水晶矛尖, 晶体套装的效果
+			[i:FargoSoulMore/LodestoneEnchantment] 获得绽花盾, 地脉套装的效果
+			[i:FargoSoulMore/ValadiumEnchantment] 获得闪光圣杯, 虚金套装的效果
+			[i:FargoSoulMore/IllumiteEnchantment] 获得核弹头配件, 荧光套装的效果
+			[i:FargoSoulMore/ShadeMasterEnchantment] 获得忍者魔符, 暗影大师套装的效果
+			[i:FargoSoulMore/TerrariumEnchantment] 获得界元音箱, 界元之庇佑、元素粒子加速靴, 瑟银魔石, 元素之灵套装的效果
 			'''
 	}
 
 	LivingWoodEnchantment: {
-		DisplayName: Living Wood Enchantment
+		DisplayName: 生命木魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/CrystalSpearTip] Increases summon damage by 1
-			Increases minion knockback
-			Effects of Living Wood Armor
-			'Living nature'
+			[i:ThoriumMod/LivingWoodSap] 增加1点召唤伤害
+			增加仆从击退
+			获得生命木套装的效果
+			'万物皆有灵'
 			'''
 	}
 
 	BloomingEnchantment: {
-		DisplayName: Blooming Enchantment
+		DisplayName: 绽花魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/CrystalSpearTip] 	Percussion damage has a 25% chance to activate
-			'panic petal', which orbits around the player
-			Allies that touch an activated petal gain a massive speed boost
-			Enemies that touch an activated petal take damage
-			Effects of Blooming Armor
-			'The bloom'
+			[i:ThoriumMod/KickPetal] 打击乐器伤害有25%概率激活一片“恐慌花瓣”，花瓣会绕玩家旋转
+			触摸花瓣的玩家会获得大幅速度提升
+			触摸花瓣的敌怪会受到伤害
+			获得绽花套装的效果
+			'悄花之绽'
 			'''
 	}
 
 	LifeBloomEnchantment: {
-		DisplayName: Life Bloom Enchantment
+		DisplayName: 生命绽放魔石
 		Tooltip:
 			'''
-			[i:FargoSoulMore/LivingWoodEnchantment] Effects of Living Wood Enchantment
-			[i:FargoSoulMore/BloomingEnchantment] Effects of Blooming Enchantment
-			Effects of Life Bloom Armor
-			'True nature'
+			[i:FargoSoulMore/LivingWoodEnchantment] 获得生命木魔石的效果
+			[i:FargoSoulMore/BloomingEnchantment] 获得绽花魔石的效果
+			获得生命绽放套装的效果
+			'真正的自然'
 			'''
 	}
 }
 
-NPCs.MutantEX.DisplayName: True Mutant
+NPCs.MutantEX.DisplayName: 真·突变
 
 Buffs: {
 	TrueMutantPresence: {
 		Description:
 			'''
-			Losing life, ichor & chaos state effect, flying carpet disabled, moon leech effect &
-			defense, damage reduction, max life, life regeneration reduced, soul of the master & berserker install
-			disabled, effects reseted
+			流失生命，腐败&混乱状态
+			禁用飞毯，月蛭，防御、伤害减少
+			最大生命、生命回复减少
+			禁用大师之魂和狂暴过载，效果重置
 			'''
-		DisplayName: True Mutant Presence
+		DisplayName: 真·突变驾到
 	}
 }
