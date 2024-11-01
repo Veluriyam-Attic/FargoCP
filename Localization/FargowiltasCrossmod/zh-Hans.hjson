@@ -407,7 +407,7 @@ Mods: {
 			}
 
 			ExplorationForce: {
-				DisplayName: 勘探之力
+				DisplayName: 探索之力
 				Tooltip:
 					'''
 					[i:FargowiltasCrossmod/MarniteEnchant] 增加25%放置速度和10放置距离
@@ -729,7 +729,7 @@ Mods: {
 			DraedonsHeartEffect: 嘉登之心
 			CalamityEffect: "{$Mods.CalamityMod.Items.Accessories.Calamity.DisplayName}"
 			SplendorJamEffect: 异彩果酱
-			ExplorationHeader: 勘探之力
+			ExplorationHeader: 探索之力
 			AerospecJumpEffect: 天蓝 跳跃暴击
 			MarniteRepulsionEffect: 合成岩斥力盾
 			MarniteLasersEffect: 合成岩 激光
