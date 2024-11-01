@@ -62,6 +62,9 @@ Mods: {
 					Label: 永恒模式优先级高于复仇/死亡模式
 					Tooltip:
 						'''
+						Enabled: Eternity Mode behaviour takes priority over Calamity boss changes. Some Calamity bosses have new Eternity Mode behavior.
+						Disabled: Calamity boss changes take priority over Eternity. 
+
 						使Boss的永恒模式AI优先于复仇/死亡模式或其它灾厄难度的AI。
 						启用此配置选项后部分灾厄Boss会获得全新的永恒模式AI更改。
 						禁用此配置选项后灾厄的难度模式优先级会高于永恒模式。
@@ -73,8 +76,12 @@ Mods: {
 					Tooltip:
 						'''
 						仅当启用炼狱模式时生效
-						开启此配置选项后炼狱模式会完全禁用永恒模式
-						关闭此配置选项后开启炼狱模式时会同时开启永恒模式，但除非启用上一条配置选项，否则Boss将采用炼狱模式的AI。
+						Keep in mind, INFERNUM IS NOT COMPATIBLE. Regardless of this config, expect issues to occur.
+						Enabled: Infernum Mode difficulty fully disables Eternity Mode.
+						Disabled: Eternity will be enabled in Infernum Mode, but Infernum boss AI will take priority unless "Eternity Priority over Calamity Modes" is enabled.
+
+						//开启此配置选项后炼狱模式会完全禁用永恒模式
+						//关闭此配置选项后开启炼狱模式时会同时开启永恒模式，但除非启用上一条配置选项，否则Boss将采用炼狱模式的AI。
 						'''
 				}
 			}
@@ -84,6 +91,7 @@ Mods: {
 			AddedEffects: {
 				AngelTreads: 拥有天使之靴效果
 				AeolusBoots: 拥有风神之靴效果
+				CalamitySupersonic: Effects of Statis' Void Sash
 				ThoriumSuperSonic: 拥有履空靴、求生家之飞鞋和举足轻重靴效果
 				CalamityColossus: 拥有聚合之脑、阿斯加德之庇护和神之壁垒效果
 				ThoriumColossus:
@@ -127,7 +135,6 @@ Mods: {
 					增加15%盗贼弹幕速度
 					增加15%盗贼暴击率
 					拥有纳米核心和日蚀魔镜效果
-					拥有浴火龙鳞和敬天神盗盒效果
 					'''
 			}
 
@@ -177,7 +184,7 @@ Mods: {
 			}
 
 			DragonEgg: {
-				DisplayName: 犽戎蛋
+				DisplayName: 犽戎蛋 //Fiery Dragon Egg
 				Tooltip: 召唤重生之龙，犽戎
 			}
 
@@ -370,7 +377,9 @@ Mods: {
 				Tooltip:
 					'''
 					每次跳跃或二段跳后都会增加5%暴击率和5%召唤伤害
-					跳跃次数重置时增益消失
+					This bonus lasts until your jumps are reset or a mount is used
+
+					//跳跃次数重置时增益消失
 					'''
 				CritUp: +{0}% 暴击率
 				CritReset: -{0}% 暴击率
@@ -388,7 +397,11 @@ Mods: {
 
 			DesertProwlerEnchant: {
 				DisplayName: 沙漠巡游者魔石
-				Tooltip: 按住↑可进行强大的充能跳跃并提升水平移速
+				Tooltip:
+					'''
+					Hold UP to charge a powerful charge jump that also boosts your horizontal speed
+					Charge jump can only be performed while grounded
+					'''
 			}
 
 			WulfrumEnchant: {
@@ -442,15 +455,24 @@ Mods: {
 				DisplayName: 瘟疫死神魔石
 				Tooltip:
 					'''
-					所有攻击都会造成短时间的瘟疫
-					靠近受瘟疫减益影响的敌人会在玩家周围产生瘟疫云
-					瘟疫云在短暂充能后爆炸为巨大的残留云
+					Tooltip: All debuffs spread between enemies
+
+					// 所有攻击都会造成短时间的瘟疫
+					// 靠近受瘟疫减益影响的敌人会在玩家周围产生瘟疫云
+					// 瘟疫云在短暂充能后爆炸为巨大的残留云
 					'''
 			}
 
 			PlaguebringerEnchant: {
 				DisplayName: 瘟疫使者魔石
-				Tooltip: 所有随时间推移造成伤害的减益效果都会在敌怪之间传播
+				Tooltip: 
+				'''
+					//所有随时间推移造成伤害的减益效果都会在敌怪之间传播
+					All attacks inflict plague for a short time
+					A plague cloud follows you, growing when nearby plagued enemies.
+					At maximum size, the cloud expands rapidly and stops following you,
+					lingering in place for a while.
+				'''
 			}
 
 			ReaverEnchant: {
@@ -496,7 +518,11 @@ Mods: {
 
 			TitanHeartEnchant: {
 				DisplayName: 泰坦之心魔石
-				Tooltip: ""
+				Tooltip:
+					'''
+					Increases damage by 15%
+					Makes you larger
+					'''
 			}
 
 			StatigelEnchant: {
@@ -504,7 +530,7 @@ Mods: {
 				Tooltip:
 					'''
 					提高最大移动速度但降低加速度
-					根据移动速度提升伤害，最多提升15%伤害
+					根据移动速度提升伤害，最多提升35%伤害
 					'''
 			}
 
@@ -522,9 +548,47 @@ Mods: {
 				Tooltip:
 					'''
 					海胆尖刺会从玩家身体中伸出，伤害接触到的敌怪
+					You gain 4 defense while the spikes are attached to you
 					攻击会为尖刺充能，充能完毕后停止攻击时尖刺会向外发射
 					'''
 			}
+						FathomSwarmerEnchant: {
+				DisplayName: Fathom Swarmer Enchantment
+				Tooltip:
+					'''
+					Summons an Anglerfish familiar that follows your mouse
+					The anglerfish's light slows down enemies and their projectiles
+					'''
+			}
+
+			AstralEnchant: {
+				DisplayName: Astral Enchantment
+				Tooltip: You are followed by a trail of damaging astral stars
+			}
+
+			BrimflameEnchant: {
+				DisplayName: Brimflame Enchantment
+				Tooltip:
+					'''
+					Press Debuff Install key to consume all of your defense and release a wave of brimstone flames in all directions
+					Becomes stronger the more defense is consumed
+					Your defense will regenerate over time
+					Can only be used when at maximum defense
+					'''
+				DefenseDown: -{0} defense
+				DefenseUp: +{0} defense
+			}
+
+			MolluskEnchant: {
+				DisplayName: Mollusk Enchantment
+				Tooltip:
+					'''
+					Press Special Dash key to quickly slam downwards
+					Hitting an enemy with the slam deals massive damage and gives you immunity frames
+					Only goes on cooldown on enemy hits
+					'''
+			}
+
 		}
 
 		NPCs: {
@@ -547,6 +611,7 @@ Mods: {
 			MovingCorruptCloud.DisplayName: Moving Corrupt Cloud
 			ShadeLightningCloud.DisplayName: Shade Lightning Cloud
 			ToothBall.DisplayName: Tooth Ball
+			Tooth.DisplayName: Tooth
 			HomingRocket.DisplayName: Homing Rocket
 			HomingSickle.DisplayName: Homing Sickle
 			HallowedSlimeSpike.DisplayName: Hallowed Slime Spike
@@ -625,6 +690,17 @@ Mods: {
 			PureGel.DisplayName: Pure Gel
 			HiveMindPulse.DisplayName: Hive Mind Pulse
 			ScourgeSandstream.DisplayName: Scourge Sandstream
+			CrabulonJumpTelegraph.DisplayName: Crabulon Jump Telegraph
+			BigBubble.DisplayName: Big Bubble
+			Bubble.DisplayName: Bubble
+			AquaticSuck.DisplayName: Aquatic Suck
+			FlamableGas.DisplayName: Flamable Gas
+			ToxicGas.DisplayName: Toxic Gas
+			FathomAngler.DisplayName: Fathom Angler
+			AstralTrailStar.DisplayName: Astral Trail Star
+			BrimflameBurst.DisplayName: Brimflame Burst
+			ClamSlam.DisplayName: Clam Slam
+
 		}
 
 		Buffs: {
@@ -658,6 +734,7 @@ Mods: {
 			ElementalQuiverEffect: 元素箭袋
 			QuiverofNihilityEffect: 虚无箭袋
 			NucleogenesisEffect: 核子之源
+			StatisVoidSashEffect: Statis' Void Sash
 			AbyssalDivingSuitEffect: 深渊潜游服
 			BrandoftheBrimstoneWitchHeader: "{$Mods.FargowiltasCrossmod.Items.BrandoftheBrimstoneWitch.DisplayName}"
 			HeartoftheElementsEffect: 元灵之心
@@ -680,12 +757,16 @@ Mods: {
 			DaedalusEffect: Daedalus Flight Limit
 			ReaverEffect: Reaver Stats
 			HydrothermicEffect: Overheat
-			PlaguebringerEffect: Debuff Spread
+			PlaguebringerEffect: Plague Cloud
+			PlagueReaperEffect: Debuff Spread
 			StatigelEffect: 斯塔提斯 速度和伤害
 			SulphurEffect: 硫磺 泡泡跳跃
 			VictideEffect: 胜潮 尖刺
 			TitanHeartEffect: Titan Size
 			UmbraphileEffect: Bat Healing
+			FathomSwarmerEffect: Angler Fish
+			BrimflameEffect: Brimflame Burst
+			MolluskEffect: Mollusk Slam
 		}
 
 		WizardEffect: {
@@ -697,7 +778,8 @@ Mods: {
 			Daedalus: Grants wings if you don't have any, Can fly higher
 			SnowRuffian: Grants some flight time
 			Reaver: More drastic stat changes
-			Plaguebringer:
+			Plaguebringer: Plague cloud deals more damage and charges from longer away
+			PlagueReaper:
 				'''
 				Debuffs spread from farther 
 				Enemies are tagged to spread debuffs for longer
@@ -706,6 +788,12 @@ Mods: {
 			Sulphur: 跳跃时会产生三个泡泡，造成的伤害增加
 			Victide: 尖刺不再受重力影响并会附带毒液效果
 			Statigel: 增大最大速度，伤害加成翻倍
+			TitanHeart: More damage, larger size
+			FathomSwarmer: Larger Light, Faster Fish
+			Astral: Longer trail, more damage
+			Brimflame: Consumes only half of your defense, but still retains effect of all of your defense
+			Mollusk: More damage, More immunity frames
+
 		}
 
 		// Cooldowns.DaedalusPlatformCooldown: Daedalus Platform
@@ -716,5 +804,6 @@ Mods: {
 			// FountainSulphur: Forces surrounding biome state to Sulphurous Sea upon activation
 			// FountainSunken: Forces surrounding biome state to Sunken Sea upon activation
 		}
+		EModeBalance.Laudanum: Halved strength of most positive debuff effects
 	}
 }
