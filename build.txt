@@ -1,6 +1,6 @@
 displayName = Fargo附属的汉化合集
 author = 虞悖&ROH
-version = 0.1.1
+version = 0.1.2
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, lib\*, .git\*, *.sln*
 sortAfter = DirtCraft,FargoAltMusicMod,FargoMoreSoulsCompat,FargoRarities,FargosExpertModifs,fargosoulstweaks,RainbowMod,PaperMarioBadgeMod,OmniWield,HyperMode,GodMode,FishAnything,YharimMutant,BannerBoost,Satanist,FargoEnemyModifiers,MasomodeEX,TooManySlots,LootBonus,CraftingTreeGenerator,StarHell,FargoSeeds
 translationMod = true

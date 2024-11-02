@@ -37,6 +37,8 @@ Mods: {
 			Deactivation: 永恒-死亡模式已关闭。
 		}
 
+		UI.ToggledWithCal: 使用灾厄的难度选择器
+
 		Configs: {
 			CalDLCConfig: {
 				DisplayName: 灾厄相关配置
@@ -390,7 +392,7 @@ Mods: {
 				Tooltip:
 					'''
 					按住↑可进行强大的充能跳跃并提升水平移速.
-                    只有处于地面上时才能进行充能跳跃.
+					               只有处于地面上时才能进行充能跳跃.
 					'''
 			}
 
@@ -444,17 +446,16 @@ Mods: {
 			PlagueReaperEnchant: {
 				DisplayName: 瘟疫死神魔石
 				Tooltip: 所有随时间推移造成伤害的减益效果都会在敌怪之间传播
-				
 			}
 
 			PlaguebringerEnchant: {
 				DisplayName: 瘟疫使者魔石
-				Tooltip: 
-				'''
-				所有攻击都会造成短时间的瘟疫
-				靠近受瘟疫减益影响的敌人会在玩家周围产生瘟疫云
-				瘟疫云在短暂充能后爆炸为巨大的残留云
-				'''
+				Tooltip:
+					'''
+					所有攻击都会造成短时间的瘟疫
+					靠近受瘟疫减益影响的敌人会在玩家周围产生瘟疫云
+					瘟疫云在短暂充能后爆炸为巨大的残留云
+					'''
 			}
 
 			ReaverEnchant: {
@@ -534,6 +535,7 @@ Mods: {
 					攻击会为尖刺充能，充能完毕后停止攻击时尖刺会向外发射
 					'''
 			}
+
 			FathomSwarmerEnchant: {
 				DisplayName: 幻渊鱼群魔石
 				Tooltip:
@@ -554,7 +556,7 @@ Mods: {
 					'''
 					按下减益负载按键来消耗你的所有防御力并向全方向释放深渊炙颅
 					消耗更多的防御力效果也会更强
-				    防御力会随着时间逐渐恢复
+					   防御力会随着时间逐渐恢复
 					只能在防御力为最大值的时候使用该技能
 					'''
 				DefenseDown: -{0} 防御力
@@ -567,10 +569,9 @@ Mods: {
 					'''
 					按下“特殊冲刺”键快速向下撞击
 					击中敌人后造成巨额伤害并获得无敌帧
-			        只有在击中敌人后获得冷却时间
+					      只有在击中敌人后获得冷却时间
 					'''
 			}
-
 		}
 
 		NPCs: {
@@ -682,7 +683,6 @@ Mods: {
 			AstralTrailStar.DisplayName: Astral Trail Star
 			BrimflameBurst.DisplayName: Brimflame Burst
 			ClamSlam.DisplayName: Clam Slam
-
 		}
 
 		Buffs: {
@@ -775,7 +775,6 @@ Mods: {
 			Astral: 轨迹越长，伤害越高
 			Brimflame: 只消耗一半防御力但是仍旧造成全部效果
 			Mollusk: 更高的伤害和更长的无敌帧
-
 		}
 
 		// Cooldowns.DaedalusPlatformCooldown: Daedalus Platform
@@ -786,6 +785,7 @@ Mods: {
 			// FountainSulphur: Forces surrounding biome state to Sulphurous Sea upon activation
 			// FountainSunken: Forces surrounding biome state to Sunken Sea upon activation
 		}
+
 		EModeBalance.Laudanum: 减半大多数增益效果
 	}
 }
