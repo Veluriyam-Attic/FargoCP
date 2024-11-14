@@ -41,7 +41,7 @@ FargosSoulsUtilitiesConfig: {
 
 	EasyForceCombining: {
 		Label: "[i:3549]  困难模式前的力"
-		Tooltip: 开启或关闭所有力级饰品的合成配方, 与正常配方没有不同，只是取消了远古操纵机的限制
+		Tooltip: 开启或关闭所有力级饰品的合成配方, 与正常配方没有不同，只是取消了宇宙坩埚的限制
 	}
 
 	GolemPartsNerf: {

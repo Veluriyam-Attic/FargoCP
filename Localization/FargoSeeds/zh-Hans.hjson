@@ -248,7 +248,7 @@ Mods: {
 				}
 
 				EarlyHardMode: {
-					Label: "[i:3335] 苦难模式开局"
+					Label: "[i:3335] 困难模式开局"
 					Tooltip: ""
 				}
 

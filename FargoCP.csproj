@@ -8,8 +8,8 @@
 		
 	</PropertyGroup>
 	<ItemGroup>
-	  <Reference Include="GodMode">
-	    <HintPath>lib\GodMode.dll</HintPath>
+	  <Reference Include="TigerForceLocalizationLib">
+	    <HintPath>lib\TigerForceLocalizationLib.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 

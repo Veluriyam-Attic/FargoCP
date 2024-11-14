@@ -5,13 +5,23 @@ using System.Text;
 using System.Threading.Tasks;
 using Terraria;
 using Terraria.ModLoader;
+using TigerForceLocalizationLib;
 
 namespace FargoCP
 {
-	// Please read https://github.com/tModLoader/tModLoader/wiki/Basic-tModLoader-Modding-Guide#mod-skeleton-contents for more information about the various files in a mod.
-	public class FargoCP : Mod
+    public class FargoCP : Mod
 	{
-		public static Type gmod = null;
+        public override void PostSetupContent()
+        {
+            TigerForceLocalizationHelper.LocalizeAll("FargoCP", "BannerBoost", true);
+            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "GodMode", true);
+            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "MasomodeEX", true);
+            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "PaperMarioBadgeMod", true);
+            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "Satanist", true);
+            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "DirtCraft", true);
+            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargowiltasCrossmod", true);
+        }
+        public static Type gmod = null;
 	}
 
 	public class World : ModPlayer
