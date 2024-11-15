@@ -37,7 +37,7 @@ Mods: {
 			Deactivation: 永恒-死亡模式已关闭。
 		}
 
-		UI.ToggledWithCal: 使用灾厄的难度选择器
+		UI.ToggledWithCal: 使用灾厄的难度指示器
 
 		Configs: {
 			CalDLCConfig: {
@@ -392,7 +392,7 @@ Mods: {
 				Tooltip:
 					'''
 					按住↑可进行强大的充能跳跃并提升水平移速.
-					               只有处于地面上时才能进行充能跳跃.
+					只有处于地面上时才能进行充能跳跃.
 					'''
 			}
 

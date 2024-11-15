@@ -27,7 +27,7 @@ Fargo的专家配置
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3326463997] Fargo's Souls More Cross-mod (Unofficial Addon) [/url] 
 非官方Fargo魂多开衔接模组（魂灵、救赎、Consolaria）
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2565993369] Fargo's Testing Mod [/url] 
-Fargo测试模组*
+Fargo测试模组
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567015462] Fargo's Hyper Mode [/url] 
 Fargo超级模式
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567016793] Fargo's OmniWield [/url] 
@@ -41,7 +41,7 @@ Fargo钓上一切
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590054406] Fargo's Crafting Tree Generator [/url] 
 Fargo合成树导出
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590065264] Fargo's Banner Boost [/url] 
-Fargo针对性免疫*
+Fargo针对性免疫
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2802867430] Fargo's Best of Both Worlds [/url] 
 Fargo最好的世界生成
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2823410160] Fargo's Rainbow Mod [/url] 
@@ -51,7 +51,7 @@ Fargo掉落物修改
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2906451681] Fargo's Soul Mod Extras [/url] 
 额外Fargo魂石
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3015054070] Paper Mario Badges [/url] 
-Fargo马里奥物品*
+Fargo马里奥物品
 [/olist] 
 [/code] 
 
@@ -68,9 +68,9 @@ Fargo马里奥物品*
 [olist]
     [*]待制作汉化
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3139796298] Satanist Mode [/url] 
-撒旦模式*
+撒旦模式（短期内不会做）
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3138681141] Masochist Mode EX [/url] 
-受虐EX模式*
+受虐EX模式（短期内不会做）
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3329620648] StarlightCat's Fargos Expansion [/url] 
 StarlightCat的Fargo魂石拓展
     [*]纠正错误文本，增加新的Fargo系列翻译

@@ -6,38 +6,49 @@ using System.Threading.Tasks;
 using Terraria;
 using Terraria.ModLoader;
 using TigerForceLocalizationLib;
+using TigerForceLocalizationLib.Filters;
 
 namespace FargoCP
 {
-    public class FargoCP : Mod
-	{
+    public class GodMode : ModSystem
+    {
         public override void PostSetupContent()
         {
-            TigerForceLocalizationHelper.LocalizeAll("FargoCP", "BannerBoost", true);
-            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "GodMode", true);
-            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "MasomodeEX", true);
-            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "PaperMarioBadgeMod", true);
-            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "Satanist", true);
-            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "DirtCraft", true);
-            // TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargowiltasCrossmod", true);
-        }
-        public static Type gmod = null;
-	}
-
-	public class World : ModPlayer
-	{
-        public override void OnEnterWorld()
-        {
-			if(FargoCP.gmod != null)
-			{
-                Main.NewText(FargoCP.gmod.Name);
-			}
-			else
-			{
-				Main.NewText("¿ÕµÄ");
-			}
-			
-            base.OnEnterWorld();
+            if (
+                    ModLoader.HasMod("GodMode")
+               )
+                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "GodMode", false);
         }
     }
+    public class BannerBoost : ModSystem
+    {
+        public override void PostSetupContent()
+        {
+            if (
+                    ModLoader.HasMod("BannerBoost")
+               )
+                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "BannerBoost", false);
+        }
+    }
+    public class PaperMarioBadgeMod : ModSystem
+    {
+        public override void PostSetupContent()
+        {
+            if (
+                    ModLoader.HasMod("PaperMarioBadgeMod")
+               )
+                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "PaperMarioBadgeMod", false);
+        }
+    }
+    public class FargowiltasCrossmod : ModSystem
+    {
+        public override void PostSetupContent()
+        {
+            if (
+                    ModLoader.HasMod("FargowiltasCrossmod")
+               )
+                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargowiltasCrossmod", false);
+        }
+    }
+
 }
