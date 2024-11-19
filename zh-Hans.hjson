@@ -144,7 +144,7 @@ Mods: {
 							FavoredDifficultyAtTier: {
 								1: {
 									OldString: Death
-									NewString: 死亡
+									NewString: Death
 								}
 							}
 						}
@@ -167,7 +167,7 @@ Mods: {
 							FavoredDifficultyAtTier: {
 								1: {
 									OldString: Death
-									NewString: 死亡
+									NewString: Death
 								}
 							}
 						}
