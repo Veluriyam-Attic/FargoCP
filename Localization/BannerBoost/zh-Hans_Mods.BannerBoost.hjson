@@ -1,6 +1,6 @@
 Configs: {
 	BannerConfig: {
-		DisplayName: Fargo增幅配置
+		DisplayName: Fargo旗帜增幅配置
 
 		KillsPerLevel: {
 			Label: 所需击杀数
