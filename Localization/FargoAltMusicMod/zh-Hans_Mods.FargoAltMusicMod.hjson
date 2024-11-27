@@ -3,7 +3,7 @@ Configs: {
 		DisplayName: 音乐配置
 
 		Headers: {
-			Tracks: Tracks
+			Tracks: 曲目
 			Biomes: 群系
 			Events: 事件
 			Bosses: Boss
@@ -86,7 +86,7 @@ Configs: {
 
 		QueenBee: {
 			Tooltip: ""
-			Label: 蜂后
+			Label: 蜂王
 		}
 
 		EaterOfWorlds: {
