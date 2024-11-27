@@ -110,12 +110,12 @@ Mods: {
 				Warping.Label: 扭曲
 				Worm.Label: 蠕虫
 				Delerious.Label: 不义
-				Duke.Label: Duke
+				Duke.Label: 公爵
 				Healthy.Label: 健康
 				Flaming.Label: 燃烧
 				Medic.Label: 治疗师
 				Metallic.Label: 金属
-				Pyro.Label: Pyro
+				Pyro.Label: 燥热
 				Vaccinated.Label: 免疫
 				Vampiric.Label: 吸血
 				Solidifed.Label: 凝固
@@ -171,18 +171,18 @@ Mods: {
 
 				Enabled: {
 					Label: 启用
-					Tooltip: 此修正是否会出现
+					Tooltip: 此词缀是否会出现
 				}
 
 				Headers.FirstHeader: 第一
 
 				Name: {
-					Label: Name
+					Label: 名字
 					Tooltip: ""
 				}
 
 				enumVal: {
-					Label: enum Val
+					Label: 枚举值
 					Tooltip: ""
 				}
 			}
