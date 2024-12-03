@@ -1,6 +1,6 @@
 Configs: {
 	LootConfig: {
-		DisplayName: Fargo掉落物配置
+		DisplayName: Fargo掉落物修改配置
 
 		LootMulti: {
 			Label: 物品掉落倍率
