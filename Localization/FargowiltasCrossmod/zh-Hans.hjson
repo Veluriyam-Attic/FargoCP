@@ -409,7 +409,7 @@ Mods: {
 			}
 
 			ExplorationForce: {
-				DisplayName: 探索之力
+				DisplayName: 勘探之力
 				Tooltip:
 					'''
 					[i:FargowiltasCrossmod/MarniteEnchant] 增加25%放置速度和10放置距离
