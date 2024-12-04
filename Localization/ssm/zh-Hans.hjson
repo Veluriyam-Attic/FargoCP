@@ -1,0 +1,3146 @@
+Mods: {
+	ssm: {
+		SetBonus: {
+			Monstrosity: Effects of all auric helmets, shadowspec helmet and gem tech headgear
+			Quantum:
+				'''
+				If damage less than 10, it will be nulified
+				Supression of Chtuxlagor Inferno effects
+				You can revive up to 3 times, healing all health
+				Cooldown of each revive is 30 seconds
+				Your attacks inflict Chtuxlagor Inferno
+				All set bonuses from Monstrosity and Mutant armor
+				'''
+		}
+
+		Items: {
+			AddedEffects: {
+				ThoriumColossus: Effect of Blast Shield
+				CalDefender: Effects of Asgard's Valor
+				ThoriumUniverse:
+					'''
+					Healing spells will heal 5 additional lifes
+					Effects of Support sash, Saving grace, Grave goods
+					Increace inspiration by 20
+					20% increased throwing velocity
+					'''
+				SoARampart:
+					'''
+					Effects of Celestial Shield
+					Only grants effects of Shield of Reflections when True Mode is enabled.
+					'''
+				SoAColossus:
+					'''
+					Effects of Celestial Shield and Royal Guard
+					Only grants effects of Shield of Reflections when True Mode is enabled.
+					'''
+				SoAMaso: Summon [i:SacredTools/YataMirror] little Nihilus and [i:SacredTools/PrimordialCore] Pyramid Orbitals
+				SoABerserker: Effects of Flora Fist
+				SoASupersonic: Effects of Heart of the Plough, Advanced Dash Tech
+				SoAWorldshaper: Effects of Rage Supressor, Celestial ring
+			}
+
+			Lore: {
+				ShtuxibusLore: {
+					Lore:
+						'''
+						不不不，我拒绝评价这坨东西
+						我已经说过很多回了
+						'''
+					DisplayName: 星光体
+				}
+			}
+
+			AdamantiteSingularity: {
+				DisplayName: 精金奇点
+				Tooltip: ""
+			}
+
+			AeraliteSingularity: {
+				DisplayName: 天蓝奇点
+				Tooltip: ""
+			}
+
+			ShtuxianSoul: {
+				DisplayName: 星光猫·答辩之魂
+				Tooltip:
+					'''
+					拥有永恒之魂[i:FargowiltasSouls/EternitySoul], 永恒之力[i:ssm/EternityForce], 星光魔石[i:ssm/ShtuxianEnchant]的全部效果
+					你的所有攻击会造成众多减益，且使所有防御和生命再生收益翻倍
+					免疫除星光魔焱和答辩诅咒之外的全部减益
+					按下[星光充能]键使你在20秒内免疫死亡
+					增加2000%永恒暴击率上限，减少75%突变炸弹冷却时间
+					“[C/00FFE5:无论凡人或不朽，一切都……][C/5CFF81:太好了，是答辩多开，我们没救了]”
+					'''
+			}
+
+			AstralSingularity: {
+				DisplayName: 炫星奇点
+				Tooltip: ""
+			}
+
+			AuricSingularity: {
+				DisplayName: 圣金源奇点
+				Tooltip: ""
+			}
+
+			ChlorophyteSingularity: {
+				DisplayName: 叶绿奇点
+				Tooltip: ""
+			}
+
+			CobaltSingularity: {
+				DisplayName: 钴蓝奇点
+				Tooltip: ""
+			}
+
+			CopperSingularity: {
+				DisplayName: 铜奇点
+				Tooltip: ""
+			}
+
+			CosmiliteSingularity: {
+				DisplayName: 宇宙奇点
+				Tooltip: ""
+			}
+
+			CrimtaneSingularity: {
+				DisplayName: 猩红奇点
+				Tooltip: ""
+			}
+
+			CryoniteSingularity: {
+				DisplayName: 寒元奇点
+				Tooltip: ""
+			}
+
+			DemoniteSingularity: {
+				DisplayName: 魔矿奇点
+				Tooltip: ""
+			}
+
+			GoldSingularity: {
+				DisplayName: 金奇点
+				Tooltip: ""
+			}
+
+			HallowSingularity: {
+				DisplayName: 神圣奇点
+				Tooltip: ""
+			}
+
+			HellstoneSingularity: {
+				DisplayName: 狱石奇点
+				Tooltip: ""
+			}
+
+			LeadSingularity: {
+				DisplayName: 铅奇点
+				Tooltip: ""
+			}
+
+			MeteoriteSingularity: {
+				DisplayName: 陨石奇点
+				Tooltip: ""
+			}
+
+			MythrillSingularity: {
+				DisplayName: 荧光奇点
+				Tooltip: ""
+			}
+
+			OrichalcumSingularity: {
+				DisplayName: 山铜奇点
+				Tooltip: ""
+			}
+
+			PalladiumSingularity: {
+				DisplayName: 钯金奇点
+				Tooltip: ""
+			}
+
+			PerenialSingularity: {
+				DisplayName: 永恒奇点
+				Tooltip: ""
+			}
+
+			PlatinumSingularity: {
+				DisplayName: 铂金奇点
+				Tooltip: ""
+			}
+
+			ScoriaSingularity: {
+				DisplayName: 熔渣奇点
+				Tooltip: ""
+			}
+
+			SilverSingularity: {
+				DisplayName: 银奇点
+				Tooltip: ""
+			}
+
+			SpectreSingularity: {
+				DisplayName: 灵气奇点
+				Tooltip: ""
+			}
+
+			TinSingularity: {
+				DisplayName: 锡奇点
+				Tooltip: ""
+			}
+
+			TitaniumSingularity: {
+				DisplayName: 钛金奇点
+				Tooltip: ""
+			}
+
+			TungstenSingularity: {
+				DisplayName: 钨奇点
+				Tooltip: ""
+			}
+
+			UelibloomSingularity: {
+				DisplayName: 龙蒿奇点
+				Tooltip: ""
+			}
+
+			UltimateHealingPotion: {
+				DisplayName: 肾宝
+				Tooltip: “一瓶提神醒脑，两瓶永不疲劳，三瓶长生不老”
+			}
+
+			LuminiteSingularity: {
+				DisplayName: 夜明奇点
+				Tooltip: ""
+			}
+
+			ShroomiteSingularity: {
+				DisplayName: 蘑菇奇点
+				Tooltip: ""
+			}
+
+			CalamitySoul: {
+				DisplayName: 寻神者之魂
+				TooltipOld:
+					'''
+					☭☭☭☭☭☭☭☭☭☭☭☭☭☭
+
+					Do you have problems passing any bosses?
+					Are you tired of suffering from a Mutant in masochist mode?
+					Then this soul is for you! Its capabilities give you nothing!
+					Nothing will change if you get it! 
+					Craft our product right now. 
+
+					StarlightCat Industies®™
+
+					☭☭☭☭☭☭☭☭☭☭☭☭☭☭
+					'''
+				Tooltip:
+					'''
+					获得归一心元石和幻灭心元石的效果
+					获得探索之力的效果
+					获得寻神者吊坠和硫火女巫的烙印效果
+					“这片土地可能再无安宁，但和平终会到来”
+					'''
+			}
+
+			ShtuxibusSword: {
+				DisplayName: Shtuxian Spear
+				Tooltip:
+					'''
+					Set life of attacked entity to 0.
+					♎ Chtux'Lag'Or Item ♎
+					'''
+			}
+
+			InfinityCatalyst: {
+				DisplayName: 无尽催化剂
+				Tooltip: “一即全，全即一”
+			}
+
+			InfinityIngot: {
+				DisplayName: 无尽之锭
+				Tooltip: “汝掌心中者，寰宇之力也.”
+			}
+
+			ShtuxianCurse: {
+				DisplayName: 星光诅咒
+				Tooltip: 召唤[c/00ff7f:星光体]
+			}
+
+			chtuxmantle: {
+				DisplayName: Chtuxlagor Mantle
+				Tooltip: Effects of all armor sets and accessories.
+			}
+
+			DemonshadeBreastplateCat: {
+				DisplayName: Demonshade C.A.T Breastplate
+				Tooltip:
+					'''
+					+ 700 Max life
+					x2 all damage for all classes
+					Godly regeneration
+					+ 500 armor penetration for all classes
+					Effect of [i:FargowiltasSouls/MutantBody], [i:CalamityMod/DemonshadeBreastplate], [i:CalamityMod/AuricTeslaBodyArmor], [i:CalamityMod/GemTechBodyArmor].
+					'''
+			}
+
+			DemonshadeHelmetCat: {
+				DisplayName: Demonshade C.A.T Helmet
+				Tooltip:
+					'''
+					+ 700 Max mana
+					+ 60% damage to all classes and 80% crit chance
+					+ 10 Max minion slots
+					Effect of [i:FargowiltasSouls/MutantMask], [i:CalamityMod/DemonshadeHelm], [i:CalamityMod/AuricTeslaHoodedFacemask], [i:CalamityMod/AuricTeslaWireHemmedVisage], [i:CalamityMod/AuricTeslaRoyalHelm], [i:CalamityMod/AuricTeslaPlumedHelm], [i:CalamityMod/GemTechHeadgear].
+					'''
+			}
+
+			DemonshadeLegginsCat: {
+				DisplayName: Demonshade C.A.T Leggins
+				Tooltip:
+					'''
+					+ 30% movement speed
+					+ 50% damage to all clases
+					Effect of [i:FargowiltasSouls/MutantPants], [i:CalamityMod/DemonshadeGreaves], [i:CalamityMod/AuricTeslaCuisses], [i:CalamityMod/GemTechSchynbaulds].
+					'''
+			}
+
+			ShtuxiumOre: {
+				Tooltip: ""
+				DisplayName: 星光矿
+			}
+
+			ShtuxiumBar: {
+				Tooltip: 星光神力所凝聚之精华
+				DisplayName: 星光锭
+			}
+
+			ShtuxiumSoulShard: {
+				Tooltip: ""
+				DisplayName: 星光能量
+			}
+
+			ShtuxibusBag: {
+				Tooltip: “猜猜它缝合了多少个Boss？”
+				DisplayName: 星光体的背包
+			}
+
+			ShtuxibusSpear: {
+				Tooltip: ""
+				DisplayName: Shtuxibus Spear
+			}
+
+			NekomiEnchant: {
+				DisplayName: 猫猫魔石
+				Tooltip:
+					'''
+					[i:FargowiltasSouls/SparklingAdoration]免疫热恋减益和假心伤害，擦弹（擦过弹幕和敌怪本体）可提高伤害，最高可增加25%
+					伤害加成会随时间流逝而减少，被击中时清零
+					你的攻击会周期性地生成能吸血的红心，造成魔法伤害
+					[i:FargowiltasSouls/NekomiHood][i:FargowiltasSouls/NekomiHoodie][i:FargowiltasSouls/NekomiLeggings]增加7%手持武器职业伤害和该职业暴击率
+					增加闪烁崇心的擦弹半径，擦弹以暂时积蓄能量
+					受伤时消耗能量，增加生命恢复速度
+					双击DOWN以消耗能量，释放吸血爱心
+					能量蓄满时会挥舞象征着爱与正义的恶魔之斧
+					'''
+			}
+
+			PhantaplazmalEnchant: {
+				DisplayName: 突变魔石
+				Tooltip:
+					'''
+					[i:FargowiltasSouls/MutantEye]免疫突变毒牙和突变驾到减益，召唤幽灵憎恶为你而战，闪烁崇心的擦弹伤害加成上限增加25%
+					将闪烁崇心的心攻击加强为爱之射线，增加闪烁崇心的擦弹伤害加成
+					提升幽灵憎恶的出现频率和攻击力
+					按下“炸弹”键时释放一圈幻影眼球，摧毁大多数敌对弹幕，突变炸弹有60秒的冷却时间
+					[i:FargowiltasSouls/MutantMask][i:FargowiltasSouls/MutantBody][i:FargowiltasSouls/MutantPants]召唤会向周围的敌怪发射激光的幻影球
+					召唤幽灵憎恶与你一同战斗，你复活时会爆发出巨大的幻影死亡射线，增加20%武器使用速度
+					'''
+			}
+
+			StyxEnchant: {
+				DisplayName: 冥河魔石
+				Tooltip:
+					'''
+					[i:FargowiltasSouls/AbominableWand]免疫憎恶毒牙和憎恶驾到减益，召唤幽灵戴薇安为你而战，增加闪烁崇心的擦弹伤害加成，红心发射冷却减半
+					暴击时偶尔会召唤幽灵憎恶，受到致命伤害时，保留1点生命并避免死亡，你再次恢复到满生命值后，免死效果才能再被激活
+					[i:FargowiltasSouls/StyxCrown][i:FargowiltasSouls/StyxChestplate][i:FargowiltasSouls/StyxLeggings]增加20%手持武器职业的伤害，使你的攻击能造成憎恶毒牙减益
+					攻击敌人以积蓄冥河能量，受伤时消耗冥河能量，减免一部分伤害
+					双击DOWN以消耗能量，释放跟踪镰刀，能量蓄满时会释放出冥狱魔剑
+					'''
+			}
+
+			ShtuxibusTrophy: {
+				DisplayName: 星光体纪念章
+				Tooltip: ""
+			}
+
+			ShtuxibusRelic: {
+				DisplayName: 星光体圣物
+				Tooltip: “为什么和克眼长得一样？”
+			}
+
+			AnnihilationAshSingularity: {
+				DisplayName: 湮灭余烬奇点
+				Tooltip: ""
+			}
+
+			AscendantSingularity: {
+				DisplayName: 化神魂精奇点
+				Tooltip: ""
+			}
+
+			BloodSampleSingularity: {
+				DisplayName: 血液样本奇点
+				Tooltip: ""
+			}
+
+			BloodstoneSingularity: {
+				DisplayName: 血石奇点
+				Tooltip: ""
+			}
+
+			CalamityAshSingularity: {
+				DisplayName: 灾厄尘奇点
+				Tooltip: ""
+			}
+
+			CalamitySingularity: {
+				DisplayName: 灾厄奇点
+				Tooltip: ""
+			}
+
+			CorrodedSingularity: {
+				DisplayName: 酸腐化石奇点
+				Tooltip: ""
+			}
+
+			DepthSingularity: {
+				DisplayName: 深渊细胞奇点
+				Tooltip: ""
+			}
+
+			ExoSingularity: {
+				DisplayName: 星流棱晶奇点
+				Tooltip: ""
+			}
+
+			MeldSingularity: {
+				DisplayName: 冥思构造体奇点
+				Tooltip: ""
+			}
+
+			NecroplasmSingularity: {
+				DisplayName: 灵质奇点
+				Tooltip: ""
+			}
+
+			PlagueCanisterSingularity: {
+				DisplayName: 瘟疫细胞罐奇点
+				Tooltip: ""
+			}
+
+			PurifiedGelSingularity: {
+				DisplayName: 纯净凝胶奇点
+				Tooltip: ""
+			}
+
+			RottenMatterSingularity: {
+				DisplayName: 腐烂物质奇点
+				Tooltip: ""
+			}
+
+			SeaRemainsSingularity: {
+				DisplayName: 海洋残渣奇点
+				Tooltip: ""
+			}
+
+			SolarVeilSingularity: {
+				DisplayName: 日影面纱奇点
+				Tooltip: ""
+			}
+
+			TerrariaSingularity: {
+				DisplayName: 泰拉奇点
+				Tooltip: ""
+			}
+
+			WulfrumSingularity: {
+				DisplayName: 钨钢金属废料奇点
+				Tooltip: ""
+			}
+
+			UltimateFargoWeapon: {
+				Tooltip: 左键和右键都能搭配up键使用
+				DisplayName: 闪闪发光的冥河洞察者
+			}
+
+			MutantsForge: {
+				DisplayName: 突变锻炉
+				Tooltip: ""
+			}
+
+			ShtuxibusForge: {
+				Tooltip: 允许你制造星光物品
+				DisplayName: 星光锻炉
+			}
+
+			MonstrosityMask: {
+				DisplayName: 魔神之颅
+				Tooltip: 原初的魔神之力
+			}
+
+			MonstrosityPants: {
+				DisplayName: 魔神之靴
+				Tooltip: 原初的魔神之力
+			}
+
+			MonstrositySuit: {
+				DisplayName: 魔神之躯
+				Tooltip: 原初的魔神之力
+			}
+
+			ShtuxibusHeadgear: {
+				DisplayName: Shtuxibus Headgear
+				Tooltip: Vanity
+			}
+
+			ShtuxibusPants: {
+				DisplayName: Shtuxibus Pants
+				Tooltip: Vanity
+			}
+
+			ShtuxibusSuit: {
+				DisplayName: Shtuxibus Suit
+				Tooltip: Vanity
+			}
+
+			TrueMonstrosityMask: {
+				DisplayName: 真·魔神之颅
+				Tooltip:
+					'''
+					增加50%伤害、2%暴击率和70点护甲穿透，魔力使用率减少40%， 25%的几率不消耗弹药
+					增加20个召唤栏位和哨兵栏位 [c/cDA10E6:装备一整套盔甲会给予你惊人的属性加成]
+					'''
+			}
+
+			TrueMonstrosityPants: {
+				DisplayName: 真·魔神之靴
+				Tooltip:
+					'''
+					增加40%伤害和2%暴击率
+					增加50%移动速度
+					[c/cDA10E6:装备一整套盔甲会给予你惊人的属性加成]
+					'''
+			}
+
+			TrueMonstrositySuit: {
+				DisplayName: 真·魔神之躯
+				Tooltip:
+					'''
+					增加60%伤害和2%暴击率
+					最大生命值和魔力值增加1000
+					所受伤害减少50%，极大提升生命恢复速度
+					[c/cDA10E6:装备一整套盔甲会给予你惊人的属性加成]
+					'''
+			}
+
+			Sadism: {
+				DisplayName: 暴虐能量
+				Tooltip: 免疫所有减益
+			}
+
+			TrueAuricTeslaBody: {
+				DisplayName: 真·圣金源铠甲
+				Tooltip:
+					'''
+					增加40%伤害和2%暴击率
+					最大生命值和魔力值增加300
+					所受伤害减少50%，大幅提升生命恢复速度
+					[c/cffe351:装备一整套盔甲会给予你惊人的属性加成]
+					'''
+			}
+
+			TrueAuricTeslaHelm: {
+				DisplayName: 真·圣金源头盔
+				Tooltip:
+					'''
+					增加30%伤害、2%暴击率、300%全局攻速和50点护甲穿透
+					增加10个召唤栏位和哨兵栏位，魔力使用率减少40%， 25%的几率不消耗弹药
+					[c/cffe351:装备一整套盔甲会给予你惊人的属性加成]
+					'''
+			}
+
+			TrueAuricTeslaLegs: {
+				DisplayName: 真·圣金源护腿
+				Tooltip:
+					'''
+					增加40%伤害、2%暴击率和50%移动速度
+					[c/cffe351:装备一整套盔甲会给予你惊人的属性加成]
+					'''
+			}
+
+			ShtuxibusBagGfb: {
+				DisplayName: 星光体的光伏板背包
+				Tooltip: ""
+			}
+
+			CrabulonEnergizer: {
+				DisplayName: 真菌强化剂
+				Tooltip: ""
+			}
+
+			OverloadSprout: {
+				DisplayName: 过载嫩芽
+				Tooltip: ""
+			}
+
+			DesertEnergizer: {
+				DisplayName: 沙漠强化剂
+				Tooltip: ""
+			}
+
+			HiveEnergizer: {
+				DisplayName: 腐巢强化剂
+				Tooltip: ""
+			}
+
+			PerforatorEnergizer: {
+				DisplayName: 脓血强化剂
+				Tooltip: ""
+			}
+
+			SlimeGodEnergizer: {
+				DisplayName: 凝元强化剂
+				Tooltip: ""
+			}
+
+			BunchOfMedalions: {
+				DisplayName: 一堆奖章
+				Tooltip: ""
+			}
+
+			AnahitaEnergizer: {
+				DisplayName: 深渊强化剂
+				Tooltip: 这是“阿娜希塔与利维坦”的强化剂 而不是 “阿娜希塔”与“利维坦的强化剂”
+			}
+
+			AstralEnergizer: {
+				DisplayName: 星辉强化剂
+				Tooltip: ""
+			}
+
+			AureusEnergizer: {
+				DisplayName: 星神强化剂
+				Tooltip: ""
+			}
+
+			AuricEnergizer: {
+				DisplayName: 金源强化剂
+				Tooltip: ""
+			}
+
+			BrimstoneEnergizer: {
+				DisplayName: 硫火强化剂
+				Tooltip: ""
+			}
+
+			CalamitousEnergizer: {
+				DisplayName: 灾厄强化核心
+				Tooltip: ""
+			}
+
+			CryoEnergizer: {
+				DisplayName: 冷源强化剂
+				Tooltip: ""
+			}
+
+			DevouringEnergizer: {
+				DisplayName: 神明强化剂
+				Tooltip: ""
+			}
+
+			FleshyEnergizer: {
+				DisplayName: 骨肉强化剂
+				Tooltip: ""
+			}
+
+			FollyEnergizer: {
+				DisplayName: 痴愚强化剂
+				Tooltip: ""
+			}
+
+			PlagueEnergizer: {
+				DisplayName: 瘟疫强化剂
+				Tooltip: ""
+			}
+
+			ProfandedEnergizer: {
+				DisplayName: 亵渎强化剂
+				Tooltip: ""
+			}
+
+			TerraEnergizer: {
+				DisplayName: 泰拉强化核心
+				Tooltip: ""
+			}
+
+			ToxicEnergizer: {
+				DisplayName: 酸腐强化剂
+				Tooltip: ""
+			}
+
+			WaifuCloneEnergizer: {
+				DisplayName: 克隆强化剂
+				Tooltip: ""
+			}
+
+			WaifuEnergizer: {
+				DisplayName: 硫湮强化剂
+				Tooltip: ""
+			}
+
+			AstralLump: {
+				DisplayName: 星辉台灯
+				Tooltip: ""
+			}
+
+			BloodyWormChicken: {
+				DisplayName: Bloody Worm Chicken
+				Tooltip: ""
+			}
+
+			CosmicAmalgamation: {
+				DisplayName: 寰宇融合
+				Tooltip: ""
+			}
+
+			CryonicCore: {
+				DisplayName: Cryonic Core
+				Tooltip: ""
+			}
+
+			DeepFriedIdol: {
+				DisplayName: Deep Fried Idol
+				Tooltip: ""
+			}
+
+			EyeofExtintion: {
+				DisplayName: Eyeof Extintion
+				Tooltip: ""
+			}
+
+			OverloadedWaifu: {
+				DisplayName: Overloaded Waifu
+				Tooltip: ""
+			}
+
+			OverloadPheromones: {
+				DisplayName: Overload Pheromones
+				Tooltip: ""
+			}
+
+			OverloadSeafood: {
+				DisplayName: Overload Seafood
+				Tooltip: ""
+			}
+
+			OverloadStarcore: {
+				DisplayName: Overload Starcore
+				Tooltip: ""
+			}
+
+			OverloadTeratoma: {
+				DisplayName: Overload Teratoma
+				Tooltip: ""
+			}
+
+			OverloadWhistle: {
+				DisplayName: Overload Whistle
+				Tooltip: ""
+			}
+
+			PhantasmalBeacon: {
+				DisplayName: Phantasmal Beacon
+				Tooltip: ""
+			}
+
+			PileOfBloodWorms: {
+				DisplayName: Pile Of Blood Worms
+				Tooltip: ""
+			}
+
+			PlagueTerminal: {
+				DisplayName: Plague Terminal
+				Tooltip: ""
+			}
+
+			ProfandedCluster: {
+				DisplayName: Profanded Cluster
+				Tooltip: ""
+			}
+
+			TrueOverloadedSludge: {
+				DisplayName: True Overloaded Sludge
+				Tooltip: ""
+			}
+
+			YharonEggsBox: {
+				DisplayName: Yharon Eggs Box
+				Tooltip: ""
+			}
+
+			SwarmDeactivatorDebug: {
+				Tooltip: ""
+				DisplayName: 开发者调试物品
+			}
+
+			OverloadedSirenPearl: {
+				DisplayName: Overloaded Siren Pearl
+				Tooltip: ""
+			}
+
+			DemonshadeHelmMagic: {
+				DisplayName: Demonshade Helm Magic
+				Tooltip: ""
+			}
+
+			DemonshadeHelmRanged: {
+				DisplayName: Demonshade Helm Ranged
+				Tooltip: ""
+			}
+
+			DemonshadeHelmRogue: {
+				DisplayName: Demonshade Helm Rogue
+				Tooltip: ""
+			}
+
+			DemonshadeHelmSummon: {
+				DisplayName: Demonshade Helm Summon
+				Tooltip: ""
+			}
+
+			EridanusEnchant: {
+				DisplayName: 波江魔石
+				Tooltip:
+					'''
+					[i:FargowiltasSouls/EridanusHat] [i:FargowiltasSouls/EridanusBattleplate] [i:FargowiltasSouls/EridanusLegwear]
+					增加20%手持武器职业伤害
+					增加10%手持武器职业暴击率
+					增加10%手持武器职业攻击速度
+					双击DOWN键开启宇宙英灵的护佑
+					'''
+			}
+
+			EternityForce: {
+				DisplayName: 永恒之力
+				Tooltip:
+					'''
+					大幅提升所有进攻属性
+					[i:ssm/GaiaEnchant]双击DOWN键以开关进攻模式，进攻模式具有如下效果：
+					增加30%手持武器职业伤害和15%该职业暴击率
+					增加20点护甲穿透
+					降低20点防御力、10%最大生命值和15%伤害减免
+					[i:ssm/EridanusEnchant]双击DOWN键开启宇宙英灵的护佑
+					[i:ssm/StyxEnchant]免疫憎恶毒牙和憎恶驾到减益，受到致命伤害时，保留1点生命并避免死亡，你再次恢复到满生命值后，免死效果才能再被激活
+					召唤幽灵戴薇安为你而战，增加闪烁崇心的擦弹伤害加成，红心发射冷却减半，暴击时偶尔会召唤幽灵憎恶
+					使你的攻击能造成憎恶毒牙减益，攻击敌人以积蓄冥河能量，受伤时消耗冥河能量，减免一部分伤害
+					双击DOWN以消耗能量，释放跟踪镰刀，能量蓄满时会释放出冥狱魔剑
+					[i:ssm/PhantaplazmalEnchant]免疫突变毒牙和突变驾到减益，闪烁崇心的擦弹伤害加成上限增加25%
+					召唤幽灵憎恶为你而战，将闪烁崇心的心攻击加强为爱之射线，增加闪烁崇心的擦弹伤害加成
+					提升幽灵憎恶的出现频率和攻击力
+					按下“炸弹”键时释放一圈幻影眼球，摧毁大多数敌对弹幕，突变炸弹有60秒的冷却时间
+					召唤会向周围的敌怪发射激光的幻影球
+					召唤幽灵突变体为你而战，你复活时会爆发出巨大的幻影死亡射线
+					[i:ssm/NekomiEnchant]免疫热恋减益和假心伤害，擦弹（擦过弹幕和敌怪本体）可提高伤害，最高可增加25%
+					伤害加成会随时间流逝而减少，被击中时清零
+					你的攻击会周期性地生成能吸血的红心，造成魔法伤害
+					增加闪烁崇心的擦弹半径，擦弹以暂时积蓄能量
+					受伤时消耗能量，增加生命恢复速度
+					双击DOWN以消耗能量，释放吸血爱心
+					能量蓄满时会挥舞象征着爱与正义的恶魔之斧
+					'''
+			}
+
+			GaiaEnchant: {
+				DisplayName: 盖亚魔石
+				Tooltip:
+					'''
+					[i:FargowiltasSouls/GaiaHelmet] [i:FargowiltasSouls/GaiaPlate] [i:FargowiltasSouls/GaiaGreaves]
+					增加10%近战攻速
+					魔力消耗减少10%，10%几率不消耗弹药
+					增加4个召唤栏位
+					双击DOWN键以开关进攻模式，进攻模式具有如下效果：
+					增加30%手持武器职业伤害和15%该职业暴击率
+					增加20点护甲穿透
+					降低20点防御力、10%最大生命值和15%伤害减免
+					'''
+			}
+
+			CelestialEnchant: {
+				DisplayName: 天界魔石
+				Tooltip: 召唤四根天界柱来保护你
+			}
+
+			ChtuxlagorHeart: {
+				DisplayName: 星光之心
+				Tooltip:
+					'''
+					按下[星光充能]键，使你在5秒内免疫死亡
+					你的攻击会造成星光魔焱减益
+					减少50%突变炸弹冷却时间
+					免疫答辩诅咒减益，降低星光魔焱减益对你造成的伤害
+					增加100%擦弹伤害加成上限，提高幽灵三兄妹的伤害
+					将你受到的单次伤害固定在1000以内
+					'有某种不可名状的存在，为它的傀儡安装了这种机械心脏'
+					'''
+			}
+
+			RampartOfAsgard: {
+				DisplayName: Rampart Of Asgard
+				Tooltip: ""
+			}
+
+			StarlightVodka: {
+				DisplayName: 星光伏特加
+				Tooltip: 增加70%伤害并极大幅加成你的暴击率
+			}
+
+			ProfandedSomething: {
+				DisplayName: Profanded Something
+				Tooltip: ""
+			}
+
+			AsthraltiteEnchant: {
+				DisplayName: Asthraltite Enchant
+				Tooltip:
+					'''
+					'Asph-... Asthath-... How are you meant to pronounce this?'
+					Press [{$Keybinds.AbilityPrimary.DisplayName}] to parry incoming attacks in the direction of the cursor
+					Successfully parrying an attack will grant 1 second of invincibility and knock the player backwards
+					If an attack is parried the moment it hits the player, you receive 2 seconds of invincibility instead
+					Cooldown depends on the action (Missed parry: 5 seconds, Taking damage: 2 seconds, Successful parry: 3 seconds, Perfect parry: 2 seconds)
+					Certain special attacks and contact damage cannot be parried
+					This ability disables shadow dodge and similar effects
+					Effects of Ring of the Fallen, Memento Mori, and Arcanum of the Caster
+					'''
+			}
+
+			BismuthEnchant: {
+				DisplayName: Bismuth Enchant
+				Tooltip:
+					'''
+					'It takes every color to make a rainbow'
+					Hitting enemies has a chance to summon a bismuth hammer for extra damage
+					'''
+			}
+
+			BlazingBruteEnchant: {
+				DisplayName: Blazing Brute Enchant
+				Tooltip:
+					'''
+					'Your spirit ignites like the brightest flame. Soon, your enemies will too'
+					Standing still for 5 seconds charges a shield that increases damage reduction by 25% per level (max of 4) 
+					Getting hit or moving resets the counter
+					'''
+			}
+
+			BlightboneEnchant: {
+				DisplayName: Blightbone Enchant
+				Tooltip:
+					'''
+					'Your spooks and scares will send shivers down your enemies' spines'
+					Empowers certain bone-related weapons
+					Effects of Dreadflame Emblem
+					'''
+			}
+
+			CosmicCommanderEnchant: {
+				DisplayName: Cosmic Commander Enchant
+				Tooltip:
+					'''
+					'Make Soran great again'
+					Pressing [Ability] puts you in 'Sniper State' 
+					Your damage is upped in this state however you are frozen in place and have reduced defense 
+					State is toggled upon button press and has a cooldown of 5 seconds after switching
+					'''
+			}
+
+			DreadfireEnchant: {
+				DisplayName: Dreadfire Enchant
+				Tooltip:
+					'''
+					'Ralnek's spirit guides you'
+					Pressing [Ability] will activate 'Dreadfire Aura'.
+					'Dreadfire Aura' increases minion damage greatly for a minute. 
+					3 minute cooldown
+					Effects of Pumpkin Amulet
+					'''
+			}
+
+			EerieEnchant: {
+				DisplayName: Eerie Enchant
+				Tooltip:
+					'''
+					'Creeper? Aw man…'
+					Minion damage grants increased life regeneration
+					'''
+			}
+
+			ExitumLuxEnchant: {
+				DisplayName: Exitum Lux Enchant
+				Tooltip:
+					'''
+					'Does something soon'TM
+					Effects of Stone of Resonance
+					'''
+			}
+
+			FallenPrinceEnchant: {
+				DisplayName: Fallen Prince Enchant
+				Tooltip:
+					'''
+					'Give up your heritage, gain power'
+					Hitting enemies has a chance to summon an energy blade behind you (Max of 5).
+					Every newly acquired blade increases the damage of pre-existing ones by 20%
+					Pressing [Ability] will launch the blades at nearby enemies
+					Effects of Novaniel's Resolve
+					'''
+			}
+
+			FlariumEnchant: {
+				DisplayName: Flarium Enchant
+				Tooltip:
+					'''
+					'Raze your enemies with Araghur's flames'
+					Taking fatal damage will revive you with 1/3rd of your max health
+					You will have one minute of increased strength after rebirth
+					5 minute cooldown
+					'''
+			}
+
+			FrosthunterEnchant: {
+				DisplayName: Frosthunter Enchant
+				Tooltip:
+					'''
+					'The hunter now hunted, the prey now predator'
+					15% increased ranged damage while in the snow biome
+					Ranged projectiles frostburn enemies
+					Effects of Frigid Pendant
+					'''
+			}
+
+			LapisEnchant: {
+				DisplayName: Lapis Enchant
+				Tooltip:
+					'''
+					'Gotta go fast'
+					20% increased movement speed
+					Effects of Lapis Pendant
+					'''
+			}
+
+			MarstechEnchant: {
+				DisplayName: Marstech Enchant
+				Tooltip:
+					'''
+					'Who needs magic when you have technology?'
+					Dealing damage charges up an energy forcefield around you that damages enemies and decays over time 
+					Can be instantly discharged by pressing [Ability], which will cause a shockwave to damage all nearby enemies 
+					Damage, range and debuff duration are increased by forcefield strength 
+					Has a cooldown of 1 minute
+					Damaging enemies will occasionally call upon a meteor to fall from the sky
+					'''
+			}
+
+			NebulousApprenticeEnchant: {
+				DisplayName: Nebulous Apprentice Enchant
+				Tooltip:
+					'''
+					'Nuba would be proud'
+					Attacking enemies may sometimes release buff wisps which can be picked up for different stacking buffs
+					Effects of Nuba's Blessing
+					'''
+			}
+
+			PrairieEnchant: {
+				DisplayName: Prairie Enchant
+				Tooltip:
+					'''
+					'Subdued Serenity'
+					5% increased kinetic damage
+					'''
+			}
+
+			QuasarEnchant: {
+				DisplayName: Quasar Enchant
+				Tooltip:
+					'''
+					'It's time to shine'
+					Throwing damage creates surges of energy around you
+					Energy surges attempt to home into enemies
+					'''
+			}
+
+			SpaceJunkEnchant: {
+				DisplayName: Space Junk Enchant
+				Tooltip:
+					'''
+					'I'm da spaceman!'
+					33% chance to not consume thrown Items
+					Damaging enemies will occasionally call upon a meteor to fall from the sky
+					'''
+			}
+
+			StellarPriestEnchant: {
+				DisplayName: Stellar Priest Enchant
+				Tooltip:
+					'''
+					'Stand proud'
+					Summons a Stellar Guardian behind you that attacks enemies
+					'''
+			}
+
+			VoidWardenEnchant: {
+				DisplayName: Void Warden Enchant
+				Tooltip:
+					'''
+					'The ride never ends'
+					Taking damage has a chance to freeze all enemies nearby
+					Bosses and enemies with over 8000 HP are unaffected 
+					Attacking has a 5% chance to make nearby enemies take double damage
+					'''
+			}
+
+			VulcanReaperEnchant: {
+				DisplayName: Vulcan Reaper Enchant
+				Tooltip:
+					'''
+					'Reap the rewards of your near-endless grind'
+					Provides immunity to Flarium Inferno and Obsidian Curse
+					'''
+			}
+
+			FoundationsForce: {
+				DisplayName: Foundations Force
+				Tooltip:
+					'''
+					':HeyMF:'
+					All armor bonuses from Prairie, Frosthunter, Lapis, and Blightbone
+					Effects of Frigid Pendant, Lapis Pendant, and Dreadflame Emblem
+					'''
+			}
+
+			GenerationsForce: {
+				DisplayName: Generations Force
+				Tooltip:
+					'''
+					Through all this world's years, none have seen anything quite like you'
+					All armor bonuses from Eerie, Bismuth, and Dreadfire
+					All armor bonuses from Space Junk and Marstech
+					Effects of Pumpkin Amulet
+					'''
+			}
+
+			SoranForce: {
+				DisplayName: Soran Force
+				Tooltip:
+					'''
+					'The true power of the Soraniti'
+					All armor bonuses from Blazing Brute, Cosmic Commander, and Nebulous Apprentice
+					All armor bonuses from Stellar Priest, Quasar, and Fallen Prince
+					Effects of Nuba's Blessing, Novaniel's Resolve, and Celestial Ring
+					'''
+			}
+
+			SyranForce: {
+				DisplayName: Syran Force
+				Tooltip:
+					'''
+					'Dragon Rage empowers you, and encourages you to go on'
+					All armor bonuses from Void Warden, Vulcan Reaper, and Flarium
+					All armor bonuses from Asthraltite
+					Effects of Ring of the Fallen, Memento Mori, and Arcanum of the Caster
+					'''
+			}
+
+			SoASoul: {
+				DisplayName: Soul of Two Realms
+				Tooltip:
+					'''
+					'Two worlds, now embodied as one'
+					All armor bonuses from Bismuth, Frosthunter, and Blightbone
+					All armor bonuses from Dreadfire, Space Junk, and Marstech
+					All armor bonuses from Blazing Brute, Cosmic Commander, and Nebulous Apprentice
+					All armor bonuses from Stellar Priest and Fallen Prince
+					All armor bonuses from Void Warden, Vulcan Reaper, and Flarium
+					All armor bonuses from Asthraltite
+					Effects of Dreadflame Emblem, Lapis Pendant, Frigid Pendant, and Pumpkin Amulet
+					Effects of Nuba's Blessing, Novaniel's Resolve, and Celestial Ring
+					Effects of Ring of the Fallen, Memento Mori, and Arcanum of the Caster
+					'''
+			}
+
+			OverloadCoznix: {
+				Tooltip: ""
+				DisplayName: 虚空凝聚体
+			}
+
+			ThunderEnergizer: {
+				Tooltip: ""
+				DisplayName: 雷霆强化剂
+			}
+
+			ThoriumEnergizer: {
+				Tooltip: ""
+				DisplayName: 瑟银强化核心
+			}
+
+			LichEnergizer: {
+				Tooltip: ""
+				DisplayName: 巫妖强化剂
+			}
+
+			JellyfishEnergizer: {
+				Tooltip: ""
+				DisplayName: 水母强化剂
+			}
+
+			GraniteEnergizer: {
+				Tooltip: ""
+				DisplayName: 岩能强化剂
+			}
+
+			FallenEnergizer: {
+				Tooltip: ""
+				DisplayName: 陨落强化剂
+			}
+
+			BuriedEnergizer: {
+				Tooltip: ""
+				DisplayName: 英灵强化剂
+			}
+
+			BoreanEnergizer: {
+				Tooltip: ""
+				DisplayName: 寒蛛强化剂
+			}
+
+			BardEssence: {
+				DisplayName: 奏乐精华
+				Tooltip:
+					'''
+					增加18%音波伤害
+					增加10%音波演奏速度
+					增加5%音波暴击率
+					“这只是个开始……”
+					'''
+			}
+
+			HealerEssence: {
+				DisplayName: 神牧精华
+				Tooltip:
+					'''
+					增加18%光辉伤害
+					增加5%治疗速度和光辉施法速度
+					增加5%光辉暴击率
+					“这只是个开始……”
+					'''
+			}
+
+			BardSoul: {
+				DisplayName: 天籁之魂
+				Tooltip:
+					'''
+					增加30%音波伤害
+					增加20%音波演奏速度
+					增加10%音波暴击率
+					增加20点最大灵感值
+					打击乐器暴击会多造成10%伤害
+					打击乐器暴击会短暂眩晕敌怪
+					管乐器现在会试图快速跟踪敌怪
+					如果攻击已经能跟踪敌怪，它的速度会变得更快
+					弦乐器弹幕会额外反弹5次
+					铜管乐器暴击会释放一阵穿透性能量
+					“一音一世界，一韵一华章”
+					'''
+			}
+
+			GuardianAngelsSoul: {
+				DisplayName: 圣使之魂
+				Tooltip:
+					'''
+					增加30%光辉伤害
+					增加20%治疗速度和光辉施法速度
+					增加10%光辉暴击率
+					治疗法术会额外治疗40点生命值
+					指向生命值最少的队友
+					治疗队友会增加你的治疗速度和移动速度并提升他们的防御和生命恢复速度
+					饮用治疗药水后，所有附近玩家会回复25生命和50魔力并使你的治疗加成增加5点
+					使你和附近队友受到的伤害降低10%
+					附近队友死亡时会掉落灵魂能量微粒
+					“救死扶伤，医者仁心”
+					'''
+			}
+
+			AssassinEnchant: {
+				DisplayName: 刺客魔石
+				Tooltip:
+					'''
+					你的伤害有10%概率完全复制自身并多造成15%伤害
+					每次攻击有5%的几率立刻杀死普通敌人
+					获得飞镖袋的效果
+					“遮天蔽日，席卷八荒”
+					'''
+			}
+
+			BerserkerEnchant: {
+				DisplayName: Berserker Enchant
+				Tooltip:
+					'''
+					'I'd rather fight for my life than live it'
+					Attack speed is increased by 5% at every 25% segment of life
+					Fire surrounds your armour and melee weapons
+					Enemies that you set on fire or singe will take additional damage over time
+					Effects of Spring Steps, Slag Stompers, Molten Spear Tip, and Rapier Badge
+					'''
+			}
+
+			BiotechEnchant: {
+				DisplayName: 医疗魔石
+				Tooltip:
+					'''
+					生物技术探测器将会协助你治疗队友
+					机器治疗量等同于你的额外治疗加成
+					“使用这个可能会被剥夺行医资格证”
+					'''
+			}
+
+			BronzeEnchant: {
+				DisplayName: 青铜魔石
+				Tooltip:
+					'''
+					投掷伤害有20%概率释放一道穿透性闪电
+					获得奥林匹克圣火、英灵的反击之盾和斯巴达凉鞋的效果
+					“你感觉获得了宙斯之力”
+					'''
+			}
+
+			BulbEnchant: {
+				DisplayName: 绽花魔石
+				Tooltip:
+					'''
+					你的治疗法术会增加被治疗目标的生命恢复和生命恢复速率
+					获得绽花盾、芳香胸花和活力花瓣的效果
+					“散发出一种沁人的芳香”
+					'''
+			}
+
+			CelestiaEnchant: {
+				DisplayName: 天界魔石
+				Tooltip:
+					'''
+					按下盔甲能力键会消耗150魔力在你的光标周围召唤一个大型光环
+					光环会提高队友的进攻和防御能力，并增加光环内敌人受到的伤害
+					“和谐温暖的能量拥抱着你”
+					'''
+			}
+
+			ConduitEnchant: {
+				DisplayName: 电容魔石
+				Tooltip:
+					'''
+					不断移动会生成最多5个静态环，每个都会为你添加生命护盾
+					满充能时，一个能量泡泡会保护你免受一次攻击
+					泡泡阻挡攻击后会向周围的敌人释放电束 
+					“飞速逃离这个世界”
+					'''
+			}
+
+			CrierEnchant: {
+				DisplayName: 传讯魔石
+				Tooltip:
+					'''
+					你的音波咒音增幅会额外持续3秒
+					获得幸运兔脚的效果
+					“已经没时间了”
+					'''
+			}
+
+			CryomancerEnchant: {
+				DisplayName: 极寒魔石
+				Tooltip:
+					'''
+					你的攻击会冻结敌怪2秒
+					一个冰精灵环绕着你，每经过一段时间便会冻结附近的敌人
+					获得遁蛛冰皮的效果
+					“是什么结束了大灾难？冰河时代！”
+					'''
+			}
+
+			CyberPunkEnchant: {
+				DisplayName: 赛博魔石
+				Tooltip:
+					'''
+					按下盔甲能力键会在4种状态间切换
+					获得自动调谐器、Metal音乐播放器和Diss曲目的效果
+					“秦安锐舞？科技锐舞！”
+					'''
+			}
+
+			DarksteelEnchant: {
+				DisplayName: 暗钢魔石
+				Tooltip:
+					'''
+					获得双击冲刺能力
+					生命值满时受到的伤害减少10%
+					没有什么可以阻挡你的移动
+					免疫蹒跚者的链球
+					获得尖刺护腕的效果
+					“轻便而耐用”
+					'''
+			}
+
+			DemonBloodEnchant: {
+				DisplayName: 魔血魔石
+				Tooltip:
+					'''
+					受伤时会使你积蓄“鲜血充能”
+					充能满时会使你的下一次攻击伤害翻倍，并且获得20%该次伤害值的治疗
+					受伤时伤害敌怪有概率掉落肉，收集肉会恢复生命并获得伤害加成
+					获得吸血鬼试剂和邪恶连枷核心的效果
+					“它渗出了腐败的血液”
+					'''
+			}
+
+			DepthDiverEnchant: {
+				DisplayName: 潜海魔石
+				Tooltip:
+					'''
+					你和附近的所有队友可以在水下呼吸
+					你和附近的队友增加10%伤害和移动速度
+					获得游泳能力
+					获得海风垂饰、泡泡磁铁和沉没的金币效果
+					“成为无私的保护者”
+					'''
+			}
+
+			DragonEnchant: {
+				DisplayName: 绿龙魔石
+				Tooltip:
+					'''
+					你的攻击有概率释放龙焰爆炸
+					获得龙爪项链和Disco音乐播放器的效果
+					“由神话般的鳞片制成”
+					'''
+			}
+
+			DreadEnchant: {
+				DisplayName: 恐惧魔石
+				Tooltip:
+					'''
+					你的靴子以不真实的频率振动，大幅增加基础移动速度
+					移动时你的近战伤害和暴击率增加
+					你的攻击有概率释放龙焰爆炸
+					获得震地靴、龙爪项链、Disco音乐播放器和咒炎连枷核心的效果
+					“充满该死的灵魂”
+					'''
+			}
+
+			DreamWeaverEnchant: {
+				DisplayName: 织梦魔石
+				Tooltip:
+					'''
+					按下盔甲能力键会消耗200魔力并扭曲现实结构
+					敌怪会被大幅减速且受到所有来源的伤害增加15%
+					队友会大幅增加移动速度和攻击速度
+					并为他们把即将到来的非致命伤害转化为治疗
+					“用暂时的苦痛捆绑住你未来的敌人”
+					'''
+			}
+
+			DurasteelEnchant: {
+				DisplayName: 耐钢魔石
+				Tooltip:
+					'''
+					生命值满时减少12%受到的伤害
+					免疫蹒跚者的链球
+					获得炽热火花和尖刺护腕的效果
+					“由铁匠专业锻造”
+					'''
+			}
+
+			EbonEnchant: {
+				DisplayName: 黑檀魔石
+				Tooltip:
+					'''
+					腐化你的光辉能量，使它们呈现黑暗形态并造成额外效果
+					获得黑暗之心的效果
+					“剑走偏锋”
+					'''
+			}
+
+			FallenPaladinEnchant: {
+				DisplayName: 堕骑魔石
+				Tooltip:
+					'''
+					受到伤害会治疗附近队友所受伤害15%的生命值
+					如果有队友生命值低于一半，则增强你的治疗能力
+					获得涅槃雕像的效果
+					“在地牢踽踽独行”
+					'''
+			}
+
+			FleshEnchant: {
+				DisplayName: 血肉魔石
+				Tooltip:
+					'''
+					受伤时伤害敌怪有概率掉落肉，收集肉会恢复生命并获得伤害加成
+					获得吸血鬼试剂的效果
+					“与你的身体共生”
+					'''
+			}
+
+			FlightEnchant: {
+				DisplayName: 飞羽魔石
+				Tooltip:
+					'''
+					增加100%的飞行时间
+					获得皇家彩蛋的效果
+					“天空是你的飞行场地”
+					'''
+			}
+
+			FungusEnchant: {
+				DisplayName: 真菌魔石
+				Tooltip:
+					'''
+					对真菌影响的敌怪造成的伤害提高10%
+					对真菌影响的敌怪造成伤害时会短暂增加10%投掷速度
+					“我们中出了个叛徒”
+					'''
+			}
+
+			GeodeEnchant: {
+				DisplayName: 晶体魔石
+				Tooltip:
+					'''
+					你会发出亮光，增加50%挖掘速度
+					获得狩猎、危险感和勘探药剂的效果
+					你现在能一次挖掘整个矿脉
+					获得水晶矛尖的效果
+
+					'''
+			}
+
+			GraniteEnchant: {
+				DisplayName: 花岗岩魔石
+				Tooltip:
+					'''
+					免疫高温和敌怪击退，但你的移动速度大幅降低
+					获得岩石之心的效果
+					“防御性能量”
+					'''
+			}
+
+			IcyEnchant: {
+				DisplayName: 碎冰魔石
+				Tooltip:
+					'''
+					一个冰光环环绕着你，冻结待在其中太久的敌怪
+					“触之即寒”
+					'''
+			}
+
+			IllumiteEnchant: {
+				DisplayName: 荧光魔石
+				Tooltip:
+					'''
+					每三次攻击都会射出荧光弹幕
+					获得核弹头配件和Jazz音乐播放器的效果
+					“你感觉还不够粉”
+					'''
+			}
+
+			IridescentEnchant: {
+				DisplayName: 光耀魔石
+				Tooltip:
+					'''
+					你的光辉伤害有15%概率释放一道致盲闪光
+					闪光会以你的治疗加成治疗附近所有队友并困惑敌怪
+					获得平等护符和生命石英盾的效果
+					“这就是彩虹的所有颜色”
+					'''
+			}
+
+			JesterEnchant: {
+				DisplayName: 弄臣魔石
+				Tooltip:
+					'''
+					暴击时会在你的头顶敲响铃铛，减速附近的所有敌怪
+					获得粉丝的信函的效果
+					“胡闹的小丑”
+					'''
+			}
+
+			LichEnchant: {
+				DisplayName: 巫妖魔石
+				Tooltip:
+					'''
+					击杀敌怪会释放一道灵魂碎片
+					接触灵魂碎片会短暂地大幅增加你的移动速度和投掷速度
+					你的瘟疫云在空中的滞留时间翻倍且你的瘟疫连锁反应多造成20%伤害
+					获得魂匣的效果
+					“永恒的死亡……”
+					'''
+			}
+
+			LifeBinderEnchant: {
+				DisplayName: 光复魔石
+				Tooltip:
+					'''
+					治疗队友将会在短时间内增加他们50点最大生命值
+					你的光辉伤害有15%概率释放一道致盲闪光
+					闪光会以你的治疗加成治疗附近所有队友并困惑敌怪
+					获得芦荟叶和平等护符的效果
+					“生命之力从你的指尖流出”
+					'''
+			}
+
+			LifeBloomEnchant: {
+				DisplayName: 绽生魔石
+				Tooltip:
+					'''
+					仆从攻击有33%概率轻微治疗你
+					生命木橡子的攻击可以跟踪附近的敌怪
+					你的治疗法术会增加被治疗目标的生命恢复和生命恢复速率
+					获得绽花盾、活力花瓣、芳香胸花和丛林之心的效果
+					“你与自然融为一体”
+					'''
+			}
+
+			LivingWoodEnchant: {
+				DisplayName: 生命木魔石
+				Tooltip:
+					'''
+					召唤一个生命木橡子
+					增加1个召唤栏位
+					“成为自然的一部分”
+					'''
+			}
+
+			LodestoneEnchant: {
+				DisplayName: 地脉魔石
+				Tooltip:
+					'''
+					每失去25%生命值获得15%伤害减免
+					低于50%生命值时伤害减免达到最大30%
+					获得太空甲虫壳、黑曜石鳞片和沙海穿梭者头冠的效果
+					“坚如磐石”
+					'''
+			}
+
+			MaestroEnchant: {
+				DisplayName: 大师魔石
+				Tooltip:
+					'''
+					按下盔甲能力键召唤一个陨落合唱团
+					它们会自动向附近的敌怪发射弹幕
+					获得总谱、节拍器和指挥棒的效果
+					“贝多芬再世”
+					'''
+			}
+
+			MagmaEnchant: {
+				DisplayName: 岩浆魔石
+				Tooltip:
+					'''
+					近战攻击造成着火了！减益
+					你击中的敌怪受到的火焰减益伤害增加50%
+					获得弹簧鞋、熔岩重踏和炽热矛尖的效果
+					“热量在徐徐燃烧”
+					'''
+			}
+
+			MarchingBandEnchant: {
+				DisplayName: 仪仗队魔石
+				Tooltip:
+					'''
+					战斗中，一个彩虹音波符号会跟随你的移动并晕眩敌怪
+					获得总谱的效果
+					“跟着节奏舞动”
+					'''
+			}
+
+			NagaSkinEnchant: {
+				DisplayName: 娜迦魔石
+				Tooltip:
+					'''
+					在水下时增加20%攻击速度
+					在水下时移动得更快
+					获得海潮之噬的效果
+					“原始海洋法师的装束”
+					'''
+			}
+
+			NobleEnchant: {
+				DisplayName: 贵族魔石
+				Tooltip:
+					'''
+					掉落的灵感音符效果翻倍且短暂增加你的音波伤害
+					获得团结之戒、黄铜旋帽和蜡质松香的效果
+					“精神富有也是贵族”
+					'''
+			}
+
+			NoviceClericEnchant: {
+				DisplayName: 牧师魔石
+				Tooltip:
+					'''
+					每5秒你会生成至多3个神圣十字架
+					在使用治疗法术时会消耗1个十字架而不是魔力
+					获得护士钱包的效果
+
+					'''
+			}
+
+			OceanEnchant: {
+				DisplayName: 珊瑚魔石
+				Tooltip:
+					'''
+					光辉伤害会建立至多20点生命护盾且你的生命护盾不会随时间衰减
+					获得海风垂饰和泡泡磁铁的效果
+					“在鱼群中徜徉”
+					'''
+			}
+
+			OrnateEnchant: {
+				DisplayName: 华贵魔石
+				Tooltip:
+					'''
+					音波暴击会使随机激活的咒音增幅提升到Ⅳ级强度
+					获得音乐会门票的效果
+					“仌”
+					'''
+			}
+
+			PlagueDoctorEnchant: {
+				DisplayName: 疫医魔石
+				Tooltip:
+					'''
+					你的瘟疫云在空中的滞留时间翻倍且你的瘟疫连锁反应多造成20%伤害
+					“你在煮着什么恶心东西？”
+					'''
+			}
+
+			PyromancerEnchant: {
+				DisplayName: 炎法魔石
+				Tooltip:
+					'''
+					魔法攻击会造成严重的烧伤并伤害附近所有敌怪
+					按下盔甲能力键释放出熔渣之力的回声
+					获得等离子护盾发生器的效果
+					“你的熔岩凝视足以令人惊骇”
+					'''
+			}
+
+			RhapsodistEnchant: {
+				DisplayName: 狂音魔石
+				Tooltip:
+					'''
+					增加灵感音符掉落数量
+					为附近的队友给予一个随机的Ⅰ级咒音增幅
+					按下盔甲能力键会让你获得无限的灵感值并大幅增加音波伤害和演奏速度
+					同时会用每种Ⅲ级咒音增幅超载附近的队友15秒
+					这个效果有一分钟冷却时间
+					“你的歌声激励一支军队，你的天赋不输任何一人”
+					'''
+			}
+
+			SacredEnchant: {
+				DisplayName: 崇圣魔石
+				Tooltip:
+					'''
+					治疗药水治疗量增加50%
+					每5秒你会生成至多3个神圣十字架
+					在使用治疗法术时会消耗1个十字架而不是魔力
+					获得业果之握的效果
+					“闪烁着令人舒适的力量”
+					'''
+			}
+
+			SandstoneEnchant: {
+				DisplayName: 砂石魔石
+				Tooltip:
+					'''
+					沙漠之风为你提供了一次沙质二段跳
+					“被沙漠的狂风笼罩”
+					'''
+			}
+
+			ShadeMasterEnchant: {
+				DisplayName: 浸影魔石
+				Tooltip:
+					'''
+					你所受伤害的50%将会在接下来的10秒内结算
+					获得忍者魔符的效果
+					“匿于暗影，一击致命”
+					'''
+			}
+
+			ShootingStarEnchant: {
+				DisplayName: 掠星魔石
+				Tooltip:
+					'''
+					拥有的每个独特的咒音将增幅你：
+					5%音波伤害
+					2%移动速度
+					2%灵感值再生
+					1%演奏速度
+					“宇宙之音在你的脑海中萦绕”
+					'''
+			}
+
+			SilkEnchant: {
+				DisplayName: 丝绸魔石
+				Tooltip:
+					'''
+					高于90%魔力时增加12%魔法伤害
+					获得工匠的聚焦项链、工匠的护盾和工匠的火箭靴的效果
+					“寸止领域专家”
+					'''
+			}
+
+			SpiritTrapperEnchant: {
+				DisplayName: 猎魂魔石
+				Tooltip:
+					'''
+					击杀敌怪或持续伤害Boss会生成灵魂微粒
+					生成5个微粒后，它们会被立刻消耗并治疗你10点生命值
+					获得心灵之火和全知水晶球的的效果
+					“如此多迷失的灵魂…”
+					'''
+			}
+
+			SteelEnchant: {
+				DisplayName: 钢魔石
+				Tooltip:
+					'''
+					生命值满时受到的伤害减少10%
+					获得尖刺护腕的效果
+					“由铁匠专业锻造”
+					'''
+			}
+
+			TemplarEnchant: {
+				DisplayName: 圣骑魔石
+				Tooltip:
+					'''
+					如果队友生命值低于一半，则增强你的治疗能力
+					“为了教会！”
+					'''
+			}
+
+			TerrariumEnchant: {
+				DisplayName: 元素魔石
+				Tooltip:
+					'''
+					泰拉瑞亚的能量会追寻并保护着你
+					攻击敌怪时间歇爆发出伤害性能量
+					暴击时会在你的头顶敲响铃铛，减速附近的所有敌怪
+					获得精准项链和恢复手环的效果
+					获得界元音箱和粉丝的信函的效果
+					“一切都会在你的力量面前倒下……”
+					'''
+			}
+
+			ThoriumEnchant: {
+				DisplayName: 瑟银魔石
+				Tooltip:
+					'''
+					攻击敌怪时间歇爆发出伤害性能量
+					暴击时会在你的头顶敲响铃铛，减速附近的所有敌怪
+					获得精准项链、恢复手环和粉丝的信函的效果
+					“它充满能量”
+					'''
+			}
+
+			TideHunterEnchant: {
+				DisplayName: 猎潮魔石
+				Tooltip:
+					'''
+					远程暴击会释放一堆泡沫，减速附近敌怪
+					4次非暴击后下次远程攻击会是造成150%伤害的小暴击
+					获得哥布林战盾和琵琶鱼球碗的效果
+					“不只是为了捕鱼”
+					'''
+			}
+
+			TideTurnerEnchant: {
+				DisplayName: 洪流魔石
+				Tooltip:
+					'''
+					按下盔甲能力键将你包裹在密不透风的泡泡中
+					泡泡生效时，会将所有受到的伤害转化为治疗
+					每半秒钟提供一个漂浮球
+					每颗球会增加你的防御并使你下次非暴击伤害造成一次小暴击
+					投掷伤害有20%概率在你周围释放跟踪海潮飞刀
+					获得瘟疫之主的药剂瓶的效果
+					“向你的敌人释放海洋之怒，变得像潮汐一样势不可挡”
+					'''
+			}
+
+			TitanEnchant: {
+				DisplayName: 泰坦魔石
+				Tooltip:
+					'''
+					增加15%伤害
+					获得水晶之眼面具、深渊贝壳和Rock音乐播放器的效果
+					“充满始源能量”
+					'''
+			}
+
+			ValadiumEnchant: {
+				DisplayName: 虚金魔石
+				Tooltip:
+					'''
+					按下up翻转重力
+					翻转时伤害增加12%
+					获得注视者之凝和注视者之镜的效果
+					“大佬们为什么我人物倒立过来了”
+					'''
+			}
+
+			WarlockEnchant: {
+				DisplayName: 术士魔石
+				Tooltip:
+					'''
+					暴击攻击会生成至多15颗暗影微粒
+					按下盔甲能力键会向光标位置释放所有存储的暗影微粒
+					获得恶魔之舌和鬼影塑像的效果
+					“术士>巫师，望周知”
+					'''
+			}
+
+			WhisperingEnchant: {
+				DisplayName: 低语者魔石
+				Tooltip:
+					'''
+					你会偶尔产生一根深渊能量触手攻击附近敌怪
+					你可以拥有至多6根触手且它们的伤害会从被击中的敌怪吸取1点生命和魔力
+					“使用拉莱耶的古神之力”
+					'''
+			}
+
+			WhiteDwarfEnchant: {
+				DisplayName: 白矮星魔石
+				Tooltip:
+					'''
+					暴击会从星宇释放象牙状火焰
+					象牙状火焰会造成被击中目标0.1%生命值的伤害
+					“掷出星体聚变之力”
+					'''
+			}
+
+			WhiteKnightEnchant: {
+				DisplayName: 白骑士魔石
+				Tooltip:
+					'''
+					消耗魔力的40%会存储为能量，能量值上限为最大魔力值的2倍
+					按下盔甲能力键会消耗当前能量，并回复该能量值100%的魔力值和10%的生命值
+					单次最多消耗50%能量值
+					“降于凡世，来自圣堂”
+					'''
+			}
+
+			YewWoodEnchant: {
+				DisplayName: 紫衫木魔石
+				Tooltip:
+					'''
+					4次非暴击后下次远程攻击会是造成150%伤害的小暴击
+					获得不哥布林战盾的效果
+					“这种奇怪的木头来自异世界”
+					'''
+			}
+
+			AlfheimForce: {
+				DisplayName: 阿尔弗海姆之力
+				Tooltip:
+					'''
+					获得牧师学徒、崇圣、术士和生物工程盔甲的套装奖励
+					获得光耀、生命束缚、圣殿骑士和堕落圣骑士盔甲的套装奖励
+					获得恶魔之舌、鬼影塑像、芦荟叶和平等护符的效果
+					获得业果之握、涅槃雕像和医疗魔石的效果
+					“光辉与你同在”
+					'''
+			}
+
+			AsgardForce: {
+				DisplayName: 阿斯加德之力
+				Tooltip:
+					'''
+					获得洪流逆潮者、刺客和炎法盔甲的套装奖励
+					获得梦境编织者和狂想盔甲的套装奖励
+					获得飞镖袋、瘟疫领主的药剂瓶和等离子护盾发生器的效果
+					“可曾听闻诸神黄昏？”
+					'''
+			}
+
+			HelheimForce: {
+				DisplayName: 赫尔海姆之力
+				Tooltip:
+					'''
+					获得猎魂者、绿龙、恐惧和魔血盔甲的套装奖励
+					获得Magma,、Berserker、Harbinger、Harbinger盔甲的套装奖励（未添加）
+					获得心灵之火、震地靴和龙爪项链的效果
+					获得邪恶连枷核心、咒炎连枷核心和炽热矛尖的效果
+					获得吸血鬼试剂、弹簧鞋和熔渣重踏的效果
+					获得Shade Band的效果
+					“从冥府中窥见末日”
+					'''
+			}
+
+			JotunheimForce: {
+				DisplayName: 约顿海姆之力
+				Tooltip:
+					'''
+					获得深海潜游者、紫衫木和猎潮者盔甲的套装奖励
+					获得娜迦、碎冰、极寒巫师和低语者盔甲的套装奖励
+					获得海风垂饰和泡泡磁铁的效果
+					获得哥布林战盾、琵琶鱼球碗和遁蛛冰皮的效果
+					“比极寒更可怕的巨人之力”
+					'''
+			}
+
+			MidgardForce: {
+				DisplayName: 米德加德之力
+				Tooltip:
+					'''
+					获得地脉、虚金、荧光和暗影大师盔甲的套装奖励
+					获得弄臣、瑟银和元素之灵盔甲的套装奖励
+					获得太空甲虫壳、黑曜石鳞片、注视者之镜和Jazz音乐播放器的效果
+					获得精准项链、恢复手环、粉丝的信函和界元音箱的效果
+					获得连锁挖矿和水晶矛尖的效果
+					“人类的未来掌握在自己手中”
+					'''
+			}
+
+			MuspelheimForce: {
+				DisplayName: 穆斯贝尔海姆之力
+				Tooltip:
+					'''
+					获得砂石、飞羽和真菌盔甲的套装奖励
+					获得生命木、绽花和生命绽放盔甲的套装奖励
+					获得皇家彩蛋、绽花盾和活力花瓣的效果
+					获得影缀花、无瑕之蛹和蜜蜂靴的效果
+					“传说中苏尔特能驾驭炽热的能量”
+					'''
+			}
+
+			NiflheimForce: {
+				DisplayName: 尼福尔海姆之力
+				Tooltip:
+					'''
+					获得传讯员、贵族、赛博朋克、华贵和大师盔甲的套装奖励
+					获得团结之戒、黄铜旋帽和蜡质松香的效果
+					获得自动调谐器、Metal音乐播放器和Diss曲目的效果
+					获得音乐会门票、指挥棒、总谱、节拍器的效果
+					“充满雾霜的死寂冰封之地…”
+					'''
+			}
+
+			SvartalfheimForce: {
+				DisplayName: 斯瓦特阿尔海姆之力
+				Tooltip:
+					'''
+					获得花岗岩、青铜和暗钢盔甲的套装奖励
+					获得耐钢、泰坦和电容盔甲的套装奖励
+					获得风暴之眼、英灵的反击之盾、奥林匹克圣火和斯巴达凉鞋的效果
+					获得尖刺护腕和Rock音乐播放器的效果
+					获得食人魔凉鞋、岩石之心、水晶之眼面具和深渊贝壳的效果
+					“黑暗精灵之杰作”
+					'''
+			}
+
+			VanaheimForce: {
+				DisplayName: 华纳海姆之力
+				Tooltip:
+					'''
+					获得巫妖、瘟疫医生和白矮星盔甲的套装奖励
+					获得天界和流星掠影盔甲的套装奖励
+					获得魂匣和飞升雕像的效果
+					“神圣丰饶的未来一瞥”
+					'''
+			}
+
+			ThoriumSoul: {
+				DisplayName: 世界树之魂
+				Tooltip:
+					'''
+					获得砂石、飞羽、真菌、生命木、绽花和生命绽放盔甲的套装奖励
+					获得深海潜游者、紫衫木、猎潮者、娜迦、碎冰、极寒巫师和低语者盔甲的套装奖励
+					获得崇圣、术士、生物工程、生命束缚和堕落圣骑士盔甲的套装奖励
+					获得传讯员、贵族、赛博朋克、华贵和大师盔甲的套装奖励
+					获得花岗岩、青铜、暗钢、耐钢、泰坦和电容盔甲的套装奖励
+					获得地脉、虚金、荧光、暗影大师、弄臣、瑟银和元素之灵盔甲的套装奖励
+					获得巫妖、瘟疫医生、白矮星、天界和流星掠影盔甲的套装奖励
+					获得获得猎魂者、绿龙、恐惧、血肉和魔血盔甲的套装奖励
+					获得洪流逆潮者、刺客、炎法、梦境编织者和狂想盔甲的套装奖励
+					获得获得影缀花、无瑕之蛹和蜜蜂靴的效果
+					获得哥布林战盾、琵琶鱼球碗和遁蛛冰皮的效果
+					获得恶魔之舌、鬼影塑像、芦荟叶、平等护符、业果之握和涅槃雕像的效果
+					获得团结之戒、黄铜旋帽、蜡质松香、自动调谐器、Metal音乐播放器、Diss曲目、音乐会门票、指挥棒、总谱和节拍器的效果
+					获得风暴之眼、英灵的反击之盾、奥林匹克圣火、斯巴达凉鞋、尖刺护腕、Rock音乐播放器、食人魔凉鞋、岩石之心和水晶之眼面具的效果
+					获得深渊贝壳、太空甲虫壳、黑曜石鳞片、注视者之镜、Jazz音乐播放器、精准项链、恢复手环、粉丝的信函和界元音箱的效果
+					获得获得魂匣和飞升雕像的效果
+					获得工匠的火箭靴、心灵之火、震地靴、吸血鬼试剂、弹簧鞋、熔渣重踏的效果
+					获得飞镖袋和噬梦之兆的效果
+					[c/c00FFE3:你就是尤克特拉希尔的无限可能！]
+					'''
+			}
+
+			ForgottenEnergizer: {
+				DisplayName: 遗忘强化剂
+				Tooltip: ""
+			}
+
+			ViscountEnergizer: {
+				DisplayName: 音波强化剂
+				Tooltip: ""
+			}
+
+			OverloadChampion: {
+				DisplayName: 赏赐之剑
+				Tooltip: ""
+			}
+
+			OverloadGranite: {
+				DisplayName: 极不稳定核心
+				Tooltip: ""
+			}
+
+			OverloadJelly: {
+				DisplayName: 水母共震器
+				Tooltip: ""
+			}
+
+			OverloadLich: {
+				DisplayName: 万圣节彩棒
+				Tooltip: ""
+			}
+
+			OverloadRag: {
+				DisplayName: 末日预言者的钢镚儿
+				Tooltip: ""
+			}
+
+			OverloadSaucer: {
+				DisplayName: 超负荷星空信号发射器
+				Tooltip: ""
+			}
+
+			OverloadStrider: {
+				DisplayName: 冰封蛛卵
+				Tooltip: ""
+			}
+
+			OverloadThunderbird: {
+				DisplayName: 风暴信号弹匣
+				Tooltip: ""
+			}
+
+			OverloadViscount: {
+				Tooltip: ""
+				DisplayName: 蝙蝠骨灰盒
+			}
+
+			OverloadAbyssalion: {
+				Tooltip: ""
+				DisplayName: 深渊之影密封盒
+			}
+
+			ShtuxianCurseEX: {
+				DisplayName: Shtuxian Curse EX
+				Tooltip: ""
+			}
+
+			AbaddonEnergizer: {
+				DisplayName: Abaddon Energizer
+				Tooltip: ""
+			}
+
+			AraneasEnergizer: {
+				DisplayName: Araneas Energizer
+				Tooltip: ""
+			}
+
+			DecreeEnergizer: {
+				DisplayName: Decree Energizer
+				Tooltip: ""
+			}
+
+			ErazorEnergizer: {
+				DisplayName: Erazor Energizer
+				Tooltip: ""
+			}
+
+			JensenEnergizer: {
+				DisplayName: Jensen Energizer
+				Tooltip: ""
+			}
+
+			NovanielEnergizer: {
+				DisplayName: Novaniel Energizer
+				Tooltip: ""
+			}
+
+			PrimordiaEnergizer: {
+				DisplayName: Primordia Energizer
+				Tooltip: ""
+			}
+
+			PumpkinEnergizer: {
+				DisplayName: Pumpkin Energizer
+				Tooltip: ""
+			}
+
+			RaynareEnergizer: {
+				DisplayName: Raynare Energizer
+				Tooltip: ""
+			}
+
+			SerpentEnergizer: {
+				DisplayName: Serpent Energizer
+				Tooltip: ""
+			}
+
+			OverloadAbaddon: {
+				DisplayName: Overload Abaddon
+				Tooltip: ""
+			}
+
+			OverloadAraneas: {
+				DisplayName: Overload Araneas
+				Tooltip: ""
+			}
+
+			OverloadDecree: {
+				DisplayName: Overload Decree
+				Tooltip: ""
+			}
+
+			OverloadErazor: {
+				DisplayName: Overload Erazor
+				Tooltip: ""
+			}
+
+			OverloadJensen: {
+				DisplayName: Overload Jensen
+				Tooltip: ""
+			}
+
+			OverloadNovaniel: {
+				DisplayName: Overload Novaniel
+				Tooltip: ""
+			}
+
+			OverloadPrimordia: {
+				DisplayName: Overload Primordia
+				Tooltip: ""
+			}
+
+			OverloadPumpkin: {
+				DisplayName: Overload Pumpkin
+				Tooltip: ""
+			}
+
+			OverloadRaynare: {
+				DisplayName: Overload Raynare
+				Tooltip: ""
+			}
+
+			OverloadSerpent: {
+				DisplayName: Overload Serpent
+				Tooltip: ""
+			}
+
+			ShtuxianHarbringer: {
+				DisplayName: Shtuxian Harbringer
+				Tooltip: ""
+			}
+
+			Monstrocity: {
+				DisplayName: 魔神
+				Tooltip: ""
+			}
+
+			Calamitass: {
+				DisplayName: 灾厄
+				Tooltip: ""
+			}
+
+			YharimWhere: {
+				DisplayName: 大山猪
+				Tooltip: “亚利姆你去哪了你根本没在巨龙之巢”
+			}
+
+			Bandit: {
+				DisplayName: 强盗
+				Tooltip: ""
+			}
+
+			DemonshadeWorkbench: {
+				Tooltip: 该物品来自世纪小花-灾厄魂Mod “魔影坩埚”
+				DisplayName: 魔影坩埚
+			}
+
+			ShtuxibusFumo: {
+				Tooltip:
+					'''
+					使用这个物品来见我（未完成BOSS，无ai）
+					建议在太空这样的广阔场地使用
+					你的碰撞箱在这场战斗中将会变为一个小点
+					极度推荐装备此饰品[i:ssm/ShtuxianSoul]
+					你必须要在一分钟内击败我，否则你将[c/ff0000:死]亡
+					受到超过十分之一最大生命值的伤害将会杀[c/ff0000:死]你
+					妄图对我使用SuperSmash Mod将会杀[c/ff0000:死]你
+					妄图使用[星光充能]会立刻杀[c/ff0000:死]你
+					妄图使用Cheat Sheet/Heros's Mod/DragonLens的上帝模式也会杀[c/ff0000:死]你
+					使用这个物品后，所有的存活的BOSS/生物/城镇NPC都将[c/ff0000:死]亡
+					'''
+				DisplayName: 星光猫Fumo
+			}
+
+			BrimstoneWitch: {
+				DisplayName: 硫火女巫
+				Tooltip: ""
+			}
+
+			Archmage: {
+				DisplayName: 永冻
+				Tooltip: ""
+			}
+
+			SeaKing: {
+				DisplayName: 海王
+				Tooltip: ""
+			}
+
+			OverloadAnahita: {
+				DisplayName: 深渊珍珠
+				Tooltip: ""
+			}
+
+			OverloadAS: {
+				DisplayName: 美味海鲜饵料
+				Tooltip: ""
+			}
+
+			OverloadAureus: {
+				DisplayName: 星辉库里南碎片
+				Tooltip: "“老登爆金币了”"
+			}
+
+			OverloadBirb: {
+				DisplayName: 奇迹信息素
+				Tooltip: ""
+			}
+
+			OverloadCrabulon: {
+				DisplayName: 变异芽孢
+				Tooltip: ""
+			}
+
+			OverloadCryogen: {
+				DisplayName: 永冻私房钱保险箱的钥匙
+				Tooltip: “在你手上时，蕴含的能量足以让他冲破囚笼”
+			}
+
+			OverloadDeus: {
+				DisplayName: 星星核核
+				Tooltip: “星神游龙怎么召唤啊大佬们”
+			}
+
+			OverloadDOG: {
+				DisplayName: 宇宙之蛆
+				Tooltip: ""
+			}
+
+			OverloadDS: {
+				DisplayName: 荒漠吊坠-限定珍品款
+				Tooltip: ""
+			}
+
+			OverloadElemental: {
+				DisplayName: 1：1等身焦炭玩偶
+				Tooltip: ""
+			}
+
+			OverloadGoliath: {
+				DisplayName: 瘟疫，启动！
+				Tooltip: “嘉登怎么你了”
+			}
+
+			OverloadGuardians: {
+				DisplayName: 亵渎晶核
+				Tooltip: ""
+			}
+
+			OverloadHive: {
+				DisplayName: 坤形肿瘤
+				Tooltip: ""
+			}
+
+			OverloadOldDuke: {
+				DisplayName: 松露虫的远房表亲
+				Tooltip: ""
+			}
+
+			OverloadPerforators: {
+				DisplayName: 一只肥美的血蠕虫
+				Tooltip: ""
+			}
+
+			OverloadPolterghast: {
+				DisplayName: 粉地牢火把
+				Tooltip: ""
+			}
+
+			OverloadProvidence: {
+				DisplayName: 亵渎碎片
+				Tooltip: ""
+			}
+
+			OverloadRavager: {
+				DisplayName: 可疑头骨
+				Tooltip: ""
+			}
+
+			OverloadSlimeGod: {
+				DisplayName: 过载²淤泥
+				Tooltip: "“过载的过载淤泥”"
+			}
+
+			OverloadWaifu: {
+				DisplayName: 娘化至尊灾厄眼
+				Tooltip: "“年龄：1501~至今”"
+			}
+
+			OverloadWaifuClone: {
+				DisplayName: 一个低级的至尊灾厄眼克隆体小将
+				Tooltip: "“掉300个灾厄尘够吗”"
+			}
+
+			OverloadYharon: {
+				DisplayName: 圣佑烬昭鸡蛋
+				Tooltip: "“鸡蛋里面为什么能孵出来鸭绒”"
+			}
+
+			ShtuxianEnchant: {
+				DisplayName: 星光魔石
+				Tooltip:
+					'''
+					[i:ssm/QuantumChestplate], [i:ssm/QuantumPants]
+					免疫低于10点的伤害，你的攻击会造成星光魔焱减益
+					降低星光魔焱减益影响，获得突变盔甲和魔神盔甲的套装奖励
+					获得3次复活，每次复活恢复全部生命值，每次复活冷却为30秒
+					[i:ssm/ChtuxlagorHeart]
+					将你受到的单次伤害固定在1000以内
+					增加100%擦弹伤害加成上限，减少50%突变炸弹冷却时间
+					免疫答辩诅咒，降低星光魔焱减益对你造成的伤害
+					按下[星光充能]键，使你在10秒内免疫死亡
+					[i:ssm/ShtuxianEnchant] 缩小玩家的碰撞箱
+					'''
+			}
+
+			QuantumChestplate: {
+				DisplayName: 量子衣
+				Tooltip:
+					'''
+					+10000点护盾值，+100点护盾穿透
+					增加2000点最大生命值和魔力值和500%全职业伤害
+					获得惊人生命回复，受到的伤害减少50%
+					忽视大部分敌人的全部护甲，增加100%暴击暴击率
+					'''
+			}
+
+			QuantumPants: {
+				DisplayName: 量子裤
+				Tooltip:
+					'''
+					+10000点护盾值，+100点护盾穿透
+					受到的伤害减少50%，增加100%暴击率
+					增加50%移动速度和500%全职业伤害
+					'''
+			}
+
+			QuantumHelmet: {
+				DisplayName: 量子盔
+				Tooltip:
+					'''
+					+10000点护盾值，+100点护盾穿透
+					受到的伤害减少50%，忽视大部分敌人的全部护甲
+					获得狩猎、危险感和勘探药剂的效果
+					'''
+			}
+
+			ShieldCheckDebug: {
+				DisplayName: 调试物品
+				Tooltip: 调试
+			}
+
+			StorageUnitShtuxian: {
+				DisplayName: Storage Unit Shtuxian
+				Tooltip: DO NOT use this
+			}
+
+			ChtuxlagorShard: {
+				Tooltip: ""
+				DisplayName: 星光碎片
+			}
+
+			ShtuxiumArrow: {
+				DisplayName: 星光矢
+				Tooltip:
+					'''
+					命中时爆炸并造成星光魔焱减益
+					能够跟踪敌人
+					无视墙体
+					'''
+			}
+
+			StarlightCompiler: {
+				DisplayName: 星光编译器
+				Tooltip: 获得开发者能力
+			}
+
+			ShtuxiumBullet: {
+				Tooltip:
+					'''
+					命中时爆炸并造成星光魔焱减益
+					能够跟踪敌人
+					无视墙体
+					'''
+				DisplayName: 星光弹
+			}
+
+			ElementalArtifact: {
+				DisplayName: 元素石
+				Tooltip:
+					'''
+					获得天蓝石、冰川石、混乱石和绽花石的效果
+					“世界的精华强化了你的力量”
+					'''
+			}
+
+			PotJT: {
+				DisplayName: 寻神者吊坠
+				Tooltip:
+					'''
+					获得渊洋之心、毒疫之心、利维坦龙涎香和星神隐壳效果
+					获得灾劫之尖啸、进化者、归一心元石、血炎晶核、渎火核心和元素石的效果
+					“它散发出一股奇怪的气息”
+					'''
+			}
+
+			MonstrosityEnchant: {
+				DisplayName: 魔神魔石
+				Tooltip: ""
+			}
+
+			MaxChargerDebug: {
+				Tooltip: ""
+				DisplayName: 最大充能调试
+			}
+
+			MotDE: {
+				DisplayName: 噬梦之兆
+				Tooltip:
+					'''
+						获得地狱领主的聚焦项链、小型聚变发生器.神庙蜥蜴之尾、蛇之盾和代谢药的效果
+						获得怪物护符、巫咒护符、无瑕之蛹和魔戒的效果
+						“你仿佛感受到了它散出的能量”
+					'''
+			}
+		}
+
+		Buffs: {
+			ShtuxibusCurse: {
+				DisplayName: 答辩诅咒
+				Description: 出来自杀别无他法
+			}
+
+			Dot: {
+				DisplayName: 一维化
+				Description: 你的碰撞体积变成了一个点
+			}
+
+			ChtuxlagorBuff: {
+				DisplayName: 星引
+				Description: 全能造物主之力与你同在
+			}
+
+			ShtuxibusMinionBuff: {
+				DisplayName: 星光之唤
+				Description: 幽灵星光体保护着你
+			}
+
+			AntiCollision: {
+				DisplayName: 防碰撞
+				Description: 无法受到攻击
+			}
+
+			AntiDeath: {
+				DisplayName: 免死
+				Description: 无法死亡
+			}
+
+			AntiDebuff: {
+				DisplayName: 抗减益
+				Description: 免疫所有减益
+			}
+
+			ChtuxlagorInferno: {
+				DisplayName: 星光魔焱
+				Description: 烫烫烫烫烫烫烫烫烫死了！
+			}
+
+			SadismEX: {
+				DisplayName: 施虐EX
+				Description: 你现在免疫全部减益
+			}
+
+			YharimBuff: {
+				DisplayName: 亚利姆之力
+				Description: 寻神者之力环绕你身
+			}
+
+			CelestialPowerBuff: {
+				DisplayName: 天界柱
+				Description: 天界柱会保护你
+			}
+
+			DeviSoulBuff: {
+				DisplayName: 戴薇安之魂
+				Description: 幽灵戴薇安将会保护你
+			}
+
+			MutantSoulBuff: {
+				DisplayName: 突变体之魂
+				Description: 幽灵突变体将会保护你
+			}
+
+			StarlightVodkaBuff: {
+				DisplayName: 星光伏特加
+				Description: 你从未喝过如此怪味道的饮料
+			}
+
+			ChtuxlagorInfernoEX: {
+				Description: 触  之  即  死
+				DisplayName: 星光魔焱EX
+			}
+
+			StellarGuardianBuff: {
+				DisplayName: 恒星守卫
+				Description: 恒星之力将会保护你
+			}
+
+			ShtuxianDomination: {
+				Description: 你无敌了，孩子
+				DisplayName: 星光充能
+			}
+
+			DotBuff: {
+				Description: 你的碰撞体积变为了一个像素点
+				DisplayName: 极致一维化
+			}
+		}
+
+		NPCs: {
+			ShtuxianHarbringer: {
+				DisplayName: 星光预言者
+
+				TownNPCMood: {
+					Content: I am satisfied.
+					NoHome: Terrible that i don't have place to stay. I will go back to my world if will not get one.
+					FarFromHome: I am far from home.
+					LoveSpace: I like how spacious it is here. Just like in my palace in Shtundex.
+					DislikeCrowded: I don't like that there are a lot of people here.
+					HateCrowded: I hate all this people. I feel like gonna erase everything around.
+					LikeBiome: I like {BiomeName}. It's very similar to my home world.
+					LoveBiome: The {BiomeName} is amazing place to live.
+					DislikeBiome: I hate {BiomeName}.
+					HateBiome: I can live anywhere but not in {BiomeName}.
+					LoveNPC: I adore {NPCName}. Do you think she like me?
+					LikeNPC: I like spending time with {NPCName}.
+					DislikeNPC: "{NPCName} is getting on my nerves. I would prefer not to exist near him"
+					HateNPC: GET {NPCName} AWAY FROM ME! I HATE IT.
+					LikeNPC_Princess: I don't understand why everyone likes {NPCName}. What so special about her?
+					Princess_LovesNPC: Ugh. {NPCName} annoy me
+				}
+
+				Chat: {
+					ZenithSeed: What the hell is going on here? This world act abnormaly.
+					Defeat: ShtuxiumSuit: So you used shtuxian tech for your equipment? This look awful. You could use AA-7 capacitor instead of AA-4. Also this pieces absolutely impractical. Are you really have no engeneering education?
+					Calamitas: Do you think that Calamitas would come to me and... Nevermind.
+					Mutant: Mutant is so strange. Anyway. I like drinking with him.
+					MasoMode: Is it the hardest difficulty of tml? I heard about Satanist mode and Maso EX.
+					Normal0: Hm. It's interesting to observe your progress. But you will never reach my level of power.
+					Normal1: Can i jump? Yeah. I have that thing you call 'space'.
+					Normal2: Have you ever seen shtuxian before? I bet no!
+					Normal3: Who is Yharim? How many years you waiting for him to be added in game?
+					Normal4: Heh. Gods of this world so pathetic. Kill dragon and consume his soul? Don't make me laugh!
+					Normal5: Do you know about 'Сhtux'Lag'Or'? No? I thought that people study cosmology.
+					Normal6: Sometimes I feel that I'm too different from everyone else here.
+					Normal7: Hey, do you know about 3d dimension? No? Disappointing. My home world in 3d dimension.
+					Normal8: What i was doing in my world? Hmm... Just sitting on sofa and making some machines out of sticks and shit.
+					Normal9: Why does Mutant, Deviantt and Abomination call themselfes siblings? Who are they even?
+					Normal10: Only Chtux'lag'or and other shards can rival my power.
+					Normal11: How old i am? I don't really know. But anyway i look like i am sixteen. I never age.
+					Normal12: Echdeath? It look it have something in common with Chtux'Lag'Or.
+					Normal13: What will happen if I will use Itemss with 'Overload' in name?
+					Normal14: Who is Fargowilta?
+				}
+
+				Census.SpawnCondition: Spawn when Shtuxibus was defeated
+			}
+
+			ShtuxibusGFB.DisplayName: 这个怪物展示出了真正的恐怖力量
+
+			Shtuxibus: {
+				DisplayName: 星光体
+
+				BossChecklistIntegration: {
+					SpawnInfo: 使用星光诅咒[i:ssm/ShtuxianCurse]
+					DespawnMessage: "[c/008000:星光体回到了空间裂缝…]"
+					KilledAllMessage: "[c/008000:星光之力抹除了这片宇宙的全部生命]"
+				}
+			}
+
+			ShtuxibusIllusion.DisplayName: 星光体
+
+			Monstrocity: {
+				TownNPCMood: {
+					Content: 我很满意
+					NoHome: 我讨厌没有家
+					FarFromHome: 我离家太远了
+					LoveSpace: 我很享受独处的时光
+					DislikeCrowded: 这里太挤了，我不喜欢
+					HateCrowded: 有时候人多也不是一件好事
+					LikeNPC_Princess: 我喜欢{NPCName}.
+					Princess_LovesNPC: 我喜欢{NPCName}.
+					LikeNPC: 我喜欢{NPCName}.
+					DislikeNPC: 我不喜欢{NPCName}.
+				}
+
+				Chat: {
+					Normal0: You know the rules! And you will die. Im not going to rickroll you, that's only 0,00001% chance
+					Normal1: Yippe!
+					Normal2: Yharim? that huge army maybe it's just huge to disguise something small
+					Normal3: Soul of eternity is not enough to face me, let alone 2 of it
+					Normal4: Why would i be afraid of a cat? Well, it is long story.
+					Normal5: Devourer of Gods don't come face me because I'm above god's standard
+					Normal6: It would be a calamity for you not to buy my products
+					Normal7: How old am i? I'm some Eternity years old
+					Normal8: When abomination went to register at the registry office they put an extra 'N' in his name
+					Normal9: You don't want to see me in boss form
+					Normal10: My creator? Don't mention it if you don't want to see me angry
+					Normal11: I'm the reason why Seth got his face covered with that bandana
+					Normal12: 1.4.5? maybe in a few years
+					Normal13: There's an imposter among us, he's me! I don't really belong anywhere
+					Normal14: Galactica has a friend of mine, you should visit him
+					Normal15: I heard rumors about a creature with 'Ex' in its name, that doesn't sound so good
+					Normal16: Deviantt likes my look
+					Normal17: I am the real evil presence that watches you
+					Normal18: Split me? nah that would be a calamity , imagine if some Elements awoken from my dead body, that would be a cataclysm, and this world would not be worthy to witness this
+					Normal19: You are in a deep sleep for 52 years, please wake up
+					Normal20: I heard about Whips, they boost your damage, I don't like it.
+					Normal21: Why don't I attack? Ah that's a nice question, I don't think it's necessary.
+					Normal22: My hp is limited to this world, but i would prob get 22^22^22^22 times this
+					Normal23: Eternity doesn't last that long when you are old enough.
+					Normal24: This white-haired cat-eared child scares me.
+					Normal25: Sunflowers are cool, not for your health tho
+					Normal26: Turip ip ip ip
+					Normal27: Are you approaching me? Can't but my stuff if you don't get closer
+					Normal28: There is a pipe bomb inside your walls
+					Normal29: A lot of things explode for no reason
+					Normal30: Megalovania isn't funny
+					Normal31: I may be in love with the Forbotten one, don't search her up on Google please
+					Normal32: Did you know that market got inflated prices bc of some sonic books? Don't trust me? Search up Sonic inflation on google to learn more ab it!
+				}
+
+				DisplayName: 魔神
+				Census.SpawnCondition: Spawn when any sibling defeated.
+			}
+
+			DukeFishronEX: {
+				DisplayName: 猪龙鱼公爵EX
+
+				BossChecklistIntegration: {
+					SpawnInfo: 使用WIP
+					DespawnMessage: ""
+					KilledAllMessage: ""
+				}
+			}
+
+			Echdeath: {
+				DisplayName: 触之即死
+
+				BossChecklistIntegration: {
+					SpawnInfo: 使用WIP
+					DespawnMessage: ""
+					KilledAllMessage: ""
+				}
+			}
+
+			StarlightCatBoss: {
+				DisplayName: ☭
+
+				BossChecklistIntegration: {
+					SpawnInfo: 使用星光体Fumo[i:ssm/ShtuxibusFumo]
+					DespawnMessage: 星光猫被打败了！
+					KilledAllMessage: 星光猫杀死了所有玩家！
+				}
+			}
+
+			StarlightCatChaos.DisplayName: 混乱
+			StarlightCatCreator.DisplayName: 星光猫-创生
+			StarlightCatDestroyer.DisplayName: 星光猫-毁灭
+			StarlightCatOrder.DisplayName: 圣
+		}
+
+		Toggler: {
+			InfernoLordsFocusEffect: 地狱领主的聚焦项链
+			LihzahrdsTailEffect: 神庙蜥蜴之尾
+			PocketFusionGeneratorEffect: 小型聚变发生器
+			SerpentShieldEffect: 蛇之盾
+			MotDEEffect: 噬梦之兆
+			ChaosStoneEffect: 混乱石
+			CryoStoneEffect: 冰川石
+			BloomStoneEffect: 绽花石
+			ToxicHeartEffect: 毒疫之心
+			ShtuxianSoulEffect: 星光攻速加成
+			HideofAstrumDeusEffect: 星神隐壳
+			AquaticHeartEffect: 渊洋之心
+			SoAMasoSoulHeader: 大师之魂
+			YataMirrorEffect: Yata Mirror
+			PrimordialCoreEffect: Primordia Core
+			RoyalGuardEffect: Royal Guard
+			CelestialEffect: 天界柱效果
+			FloraFistEffect: Flora Fist
+			MilinticaDashEffect: Advanced Dash
+			HeartOfThePloughEffect: Heart of the Plough
+			ShtuxianSoulHeader: 答辩之魂
+			ShtuxianEffect: 缩小碰撞体积
+			GuardianEffect: 医疗包效果
+			AsgardForceHeader: 阿斯加德之力
+			AlfheimForceHeader: 阿尔弗海姆之力
+			HelheimForceHeader: 赫尔海姆之力
+			MidgardForceHeader: 米德加德之力
+			MuspelheimForceHeader: 穆斯贝尔海姆之力
+			NiflheimForceHeader: 尼福尔海姆之力
+			JotunheimForceHeader: 约顿海姆之力
+			SvartalfheimForceHeader: 斯瓦特阿尔海姆之力
+			VanaheimForceHeader: 华纳海姆之力
+			SacredEffect: 业果之握
+			IcyEffect: 冰精灵
+			NoviceClericEffect: 神圣十字架
+			TideTurnerEffect: 洪流泡泡盾
+			DreadEffect: 增加移动速度
+			WhisperingEffect: 低语者触手
+			LodestoneEffect: 沙海穿梭者头冠巨石
+			BulbEffect: 活力花瓣
+			LifeBloomEffect: 丛林之心
+			CyberPunkEffect: 赛博朋克切换形态
+			GenerationsForceHeader: Generations Force
+			SoranForceHeader: Soran Force
+			BlazingBruteEffect: Blazing Shield
+			FallenPrinceEffect: Energy Blades
+			NebulousApprenticeEffect: Nebulous Flames
+			QuasarEffect: Energy Surges
+			StellarPriestEffect: Stallar Guardian
+			BismuthEffect: Bismuth Hammers
+			DreadfireEffect: Pumpkin Amulet
+			MarstechEffect: Force Fields
+			CalamitySoulHeader: 寻神者之魂
+			ShatteredCommunityEffect: 幻灭心元石
+			EridanusEffect: 宇宙英灵护佑
+			GaiaEffect: 进攻模式
+			NekomiEffect: 猫猫睡衣套装奖励
+			PhantaplazmalEffect: 真突变套装奖励
+			StyxEffect: 冥河充能
+			MutantSoulEffect: 幽灵突变体
+			DeviEffect: 幽灵戴薇安
+			EternityForceHeader: 永恒之力
+			ChtuxlagorHeartHeader: 星光之心
+			ChtuxlagorHeartEffect: 星光之心
+		}
+
+		Tiles: {
+			ShtuxiumOreTile.MapEntry: 星光矿
+			ShtuxibusForgeTile.MapEntry: 星光锻炉
+			MutantsForgeTile.MapEntry: 突变锻炉
+			DemonshadeWorkbenchTile.MapEntry: 魔影坩埚
+			ShtunStorageUnit.MapEntry: Shtun Storage Unit
+		}
+
+		ItemClass.Chtuxlagor: ∞ Chtux'Lag'Or Item ∞
+
+		WorldGen: {
+			BlessedWithShtuxiumOreMessage: 星光碎片打通了这个世界与星光能量的界限…
+			ShtuxiumOrePassMessage: Mods.ssm.WorldGen.ShtuxiumOrePassMessage
+		}
+
+		Projectiles: {
+			GiantDeathrayULTRA.DisplayName: Giant Deathray
+			GiantDeathrayULTRA100.DisplayName: Giant Deathray
+			WillDeathrayBig.DisplayName: Will Deathray Big
+			WillDeathrayBig20.DisplayName: Will Deathray Big20
+			WillDeathraySmall.DisplayName: Will Deathray Small
+			WillDeathraySmall20.DisplayName: Will Deathray Small20
+			ProtoProjectileAimButOP.DisplayName: Proto Projectile
+			ProtoProjectile.DisplayName: Proto Projectile
+			AbomFlocko.DisplayName: Abom Flocko
+			AbomFlocko2.DisplayName: Abom Flocko2
+			AbomFlocko3.DisplayName: Abom Flocko3
+			AbomFrostShard.DisplayName: Abom Frost Shard
+			AbomFrostWave.DisplayName: Abom Frost Wave
+			AbomLaser.DisplayName: Abom Laser
+			AbomRocket.DisplayName: Abom Rocket
+			AbomSword.DisplayName: Abom Sword
+			AbomSwordHandle.DisplayName: Abom Sword Handle
+			BossRush.DisplayName: Boss Rush
+			Boss.MutantYharonVortex.DisplayName: Mutant Yharon Vortex
+			ChampionBeetle.DisplayName: Champion Beetle
+			CosmosDeathray.DisplayName: Cosmos Deathray
+			CosmosDeathray2.DisplayName: Cosmos Deathray2
+			CosmosSphere.DisplayName: Cosmos Sphere
+			DeviAxe.DisplayName: Devi Axe
+			DeviBigDeathray.DisplayName: Devi Big Deathray
+			DeviDeathray.DisplayName: Devi Deathray
+			DeviEnergyHeart.DisplayName: Devi Energy Heart
+			DeviHammer.DisplayName: Devi Hammer
+			DeviHammerHeld.DisplayName: Devi Hammer Held
+			DeviHeart.DisplayName: Devi Heart
+			DeviSparklingLove.DisplayName: Devi Sparkling Love
+			LifeFireball.DisplayName: Life Fireball
+			MutantBomb.DisplayName: Mutant Bomb
+			MutantBombSmall.DisplayName: Mutant Bomb Small
+			MutantDeathray2.DisplayName: Mutant Deathray2
+			MutantEye.DisplayName: Mutant Eye
+			MutantEyeWavy.DisplayName: Mutant Eye Wavy
+			MutantFishron.DisplayName: Mutant Fishron
+			MutantGiantDeathray2.DisplayName: Mutant Giant Deathray2
+			MutantNuke.DisplayName: Mutant Nuke
+			MutantReticle.DisplayName: Mutant Reticle
+			MutantRitual.DisplayName: Mutant Ritual
+			MutantRitual2.DisplayName: Mutant Ritual2
+			MutantRitual3.DisplayName: Mutant Ritual3
+			MutantRitual4.DisplayName: Mutant Ritual4
+			MutantRitual5.DisplayName: Mutant Ritual5
+			MutantRitualwiththing.DisplayName: Mutant Ritualwiththing
+			MutantSlimeBall.DisplayName: Mutant Slime Ball
+			MutantSlimeRain.DisplayName: Mutant Slime Rain
+			MutantSpearAim.DisplayName: Mutant Spear Aim
+			MutantSpearThrown.DisplayName: Mutant Spear Thrown
+			MutantSphereRing.DisplayName: Mutant Sphere Ring
+			MutantSphereSmall.DisplayName: Mutant Sphere Small
+			MutantSword.DisplayName: Mutant Sword
+			PhantasmalBlast.DisplayName: Phantasmal Blast
+			PhantasmalBlastTS.DisplayName: Phantasmal Blast TS
+			Shtuxibus.DisplayName: Shtuxibus
+			WillJavelin.DisplayName: Will Javelin
+			ShtuxibusSoulMinion.DisplayName: Shtuxibus Soul Minion
+			ShtuxibusMiniSword.DisplayName: Shtuxibus Mini Sword
+			ShtuxibusSoulAttack.DisplayName: Shtuxibus Soul Attack
+			ShtuxibusSpearThrow.DisplayName: Shtuxibus Spear Throw
+			ShtuxibusSwordSwing.DisplayName: Shtuxibus Sword Swing
+			MutantAureusSpawn.DisplayName: Mutant Aureus Spawn
+			MutantHolyRay.DisplayName: Mutant Holy Ray
+			MutantPBG.DisplayName: Mutant PBG
+			MutantPolter.DisplayName: Mutant Polter
+			MutantSlimeGod.DisplayName: Mutant Slime God
+			MutantHeal.DisplayName: Mutant Heal
+			ShtuxibusSwordAttack.DisplayName: Shtuxibus Sword Attack
+			MutantDoGBody.DisplayName: Mutant DoG Body
+			MutantDoGHead.DisplayName: Mutant DoG Head
+			MutantDoGTail.DisplayName: Mutant DoG Tail
+			MutantOldDuke.DisplayName: Mutant Old Duke
+			MutantSCal.DisplayName: Mutant SCal
+			DevianttSoul.DisplayName: Deviantt Soul
+			MutantSoul.DisplayName: Mutant Soul
+			NebulaP.DisplayName: Nebula P
+			SolarP.DisplayName: Solar P
+			StardustP.DisplayName: Stardust P
+			VortexP.DisplayName: Vortex P
+			HolySpear.DisplayName: Holy Spear
+			FlareDust.DisplayName: Flare Dust
+			DLCBloomLine.DisplayName: D L C Bloom Line
+			SlamTelegraph.DisplayName: Slam Telegraph
+			ShtuxianArrowProj.DisplayName: Shtuxian Arrow Proj
+			ShtuxiumBlast.DisplayName: Shtuxium Blast
+			ShtuxianBulletProj.DisplayName: Shtuxian Bullet Proj
+			ChtuxlagorRayTelegraph.DisplayName: Chtuxlagor Ray Telegraph
+			ChtuxlagorDeathraySmall.DisplayName: Chtuxlagor Deathray Small
+			ChtuxlagorDeathrayMark.DisplayName: Chtuxlagor Deathray Mark
+		}
+
+		Biomes: {
+			ShtuxibusSurfaceBiome: {
+				DisplayName: 星光之境
+				TownNPCDialogueName: 星光之境
+			}
+		}
+
+		Bestiary: {
+			Monstrocity: TEST
+			Echdeath: ech
+			Shtuxibus: Shtuxibus is being came from other world called Shtundex. The shard of omnipotent Chtux'Lag'or and embodiment of energy concept.
+		}
+
+		Configs: {
+			ShtunConfig: {
+				Headers: {
+					Visual: 视觉效果
+					General: 总设置
+					Calamity: 灾厄
+					SoA: 圣域
+					SoACal: 灾厄-圣域
+					TorCal: 灾厄-瑟银
+					Thorium: 瑟银
+					Redemption: 救赎
+					Crafting: 配方设置
+					Shtuxibus: 星光体设置
+					Bosses: Boss设置
+					CrossMods: 多开设置
+				}
+
+				ItemsUsedInSingularity: {
+					Tooltip: ""
+					Label: 奇点消耗的材料数
+				}
+
+				DisplayName: 模组配置
+
+				ForcedFilters: {
+					Tooltip: ""
+					Label: Forced Filters
+				}
+
+				Stalin: {
+					Label: ☭
+					Tooltip: 猜猜这是用来干什么的
+				}
+
+				ExtraContent: {
+					Label: Extra Content
+					Tooltip: Toggle Shtuxibus/Echdeath and their items
+				}
+
+				CalSwarmItems: {
+					Label: Calamity Swarms
+					Tooltip: ""
+				}
+
+				CalEnchantments: {
+					Label: Calamity Enchantments
+					Tooltip: WIP
+				}
+
+				CalSingularities: {
+					Label: Calamity Singularities
+					Tooltip: ""
+				}
+
+				CalCaughtNpcs: {
+					Label: Calamity Caught NPCs
+					Tooltip: ""
+				}
+
+				SoASwarmItems: {
+					Label: SoA Swarms
+					Tooltip: ""
+				}
+
+				SoAEnchantments: {
+					Label: SoA Enchantments
+					Tooltip: ""
+				}
+
+				SoASingularities: {
+					Label: SoA Singularities
+					Tooltip: WIP
+				}
+
+				SoACaughtNpcs: {
+					Label: SoA Caught NPCs
+					Tooltip: WIP
+				}
+
+				TorSwarmItems: {
+					Label: Thorium Swarms
+					Tooltip: ""
+				}
+
+				TorEnchantments: {
+					Label: Thorium Enchantments
+					Tooltip: ""
+				}
+
+				TorSingularities: {
+					Label: Thorium Singularities
+					Tooltip: WIP
+				}
+
+				TorCaughtNpcs: {
+					Label: Thorium Caught NPCs
+					Tooltip: WIP
+				}
+
+				RedSwarmItems: {
+					Label: Redemption Swarms
+					Tooltip: WIP
+				}
+
+				RedEnchantments: {
+					Label: Redemption Enchantments
+					Tooltip: WIP
+				}
+
+				RedSingularities: {
+					Label: Redemption Singularities
+					Tooltip: WIP
+				}
+
+				RedCaughtNpcs: {
+					Label: Redemption Caught NPCs
+					Tooltip: WIP
+				}
+
+				WorldEnterMessage: {
+					Label: 世界加载信息
+					Tooltip: ""
+				}
+
+				OldCalDlcBalance: {
+					Tooltip: ""
+					Label: 旧版灾厄dlc平衡
+				}
+
+				Boots: {
+					Label: 靴子
+					Tooltip: 重做靴子效果
+				}
+
+				Shields: {
+					Label: 盾牌
+					Tooltip: 重做盾牌效果
+				}
+			}
+		}
+
+		"Keybinds.Shtuxian Domination.DisplayName": Shtuxian Domination
+		DamageClasses.UnitedModdedThrower.DisplayName: United Modded Thrower
+	}
+}
