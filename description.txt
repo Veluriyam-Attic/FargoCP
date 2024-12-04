@@ -6,54 +6,6 @@
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2847120725&searchtext=]Fargo突变与魂石汉化 [/url] 
 
 [h1]†Ξ介绍Ξ†[/h1]
-本品为由玲珑汉化组&ROY&狐狸共同制作的汉化
-汉化进度：99%
-适配模组列表
-（标注*的为有硬编码内容还未解决，后续会更新）
-[code] 
-[olist]
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3248054405] More Fargo's Souls [/url] 
-灾厄瑟银Fargo魂石拓展
-    [*][url=https://steamcommunity.com/workshop/filedetails/?id=2567580488] Fargo's Enemy Modifiers [/url]
-Fargo的敌人前缀
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3044249615] Fargo's Souls DLC (Calamity) [/url] 
-灾厄FargoDLC
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838767066] Utilities for Fargo's Souls [/url] 
-实用Fargo魂石配置
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2926396335] Javyz' Fargo Music DLC [/url] 
-Javyz的Fargo音乐DLC
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3061125617] Fargos Expert Modifications [/url] 
-Fargo的专家配置
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3326463997] Fargo's Souls More Cross-mod (Unofficial Addon) [/url] 
-非官方Fargo魂多开衔接模组（魂灵、救赎、Consolaria）
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2565993369] Fargo's Testing Mod [/url] 
-Fargo测试模组
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567015462] Fargo's Hyper Mode [/url] 
-Fargo超级模式
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567016793] Fargo's OmniWield [/url] 
-Fargo背包物品生效
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567018576] Fargo's Equipable Inventory [/url] 
-Fargo背包饰品生效
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567152289] Fargo's Fallen Stars [/url] 
-Fargo落星
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567156295] Fargo's Fish Anything [/url] 
-Fargo钓上一切
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590054406] Fargo's Crafting Tree Generator [/url] 
-Fargo合成树导出
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590065264] Fargo's Banner Boost [/url] 
-Fargo针对性免疫
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2802867430] Fargo's Best of Both Worlds [/url] 
-Fargo最好的世界生成
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2823410160] Fargo's Rainbow Mod [/url] 
-Fargo彩虹世界
-[h1]This is a Chinese-translation Mod for Some Fargo's Mod [/h1]
-
-唉，你们多开玩家
-汉化质量差，请多多来群里反馈骂我
-
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2847120725&searchtext=]Fargo突变与魂石汉化 [/url] 
-
-[h1]†Ξ介绍Ξ†[/h1]
 本品为由玲珑汉化组和ROH共同制作的汉化
 汉化进度：99%
 适配模组列表
@@ -65,7 +17,7 @@ Fargo彩虹世界
     [*][url=https://steamcommunity.com/workshop/filedetails/?id=2567580488] Fargo's Enemy Modifiers [/url]
 Fargo的敌人前缀
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3044249615] Fargo's Souls DLC (Calamity) [/url] 
-Fargo灾厄DLC
+灾厄FargoDLC
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838767066] Utilities for Fargo's Souls [/url] 
 实用Fargo魂石配置
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2926396335] Javyz' Fargo Music DLC [/url] 
@@ -120,7 +72,7 @@ StarlightCat的Fargo魂石拓展
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3139796298] Satanist Mode [/url] 
 撒旦模式（短期内不会制作）
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3138681141] Masochist Mode EX [/url] 
-受虐EX模式（短期内不会制作）
+受虐EX模式（短期内不会制做）
     [*]纠正错误文本，增加新的Fargo系列翻译
 [/olist] 
 [/code] 
