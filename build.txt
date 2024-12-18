@@ -1,7 +1,7 @@
 displayName = Fargo系列的汉化合集（无突变与魂石）
-author = 虞悖&ROH
-version = 0.1.3
-sortAfter = DirtCraft,FargoAltMusicMod,FargoMoreSoulsCompat,FargoRarities,FargosExpertModifs,fargosoulstweaks,RainbowMod,PaperMarioBadgeMod,OmniWield,HyperMode,GodMode,FishAnything,YharimMutant,BannerBoost,Satanist,FargoEnemyModifiers,MasomodeEX,TooManySlots,LootBonus,CraftingTreeGenerator,StarHell,FargoSeeds
+author = 狐狸&虞悖&ROH&小西王
+version = 0.1.4
+sortAfter = DirtCraft,FargoAltMusicMod,FargoMoreSoulsCompat,FargoRarities,FargosExpertModifs,fargosoulstweaks,RainbowMod,PaperMarioBadgeMod,OmniWield,HyperMode,GodMode,FishAnything,YharimMutant,BannerBoost,Satanist,FargoEnemyModifiers,MasomodeEX,TooManySlots,LootBonus,CraftingTreeGenerator,StarHell,FargoSeeds,ssm
 translationMod = true
 side = Client
 hideCode = true
