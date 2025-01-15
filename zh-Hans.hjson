@@ -71,6 +71,396 @@ Mods: {
 			}
 
 			FargowiltasCrossmod: {
+				Content: {
+					Calamity: {
+						Items: {
+							Summons: {
+								AbandonedRemote: {
+									get_NPCName: {
+										1: {
+											OldString: Armored Digger
+											NewString: 装甲掘地虫
+										}
+									}
+								}
+
+								ABombInMyNation: {
+									get_NPCName: {
+										1: {
+											OldString: Plaguebringer Goliath
+											NewString: 瘟疫使者歌莉娅
+										}
+									}
+								}
+
+								AstrumCor: {
+									get_NPCName: {
+										1: {
+											OldString: Astrum Deus
+											NewString: 星神游龙
+										}
+									}
+								}
+
+								BirbPheromones: {
+									get_NPCName: {
+										1: {
+											OldString: Dragonfolly
+											NewString: 痴愚金龙
+										}
+									}
+								}
+
+								BlightedEye: {
+									get_NPCName: {
+										1: {
+											OldString: Calamitas Clone
+											NewString: 灾厄之影
+										}
+									}
+								}
+
+								BloodyWorm: {
+									get_NPCName: {
+										1: {
+											OldString: Old Duke
+											NewString: 硫海遗爵
+										}
+									}
+								}
+
+								ChunkyStardust: {
+									get_NPCName: {
+										1: {
+											OldString: Astrum Aureus
+											NewString: 白金星舰
+										}
+									}
+								}
+
+								ClamPearl: {
+									get_NPCName: {
+										1: {
+											OldString: Giant Clam
+											NewString: 巨像蛤
+										}
+									}
+								}
+
+								ColossalTentacle: {
+									get_NPCName: {
+										1: {
+											OldString: Colossal Squid
+											NewString: 巨像乌贼
+										}
+									}
+								}
+
+								CryingKey: {
+									get_NPCName: {
+										1: {
+											OldString: Cryogen
+											NewString: 极地之灵
+										}
+									}
+								}
+
+								DeepseaProteinShake: {
+									get_NPCName: {
+										1: {
+											OldString: Reaper Shark
+											NewString: 猎魂鲨
+										}
+									}
+								}
+
+								DefiledCore: {
+									get_NPCName: {
+										1: {
+											OldString: Providence
+											NewString: 普罗维登斯
+										}
+									}
+								}
+
+								DefiledShard: {
+									get_NPCName: {
+										1: {
+											OldString: Profaned Guardians
+											NewString: 亵渎守卫
+										}
+									}
+								}
+
+								DragonEgg: {
+									get_NPCName: {
+										1: {
+											OldString: Yharon
+											NewString: 犽戎
+										}
+									}
+								}
+
+								EyeofExtinction: {
+									get_NPCName: {
+										1: {
+											OldString: Supreme Calamitas
+											NewString: 至尊灾厄
+										}
+									}
+								}
+
+								FriedDoll: {
+									get_NPCName: {
+										1: {
+											OldString: Brimstone Elemental
+											NewString: 硫磺火元素
+										}
+									}
+								}
+
+								HiveTumor: {
+									get_NPCName: {
+										1: {
+											OldString: Hive Mind
+											NewString: 腐巢意志
+										}
+									}
+								}
+
+								LetterofKos: {
+									get_NPCName: {
+										1: {
+											OldString: Signus
+											NewString: 西格纳斯
+										}
+									}
+								}
+
+								MaulerSkull: {
+									get_NPCName: {
+										1: {
+											OldString: Mauler
+											NewString: 渊海狂鲨
+										}
+									}
+								}
+
+								MedallionoftheDesert: {
+									get_NPCName: {
+										1: {
+											OldString: Desert Scourge
+											NewString: 荒漠灾虫
+										}
+									}
+								}
+
+								MurkySludge: {
+									get_NPCName: {
+										1: {
+											OldString: Slime God
+											NewString: 史莱姆之神
+										}
+									}
+								}
+
+								NoisyWhistle: {
+									get_NPCName: {
+										1: {
+											OldString: Ravager
+											NewString: 毁灭魔像
+										}
+									}
+								}
+
+								NuclearChunk: {
+									get_NPCName: {
+										1: {
+											OldString: Nuclear Terror
+											NewString: 辐核骇兽
+										}
+									}
+								}
+
+								OphiocordycipitaceaeSprout: {
+									get_NPCName: {
+										1: {
+											OldString: Crabulon
+											NewString: 菌生蟹
+										}
+									}
+								}
+
+								PlaguedWalkieTalkie: {
+									get_NPCName: {
+										1: {
+											OldString: Plaguebringer
+											NewString: 瘟疫使者
+										}
+									}
+								}
+
+								PolterplasmicBeacon: {
+									get_NPCName: {
+										1: {
+											OldString: Polterghast
+											NewString: 噬魂幽花
+										}
+									}
+								}
+
+								PortableCodebreaker: {
+									get_NPCName: {
+										1: {
+											OldString: Draedon
+											NewString: 嘉登
+										}
+									}
+								}
+
+								QuakeIdol: {
+									get_NPCName: {
+										1: {
+											OldString: Earth Elemental
+											NewString: 大地元素
+										}
+									}
+								}
+
+								RedStainedWormFood: {
+									get_NPCName: {
+										1: {
+											OldString: Perforator Hive
+											NewString: 血肉宿主
+										}
+									}
+								}
+
+								RiftofKos: {
+									get_NPCName: {
+										1: {
+											OldString: Ceaseless Void
+											NewString: 无尽虚空
+										}
+									}
+								}
+
+								SeeFood: {
+									get_NPCName: {
+										1: {
+											OldString: Aquatic Scourge
+											NewString: 渊海灾虫
+										}
+									}
+								}
+
+								SirensPearl: {
+									get_NPCName: {
+										1: {
+											OldString: Anahita and the Leviathan
+											NewString: 阿娜希塔和利维坦
+										}
+									}
+								}
+
+								SomeKindofSpaceWorm: {
+									get_NPCName: {
+										1: {
+											OldString: Devourer of Gods
+											NewString: 神明吞噬者
+										}
+									}
+								}
+
+								StormIdol: {
+									get_NPCName: {
+										1: {
+											OldString: Cloud Elemental
+											NewString: 雨云元素
+										}
+									}
+								}
+
+								SulphurBearTrap: {
+									get_NPCName: {
+										1: {
+											OldString: Cragmaw Mire
+											NewString: 峭咽潭
+										}
+									}
+								}
+
+								WormFoodofKos: {
+									get_NPCName: {
+										1: {
+											OldString: Storm Weaver
+											NewString: 风暴编织者
+										}
+									}
+								}
+
+								WyrmTablet: {
+									get_NPCName: {
+										1: {
+											OldString: Eidolon Wyrm
+											NewString: 幻海妖龙
+										}
+									}
+								}
+							}
+						}
+					}
+
+					Common: {
+						ModSwapperUIState: {
+							OnInitialize: {
+								1: {
+									OldString: Switch Mod
+									NewString: 切换Mod
+								}
+							}
+						}
+
+						Bosses: {
+							Mutant: {
+								MutantDLC: {
+									<PreAI>g__Phase2Check|23_1: {
+										1: {
+											OldString: Time to stop playing around.
+											NewString: 是时候停止嬉戏了
+										}
+									}
+
+									<PreAI>g__SpawnDoG|23_20: {
+										1: {
+											OldString: The world is trembling..
+											NewString: 大地在震颤......
+										}
+									}
+								}
+							}
+						}
+
+						ModSwapperUISystem+<>c: {
+							<ModifyInterfaceLayers>b__6_0: {
+								1: {
+									OldString: Vanilla: NPC / Sign Dialog
+									NewString: Vanilla: NPC / Sign Dialog
+								}
+							}
+						}
+
+						ModSwapperUIState+<>c: {
+							<OnInitialize>b__0_0: {
+								1: {
+									OldString: Vanilla
+									NewString: 原版
+								}
+							}
+						}
+					}
+				}
+
 				Core: {
 					Common: {
 						Globals: {
@@ -78,7 +468,7 @@ Mods: {
 								AddCalamityShop: {
 									1: {
 										OldString: Calamity
-										NewString: Calamity
+										NewString: 灾厄
 									}
 
 									2: {
@@ -126,391 +516,8 @@ Mods: {
 					}
 
 					Calamity: {
-						EternityDeathDifficulty: {
-							get_Texture: {
-								1: {
-									// OldString: FargowiltasCrossmod/Assets/EternityDeathIcon
-									// NewString: FargowiltasCrossmod/Assets/EternityDeathIcon
-								}
-							}
-
-							get_ExpandedDescription: {
-								1: {
-									// OldString: Mods.FargowiltasCrossmod.EternityDeathDifficulty.ExpandedDescription
-									// NewString: Mods.FargowiltasCrossmod.EternityDeathDifficulty.ExpandedDescription
-								}
-							}
-
-							FavoredDifficultyAtTier: {
-								1: {
-									OldString: Death
-									NewString: Death
-								}
-							}
-						}
-
-						EternityRevDifficulty: {
-							get_Texture: {
-								1: {
-									// OldString: FargowiltasCrossmod/Assets/EternityRevIcon
-									// NewString: FargowiltasCrossmod/Assets/EternityRevIcon
-								}
-							}
-
-							get_ExpandedDescription: {
-								1: {
-									// OldString: Mods.FargowiltasCrossmod.EternityRevDifficulty.ExpandedDescription
-									// NewString: Mods.FargowiltasCrossmod.EternityRevDifficulty.ExpandedDescription
-								}
-							}
-
-							FavoredDifficultyAtTier: {
-								1: {
-									OldString: Death
-									NewString: Death
-								}
-							}
-						}
-
 						Systems: {
-							CalDLCCompatibilityMisc: {
-								PostSetupContent: {
-									1: {
-										// OldString: Fargowiltas
-										// NewString: Fargowiltas
-									}
-
-									2: {
-										// OldString: AddSummon
-										// NewString: AddSummon
-									}
-
-									3: {
-										// OldString: FargowiltasCrossmod
-										// NewString: FargowiltasCrossmod
-									}
-
-									4: {
-										// OldString: MedallionoftheDesert
-										// NewString: MedallionoftheDesert
-									}
-
-									5: {
-										// OldString: OphiocordycipitaceaeSprout
-										// NewString: OphiocordycipitaceaeSprout
-									}
-
-									6: {
-										// OldString: HiveTumor
-										// NewString: HiveTumor
-									}
-
-									7: {
-										// OldString: RedStainedWormFood
-										// NewString: RedStainedWormFood
-									}
-
-									8: {
-										// OldString: MurkySludge
-										// NewString: MurkySludge
-									}
-
-									9: {
-										// OldString: CryingKey
-										// NewString: CryingKey
-									}
-
-									10: {
-										// OldString: SeeFood
-										// NewString: SeeFood
-									}
-
-									11: {
-										// OldString: FriedDoll
-										// NewString: FriedDoll
-									}
-
-									12: {
-										// OldString: BlightedEye
-										// NewString: BlightedEye
-									}
-
-									13: {
-										// OldString: SirensPearl
-										// NewString: SirensPearl
-									}
-
-									14: {
-										// OldString: ChunkyStardust
-										// NewString: ChunkyStardust
-									}
-
-									15: {
-										// OldString: ABombInMyNation
-										// NewString: ABombInMyNation
-									}
-
-									16: {
-										// OldString: NoisyWhistle
-										// NewString: NoisyWhistle
-									}
-
-									17: {
-										// OldString: AstrumCor
-										// NewString: AstrumCor
-									}
-
-									18: {
-										// OldString: BirbPheromones
-										// NewString: BirbPheromones
-									}
-
-									19: {
-										// OldString: DefiledShard
-										// NewString: DefiledShard
-									}
-
-									20: {
-										// OldString: DefiledCore
-										// NewString: DefiledCore
-									}
-
-									21: {
-										// OldString: RiftofKos
-										// NewString: RiftofKos
-									}
-
-									22: {
-										// OldString: WormFoodofKos
-										// NewString: WormFoodofKos
-									}
-
-									23: {
-										// OldString: LetterofKos
-										// NewString: LetterofKos
-									}
-
-									24: {
-										// OldString: PolterplasmicBeacon
-										// NewString: PolterplasmicBeacon
-									}
-
-									25: {
-										// OldString: BloodyWorm
-										// NewString: BloodyWorm
-									}
-
-									26: {
-										// OldString: SomeKindofSpaceWorm
-										// NewString: SomeKindofSpaceWorm
-									}
-
-									27: {
-										// OldString: DragonEgg
-										// NewString: DragonEgg
-									}
-
-									28: {
-										// OldString: PortableCodebreaker
-										// NewString: PortableCodebreaker
-									}
-
-									29: {
-										// OldString: EyeofExtinction
-										// NewString: EyeofExtinction
-									}
-
-									30: {
-										// OldString: RegisterModCooldowns
-										// NewString: RegisterModCooldowns
-									}
-
-									31: {
-										// OldString: AddDifficultyToUI
-										// NewString: AddDifficultyToUI
-									}
-
-									32: {
-										// OldString: DebuffIDs
-										// NewString: DebuffIDs
-									}
-								}
-							}
-
-							CalDLCDetours: {
-								SoulTogglerOnActivate_Detour: {
-									1: {
-										// OldString: Mods.FargowiltasCrossmod.UI.ToggledWithCal
-										// NewString: Mods.FargowiltasCrossmod.UI.ToggledWithCal
-									}
-
-									2: {
-										/* OldString:
-											'''
-											]
-											[c/787878:
-											''' */
-										/* NewString:
-											'''
-											]
-											[c/787878:
-											''' */
-									}
-								}
-							}
-
-							CalDLCFountainDetours: {
-								AstralInfectionActive_Detour: {
-									1: {
-										// OldString: CalamityMod/AstralWater
-										// NewString: CalamityMod/AstralWater
-									}
-								}
-
-								SulphurousSeaActive_Detour: {
-									1: {
-										// OldString: CalamityMod/SulphuricWater
-										// NewString: CalamityMod/SulphuricWater
-									}
-
-									2: {
-										// OldString: CalamityMod/PissWater
-										// NewString: CalamityMod/PissWater
-									}
-								}
-
-								SunkenSeaActive_Detour: {
-									1: {
-										// OldString: CalamityMod/SunkenSeaWater
-										// NewString: CalamityMod/SunkenSeaWater
-									}
-								}
-							}
-
-							CalDLCWorldSavingSystem: {
-								SaveWorldData: {
-									1: {
-										// OldString: EternityRevActive
-										// NewString: EternityRevActive
-									}
-
-									2: {
-										// OldString: EternityDeathActive
-										// NewString: EternityDeathActive
-									}
-
-									3: {
-										// OldString: PermafrostPhaseSeen
-										// NewString: PermafrostPhaseSeen
-									}
-
-									4: {
-										// OldString: downedMiniPlaguebringer
-										// NewString: downedMiniPlaguebringer
-									}
-
-									5: {
-										// OldString: downedReaperShark
-										// NewString: downedReaperShark
-									}
-
-									6: {
-										// OldString: downedColossalSquid
-										// NewString: downedColossalSquid
-									}
-
-									7: {
-										// OldString: downedEidolonWyrm
-										// NewString: downedEidolonWyrm
-									}
-
-									8: {
-										// OldString: downedCloudElemental
-										// NewString: downedCloudElemental
-									}
-
-									9: {
-										// OldString: downedEarthElemental
-										// NewString: downedEarthElemental
-									}
-
-									10: {
-										// OldString: downedArmoredDigger
-										// NewString: downedArmoredDigger
-									}
-
-									11: {
-										// OldString: downed
-										// NewString: downed
-									}
-								}
-
-								LoadWorldData: {
-									1: {
-										// OldString: downed
-										// NewString: downed
-									}
-
-									2: {
-										// OldString: EternityRevActive
-										// NewString: EternityRevActive
-									}
-
-									3: {
-										// OldString: EternityDeathActive
-										// NewString: EternityDeathActive
-									}
-
-									4: {
-										// OldString: PermafrostPhaseSeen
-										// NewString: PermafrostPhaseSeen
-									}
-
-									5: {
-										// OldString: downedMiniPlaguebringer
-										// NewString: downedMiniPlaguebringer
-									}
-
-									6: {
-										// OldString: downedReaperShark
-										// NewString: downedReaperShark
-									}
-
-									7: {
-										// OldString: downedColossalSquid
-										// NewString: downedColossalSquid
-									}
-
-									8: {
-										// OldString: downedEidolonWyrm
-										// NewString: downedEidolonWyrm
-									}
-
-									9: {
-										// OldString: downedCloudElemental
-										// NewString: downedCloudElemental
-									}
-
-									10: {
-										// OldString: downedEarthElemental
-										// NewString: downedEarthElemental
-									}
-
-									11: {
-										// OldString: downedArmoredDigger
-										// NewString: downedArmoredDigger
-									}
-								}
-							}
-
 							CalDLCWorldUpdatingSystem: {
-								PreUpdateWorld: {
-									1: {
-										// OldString: EternityVanillaBossBehaviour
-										// NewString: EternityVanillaBossBehaviour
-									}
-								}
-
 								PostUpdateWorld: {
 									1: {
 										OldString: "[c/00ffee:Eternity Mode] disabled by [c/9c0000:Infernum Mode]."
@@ -520,325 +527,10 @@ Mods: {
 							}
 						}
 
-						ModPlayers: {
-							CalDLCAddonPlayer: {
-								ProcessTriggers: {
-									1: {
-										// OldString: DebuffInstallKey
-										// NewString: DebuffInstallKey
-									}
-
-									2: {
-										// OldString: SpecialDashKey
-										// NewString: SpecialDashKey
-									}
-								}
-							}
-
-							CalDLCPlayer: {
-								PostUpdateBuffs: {
-									1: {
-										// OldString: 1.6.2.1
-										// NewString: 1.6.2.1
-									}
-								}
-							}
-						}
-
 						Globals: {
-							CalDLCItemBalance: {
-								ItemBalance_List`1_EModeChange_String_Int32_String: {
-									1: {
-										// OldString: Mods.FargowiltasSouls.EModeBalance.
-										// NewString: Mods.FargowiltasSouls.EModeBalance.
-									}
-
-									2: {
-										// OldString: Mods.
-										// NewString: Mods.
-									}
-
-									3: {
-										// OldString: .EModeBalance.
-										// NewString: .EModeBalance.
-									}
-								}
-
-								ItemBalance_List`1_EModeChange_String_String_String: {
-									1: {
-										// OldString: Mods.
-										// NewString: Mods.
-									}
-
-									2: {
-										// OldString: .EModeBalance.
-										// NewString: .EModeBalance.
-									}
-
-									3: {
-										// OldString: " "
-										// NewString: " "
-									}
-								}
-
-								ModifyTooltips: {
-									1: {
-										OldString: RodofDiscord
-										NewString: RodofDiscord
-									}
-
-									2: {
-										OldString: FargowiltasSouls
-										NewString: FargowiltasSouls
-									}
-
-									3: {
-										OldString: Laudanum
-										NewString: Laudanum
-									}
-
-									4: {
-										OldString: FargowiltasCrossmod
-										NewString: FargowiltasCrossmod
-									}
-
-									5: {
-										OldString: DamageUp
-										NewString: DamageUp
-									}
-
-									6: {
-										OldString: "[c/00A36C:Cross-mod Balance: ]"
-										NewString: "[c/00A36C:联动平衡调整：]"
-									}
-
-									7: {
-										OldString: "Damage increased by "
-										NewString: 伤害增加
-									}
-
-									8: {
-										OldString: %.
-										NewString: %.
-									}
-
-									9: {
-										OldString: DamageDown
-										NewString: DamageDown
-									}
-
-									10: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]"
-										NewString: "[c/FF0000:联动平衡调整：]"
-									}
-
-									11: {
-										OldString: "Damage decreased by "
-										NewString: 伤害降低
-									}
-
-									12: {
-										OldString: BalanceDown
-										NewString: BalanceDown
-									}
-
-									13: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]Damage decreased by 50% in Pre-Hardmode."
-										NewString: "[c/FF0000:联动平衡调整：]困难模式前伤害降低50%."
-									}
-
-									14: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]Massively reduced damage with any minions active"
-										NewString: "[c/FF0000:联动平衡调整：]大幅降低仆从伤害"
-									}
-
-									15: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]Less effective on melee weapons"
-										NewString: "[c/FF0000:联动平衡调整：]对真近战武器加成减少"
-									}
-
-									16: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]Less effective on rogue weapons"
-										NewString: "[c/FF0000:联动平衡调整：]对盗贼武器加成减少"
-									}
-
-									17: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]Reduced effectiveness"
-										NewString: "[c/FF0000:联动平衡调整：]效果削弱"
-									}
-
-									18: {
-										OldString:
-											'''
-											[c/FF0000:Cross-mod Balance: ]Split effect disabled with all Calamity projectiles, due to a massive amount of unintended interactions/bugs
-											Will be fixed in the future
-											'''
-										NewString:
-											'''
-											[c/FF0000:联动平衡调整：]由于大量意外的交互/bugs,弹幕分裂效果对所有灾厄弹幕不起作用
-											将会在未来修复
-											'''
-									}
-
-									19: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]Effect disabled while Tin Enchantment effect is active"
-										NewString: "[c/FF0000:联动平衡调整：]锡魔石生效时失效"
-									}
-
-									20: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]Does not inflict Oiled"
-										NewString: "[c/FF0000:联动平衡调整：]不会造成涂油减益"
-									}
-
-									21: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]Flight stats decreased when fighting non-Souls Mod bosses"
-										NewString: "[c/FF0000:联动平衡调整：]当与非Fargo魂石的boss战斗时，减少飞行属性"
-									}
-
-									22: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]Flight stats and wing time decreased when fighting non-Souls Mod bosses"
-										NewString: "[c/FF0000:联动平衡调整：]当与非Fargo魂石的boss战斗时，减少飞行属性和飞行时间"
-									}
-
-									23: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]Stat buffs decreased"
-										NewString: "[c/FF0000:联动平衡调整：]减少提供的属性加成"
-									}
-
-									24: {
-										OldString: "[c/FF0000:Cross-mod Balance: ]Accumulated damage capped at 500.000"
-										NewString: "[c/FF0000:联动平衡调整: ]累计伤害上限为500"
-									}
-								}
-							}
-
-							CalDLCItemChanges: {
-								FountainTooltip: {
-									1: {
-										OldString: Tooltip0
-										NewString: Tooltip0
-									}
-
-									2: {
-										OldString: "[i:909] [c/AAAAAA:"
-										NewString: "[i:909] [c/AAAAAA:"
-									}
-
-									3: {
-										OldString: Fountain
-										NewString: 喷泉
-									}
-
-									4: {
-										OldString: "]"
-										NewString: "]"
-									}
-								}
-
-								ModifyTooltips: {
-									1: {
-										OldString:
-											'''
-
-											Not consumable
-											'''
-										NewString:
-											'''
-
-											Not consumable
-											'''
-									}
-
-									2: {
-										OldString: ""
-										NewString: ""
-									}
-
-									3: {
-										OldString: Not consumable
-										NewString: Not consumable
-									}
-
-									4: {
-										OldString: "30"
-										NewString: "30"
-									}
-
-									5: {
-										OldString: sqrl
-										NewString: sqrl
-									}
-
-									6: {
-										OldString: "[c/AAAAAA:Sold by Squirrel]"
-										NewString: "[c/AAAAAA:售卖于 高顶礼帽松鼠]"
-									}
-
-									7: {
-										OldString: MasochistDisabled
-										NewString: MasochistDisabled
-									}
-
-									8: {
-										OldString: "[c/FF0000:Calamity Crossmod Support:] Activate Eternity with Calamity's difficulty selector instead!"
-										NewString: "[c/FF0000:灾厄联动支持:] 使用灾厄的难度指示器来启用永恒模式!"
-									}
-
-									9: {
-										OldString: PostMutant
-										NewString: PostMutant
-									}
-
-									10: {
-										OldString: "[c/FF0000:Calamity Crossmod Support:] Can only be used after defeating the Mutant"
-										NewString: "[c/FF0000:灾厄联动支持:] 只能在击败突变体后使用"
-									}
-
-									11: {
-										OldString: ToggleDisabledByDefault
-										NewString: ToggleDisabledByDefault
-									}
-
-									12: {
-										OldString: "[c/FF0000:Calamity Crossmod Support:] Toggle disabled by default"
-										NewString: "[c/FF0000:灾厄联动支持:] 功能默认为关闭状态"
-									}
-
-									13: {
-										OldString: OnionPactUpgrade
-										NewString: OnionPactUpgrade
-									}
-
-									14: {
-										OldString: "[c/FF0000:"
-										NewString: "[c/FF0000:"
-									}
-
-									15: {
-										OldString: "Cross-mod Balance: "
-										NewString: 联动平衡调整：
-									}
-
-									16: {
-										OldString: "]Is now an upgrade to [i:"
-										NewString: "]现在已经升级到 [i:"
-									}
-
-									17: {
-										OldString: "]Mutant's Pact, that allows any accessory in the extra slot."
-										NewString: "]允许将任何饰品放入突变体契约提供的魔石、力或魂的栏位."
-									}
-								}
-							}
-
 							CalDLCNPCChanges: {
 								ModifyNPCLoot: {
 									1: {
-										OldString: ""
-										NewString: ""
-									}
-
-									2: {
 										OldString: In Death Mode
 										NewString: 在死亡模式下
 									}
@@ -882,176 +574,6 @@ Mods: {
 									4: {
 										OldString: Kill a Great Sand Shark
 										NewString: 击败一个旱海狂鲨
-									}
-								}
-							}
-
-							CalDLCRecipeChanges+<>c: {
-								<AddRecipeGroups>b__2_0: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Gilded Dagger"
-										// NewString: " Gilded Dagger"
-									}
-								}
-
-								<AddRecipeGroups>b__2_1: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Evil Bar"
-										// NewString: " Evil Bar"
-									}
-								}
-
-								<AddRecipeGroups>b__2_2: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Reaver Headpiece"
-										// NewString: " Reaver Headpiece"
-									}
-								}
-
-								<AddRecipeGroups>b__2_3: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Daedalus Headpiece"
-										// NewString: " Daedalus Headpiece"
-									}
-								}
-
-								<AddRecipeGroups>b__2_4: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Bloodflare Headpiece"
-										// NewString: " Bloodflare Headpiece"
-									}
-								}
-
-								<AddRecipeGroups>b__2_5: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Victide Headpiece"
-										// NewString: " Victide Headpiece"
-									}
-								}
-
-								<AddRecipeGroups>b__2_6: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Aerospec Headpiece"
-										// NewString: " Aerospec Headpiece"
-									}
-								}
-
-								<AddRecipeGroups>b__2_7: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Statigel Headpiece"
-										// NewString: " Statigel Headpiece"
-									}
-								}
-
-								<AddRecipeGroups>b__2_8: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Hydrothermic Headpiece"
-										// NewString: " Hydrothermic Headpiece"
-									}
-								}
-
-								<AddRecipeGroups>b__2_9: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " God Slayer Headpiece"
-										// NewString: " God Slayer Headpiece"
-									}
-								}
-
-								<AddRecipeGroups>b__2_10: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Tarragon Headpiece"
-										// NewString: " Tarragon Headpiece"
-									}
-								}
-
-								<AddRecipeGroups>b__2_11: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Silva Headpiece"
-										// NewString: " Silva Headpiece"
-									}
-								}
-
-								<AddRecipeGroups>b__2_12: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Auric Headpiece"
-										// NewString: " Auric Headpiece"
-									}
-								}
-
-								<AddRecipeGroups>b__2_13: {
-									1: {
-										// OldString: LegacyMisc.37
-										// NewString: LegacyMisc.37
-									}
-
-									2: {
-										// OldString: " Railgun"
-										// NewString: " Railgun"
 									}
 								}
 							}

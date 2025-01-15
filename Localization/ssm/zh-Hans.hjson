@@ -2339,7 +2339,7 @@ Mods: {
 
 			OverloadAureus: {
 				DisplayName: 星辉库里南碎片
-				Tooltip: "“老登爆金币了”"
+				Tooltip: “老登爆金币了”
 			}
 
 			OverloadBirb: {
@@ -2419,22 +2419,22 @@ Mods: {
 
 			OverloadSlimeGod: {
 				DisplayName: 过载²淤泥
-				Tooltip: "“过载的过载淤泥”"
+				Tooltip: “过载的过载淤泥”
 			}
 
 			OverloadWaifu: {
 				DisplayName: 娘化至尊灾厄眼
-				Tooltip: "“年龄：1501~至今”"
+				Tooltip: “年龄：1501~至今”
 			}
 
 			OverloadWaifuClone: {
 				DisplayName: 一个低级的至尊灾厄眼克隆体小将
-				Tooltip: "“掉300个灾厄尘够吗”"
+				Tooltip: “掉300个灾厄尘够吗”
 			}
 
 			OverloadYharon: {
 				DisplayName: 圣佑烬昭鸡蛋
-				Tooltip: "“鸡蛋里面为什么能孵出来鸭绒”"
+				Tooltip: “鸡蛋里面为什么能孵出来鸭绒”
 			}
 
 			ShtuxianEnchant: {
@@ -2563,6 +2563,55 @@ Mods: {
 						“你仿佛感受到了它散出的能量”
 					'''
 			}
+
+			CorruptedWarShield: {
+				/* Tooltip:
+					'''
+					Damage taken reduced by 5%
+					You steadily generate a 20 life shield
+					While standing still, gain 5 defense, 2 life recovery, and knockback immunity
+					''' */
+				// DisplayName: Corrupted War Shield
+			}
+
+			GtTETFinal: {
+				/* Tooltip:
+					'''
+					Rogue projectiles create nanoblades as they travel
+					Stealth strikes summon nanobeams and sparks on enemy hits
+					Stealth strikes have +15 armor penetration, deal 5% more damage, and heal for 2 HP
+					25% increased rogue damage and 25% increased rogue velocity
+					Landing a stealth strike grants a 12% crit bonus to non-stealth strikes
+					This crit bonus decays over 5 seconds
+					25% of your rogue damage is duplicated 
+					''' */
+				// DisplayName: Guide to Expert Throwing : Final Volume
+			}
+
+			DemonShadeEnchant: {
+				// DisplayName: Demon Shade Enchant
+				// Tooltip: ""
+			}
+
+			GeigerCounter: {
+				// DisplayName: Geiger Counter
+				// Tooltip: ""
+			}
+
+			RadiationDebug: {
+				// DisplayName: Radiation Debug
+				// Tooltip: ""
+			}
+
+			JourneyCapacitor: {
+				// DisplayName: Journey Capacitor
+				// Tooltip: ""
+			}
+
+			ShtuxiumCapacitor: {
+				// DisplayName: Shtuxium Capacitor
+				// Tooltip: ""
+			}
 		}
 
 		Buffs: {
@@ -2654,6 +2703,11 @@ Mods: {
 			DotBuff: {
 				Description: 你的碰撞体积变为了一个像素点
 				DisplayName: 极致一维化
+			}
+
+			YharonBuff: {
+				// DisplayName: Yharon Buff
+				// Description: Little Yharon is fighting for you.
 			}
 		}
 
@@ -2812,7 +2866,7 @@ Mods: {
 
 		Toggler: {
 			InfernoLordsFocusEffect: 地狱领主的聚焦项链
-			LihzahrdsTailEffect: 神庙蜥蜴之尾
+			// LihzahrdTailEffect: Lihzahrd’s tail
 			PocketFusionGeneratorEffect: 小型聚变发生器
 			SerpentShieldEffect: 蛇之盾
 			MotDEEffect: 噬梦之兆
@@ -2984,6 +3038,8 @@ Mods: {
 			ChtuxlagorRayTelegraph.DisplayName: Chtuxlagor Ray Telegraph
 			ChtuxlagorDeathraySmall.DisplayName: Chtuxlagor Deathray Small
 			ChtuxlagorDeathrayMark.DisplayName: Chtuxlagor Deathray Mark
+			// YharonFireballMinion.DisplayName: Yharon Fireball Minion
+			// YharonMinion.DisplayName: Yharon Minion
 		}
 
 		Biomes: {
@@ -3140,7 +3196,14 @@ Mods: {
 			}
 		}
 
-		"Keybinds.Shtuxian Domination.DisplayName": Shtuxian Domination
-		DamageClasses.UnitedModdedThrower.DisplayName: United Modded Thrower
+		Keybinds: {
+			"Shtuxian Domination.DisplayName": Shtuxian Domination
+			// "Dot Mount.DisplayName": Dot  Mount
+		}
+
+		DamageClasses: {
+			UnitedModdedThrower.DisplayName: United Modded Thrower
+			// ShtuxaianDamage.DisplayName: Shtuxaian Damage
+		}
 	}
 }

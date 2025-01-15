@@ -777,15 +777,48 @@ Mods: {
 			Mollusk: 更高的伤害和更长的无敌帧
 		}
 
-		// Cooldowns.DaedalusPlatformCooldown: Daedalus Platform
+		Cooldowns.DaedalusPlatformCooldown: 嘉登平台
 
 		ExpandedTooltips: {
-			// FountainAstral: Forces surrounding biome state to Astral Infection upon activation
-			// FountainCrags: Forces surrounding biome state to Brimstone Crags upon activation
-			// FountainSulphur: Forces surrounding biome state to Sulphurous Sea upon activation
-			// FountainSunken: Forces surrounding biome state to Sunken Sea upon activation
+			FountainAstral: 激活后将周围的生物群落环境变为星辉瘟疫 (仅在困难模式下)
+			FountainCrags: 激活后将周围的生物群落环境变为硫火之崖
+			FountainSulphur: 激活后将周围的生物群落环境变为硫磺海
+			FountainSunken: 激活后将周围的生物群落环境变为沉沦之海
+			MasoModeDisabled: "[c/FF0000:灾厄联动支持:] 使用灾厄的难度指示器来启用永恒模式!"
+			UsablePostMutant: "[c/FF0000:灾厄联动支持:] 只能在击败突变体后使用"
+			DisabledByDefault: "[c/FF0000:灾厄联动支持:] 功能默认为关闭状态"
 		}
 
-		EModeBalance.Laudanum: 减半大多数增益效果
+		EModeBalance: {
+			CrossBalanceGeneric: 联动平衡调整：
+			DamageUpGeneric: 伤害增加{0}%
+			DamageDownGeneric: 伤害减少{0}%
+			MagicDagger: 困难模式前伤害降低50%
+			ProfanedCrystal: 大幅降低仆从伤害
+			TungstenEnch: 对真近战武器加成减少
+			MythrilEnch: 对盗贼武器加成减少
+			OrichalcumEnch: 效果削弱
+			AdamantiteEnch:
+				'''
+				由于大量意外的交互/bugs,弹幕分裂效果对所有灾厄弹幕不起作用
+				将会在未来修复
+				'''
+			Daawnlight: 锡魔石生效时失效
+			SlimyShield: 不会造成涂油减益
+			FlightMastery: 当与非Fargo魂石的boss战斗时，减少飞行属性
+			LifeForce: 当与非Fargo魂石的boss战斗时，减少飞行属性和飞行时间
+			OnionPackUpgrade: 现在已经升级到[i:FargowiltasSouls/MutantsPact]允许将任何饰品放入突变体契约提供的魔石、力或魂的栏位
+			Laudanum: 减半大多数增益效果
+			HardmodeSwords: 减少提供的属性加成
+			CalEnch: 累计伤害上限为500
+		}
+
+		RecipeGroups: {
+			GildedDagger: 镀金匕首
+			EvilBar: 邪恶矿锭
+			VictideHelmet: 任意胜潮头盔部件
+			AerospecHelmet: 任意天蓝头盔部件
+			StatigelHelmet: 任意斯塔提斯头盔部件
+		}
 	}
 }
