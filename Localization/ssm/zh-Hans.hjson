@@ -2565,32 +2565,32 @@ Mods: {
 			}
 
 			CorruptedWarShield: {
-				/* Tooltip:
+				Tooltip:
 					'''
-					Damage taken reduced by 5%
-					You steadily generate a 20 life shield
-					While standing still, gain 5 defense, 2 life recovery, and knockback immunity
-					''' */
-				// DisplayName: Corrupted War Shield
+					受到的伤害降低5%
+					你会持续生成20点的生命护盾
+					站立不动时获得5点防御和2点生命恢复并免疫击退
+					'''
+				DisplayName: 腐朽战盾
 			}
 
 			GtTETFinal: {
-				/* Tooltip:
+				Tooltip:
 					'''
-					Rogue projectiles create nanoblades as they travel
-					Stealth strikes summon nanobeams and sparks on enemy hits
-					Stealth strikes have +15 armor penetration, deal 5% more damage, and heal for 2 HP
-					25% increased rogue damage and 25% increased rogue velocity
-					Landing a stealth strike grants a 12% crit bonus to non-stealth strikes
-					This crit bonus decays over 5 seconds
-					25% of your rogue damage is duplicated 
-					''' */
-				// DisplayName: Guide to Expert Throwing : Final Volume
+					盗贼武器的弹幕会在其飞行轨迹上留下纳米刀刃
+					潜伏攻击在击中敌人时会释放纳米光束和火花
+					潜伏攻击会附带15护甲穿透、额外造成5%伤害并为你回复2点生命值
+					增加25%盗贼伤害和25%盗贼弹幕速度
+					执行潜伏攻击后使非潜伏攻击获得12%暴击率加成
+					刺暴击加成会在5秒内衰减
+					复制你25%的盗贼伤害 
+					'''
+				DisplayName: 投手大师指南：终卷
 			}
 
 			DemonShadeEnchant: {
-				// DisplayName: Demon Shade Enchant
-				// Tooltip: ""
+				DisplayName: 魔影魔石
+				Tooltip: ""
 			}
 
 			GeigerCounter: {
@@ -2604,13 +2604,13 @@ Mods: {
 			}
 
 			JourneyCapacitor: {
-				// DisplayName: Journey Capacitor
-				// Tooltip: ""
+				DisplayName: 旅途电容
+				Tooltip: ""
 			}
 
 			ShtuxiumCapacitor: {
-				// DisplayName: Shtuxium Capacitor
-				// Tooltip: ""
+				DisplayName: 星光电容
+				Tooltip: ""
 			}
 		}
 
