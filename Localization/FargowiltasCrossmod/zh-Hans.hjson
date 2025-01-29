@@ -581,6 +581,7 @@ Mods: {
 			LargePerforatorHead.DisplayName: 大号血肉宿主
 			LargePerforatorTail.DisplayName: 大号血肉宿主
 			PermafrostBoss.DisplayName: 永冻
+			MutantBR.DisplayName: 突变体
 		}
 
 		Projectiles: {
@@ -683,6 +684,7 @@ Mods: {
 			AstralTrailStar.DisplayName: Astral Trail Star
 			BrimflameBurst.DisplayName: Brimflame Burst
 			ClamSlam.DisplayName: Clam Slam
+			BatMode.DisplayName: Bat Mode
 		}
 
 		Buffs: {

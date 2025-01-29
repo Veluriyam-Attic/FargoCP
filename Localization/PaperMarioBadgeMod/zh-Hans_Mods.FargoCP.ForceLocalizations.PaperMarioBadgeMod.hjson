@@ -1,0 +1,31 @@
+PaperMarioBadgeMod: {
+	Items: {
+		BaseBadge: {
+			ModifyTooltips: {
+				1: {
+					OldString: BP
+					NewString: 勋章点数
+				}
+
+				2: {
+					OldString: " BP required to equip"
+					NewString: 勋章点数才可装备
+				}
+			}
+		}
+	}
+
+	PaperMarioBadgeMod+BadgeSlot: {
+		OnMouseHover: {
+			1: {
+				OldString: "Badge Slot: "
+				NewString: 勋章栏位:
+			}
+
+			2: {
+				OldString: " BP left"
+				NewString: 勋章点数剩余
+			}
+		}
+	}
+}

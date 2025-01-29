@@ -1,0 +1,8 @@
+World: {
+	PostDrawFullscreenMap: {
+		1: {
+			OldString: Release to teleport
+			NewString: 释放以传送
+		}
+	}
+}

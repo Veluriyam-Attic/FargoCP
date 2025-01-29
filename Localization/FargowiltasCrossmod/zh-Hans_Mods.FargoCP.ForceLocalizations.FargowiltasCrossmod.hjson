@@ -1,0 +1,552 @@
+Content: {
+	Calamity: {
+		Items: {
+			Summons: {
+				AbandonedRemote: {
+					get_NPCName: {
+						1: {
+							OldString: Armored Digger
+							NewString: װ�׾�س�
+						}
+					}
+				}
+
+				ABombInMyNation: {
+					get_NPCName: {
+						1: {
+							OldString: Plaguebringer Goliath
+							NewString: ����ʹ�߸����
+						}
+					}
+				}
+
+				AstrumCor: {
+					get_NPCName: {
+						1: {
+							OldString: Astrum Deus
+							NewString: ��������
+						}
+					}
+				}
+
+				BirbPheromones: {
+					get_NPCName: {
+						1: {
+							OldString: Dragonfolly
+							NewString: ���޽���
+						}
+					}
+				}
+
+				BlightedEye: {
+					get_NPCName: {
+						1: {
+							OldString: Calamitas Clone
+							NewString: �ֶ�֮Ӱ
+						}
+					}
+				}
+
+				BloodyWorm: {
+					get_NPCName: {
+						1: {
+							OldString: Old Duke
+							NewString: ���ž�
+						}
+					}
+				}
+
+				ChunkyStardust: {
+					get_NPCName: {
+						1: {
+							OldString: Astrum Aureus
+							NewString: �׽��ǽ�
+						}
+					}
+				}
+
+				ClamPearl: {
+					get_NPCName: {
+						1: {
+							OldString: Giant Clam
+							NewString: �����
+						}
+					}
+				}
+
+				ColossalTentacle: {
+					get_NPCName: {
+						1: {
+							OldString: Colossal Squid
+							NewString: ��������
+						}
+					}
+				}
+
+				CryingKey: {
+					get_NPCName: {
+						1: {
+							OldString: Cryogen
+							NewString: ����֮��
+						}
+					}
+				}
+
+				DeepseaProteinShake: {
+					get_NPCName: {
+						1: {
+							OldString: Reaper Shark
+							NewString: �Ի���
+						}
+					}
+				}
+
+				DefiledCore: {
+					get_NPCName: {
+						1: {
+							OldString: Providence
+							NewString: ����ά��˹
+						}
+					}
+				}
+
+				DefiledShard: {
+					get_NPCName: {
+						1: {
+							OldString: Profaned Guardians
+							NewString: ��������
+						}
+					}
+				}
+
+				DragonEgg: {
+					get_NPCName: {
+						1: {
+							OldString: Yharon
+							NewString: ����
+						}
+					}
+				}
+
+				EyeofExtinction: {
+					get_NPCName: {
+						1: {
+							OldString: Supreme Calamitas
+							NewString: �����ֶ�
+						}
+					}
+				}
+
+				FriedDoll: {
+					get_NPCName: {
+						1: {
+							OldString: Brimstone Elemental
+							NewString: ��ǻ�Ԫ��
+						}
+					}
+				}
+
+				HiveTumor: {
+					get_NPCName: {
+						1: {
+							OldString: Hive Mind
+							NewString: ������־
+						}
+					}
+				}
+
+				LetterofKos: {
+					get_NPCName: {
+						1: {
+							OldString: Signus
+							NewString: ������˹
+						}
+					}
+				}
+
+				MaulerSkull: {
+					get_NPCName: {
+						1: {
+							OldString: Mauler
+							NewString: Ԩ������
+						}
+					}
+				}
+
+				MedallionoftheDesert: {
+					get_NPCName: {
+						1: {
+							OldString: Desert Scourge
+							NewString: ��Į�ֳ�
+						}
+					}
+				}
+
+				MurkySludge: {
+					get_NPCName: {
+						1: {
+							OldString: Slime God
+							NewString: ʷ��ķ֮��
+						}
+					}
+				}
+
+				NoisyWhistle: {
+					get_NPCName: {
+						1: {
+							OldString: Ravager
+							NewString: ����ħ��
+						}
+					}
+				}
+
+				NuclearChunk: {
+					get_NPCName: {
+						1: {
+							OldString: Nuclear Terror
+							NewString: ���˺���
+						}
+					}
+				}
+
+				OphiocordycipitaceaeSprout: {
+					get_NPCName: {
+						1: {
+							OldString: Crabulon
+							NewString: ����з
+						}
+					}
+				}
+
+				PlaguedWalkieTalkie: {
+					get_NPCName: {
+						1: {
+							OldString: Plaguebringer
+							NewString: ����ʹ��
+						}
+					}
+				}
+
+				PolterplasmicBeacon: {
+					get_NPCName: {
+						1: {
+							OldString: Polterghast
+							NewString: �ɻ��Ļ�
+						}
+					}
+				}
+
+				PortableCodebreaker: {
+					get_NPCName: {
+						1: {
+							OldString: Draedon
+							NewString: �ε�
+						}
+					}
+				}
+
+				QuakeIdol: {
+					get_NPCName: {
+						1: {
+							OldString: Earth Elemental
+							NewString: ���Ԫ��
+						}
+					}
+				}
+
+				RedStainedWormFood: {
+					get_NPCName: {
+						1: {
+							OldString: Perforator Hive
+							NewString: Ѫ������
+						}
+					}
+				}
+
+				RiftofKos: {
+					get_NPCName: {
+						1: {
+							OldString: Ceaseless Void
+							NewString: �޾����
+						}
+					}
+				}
+
+				SeeFood: {
+					get_NPCName: {
+						1: {
+							OldString: Aquatic Scourge
+							NewString: Ԩ���ֳ�
+						}
+					}
+				}
+
+				SirensPearl: {
+					get_NPCName: {
+						1: {
+							OldString: Anahita and the Leviathan
+							NewString: ����ϣ������ά̹
+						}
+					}
+				}
+
+				SomeKindofSpaceWorm: {
+					get_NPCName: {
+						1: {
+							OldString: Devourer of Gods
+							NewString: ����������
+						}
+					}
+				}
+
+				StormIdol: {
+					get_NPCName: {
+						1: {
+							OldString: Cloud Elemental
+							NewString: ����Ԫ��
+						}
+					}
+				}
+
+				SulphurBearTrap: {
+					get_NPCName: {
+						1: {
+							OldString: Cragmaw Mire
+							NewString: ����̶
+						}
+					}
+				}
+
+				WormFoodofKos: {
+					get_NPCName: {
+						1: {
+							OldString: Storm Weaver
+							NewString: �籩��֯��
+						}
+					}
+				}
+
+				WyrmTablet: {
+					get_NPCName: {
+						1: {
+							OldString: Eidolon Wyrm
+							NewString: �ú�����
+						}
+					}
+				}
+			}
+		}
+	}
+
+	Common: {
+		ModSwapperUIState: {
+			OnInitialize: {
+				1: {
+					OldString: Switch Mod
+					NewString: �л�Mod
+				}
+			}
+		}
+
+		Bosses: {
+			Mutant: {
+				MutantDLC: {
+					<PreAI>g__Phase2Check|23_1: {
+						1: {
+							OldString: Time to stop playing around.
+							NewString: ��ʱ��ֹͣ��Ϸ��
+						}
+					}
+
+					<PreAI>g__SpawnDoG|23_20: {
+						1: {
+							OldString: The world is trembling..
+							NewString: ��������......
+						}
+					}
+				}
+			}
+		}
+
+		ModSwapperUIState+<>c: {
+			<OnInitialize>b__0_0: {
+				1: {
+					OldString: Vanilla
+					NewString: ԭ��
+				}
+			}
+		}
+
+		Projectiles: {
+			DLCBloomLine: {
+				AI: {
+					1: {
+						OldString: bloom line: you shouldnt be seeing this text, show javyz
+						NewString: bloom line: �㲻Ӧ�ÿ�������ı�, ��Javyz������
+					}
+				}
+			}
+		}
+	}
+}
+
+Core: {
+	Common: {
+		Globals: {
+			DevianttGlobalNPC: {
+				AddCalamityShop: {
+					1: {
+						OldString: Calamity
+						NewString: �ֶ�
+					}
+
+					2: {
+						OldString: After killing a Giant Clam
+						NewString: ���ܾ�����
+					}
+
+					3: {
+						OldString: After killing a Plaguebringer
+						NewString: ��������ʹ�ߺ�
+					}
+
+					4: {
+						OldString: After killing a Reaper Shark
+						NewString: �����Ի����
+					}
+
+					5: {
+						OldString: After killing a Colossal Squid
+						NewString: ���ܾ���������
+					}
+
+					6: {
+						OldString: After killing an Eidolon Wyrm
+						NewString: ���ܻú�������
+					}
+
+					7: {
+						OldString: After killing a Cloud Elemental
+						NewString: ��������Ԫ�غ�
+					}
+
+					8: {
+						OldString: After killing an Earth Elemental
+						NewString: ���ܴ��Ԫ�غ�
+					}
+
+					9: {
+						OldString: After killing an Armored Digger
+						NewString: ����װ�׾�س��
+					}
+				}
+			}
+		}
+	}
+
+	Calamity: {
+		Systems: {
+			CalDLCWorldUpdatingSystem: {
+				PostUpdateWorld: {
+					1: {
+						OldString: "[c/00ffee:Eternity Mode] disabled by [c/9c0000:Infernum Mode]."
+						NewString: "[c/00ffee:����ģʽ]��[c/9c0000:����ģʽ]����."
+					}
+				}
+			}
+
+			CalDLCDetours: {
+				DialogueReplacement: {
+					1: {
+						OldString: Let's get started.
+						NewString: �����ǿ�ʼ��.
+					}
+
+					2: {
+						OldString: This is boring.
+						NewString: ���ģ���ֱ�����ģ�.
+					}
+
+					3: {
+						OldString: Let's cut to the chase.
+						NewString: û��Ҫ�����ϻ���ȥ��.
+					}
+				}
+			}
+		}
+
+		Globals: {
+			CalDLCNPCChanges: {
+				ModifyNPCLoot: {
+					1: {
+						OldString: In Death Mode
+						NewString: ������ģʽ��
+					}
+				}
+
+				PreKill: {
+					1: {
+						OldString: A new item has been unlocked in Deviantt's shop!
+						NewString: ��ޱ�����̵����������Ʒ!
+					}
+				}
+
+				GetChat: {
+					1: {
+						OldString: You clearly possess great skill! My thanks to you for freeing me, and providing an opportunity to defrost my fighting abilities.
+						NewString: �㼼�ճ�������л�������ң���������ҵ�ս������.
+					}
+
+					2: {
+						OldString: Aah, a good round of sparring. I need the exercise, so thanks for that.
+						NewString: ����һ�����ʵ��д�.�ⳡ�������һ����ǳ��лл�㣡
+					}
+				}
+
+				ModifyShop: {
+					1: {
+						OldString: Kill a Cragmaw Mire
+						NewString: ����һ������̶
+					}
+
+					2: {
+						OldString: Kill a Mauler
+						NewString: ����һ��Ԩ������
+					}
+
+					3: {
+						OldString: Kill a Nuclear Terror
+						NewString: ����һ�����˺���
+					}
+
+					4: {
+						OldString: Kill a Great Sand Shark
+						NewString: ����һ����������
+					}
+				}
+			}
+
+			CalDLCItemChanges: {
+				ModifyTooltips: {
+					1: {
+						OldString:
+							'''
+
+							Not consumable
+							'''
+						NewString:
+							'''
+
+							��������
+							'''
+					}
+
+					2: {
+						OldString: Not consumable
+						NewString: ��������
+					}
+				}
+			}
+		}
+	}
+}

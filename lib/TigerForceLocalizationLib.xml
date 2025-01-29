@@ -470,6 +470,13 @@
             此时 <see cref="P:MonoMod.Cil.ILCursor.Next"/> 一般会指向一处 ldstr
             </summary>
         </member>
+        <member name="P:TigerForceLocalizationLib.TigerForceLocalizationHelper.ForceAllWeakReferences">
+            <summary>
+            <br/>是否在注册键时强制需求汉化模组的弱引用要全部开启
+            <br/>因为在 <see cref="T:Terraria.ModLoader.LocalizationLoader"/> 中对于未开启所有弱引用的模组不会更新其 hjson
+            <br/>如果将它设置为否那么会自动炸掉上面所说的逻辑
+            </summary>
+        </member>
         <member name="M:TigerForceLocalizationLib.TigerForceLocalizationHelper.LocalizeAll(System.String,System.String,System.Boolean,System.String,System.Boolean,TigerForceLocalizationLib.TigerForceLocalizationHelper.LocalizeFilters)">
             <summary>
             <br/>以 hjson 的方式本地化一个模组中的所有方法

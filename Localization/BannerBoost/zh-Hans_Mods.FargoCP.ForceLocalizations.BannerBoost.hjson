@@ -1,0 +1,23 @@
+FargoGlobalNPC: {
+	OnKill: {
+		1: {
+			OldString: "Congratulations! You have earned the max Level against "
+			NewString: 恭喜！你已经完全免疫
+		}
+
+		2: {
+			OldString: !
+			NewString: !
+		}
+
+		3: {
+			OldString: "Congratulations! You have reached Level "
+			NewString: 恭喜！你已经达到了增幅
+		}
+
+		4: {
+			OldString: " against "
+			NewString: 级对于
+		}
+	}
+}
