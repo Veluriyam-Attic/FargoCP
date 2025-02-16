@@ -496,13 +496,13 @@ Core: {
 						NewString:
 							'''
 
-							非消耗品
+							不消耗
 							'''
 					}
 
 					2: {
 						OldString: Not consumable
-						NewString: 非消耗品
+						NewString: 不消耗
 					}
 				}
 			}
