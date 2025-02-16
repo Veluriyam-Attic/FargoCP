@@ -731,7 +731,7 @@ Mods: {
 			DraedonsHeartEffect: 嘉登之心
 			CalamityEffect: "{$Mods.CalamityMod.Items.Accessories.Calamity.DisplayName}"
 			SplendorJamEffect: 异彩果酱
-			ExplorationHeader: 探索之力
+			ExplorationHeader: 勘探之力
 			AerospecJumpEffect: 天蓝 跳跃暴击
 			MarniteRepulsionEffect: 合成岩斥力盾
 			MarniteLasersEffect: 合成岩 激光
