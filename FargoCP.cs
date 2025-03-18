@@ -57,7 +57,7 @@ namespace FargoCP
             if (
                     ModLoader.HasMod("FargosSoulsModDLCRecreated")
                )
-                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargosSoulsModDLCRecreated", true);
+                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargosSoulsModDLCRecreated", false);
         }
     }
 
