@@ -50,5 +50,15 @@ namespace FargoCP
                 TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargowiltasCrossmod", false);
         }
     }
+    public class FargosSoulsModDLCRecreated : ModSystem
+    {
+        public override void PostSetupContent()
+        {
+            if (
+                    ModLoader.HasMod("FargosSoulsModDLCRecreated")
+               )
+                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargosSoulsModDLCRecreated", false);
+        }
+    }
 
 }
