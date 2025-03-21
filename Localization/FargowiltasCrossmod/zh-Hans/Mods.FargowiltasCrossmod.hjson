@@ -1,0 +1,98 @@
+EternityRevDifficulty: {
+	Name: 永恒-复仇
+	ShortDescription: "[c/00FFFF:以Fargo的永恒模式为主并包含了部分][c/880808:复仇模式][c/00FFFF:更改的更具挑战性的难度]"
+	ExpandedDescription:
+		'''
+		融合了[c/00FFFF:永恒模式]与[c/880808:复仇模式]，Boss会掉落大师模式专属物品
+
+		部分灾厄Boss获得了新的[c/00FFFF:永恒模式]AI
+		当前制作进度:
+		    -灾厄之影前全Boss
+		    -硫海遗爵
+		    -星流巨械
+		剩余Boss的永恒模式新AI仍在制作中!
+
+		默认[c/00FFFF:永恒模式]AI优先于[c/880808:复仇模式]，可在模组配置设定中更改
+		[c/00FFFF:永恒模式]更改:
+		{$Mods.FargowiltasSouls.UI.ExpandedFeatures}
+		
+		[i:1612][c/00ff00:建议打开Fargo突变的头顶显示减益相关效果（在模组的客户端配置设定中）]
+		'''
+	Activation: 永恒-复仇模式已开启！
+	Deactivation: 永恒-复仇模式已关闭
+}
+
+EternityDeathDifficulty: {
+	Name: 永恒-死亡
+	ShortDescription: "[c/00FFFF:以Fargo的永恒模式为主并包含了部分][c/800080:死亡模式][c/00FFFF:更改和额外的原版Boss AI修改的更具挑战性的难度]"
+	ExpandedDescription:
+		'''
+		融合了[c/00FFFF:永恒模式]与[c/880808:死亡模式]，Boss会掉落大师模式专属物品
+		[c/00FFFF:您可以体验到下列内容] 
+
+		部分灾厄Boss获得了新的[c/00FFFF:永恒模式]AI
+		当前制作进度:
+		    -灾厄之影前全Boss
+		    -硫海遗爵
+		    -星流巨械
+		剩余Boss的永恒模式新AI仍在制作中!
+		仅永恒-死亡模式下: 为一些原版Boss的[c/00FFFF:永恒模式]AI添加了部分[c/880808:死亡模式]的攻击方式。
+
+		默认[c/00FFFF:永恒模式]AI优先于[c/880808:死亡模式]，可在模组配置设定中更改
+		[c/00FFFF:永恒模式]更改:
+		{$Mods.FargowiltasSouls.UI.ExpandedFeatures}
+		
+		[i:1612][c/00ff00:建议打开Fargo突变的头顶显示减益相关效果（在模组的客户端配置设定中）]
+		'''
+	Activation: 永恒-死亡模式已开启！
+	Deactivation: 永恒-死亡模式已关闭
+}
+
+UI: {
+	ToggledWithCal: 请使用灾厄的难度指示器
+	HadesIconMessage: Hades, a serpentine terror with impervious armor and innumerable laser turrets.
+	AresIconMessage: Ares, a heavyweight, diabolical monstrosity with four detachable Exo superweapons.
+	ArtemisAndApolloIconMessage: Artemis and Apollo, a pair of extraordinarily nimble automatons with unstable energy reserves.
+}
+
+Buffs: {
+	CalamitousPresenceBuff: {
+		Description: 
+		    '''
+		    防御、伤害减免和生命再生降低
+		    月蛭效果；缩小擦弹范围
+	    	'''
+		DisplayName: 灾厄驾到
+	}
+}
+
+Cooldowns.DaedalusPlatformCooldown: 嘉登平台
+
+ExpandedTooltips: {
+	FountainAstral: Forces surrounding biome state to Astral Infection (in hardmode only) upon activation
+	FountainCrags: Forces surrounding biome state to Brimstone Crags upon activation
+	FountainSulphur: Forces surrounding biome state to Sulphurous Sea upon activation
+	FountainSunken: Forces surrounding biome state to Sunken Sea upon activation
+	MasoModeDisabled: "[c/FF0000:Calamity Crossmod Support:] Activate Eternity with Calamity's difficulty selector instead!"
+	UsablePostMutant: "[c/FF0000:Calamity Crossmod Support:] Can only be used after defeating the Mutant"
+	DisabledByDefault: "[c/FF0000:Calamity Crossmod Support:] Toggle disabled by default"
+}
+
+RecipeGroups: {
+	GildedDagger: Gilded Dagger
+	EvilBar: Evil Bar
+	VictideHelmet: Victide Headpiece
+	AerospecHelmet: Aerospec Headpiece
+	StatigelHelmet: Statigel Headpiece
+	ReaverHelmet: Reaver Headpiece
+	DaedalusHelmet: Daedalus Headpiece
+	HydrothermicHelmet: Hydrothermic Headpiece
+}
+
+BossRushDialogue: {
+	Start: 让我们开始吧
+	EndP1_1: 毫无趣味
+	EndP1_2: 没必要继续浪费时间了
+}
+
+EmodeBannedByInfernum: "[c/00ffee:永恒模式]被[c/9c0000:炼狱模式]禁用"
