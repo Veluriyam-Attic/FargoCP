@@ -40,7 +40,7 @@ namespace FargoCP
                 TigerForceLocalizationHelper.LocalizeAll("FargoCP", "PaperMarioBadgeMod", false);
         }
     }
-    public class FargowiltasCrossmod : ModSystem
+    /* public class FargowiltasCrossmod : ModSystem
     {
         public override void PostSetupContent()
         {
@@ -49,7 +49,7 @@ namespace FargoCP
                )
                 TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargowiltasCrossmod", false);
         }
-    }
+    } */
     public class FargosSoulsModDLCRecreated : ModSystem
     {
         public override void PostSetupContent()
