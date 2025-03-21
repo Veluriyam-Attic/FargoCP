@@ -29,445 +29,447 @@ AddedEffects: {
 }
 
 OutlawsEssence: {
-	DisplayName: Outlaw's Essence
+	DisplayName: 狂徒精华
 	Tooltip:
 		'''
-		18% increased rogue damage
-		5% increased rogue projectile velocity
-		5% increased rogue critical chance
+		增加18%盗贼伤害
+		增加5%盗贼弹幕速度
+		增加5%盗贼暴击率
 		'''
 }
 
 VagabondsSoul: {
-	DisplayName: Vagabond's Soul
+	DisplayName: 浪客之魂
 	Tooltip:
 		'''
-		22% increased rogue damage
-		20% increased rogue projectile velocity
-		10% increased rogue critical chance
-		Effects of Nanotech and Eclipse Mirror
+		增加22%盗贼伤害
+		增加20%盗贼弹幕速度
+		增加10%盗贼暴击率
+		纳米核心和日蚀魔镜的效果
 		'''
 }
 
 ABombInMyNation: {
-	DisplayName: A Bomb In My Nation
-	Tooltip: Summons the Plaguebringer Goliath
+	DisplayName: 蜜蜂奴役装置
+	Tooltip: 召唤瘟疫使者歌莉娅
 }
 
 AstrumCor: {
-	DisplayName: Astrum Core
-	Tooltip: Summons Astrum Deus
+	DisplayName: 星幻核
+	Tooltip: 召唤星神游龙
 }
 
 BirbPheromones: {
-	DisplayName: Birb Pheromones
-	Tooltip: Summons the Dragonfolly
+	DisplayName: 癫痫信息素
+	Tooltip: 召唤痴愚金龙
 }
 
 BlightedEye: {
-	DisplayName: Blighted Eye
-	Tooltip: Summons the Calamitas Clone
+	DisplayName: 枯萎之眼
+	Tooltip: 召唤灾厄之影
 }
 
 BloodyWorm: {
-	DisplayName: Bloody Worm
-	Tooltip: Summons the Old Duke
+	DisplayName: 血腥蠕虫
+	Tooltip: 召唤硫海遗爵
 }
 
 ChunkyStardust: {
-	DisplayName: Chunky Stardust
-	Tooltip: Summons Astrum Aureus
+	DisplayName: 碎屑星尘
+	Tooltip: 召唤白金星舰
 }
 
 CryingKey: {
-	DisplayName: Crying Key
-	Tooltip: Summons Cryogen
+	DisplayName: 泣寒之匙
+	Tooltip: 召唤极地之灵
 }
 
 DefiledCore: {
-	DisplayName: Defiled Core
-	Tooltip: Summons Providence
+	DisplayName: 神殇晶核
+	Tooltip: 召唤亵渎天神
 }
 
 DefiledShard: {
-	DisplayName: Defiled Shard
-	Tooltip: Summons the Profaned Guardians
+	DisplayName: 神殇碎片
+	Tooltip: 召唤亵渎守卫
 }
 
 DragonEgg: {
-	DisplayName: Fiery Dragon Egg
-	Tooltip: Summons Yharon
+	DisplayName: 犽戎蛋
+	Tooltip: 召唤重生之龙，犽戎
 }
 
 PortableCodebreaker: {
-	DisplayName: Portable Codebreaker
-	Tooltip: Summons Draedon
+	DisplayName: 便携密码破译器
+	Tooltip: 召唤星流巨械
 }
 
 EyeofExtinction: {
-	DisplayName: Eye of Extinction
-	Tooltip: Summons Supreme Calamitas
+	DisplayName: 灭世之眼
+	Tooltip: 召唤至尊女巫，灾厄
 }
 
 FriedDoll: {
-	DisplayName: Fried Doll
-	Tooltip: Summons Brimstone Elemental
+	DisplayName: 焦炭娃娃
+	Tooltip: 召唤硫磺火元素
 }
 
 HiveTumor: {
-	DisplayName: Hive Tumor
-	Tooltip: Summons Hive Mind
+	DisplayName: 腐化肿瘤
+	Tooltip: 召唤腐巢意志
 }
 
 LetterofKos: {
-	DisplayName: Letter of Kos
-	Tooltip: Summons Signus
+	DisplayName: 宇宙信函
+	Tooltip: 召唤神之使徒西格纳斯
 }
 
 MedallionoftheDesert: {
-	DisplayName: Medallion of the Desert
-	Tooltip: Summons Desert Scourge
+	DisplayName: 荒漠勋章
+	Tooltip: 召唤荒漠灾虫
 }
 
 MurkySludge: {
-	DisplayName: Murky Sludge
-	Tooltip: Summons the Slime God
+	DisplayName: 污浊淤泥
+	Tooltip: 召唤史莱姆之神
 }
 
 NoisyWhistle: {
-	DisplayName: Noisy Whistle
-	Tooltip: Summons Ravager
+	DisplayName: 吵死哨笛
+	Tooltip: 召唤毁灭魔像
 }
 
 OphiocordycipitaceaeSprout: {
-	DisplayName: Ophiocordycipitaceae Sprout
-	Tooltip: Summons Crabulon
+	DisplayName: 真菌生物芽孢
+	Tooltip: 召唤菌生蟹
 }
 
 PolterplasmicBeacon: {
-	DisplayName: Polterplasmic Beacon
-	Tooltip: Summons Polterghast
+	DisplayName: 灵质魂炬
+	Tooltip: 召唤噬魂幽花
 }
 
 RedStainedWormFood: {
-	DisplayName: Red Stained Worm Food
-	Tooltip: Summons the Perforator Hive
+	DisplayName: 血蠕虫食物
+	Tooltip: 召唤血肉宿主
 }
 
 RiftofKos: {
-	DisplayName: Rift of Kos
-	Tooltip: Summons Ceaseless Void
+	DisplayName: 宇宙裂隙
+	Tooltip: 召唤无尽虚空
 }
 
 SeeFood: {
-	DisplayName: See Food
-	Tooltip: Summons Aquatic Scourge
+	DisplayName: 河鲜饵料
+	Tooltip: 召唤渊海灾虫
 }
 
 SirensPearl: {
-	DisplayName: Siren's Pearl
-	Tooltip: Summons Anahita
+	DisplayName: 海妖珍珠
+	Tooltip: 召唤阿娜希塔
 }
 
 SomeKindofSpaceWorm: {
-	DisplayName: Some Kind of Space Worm
-	Tooltip: Summons the Devourer of Gods
+	DisplayName: 某种宇宙蠕虫
+	Tooltip: 召唤神明吞噬者
 }
 
 WormFoodofKos: {
-	DisplayName: Worm Food of Kos
-	Tooltip: Summons Storm Weaver
+	DisplayName: 宇宙蠕虫食物
+	Tooltip: 召唤风暴编织者
 }
 
 AbandonedRemote: {
-	DisplayName: Abandoned Remote
+	DisplayName: 废弃遥控装置
 	Tooltip:
 		'''
-		Summons Armored Digger
-		Can only be used underground
+		召唤装甲掘地虫
+		只能在地下使用
 		'''
 }
 
 ClamPearl: {
-	DisplayName: Clam Pearl
+	DisplayName: 蛤蜊珍珠
 	Tooltip:
 		'''
-		Summons Giant Clam
-		Can only be used in the Sunken Sea
+		召唤巨像蛤
+		只能在沉沦之海使用
 		'''
 }
 
 ColossalTentacle: {
-	DisplayName: Colossal Tentacle
+	DisplayName: 巨型触手
 	Tooltip:
 		'''
-		Summons Colossal Squid
-		Can only be used in the Abyss
+		召唤巨像乌贼
+		只能在深渊使用
 		'''
 }
 
 DeepseaProteinShake: {
-	DisplayName: Deepsea Protein Shake
+	DisplayName: 深海蛋白奶昔
 	Tooltip:
 		'''
-		Summons Reaper Shark
-		Can only be used in the Abyss
+		召唤猎魂鲨
+		只能在深渊使用
 		'''
 }
 
 MaulerSkull: {
-	DisplayName: Mauler Skull
+	DisplayName: 狂鲨之颅
 	Tooltip:
 		'''
-		Summons Mauler
-		Can only be used in the Sulphuric Sea
+		召唤渊海狂鲨
+		只能在硫磺海使用
 		'''
 }
 
 NuclearChunk: {
-	DisplayName: Nuclear Chunk
+	DisplayName: 辐核之物
 	Tooltip:
 		'''
-		Summons Nuclear Terror
-		Can only be used in the Sulphuric Sea
+		召唤辐核骇兽
+		只能在硫磺海使用
 		'''
 }
 
 PlaguedWalkieTalkie: {
-	DisplayName: Plagued Walkie Talkie
+	DisplayName: 瘟疫对讲机
 	Tooltip:
 		'''
-		Summons Plaguebringer
-		Can only be used in the Jungle
+		召唤瘟疫使者
+		只能在丛林使用
 		'''
 }
 
 QuakeIdol: {
-	DisplayName: Quake Idol
+	DisplayName: 地震玩偶
 	Tooltip:
 		'''
-		Summons Earth Elemental
-		Can only be used underground
+		召唤大地元素
+		只能在地下使用
 		'''
 }
 
 StormIdol: {
-	DisplayName: Storm Idol
-	Tooltip: Summons Cloud Elemental
+	DisplayName: 风暴玩偶
+	Tooltip: 召唤雨云元素
 }
 
 SulphurBearTrap: {
-	DisplayName: Sulphur Bear Trap
+	DisplayName: 硫磺捕兽夹
 	Tooltip:
 		'''
-		Summons Cragmaw Mire
-		Can only be used in the Sulphuric Sea
+		召唤峭咽潭
+		只能在硫磺海使用
 		'''
 }
 
 WyrmTablet: {
-	DisplayName: Wyrm Tablet
+	DisplayName: 妖龙石板
 	Tooltip:
 		'''
-		Summons Eidolon Wyrm
-		Can only be used in the abyss
+		召唤幻海妖龙
+		只能在深渊使用
 		'''
 }
 
 BrandoftheBrimstoneWitch: {
-	DisplayName: Brand of the Brimstone Witch
+	DisplayName: 硫火女巫的烙印
 	Tooltip:
 		'''
-		Effects of Heart of the Elements, Radiance, The Sponge, Chalice of the Blood God
-		Effects of Nebulous Core, Yharim's Gift, Draedon's Heart and Calamity
+		拥有元灵之心、辐辉、化绵留香石、血神圣杯的效果
+		拥有星云之核、寻神者之礼、嘉登之心、灾厄的效果
 		'''
 }
 
 AerospecEnchant: {
-	DisplayName: Aerospec Enchantment
+	DisplayName: 天蓝魔石
 	Tooltip:
 		'''
-		Gain +5% critical strike chance and summon damage whenever you use a jump or double jump
-		This bonus lasts until your jumps are reset or a mount is used
+		每次跳跃或二段跳后都会增加5%暴击率和5%召唤伤害
+		加成在你重置跳跃或使用坐骑后消失
 		'''
-	CritUp: +{0}% crit
-	CritReset: -{0}% crit
+		CritUp: +{0}% 暴击率
+		CritReset: -{0}% 暴击率
 }
 
 MarniteEnchant: {
-	DisplayName: Marnite Architect Enchantment
+	DisplayName: 合成岩魔石
 	Tooltip:
 		'''
-		10% increased placement speed and +5 tile placement range
-		Lasers strike nearby enemies while not attacking, or while using tools
-		Effects of [i:CalamityMod/MarniteRepulsionShield] Marnite Repulsion Shield
+		提高10%放置速度，放置距离+5
+		使用工具或未使用武器时会产生激光攻击附近敌人
+		获得[i:CalamityMod/MarniteRepulsionShield]合成岩斥力盾的效果
 		'''
 }
 
 DesertProwlerEnchant: {
-	DisplayName: Desert Prowler Enchantment
+	DisplayName: 沙漠巡游者魔石
 	Tooltip:
 		'''
-		Hold UP to charge a powerful charge jump that also boosts your horizontal speed
-		Charge jump can only be performed while grounded
-		Pressing Jump while holding DOWN in the air does a quick dive downwards
-		Both the charged jump and dive push nearby enemies away
-		Hitting the ground shortly after a dive pushes away and damages enemies
+		按住[上]可进行强大的充能跳跃并提升水平移速.
+		只有处于地面上时才能进行充能跳跃
+		按住[下]时按[跳]可以快速向下俯冲
+		充能跳跃和俯冲都可以推开附近的敌人
+		俯冲击中地面的短时间内会推开附近的敌人同时造成伤害
 		'''
 }
 
 WulfrumEnchant: {
-	DisplayName: Wulfrum Enchantment
+	DisplayName: 钨钢魔石
 	Tooltip:
 		'''
-		Summons a wulfrum drone that follows your cursor
-		The drone scans enemies it collides with
-		Scanning enemies tells you their debuff weaknesses and resistances
-		Green means weakness, red means resistance
-		Scanned enemies also take extra damage over time when afflicted with any debuff
+		召唤一架跟随光标的钨钢无人机
+		无人机会扫描碰撞到的敌怪
+		扫描敌怪可得知敌怪对减益类型的弱性与抗性
+		绿色表示对该减益有弱性，红色表示对减益有抗性
+		被扫描的敌怪在受到减益时也会随时间推移受到额外伤害
 		'''
 }
 
 GaleForce: {
-	DisplayName: Force of the Gale
+	DisplayName: 风涛之力
 	Tooltip:
 		'''
-		Grants unlimited jumps in the air
-		Disables wings if this effect is enabled
-		[i:FargowiltasCrossmod/DesertProwlerEnchant] Hold W while jumping to launch upward quickly
-		[i:FargowiltasCrossmod/DesertProwlerEnchant] Hold S while jumping to dive downwards
-		[i:FargowiltasCrossmod/SnowRuffianEnchant] Hold W to slow fall
-		[i:FargowiltasCrossmod/VictideEnchant] Holding jump generates sharp spines attached to you
-		[i:FargowiltasCrossmod/VictideEnchant] Once 6 spines are spawned, the next jump launches them out to home onto targets
-		[i:FargowiltasCrossmod/SulphurEnchant] Spines inflict Sulphuric Poisoning
-		[i:FargowiltasCrossmod/StatigelEnchant] Increased damage based on how fast you move, up to +40%
+        允许在空中无限跳跃
+		该效果生效时禁用翅膀
+		[i:FargowiltasCrossmod/DesertProwlerEnchant] 跳跃时按住[上]以快速跃起
+		[i:FargowiltasCrossmod/DesertProwlerEnchant] 跳跃时按住[下]以进行俯冲
+		[i:FargowiltasCrossmod/SnowRuffianEnchant] 按住[上]以缓慢坠落
+		[i:FargowiltasCrossmod/VictideEnchant] 按住[跳]会伸出海胆尖刺
+		[i:FargowiltasCrossmod/VictideEnchant] 生成六个海胆尖刺后下一次跳跃会向外发射并追踪目标
+		[i:FargowiltasCrossmod/SulphurEnchant] 海胆尖刺会额外造成硫磺海剧毒效果
+		[i:FargowiltasCrossmod/StatigelEnchant] 根据你的速度增加伤害, 最多增加40%
 		'''
 }
 
 SnowRuffianEnchant: {
-	DisplayName: Snow Ruffian Enchantment
+	DisplayName: 雪境暴徒魔石
 	Tooltip:
 		'''
-		Grants the ability to glide if you do not have wings already
-		While slow falling with wings, you accelerate
-		Press UP while slow falling to direct your momentum upward
-		Press DOWN while slow falling to accelerate faster
+		获得滑翔能力
+		加快翅膀滑翔速度
+		滑翔时按住[上]键可获得向上的动量
+		滑翔时按住[下]可加快下降速度
 		'''
 }
 
 DaedalusEnchant: {
-	DisplayName: Daedalus Enchantment
+	DisplayName: 代达罗斯魔石
 	Tooltip:
 		'''
-		Increases flight time by 25%
-		After a second in the air, attacks are accompanied by powerful arrows from the sky
-		Getting hit or landing removes this bonus and cuts your wing time in half 
+		增加25%飞行时间
+		在空中飞行一秒后，攻击会伴随着从天而降的强大箭矢
+		落地或受到攻击时移除加成
+		受到攻击时额外减少一半飞行时间
 		'''
 }
 
 PlagueReaperEnchant: {
-	DisplayName: Plague Reaper Enchantment
-	Tooltip: All debuffs spread between enemies
+	DisplayName: 瘟疫死神魔石
+	Tooltip: 所有减益将在敌人之间蔓延开来
 }
 
 PlaguebringerEnchant: {
-	DisplayName: Plaguebringer Enchantment
+	DisplayName: 瘟疫使者魔石
 	Tooltip:
 		'''
-		All attacks inflict plague for a short time
-		A plague cloud follows you, growing when nearby plagued enemies.
-		At maximum size, the cloud expands rapidly and stops following you,
-		lingering in place for a while.
+		所有攻击会施加短时间的瘟疫效果
+		生成一个疫染毒云跟随着你，在靠近感染瘟疫减益的敌人时成长
+		成长到最大尺寸是,疫染毒云会迅速膨胀并停止跟随着你
+		并在原地停留一些时间
 		'''
 }
 
 ReaverEnchant: {
-	DisplayName: Reaver Enchantment
+	DisplayName: 掠夺者魔石
 	Tooltip: ""
 }
 
 HydrothermicEnchant: {
-	DisplayName: Hydrothermic Enchantment
+	DisplayName: 渊泉魔石
 	Tooltip:
 		'''
-		Attacking builds up heat
-		At full heat, stop attacking to vent it, increasing damage reduction by up to 30% and firing chaos flares towards your cursor for up to 3 seconds
-		Getting hit also vents heat, regardless of heat level
+		攻击会积聚热量
+        热量积聚满时，停止攻击来散失热量
+        同时最高增加30%伤害减免，并朝着光标方向发射混沌烈焰
+        最多持续三秒
+        无论当前集聚多少热量如何，受到攻击也会散失热量
 		'''
 }
 
 ElementsForce: {
-	DisplayName: Force of the Elements
+	DisplayName: 元灵之力
 	Tooltip:
 		'''
-		[c/E03131:Magma Mode:]
-		[i:FargowiltasCrossmod/ReaverEnchant] Increased damage reduction by 30% and defense by 30
-		[i:FargowiltasCrossmod/HydrothermicEnchant] Attacking builds up heat, stop attacking at full heat or get hit to vent it
+		[c/E03131:炎流模式:]
+		[i:FargowiltasCrossmod/ReaverEnchant] 增加30%伤害减免和30点防御
+		[i:FargowiltasCrossmod/HydrothermicEnchant] 攻击会积聚热量，热量积聚满时停止攻击或受到伤害会散失热量
 		[i:FargowiltasCrossmod/HydrothermicEnchant] Venting heat grants Reaver Rage and summons powerful chaos flares for up to 3 seconds
-		[c/45A8EF:Blizzard Mode:]
-		[i:FargowiltasCrossmod/ReaverEnchant] Increased flight time and speed, life regen, hook velocity and reduced dash cooldown
-		[i:FargowiltasCrossmod/AerospecEnchant] Grants up to +50% damage the longer you've stayed in the air
-		[i:FargowiltasCrossmod/DaedalusEnchant] After a second in the air without getting hit, attacks are accompanied by powerful arrows from the sky
+		[c/45A8EF:凛冰模式:]
+		[i:FargowiltasCrossmod/ReaverEnchant] 提高飞行时间、飞行速度、生命再生速度、钩爪速度并减少冲刺冷却
+		[i:FargowiltasCrossmod/AerospecEnchant] 持续停留在空中会增加至多50%的伤害
+		[i:FargowiltasCrossmod/DaedalusEnchant] 在空中飞行一秒后，攻击会伴随着从天而降的强大箭矢
 		'''
 }
 
 UmbraphileEnchant: {
-	DisplayName: Umbraphile Enchantment
+	DisplayName: 日影魔石
 	Tooltip: ""
 }
 
 TitanHeartEnchant: {
-	DisplayName: Titan Heart Enchantment
+	DisplayName: 泰坦之心魔石
 	Tooltip:
 		'''
-		Adrenaline charges 20% faster, increased to 70% while grounded
-		While adrenaline is partially charged, receive up to 15% damage reduction
-		Increases your max movement speed and acceleration by 5%
+		肾上腺素充能速度增加20%，落地时速度增加70%
+		肾上腺素部分充能时，最多增加15%伤害减免
+		最大移动速度和加速度提高5%
 		'''
 }
 
 StatigelEnchant: {
-	DisplayName: Statigel Enchantment
+	DisplayName: 斯塔提斯魔石
 	Tooltip:
 		'''
-		Increases your maximum speed
-		Massively decreases your acceleration and deceleration
-		Gain up to +35% increased damage, depending on how fast you're moving
+		提高最大移动速度但大幅降低加速度
+		根据移动速度提升伤害，最多增加35%伤害
 		'''
 }
 
 SulphurEnchant: {
-	DisplayName: Sulphurous Enchantment
+	DisplayName: 硫磺魔石
 	Tooltip:
 		'''
-		Grants a sulphur jump that spawns a sulphur bubble on use
-		The bubble releases damaging gas when hit by you
+		可以进行硫磺套装的额外跳跃，同时会生成一个硫磺泡泡
+		当你击破泡泡时会生成伤害性气体
 		'''
 }
 
 VictideEnchant: {
-	DisplayName: Victide Enchantment
+	DisplayName: 胜潮魔石
 	Tooltip:
 		'''
-		Grants urchin spikes that protrude from your body
-		You gain 4 defense while the spikes are attached to you
-		Attacking charges the spikes, which launch outward when you stop attacking
+	    海胆尖刺会从玩家身体中伸出，伤害接触到的敌怪
+		尖刺附着在你身上时增加四点防御力
+	    攻击会为尖刺充能，充能完毕后停止攻击时尖刺会向外发射
 		'''
 }
 
-Lore.LoreDraedon.DisplayName: Draedon
+Lore.LoreDraedon.DisplayName: 嘉登
 
 FathomSwarmerEnchant: {
-	DisplayName: Fathom Swarmer Enchantment
+	DisplayName: 幻渊鱼群魔石
 	Tooltip:
 		'''
-		Summons an Anglerfish familiar that follows your mouse
-		The anglerfish's light slows down enemies and their projectiles
+		召唤一个跟随你鼠标的鮟鱇鱼宠物
+		鮟鱇鱼的光可以减缓敌人和敌人弹幕的速度
 		'''
 }
 
 AstralEnchant: {
-	DisplayName: Astral Enchantment
+	DisplayName: 星幻魔石
 	Tooltip: You are followed by a trail of damaging astral stars
 }
 
@@ -485,7 +487,7 @@ BrimflameEnchant: {
 }
 
 MolluskEnchant: {
-	DisplayName: Mollusk Enchantment
+	DisplayName: 软壳魔石
 	Tooltip:
 		'''
 		Press Special Dash key to quickly slam downwards
