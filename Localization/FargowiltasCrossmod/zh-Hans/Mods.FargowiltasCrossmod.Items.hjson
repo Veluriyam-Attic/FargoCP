@@ -1,13 +1,13 @@
 AddedEffects: {
-	AngelTreads: Effects of Angel Treads
-	AeolusBoots: Effects of Aeolus Boots
-	CalamitySupersonic: Effects of Statis' Void Sash
-	ThoriumSuperSonic: Effects of Air Walkers, Survivalist Boots, and Weighted Winglets
-	CalamityColossus: Effects of The Amalgam, Asgardian Aegis and Rampart of Deities
+	AngelTreads: 获得天使之靴的效果
+	AeolusBoots: 获得风神之靴的效果
+	CalamitySupersonic: 获得斯塔提斯的虚空饰带的效果
+	ThoriumSuperSonic: 获得履空靴，求生家之飞鞋和举足轻重靴的效果
+	CalamityColossus: 获得聚合之脑，阿斯加德之庇护和神之壁垒的效果
 	ThoriumColossus:
 		'''
-		Effects of Sweet Vengeance, Obsidian Scale, Terrarium Defender,
-		Phylactery, Heart of Stone, and Spiny Shell
+		获得甜蜜的复仇，黑曜石鳞片和界元之庇佑
+		魂匣，岩石之心和刺甲贝的效果
 		'''
 	CalamityBerserker: Effects of Badge of Bravery and Elemental Gauntlet
 	ThoriumBerserker: Effects of Rapier Badge
