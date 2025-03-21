@@ -87,42 +87,42 @@ VileClotDrop.DisplayName: Vile Clot
 SulphurCloud.DisplayName: Sulphur Cloud
 PureGel.DisplayName: Pure Gel
 HiveMindPulse.DisplayName: Hive Mind Pulse
-ApolloLineTelegraph.DisplayName: Telegraph
-ApolloMissile.DisplayName: Plasma Missile
-AresMissile.DisplayName: Thermal Missile
-AresMissileBackground.DisplayName: Thermal Missile
-ArtemisLaserImproved.DisplayName: Thermal Laser
-ArtemisLaserSmall.DisplayName: Small Thermal Laser
-CannonLaserbeam.DisplayName: Energized Thermal Deathray
-DraedonLootCrate.DisplayName: Draedon Loot Crate
-ExoelectricBlast.DisplayName: Exoelectric Blast
-ExoOverloadDeathray.DisplayName: Exo Overload Deathray
-GaussNuke.DisplayName: Gauss Nuke
-GaussNukeBoom.DisplayName: Thermonuclear Explosion
-HadesExoEnergyOrb.DisplayName: Exoelectric Energy Orb
-HadesLaserBurst.DisplayName: Laser Burst
-HadesMine.DisplayName: Hades Mine
-HadesSuperLaserbeam.DisplayName: Exo Energy Blast
-HomingTeslaBurst.DisplayName: Tesla Burst
-LargeTeslaSphere.DisplayName: Tesla Sphere
-LargeTeslaSphereExplosion.DisplayName: Tesla Explosion
-LingeringPlasmaFireball.DisplayName: Plasma Fireball
-SmallTeslaArc.DisplayName: Tesla Arc
-ExothermalDisintegrationRay.DisplayName: Exothermal Disintegration Ray
+ApolloLineTelegraph.DisplayName: 阿波罗路线预警
+ApolloMissile.DisplayName: 等离子导弹
+AresMissile.DisplayName: 热能导弹
+AresMissileBackground.DisplayName: 热能导弹
+ArtemisLaserImproved.DisplayName: 热能激光
+ArtemisLaserSmall.DisplayName: 小热能激光
+CannonLaserbeam.DisplayName: 激活热能死光
+DraedonLootCrate.DisplayName: 嘉登战利品箱
+ExoelectricBlast.DisplayName: 星流电磁爆炸
+ExoOverloadDeathray.DisplayName: 星流过载死亡射线
+GaussNuke.DisplayName: 高斯核弹
+GaussNukeBoom.DisplayName: 热核爆炸
+HadesExoEnergyOrb.DisplayName: 星流电能球
+HadesLaserBurst.DisplayName: 激光脉冲
+HadesMine.DisplayName: 哈迪斯之雷
+HadesSuperLaserbeam.DisplayName: 星流能量爆炸
+HomingTeslaBurst.DisplayName: 特斯拉爆破
+LargeTeslaSphere.DisplayName: 巨型特斯拉电球
+LargeTeslaSphereExplosion.DisplayName: 特斯拉爆破
+LingeringPlasmaFireball.DisplayName: 滞留等离子火球
+SmallTeslaArc.DisplayName: 特斯拉电弧
+ExothermalDisintegrationRay.DisplayName: 星流热能裂解射线
 ScourgeSandstream.DisplayName: Scourge Sandstream
-SmallTeslaSphere.DisplayName: Tesla Sphere
-PlasmaFlameJet.DisplayName: Exoplasma Flame Jet
-BlazingExoLaserbeam.DisplayName: Blazing Exo Laserbeam
-AresDeathAnimationExplosion.DisplayName: Explosion
-SmallHadesSegmentExplosion.DisplayName: Explosion
-BigHadesSegmentExplosion.DisplayName: Explosion
-AresCoreLaserSmall.DisplayName: Energized Spark
-AresSwingingKatanas.DisplayName: XF-09 Ares Energy Katana
-ApolloPlasmaFireball.DisplayName: Plasma Fireball
-AresHyperfuturisticPortal.DisplayName: Hyperfuturistic Portal
-ExoTwinHyperfuturisticPortal.DisplayName: Hyperfuturistic Portal
-HadesMissile.DisplayName: Fortified Missile
-CodebreakerDataStream.DisplayName: Codebreaker Data Stream
+SmallTeslaSphere.DisplayName: 特斯拉电球
+PlasmaFlameJet.DisplayName: 星流等离子火焰喷流
+BlazingExoLaserbeam.DisplayName: 星流激光火焰
+AresDeathAnimationExplosion.DisplayName: 爆炸
+SmallHadesSegmentExplosion.DisplayName: 爆炸
+BigHadesSegmentExplosion.DisplayName: 爆炸
+AresCoreLaserSmall.DisplayName: 充能火花
+AresSwingingKatanas.DisplayName: XF-09 “阿瑞斯”能量斩
+ApolloPlasmaFireball.DisplayName: 等离子火球
+AresHyperfuturisticPortal.DisplayName: 超未来主义传送门
+ExoTwinHyperfuturisticPortal.DisplayName: 超未来主义传送门
+HadesMissile.DisplayName: 强化导弹
+CodebreakerDataStream.DisplayName: 密码破译器激光
 CrabulonJumpTelegraph.DisplayName: Crabulon Jump Telegraph
 BigBubble.DisplayName: Big Bubble
 Bubble.DisplayName: Bubble
@@ -133,10 +133,10 @@ FathomAngler.DisplayName: Fathom Angler
 AstralTrailStar.DisplayName: Astral Trail Star
 BrimflameBurst.DisplayName: Brimflame Burst
 ClamSlam.DisplayName: Clam Slam
-SmallCannonLaser.DisplayName: Laser
-PulseBlast.DisplayName: Pulse Blast
-HadesLineTelegraph.DisplayName: Hades Line Telegraph
-ApolloMissile2.DisplayName: Apollo Missile
+SmallCannonLaser.DisplayName: 激光
+PulseBlast.DisplayName: 脉冲爆
+HadesLineTelegraph.DisplayName: 哈迪斯预警线
+ApolloMissile2.DisplayName: 阿波罗导弹
 BatMode.DisplayName: Bat Mode
 PerfExplosion.DisplayName: Perforating Explosion
 PerforatorSpike.DisplayName: Perforating Spike

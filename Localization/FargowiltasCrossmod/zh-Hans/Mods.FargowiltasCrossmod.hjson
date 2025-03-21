@@ -50,10 +50,9 @@ EternityDeathDifficulty: {
 
 UI: {
 	ToggledWithCal: 请使用灾厄的难度指示器
-	HadesIconMessage: Hades, a serpentine terror with impervious armor and innumerable laser turrets.
-	AresIconMessage: Ares, a heavyweight, diabolical monstrosity with four detachable Exo superweapons.
-	ArtemisAndApolloIconMessage: Artemis and Apollo, a pair of extraordinarily nimble automatons with unstable energy reserves.
-}
+	HadesIconMessage: 哈迪斯，一条装备着厚重铠甲、搭载了无数机关炮的恐怖巨蟒。
+	AresIconMessage: 阿瑞斯，一个搭载着四台可装卸超级星流武器的庞然巨物。
+	ArtemisAndApolloIconMessage: 阿尔忒弥斯与阿波罗，一对能量储备十分不稳定的超敏捷自动机器。
 
 Buffs: {
 	CalamitousPresenceBuff: {
