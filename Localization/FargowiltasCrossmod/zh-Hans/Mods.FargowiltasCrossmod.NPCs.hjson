@@ -70,12 +70,12 @@ Draedon: {
 	EndOfBattle_SuccessiveDefeat4_Bad: 更为精细的战斗方式将更有助于深入分析战斗。
 	EndOfBattle_SuccessiveDefeat4_WhyDidYouMeltTheBoss: 你的战斗时长太短了，短到我都无法得出任何有深意的结论。
 	EndOfBattle_SuccessiveDefeat5: 我期待着下一场战斗。
-		EndOfBattle_FirstDefeatReconBodyKill1: 有趣……
-		EndOfBattle_FirstDefeatReconBodyKill2: 我并非没有将你“易怒”的这一数据点考虑在内。
-		EndOfBattle_FirstDefeatReconBodyKill3: 不管怎么样，正如我所说的……
-		Death: 精准落在我的计算范围之内。
-		PlayerDeathAtAmusingTime: 很不巧，不过仍然落在我的计算范围之内。
-		Error: 这个现实的结构被撕裂了。
+	EndOfBattle_FirstDefeatReconBodyKill1: 有趣……
+	EndOfBattle_FirstDefeatReconBodyKill2: 我并非没有将你“易怒”的这一数据点考虑在内。
+	EndOfBattle_FirstDefeatReconBodyKill3: 不管怎么样，正如我所说的……
+	Death: 精准落在我的计算范围之内。
+	PlayerDeathAtAmusingTime: 很不巧，不过仍然落在我的计算范围之内。
+	Error: 这个现实的结构被撕裂了。
 }
 
 MutantGFBText: {
