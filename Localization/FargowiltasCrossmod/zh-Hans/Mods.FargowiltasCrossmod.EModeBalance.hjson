@@ -1,18 +1,18 @@
-CrossBalanceGeneric: "Cross-mod Balance: "
-DamageUpGeneric: Damage increased by {0}%
-DamageDownGeneric: Damage decreased by {0}%
-PickPowerDownGeneric: Pickaxe power decreased by {0}%
-MagicDagger: Damage decreased by 50% in Pre-Hardmode
-ProfanedCrystal: Massively reduced damage with any minions active
-MythrilEnch: Less effective on rogue weapons
-OrichalcumEnch: Reduced effectiveness
-Daawnlight: Effect disabled while Tin Enchantment effect is active
-SlimyShield: Does not inflict Oiled
-FlightMastery: Flight stats decreased when fighting non-Souls Mod bosses
-LifeForce: Flight stats and wing time decreased when fighting non-Souls Mod bosses
-OnionPackUpgrade: Is now an upgrade to [i:FargowiltasSouls/MutantsPact]Mutant's Pact, that allows any accessory in the extra slot
-Laudanum: Halved strength of most positive debuff effects
-HardmodeSwords: Stat buffs decreased
-OceanCrest: Grants immunity to Eternity debuffs caused by entering water
+CrossBalanceGeneric: 联动平衡调整：
+DamageUpGeneric: 伤害增加{0}%
+DamageDownGeneric: 伤害减少{0}%
+PickPowerDownGeneric: 镐力降低{0}%
+MagicDagger: 困难模式前伤害降低50%
+ProfanedCrystal: 在存在任何仆从时大幅降低伤害
+MythrilEnch: 对盗贼武器加成减少
+OrichalcumEnch: 效果削弱
+Daawnlight: 锡魔石生效时失效
+SlimyShield: 不会造成涂油减益
+FlightMastery: 当与非Fargo魂石的boss战斗时，减少飞行属性
+LifeForce: 当与非Fargo魂石的boss战斗时，减少飞行属性和飞行时间
+OnionPackUpgrade: 现在作为[i:FargowiltasSouls/MutantsPact]突变体契约的升级，以允许将任何饰品放入其提供的栏位
+Laudanum: 减半大多数增益效果
+HardmodeSwords: 减少提供的属性加成
+OceanCrest: 提供对各类入水造成的永恒模式debuff的免疫
 // truth be told I have absolutely no idea what this enchantment is so the key name is just that
-CalEnch: Accumulated damage capped at 500.000
+CalEnch: 累计伤害上限为500.000
