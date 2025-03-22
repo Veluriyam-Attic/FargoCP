@@ -1,92 +1,92 @@
-FungusBall.DisplayName: Fungus Ball
-MushroomSpear.DisplayName: Mushroom Spear
-ShroomGas.DisplayName: Shroom Gas
-SandChunk.DisplayName: Sand Chunk
-SuckedSandBlast.DisplayName: Sand Blast
-CursedLightning.DisplayName: Cursed Lightning
-CurvingCursedFlames.DisplayName: Curving Cursed Flames
-MovingCorruptCloud.DisplayName: Moving Corrupt Cloud
-ShadeLightningCloud.DisplayName: Shade Lightning Cloud
-ToothBall.DisplayName: Tooth Ball
-Tooth.DisplayName: Tooth
-HomingRocket.DisplayName: Homing Rocket
-HomingSickle.DisplayName: Homing Sickle
-HallowedSlimeSpike.DisplayName: Hallowed Slime Spike
-BouncingFireball.DisplayName: Bouncing Fireball
-BigLight.DisplayName: Big Light
-DestructionBolt.DisplayName: Destruction Bolt
-StarofDestruction.DisplayName: Star of Destruction
+FungusBall.DisplayName: 真菌球
+MushroomSpear.DisplayName: 真菌刺矛
+ShroomGas.DisplayName: 真菌毒气
+SandChunk.DisplayName: 沙块
+SuckedSandBlast.DisplayName: 黄沙溅涌
+CursedLightning.DisplayName: 诅咒闪电
+CurvingCursedFlames.DisplayName: 诅咒焰
+MovingCorruptCloud.DisplayName: 移动腐化云
+ShadeLightningCloud.DisplayName: 阴影雷暴云
+ToothBall.DisplayName: 鲨牙刺球
+Tooth.DisplayName: 鲨牙
+HomingRocket.DisplayName: 追踪火箭
+HomingSickle.DisplayName: 追踪镰刀
+HallowedSlimeSpike.DisplayName: 神圣史莱姆尖刺
+BouncingFireball.DisplayName: 弹跳火球
+BigLight.DisplayName: 大激光
+DestructionBolt.DisplayName: 毁灭光束
+StarofDestruction.DisplayName: 毁灭之星
 
 Boss: {
-	AcceleratingEbonianGlob.DisplayName: Ebonian Glob
-	AcceleratingCrimulanGlob.DisplayName: Crimulan Glob
-	SlimeHomingEbonianGlob.DisplayName: Ebonian Glob
-	SlimeHomingCrimuleanGlob.DisplayName: Crimulean Glob
-	MutantYharonVortex.DisplayName: The Sun
-	IchorShotFast.DisplayName: Ichor Shot
+	AcceleratingEbonianGlob.DisplayName: 黑檀球
+	AcceleratingCrimulanGlob.DisplayName: 血化球
+	SlimeHomingEbonianGlob.DisplayName: 黑檀球
+	SlimeHomingCrimuleanGlob.DisplayName: 血化球
+	MutantYharonVortex.DisplayName: 耀日
+	IchorShotFast.DisplayName: 灵液束
 }
 
-SlamTelegraph.DisplayName: Slam Telegraph
-IceBomb.DisplayName: Ice Bomb
-IceCrystal.DisplayName: Ice Crystal
-IceChain.DisplayName: Ice Chain
-IceTrident.DisplayName: Ice Trident
-CrimsonPaladinSpike.DisplayName: Crimson Spike
-PermafrostHeldWeapon.DisplayName: Permafrost Held Weapon
-MutantOldDuke.DisplayName: Old Duke
-DLCMutantSpearSpin.DisplayName: Mutant's Atlantis
-DLCMutantSpearDash.DisplayName: Mutant's Atlantis
-MutantAresNuke.DisplayName: Mutant's Gauss Nuke
-MutantAresBomb.DisplayName: Mutant's Gauss Nuke
-DLCMutantFishronRitual.DisplayName: Mutant Gauss Ritual
-MutantSlimeGod.DisplayName: Slime God
-DLCBloomLine.DisplayName: Telegraph Line
-MutantSCal.DisplayName: Calamitas' Skullshield
-MutantPBG.DisplayName: Plaguebringer Goliath
-MutantAureusSpawn.DisplayName: Aureus Spawn
-MutantHolyRay.DisplayName: Holy Ray
-MutantDoGBody.DisplayName: The Devourer of Gods
-MutantDoGHead.DisplayName: The Devourer of Gods
-MutantDoGTail.DisplayName: The Devourer of Gods
-MutantPolter.DisplayName: Necroplasm
-ArcticPaw.DisplayName: Arctic Paw
-Blizzard.DisplayName: Blizzard
-DarkIceCrystal.DisplayName: Dark Ice Crystal
-FrostFlare.DisplayName: Frost Flare
-FrostShard.DisplayName: Frost Shard
-IceArrow.DisplayName: Ice Arrow
-IceShot.DisplayName: Ice Shot
-IceStar.DisplayName: Ice Star
-CryogenRitual.DisplayName: Cryogen Ritual
-PermafrostRitual.DisplayName: Permafrost Ritual
-IceCloud.DisplayName: Chilling Snow
-BrimstoneDebris.DisplayName: Brimstone Debris
-BrimstonePulse.DisplayName: Brimstone Pulse
-BrimstoneClone.DisplayName: Brimstone Clone
-BrimBeam.DisplayName: Brim Beam
-BrimstoneChainExplosion.DisplayName: Brimstone Chain Explosion
-BrimstoneTeleport.DisplayName: Brimstone Teleport
-BrimstoneFireblast.DisplayName: Brimstone Fireblast
-FeatherJumpFeather.DisplayName: Feather
+SlamTelegraph.DisplayName: 下砸预警线
+IceBomb.DisplayName: 冰炸弹
+IceCrystal.DisplayName: 冰晶
+IceChain.DisplayName: 冰锁链
+IceTrident.DisplayName: 冰冻三叉戟
+CrimsonPaladinSpike.DisplayName: 猩红尖刺
+PermafrostHeldWeapon.DisplayName: 永冻防身武器
+MutantOldDuke.DisplayName: 硫海遗爵
+DLCMutantSpearSpin.DisplayName: 突变体的亚特兰蒂斯
+DLCMutantSpearDash.DisplayName: 突变体的亚特兰蒂斯
+MutantAresNuke.DisplayName: 突变体的高斯核弹
+MutantAresBomb.DisplayName: 突变体的高斯核弹
+DLCMutantFishronRitual.DisplayName: 突变体高斯核弹圈
+MutantSlimeGod.DisplayName: 史莱姆之神
+DLCBloomLine.DisplayName: 预警线
+MutantSCal.DisplayName: 灾厄的骷髅护盾
+MutantPBG.DisplayName: 瘟疫使者歌莉娅
+MutantAureusSpawn.DisplayName: 白金星舰
+MutantHolyRay.DisplayName: 圣光
+MutantDoGBody.DisplayName: 神明吞噬者
+MutantDoGHead.DisplayName: 神明吞噬者
+MutantDoGTail.DisplayName: 神明吞噬者
+MutantPolter.DisplayName: 噬魂幽花
+ArcticPaw.DisplayName: 北极熊爪
+Blizzard.DisplayName: 吹雪
+DarkIceCrystal.DisplayName: 暗冰晶
+FrostFlare.DisplayName: 霜冻之炎
+FrostShard.DisplayName: 霜冻碎片
+IceArrow.DisplayName: 冰箭
+IceShot.DisplayName: 冰束
+IceStar.DisplayName: 冰星
+CryogenRitual.DisplayName: 极地之灵圈
+PermafrostRitual.DisplayName: 永冻圈
+IceCloud.DisplayName: 冰雪
+BrimstoneDebris.DisplayName: 硫火残骸
+BrimstonePulse.DisplayName: 牛货脉冲
+BrimstoneClone.DisplayName: 硫火复制体
+BrimBeam.DisplayName: 硫火光束
+BrimstoneChainExplosion.DisplayName: 硫火链爆
+BrimstoneTeleport.DisplayName: 硫火传送
+BrimstoneFireblast.DisplayName: 硫火爆炸
+FeatherJumpFeather.DisplayName: 羽毛
 MarniteDagger.DisplayName: 合成岩利刃
 MarniteLaser.DisplayName: 合成岩激光
-ProwlerTornado.DisplayName: Prowler Tornado
+ProwlerTornado.DisplayName: 巡游者龙卷
 WulfrumCollector.DisplayName: 钨钢收集器
 WulfrumScanner.DisplayName: 钨钢扫描器
-CrystalPlatform.DisplayName: Crystal Platform
+CrystalPlatform.DisplayName: 水晶平台
 PlagueCloud.DisplayName: 疫染毒云
-Eruption.DisplayName: Eruption
-VampireBat.DisplayName: Vampire Bat
-SulphurBubble.DisplayName: Sulphur Bubble
-VictideSpike.DisplayName: Victide Spike
-GoldenShowerShot.DisplayName: Golden Shower Shot
-HiveMindFiretrail.DisplayName: Cursed Fire
-BrainMassProjectile.DisplayName: Rotten Brainmass
-GravityVileClot.DisplayName: Vile Clot
-VileClotDrop.DisplayName: Vile Clot
-SulphurCloud.DisplayName: Sulphur Cloud
-PureGel.DisplayName: Pure Gel
-HiveMindPulse.DisplayName: Hive Mind Pulse
+Eruption.DisplayName: 喷发
+VampireBat.DisplayName: 吸血鬼蝙蝠
+SulphurBubble.DisplayName: 硫磺泡泡
+VictideSpike.DisplayName: 胜潮尖刺
+GoldenShowerShot.DisplayName: 黄金雨
+HiveMindFiretrail.DisplayName: 诅咒焰
+BrainMassProjectile.DisplayName: 腐烂大脑物质
+GravityVileClot.DisplayName: 恶毒瘤块
+VileClotDrop.DisplayName: 恶毒瘤块
+SulphurCloud.DisplayName: 硫磺云
+PureGel.DisplayName: 纯净凝胶
+HiveMindPulse.DisplayName: 腐巢意志脉冲
 ApolloLineTelegraph.DisplayName: 阿波罗路线预警
 ApolloMissile.DisplayName: 等离子导弹
 AresMissile.DisplayName: 热能导弹
@@ -109,7 +109,7 @@ LargeTeslaSphereExplosion.DisplayName: 特斯拉爆破
 LingeringPlasmaFireball.DisplayName: 滞留等离子火球
 SmallTeslaArc.DisplayName: 特斯拉电弧
 ExothermalDisintegrationRay.DisplayName: 星流热能裂解射线
-ScourgeSandstream.DisplayName: Scourge Sandstream
+ScourgeSandstream.DisplayName: 灾虫流沙
 SmallTeslaSphere.DisplayName: 特斯拉电球
 PlasmaFlameJet.DisplayName: 星流等离子火焰喷流
 BlazingExoLaserbeam.DisplayName: 星流激光火焰
@@ -123,55 +123,55 @@ AresHyperfuturisticPortal.DisplayName: 超未来主义传送门
 ExoTwinHyperfuturisticPortal.DisplayName: 超未来主义传送门
 HadesMissile.DisplayName: 强化导弹
 CodebreakerDataStream.DisplayName: 密码破译器激光
-CrabulonJumpTelegraph.DisplayName: Crabulon Jump Telegraph
-BigBubble.DisplayName: Big Bubble
-Bubble.DisplayName: Bubble
-AquaticSuck.DisplayName: Aquatic Suck
-FlamableGas.DisplayName: Flamable Gas
-ToxicGas.DisplayName: Toxic Gas
-FathomAngler.DisplayName: Fathom Angler
-AstralTrailStar.DisplayName: Astral Trail Star
-BrimflameBurst.DisplayName: Brimflame Burst
-ClamSlam.DisplayName: Clam Slam
+CrabulonJumpTelegraph.DisplayName: 菌生蟹跳跃预警线
+BigBubble.DisplayName: 大泡泡
+Bubble.DisplayName: 泡泡
+AquaticSuck.DisplayName: 渊海泡泡
+FlamableGas.DisplayName: 可燃气体
+ToxicGas.DisplayName: 毒气
+FathomAngler.DisplayName: 幻渊之钓
+AstralTrailStar.DisplayName: 星幻尾迹星
+BrimflameBurst.DisplayName: 硫火爆炸
+ClamSlam.DisplayName: 蛤击
 SmallCannonLaser.DisplayName: 激光
 PulseBlast.DisplayName: 脉冲爆
 HadesLineTelegraph.DisplayName: 哈迪斯预警线
 ApolloMissile2.DisplayName: 阿波罗导弹
-BatMode.DisplayName: Bat Mode
-PerfExplosion.DisplayName: Perforating Explosion
-PerforatorSpike.DisplayName: Perforating Spike
-PerforatorLegHitbox.DisplayName: Perforator Leg
-PerforatorRubble.DisplayName: Perforating Rubble
+BatMode.DisplayName: 蝠群
+PerfExplosion.DisplayName: 血肉寄生者穿刺爆炸
+PerforatorSpike.DisplayName: 血肉寄生者尖刺
+PerforatorLegHitbox.DisplayName: 血肉宿主腿
+PerforatorRubble.DisplayName: 血肉碎块
 DaedalusArrow.DisplayName: 代达罗斯箭矢
-ExplorationFeather.DisplayName: Feather
-SulphurParticulate.DisplayName: Sulphur Particulate
-GaleSpine.DisplayName: Gale Spine
+ExplorationFeather.DisplayName: 羽毛
+SulphurParticulate.DisplayName: 硫磺颗粒
+GaleSpine.DisplayName: 风涛之刺
 HydrothermicVentShot.DisplayName: 混沌烈焰
-ChargedGigablast.DisplayName: Brimstone Gigablast
-SuckedRock.DisplayName: Sucked Rock
-CalcloneWave.DisplayName: Fire Wave
-EmpyreanStar.DisplayName: Empyrean Star
-BrimstoneArtillery.DisplayName: Brimstone Hellblast
-BrimstoneFireball.DisplayName: Brimstone Fireball
-Gigablast.DisplayName: Brimstone Gigablast
-Fireblast.DisplayName: Brimstone Fireblast
-BrimstoneBall.DisplayName: Brimstone Fireball
-BrothersEyeFlash.DisplayName: Eye Flash
-BrimstoneBarrageGravitating.DisplayName: Brimstone Dart
-MutantFrostMist.DisplayName: Frost Mist
-CalcloneFireBackground.DisplayName: Fire Background
-BrothersDashTrail.DisplayName: Dash Trail
-AquaticUrchinProjectile.DisplayName: Aquatic Urchin
-ArsenalCrate.DisplayName: Explosive Crate
-ExplosiveCrate.DisplayName: Explosive Crate
-FallingVomitGore.DisplayName: Gore
-FuelSpark.DisplayName: Fuel Spark
-LingeringAcidBubble.DisplayName: Acid Bubble
-NuclearHurricane.DisplayName: Nuclear Hurricane
-NuclearVortex.DisplayName: Nuclear Vortex
-SwervingRadioactiveCinder.DisplayName: Radioactive Cinder
-TastyFuelContainer.DisplayName: Fuel Container
-TrasherProjectile.DisplayName: Trasher
-VortexFormingAcidDroplet.DisplayName: Acid Droplet
-AbomMauler.DisplayName: Mauler
-MushroomSpear2.DisplayName: Mushroom Spear
+ChargedGigablast.DisplayName: 硫火巨爆
+SuckedRock.DisplayName: 岩石
+CalcloneWave.DisplayName: 火浪
+EmpyreanStar.DisplayName: 皇天之星
+BrimstoneArtillery.DisplayName: 硫磺火狱爆
+BrimstoneFireball.DisplayName: 硫磺火球
+Gigablast.DisplayName: 硫磺火巨爆
+Fireblast.DisplayName: 硫磺火爆炸
+BrimstoneBall.DisplayName: 硫磺火球
+BrothersEyeFlash.DisplayName: 眼之闪
+BrimstoneBarrageGravitating.DisplayName: 硫火飞弹
+MutantFrostMist.DisplayName: 霜冻之雾
+CalcloneFireBackground.DisplayName: 火焰背景
+BrothersDashTrail.DisplayName: 冲刺尾迹
+AquaticUrchinProjectile.DisplayName: 渊海海胆
+ArsenalCrate.DisplayName: 爆炸匣
+ExplosiveCrate.DisplayName: 爆炸匣
+FallingVomitGore.DisplayName: 血污
+FuelSpark.DisplayName: 燃油火花
+LingeringAcidBubble.DisplayName: 酸性泡泡
+NuclearHurricane.DisplayName: 辐核飓风
+NuclearVortex.DisplayName: 辐核旋涡
+SwervingRadioactiveCinder.DisplayName: 辐射余烬
+TastyFuelContainer.DisplayName: 燃油容器
+TrasherProjectile.DisplayName: 捣碎鳄
+VortexFormingAcidDroplet.DisplayName: 酸滴
+AbomMauler.DisplayName: 渊海狂鲨
+MushroomSpear2.DisplayName: 蘑菇刺矛
