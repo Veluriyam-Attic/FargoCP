@@ -9,22 +9,22 @@ AddedEffects: {
 		获得甜蜜的复仇，黑曜石鳞片和界元之庇佑
 		魂匣，岩石之心和刺甲贝的效果
 		'''
-	CalamityBerserker: Effects of Badge of Bravery and Elemental Gauntlet
-	ThoriumBerserker: Effects of Rapier Badge
-	CalamityWizard: Effects of Ethereal Talisman
-	ThoriumWizard: Effects of Murky Catalyst
-	CalamitySniper: Effects of Elemental Quiver and Quiver of Nihility
-	Vagabond: Effects of Nanotech and Eclipse Mirror
-	ThoriumSniper: Effects of Concussive Warhead
-	CalamityConjurist: Effects of Nucleogenesis
-	ThoriumConjurist: Effects of Yuma's Pendant and Crystal Scorpion
-	CalamityTrawler: Effects of Abyssal Diving Suit
-	CalamityWorldShaper: Effects of Marnite Architect Enchantment
+	CalamityBerserker: 获得勇气勋章和元素之握的效果
+	ThoriumBerserker: 获得长剑徽章的效果
+	CalamityWizard: 获得空灵护符的效果
+	ThoriumWizard: 获得暗影催化剂的效果
+	CalamitySniper: 获得元素箭袋和虚无箭袋的效果
+	Vagabond: 获得纳米技术和日蚀魔镜的效果
+	ThoriumSniper: 获得震荡弹头的效果
+	CalamityConjurist: 获得核子之源的效果
+	ThoriumConjurist: 获得游马的皇之键和水晶蝎的效果
+	CalamityTrawler: 获得深渊潜游服的效果
+	CalamityWorldShaper: 获得合成岩建筑师的效果
 	ThoriumUniverse:
 		'''
-		15% increased throwing velocity
-		Effects of Guide to Expert Throwing Volume III,
-		Mermaid Canteen, and Deadman's Patch
+		增加15%投掷速度
+		获得投手大师指南：卷三
+		美人鱼水壶和亡者眼罩的效果
 		'''
 }
 
@@ -469,11 +469,11 @@ FathomSwarmerEnchant: {
 
 AstralEnchant: {
 	DisplayName: 星幻魔石
-	Tooltip: You are followed by a trail of damaging astral stars
+	Tooltip: 你的身后将跟随着一群伤害性的幻星
 }
 
 BrimflameEnchant: {
-	DisplayName: Brimflame Enchantment
+	DisplayName: 硫火魔石
 	Tooltip:
 		'''
 		Press Debuff Install key to consume all of your defense and release a wave of brimstone flames in all directions
@@ -481,8 +481,8 @@ BrimflameEnchant: {
 		Your defense will regenerate over time
 		Can only be used when at maximum defense
 		'''
-	DefenseDown: -{0} defense
-	DefenseUp: +{0} defense
+	DefenseDown: -{0}防御
+	DefenseUp: +{0}防御
 }
 
 MolluskEnchant: {
@@ -499,7 +499,7 @@ MolluskEnchant: {
 NotConsumable: 不消耗
 
 EmpyreanEnchant: {
-	DisplayName: Empyrean Enchantment
+	DisplayName: 皇天魔石
 	Tooltip:
 		'''
 		Moving slowly or standing still for 2 seconds empowers your next hit
@@ -515,12 +515,12 @@ Archmage: {
 
 SeaKing: {
 	DisplayName: 海王
-	Tooltip: “家园陷落，国民散轶……但我会帮助你去纪念他们。”
+	Tooltip: “家园陷落，国民散轶……但我会帮助你去纪念他们”
 }
 
 Bandit: {
 	DisplayName: 强盗
-	Tooltip: “只要使劲扔，万物皆武器。”
+	Tooltip: “只要使劲扔，万物皆武器”
 }
 
 DrunkPrincess: {
@@ -530,5 +530,5 @@ DrunkPrincess: {
 
 BrimstoneWitch: {
 	DisplayName: 硫火女巫
-	Tooltip: “如果有什么你需要的诅咒被不慎解除了……好吧我也不是你的人。”
+	Tooltip: “如果有什么你需要的诅咒被不慎解除了……好吧我也不是你的人”
 }
