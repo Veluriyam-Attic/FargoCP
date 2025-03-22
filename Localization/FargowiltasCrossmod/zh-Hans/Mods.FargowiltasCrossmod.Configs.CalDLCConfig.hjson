@@ -1,43 +1,43 @@
-DisplayName: Calamity Config
+DisplayName: 灾厄相关设置
 
 Headers: {
-	Modes: Modes
-	Balance: Balance
+	Modes: 模式
+	Balance: 平衡
 }
 
 ConsumableSummons: {
-	Label: Summon Items are Consumable in Eternity Mode
+	Label: 永恒模式下召唤物可消耗
 	Tooltip:
 		'''
-		Changes vanilla and Calamity summon items to be consumable, overriding the Calamity non-consumable change.
-		This change exists purely for consistency with the following features:
-		- Summon items being refunded on boss attempts in Eternity Mode (effectively the same as being non-consumable)
-		- The Mutant NPC
-		- The Mutant Mod summon item variants
+		将原版和灾厄的召唤物改为可消耗，覆盖灾厄将它们改为不可消耗的更改
+		此改动完全是为了与下列功能相匹配：
+		- 永恒模式下未击败Boss时召唤Boss将会退回召唤物（实际上等同于不消耗召唤物）
+		- 突变体NPC在击败Boss后售卖Boss召唤物的功能
+		- Fargo's Mutant Mod为Boss添加的召唤物变种
 		'''
 }
 
 EternityPriorityOverRev: {
-	Label: Eternity Priority over Calamity Modes
+	Label: 永恒模式优先级高于复仇/死亡模式
 	Tooltip:
 		'''
-		Enabled: Eternity Mode behaviour takes priority over Calamity boss changes. Some Calamity bosses have new Eternity Mode behavior.
-		Disabled: Calamity boss changes take priority over Eternity. 
+		启用时：使Boss的永恒模式AI优先于复仇/死亡模式或其它灾厄难度的AI。部分灾厄Boss会获得全新的永恒模式AI更改。
+		禁用时：灾厄的难度模式优先级会高于永恒模式。
 		'''
 }
 
 InfernumDisablesEternity: {
-	Label: Infernum Mode Disables Eternity Mode
+	Label: 炼狱模式下禁用永恒模式
 	Tooltip:
 		'''
-		Only relevant with the Infernum Mode mod enabled.
-		Keep in mind, INFERNUM IS NOT COMPATIBLE. Regardless of this config, expect issues to occur.
-		Enabled: Infernum Mode difficulty fully disables Eternity Mode.
-		Disabled: Eternity will be enabled in Infernum Mode, but Infernum boss AI will take priority unless "Eternity Priority over Calamity Modes" is enabled.
+		仅当加载炼狱模组时生效
+		记住，炼狱是 不 兼 容 的。不管这个设置项是开还是关，出问题都是正常的。
+		启用时：炼狱模式会完全禁用永恒模式 
+		禁用时：开启炼狱模式时会同时开启永恒模式，但除非启用上一条配置选项，否则Boss将采用炼狱模式的AI。
 		'''
 }
 
 VoiceActingEnabled: {
-	Label: Voice Acting Enabled
-	Tooltip: Whether voice acting is enabled in the mod
+	Label: 启用配音
+	Tooltip: 设置游戏中配音是否启用
 }
