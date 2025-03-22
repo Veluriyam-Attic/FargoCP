@@ -497,7 +497,7 @@ MolluskEnchant: {
 }
 
 # This is used to detect and remove lines, not displayed. Must match Cal's localization.
-NotConsumable: Not consumable
+NotConsumable: 不消耗
 
 EmpyreanEnchant: {
 	DisplayName: Empyrean Enchantment
@@ -510,26 +510,26 @@ EmpyreanEnchant: {
 }
 
 Archmage: {
-	DisplayName: Archmage
-	Tooltip: "'You have the makings of a gifted mage. Tell me, what do you think of ice magic?'"
+	DisplayName: 大法师
+	Tooltip: “我看你骨骼惊奇，很有魔法天赋。告诉我，你对冰魔法怎么看？”
 }
 
 SeaKing: {
-	DisplayName: Sea King
-	Tooltip: "'My home may have been destroyed and my people lost... But I will assist you to honor their memory.'"
+	DisplayName: 海王
+	Tooltip: “家园陷落，国民散轶……但我会帮助你去纪念他们。”
 }
 
 Bandit: {
-	DisplayName: Bandit
-	Tooltip: "'Anything is a weapon if you throw it hard enough.'"
+	DisplayName: 强盗
+	Tooltip: “只要使劲扔，万物皆武器。”
 }
 
 DrunkPrincess: {
-	DisplayName: Drunk Princess
-	Tooltip: Not gonna copy paste any of these quotes man what the hell
+	DisplayName: 醉仙女
+	Tooltip: 谁爱复制粘贴引文谁复制去，管他呢
 }
 
 BrimstoneWitch: {
-	DisplayName: Brimstone Witch
-	Tooltip: "'If you've got any curses you want dispelled... well I'm not your person.'"
+	DisplayName: 硫火女巫
+	Tooltip: “如果有什么你需要的诅咒被不慎解除了……好吧我也不是你的人。”
 }
