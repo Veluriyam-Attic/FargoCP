@@ -1,9 +1,9 @@
-FungalClump.DisplayName: Fungal Clump
-LargePerforatorBody.DisplayName: Large Perforator
-LargePerforatorBody2.DisplayName: Large Perforator
-LargePerforatorHead.DisplayName: Large Perforator
-LargePerforatorTail.DisplayName: Large Perforator
-PermafrostBoss.DisplayName: Permafrost
+FungalClump.DisplayName: 真菌堆
+LargePerforatorBody.DisplayName: 大血肉寄生者
+LargePerforatorBody2.DisplayName: 大血肉寄生者
+LargePerforatorHead.DisplayName: 大血肉寄生者
+LargePerforatorTail.DisplayName: 大血肉寄生者
+PermafrostBoss.DisplayName: 永冻
 
 AresHand: {
 	DisplayName: 阿瑞斯之手
@@ -79,25 +79,25 @@ Draedon: {
 }
 
 MutantGFBText: {
-	QuoteP2: Time to stop playing around.
-	QuoteDoG: The world is trembling..
+	QuoteP2: 是时候停止嬉戏了
+	QuoteDoG: 世界在震颤……
 }
 
 ShopModSwapper: {
-	Default: Switch Mod
-	Vanilla: Vanilla
-	Calamity: Calamity Mod
+	Default: 切换模组
+	Vanilla: 原版
+	Calamity: 灾厄
 }
 
 PermafrostChat: {
-	Defeat1: You clearly possess great skill! My thanks to you for freeing me, and providing an opportunity to defrost my fighting abilities.
-	Defeat2: Aah, a good round of sparring. I need the exercise, so thanks for that.
+	Defeat1: 你技艺超凡！感谢你解救了我，并解放了我的战斗能力。
+	Defeat2: 啊，一场精彩的切磋.这场锻炼中我获益匪浅，谢谢你！
 }
 
 ThanatosRename: XM-04 “哈迪斯”
 ApolloRename: XS-11 “阿波罗”
 ExoTwinsRenameNormal: XS-01 “阿尔忒弥斯”和 XS-11 “阿波罗”
 MutantBR.DisplayName: Mutant B R
-MediumWormBodySegment.DisplayName: Medium Worm Body Segment
-MediumWormHeadSegment.DisplayName: Medium Worm Head Segment
-MediumWormTailSegment.DisplayName: Medium Worm Tail Segment
+MediumWormBodySegment.DisplayName: 中型蠕虫体节
+MediumWormHeadSegment.DisplayName: 中型蠕虫头部
+MediumWormTailSegment.DisplayName: 中型蠕虫尾部
