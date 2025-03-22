@@ -5,11 +5,12 @@ PickPowerDownGeneric: 镐力降低{0}%
 MagicDagger: 困难模式前伤害降低50%
 ProfanedCrystal: 在存在任何仆从时大幅降低伤害
 MythrilEnch: 对盗贼武器加成减少
-OrichalcumEnch: 效果削弱
+OrichalcumEnch: 减益伤害的增加削弱至1.5倍
 Daawnlight: 锡魔石生效时失效
 SlimyShield: 不会造成涂油减益
 FlightMastery: 当与非Fargo魂石的boss战斗时，减少飞行属性
 LifeForce: 当与非Fargo魂石的boss战斗时，减少飞行属性和飞行时间
+EarthForce: 减益伤害的增加削弱至2倍
 OnionPackUpgrade: 现在作为[i:FargowiltasSouls/MutantsPact]突变体契约的升级，以允许将任何饰品放入其提供的栏位
 Laudanum: 减半大多数增益效果
 HardmodeSwords: 减少提供的属性加成
