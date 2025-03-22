@@ -4,6 +4,7 @@
 汉化质量差，请多多来群里反馈骂我
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2847120725&searchtext=]Fargo突变与魂石汉化 [/url] 
+[url=https://github.com/Veluriyam-Attic/FargoCP]本汉化开源库[/url]
 
 [h1]†Ξ介绍Ξ†[/h1]
 本品为由玲珑汉化组、ROH、狐狸、芸笙和依稀共同制作的汉化
