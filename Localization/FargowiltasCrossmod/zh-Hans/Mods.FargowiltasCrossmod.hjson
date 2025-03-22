@@ -61,11 +61,11 @@ UI: {
 
 Buffs: {
 	CalamitousPresenceBuff: {
-		Description: 
- 			'''
- 			防御、伤害减免和生命再生降低
- 			月蛭效果；缩小擦弹范围
- 			'''
+		Description:
+			'''
+			防御、伤害减免和生命再生降低
+			月蛭效果；缩小擦弹范围
+			'''
 		DisplayName: 灾厄驾到
 	}
 }
