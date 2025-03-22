@@ -85,12 +85,12 @@ ExpandedTooltips: {
 RecipeGroups: {
 	GildedDagger: 闪亮匕首或镀金匕首
 	EvilBar: 魔矿/猩红锭
-	VictideHelmet: 任意胜潮头部盔甲
-	AerospecHelmet: 任意天蓝头部盔甲
-	StatigelHelmet: 任意斯塔提斯头部盔甲
-	ReaverHelmet: 任意掠夺者头部盔甲
-	DaedalusHelmet: 任意代达罗斯头部盔甲
-	HydrothermicHelmet: 任意渊泉头部盔甲
+	VictideHelmet: 胜潮头部盔甲
+	AerospecHelmet: 天蓝头部盔甲
+	StatigelHelmet: 斯塔提斯头部盔甲
+	ReaverHelmet: 掠夺者头部盔甲
+	DaedalusHelmet: 代达罗斯头部盔甲
+	HydrothermicHelmet: 渊泉头部盔甲
 }
 
 BossRushDialogue: {
