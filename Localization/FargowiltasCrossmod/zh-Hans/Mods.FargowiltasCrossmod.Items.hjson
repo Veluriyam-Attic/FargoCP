@@ -502,9 +502,9 @@ EmpyreanEnchant: {
 	DisplayName: 皇天魔石
 	Tooltip:
 		'''
-		Moving slowly or standing still for 2 seconds empowers your next hit
-		Empowered hits deal double damage, heal 20 HP, fills up rage, and create homing empyrean stars on collision
-		This effect has a 12 to 4 second cooldown, becoming shorter the more rage you have
+		缓慢移动或静止两秒后会使你的下一次攻击得到强化
+		强化攻击造成两倍伤害, 恢复20点生命值, 同时充满怒气, 并在碰撞时产生可以追踪的皇天落星
+		该效果有4-12秒的冷却,怒气值越多冷却越短
 		'''
 }
 
