@@ -13,12 +13,12 @@ PlagueReaper:
 	蔓延的减益可以持续更久
 	'''
 Umbraphile: 蝙蝠造成更多伤害，给予更多治疗
-Sulphur: Jumps create 3 bubbles
-Victide: Spikes are no longer affected by gravity and inflict venom
-Statigel: Higher maximum speed, damage bonus doubled
-TitanHeart: Doubled damage reduction, increased grounded charge rate to 100% total
-FathomSwarmer: Larger Light, Faster Fish
-Astral: Longer trail, more damage
-Brimflame: Consumes only half of your defense, but still retains effect of all of your defense
-Mollusk: More damage, More immunity frames
-Empyrean: Increases damage, healing, and rage generation
+Sulphur: 跳跃产生3个气泡
+Victide: 海胆尖刺不再受重力影响并且会附加酸性毒液效果
+Statigel: 更高的移动速度, 伤害加成翻倍
+TitanHeart: 伤害减免翻倍, 落地时速度增加至100%
+FathomSwarmer: 光照范围更大，鮟鱇鱼移动速度更高
+Astral: 更长的幻星, 更高伤害
+Brimflame: 仅消耗一半防御, 但是仍然需要在达到当前最大防御力时才能启用该效果
+Mollusk: 更高伤害，更长无敌帧
+Empyrean: 增加伤害, 恢复的生命值和怒气充能速度
