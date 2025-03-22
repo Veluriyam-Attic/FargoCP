@@ -1,10 +1,10 @@
 ReaverEffect: {
-	DisplayName: Reaver Adaptability
+	DisplayName: 掠夺者适应力
 	Tooltip:
 		'''
-		Switch between Plated and Swift Mode
-		Plated Mode: Increases defense by 15 and damage reduction by 15%, taking damage grants Reaver Rage and summons a thorn spike
-		Swift Mode: Grants massive life regeneration, increases wing time and speed by 10%, reduces dash cooldown, increases hook speed
+		在重甲和轻捷模式间切换
+		重甲模式：增加15点防御和伤害，增加15%伤害减免；受到伤害会获得掠夺者之怒，并召唤尖刺
+		轻捷模式：获得大量生命再生，增加10%飞行时间和速度，降低冲刺冷却，增加勾爪速度
 		'''
 }
 
