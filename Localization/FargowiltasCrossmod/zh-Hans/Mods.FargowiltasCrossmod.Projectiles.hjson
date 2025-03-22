@@ -74,7 +74,7 @@ ProwlerTornado.DisplayName: Prowler Tornado
 WulfrumCollector.DisplayName: 钨钢收集器
 WulfrumScanner.DisplayName: 钨钢扫描器
 CrystalPlatform.DisplayName: Crystal Platform
-PlagueCloud.DisplayName: Plague Cloud
+PlagueCloud.DisplayName: 疫染毒云
 Eruption.DisplayName: Eruption
 VampireBat.DisplayName: Vampire Bat
 SulphurBubble.DisplayName: Sulphur Bubble
@@ -142,7 +142,7 @@ PerfExplosion.DisplayName: Perforating Explosion
 PerforatorSpike.DisplayName: Perforating Spike
 PerforatorLegHitbox.DisplayName: Perforator Leg
 PerforatorRubble.DisplayName: Perforating Rubble
-DaedalusArrow.DisplayName: Daedalus Arrow
+DaedalusArrow.DisplayName: 代达罗斯箭矢
 ExplorationFeather.DisplayName: Feather
 SulphurParticulate.DisplayName: Sulphur Particulate
 GaleSpine.DisplayName: Gale Spine

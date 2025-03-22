@@ -25,7 +25,7 @@ DraedonsHeartEffect: Draedons Heart
 CalamityEffect: "{$Mods.CalamityMod.Items.Accessories.Calamity.DisplayName}"
 // gale
 GaleHeader: Force of the Gale
-SnowRuffianEffect: Better Gliding
+SnowRuffianEffect: 更好的滑翔
 GaleSlowfallEffect: Slowfall
 StatigelEffect: Statigel Movement
 SulphurEffect: Bubble Jump
@@ -35,7 +35,7 @@ DesertProwlerEffect: 充能跳跃
 GaleJumpEffect: Infinite Jumps
 // elements
 ElementsHeader: Force of the Elements
-DaedalusEffect: Daedalus Arrows
+DaedalusEffect: 代达罗斯箭矢
 ReaverEffect: Reaver Stats
 HydrothermicEffect: Overheat
 AerospecJumpEffect: 天蓝效果
@@ -44,8 +44,8 @@ MarniteRepulsionEffect: 合成岩斥力
 MarniteLasersEffect: 合成岩激光
 // others
 WulfrumEffect: 钨钢无人机
-PlaguebringerEffect: Plague Cloud
-PlagueReaperEffect: Debuff Spread
+PlaguebringerEffect: 疫染毒云
+PlagueReaperEffect: 减益蔓延
 TitanHeartEffect: Titan Size
 UmbraphileEffect: Bat Mode
 FathomSwarmerEffect: Angler Fish

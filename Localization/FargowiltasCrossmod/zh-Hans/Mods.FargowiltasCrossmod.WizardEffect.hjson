@@ -3,14 +3,14 @@ Marnite: 增加激光的伤害和范围，翻倍放置加成
 DesertProwler: 更强的跳跃，更强的击退和伤害
 Wulfrum: 被扫描的敌怪受到伤害性减益时产生的额外伤害增加
 Hydrothermic: Overheat lasts for longer, damage reduction increased to 45%, flare damage increased
-Daedalus: Increased arrow damage, amount and speed
-SnowRuffian: Increased wing strength
+Daedalus: 增加箭矢的伤害，数量和速度
+SnowRuffian: 增加翅膀能力
 Reaver: Defense and damage reduction increased to 30 and 30%, increased life regen and movement speed, increased thorn damage and buff duration
-Plaguebringer: Plague cloud deals more damage and charges from longer away
+Plaguebringer: 疫染毒云造成更多伤害并增大触发充能的范围
 PlagueReaper:
 	'''
-	Debuffs spread from farther 
-	Enemies spread debuffs for a longer amount of time
+	减益可以从更远的地方蔓延
+	蔓延的减益可以持续更久
 	'''
 Umbraphile: Bats deal more damage and heal for more
 Sulphur: Jumps create 3 bubbles
