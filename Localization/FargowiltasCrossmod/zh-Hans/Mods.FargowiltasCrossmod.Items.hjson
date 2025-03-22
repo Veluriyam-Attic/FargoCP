@@ -469,7 +469,7 @@ FathomSwarmerEnchant: {
 
 AstralEnchant: {
 	DisplayName: 星幻魔石
-	Tooltip: 你的身后将跟随着一群伤害性的幻星
+	Tooltip: 你的身后将跟随着一条伤害性的幻星
 }
 
 BrimflameEnchant: {
