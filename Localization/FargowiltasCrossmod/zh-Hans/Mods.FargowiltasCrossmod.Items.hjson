@@ -476,10 +476,10 @@ BrimflameEnchant: {
 	DisplayName: 硫火魔石
 	Tooltip:
 		'''
-		Press Debuff Install key to consume all of your defense and release a wave of brimstone flames in all directions
-		Becomes stronger the more defense is consumed
-		Your defense will regenerate over time
-		Can only be used when at maximum defense
+		按下[减益负载]按键来失去所有防御并向四周释放一阵硫火冲击波
+		防御力消耗越多造成的伤害越高
+		你的防御力会随着时间逐渐恢复
+		只能在达到当前最大防御值时启用该效果
 		'''
 	DefenseDown: -{0}防御
 	DefenseUp: +{0}防御
@@ -489,9 +489,9 @@ MolluskEnchant: {
 	DisplayName: 软壳魔石
 	Tooltip:
 		'''
-		Press Special Dash key to quickly slam downwards
-		Hitting an enemy with the slam deals massive damage and gives you immunity frames
-		Only goes on cooldown on enemy hits
+		按下[特殊冲刺]按键来迅速向下猛冲
+		击中敌人会造成巨大伤害并赋予你无敌帧
+		只有在命中敌人时才会冷却
 		'''
 }
 
