@@ -68,11 +68,11 @@ BrimstoneChainExplosion.DisplayName: Brimstone Chain Explosion
 BrimstoneTeleport.DisplayName: Brimstone Teleport
 BrimstoneFireblast.DisplayName: Brimstone Fireblast
 FeatherJumpFeather.DisplayName: Feather
-MarniteDagger.DisplayName: Marnite Dagger
-MarniteLaser.DisplayName: Marnite Laser
+MarniteDagger.DisplayName: 合成岩利刃
+MarniteLaser.DisplayName: 合成岩激光
 ProwlerTornado.DisplayName: Prowler Tornado
-WulfrumCollector.DisplayName: Wulfrum Collector
-WulfrumScanner.DisplayName: Wulfrum Scanner
+WulfrumCollector.DisplayName: 钨钢收集器
+WulfrumScanner.DisplayName: 钨钢扫描器
 CrystalPlatform.DisplayName: Crystal Platform
 PlagueCloud.DisplayName: Plague Cloud
 Eruption.DisplayName: Eruption
