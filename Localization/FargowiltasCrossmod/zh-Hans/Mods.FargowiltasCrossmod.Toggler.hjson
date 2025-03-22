@@ -37,7 +37,7 @@ GaleJumpEffect: Infinite Jumps
 ElementsHeader: Force of the Elements
 DaedalusEffect: 代达罗斯箭矢
 ReaverEffect: 掠夺者属性提升
-HydrothermicEffect: Overheat
+HydrothermicEffect: 积蓄热量
 AerospecJumpEffect: 天蓝效果
 // world shaper
 MarniteRepulsionEffect: 合成岩斥力
@@ -47,7 +47,7 @@ WulfrumEffect: 钨钢无人机
 PlaguebringerEffect: 疫染毒云
 PlagueReaperEffect: 减益蔓延
 TitanHeartEffect: Titan Size
-UmbraphileEffect: Bat Mode
+UmbraphileEffect: 蝠群模式
 FathomSwarmerEffect: Angler Fish
 BrimflameEffect: Brimflame Burst
 MolluskEffect: Mollusk Slam

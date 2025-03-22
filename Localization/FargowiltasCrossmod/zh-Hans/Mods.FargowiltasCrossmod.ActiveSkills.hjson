@@ -9,16 +9,16 @@ ReaverEffect: {
 }
 
 UmbraphileEffect: {
-	DisplayName: Bat Swarm Transformation
+	DisplayName: 蝠群变身
 	Tooltip:
 		'''
-		Temporarily become a swarm of bats
-		While in this form, you are immune to damage, have +30% increased movement speed, and infinite flight
-		The bat swarm deals damage and steals life on hit
+		暂时变身为一群蝙蝠
+		在这一形态下，你免疫伤害，获得+30%移动速度，且能无限飞行
+		蝠群可以伤害敌怪，并在击中时偷取生命
 		'''
 }
 
 ElementsForceEffect: {
-	DisplayName: Elemental Shift
-	Tooltip: Switch between Magma and Blizzard Mode
+	DisplayName: 元灵轮转
+	Tooltip: 在炎流和凛冰模式之间切换
 }
