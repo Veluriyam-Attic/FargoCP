@@ -7,8 +7,8 @@ PermafrostBoss.DisplayName: 永冻
 
 AresHand: {
 	DisplayName: 阿瑞斯之手
-	EnergyKatanaDisplayName: XF-09 “阿瑞斯”能量斩
-	PulseCannonDisplayName: XF-09 “阿瑞斯”脉冲炮
+	EnergyKatanaDisplayName: XF-09 阿瑞斯 能量斩
+	PulseCannonDisplayName: XF-09 阿瑞斯 脉冲炮
 }
 
 Draedon: {
@@ -94,9 +94,9 @@ PermafrostChat: {
 	Defeat2: 啊，一场精彩的切磋.这场锻炼中我获益匪浅，谢谢你！
 }
 
-ThanatosRename: XM-04 “哈迪斯”
-ApolloRename: XS-11 “阿波罗”
-ExoTwinsRenameNormal: XS-01 “阿尔忒弥斯”和 XS-11 “阿波罗”
+ThanatosRename: XM-04 哈迪斯
+ApolloRename: XS-11 阿波罗
+ExoTwinsRenameNormal: XS-01 阿尔忒弥斯和 XS-11 阿波罗
 MutantBR.DisplayName: 突变体
 MediumWormBodySegment.DisplayName: 中型蠕虫体节
 MediumWormHeadSegment.DisplayName: 中型蠕虫头部
