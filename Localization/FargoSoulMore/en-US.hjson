@@ -1,0 +1,9 @@
+Mods: {
+	FargoSoulMore: {
+		Keybinds: {
+			StarWrath.DisplayName: Star Rain
+			Supernova.DisplayName: Reality Shatterer
+			SuperNova.DisplayName: Super Nova
+		}
+	}
+}
