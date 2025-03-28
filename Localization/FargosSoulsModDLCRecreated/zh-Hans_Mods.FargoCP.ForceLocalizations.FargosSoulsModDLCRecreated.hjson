@@ -4,477 +4,477 @@ Items: {
 			BloodflareEnchantment: {
 				ModifyTooltips: {
 					45: {
-						// NewString: This can be toggled off, however, a brimflame frenzy has a 30 second cooldown
-						// OldString: This can be toggled off, however, a brimflame frenzy has a 30 second cooldown
+						NewString: This can be toggled off, however, a brimflame frenzy has a 30 second cooldown
+						OldString: This can be toggled off, however, a brimflame frenzy has a 30 second cooldown
 					}
 
 					44: {
-						// NewString: Tooltip23
-						// OldString: Tooltip23
+						NewString: Tooltip23
+						OldString: Tooltip23
 					}
 
 					43: {
-						// NewString: However, this comes at the cost of rapid life loss and no mana regeneration
-						// OldString: However, this comes at the cost of rapid life loss and no mana regeneration
+						NewString: However, this comes at the cost of rapid life loss and no mana regeneration
+						OldString: However, this comes at the cost of rapid life loss and no mana regeneration
 					}
 
 					42: {
-						// NewString: Tooltip22
-						// OldString: Tooltip22
+						NewString: Tooltip22
+						OldString: Tooltip22
 					}
 
 					41: {
-						// NewString: While under this effect, you get an additional 40% increase to magic damage
-						// OldString: While under this effect, you get an additional 40% increase to magic damage
+						NewString: While under this effect, you get an additional 40% increase to magic damage
+						OldString: While under this effect, you get an additional 40% increase to magic damage
 					}
 
 					40: {
-						// NewString: Tooltip21
-						// OldString: Tooltip21
+						NewString: Tooltip21
+						OldString: Tooltip21
 					}
 
 					4: {
-						// NewString: Greatly increased life regen, equivalent to Crimson armor
-						// OldString: Greatly increased life regen, equivalent to Crimson armor
+						NewString: Greatly increased life regen, equivalent to Crimson armor
+						OldString: Greatly increased life regen, equivalent to Crimson armor
 					}
 
 					39: {
-						// NewString: Press Y to trigger a brimflame frenzy effect
-						// OldString: Press Y to trigger a brimflame frenzy effect
+						NewString: Press Y to trigger a brimflame frenzy effect
+						OldString: Press Y to trigger a brimflame frenzy effect
 					}
 
 					38: {
-						// NewString: Tooltip20
-						// OldString: Tooltip20
+						NewString: Tooltip20
+						OldString: Tooltip20
 					}
 
 					37: {
-						// NewString: Rogue critical strikes have a 50% chance to heal you
-						// OldString: Rogue critical strikes have a 50% chance to heal you
+						NewString: Rogue critical strikes have a 50% chance to heal you
+						OldString: Rogue critical strikes have a 50% chance to heal you
 					}
 
 					36: {
-						// NewString: Tooltip19
-						// OldString: Tooltip19
+						NewString: Tooltip19
+						OldString: Tooltip19
 					}
 
 					35: {
-						// NewString: Being below 80% life boosts your rogue damage by 10%
-						// OldString: Being below 80% life boosts your rogue damage by 10%
+						NewString: Being below 80% life boosts your rogue damage by 10%
+						OldString: Being below 80% life boosts your rogue damage by 10%
 					}
 
 					34: {
-						// NewString: Tooltip18
-						// OldString: Tooltip18
+						NewString: Tooltip18
+						OldString: Tooltip18
 					}
 
 					33: {
-						// NewString: Being over 80% life boosts your defense by 30 and rogue crit by 5%
-						// OldString: Being over 80% life boosts your defense by 30 and rogue crit by 5%
+						NewString: Being over 80% life boosts your defense by 30 and rogue crit by 5%
+						OldString: Being over 80% life boosts your defense by 30 and rogue crit by 5%
 					}
 
 					32: {
-						// NewString: Tooltip17
-						// OldString: Tooltip17
+						NewString: Tooltip17
+						OldString: Tooltip17
 					}
 
 					31: {
-						// NewString: At 50% life and below you gain 20 defense and +1 HP/s life regen
-						// OldString: At 50% life and below you gain 20 defense and +1 HP/s life regen
+						NewString: At 50% life and below you gain 20 defense and +1 HP/s life regen
+						OldString: At 50% life and below you gain 20 defense and +1 HP/s life regen
 					}
 
 					30: {
-						// NewString: Tooltip16
-						// OldString: Tooltip16
+						NewString: Tooltip16
+						OldString: Tooltip16
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 
 					29: {
-						// NewString: At 90% life and above you gain 10% increased summon damage
-						// OldString: At 90% life and above you gain 10% increased summon damage
+						NewString: At 90% life and above you gain 10% increased summon damage
+						OldString: At 90% life and above you gain 10% increased summon damage
 					}
 
 					28: {
-						// NewString: Tooltip15
-						// OldString: Tooltip15
+						NewString: Tooltip15
+						OldString: Tooltip15
 					}
 
 					27: {
-						// NewString: Summons Polterghast mines to circle you
-						// OldString: Summons Polterghast mines to circle you
+						NewString: Summons Polterghast mines to circle you
+						OldString: Summons Polterghast mines to circle you
 					}
 
 					26: {
-						// NewString: Tooltip14
-						// OldString: Tooltip14
+						NewString: Tooltip14
+						OldString: Tooltip14
 					}
 
 					25: {
-						// NewString: Magic critical strikes cause flame explosions every 2 seconds
-						// OldString: Magic critical strikes cause flame explosions every 2 seconds
+						NewString: Magic critical strikes cause flame explosions every 2 seconds
+						OldString: Magic critical strikes cause flame explosions every 2 seconds
 					}
 
 					24: {
-						// NewString: Tooltip13
-						// OldString: Tooltip13
+						NewString: Tooltip13
+						OldString: Tooltip13
 					}
 
 					23: {
-						// NewString: Magic weapons fire ghostly bolts every 1.67 seconds
-						// OldString: Magic weapons fire ghostly bolts every 1.67 seconds
+						NewString: Magic weapons fire ghostly bolts every 1.67 seconds
+						OldString: Magic weapons fire ghostly bolts every 1.67 seconds
 					}
 
 					22: {
-						// NewString: Tooltip12
-						// OldString: Tooltip12
+						NewString: Tooltip12
+						OldString: Tooltip12
 					}
 
 					21: {
-						// NewString: Ranged weapons fire bloodsplosion orbs every 2.5 seconds
-						// OldString: Ranged weapons fire bloodsplosion orbs every 2.5 seconds
+						NewString: Ranged weapons fire bloodsplosion orbs every 2.5 seconds
+						OldString: Ranged weapons fire bloodsplosion orbs every 2.5 seconds
 					}
 
 					20: {
-						// NewString: Tooltip11
-						// OldString: Tooltip11
+						NewString: Tooltip11
+						OldString: Tooltip11
 					}
 
 					2: {
-						// NewString: The souls of the fallen are at your disposal...
-						// OldString: The souls of the fallen are at your disposal...
+						NewString: The souls of the fallen are at your disposal...
+						OldString: The souls of the fallen are at your disposal...
 					}
 
 					19: {
-						// NewString: Tooltip10
-						// OldString: Tooltip10
+						NewString: Tooltip10
+						OldString: Tooltip10
 					}
 
 					18: {
-						// NewString: Press Y to unleash the lost souls of Polterghast to destroy your enemies
-						// OldString: Press Y to unleash the lost souls of Polterghast to destroy your enemies
+						NewString: Press Y to unleash the lost souls of Polterghast to destroy your enemies
+						OldString: Press Y to unleash the lost souls of Polterghast to destroy your enemies
 					}
 
 					17: {
-						// NewString: Tooltip9
-						// OldString: Tooltip9
+						NewString: Tooltip9
+						OldString: Tooltip9
 					}
 
 					16: {
-						// NewString: This effect has a 30 second cooldown
-						// OldString: This effect has a 30 second cooldown
+						NewString: This effect has a 30 second cooldown
+						OldString: This effect has a 30 second cooldown
 					}
 
 					15: {
-						// NewString: Tooltip8
-						// OldString: Tooltip8
+						NewString: Tooltip8
+						OldString: Tooltip8
 					}
 
 					14: {
-						// NewString: During this you will gain 25% increased melee damage, critical strike chance, and contact damage is halved
-						// OldString: During this you will gain 25% increased melee damage, critical strike chance, and contact damage is halved
+						NewString: During this you will gain 25% increased melee damage, critical strike chance, and contact damage is halved
+						OldString: During this you will gain 25% increased melee damage, critical strike chance, and contact damage is halved
 					}
 
 					13: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					12: {
-						// NewString: After striking an enemy 15 times with true melee you will enter a blood frenzy for 5 seconds
-						// OldString: After striking an enemy 15 times with true melee you will enter a blood frenzy for 5 seconds
+						NewString: After striking an enemy 15 times with true melee you will enter a blood frenzy for 5 seconds
+						OldString: After striking an enemy 15 times with true melee you will enter a blood frenzy for 5 seconds
 					}
 
 					11: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					10: {
-						// NewString: True melee strikes will heal you
-						// OldString: True melee strikes will heal you
+						NewString: True melee strikes will heal you
+						OldString: True melee strikes will heal you
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					8: {
-						// NewString: This effect has a 5 second cooldown
-						// OldString: This effect has a 5 second cooldown
+						NewString: This effect has a 5 second cooldown
+						OldString: This effect has a 5 second cooldown
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: Enemies below 50% life drop a heart when struck
-						// OldString: Enemies below 50% life drop a heart when struck
+						NewString: Enemies below 50% life drop a heart when struck
+						OldString: Enemies below 50% life drop a heart when struck
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					46: {
-						// OldString: CalamityBardHealer
-						// NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
 					}
 
 					47: {
-						// OldString: Tooltip213
-						// NewString: Tooltip213
+						OldString: Tooltip213
+						NewString: Tooltip213
 					}
 
 					48: {
-						// OldString: 27% increased radiant damage and 11% increased radiant casting speed
-						// NewString: 27% increased radiant damage and 11% increased radiant casting speed
+						OldString: 27% increased radiant damage and 11% increased radiant casting speed
+						NewString: 27% increased radiant damage and 11% increased radiant casting speed
 					}
 
 					49: {
-						// OldString: Tooltip214
-						// NewString: Tooltip214
+						OldString: Tooltip214
+						NewString: Tooltip214
 					}
 
 					50: {
-						// OldString: Press G to use half your life to summon a ritual
-						// NewString: Press G to use half your life to summon a ritual
+						OldString: Press G to use half your life to summon a ritual
+						NewString: Press G to use half your life to summon a ritual
 					}
 
 					51: {
-						// OldString: Tooltip215
-						// NewString: Tooltip215
+						OldString: Tooltip215
+						NewString: Tooltip215
 					}
 
 					52: {
-						// OldString: The ritual will heal allies for 12 life rapidly
-						// NewString: The ritual will heal allies for 12 life rapidly
+						OldString: The ritual will heal allies for 12 life rapidly
+						NewString: The ritual will heal allies for 12 life rapidly
 					}
 
 					53: {
-						// OldString: Tooltip216
-						// NewString: Tooltip216
+						OldString: Tooltip216
+						NewString: Tooltip216
 					}
 
 					54: {
-						// OldString: Only one ritual can be active at a time
-						// NewString: Only one ritual can be active at a time
+						OldString: Only one ritual can be active at a time
+						NewString: Only one ritual can be active at a time
 					}
 
 					55: {
-						// OldString: Tooltip217
-						// NewString: Tooltip217
+						OldString: Tooltip217
+						NewString: Tooltip217
 					}
 
 					56: {
-						// OldString: +4 max inspiration
-						// NewString: +4 max inspiration
+						OldString: +4 max inspiration
+						NewString: +4 max inspiration
 					}
 
 					57: {
-						// OldString: Tooltip218
-						// NewString: Tooltip218
+						OldString: Tooltip218
+						NewString: Tooltip218
 					}
 
 					58: {
-						// OldString: Press G to gain Alluring Song buff for 5 seconds
-						// NewString: Press G to gain Alluring Song buff for 5 seconds
+						OldString: Press G to gain Alluring Song buff for 5 seconds
+						NewString: Press G to gain Alluring Song buff for 5 seconds
 					}
 
 					59: {
-						// OldString: Tooltip219
-						// NewString: Tooltip219
+						OldString: Tooltip219
+						NewString: Tooltip219
 					}
 
 					60: {
-						// OldString: Alluring song increases regeneration rate and empowerment range by 50% and empowerment duration by 5 seconds
-						// NewString: Alluring song increases regeneration rate and empowerment range by 50% and empowerment duration by 5 seconds
+						OldString: Alluring song increases regeneration rate and empowerment range by 50% and empowerment duration by 5 seconds
+						NewString: Alluring song increases regeneration rate and empowerment range by 50% and empowerment duration by 5 seconds
 					}
 
 					61: {
-						// OldString: Tooltip220
-						// NewString: Tooltip220
+						OldString: Tooltip220
+						NewString: Tooltip220
 					}
 
 					62: {
-						// OldString: Taking damage while Alluring Song is active heals you by a flat 200 life but removes Alluring Song
-						// NewString: Taking damage while Alluring Song is active heals you by a flat 200 life but removes Alluring Song
+						OldString: Taking damage while Alluring Song is active heals you by a flat 200 life but removes Alluring Song
+						NewString: Taking damage while Alluring Song is active heals you by a flat 200 life but removes Alluring Song
 					}
 
 					63: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 
 					64: {
-						// OldString: Tooltip24
-						// NewString: Tooltip24
+						OldString: Tooltip24
+						NewString: Tooltip24
 					}
 
 					65: {
-						// OldString: Effects of the Chalice of the Blood God, Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
-						// NewString: Effects of the Chalice of the Blood God, Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
+						OldString: Effects of the Chalice of the Blood God, Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
+						NewString: Effects of the Chalice of the Blood God, Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
 					}
 
 					66: {
-						// OldString: Effects of Affliction, Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
-						// NewString: Effects of Affliction, Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
+						OldString: Effects of Affliction, Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
+						NewString: Effects of Affliction, Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
 					}
 
 					67: {
-						// OldString: Tooltip25
-						// NewString: Tooltip25
+						OldString: Tooltip25
+						NewString: Tooltip25
 					}
 
 					68: {
-						// OldString: Effects of Void of Calamity, Flame-Licked Shell, Slagsplitter Pauldron, and Chaos Stone
-						// NewString: Effects of Void of Calamity, Flame-Licked Shell, Slagsplitter Pauldron, and Chaos Stone
+						OldString: Effects of Void of Calamity, Flame-Licked Shell, Slagsplitter Pauldron, and Chaos Stone
+						NewString: Effects of Void of Calamity, Flame-Licked Shell, Slagsplitter Pauldron, and Chaos Stone
 					}
 
 					69: {
-						// OldString: Terraria
-						// NewString: Terraria
+						OldString: Terraria
+						NewString: Terraria
 					}
 
 					70: {
-						// OldString: ItemName
-						// NewString: ItemName
+						OldString: ItemName
+						NewString: ItemName
 					}
 				}
 
 				UpdateAccessory: {
 					1: {
-						// OldString: CalamityMod
-						// NewString: CalamityMod
+						OldString: CalamityMod
+						NewString: CalamityMod
 					}
 
 					2: {
-						// OldString: ThoriumMod
-						// NewString: ThoriumMod
+						OldString: ThoriumMod
+						NewString: ThoriumMod
 					}
 
 					3: {
-						// OldString: CalamityBardHealer
-						// NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
 					}
 
 					4: {
-						// OldString: ThoriumPlayer
-						// NewString: ThoriumPlayer
+						OldString: ThoriumPlayer
+						NewString: ThoriumPlayer
 					}
 
 					5: {
-						// OldString: BloodflareRitual
-						// NewString: BloodflareRitual
+						OldString: BloodflareRitual
+						NewString: BloodflareRitual
 					}
 
 					6: {
-						// OldString: Bloodflare Ritualist Mask
-						// NewString: Bloodflare Ritualist Mask
+						OldString: Bloodflare Ritualist Mask
+						NewString: Bloodflare Ritualist Mask
 					}
 
 					7: {
-						// OldString: bardBuffDuration
-						// NewString: bardBuffDuration
+						OldString: bardBuffDuration
+						NewString: bardBuffDuration
 					}
 
 					8: {
-						// OldString: bardResourceMax2
-						// NewString: bardResourceMax2
+						OldString: bardResourceMax2
+						NewString: bardResourceMax2
 					}
 
 					9: {
-						// OldString: HealerDamage
-						// NewString: HealerDamage
+						OldString: HealerDamage
+						NewString: HealerDamage
 					}
 
 					10: {
-						// OldString: AlluringSong
-						// NewString: AlluringSong
+						OldString: AlluringSong
+						NewString: AlluringSong
 					}
 
 					11: {
-						// OldString: AlluringSongCD
-						// NewString: AlluringSongCD
+						OldString: AlluringSongCD
+						NewString: AlluringSongCD
 					}
 
 					12: {
-						// OldString: EldritchSoulArtifact
-						// NewString: EldritchSoulArtifact
+						OldString: EldritchSoulArtifact
+						NewString: EldritchSoulArtifact
 					}
 
 					13: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 
 					14: {
-						// OldString: ChaliceOfTheBloodGod
-						// NewString: ChaliceOfTheBloodGod
+						OldString: ChaliceOfTheBloodGod
+						NewString: ChaliceOfTheBloodGod
 					}
 
 					15: {
-						// OldString: Affliction
-						// NewString: Affliction
+						OldString: Affliction
+						NewString: Affliction
 					}
 
 					16: {
-						// OldString: BloodflareCore
-						// NewString: BloodflareCore
+						OldString: BloodflareCore
+						NewString: BloodflareCore
 					}
 
 					17: {
-						// OldString: PhantomicArtifact
-						// NewString: PhantomicArtifact
+						OldString: PhantomicArtifact
+						NewString: PhantomicArtifact
 					}
 
 					18: {
-						// OldString: FargosSoulsModDLCRecreated
-						// NewString: FargosSoulsModDLCRecreated
+						OldString: FargosSoulsModDLCRecreated
+						NewString: FargosSoulsModDLCRecreated
 					}
 
 					19: {
-						// OldString: BrimflameEnchantment
-						// NewString: BrimflameEnchantment
+						OldString: BrimflameEnchantment
+						NewString: BrimflameEnchantment
 					}
 				}
 
 				AddRecipes: {
 					1: {
-						// OldString: CalamityBardHealer
-						// NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
 					}
 
 					2: {
-						// OldString: BloodflareRitualistMask
-						// NewString: BloodflareRitualistMask
+						OldString: BloodflareRitualistMask
+						NewString: BloodflareRitualistMask
 					}
 
 					3: {
-						// OldString: BloodflareSirenSkull
-						// NewString: BloodflareSirenSkull
+						OldString: BloodflareSirenSkull
+						NewString: BloodflareSirenSkull
 					}
 
 					4: {
-						// OldString: FargosSoulsModDLCRecreated:AnyBloodflareHelmet
-						// NewString: FargosSoulsModDLCRecreated:AnyBloodflareHelmet
+						OldString: FargosSoulsModDLCRecreated:AnyBloodflareHelmet
+						NewString: FargosSoulsModDLCRecreated:AnyBloodflareHelmet
 					}
 
 					5: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -482,142 +482,142 @@ Items: {
 			PlagueReaperEnchantment: {
 				AddRecipes: {
 					1: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 				}
 
 				UpdateAccessory: {
 					8: {
-						// NewString: CrimsonFlask
-						// OldString: CrimsonFlask
+						NewString: CrimsonFlask
+						OldString: CrimsonFlask
 					}
 
 					7: {
-						// NewString: CorruptFlask
-						// OldString: CorruptFlask
+						NewString: CorruptFlask
+						OldString: CorruptFlask
 					}
 
 					6: {
-						// NewString: TheCamper
-						// OldString: TheCamper
+						NewString: TheCamper
+						OldString: TheCamper
 					}
 
 					5: {
-						// NewString: AlchemicalFlask
-						// OldString: AlchemicalFlask
+						NewString: AlchemicalFlask
+						OldString: AlchemicalFlask
 					}
 
 					4: {
-						// NewString: PlaguedFuelPack
-						// OldString: PlaguedFuelPack
+						NewString: PlaguedFuelPack
+						OldString: PlaguedFuelPack
 					}
 
 					3: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					2: {
-						// NewString: ToxicHeart
-						// OldString: ToxicHeart
+						NewString: ToxicHeart
+						OldString: ToxicHeart
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					18: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					17: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 
 					16: {
-						// NewString: Effects of Corrupt Flask and Crimson Flask
-						// OldString: Effects of Corrupt Flask and Crimson Flask
+						NewString: Effects of Corrupt Flask and Crimson Flask
+						OldString: Effects of Corrupt Flask and Crimson Flask
 					}
 
 					15: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					14: {
-						// NewString: Effects of Plague Hive, Alchemical Flask, and The Camper
-						// OldString: Effects of Plague Hive, Alchemical Flask, and The Camper
+						NewString: Effects of Plague Hive, Alchemical Flask, and The Camper
+						OldString: Effects of Plague Hive, Alchemical Flask, and The Camper
 					}
 
 					13: {
-						// NewString: Effects of Plague Hive, Plagued Fuel Pack, and The Camper
-						// OldString: Effects of Plague Hive, Plagued Fuel Pack, and The Camper
+						NewString: Effects of Plague Hive, Plagued Fuel Pack, and The Camper
+						OldString: Effects of Plague Hive, Plagued Fuel Pack, and The Camper
 					}
 
 					12: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					11: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					10: {
-						// NewString: This has a 25 second cooldown.
-						// OldString: This has a 25 second cooldown.
+						NewString: This has a 25 second cooldown.
+						OldString: This has a 25 second cooldown.
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					8: {
-						// NewString: Press Y to blind yourself for 5 seconds but massively boost your ranged damage
-						// OldString: Press Y to blind yourself for 5 seconds but massively boost your ranged damage
+						NewString: Press Y to blind yourself for 5 seconds but massively boost your ranged damage
+						OldString: Press Y to blind yourself for 5 seconds but massively boost your ranged damage
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: Getting hit causes plague cinders to rain from above
-						// OldString: Getting hit causes plague cinders to rain from above
+						NewString: Getting hit causes plague cinders to rain from above
+						OldString: Getting hit causes plague cinders to rain from above
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					4: {
-						// NewString: Enemies receive 10% more damage from ranged projectiles when afflicted by the Plague
-						// OldString: Enemies receive 10% more damage from ranged projectiles when afflicted by the Plague
+						NewString: Enemies receive 10% more damage from ranged projectiles when afflicted by the Plague
+						OldString: Enemies receive 10% more damage from ranged projectiles when afflicted by the Plague
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 
 					2: {
-						// NewString: 25% reduced ammo usage and 5% increased flight time
-						// OldString: 25% reduced ammo usage and 5% increased flight time
+						NewString: 25% reduced ammo usage and 5% increased flight time
+						OldString: 25% reduced ammo usage and 5% increased flight time
 					}
 				}
 			}
@@ -625,217 +625,217 @@ Items: {
 			DaedalusEnchantment: {
 				AddRecipes: {
 					4: {
-						// NewString: FargosSoulsModDLCRecreated:AnyDaedalusHelmet
-						// OldString: FargosSoulsModDLCRecreated:AnyDaedalusHelmet
+						NewString: FargosSoulsModDLCRecreated:AnyDaedalusHelmet
+						OldString: FargosSoulsModDLCRecreated:AnyDaedalusHelmet
 					}
 
 					3: {
-						// NewString: DaedalusHat
-						// OldString: DaedalusHat
+						NewString: DaedalusHat
+						OldString: DaedalusHat
 					}
 
 					2: {
-						// NewString: DaedalusCowl
-						// OldString: DaedalusCowl
+						NewString: DaedalusCowl
+						OldString: DaedalusCowl
 					}
 
 					1: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 				}
 
 				UpdateAccessory: {
 					11: {
-						// NewString: SnowRuffianEnchantment
-						// OldString: SnowRuffianEnchantment
+						NewString: SnowRuffianEnchantment
+						OldString: SnowRuffianEnchantment
 					}
 
 					10: {
-						// NewString: FargosSoulsModDLCRecreated
-						// OldString: FargosSoulsModDLCRecreated
+						NewString: FargosSoulsModDLCRecreated
+						OldString: FargosSoulsModDLCRecreated
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 
 					9: {
-						// NewString: HowlsHeart
-						// OldString: HowlsHeart
+						NewString: HowlsHeart
+						OldString: HowlsHeart
 					}
 
 					8: {
-						// NewString: CryoStone
-						// OldString: CryoStone
+						NewString: CryoStone
+						OldString: CryoStone
 					}
 
 					7: {
-						// NewString: FrostBarrier
-						// OldString: FrostBarrier
+						NewString: FrostBarrier
+						OldString: FrostBarrier
 					}
 
 					6: {
-						// NewString: FrostFlare
-						// OldString: FrostFlare
+						NewString: FrostFlare
+						OldString: FrostFlare
 					}
 
 					5: {
-						// NewString: PermafrostConcoction
-						// OldString: PermafrostConcoction
+						NewString: PermafrostConcoction
+						OldString: PermafrostConcoction
 					}
 
 					4: {
-						// NewString: daedalusBard
-						// OldString: daedalusBard
+						NewString: daedalusBard
+						OldString: daedalusBard
 					}
 
 					3: {
-						// NewString: ThorlamityPlayer
-						// OldString: ThorlamityPlayer
+						NewString: ThorlamityPlayer
+						OldString: ThorlamityPlayer
 					}
 
 					2: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 				}
 
 				ModifyTooltips: {
 					27: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					26: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 
 					25: {
-						// NewString: Effects of Scuttler's Jewel, Howls Heart, Frost Flare, Cryo Stone, Frost Barrier, and Permafrost's Concoction
-						// OldString: Effects of Scuttler's Jewel, Howls Heart, Frost Flare, Cryo Stone, Frost Barrier, and Permafrost's Concoction
+						NewString: 拥有潜遁者宝石,哈尔之心,霜冻之炎,冰川石,寒冰屏障和永冻秘药的效果
+						OldString: Effects of Scuttler's Jewel, Howls Heart, Frost Flare, Cryo Stone, Frost Barrier, and Permafrost's Concoction
 					}
 
 					24: {
-						// NewString: TooltipCustom11
-						// OldString: TooltipCustom11
+						NewString: TooltipCustom11
+						OldString: TooltipCustom11
 					}
 
 					23: {
-						// NewString: You can glide to negate fall damage
-						// OldString: You can glide to negate fall damage
+						NewString: 你可以缓降来消除坠落伤害
+						OldString: You can glide to negate fall damage
 					}
 
 					22: {
-						// NewString: TooltipCustom10
-						// OldString: TooltipCustom10
+						NewString: TooltipCustom10
+						OldString: TooltipCustom10
 					}
 
 					21: {
-						// NewString: Symphonic damage inflicts frostburn and frostbite on hit
-						// OldString: Symphonic damage inflicts frostburn and frostbite on hit
+						NewString: Symphonic damage inflicts frostburn and frostbite on hit
+						OldString: Symphonic damage inflicts frostburn and frostbite on hit
 					}
 
 					20: {
-						// NewString: TooltipCustom126
-						// OldString: TooltipCustom126
+						NewString: TooltipCustom126
+						OldString: TooltipCustom126
 					}
 
 					2: {
-						// NewString: Icy magic envelopes you...
-						// OldString: Icy magic envelopes you...
+						NewString: 永冻魔法包裹着你...
+						OldString: Icy magic envelopes you...
 					}
 
 					19: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 
 					18: {
-						// NewString: Rogue projectiles throw out crystal shards as they travel
-						// OldString: Rogue projectiles throw out crystal shards as they travel
+						NewString: 盗贼弹幕飞行时释放水晶碎片
+						OldString: Rogue projectiles throw out crystal shards as they travel
 					}
 
 					17: {
-						// NewString: TooltipCustom9
-						// OldString: TooltipCustom9
+						NewString: TooltipCustom9
+						OldString: TooltipCustom9
 					}
 
 					16: {
-						// NewString: A Daedalus crystal floats above you to protect you
-						// OldString: A Daedalus crystal floats above you to protect you
+						NewString: 一颗悬浮在你头顶的代达罗斯水晶会保护你
+						OldString: A Daedalus crystal floats above you to protect you
 					}
 
 					15: {
-						// NewString: TooltipCustom8
-						// OldString: TooltipCustom8
+						NewString: TooltipCustom8
+						OldString: TooltipCustom8
 					}
 
 					14: {
-						// NewString: If you absorb an attack you are healed for 1/2 of that attack's damage
-						// OldString: If you absorb an attack you are healed for 1/2 of that attack's damage
+						NewString: 当你成功吸收了一次攻击后，你将恢复相当于那次攻击的攻击力1/2的生命值
+						OldString: If you absorb an attack you are healed for 1/2 of that attack's damage
 					}
 
 					13: {
-						// NewString: TooltipCustom7
-						// OldString: TooltipCustom7
+						NewString: TooltipCustom7
+						OldString: TooltipCustom7
 					}
 
 					12: {
-						// NewString: You have a 10% chance to absorb physical attacks and projectiles when hit
-						// OldString: You have a 10% chance to absorb physical attacks and projectiles when hit
+						NewString: 你有10%的几率吸收一次物理伤害或者弹幕
+						OldString: You have a 10% chance to absorb physical attacks and projectiles when hit
 					}
 
 					11: {
-						// NewString: TooltipCustom6
-						// OldString: TooltipCustom6
+						NewString: TooltipCustom6
+						OldString: TooltipCustom6
 					}
 
 					10: {
-						// NewString: Getting hit causes you to emit a blast of crystal shards
-						// OldString: Getting hit causes you to emit a blast of crystal shards
+						NewString: 当你被击中时释放水晶碎片
+						OldString: Getting hit causes you to emit a blast of crystal shards
 					}
 
 					1: {
-						// NewString: TooltipCustom1
-						// OldString: TooltipCustom1
+						NewString: TooltipCustom1
+						OldString: TooltipCustom1
 					}
 
 					9: {
-						// NewString: TooltipCustom5
-						// OldString: TooltipCustom5
+						NewString: TooltipCustom5
+						OldString: TooltipCustom5
 					}
 
 					8: {
-						// NewString: This reflect has a 90 second cooldown which is shared with all other dodges and reflects
-						// OldString: This reflect has a 90 second cooldown which is shared with all other dodges and reflects
+						NewString: 反弹效果的冷却时间有90秒与其他的闪避或反弹效果共享冷却时间
+						OldString: This reflect has a 90 second cooldown which is shared with all other dodges and reflects
 					}
 
 					7: {
-						// NewString: TooltipCustom4
-						// OldString: TooltipCustom4
+						NewString: TooltipCustom4
+						OldString: TooltipCustom4
 					}
 
 					6: {
-						// NewString: Reflected projectiles deal 50% less damage to you
-						// OldString: Reflected projectiles deal 50% less damage to you
+						NewString: 被反弹的弹幕只会对你造成50%的伤害
+						OldString: Reflected projectiles deal 50% less damage to you
 					}
 
 					5: {
-						// NewString: TooltipCustom3
-						// OldString: TooltipCustom3
+						NewString: TooltipCustom3
+						OldString: TooltipCustom3
 					}
 
 					4: {
-						// NewString: You reflect projectiles back at enemies
-						// OldString: You reflect projectiles back at enemies
+						NewString: 你能够反弹弹幕
+						OldString: You reflect projectiles back at enemies
 					}
 
 					3: {
-						// NewString: TooltipCustom2
-						// OldString: TooltipCustom2
+						NewString: TooltipCustom2
+						OldString: TooltipCustom2
 					}
 				}
 			}
@@ -843,25 +843,25 @@ Items: {
 			SnowRuffianEnchantment: {
 				UpdateAccessory: {
 					2: {
-						// NewString: ScuttlersJewel
-						// OldString: ScuttlersJewel
+						NewString: ScuttlersJewel
+						OldString: ScuttlersJewel
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					2: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					1: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 				}
 			}
@@ -869,62 +869,62 @@ Items: {
 			AerospecEnchantment: {
 				AddRecipes: {
 					4: {
-						// NewString: FargosSoulsModDLCRecreated:AnyAerospecHelmet
-						// OldString: FargosSoulsModDLCRecreated:AnyAerospecHelmet
+						NewString: FargosSoulsModDLCRecreated:AnyAerospecHelmet
+						OldString: FargosSoulsModDLCRecreated:AnyAerospecHelmet
 					}
 
 					3: {
-						// NewString: AerospecHeadphones
-						// OldString: AerospecHeadphones
+						NewString: AerospecHeadphones
+						OldString: AerospecHeadphones
 					}
 
 					2: {
-						// NewString: AerospecBiretta
-						// OldString: AerospecBiretta
+						NewString: AerospecBiretta
+						OldString: AerospecBiretta
 					}
 
 					1: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 				}
 
 				UpdateAccessory: {
 					5: {
-						// NewString: AeroStone
-						// OldString: AeroStone
+						NewString: AeroStone
+						OldString: AeroStone
 					}
 
 					4: {
-						// NewString: UnstableGraniteCore
-						// OldString: UnstableGraniteCore
+						NewString: UnstableGraniteCore
+						OldString: UnstableGraniteCore
 					}
 
 					3: {
-						// NewString: GladiatorsLocket
-						// OldString: GladiatorsLocket
+						NewString: GladiatorsLocket
+						OldString: GladiatorsLocket
 					}
 
 					2: {
-						// NewString: ValkyrieBuff
-						// OldString: ValkyrieBuff
+						NewString: ValkyrieBuff
+						OldString: ValkyrieBuff
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					2: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					1: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 				}
 			}
@@ -932,70 +932,70 @@ Items: {
 			SilvaEnchantment: {
 				AddRecipes: {
 					5: {
-						// NewString: DraedonsForge
-						// OldString: DraedonsForge
+						NewString: DraedonsForge
+						OldString: DraedonsForge
 					}
 
 					4: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					3: {
-						// NewString: FargosSoulsModDLCRecreated:AnySilvaHelmet
-						// OldString: FargosSoulsModDLCRecreated:AnySilvaHelmet
+						NewString: FargosSoulsModDLCRecreated:AnySilvaHelmet
+						OldString: FargosSoulsModDLCRecreated:AnySilvaHelmet
 					}
 
 					2: {
-						// NewString: SilvaGuardianHelmet
-						// OldString: SilvaGuardianHelmet
+						NewString: SilvaGuardianHelmet
+						OldString: SilvaGuardianHelmet
 					}
 
 					1: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 				}
 
 				UpdateAccessory: {
 					15: {
-						// NewString: AuricSoulArtifact
-						// OldString: AuricSoulArtifact
+						NewString: AuricSoulArtifact
+						OldString: AuricSoulArtifact
 					}
 
 					14: {
-						// NewString: DynamoStemCells
-						// OldString: DynamoStemCells
+						NewString: DynamoStemCells
+						OldString: DynamoStemCells
 					}
 
 					13: {
-						// NewString: BlunderBooster
-						// OldString: BlunderBooster
+						NewString: BlunderBooster
+						OldString: BlunderBooster
 					}
 
 					12: {
-						// NewString: YharimsGift
-						// OldString: YharimsGift
+						NewString: YharimsGift
+						OldString: YharimsGift
 					}
 
 					11: {
-						// NewString: TheAmalgam
-						// OldString: TheAmalgam
+						NewString: TheAmalgam
+						OldString: TheAmalgam
 					}
 
 					10: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 
 					9: {
-						// NewString: CommonSetBonus
-						// OldString: CommonSetBonus
+						NewString: CommonSetBonus
+						OldString: CommonSetBonus
 					}
 
 					8: {
@@ -1004,145 +1004,145 @@ Items: {
 					}
 
 					7: {
-						// NewString: SetBonus
-						// OldString: SetBonus
+						NewString: SetBonus
+						OldString: SetBonus
 					}
 
 					6: {
-						// NewString: silvaHealer field not found in ThorlamityPlayer.
-						// OldString: silvaHealer field not found in ThorlamityPlayer.
+						NewString: silvaHealer field not found in ThorlamityPlayer.
+						OldString: silvaHealer field not found in ThorlamityPlayer.
 					}
 
 					5: {
-						// NewString: YourModName
-						// OldString: YourModName
+						NewString: YourModName
+						OldString: YourModName
 					}
 
 					4: {
-						// NewString: silvaHealer
-						// OldString: silvaHealer
+						NewString: silvaHealer
+						OldString: silvaHealer
 					}
 
 					3: {
-						// NewString: ThorlamityPlayer
-						// OldString: ThorlamityPlayer
+						NewString: ThorlamityPlayer
+						OldString: ThorlamityPlayer
 					}
 
 					2: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 				}
 
 				ModifyTooltips: {
 					22: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					21: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 
 					20: {
-						// NewString: Effects of Blunder Booster, Godly Soul Artifact, and Dynamo Stem Cells
-						// OldString: Effects of Blunder Booster, Godly Soul Artifact, and Dynamo Stem Cells
+						NewString: Effects of Blunder Booster, Godly Soul Artifact, and Dynamo Stem Cells
+						OldString: Effects of Blunder Booster, Godly Soul Artifact, and Dynamo Stem Cells
 					}
 
 					2: {
-						// NewString: Boundless life energy cascades from you...
-						// OldString: Boundless life energy cascades from you...
+						NewString: Boundless life energy cascades from you...
+						OldString: Boundless life energy cascades from you...
 					}
 
 					19: {
-						// NewString: Effects of The Amalgam, Godly Soul Artifact, and Yharim's Gift
-						// OldString: Effects of The Amalgam, Godly Soul Artifact, and Yharim's Gift
+						NewString: Effects of The Amalgam, Godly Soul Artifact, and Yharim's Gift
+						OldString: Effects of The Amalgam, Godly Soul Artifact, and Yharim's Gift
 					}
 
 					18: {
-						// NewString: Tooltip8
-						// OldString: Tooltip8
+						NewString: Tooltip8
+						OldString: Tooltip8
 					}
 
 					17: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					16: {
-						// NewString: Taking heavy damage in one hit gives players with the lowest health the Guardian Angel buff for 30 seconds
-						// OldString: Taking heavy damage in one hit gives players with the lowest health the Guardian Angel buff for 30 seconds
+						NewString: Taking heavy damage in one hit gives players with the lowest health the Guardian Angel buff for 30 seconds
+						OldString: Taking heavy damage in one hit gives players with the lowest health the Guardian Angel buff for 30 seconds
 					}
 
 					15: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 
 					14: {
-						// NewString: Summons an ancient leaf prism to blast your enemies with life energy
-						// OldString: Summons an ancient leaf prism to blast your enemies with life energy
+						NewString: Summons an ancient leaf prism to blast your enemies with life energy
+						OldString: Summons an ancient leaf prism to blast your enemies with life energy
 					}
 
 					13: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					12: {
-						// NewString: Magic projectiles which cannot pierce will occasionally set off potent blasts of nature energy
-						// OldString: Magic projectiles which cannot pierce will occasionally set off potent blasts of nature energy
+						NewString: Magic projectiles which cannot pierce will occasionally set off potent blasts of nature energy
+						OldString: Magic projectiles which cannot pierce will occasionally set off potent blasts of nature energy
 					}
 
 					11: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					10: {
-						// NewString: This effect has a 5 minute cooldown. The cooldown does not decrement if any bosses or events are active.
-						// OldString: This effect has a 5 minute cooldown. The cooldown does not decrement if any bosses or events are active.
+						NewString: This effect has a 5 minute cooldown. The cooldown does not decrement if any bosses or events are active.
+						OldString: This effect has a 5 minute cooldown. The cooldown does not decrement if any bosses or events are active.
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					8: {
-						// NewString: If you are reduced to 1 HP you will not die from any further damage for 8 seconds
-						// OldString: If you are reduced to 1 HP you will not die from any further damage for 8 seconds
+						NewString: If you are reduced to 1 HP you will not die from any further damage for 8 seconds
+						OldString: If you are reduced to 1 HP you will not die from any further damage for 8 seconds
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: Max run speed and acceleration boosted by 5%
-						// OldString: Max run speed and acceleration boosted by 5%
+						NewString: Max run speed and acceleration boosted by 5%
+						OldString: Max run speed and acceleration boosted by 5%
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					4: {
-						// NewString: All projectiles spawn healing leaf orbs on enemy hits
-						// OldString: All projectiles spawn healing leaf orbs on enemy hits
+						NewString: All projectiles spawn healing leaf orbs on enemy hits
+						OldString: All projectiles spawn healing leaf orbs on enemy hits
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 				}
 			}
@@ -1150,152 +1150,152 @@ Items: {
 			OmegaBlueEnchantment: {
 				AddRecipes: {
 					1: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 				}
 
 				UpdateAccessory: {
 					8: {
-						// NewString: MutatedTruffle
-						// OldString: MutatedTruffle
+						NewString: MutatedTruffle
+						OldString: MutatedTruffle
 					}
 
 					7: {
-						// NewString: ReaperToothNecklace
-						// OldString: ReaperToothNecklace
+						NewString: ReaperToothNecklace
+						OldString: ReaperToothNecklace
 					}
 
 					6: {
-						// NewString: OldDukeScales
-						// OldString: OldDukeScales
+						NewString: OldDukeScales
+						OldString: OldDukeScales
 					}
 
 					5: {
-						// NewString: AbyssalDivingSuit
-						// OldString: AbyssalDivingSuit
+						NewString: AbyssalDivingSuit
+						OldString: AbyssalDivingSuit
 					}
 
 					4: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					3: {
-						// NewString: omegablue
-						// OldString: omegablue
+						NewString: omegablue
+						OldString: omegablue
 					}
 
 					2: {
-						// NewString: SetSetBonus
-						// OldString: SetSetBonus
+						NewString: SetSetBonus
+						OldString: SetSetBonus
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					20: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					2: {
-						// NewString: The darkness of the Abyss has overwhelmed you...
-						// OldString: The darkness of the Abyss has overwhelmed you...
+						NewString: 深渊的黑暗已淹没了你...
+						OldString: The darkness of the Abyss has overwhelmed you...
 					}
 
 					19: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 
 					18: {
-						// NewString: Effects of Old Duke Scales and Reaper Tooth Necklace
-						// OldString: Effects of Old Duke Scales and Reaper Tooth Necklace
+						NewString: Effects of Old Duke Scales and Reaper Tooth Necklace
+						OldString: Effects of Old Duke Scales and Reaper Tooth Necklace
 					}
 
 					17: {
-						// NewString: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
-						// OldString: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
+						NewString: 拥有深渊潜游服和猎魂鲨齿项链的效果
+						OldString: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
 					}
 
 					16: {
-						// NewString: Tooltip8
-						// OldString: Tooltip8
+						NewString: Tooltip8
+						OldString: Tooltip8
 					}
 
 					15: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					14: {
-						// NewString: This effect has a 25 second cooldown
-						// OldString: This effect has a 25 second cooldown
+						NewString: 此效果有25秒冷却时间
+						OldString: This effect has a 25 second cooldown
 					}
 
 					13: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					12: {
-						// NewString: Abyssal madness increases damage, critical strike chance, and tentacle aggression/range
-						// OldString: Abyssal madness increases damage, critical strike chance, and tentacle aggression/range
+						NewString: 深渊狂乱提升你的暴击率，同时触手的攻击欲望和攻击范围都会增加
+						OldString: Abyssal madness increases damage, critical strike chance, and tentacle aggression/range
 					}
 
 					11: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					10: {
-						// NewString: Press Y to activate abyssal madness for 5 seconds
-						// OldString: Press Y to activate abyssal madness for 5 seconds
+						NewString: 按Y键进入深渊狂乱状态5秒
+						OldString: Press Y to activate abyssal madness for 5 seconds
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					8: {
-						// NewString: Short-ranged tentacles heal you by sucking enemy life
-						// OldString: Short-ranged tentacles heal you by sucking enemy life
+						NewString: 触手会攻击附近的敌人，偷取生命值治疗你
+						OldString: Short-ranged tentacles heal you by sucking enemy life
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: 10% increased damage and critical strike chance and +2 max minions
-						// OldString: 10% increased damage and critical strike chance and +2 max minions
+						NewString: 提高10%伤害和暴击率并+2召唤栏
+						OldString: 10% increased damage and critical strike chance and +2 max minions
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					4: {
-						// NewString: Increases armor penetration by 15
-						// OldString: Increases armor penetration by 15
+						NewString: 提高15点护甲穿透
+						OldString: Increases armor penetration by 15
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 				}
 			}
@@ -1303,107 +1303,107 @@ Items: {
 			SulphurousEnchantment: {
 				AddRecipes: {
 					1: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 				}
 
 				UpdateAccessory: {
 					7: {
-						// NewString: OldDie
-						// OldString: OldDie
+						NewString: OldDie
+						OldString: OldDie
 					}
 
 					6: {
-						// NewString: RustyMedallion
-						// OldString: RustyMedallion
+						NewString: RustyMedallion
+						OldString: RustyMedallion
 					}
 
 					5: {
-						// NewString: AmadiasPendant
-						// OldString: AmadiasPendant
+						NewString: AmadiasPendant
+						OldString: AmadiasPendant
 					}
 
 					4: {
-						// NewString: AlluringBait
-						// OldString: AlluringBait
+						NewString: AlluringBait
+						OldString: AlluringBait
 					}
 
 					3: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					2: {
-						// NewString: SandCloak
-						// OldString: SandCloak
+						NewString: SandCloak
+						OldString: SandCloak
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					12: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					11: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 
 					10: {
-						// NewString: Effects of Sand Cloak, Old Die, Rusty Medallion, and Amadias Pendant
-						// OldString: Effects of Sand Cloak, Old Die, Rusty Medallion, and Amadias Pendant
+						NewString: Effects of Sand Cloak, Old Die, Rusty Medallion, and Amadias Pendant
+						OldString: Effects of Sand Cloak, Old Die, Rusty Medallion, and Amadias Pendant
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Effects of Sand Cloak, Old Die, Rusty Medallion, Amadias Pendant, and Alluring Bait
-						// OldString: Effects of Sand Cloak, Old Die, Rusty Medallion, Amadias Pendant, and Alluring Bait
+						NewString: 获得沙尘披风,老旧骰子,锈蚀勋章,阿米迪亚斯之垂饰和诱惑鱼饵的效果
+						OldString: Effects of Sand Cloak, Old Die, Rusty Medallion, Amadias Pendant, and Alluring Bait
 					}
 
 					8: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					7: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					6: {
-						// NewString: Provides increased underwater mobility and reduces the severity of the sulphuric waters
-						// OldString: Provides increased underwater mobility and reduces the severity of the sulphuric waters
+						NewString: 增加水下移动力，降低硫磺海水的威胁性
+						OldString: Provides increased underwater mobility and reduces the severity of the sulphuric waters
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					4: {
-						// NewString: Grants an additional jump that summons a sulphurous bubble
-						// OldString: Grants an additional jump that summons a sulphurous bubble
+						NewString: 获得一段额外跳跃，跳跃时生成硫磺泡泡
+						OldString: Grants an additional jump that summons a sulphurous bubble
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 
 					2: {
-						// NewString: Attacking and being attacked by enemies inflicts poison
-						// OldString: Attacking and being attacked by enemies inflicts poison
+						NewString: 攻击敌人或被敌人攻击时对其造成中毒减益
+						OldString: Attacking and being attacked by enemies inflicts poison
 					}
 				}
 			}
@@ -1411,45 +1411,45 @@ Items: {
 			BrimflameEnchantment: {
 				UpdateAccessory: {
 					6: {
-						// NewString: SlagsplitterPauldron
-						// OldString: SlagsplitterPauldron
+						NewString: SlagsplitterPauldron
+						OldString: SlagsplitterPauldron
 					}
 
 					5: {
-						// NewString: FlameLickedShell
-						// OldString: FlameLickedShell
+						NewString: FlameLickedShell
+						OldString: FlameLickedShell
 					}
 
 					4: {
-						// NewString: ChaosStone
-						// OldString: ChaosStone
+						NewString: ChaosStone
+						OldString: ChaosStone
 					}
 
 					3: {
-						// NewString: VoidofCalamity
-						// OldString: VoidofCalamity
+						NewString: VoidofCalamity
+						OldString: VoidofCalamity
 					}
 
 					2: {
-						// NewString: VoidofExtinction
-						// OldString: VoidofExtinction
+						NewString: VoidofExtinction
+						OldString: VoidofExtinction
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					2: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					1: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 				}
 			}
@@ -1457,317 +1457,317 @@ Items: {
 			TarragonEnchantment: {
 				AddRecipes: {
 					5: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					4: {
-						// NewString: FargosSoulsModDLCRecreated:AnyTarragonHelmet
-						// OldString: FargosSoulsModDLCRecreated:AnyTarragonHelmet
+						NewString: FargosSoulsModDLCRecreated:AnyTarragonHelmet
+						OldString: FargosSoulsModDLCRecreated:AnyTarragonHelmet
 					}
 
 					3: {
-						// NewString: TarragonParagonCrown
-						// OldString: TarragonParagonCrown
+						NewString: TarragonParagonCrown
+						OldString: TarragonParagonCrown
 					}
 
 					2: {
-						// NewString: TarragonChapeau
-						// OldString: TarragonChapeau
+						NewString: TarragonChapeau
+						OldString: TarragonChapeau
 					}
 
 					1: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 				}
 
 				UpdateAccessory: {
 					16: {
-						// NewString: WarbanneroftheSun
-						// OldString: WarbanneroftheSun
+						NewString: WarbanneroftheSun
+						OldString: WarbanneroftheSun
 					}
 
 					15: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					14: {
-						// NewString: DarkSunRing
-						// OldString: DarkSunRing
+						NewString: DarkSunRing
+						OldString: DarkSunRing
 					}
 
 					13: {
-						// NewString: BlazingCore
-						// OldString: BlazingCore
+						NewString: BlazingCore
+						OldString: BlazingCore
 					}
 
 					12: {
-						// NewString: Debug: Projectile source is NULL!
-						// OldString: Debug: Projectile source is NULL!
+						NewString: Debug: Projectile source is NULL!
+						OldString: Debug: Projectile source is NULL!
 					}
 
 					11: {
-						// NewString: Tarragon Paragon Crown
-						// OldString: Tarragon Paragon Crown
+						NewString: Tarragon Paragon Crown
+						OldString: Tarragon Paragon Crown
 					}
 
 					10: {
-						// NewString: tarragonHeartbeat
-						// OldString: tarragonHeartbeat
+						NewString: tarragonHeartbeat
+						OldString: tarragonHeartbeat
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 
 					9: {
-						// NewString: TarragonHeartbeat
-						// OldString: TarragonHeartbeat
+						NewString: TarragonHeartbeat
+						OldString: TarragonHeartbeat
 					}
 
 					8: {
-						// NewString: Failed to spawn first projectile! Aborting second projectile.
-						// OldString: Failed to spawn first projectile! Aborting second projectile.
+						NewString: Failed to spawn first projectile! Aborting second projectile.
+						OldString: Failed to spawn first projectile! Aborting second projectile.
 					}
 
 					7: {
-						// NewString: Tarragon Chapeau
-						// OldString: Tarragon Chapeau
+						NewString: Tarragon Chapeau
+						OldString: Tarragon Chapeau
 					}
 
 					6: {
-						// NewString: Debug: tarragonBeat is NOT an int!
-						// OldString: Debug: tarragonBeat is NOT an int!
+						NewString: Debug: tarragonBeat is NOT an int!
+						OldString: Debug: tarragonBeat is NOT an int!
 					}
 
 					5: {
-						// NewString: tarragonBeat
-						// OldString: tarragonBeat
+						NewString: tarragonBeat
+						OldString: tarragonBeat
 					}
 
 					4: {
-						// NewString: ThorlamityPlayer
-						// OldString: ThorlamityPlayer
+						NewString: ThorlamityPlayer
+						OldString: ThorlamityPlayer
 					}
 
 					3: {
-						// NewString: TarragonQuarterRest
-						// OldString: TarragonQuarterRest
+						NewString: TarragonQuarterRest
+						OldString: TarragonQuarterRest
 					}
 
 					2: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 				}
 
 				ModifyTooltips: {
 					41: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					40: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 
 					4: {
-						// NewString: Reduces enemy spawn rates
-						// OldString: Reduces enemy spawn rates
+						NewString: Reduces enemy spawn rates
+						OldString: Reduces enemy spawn rates
 					}
 
 					39: {
-						// NewString: Effects of Blazing Core, Warbanner of the Sun, and Dark Sun Ring
-						// OldString: Effects of Blazing Core, Warbanner of the Sun, and Dark Sun Ring
+						NewString: Effects of Blazing Core, Warbanner of the Sun, and Dark Sun Ring
+						OldString: Effects of Blazing Core, Warbanner of the Sun, and Dark Sun Ring
 					}
 
 					38: {
-						// NewString: Effects of Blazing Core and Dark Sun Ring
-						// OldString: Effects of Blazing Core and Dark Sun Ring
+						NewString: Effects of Blazing Core and Dark Sun Ring
+						OldString: Effects of Blazing Core and Dark Sun Ring
 					}
 
 					37: {
-						// NewString: Tooltip16
-						// OldString: Tooltip16
+						NewString: Tooltip16
+						OldString: Tooltip16
 					}
 
 					36: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					35: {
-						// NewString: You spawn quarter rests around you that heal inspiration upon hitting enemies
-						// OldString: You spawn quarter rests around you that heal inspiration upon hitting enemies
+						NewString: You spawn quarter rests around you that heal inspiration upon hitting enemies
+						OldString: You spawn quarter rests around you that heal inspiration upon hitting enemies
 					}
 
 					34: {
-						// NewString: Tooltip152
-						// OldString: Tooltip152
+						NewString: Tooltip152
+						OldString: Tooltip152
 					}
 
 					33: {
-						// NewString: Occasionally emit a healing pulse that heals and shields allies by 8 points
-						// OldString: Occasionally emit a healing pulse that heals and shields allies by 8 points
+						NewString: Occasionally emit a healing pulse that heals and shields allies by 8 points
+						OldString: Occasionally emit a healing pulse that heals and shields allies by 8 points
 					}
 
 					32: {
-						// NewString: Tooltip151
-						// OldString: Tooltip151
+						NewString: Tooltip151
+						OldString: Tooltip151
 					}
 
 					31: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 
 					30: {
-						// NewString: While under effects of a debuff you gain 10% increased rogue damage
-						// OldString: While under effects of a debuff you gain 10% increased rogue damage
+						NewString: While under effects of a debuff you gain 10% increased rogue damage
+						OldString: While under effects of a debuff you gain 10% increased rogue damage
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 
 					29: {
-						// NewString: Tooltip15
-						// OldString: Tooltip15
+						NewString: Tooltip15
+						OldString: Tooltip15
 					}
 
 					28: {
-						// NewString: This effect has a cooldown of 25 seconds
-						// OldString: This effect has a cooldown of 25 seconds
+						NewString: This effect has a cooldown of 25 seconds
+						OldString: This effect has a cooldown of 25 seconds
 					}
 
 					27: {
-						// NewString: Tooltip14
-						// OldString: Tooltip14
+						NewString: Tooltip14
+						OldString: Tooltip14
 					}
 
 					26: {
-						// NewString: After every 50 rogue critical hits you will gain 2.5 seconds of damage immunity
-						// OldString: After every 50 rogue critical hits you will gain 2.5 seconds of damage immunity
+						NewString: After every 50 rogue critical hits you will gain 2.5 seconds of damage immunity
+						OldString: After every 50 rogue critical hits you will gain 2.5 seconds of damage immunity
 					}
 
 					25: {
-						// NewString: Tooltip13
-						// OldString: Tooltip13
+						NewString: Tooltip13
+						OldString: Tooltip13
 					}
 
 					24: {
-						// NewString: Summons a life aura around you that damages nearby enemies
-						// OldString: Summons a life aura around you that damages nearby enemies
+						NewString: Summons a life aura around you that damages nearby enemies
+						OldString: Summons a life aura around you that damages nearby enemies
 					}
 
 					23: {
-						// NewString: Tooltip12
-						// OldString: Tooltip12
+						NewString: Tooltip12
+						OldString: Tooltip12
 					}
 
 					22: {
-						// NewString: Amount healed is based on projectile damage
-						// OldString: Amount healed is based on projectile damage
+						NewString: Amount healed is based on projectile damage
+						OldString: Amount healed is based on projectile damage
 					}
 
 					21: {
-						// NewString: Tooltip11
-						// OldString: Tooltip11
+						NewString: Tooltip11
+						OldString: Tooltip11
 					}
 
 					20: {
-						// NewString: Magic projectiles heal you on enemy hits
-						// OldString: Magic projectiles heal you on enemy hits
+						NewString: Magic projectiles heal you on enemy hits
+						OldString: Magic projectiles heal you on enemy hits
 					}
 
 					2: {
-						// NewString: Braelor's undying might flows through you...
-						// OldString: Braelor's undying might flows through you...
+						NewString: Braelor's undying might flows through you...
+						OldString: Braelor's undying might flows through you...
 					}
 
 					19: {
-						// NewString: Tooltip10
-						// OldString: Tooltip10
+						NewString: Tooltip10
+						OldString: Tooltip10
 					}
 
 					18: {
-						// NewString: On every 5th critical strike you will fire a leaf storm
-						// OldString: On every 5th critical strike you will fire a leaf storm
+						NewString: On every 5th critical strike you will fire a leaf storm
+						OldString: On every 5th critical strike you will fire a leaf storm
 					}
 
 					17: {
-						// NewString: Tooltip9
-						// OldString: Tooltip9
+						NewString: Tooltip9
+						OldString: Tooltip9
 					}
 
 					16: {
-						// NewString: Ranged projectiles split into homing life energy and leaves on death
-						// OldString: Ranged projectiles split into homing life energy and leaves on death
+						NewString: Ranged projectiles split into homing life energy and leaves on death
+						OldString: Ranged projectiles split into homing life energy and leaves on death
 					}
 
 					15: {
-						// NewString: Tooltip8
-						// OldString: Tooltip8
+						NewString: Tooltip8
+						OldString: Tooltip8
 					}
 
 					14: {
-						// NewString: Enemies have a chance to drop extra hearts on death
-						// OldString: Enemies have a chance to drop extra hearts on death
+						NewString: Enemies have a chance to drop extra hearts on death
+						OldString: Enemies have a chance to drop extra hearts on death
 					}
 
 					13: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					12: {
-						// NewString: This has a 30 second cooldown
-						// OldString: This has a 30 second cooldown
+						NewString: This has a 30 second cooldown
+						OldString: This has a 30 second cooldown
 					}
 
 					11: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					10: {
-						// NewString: Press Y to cloak yourself in life energy that heavily reduces contact damage for 10 seconds
-						// OldString: Press Y to cloak yourself in life energy that heavily reduces contact damage for 10 seconds
+						NewString: Press Y to cloak yourself in life energy that heavily reduces contact damage for 10 seconds
+						OldString: Press Y to cloak yourself in life energy that heavily reduces contact damage for 10 seconds
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					8: {
-						// NewString: Taking damage gives the Tarra Life buff, which grants +1.5 HP/s life regen
-						// OldString: Taking damage gives the Tarra Life buff, which grants +1.5 HP/s life regen
+						NewString: Taking damage gives the Tarra Life buff, which grants +1.5 HP/s life regen
+						OldString: Taking damage gives the Tarra Life buff, which grants +1.5 HP/s life regen
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: Increased heart pickup range
-						// OldString: Increased heart pickup range
+						NewString: Increased heart pickup range
+						OldString: Increased heart pickup range
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 				}
 			}
@@ -1775,257 +1775,257 @@ Items: {
 			AtaxiaEnchantment: {
 				AddRecipes: {
 					5: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					4: {
-						// NewString: FargosSoulsModDLCRecreated:AnyHydrothermicHelmet
-						// OldString: FargosSoulsModDLCRecreated:AnyHydrothermicHelmet
+						NewString: FargosSoulsModDLCRecreated:AnyHydrothermicHelmet
+						OldString: FargosSoulsModDLCRecreated:AnyHydrothermicHelmet
 					}
 
 					3: {
-						// NewString: HydrothermicHat
-						// OldString: HydrothermicHat
+						NewString: HydrothermicHat
+						OldString: HydrothermicHat
 					}
 
 					2: {
-						// NewString: HydrothermicGasMask
-						// OldString: HydrothermicGasMask
+						NewString: HydrothermicGasMask
+						OldString: HydrothermicGasMask
 					}
 
 					1: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 				}
 
 				UpdateAccessory: {
 					14: {
-						// NewString: Regenator
-						// OldString: Regenator
+						NewString: Regenator
+						OldString: Regenator
 					}
 
 					13: {
-						// NewString: EtherealExtorter
-						// OldString: EtherealExtorter
+						NewString: EtherealExtorter
+						OldString: EtherealExtorter
 					}
 
 					12: {
-						// NewString: FleshTotem
-						// OldString: FleshTotem
+						NewString: FleshTotem
+						OldString: FleshTotem
 					}
 
 					11: {
-						// NewString: HallowedRune
-						// OldString: HallowedRune
+						NewString: HallowedRune
+						OldString: HallowedRune
 					}
 
 					10: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 
 					9: {
-						// NewString: HydrothermicVentBuff
-						// OldString: HydrothermicVentBuff
+						NewString: HydrothermicVentBuff
+						OldString: HydrothermicVentBuff
 					}
 
 					8: {
-						// NewString: ataxiaHealer field not found in ThorlamityPlayer.
-						// OldString: ataxiaHealer field not found in ThorlamityPlayer.
+						NewString: ataxiaHealer field not found in ThorlamityPlayer.
+						OldString: ataxiaHealer field not found in ThorlamityPlayer.
 					}
 
 					7: {
-						// NewString: ataxiaHealer
-						// OldString: ataxiaHealer
+						NewString: ataxiaHealer
+						OldString: ataxiaHealer
 					}
 
 					6: {
-						// NewString: ataxiaBard field not found in ThorlamityPlayer.
-						// OldString: ataxiaBard field not found in ThorlamityPlayer.
+						NewString: ataxiaBard field not found in ThorlamityPlayer.
+						OldString: ataxiaBard field not found in ThorlamityPlayer.
 					}
 
 					5: {
-						// NewString: YourModName
-						// OldString: YourModName
+						NewString: YourModName
+						OldString: YourModName
 					}
 
 					4: {
-						// NewString: ataxiaBard
-						// OldString: ataxiaBard
+						NewString: ataxiaBard
+						OldString: ataxiaBard
 					}
 
 					3: {
-						// NewString: ThorlamityPlayer
-						// OldString: ThorlamityPlayer
+						NewString: ThorlamityPlayer
+						OldString: ThorlamityPlayer
 					}
 
 					2: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 				}
 
 				ModifyTooltips: {
 					31: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					30: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 
 					29: {
-						// NewString: Effects of Flesh Totem, Regenator, and Ethereal Extorter
-						// OldString: Effects of Flesh Totem, Regenator, and Ethereal Extorter
+						NewString: Effects of Flesh Totem, Regenator, and Ethereal Extorter
+						OldString: Effects of Flesh Totem, Regenator, and Ethereal Extorter
 					}
 
 					28: {
-						// NewString: Effects of Hallowed Rune, Regenator, and Ethereal Extorter
-						// OldString: Effects of Hallowed Rune, Regenator, and Ethereal Extorter
+						NewString: 拥有神圣符文,再生护符和虚空掠夺者的效果
+						OldString: Effects of Hallowed Rune, Regenator, and Ethereal Extorter
 					}
 
 					27: {
-						// NewString: Tooltip8
-						// OldString: Tooltip8
+						NewString: Tooltip8
+						OldString: Tooltip8
 					}
 
 					26: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					25: {
-						// NewString: Only one oasis can be active at a time
-						// OldString: Only one oasis can be active at a time
+						NewString: Only one oasis can be active at a time
+						OldString: Only one oasis can be active at a time
 					}
 
 					24: {
-						// NewString: Tooltip75
-						// OldString: Tooltip75
+						NewString: Tooltip75
+						OldString: Tooltip75
 					}
 
 					23: {
-						// NewString: The oasis heals 6 life every 1/3 of a second
-						// OldString: The oasis heals 6 life every 1/3 of a second
+						NewString: The oasis heals 6 life every 1/3 of a second
+						OldString: The oasis heals 6 life every 1/3 of a second
 					}
 
 					22: {
-						// NewString: Tooltip74
-						// OldString: Tooltip74
+						NewString: Tooltip74
+						OldString: Tooltip74
 					}
 
 					21: {
-						// NewString: Taking more than 75 damage spawns an oasis that lasts 3 seconds
-						// OldString: Taking more than 75 damage spawns an oasis that lasts 3 seconds
+						NewString: Taking more than 75 damage spawns an oasis that lasts 3 seconds
+						OldString: Taking more than 75 damage spawns an oasis that lasts 3 seconds
 					}
 
 					20: {
-						// NewString: Tooltip73
-						// OldString: Tooltip73
+						NewString: Tooltip73
+						OldString: Tooltip73
 					}
 
 					2: {
-						// NewString: Inferno effect when below 50% life
-						// OldString: Inferno effect when below 50% life
+						NewString: 生命值低于50%时获得狱火药水效果
+						OldString: Inferno effect when below 50% life
 					}
 
 					19: {
-						// NewString: Only one eruption can occur and have a 3 second cooldown per trigger
-						// OldString: Only one eruption can occur and have a 3 second cooldown per trigger
+						NewString: Only one eruption can occur and have a 3 second cooldown per trigger
+						OldString: Only one eruption can occur and have a 3 second cooldown per trigger
 					}
 
 					18: {
-						// NewString: Tooltip72
-						// OldString: Tooltip72
+						NewString: Tooltip72
+						OldString: Tooltip72
 					}
 
 					17: {
-						// NewString: Symphonic critical strikes cause targets to erupt in sulfide flames
-						// OldString: Symphonic critical strikes cause targets to erupt in sulfide flames
+						NewString: Symphonic critical strikes cause targets to erupt in sulfide flames
+						OldString: Symphonic critical strikes cause targets to erupt in sulfide flames
 					}
 
 					16: {
-						// NewString: Tooltip71
-						// OldString: Tooltip71
+						NewString: Tooltip71
+						OldString: Tooltip71
 					}
 
 					15: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 
 					14: {
-						// NewString: Rogue weapons unleash a volley of homing chaos flames around the player every 2 seconds
-						// OldString: Rogue weapons unleash a volley of homing chaos flames around the player every 2 seconds
+						NewString: 使用盗贼武器攻击时每2秒会在你周围召唤一排追踪敌人的混沌火焰
+						OldString: Rogue weapons unleash a volley of homing chaos flames around the player every 2 seconds
 					}
 
 					13: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					12: {
-						// NewString: Summons a hydrothermic vent to protect you
-						// OldString: Summons a hydrothermic vent to protect you
+						NewString: 召唤沸腾渊泉保护你
+						OldString: Summons a hydrothermic vent to protect you
 					}
 
 					11: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					10: {
-						// NewString: Magic attacks summon damaging and healing flare orbs on hit
-						// OldString: Magic attacks summon damaging and healing flare orbs on hit
+						NewString: 魔法攻击产生伤害火球和治疗火球
+						OldString: Magic attacks summon damaging and healing flare orbs on hit
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					8: {
-						// NewString: You fire a homing chaos flare when using ranged weapons every 0.33 seconds
-						// OldString: You fire a homing chaos flare when using ranged weapons every 0.33 seconds
+						NewString: 使用远程武器时每0.33秒发射一团追踪的混沌火焰
+						OldString: You fire a homing chaos flare when using ranged weapons every 0.33 seconds
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: Melee attacks and projectiles cause chaos flames to erupt on enemy hits
-						// OldString: Melee attacks and projectiles cause chaos flames to erupt on enemy hits
+						NewString: 近战攻击和弹幕在击中敌人时喷发出混沌火焰
+						OldString: Melee attacks and projectiles cause chaos flames to erupt on enemy hits
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					4: {
-						// NewString: You emit a blazing explosion when you are hit
-						// OldString: You emit a blazing explosion when you are hit
+						NewString: 你受伤时会在原地产生一场烈焰爆炸
+						OldString: You emit a blazing explosion when you are hit
 					}
 				}
 			}
@@ -2033,45 +2033,45 @@ Items: {
 			MolluskEnchantment: {
 				UpdateAccessory: {
 					6: {
-						// NewString: VictideEnchantment
-						// OldString: VictideEnchantment
+						NewString: VictideEnchantment
+						OldString: VictideEnchantment
 					}
 
 					5: {
-						// NewString: FargosSoulsModDLCRecreated
-						// OldString: FargosSoulsModDLCRecreated
+						NewString: FargosSoulsModDLCRecreated
+						OldString: FargosSoulsModDLCRecreated
 					}
 
 					4: {
-						// NewString: DeepDiver
-						// OldString: DeepDiver
+						NewString: DeepDiver
+						OldString: DeepDiver
 					}
 
 					3: {
-						// NewString: AquaticEmblem
-						// OldString: AquaticEmblem
+						NewString: AquaticEmblem
+						OldString: AquaticEmblem
 					}
 
 					2: {
-						// NewString: GiantPearl
-						// OldString: GiantPearl
+						NewString: GiantPearl
+						OldString: GiantPearl
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					2: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					1: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 				}
 			}
@@ -2079,95 +2079,95 @@ Items: {
 			EmpyreanEnchantment: {
 				UpdateAccessory: {
 					4: {
-						// NewString: ShieldoftheHighRuler
-						// OldString: ShieldoftheHighRuler
+						NewString: ShieldoftheHighRuler
+						OldString: ShieldoftheHighRuler
 					}
 
 					3: {
-						// NewString: TheAbsorber
-						// OldString: TheAbsorber
+						NewString: TheAbsorber
+						OldString: TheAbsorber
 					}
 
 					2: {
-						// NewString: TheCommunity
-						// OldString: TheCommunity
+						NewString: TheCommunity
+						OldString: TheCommunity
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					14: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					13: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 
 					12: {
-						// NewString: Effects of The Community, The Absorber and Shield of the High Ruler
-						// OldString: Effects of The Community, The Absorber and Shield of the High Ruler
+						NewString: 拥有归一心元石,阴阳吸星石和至高统治之盾的效果
+						OldString: Effects of The Community, The Absorber and Shield of the High Ruler
 					}
 
 					11: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					10: {
-						// NewString: Imbued with cosmic wrath and rage when you are damaged
-						// OldString: Imbued with cosmic wrath and rage when you are damaged
+						NewString: 受伤时受到来自宇宙的怒火加持
+						OldString: Imbued with cosmic wrath and rage when you are damaged
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					8: {
-						// NewString: Rogue projectiles have special effects on enemy hits
-						// OldString: Rogue projectiles have special effects on enemy hits
+						NewString: 盗贼弹幕击中敌人产生特殊效果
+						OldString: Rogue projectiles have special effects on enemy hits
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: +115 maximum stealth
-						// OldString: +115 maximum stealth
+						NewString: +115点最大潜行值
+						OldString: +115 maximum stealth
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					4: {
-						// NewString: 9% increased rogue damage and velocity
-						// OldString: 9% increased rogue damage and velocity
+						NewString: 提高9%盗贼伤害和弹幕速度
+						OldString: 9% increased rogue damage and velocity
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 
 					2: {
-						// NewString: The power of an ancient god at your command…
-						// OldString: The power of an ancient god at your command…
+						NewString: 掌控了一位远古存在的力量...
+						OldString: The power of an ancient god at your command…
 					}
 				}
 			}
@@ -2175,97 +2175,97 @@ Items: {
 			StatigelEnchantment: {
 				AddRecipes: {
 					4: {
-						// NewString: FargosSoulsModDLCRecreated:AnyStatigelHelmet
-						// OldString: FargosSoulsModDLCRecreated:AnyStatigelHelmet
+						NewString: FargosSoulsModDLCRecreated:AnyStatigelHelmet
+						OldString: FargosSoulsModDLCRecreated:AnyStatigelHelmet
 					}
 
 					3: {
-						// NewString: StatigelFoxMask
-						// OldString: StatigelFoxMask
+						NewString: StatigelFoxMask
+						OldString: StatigelFoxMask
 					}
 
 					2: {
-						// NewString: StatigelEarrings
-						// OldString: StatigelEarrings
+						NewString: StatigelEarrings
+						OldString: StatigelEarrings
 					}
 
 					1: {
-						// NewString: CalamityBardHealer
-						// OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
 					}
 				}
 
 				UpdateAccessory: {
 					4: {
-						// NewString: FungalClump
-						// OldString: FungalClump
+						NewString: FungalClump
+						OldString: FungalClump
 					}
 
 					3: {
-						// NewString: ManaPolarizer
-						// OldString: ManaPolarizer
+						NewString: ManaPolarizer
+						OldString: ManaPolarizer
 					}
 
 					2: {
-						// NewString: FungalSymbiote
-						// OldString: FungalSymbiote
+						NewString: FungalSymbiote
+						OldString: FungalSymbiote
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					10: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 
 					8: {
-						// NewString: Effects of Fungal Clump, Mana Polarizer, and Fungal Symbiote
-						// OldString: Effects of Fungal Clump, Mana Polarizer, and Fungal Symbiote
+						NewString: 拥有真菌块，魔能谐振仪，真菌共生体的效果
+						OldString: Effects of Fungal Clump, Mana Polarizer, and Fungal Symbiote
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: Grants an extra jump and increased jump height
-						// OldString: Grants an extra jump and increased jump height
+						NewString: 增加跳跃高度，并获得一段额外跳跃
+						OldString: Grants an extra jump and increased jump height
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					4: {
-						// NewString: When you take over 100 damage in one hit you become immune to damage for an extended period of time
-						// OldString: When you take over 100 damage in one hit you become immune to damage for an extended period of time
+						NewString: 当你一次性受到超过100点伤害时，获得额外的无敌帧
+						OldString: When you take over 100 damage in one hit you become immune to damage for an extended period of time
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 
 					2: {
-						// NewString: Statis’ mystical power surrounds you…
-						// OldString: Statis’ mystical power surrounds you…
+						NewString: 斯塔提斯的神秘力量萦绕着你...
+						OldString: Statis’ mystical power surrounds you…
 					}
 				}
 			}
@@ -2273,132 +2273,132 @@ Items: {
 			FearmongerEnchantment: {
 				AddRecipes: {
 					2: {
-						// NewString: DraedonsForge
-						// OldString: DraedonsForge
+						NewString: DraedonsForge
+						OldString: DraedonsForge
 					}
 
 					1: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 				}
 
 				UpdateAccessory: {
 					5: {
-						// NewString: TheEvolution
-						// OldString: TheEvolution
+						NewString: TheEvolution
+						OldString: TheEvolution
 					}
 
 					4: {
-						// NewString: SpectralVeil
-						// OldString: SpectralVeil
+						NewString: SpectralVeil
+						OldString: SpectralVeil
 					}
 
 					3: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					2: {
-						// NewString: StatisVoidSash
-						// OldString: StatisVoidSash
+						NewString: StatisVoidSash
+						OldString: StatisVoidSash
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					18: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					17: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 
 					16: {
-						// NewString: Effects of Spectral Veil and The Evolution
-						// OldString: Effects of Spectral Veil and The Evolution
+						NewString: Effects of Spectral Veil and The Evolution
+						OldString: Effects of Spectral Veil and The Evolution
 					}
 
 					15: {
-						// NewString: Effects of Spectral Veil and Statis' Void Sash
-						// OldString: Effects of Spectral Veil and Statis' Void Sash
+						NewString: 拥有幽灵披风和斯塔提斯的虚空饰带的效果
+						OldString: Effects of Spectral Veil and Statis' Void Sash
 					}
 
 					14: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					13: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					12: {
-						// NewString: This extra damage reduction ignores the soft cap
-						// OldString: This extra damage reduction ignores the soft cap
+						NewString: 这额外的伤害减免无视减伤率软上限
+						OldString: This extra damage reduction ignores the soft cap
 					}
 
 					11: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					10: {
-						// NewString: 15% increased damage reduction during the Pumpkin and Frost Moons
-						// OldString: 15% increased damage reduction during the Pumpkin and Frost Moons
+						NewString: 在南瓜月冰霜月事件期间获得15%伤害减免
+						OldString: 15% increased damage reduction during the Pumpkin and Frost Moons
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					8: {
-						// NewString: Minion attacks grant +3.5 HP/s life regen and massively accelerate life regen
-						// OldString: Minion attacks grant +3.5 HP/s life regen and massively accelerate life regen
+						NewString: 召唤物攻击敌人使你+3.5生命恢复速度
+						OldString: Minion attacks grant +3.5 HP/s life regen and massively accelerate life regen
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: Immunity to all forms of frost and flame
-						// OldString: Immunity to all forms of frost and flame
+						NewString: 免疫一切霜，火相关的减益
+						OldString: Immunity to all forms of frost and flame
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					4: {
-						// NewString: Minions no longer deal less damage while wielding non-summoner weapons
-						// OldString: Minions no longer deal less damage while wielding non-summoner weapons
+						NewString: 手持非召唤武器时召唤物造成的伤害不再降低
+						OldString: Minions no longer deal less damage while wielding non-summoner weapons
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 
 					2: {
-						// NewString: 20% increased summon damage and +2 max minions
-						// OldString: 20% increased summon damage and +2 max minions
+						NewString: 提高20%召唤伤害并+2召唤栏
+						OldString: 20% increased summon damage and +2 max minions
 					}
 				}
 			}
@@ -2406,122 +2406,122 @@ Items: {
 			AstralEnchantment: {
 				ModifyTooltips: {
 					1: {
-						// OldString: Tooltip1
-						// NewString: Tooltip1
+						OldString: Tooltip1
+						NewString: Tooltip1
 					}
 
 					2: {
-						// OldString: The Astral Infection has consumed you...
-						// NewString: The Astral Infection has consumed you...
+						OldString: The Astral Infection has consumed you...
+						NewString: 星辉瘟疫已经吞噬了你...
 					}
 
 					3: {
-						// OldString: Tooltip2
-						// NewString: Tooltip2
+						OldString: Tooltip2
+						NewString: Tooltip2
 					}
 
 					4: {
-						// OldString: 5% increased movement speed and +3 max minions
-						// NewString: 5% increased movement speed and +3 max minions
+						OldString: 5% increased movement speed and +3 max minions
+						NewString: 提升5%移动速度并+3召唤栏
 					}
 
 					5: {
-						// OldString: Tooltip3
-						// NewString: Tooltip3
+						OldString: Tooltip3
+						NewString: Tooltip3
 					}
 
 					6: {
-						// OldString: 35% increased damage and 25% increased critical strike chance
-						// NewString: 35% increased damage and 25% increased critical strike chance
+						OldString: 35% increased damage and 25% increased critical strike chance
+						NewString: 提升35%伤害和25%暴击率
 					}
 
 					7: {
-						// OldString: Tooltip4
-						// NewString: Tooltip4
+						OldString: Tooltip4
+						NewString: Tooltip4
 					}
 
 					8: {
-						// OldString: Whenever you crit an enemy, a barrage of stars will rain down
-						// NewString: Whenever you crit an enemy, a barrage of stars will rain down
+						OldString: Whenever you crit an enemy, a barrage of stars will rain down
+						NewString: 每当你对敌人造成暴击，天空会降落神圣陨星
 					}
 
 					9: {
-						// OldString: Tooltip5
-						// NewString: Tooltip5
+						OldString: Tooltip5
+						NewString: Tooltip5
 					}
 
 					10: {
-						// OldString: This effect has a 1 second cooldown before it can trigger again
-						// NewString: This effect has a 1 second cooldown before it can trigger again
+						OldString: This effect has a 1 second cooldown before it can trigger again
+						NewString: 此效果1秒内最多触发一次
 					}
 
 					11: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 
 					12: {
-						// OldString: Tooltip6
-						// NewString: Tooltip6
+						OldString: Tooltip6
+						NewString: Tooltip6
 					}
 
 					13: {
-						// OldString: Effects of Radiance, Gravistar Sabaton, and Ursa Sergeant
-						// NewString: Effects of Radiance, Gravistar Sabaton, and Ursa Sergeant
+						OldString: Effects of Radiance, Gravistar Sabaton, and Ursa Sergeant
+						NewString: 拥有辐辉,引力靴,大熊座雀鲷的效果
 					}
 
 					14: {
-						// OldString: Effects of Hide of Astrum Deus, Gravistar Sabaton, and Ursa Sergeant
-						// NewString: Effects of Hide of Astrum Deus, Gravistar Sabaton, and Ursa Sergeant
+						OldString: Effects of Hide of Astrum Deus, Gravistar Sabaton, and Ursa Sergeant
+						NewString: Effects of Hide of Astrum Deus, Gravistar Sabaton, and Ursa Sergeant
 					}
 
 					15: {
-						// OldString: Terraria
-						// NewString: Terraria
+						OldString: Terraria
+						NewString: Terraria
 					}
 
 					16: {
-						// OldString: ItemName
-						// NewString: ItemName
+						OldString: ItemName
+						NewString: ItemName
 					}
 				}
 
 				UpdateAccessory: {
 					1: {
-						// OldString: CalamityMod
-						// NewString: CalamityMod
+						OldString: CalamityMod
+						NewString: CalamityMod
 					}
 
 					2: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 
 					3: {
-						// OldString: Radiance
-						// NewString: Radiance
+						OldString: Radiance
+						NewString: Radiance
 					}
 
 					4: {
-						// OldString: HideofAstrumDeus
-						// NewString: HideofAstrumDeus
+						OldString: HideofAstrumDeus
+						NewString: HideofAstrumDeus
 					}
 
 					5: {
-						// OldString: GravistarSabaton
-						// NewString: GravistarSabaton
+						OldString: GravistarSabaton
+						NewString: GravistarSabaton
 					}
 
 					6: {
-						// OldString: UrsaSergeant
-						// NewString: UrsaSergeant
+						OldString: UrsaSergeant
+						NewString: UrsaSergeant
 					}
 				}
 
 				AddRecipes: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -2529,35 +2529,35 @@ Items: {
 			UmbraphileEnchantment: {
 				ModifyTooltips: {
 					1: {
-						// OldString: Terraria
-						// NewString: Terraria
+						OldString: Terraria
+						NewString: Terraria
 					}
 
 					2: {
-						// OldString: ItemName
-						// NewString: ItemName
+						OldString: ItemName
+						NewString: ItemName
 					}
 				}
 
 				UpdateAccessory: {
 					1: {
-						// OldString: CalamityMod
-						// NewString: CalamityMod
+						OldString: CalamityMod
+						NewString: CalamityMod
 					}
 
 					2: {
-						// OldString: ThiefsDime
-						// NewString: ThiefsDime
+						OldString: ThiefsDime
+						NewString: ThiefsDime
 					}
 
 					3: {
-						// OldString: VampiricTalisman
-						// NewString: VampiricTalisman
+						OldString: VampiricTalisman
+						NewString: VampiricTalisman
 					}
 
 					4: {
-						// OldString: EvasionScarf
-						// NewString: EvasionScarf
+						OldString: EvasionScarf
+						NewString: EvasionScarf
 					}
 				}
 			}
@@ -2565,47 +2565,47 @@ Items: {
 			DemonShadeEnchantment: {
 				ModifyTooltips: {
 					1: {
-						// OldString: Terraria
-						// NewString: Terraria
+						OldString: Terraria
+						NewString: Terraria
 					}
 
 					2: {
-						// OldString: ItemName
-						// NewString: ItemName
+						OldString: ItemName
+						NewString: ItemName
 					}
 				}
 
 				UpdateAccessory: {
 					1: {
-						// OldString: CalamityMod
-						// NewString: CalamityMod
+						OldString: CalamityMod
+						NewString: CalamityMod
 					}
 
 					2: {
-						// OldString: ProfanedSoulCrystal
-						// NewString: ProfanedSoulCrystal
+						OldString: ProfanedSoulCrystal
+						NewString: ProfanedSoulCrystal
 					}
 
 					3: {
-						// OldString: AngelicAlliance
-						// NewString: AngelicAlliance
+						OldString: AngelicAlliance
+						NewString: AngelicAlliance
 					}
 
 					4: {
-						// OldString: ShatteredCommunity
-						// NewString: ShatteredCommunity
+						OldString: ShatteredCommunity
+						NewString: ShatteredCommunity
 					}
 
 					5: {
-						// OldString: CirrusDress
-						// NewString: CirrusDress
+						OldString: CirrusDress
+						NewString: CirrusDress
 					}
 				}
 
 				AddRecipes: {
 					1: {
-						// OldString: DraedonsForge
-						// NewString: DraedonsForge
+						OldString: DraedonsForge
+						NewString: DraedonsForge
 					}
 				}
 			}
@@ -2613,120 +2613,120 @@ Items: {
 			FathomSwarmerEnchantment: {
 				ModifyTooltips: {
 					1: {
-						// OldString: Tooltip1
-						// NewString: Tooltip1
+						OldString: Tooltip1
+						NewString: Tooltip1
 					}
 
 					2: {
-						// OldString: 10% increased summon damage and +2 max minions
-						// NewString: 10% increased summon damage and +2 max minions
+						OldString: 10% increased summon damage and +2 max minions
+						NewString: 增加10%召唤伤害和2召唤栏
 					}
 
 					3: {
-						// OldString: Tooltip2
-						// NewString: Tooltip2
+						OldString: Tooltip2
+						NewString: Tooltip2
 					}
 
 					4: {
-						// OldString: Grants the ability to climb walls
-						// NewString: Grants the ability to climb walls
+						OldString: Grants the ability to climb walls
+						NewString: 获得爬墙的能力
 					}
 
 					5: {
-						// OldString: Tooltip3
-						// NewString: Tooltip3
+						OldString: Tooltip3
+						NewString: Tooltip3
 					}
 
 					6: {
-						// OldString: 20% increased summon damage, +10 defense and +2.5 HP/s life regen while underwater
-						// NewString: 20% increased summon damage, +10 defense and +2.5 HP/s life regen while underwater
+						OldString: 20% increased summon damage, +10 defense and +2.5 HP/s life regen while underwater
+						NewString: 浸没在液体中时增加20%召唤伤害,10防御和2.5生命再生
 					}
 
 					7: {
-						// OldString: Tooltip4
-						// NewString: Tooltip4
+						OldString: Tooltip4
+						NewString: Tooltip4
 					}
 
 					8: {
-						// OldString: Provides a moderate amount of light and moderately reduces breath loss in the abyss
-						// NewString: Provides a moderate amount of light and moderately reduces breath loss in the abyss
+						OldString: Provides a moderate amount of light and moderately reduces breath loss in the abyss
+						NewString: 在深渊提供适量光照，并适度减少深渊中的氧气损耗
 					}
 
 					9: {
-						// OldString: Tooltip5
-						// NewString: Tooltip5
+						OldString: Tooltip5
+						NewString: Tooltip5
 					}
 
 					10: {
-						// OldString: Effects of Corrosive Spine, Lumenous Amulet, and Amadias Pendant
-						// NewString: Effects of Corrosive Spine, Lumenous Amulet, and Amadias Pendant
+						OldString: Effects of Corrosive Spine, Lumenous Amulet, and Amadias Pendant
+						NewString: 拥有腐蚀脊椎,流明护身符和阿米迪亚斯之垂饰的效果
 					}
 
 					11: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 
 					12: {
-						// OldString: Tooltip6
-						// NewString: Tooltip6
+						OldString: Tooltip6
+						NewString: Tooltip6
 					}
 
 					13: {
-						// OldString: Effects of Sand Cloak, Rusty Medallion, Alluring Bait, Aquatic Heart, and Leviathan Ambergris
-						// NewString: Effects of Sand Cloak, Rusty Medallion, Alluring Bait, Aquatic Heart, and Leviathan Ambergris
+						OldString: Effects of Sand Cloak, Rusty Medallion, Alluring Bait, Aquatic Heart, and Leviathan Ambergris
+						NewString: 拥有沙尘披风,锈蚀勋章,诱惑鱼饵,渊洋之心和利维坦龙涎香的效果
 					}
 
 					14: {
-						// OldString: Effects of Sand Cloak, Rusty Medallion, Aquatic Heart, and Leviathan Ambergris
-						// NewString: Effects of Sand Cloak, Rusty Medallion, Aquatic Heart, and Leviathan Ambergris
+						OldString: Effects of Sand Cloak, Rusty Medallion, Aquatic Heart, and Leviathan Ambergris
+						NewString: Effects of Sand Cloak, Rusty Medallion, Aquatic Heart, and Leviathan Ambergris
 					}
 
 					15: {
-						// OldString: Terraria
-						// NewString: Terraria
+						OldString: Terraria
+						NewString: Terraria
 					}
 
 					16: {
-						// OldString: ItemName
-						// NewString: ItemName
+						OldString: ItemName
+						NewString: ItemName
 					}
 				}
 
 				UpdateAccessory: {
 					1: {
-						// OldString: CalamityMod
-						// NewString: CalamityMod
+						OldString: CalamityMod
+						NewString: CalamityMod
 					}
 
 					2: {
-						// OldString: CorrosiveSpine
-						// NewString: CorrosiveSpine
+						OldString: CorrosiveSpine
+						NewString: CorrosiveSpine
 					}
 
 					3: {
-						// OldString: LumenousAmulet
-						// NewString: LumenousAmulet
+						OldString: LumenousAmulet
+						NewString: LumenousAmulet
 					}
 
 					4: {
-						// OldString: LeviathanAmbergris
-						// NewString: LeviathanAmbergris
+						OldString: LeviathanAmbergris
+						NewString: LeviathanAmbergris
 					}
 
 					5: {
-						// OldString: AquaticHeart
-						// NewString: AquaticHeart
+						OldString: AquaticHeart
+						NewString: AquaticHeart
 					}
 
 					6: {
-						// OldString: FargosSoulsModDLCRecreated
-						// NewString: FargosSoulsModDLCRecreated
+						OldString: FargosSoulsModDLCRecreated
+						NewString: FargosSoulsModDLCRecreated
 					}
 
 					7: {
-						// OldString: SulphurousEnchantment
-						// NewString: SulphurousEnchantment
+						OldString: SulphurousEnchantment
+						NewString: SulphurousEnchantment
 					}
 				}
 			}
@@ -2734,35 +2734,35 @@ Items: {
 			WulfrumEnchantment: {
 				ModifyTooltips: {
 					1: {
-						// OldString: Terraria
-						// NewString: Terraria
+						OldString: Terraria
+						NewString: Terraria
 					}
 
 					2: {
-						// OldString: ItemName
-						// NewString: ItemName
+						OldString: ItemName
+						NewString: ItemName
 					}
 				}
 
 				UpdateAccessory: {
 					1: {
-						// OldString: CalamityMod
-						// NewString: CalamityMod
+						OldString: CalamityMod
+						NewString: CalamityMod
 					}
 
 					2: {
-						// OldString: TrinketofChi
-						// NewString: TrinketofChi
+						OldString: TrinketofChi
+						NewString: TrinketofChi
 					}
 
 					3: {
-						// OldString: RottenDogtooth
-						// NewString: RottenDogtooth
+						OldString: RottenDogtooth
+						NewString: RottenDogtooth
 					}
 
 					4: {
-						// OldString: WulfrumAcrobaticsPack
-						// NewString: WulfrumAcrobaticsPack
+						OldString: WulfrumAcrobaticsPack
+						NewString: WulfrumAcrobaticsPack
 					}
 				}
 			}
@@ -2770,237 +2770,237 @@ Items: {
 			GodSlayerEnchantment: {
 				ModifyTooltips: {
 					1: {
-						// OldString: Tooltip1
-						// NewString: Tooltip1
+						OldString: Tooltip1
+						NewString: Tooltip1
 					}
 
 					2: {
-						// OldString: The power to slay gods resides within you...
-						// NewString: The power to slay gods resides within you...
+						OldString: The power to slay gods resides within you...
+						NewString: The power to slay gods resides within you...
 					}
 
 					3: {
-						// OldString: Tooltip2
-						// NewString: Tooltip2
+						OldString: Tooltip2
+						NewString: Tooltip2
 					}
 
 					4: {
-						// OldString: Allows you to dash for an immense distance in 8 directions
-						// NewString: Allows you to dash for an immense distance in 8 directions
+						OldString: Allows you to dash for an immense distance in 8 directions
+						NewString: Allows you to dash for an immense distance in 8 directions
 					}
 
 					5: {
-						// OldString: Tooltip3
-						// NewString: Tooltip3
+						OldString: Tooltip3
+						NewString: Tooltip3
 					}
 
 					6: {
-						// OldString: Press H while holding down the movement keys in the direction you want to dash
-						// NewString: Press H while holding down the movement keys in the direction you want to dash
+						OldString: Press H while holding down the movement keys in the direction you want to dash
+						NewString: Press H while holding down the movement keys in the direction you want to dash
 					}
 
 					7: {
-						// OldString: Tooltip4
-						// NewString: Tooltip4
+						OldString: Tooltip4
+						NewString: Tooltip4
 					}
 
 					8: {
-						// OldString: Enemies you dash through take massive damage
-						// NewString: Enemies you dash through take massive damage
+						OldString: Enemies you dash through take massive damage
+						NewString: Enemies you dash through take massive damage
 					}
 
 					9: {
-						// OldString: Tooltip5
-						// NewString: Tooltip5
+						OldString: Tooltip5
+						NewString: Tooltip5
 					}
 
 					10: {
-						// OldString: During the dash you are immune to most debuffs
-						// NewString: During the dash you are immune to most debuffs
+						OldString: During the dash you are immune to most debuffs
+						NewString: During the dash you are immune to most debuffs
 					}
 
 					11: {
-						// OldString: Tooltip6
-						// NewString: Tooltip6
+						OldString: Tooltip6
+						NewString: Tooltip6
 					}
 
 					12: {
-						// OldString: The dash has a 45 second cooldown
-						// NewString: The dash has a 45 second cooldown
+						OldString: The dash has a 45 second cooldown
+						NewString: The dash has a 45 second cooldown
 					}
 
 					13: {
-						// OldString: Tooltip7
-						// NewString: Tooltip7
+						OldString: Tooltip7
+						NewString: Tooltip7
 					}
 
 					14: {
-						// OldString: Taking over 80 damage in one hit will cause you to release a swarm of high-damage god killer darts
-						// NewString: Taking over 80 damage in one hit will cause you to release a swarm of high-damage god killer darts
+						OldString: Taking over 80 damage in one hit will cause you to release a swarm of high-damage god killer darts
+						NewString: Taking over 80 damage in one hit will cause you to release a swarm of high-damage god killer darts
 					}
 
 					15: {
-						// OldString: Tooltip8
-						// NewString: Tooltip8
+						OldString: Tooltip8
+						NewString: Tooltip8
 					}
 
 					16: {
-						// OldString: Enemies take a lot of damage when they hit you
-						// NewString: Enemies take a lot of damage when they hit you
+						OldString: Enemies take a lot of damage when they hit you
+						NewString: Enemies take a lot of damage when they hit you
 					}
 
 					17: {
-						// OldString: Tooltip9
-						// NewString: Tooltip9
+						OldString: Tooltip9
+						NewString: Tooltip9
 					}
 
 					18: {
-						// OldString: You fire a god killer shrapnel round while firing ranged weapons every 2.5 seconds
-						// NewString: You fire a god killer shrapnel round while firing ranged weapons every 2.5 seconds
+						OldString: You fire a god killer shrapnel round while firing ranged weapons every 2.5 seconds
+						NewString: You fire a god killer shrapnel round while firing ranged weapons every 2.5 seconds
 					}
 
 					19: {
-						// OldString: Tooltip10
-						// NewString: Tooltip10
+						OldString: Tooltip10
+						NewString: Tooltip10
 					}
 
 					20: {
-						// OldString: While at full HP all of your rogue stats are boosted by 10%
-						// NewString: While at full HP all of your rogue stats are boosted by 10%
+						OldString: While at full HP all of your rogue stats are boosted by 10%
+						NewString: While at full HP all of your rogue stats are boosted by 10%
 					}
 
 					21: {
-						// OldString: Tooltip11
-						// NewString: Tooltip11
+						OldString: Tooltip11
+						NewString: Tooltip11
 					}
 
 					22: {
-						// OldString: If you take over 80 damage in one hit you will be given extra immunity frames
-						// NewString: If you take over 80 damage in one hit you will be given extra immunity frames
+						OldString: If you take over 80 damage in one hit you will be given extra immunity frames
+						NewString: If you take over 80 damage in one hit you will be given extra immunity frames
 					}
 
 					23: {
-						// OldString: CalamityBardHealer
-						// NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
 					}
 
 					24: {
-						// OldString: Tooltip121
-						// NewString: Tooltip121
+						OldString: Tooltip121
+						NewString: Tooltip121
 					}
 
 					25: {
-						// OldString: A calamity bell floats above your head and occasionally rings while attacking
-						// NewString: A calamity bell floats above your head and occasionally rings while attacking
+						OldString: A calamity bell floats above your head and occasionally rings while attacking
+						NewString: A calamity bell floats above your head and occasionally rings while attacking
 					}
 
 					26: {
-						// OldString: Tooltip122
-						// NewString: Tooltip122
+						OldString: Tooltip122
+						NewString: Tooltip122
 					}
 
 					27: {
-						// OldString: When the bell rings, enemies around you take 7500 true damage
-						// NewString: When the bell rings, enemies around you take 7500 true damage
+						OldString: When the bell rings, enemies around you take 7500 true damage
+						NewString: When the bell rings, enemies around you take 7500 true damage
 					}
 
 					28: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 
 					29: {
-						// OldString: Tooltip12
-						// NewString: Tooltip12
+						OldString: Tooltip12
+						NewString: Tooltip12
 					}
 
 					30: {
-						// OldString: Effects of the Nebulous Core, Dimensional Soul Artifact, and Draedon's Heart
-						// NewString: Effects of the Nebulous Core, Dimensional Soul Artifact, and Draedon's Heart
+						OldString: Effects of the Nebulous Core, Dimensional Soul Artifact, and Draedon's Heart
+						NewString: Effects of the Nebulous Core, Dimensional Soul Artifact, and Draedon's Heart
 					}
 
 					31: {
-						// OldString: Effects of Dimensional Soul Artifact and Venetrated Locket
-						// NewString: Effects of Dimensional Soul Artifact and Venetrated Locket
+						OldString: Effects of Dimensional Soul Artifact and Venetrated Locket
+						NewString: Effects of Dimensional Soul Artifact and Venetrated Locket
 					}
 
 					32: {
-						// OldString: Terraria
-						// NewString: Terraria
+						OldString: Terraria
+						NewString: Terraria
 					}
 
 					33: {
-						// OldString: ItemName
-						// NewString: ItemName
+						OldString: ItemName
+						NewString: ItemName
 					}
 				}
 
 				UpdateAccessory: {
 					1: {
-						// OldString: CalamityMod
-						// NewString: CalamityMod
+						OldString: CalamityMod
+						NewString: CalamityMod
 					}
 
 					2: {
-						// OldString: CalamityBardHealer
-						// NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
 					}
 
 					3: {
-						// OldString: CalamityBell
-						// NewString: CalamityBell
+						OldString: CalamityBell
+						NewString: CalamityBell
 					}
 
 					4: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 
 					5: {
-						// OldString: NebulousCore
-						// NewString: NebulousCore
+						OldString: NebulousCore
+						NewString: NebulousCore
 					}
 
 					6: {
-						// OldString: DraedonsHeart
-						// NewString: DraedonsHeart
+						OldString: DraedonsHeart
+						NewString: DraedonsHeart
 					}
 
 					7: {
-						// OldString: DimensionalSoulArtifact
-						// NewString: DimensionalSoulArtifact
+						OldString: DimensionalSoulArtifact
+						NewString: DimensionalSoulArtifact
 					}
 
 					8: {
-						// OldString: VeneratedLocket
-						// NewString: VeneratedLocket
+						OldString: VeneratedLocket
+						NewString: VeneratedLocket
 					}
 				}
 
 				AddRecipes: {
 					1: {
-						// OldString: CalamityBardHealer
-						// NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
 					}
 
 					2: {
-						// OldString: GodSlayerDeathsingerCowl
-						// NewString: GodSlayerDeathsingerCowl
+						OldString: GodSlayerDeathsingerCowl
+						NewString: GodSlayerDeathsingerCowl
 					}
 
 					3: {
-						// OldString: FargosSoulsModDLCRecreated:AnyGodslayerHelmet
-						// NewString: FargosSoulsModDLCRecreated:AnyGodslayerHelmet
+						OldString: FargosSoulsModDLCRecreated:AnyGodslayerHelmet
+						NewString: FargosSoulsModDLCRecreated:AnyGodslayerHelmet
 					}
 
 					4: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 
 					5: {
-						// OldString: DraedonsForge
-						// NewString: DraedonsForge
+						OldString: DraedonsForge
+						NewString: DraedonsForge
 					}
 				}
 			}
@@ -3008,52 +3008,52 @@ Items: {
 			ReaverEnchantment: {
 				ModifyTooltips: {
 					1: {
-						// OldString: Terraria
-						// NewString: Terraria
+						OldString: Terraria
+						NewString: Terraria
 					}
 
 					2: {
-						// OldString: ItemName
-						// NewString: ItemName
+						OldString: ItemName
+						NewString: ItemName
 					}
 				}
 
 				UpdateAccessory: {
 					1: {
-						// OldString: CalamityMod
-						// NewString: CalamityMod
+						OldString: CalamityMod
+						NewString: CalamityMod
 					}
 
 					2: {
-						// OldString: BloomStone
-						// NewString: BloomStone
+						OldString: BloomStone
+						NewString: BloomStone
 					}
 
 					3: {
-						// OldString: GloveOfRecklessness
-						// NewString: GloveOfRecklessness
+						OldString: GloveOfRecklessness
+						NewString: GloveOfRecklessness
 					}
 
 					4: {
-						// OldString: GloveOfPrecision
-						// NewString: GloveOfPrecision
+						OldString: GloveOfPrecision
+						NewString: GloveOfPrecision
 					}
 
 					5: {
-						// OldString: TheBee
-						// NewString: TheBee
+						OldString: TheBee
+						NewString: TheBee
 					}
 
 					6: {
-						// OldString: NecklaceofVexation
-						// NewString: NecklaceofVexation
+						OldString: NecklaceofVexation
+						NewString: NecklaceofVexation
 					}
 				}
 
 				AddRecipes: {
 					1: {
-						// OldString: FargosSoulsModDLCRecreated:AnyReaverHelmet
-						// NewString: FargosSoulsModDLCRecreated:AnyReaverHelmet
+						OldString: FargosSoulsModDLCRecreated:AnyReaverHelmet
+						NewString: FargosSoulsModDLCRecreated:AnyReaverHelmet
 					}
 				}
 			}
@@ -3061,52 +3061,52 @@ Items: {
 			VictideEnchantment: {
 				ModifyTooltips: {
 					1: {
-						// OldString: Terraria
-						// NewString: Terraria
+						OldString: Terraria
+						NewString: Terraria
 					}
 
 					2: {
-						// OldString: ItemName
-						// NewString: ItemName
+						OldString: ItemName
+						NewString: ItemName
 					}
 				}
 
 				UpdateAccessory: {
 					1: {
-						// OldString: CalamityMod
-						// NewString: CalamityMod
+						OldString: CalamityMod
+						NewString: CalamityMod
 					}
 
 					2: {
-						// OldString: OceanCrest
-						// NewString: OceanCrest
+						OldString: OceanCrest
+						NewString: OceanCrest
 					}
 
 					3: {
-						// OldString: LuxorsGift
-						// NewString: LuxorsGift
+						OldString: LuxorsGift
+						NewString: LuxorsGift
 					}
 
 					4: {
-						// OldString: ShieldoftheOcean
-						// NewString: ShieldoftheOcean
+						OldString: ShieldoftheOcean
+						NewString: ShieldoftheOcean
 					}
 				}
 
 				AddRecipes: {
 					1: {
-						// OldString: CalamityBardHealer
-						// NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
 					}
 
 					2: {
-						// OldString: VictideAmmoniteHat
-						// NewString: VictideAmmoniteHat
+						OldString: VictideAmmoniteHat
+						NewString: VictideAmmoniteHat
 					}
 
 					3: {
-						// OldString: FargosSoulsModDLCRecreated:AnyVictideHelmet
-						// NewString: FargosSoulsModDLCRecreated:AnyVictideHelmet
+						OldString: FargosSoulsModDLCRecreated:AnyVictideHelmet
+						NewString: FargosSoulsModDLCRecreated:AnyVictideHelmet
 					}
 				}
 			}
@@ -3114,202 +3114,202 @@ Items: {
 			AuricEnchantment: {
 				ModifyTooltips: {
 					1: {
-						// OldString: Tooltip1
-						// NewString: Tooltip1
+						OldString: Tooltip1
+						NewString: Tooltip1
 					}
 
 					2: {
-						// OldString: Your strength rivals that of the Jungle Tyrant...
-						// NewString: Your strength rivals that of the Jungle Tyrant...
+						OldString: Your strength rivals that of the Jungle Tyrant...
+						NewString: Your strength rivals that of the Jungle Tyrant...
 					}
 
 					3: {
-						// OldString: Tooltip2
-						// NewString: Tooltip2
+						OldString: Tooltip2
+						NewString: Tooltip2
 					}
 
 					4: {
-						// OldString: +130 maximum stealth
-						// NewString: +130 maximum stealth
+						OldString: +130 maximum stealth
+						NewString: +130 maximum stealth
 					}
 
 					5: {
-						// OldString: Tooltip3
-						// NewString: Tooltip3
+						OldString: Tooltip3
+						NewString: Tooltip3
 					}
 
 					6: {
-						// OldString: 28% increased melee speed
-						// NewString: 28% increased melee speed
+						OldString: 28% increased melee speed
+						NewString: 28% increased melee speed
 					}
 
 					7: {
-						// OldString: Tooltip4
-						// NewString: Tooltip4
+						OldString: Tooltip4
+						NewString: Tooltip4
 					}
 
 					8: {
-						// OldString: +6 max minions and 75% increased summon damage
-						// NewString: +6 max minions and 75% increased summon damage
+						OldString: +6 max minions and 75% increased summon damage
+						NewString: +6 max minions and 75% increased summon damage
 					}
 
 					9: {
-						// OldString: CalamityBardHealer
-						// NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
 					}
 
 					10: {
-						// OldString: Tooltip5
-						// NewString: Tooltip5
+						OldString: Tooltip5
+						NewString: Tooltip5
 					}
 
 					11: {
-						// OldString: 40% increased radiant damage, 20% increased radiant critical strike chance, and 16% increased healing and radiant casting speed
-						// NewString: 40% increased radiant damage, 20% increased radiant critical strike chance, and 16% increased healing and radiant casting speed
+						OldString: 40% increased radiant damage, 20% increased radiant critical strike chance, and 16% increased healing and radiant casting speed
+						NewString: 40% increased radiant damage, 20% increased radiant critical strike chance, and 16% increased healing and radiant casting speed
 					}
 
 					12: {
-						// OldString: Tooltip15
-						// NewString: Tooltip15
+						OldString: Tooltip15
+						NewString: Tooltip15
 					}
 
 					13: {
-						// OldString: Increased empowerment duration by 5 seconds, increases inspiration regeneration rate by 20%, and increases the chance for inspiration notes to drop by 45%
-						// NewString: Increased empowerment duration by 5 seconds, increases inspiration regeneration rate by 20%, and increases the chance for inspiration notes to drop by 45%
+						OldString: Increased empowerment duration by 5 seconds, increases inspiration regeneration rate by 20%, and increases the chance for inspiration notes to drop by 45%
+						NewString: Increased empowerment duration by 5 seconds, increases inspiration regeneration rate by 20%, and increases the chance for inspiration notes to drop by 45%
 					}
 
 					14: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 
 					15: {
-						// OldString: Effects of Heart of the Elements and The Sponge
-						// NewString: Effects of Heart of the Elements and The Sponge
+						OldString: Effects of Heart of the Elements and The Sponge
+						NewString: Effects of Heart of the Elements and The Sponge
 					}
 
 					16: {
-						// OldString: Effects of Daawnlight Spirit Origian, The Transformer, and Dragon Scales
-						// NewString: Effects of Daawnlight Spirit Origian, The Transformer, and Dragon Scales
+						OldString: Effects of Daawnlight Spirit Origian, The Transformer, and Dragon Scales
+						NewString: Effects of Daawnlight Spirit Origian, The Transformer, and Dragon Scales
 					}
 
 					17: {
-						// OldString: Terraria
-						// NewString: Terraria
+						OldString: Terraria
+						NewString: Terraria
 					}
 
 					18: {
-						// OldString: ItemName
-						// NewString: ItemName
+						OldString: ItemName
+						NewString: ItemName
 					}
 				}
 
 				UpdateAccessory: {
 					1: {
-						// OldString: CalamityMod
-						// NewString: CalamityMod
+						OldString: CalamityMod
+						NewString: CalamityMod
 					}
 
 					2: {
-						// OldString: CalamityBardHealer
-						// NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
 					}
 
 					3: {
-						// OldString: ThoriumMod
-						// NewString: ThoriumMod
+						OldString: ThoriumMod
+						NewString: ThoriumMod
 					}
 
 					4: {
-						// OldString: ThoriumPlayer
-						// NewString: ThoriumPlayer
+						OldString: ThoriumPlayer
+						NewString: ThoriumPlayer
 					}
 
 					5: {
-						// OldString: bardBuffDuration
-						// NewString: bardBuffDuration
+						OldString: bardBuffDuration
+						NewString: bardBuffDuration
 					}
 
 					6: {
-						// OldString: inspirationRegenBonus
-						// NewString: inspirationRegenBonus
+						OldString: inspirationRegenBonus
+						NewString: inspirationRegenBonus
 					}
 
 					7: {
-						// OldString: bardResourceDropBoost
-						// NewString: bardResourceDropBoost
+						OldString: bardResourceDropBoost
+						NewString: bardResourceDropBoost
 					}
 
 					8: {
-						// OldString: HealerDamage
-						// NewString: HealerDamage
+						OldString: HealerDamage
+						NewString: HealerDamage
 					}
 
 					9: {
-						// OldString: HealerTool
-						// NewString: HealerTool
+						OldString: HealerTool
+						NewString: HealerTool
 					}
 
 					10: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 
 					11: {
-						// OldString: HeartoftheElements
-						// NewString: HeartoftheElements
+						OldString: HeartoftheElements
+						NewString: HeartoftheElements
 					}
 
 					12: {
-						// OldString: TheSponge
-						// NewString: TheSponge
+						OldString: TheSponge
+						NewString: TheSponge
 					}
 
 					13: {
-						// OldString: DaawnlightSpiritOrigin
-						// NewString: DaawnlightSpiritOrigin
+						OldString: DaawnlightSpiritOrigin
+						NewString: DaawnlightSpiritOrigin
 					}
 
 					14: {
-						// OldString: TheTransformer
-						// NewString: TheTransformer
+						OldString: TheTransformer
+						NewString: TheTransformer
 					}
 
 					15: {
-						// OldString: DragonScales
-						// NewString: DragonScales
+						OldString: DragonScales
+						NewString: DragonScales
 					}
 				}
 
 				AddRecipes: {
 					1: {
-						// OldString: CalamityBardHealer
-						// NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
 					}
 
 					2: {
-						// OldString: AuricTeslaFeatheredHeadwear
-						// NewString: AuricTeslaFeatheredHeadwear
+						OldString: AuricTeslaFeatheredHeadwear
+						NewString: AuricTeslaFeatheredHeadwear
 					}
 
 					3: {
-						// OldString: AuricTeslaValkyrieVisage
-						// NewString: AuricTeslaValkyrieVisage
+						OldString: AuricTeslaValkyrieVisage
+						NewString: AuricTeslaValkyrieVisage
 					}
 
 					4: {
-						// OldString: FargosSoulsModDLCRecreated:AnyAuricHelmet
-						// NewString: FargosSoulsModDLCRecreated:AnyAuricHelmet
+						OldString: FargosSoulsModDLCRecreated:AnyAuricHelmet
+						NewString: FargosSoulsModDLCRecreated:AnyAuricHelmet
 					}
 
 					5: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 
 					6: {
-						// OldString: DraedonsForge
-						// NewString: DraedonsForge
+						OldString: DraedonsForge
+						NewString: DraedonsForge
 					}
 				}
 			}
@@ -3317,15 +3317,15 @@ Items: {
 			StatigelEnchantment+<>c: {
 				<AddRecipes>b__5_0: {
 					1: {
-						// OldString: " Statigel Helmet"
-						// NewString: " Statigel Helmet"
+						OldString: " Statigel Helmet"
+						NewString: " Statigel Helmet"
 					}
 				}
 
 				<AddRecipes>b__5_1: {
 					1: {
-						// OldString: " Statigel Helmet"
-						// NewString: " Statigel Helmet"
+						OldString: " Statigel Helmet"
+						NewString: " Statigel Helmet"
 					}
 				}
 			}
@@ -3333,8 +3333,8 @@ Items: {
 			EmpyreanEnchantment+TheAbsorberEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3342,8 +3342,8 @@ Items: {
 			AtaxiaEnchantment+HallowedRuneEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3351,8 +3351,8 @@ Items: {
 			AtaxiaEnchantment+FleshTotemEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3360,15 +3360,15 @@ Items: {
 			AtaxiaEnchantment+<>c: {
 				<AddRecipes>b__9_0: {
 					1: {
-						// OldString: " Hydrothermic Helmet"
-						// NewString: " Hydrothermic Helmet"
+						OldString: " Hydrothermic Helmet"
+						NewString: " Hydrothermic Helmet"
 					}
 				}
 
 				<AddRecipes>b__9_1: {
 					1: {
-						// OldString: " Hydrothermic Helmet"
-						// NewString: " Hydrothermic Helmet"
+						OldString: " Hydrothermic Helmet"
+						NewString: " Hydrothermic Helmet"
 					}
 				}
 			}
@@ -3376,15 +3376,15 @@ Items: {
 			TarragonEnchantment+<>c: {
 				<AddRecipes>b__5_0: {
 					1: {
-						// OldString: " Tarragon Helmet"
-						// NewString: " Tarragon Helmet"
+						OldString: " Tarragon Helmet"
+						NewString: " Tarragon Helmet"
 					}
 				}
 
 				<AddRecipes>b__5_1: {
 					1: {
-						// OldString: " Tarragon Helmet"
-						// NewString: " Tarragon Helmet"
+						OldString: " Tarragon Helmet"
+						NewString: " Tarragon Helmet"
 					}
 				}
 			}
@@ -3392,8 +3392,8 @@ Items: {
 			OmegaBlueEnchantment+AbyssalDivingSuitEffect: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3401,8 +3401,8 @@ Items: {
 			OmegaBlueEnchantment+OldDukeScalesEffect: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3410,8 +3410,8 @@ Items: {
 			SilvaEnchantment+AmalgamEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3419,8 +3419,8 @@ Items: {
 			SilvaEnchantment+YharimsGiftEffect: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3428,8 +3428,8 @@ Items: {
 			SilvaEnchantment+BlunderBoostEffect: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3437,8 +3437,8 @@ Items: {
 			SilvaEnchantment+DynamoStemCellsEffect: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3446,15 +3446,15 @@ Items: {
 			SilvaEnchantment+<>c: {
 				<AddRecipes>b__11_0: {
 					1: {
-						// OldString: " Silva Helmet"
-						// NewString: " Silva Helmet"
+						OldString: " Silva Helmet"
+						NewString: " Silva Helmet"
 					}
 				}
 
 				<AddRecipes>b__11_1: {
 					1: {
-						// OldString: " Silva Helmet"
-						// NewString: " Silva Helmet"
+						OldString: " Silva Helmet"
+						NewString: " Silva Helmet"
 					}
 				}
 			}
@@ -3462,15 +3462,15 @@ Items: {
 			AerospecEnchantment+<>c: {
 				<AddRecipes>b__7_0: {
 					1: {
-						// OldString: " Aerospec Helmet"
-						// NewString: " Aerospec Helmet"
+						OldString: " Aerospec Helmet"
+						NewString: " Aerospec Helmet"
 					}
 				}
 
 				<AddRecipes>b__7_1: {
 					1: {
-						// OldString: " Aerospec Helmet"
-						// NewString: " Aerospec Helmet"
+						OldString: " Aerospec Helmet"
+						NewString: " Aerospec Helmet"
 					}
 				}
 			}
@@ -3478,15 +3478,15 @@ Items: {
 			DaedalusEnchantment+<>c: {
 				<AddRecipes>b__9_0: {
 					1: {
-						// OldString: " Daedalus Helmet"
-						// NewString: " Daedalus Helmet"
+						OldString: " Daedalus Helmet"
+						NewString: " Daedalus Helmet"
 					}
 				}
 
 				<AddRecipes>b__9_1: {
 					1: {
-						// OldString: " Daedalus Helmet"
-						// NewString: " Daedalus Helmet"
+						OldString: " Daedalus Helmet"
+						NewString: " Daedalus Helmet"
 					}
 				}
 			}
@@ -3494,8 +3494,8 @@ Items: {
 			PlagueReaperEnchantment+PlagueFuelPackEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3503,8 +3503,8 @@ Items: {
 			PlagueReaperEnchantment+AlchemicalFlaskEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3512,8 +3512,8 @@ Items: {
 			BloodflareEnchantment+AfflictionEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3521,8 +3521,8 @@ Items: {
 			BloodflareEnchantment+BloodflareRitualistEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: CalamityBardHealer
-						// NewString: CalamityBardHealer
+						OldString: CalamityBardHealer
+						NewString: CalamityBardHealer
 					}
 				}
 			}
@@ -3530,15 +3530,15 @@ Items: {
 			BloodflareEnchantment+<>c: {
 				<AddRecipes>b__9_0: {
 					1: {
-						// OldString: " Bloodflare Helmet"
-						// NewString: " Bloodflare Helmet"
+						OldString: " Bloodflare Helmet"
+						NewString: " Bloodflare Helmet"
 					}
 				}
 
 				<AddRecipes>b__9_1: {
 					1: {
-						// OldString: " Bloodflare Helmet"
-						// NewString: " Bloodflare Helmet"
+						OldString: " Bloodflare Helmet"
+						NewString: " Bloodflare Helmet"
 					}
 				}
 			}
@@ -3546,8 +3546,8 @@ Items: {
 			AstralEnchantment+RadianceEffect: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3555,8 +3555,8 @@ Items: {
 			AstralEnchantment+HideOfAstrumDeusEffect: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3564,8 +3564,8 @@ Items: {
 			GodSlayerEnchantment+NebulousCoreEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3573,8 +3573,8 @@ Items: {
 			GodSlayerEnchantment+VenetratedLocketEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3582,15 +3582,15 @@ Items: {
 			GodSlayerEnchantment+<>c: {
 				<AddRecipes>b__7_0: {
 					1: {
-						// OldString: " Godslayer Helmet"
-						// NewString: " Godslayer Helmet"
+						OldString: " Godslayer Helmet"
+						NewString: " Godslayer Helmet"
 					}
 				}
 
 				<AddRecipes>b__7_1: {
 					1: {
-						// OldString: " Godslayer Helmet"
-						// NewString: " Godslayer Helmet"
+						OldString: " Godslayer Helmet"
+						NewString: " Godslayer Helmet"
 					}
 				}
 			}
@@ -3598,8 +3598,8 @@ Items: {
 			ReaverEnchantment+<>c: {
 				<AddRecipes>b__9_0: {
 					1: {
-						// OldString: " Reaver Helmet"
-						// NewString: " Reaver Helmet"
+						OldString: " Reaver Helmet"
+						NewString: " Reaver Helmet"
 					}
 				}
 			}
@@ -3607,15 +3607,15 @@ Items: {
 			VictideEnchantment+<>c: {
 				<AddRecipes>b__6_0: {
 					1: {
-						// OldString: " Victide Helmet"
-						// NewString: " Victide Helmet"
+						OldString: " Victide Helmet"
+						NewString: " Victide Helmet"
 					}
 				}
 
 				<AddRecipes>b__6_1: {
 					1: {
-						// OldString: " Victide Helmet"
-						// NewString: " Victide Helmet"
+						OldString: " Victide Helmet"
+						NewString: " Victide Helmet"
 					}
 				}
 			}
@@ -3623,8 +3623,8 @@ Items: {
 			AuricEnchantment+HeartOfTheElementsEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3632,8 +3632,8 @@ Items: {
 			AuricEnchantment+DaawnlightSpiritOriginEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3641,8 +3641,8 @@ Items: {
 			AuricEnchantment+DragonScalesEffects: {
 				IsLoadingEnabled: {
 					1: {
-						// OldString: FargowiltasCrossmod
-						// NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3650,15 +3650,15 @@ Items: {
 			AuricEnchantment+<>c: {
 				<AddRecipes>b__7_0: {
 					1: {
-						// OldString: " Auric Helmet"
-						// NewString: " Auric Helmet"
+						OldString: " Auric Helmet"
+						NewString: " Auric Helmet"
 					}
 				}
 
 				<AddRecipes>b__7_1: {
 					1: {
-						// OldString: " Auric Helmet"
-						// NewString: " Auric Helmet"
+						OldString: " Auric Helmet"
+						NewString: " Auric Helmet"
 					}
 				}
 			}
@@ -3668,47 +3668,47 @@ Items: {
 			RogueSoul: {
 				UpdateAccessory: {
 					5: {
-						// NewString: DragonScales
-						// OldString: DragonScales
+						NewString: DragonScales
+						OldString: DragonScales
 					}
 
 					4: {
-						// NewString: VeneratedLocket
-						// OldString: VeneratedLocket
+						NewString: VeneratedLocket
+						OldString: VeneratedLocket
 					}
 
 					3: {
-						// NewString: Nanotech
-						// OldString: Nanotech
+						NewString: Nanotech
+						OldString: Nanotech
 					}
 
 					2: {
-						// NewString: EclipseMirror
-						// OldString: EclipseMirror
+						NewString: EclipseMirror
+						OldString: EclipseMirror
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					2: {
-						// NewString: ItemName
-						// OldString: ItemName
+						NewString: ItemName
+						OldString: ItemName
 					}
 
 					1: {
-						// NewString: Terraria
-						// OldString: Terraria
+						NewString: Terraria
+						OldString: Terraria
 					}
 				}
 
 				IsLoadingEnabled: {
 					1: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 				}
 			}
@@ -3716,327 +3716,327 @@ Items: {
 			CalamitySoul: {
 				AddRecipes: {
 					1: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 				}
 
 				UpdateAccessory: {
 					6: {
-						// NewString: ExaltationForce
-						// OldString: ExaltationForce
+						NewString: ExaltationForce
+						OldString: ExaltationForce
 					}
 
 					5: {
-						// NewString: DevastationForce
-						// OldString: DevastationForce
+						NewString: DevastationForce
+						OldString: DevastationForce
 					}
 
 					4: {
-						// NewString: DesolationForce
-						// OldString: DesolationForce
+						NewString: DesolationForce
+						OldString: DesolationForce
 					}
 
 					3: {
-						// NewString: AnnihilationForce
-						// OldString: AnnihilationForce
+						NewString: AnnihilationForce
+						OldString: AnnihilationForce
 					}
 
 					2: {
-						// NewString: FargosSoulsModDLCRecreated
-						// OldString: FargosSoulsModDLCRecreated
+						NewString: FargosSoulsModDLCRecreated
+						OldString: FargosSoulsModDLCRecreated
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					57: {
-						// NewString: Effects of Dragon Scales and Dimensional Soul Artifact
-						// OldString: Effects of Dragon Scales and Dimensional Soul Artifact
+						NewString: Effects of Dragon Scales and Dimensional Soul Artifact
+						OldString: Effects of Dragon Scales and Dimensional Soul Artifact
 					}
 
 					56: {
-						// NewString: Effects of Dynamo Stem Cells, Daawnlight Spirit Origin, and The Transformer
-						// OldString: Effects of Dynamo Stem Cells, Daawnlight Spirit Origin, and The Transformer
+						NewString: Effects of Dynamo Stem Cells, Daawnlight Spirit Origin, and The Transformer
+						OldString: Effects of Dynamo Stem Cells, Daawnlight Spirit Origin, and The Transformer
 					}
 
 					55: {
-						// NewString: Effects of Blunder Booster and Auric Soul Artifact
-						// OldString: Effects of Blunder Booster and Auric Soul Artifact
+						NewString: Effects of Blunder Booster and Auric Soul Artifact
+						OldString: Effects of Blunder Booster and Auric Soul Artifact
 					}
 
 					54: {
-						// NewString: Effects of Blazing Core, Dark Sun Ring, Warbanner of the Sun, and Affliction
-						// OldString: Effects of Blazing Core, Dark Sun Ring, Warbanner of the Sun, and Affliction
+						NewString: Effects of Blazing Core, Dark Sun Ring, Warbanner of the Sun, and Affliction
+						OldString: Effects of Blazing Core, Dark Sun Ring, Warbanner of the Sun, and Affliction
 					}
 
 					53: {
-						// NewString: Effects of Void of Calamity, Slagsplitter Pauldron, Flame-Licked Shell, and Chaos Stone
-						// OldString: Effects of Void of Calamity, Slagsplitter Pauldron, Flame-Licked Shell, and Chaos Stone
+						NewString: Effects of Void of Calamity, Slagsplitter Pauldron, Flame-Licked Shell, and Chaos Stone
+						OldString: Effects of Void of Calamity, Slagsplitter Pauldron, Flame-Licked Shell, and Chaos Stone
 					}
 
 					52: {
-						// NewString: Effects of Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
-						// OldString: Effects of Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
+						NewString: Effects of Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
+						OldString: Effects of Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
 					}
 
 					51: {
-						// NewString: Effects of Yharim's Gift, Heart of the Elements, and The Sponge
-						// OldString: Effects of Yharim's Gift, Heart of the Elements, and The Sponge
+						NewString: Effects of Yharim's Gift, Heart of the Elements, and The Sponge
+						OldString: Effects of Yharim's Gift, Heart of the Elements, and The Sponge
 					}
 
 					50: {
-						// NewString: Effects of The Amalgam and Auric Soul Artifact
-						// OldString: Effects of The Amalgam and Auric Soul Artifact
+						NewString: Effects of The Amalgam and Auric Soul Artifact
+						OldString: Effects of The Amalgam and Auric Soul Artifact
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					49: {
-						// NewString: Effects of Nebulous Core and Draedon's Heart
-						// OldString: Effects of Nebulous Core and Draedon's Heart
+						NewString: Effects of Nebulous Core and Draedon's Heart
+						OldString: Effects of Nebulous Core and Draedon's Heart
 					}
 
 					48: {
-						// NewString: Effects of Blazing Core, Dark Sun Ring, and Chalice of the Blood God
-						// OldString: Effects of Blazing Core, Dark Sun Ring, and Chalice of the Blood God
+						NewString: Effects of Blazing Core, Dark Sun Ring, and Chalice of the Blood God
+						OldString: Effects of Blazing Core, Dark Sun Ring, and Chalice of the Blood God
 					}
 
 					47: {
-						// NewString: Effects of Angelic Alliance and Shattered Community
-						// OldString: Effects of Angelic Alliance and Shattered Community
+						NewString: Effects of Angelic Alliance and Shattered Community
+						OldString: Effects of Angelic Alliance and Shattered Community
 					}
 
 					46: {
-						// NewString: Effects of Corrupt Flask and Crimson Flask
-						// OldString: Effects of Corrupt Flask and Crimson Flask
+						NewString: Effects of Corrupt Flask and Crimson Flask
+						OldString: Effects of Corrupt Flask and Crimson Flask
 					}
 
 					45: {
-						// NewString: Effects of Glove of Recklessness, Glove of Precision, and The Bee
-						// OldString: Effects of Glove of Recklessness, Glove of Precision, and The Bee
+						NewString: Effects of Glove of Recklessness, Glove of Precision, and The Bee
+						OldString: Effects of Glove of Recklessness, Glove of Precision, and The Bee
 					}
 
 					44: {
-						// NewString: Effects of Bloom Stone and Necklace of Vexation
-						// OldString: Effects of Bloom Stone and Necklace of Vexation
+						NewString: Effects of Bloom Stone and Necklace of Vexation
+						OldString: Effects of Bloom Stone and Necklace of Vexation
 					}
 
 					43: {
-						// NewString: Effects of Alchemical Flask, The Camper, and Profaned Soul Crystal
-						// OldString: Effects of Alchemical Flask, The Camper, and Profaned Soul Crystal
+						NewString: Effects of Alchemical Flask, The Camper, and Profaned Soul Crystal
+						OldString: Effects of Alchemical Flask, The Camper, and Profaned Soul Crystal
 					}
 
 					42: {
-						// NewString: Effects of Plagued Fuel Pack, The Camper, and Profaned Soul Crystal
-						// OldString: Effects of Plagued Fuel Pack, The Camper, and Profaned Soul Crystal
+						NewString: Effects of Plagued Fuel Pack, The Camper, and Profaned Soul Crystal
+						OldString: Effects of Plagued Fuel Pack, The Camper, and Profaned Soul Crystal
 					}
 
 					41: {
-						// NewString: Effects of Trinket of Chi, Rotten Dogtooth, Wulfrum Acrobatics Pack, and Plague Hive
-						// OldString: Effects of Trinket of Chi, Rotten Dogtooth, Wulfrum Acrobatics Pack, and Plague Hive
+						NewString: Effects of Trinket of Chi, Rotten Dogtooth, Wulfrum Acrobatics Pack, and Plague Hive
+						OldString: Effects of Trinket of Chi, Rotten Dogtooth, Wulfrum Acrobatics Pack, and Plague Hive
 					}
 
 					40: {
-						// NewString: Effects of Sand Cloak, Old Die, Aquatic Heart, and Amadias Pendant
-						// OldString: Effects of Sand Cloak, Old Die, Aquatic Heart, and Amadias Pendant
+						NewString: Effects of Sand Cloak, Old Die, Aquatic Heart, and Amadias Pendant
+						OldString: Effects of Sand Cloak, Old Die, Aquatic Heart, and Amadias Pendant
 					}
 
 					4: {
-						// NewString: All armor bonuses from Aerospec, Statigel, and Hydrothermic
-						// OldString: All armor bonuses from Aerospec, Statigel, and Hydrothermic
+						NewString: All armor bonuses from Aerospec, Statigel, and Hydrothermic
+						OldString: All armor bonuses from Aerospec, Statigel, and Hydrothermic
 					}
 
 					39: {
-						// NewString: Effects of Sand Cloak, Old Die, Aquatic Heart, Amadias Pendant, and Alluring Bait
-						// OldString: Effects of Sand Cloak, Old Die, Aquatic Heart, Amadias Pendant, and Alluring Bait
+						NewString: Effects of Sand Cloak, Old Die, Aquatic Heart, Amadias Pendant, and Alluring Bait
+						OldString: Effects of Sand Cloak, Old Die, Aquatic Heart, Amadias Pendant, and Alluring Bait
 					}
 
 					38: {
-						// NewString: Tooltip12
-						// OldString: Tooltip12
+						NewString: Tooltip12
+						OldString: Tooltip12
 					}
 
 					37: {
-						// NewString: Effects of Corrosive Spine Lumenous Amulet, and Leviathan Ambergris
-						// OldString: Effects of Corrosive Spine Lumenous Amulet, and Leviathan Ambergris
+						NewString: Effects of Corrosive Spine Lumenous Amulet, and Leviathan Ambergris
+						OldString: Effects of Corrosive Spine Lumenous Amulet, and Leviathan Ambergris
 					}
 
 					36: {
-						// NewString: Tooltip11
-						// OldString: Tooltip11
+						NewString: Tooltip11
+						OldString: Tooltip11
 					}
 
 					35: {
-						// NewString: Effects of Ocean's Crest, Deep Diver, and Luxor's Gift
-						// OldString: Effects of Ocean's Crest, Deep Diver, and Luxor's Gift
+						NewString: Effects of Ocean's Crest, Deep Diver, and Luxor's Gift
+						OldString: Effects of Ocean's Crest, Deep Diver, and Luxor's Gift
 					}
 
 					34: {
-						// NewString: Tooltip10
-						// OldString: Tooltip10
+						NewString: Tooltip10
+						OldString: Tooltip10
 					}
 
 					33: {
-						// NewString: Effects of Aquatic Emblem, Shield of the Ocean and Giant Pearl
-						// OldString: Effects of Aquatic Emblem, Shield of the Ocean and Giant Pearl
+						NewString: Effects of Aquatic Emblem, Shield of the Ocean and Giant Pearl
+						OldString: Effects of Aquatic Emblem, Shield of the Ocean and Giant Pearl
 					}
 
 					32: {
-						// NewString: Effects of Old Duke Scales and Reaper Tooth Necklace
-						// OldString: Effects of Old Duke Scales and Reaper Tooth Necklace
+						NewString: Effects of Old Duke Scales and Reaper Tooth Necklace
+						OldString: Effects of Old Duke Scales and Reaper Tooth Necklace
 					}
 
 					31: {
-						// NewString: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
-						// OldString: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
+						NewString: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
+						OldString: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
 					}
 
 					30: {
-						// NewString: Effects of Hide of Asturm Deus, Gravistar Sabaton and Ursa Sergeant
-						// OldString: Effects of Hide of Asturm Deus, Gravistar Sabaton and Ursa Sergeant
+						NewString: Effects of Hide of Asturm Deus, Gravistar Sabaton and Ursa Sergeant
+						OldString: Effects of Hide of Asturm Deus, Gravistar Sabaton and Ursa Sergeant
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 
 					29: {
-						// NewString: Effects of Radiance, Gravistar Sabaton and Ursa Sergeant
-						// OldString: Effects of Radiance, Gravistar Sabaton and Ursa Sergeant
+						NewString: Effects of Radiance, Gravistar Sabaton and Ursa Sergeant
+						OldString: Effects of Radiance, Gravistar Sabaton and Ursa Sergeant
 					}
 
 					28: {
-						// NewString: Effects of Thief's Dime, Vampiric Talisman, and Evasion Scarf
-						// OldString: Effects of Thief's Dime, Vampiric Talisman, and Evasion Scarf
+						NewString: Effects of Thief's Dime, Vampiric Talisman, and Evasion Scarf
+						OldString: Effects of Thief's Dime, Vampiric Talisman, and Evasion Scarf
 					}
 
 					27: {
-						// NewString: Effects of Cryo Stone, Howls Heart, Frost Barrier, and Frost Flare
-						// OldString: Effects of Cryo Stone, Howls Heart, Frost Barrier, and Frost Flare
+						NewString: Effects of Cryo Stone, Howls Heart, Frost Barrier, and Frost Flare
+						OldString: Effects of Cryo Stone, Howls Heart, Frost Barrier, and Frost Flare
 					}
 
 					26: {
-						// NewString: Effects of Scuttler's Jewel and Permafrost Concoction
-						// OldString: Effects of Scuttler's Jewel and Permafrost Concoction
+						NewString: Effects of Scuttler's Jewel and Permafrost Concoction
+						OldString: Effects of Scuttler's Jewel and Permafrost Concoction
 					}
 
 					25: {
-						// NewString: Effects of Spectral Veil, The Community and The Evolution
-						// OldString: Effects of Spectral Veil, The Community and The Evolution
+						NewString: Effects of Spectral Veil, The Community and The Evolution
+						OldString: Effects of Spectral Veil, The Community and The Evolution
 					}
 
 					24: {
-						// NewString: Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, and Shield of the High Ruler
-						// OldString: Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, and Shield of the High Ruler
+						NewString: Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, and Shield of the High Ruler
+						OldString: Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, and Shield of the High Ruler
 					}
 
 					23: {
-						// NewString: Effects of Spectral Veil, The Absorber and Statis' Void Sash
-						// OldString: Effects of Spectral Veil, The Absorber and Statis' Void Sash
+						NewString: Effects of Spectral Veil, The Absorber and Statis' Void Sash
+						OldString: Effects of Spectral Veil, The Absorber and Statis' Void Sash
 					}
 
 					22: {
-						// NewString: Effects of Hallowed Rune, Ethereal Extorter, Regenator, The Community, and Shield of the High Ruler
-						// OldString: Effects of Hallowed Rune, Ethereal Extorter, Regenator, The Community, and Shield of the High Ruler
+						NewString: Effects of Hallowed Rune, Ethereal Extorter, Regenator, The Community, and Shield of the High Ruler
+						OldString: Effects of Hallowed Rune, Ethereal Extorter, Regenator, The Community, and Shield of the High Ruler
 					}
 
 					21: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					20: {
-						// NewString: Effects of Fungal Clump, Mana Polarizer and Fungal Symbiote
-						// OldString: Effects of Fungal Clump, Mana Polarizer and Fungal Symbiote
+						NewString: Effects of Fungal Clump, Mana Polarizer and Fungal Symbiote
+						OldString: Effects of Fungal Clump, Mana Polarizer and Fungal Symbiote
 					}
 
 					2: {
-						// NewString: And the land grew quiet once more...
-						// OldString: And the land grew quiet once more...
+						NewString: And the land grew quiet once more...
+						OldString: And the land grew quiet once more...
 					}
 
 					19: {
-						// NewString: Effects of Gladiator's Locket, Aero Stone and Unstable Granite Core
-						// OldString: Effects of Gladiator's Locket, Aero Stone and Unstable Granite Core
+						NewString: Effects of Gladiator's Locket, Aero Stone and Unstable Granite Core
+						OldString: Effects of Gladiator's Locket, Aero Stone and Unstable Granite Core
 					}
 
 					18: {
-						// NewString: +5 defense when below 50% life
-						// OldString: +5 defense when below 50% life
+						NewString: +5 defense when below 50% life
+						OldString: +5 defense when below 50% life
 					}
 
 					17: {
-						// NewString: Tooltip9
-						// OldString: Tooltip9
+						NewString: Tooltip9
+						OldString: Tooltip9
 					}
 
 					16: {
-						// NewString: All armor bonuses from God Slayer, Silva, and Auric
-						// OldString: All armor bonuses from God Slayer, Silva, and Auric
+						NewString: All armor bonuses from God Slayer, Silva, and Auric
+						OldString: All armor bonuses from God Slayer, Silva, and Auric
 					}
 
 					15: {
-						// NewString: Tooltip8
-						// OldString: Tooltip8
+						NewString: Tooltip8
+						OldString: Tooltip8
 					}
 
 					14: {
-						// NewString: All armor bonuses from Tarragon, Bloodflare, and Brimflame
-						// OldString: All armor bonuses from Tarragon, Bloodflare, and Brimflame
+						NewString: All armor bonuses from Tarragon, Bloodflare, and Brimflame
+						OldString: All armor bonuses from Tarragon, Bloodflare, and Brimflame
 					}
 
 					13: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					12: {
-						// NewString: All armor bonuses from Reaver, Plague Reaper, and Demonshade
-						// OldString: All armor bonuses from Reaver, Plague Reaper, and Demonshade
+						NewString: All armor bonuses from Reaver, Plague Reaper, and Demonshade
+						OldString: All armor bonuses from Reaver, Plague Reaper, and Demonshade
 					}
 
 					11: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					10: {
-						// NewString: All armor bonuses from Omega Blue, Mollusk, Victide, Fathom Swarmer, and Sulphurous
-						// OldString: All armor bonuses from Omega Blue, Mollusk, Victide, Fathom Swarmer, and Sulphurous
+						NewString: All armor bonuses from Omega Blue, Mollusk, Victide, Fathom Swarmer, and Sulphurous
+						OldString: All armor bonuses from Omega Blue, Mollusk, Victide, Fathom Swarmer, and Sulphurous
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					8: {
-						// NewString: All armor bonuses from Daedalus, Snow Ruffian, Umbraphile, and Astral
-						// OldString: All armor bonuses from Daedalus, Snow Ruffian, Umbraphile, and Astral
+						NewString: All armor bonuses from Daedalus, Snow Ruffian, Umbraphile, and Astral
+						OldString: All armor bonuses from Daedalus, Snow Ruffian, Umbraphile, and Astral
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: All armor bonuses from Empyrean and Fearmonger
-						// OldString: All armor bonuses from Empyrean and Fearmonger
+						NewString: All armor bonuses from Empyrean and Fearmonger
+						OldString: All armor bonuses from Empyrean and Fearmonger
 					}
 				}
 			}
@@ -4046,185 +4046,185 @@ Items: {
 			DesolationForce: {
 				UpdateAccessory: {
 					8: {
-						// NewString: OmegaBlueEnchantment
-						// OldString: OmegaBlueEnchantment
+						NewString: OmegaBlueEnchantment
+						OldString: OmegaBlueEnchantment
 					}
 
 					7: {
-						// NewString: AstralEnchantment
-						// OldString: AstralEnchantment
+						NewString: AstralEnchantment
+						OldString: AstralEnchantment
 					}
 
 					6: {
-						// NewString: UmbraphileEnchantment
-						// OldString: UmbraphileEnchantment
+						NewString: UmbraphileEnchantment
+						OldString: UmbraphileEnchantment
 					}
 
 					5: {
-						// NewString: DaedalusEnchantment
-						// OldString: DaedalusEnchantment
+						NewString: DaedalusEnchantment
+						OldString: DaedalusEnchantment
 					}
 
 					4: {
-						// NewString: FathomSwarmerEnchantment
-						// OldString: FathomSwarmerEnchantment
+						NewString: FathomSwarmerEnchantment
+						OldString: FathomSwarmerEnchantment
 					}
 
 					3: {
-						// NewString: MolluskEnchantment
-						// OldString: MolluskEnchantment
+						NewString: MolluskEnchantment
+						OldString: MolluskEnchantment
 					}
 
 					2: {
-						// NewString: FargosSoulsModDLCRecreated
-						// OldString: FargosSoulsModDLCRecreated
+						NewString: FargosSoulsModDLCRecreated
+						OldString: FargosSoulsModDLCRecreated
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					28: {
-						// NewString: Effects of Sand Cloak, Old Die, Rusty Medallion, and Aquatic Heart
-						// OldString: Effects of Sand Cloak, Old Die, Rusty Medallion, and Aquatic Heart
+						NewString: Effects of Sand Cloak, Old Die, Rusty Medallion, and Aquatic Heart
+						OldString: Effects of Sand Cloak, Old Die, Rusty Medallion, and Aquatic Heart
 					}
 
 					27: {
-						// NewString: Effects of Sand Cloak, Old Die, Rusty Medallion, Aquatic Heart and Alluring Bait
-						// OldString: Effects of Sand Cloak, Old Die, Rusty Medallion, Aquatic Heart and Alluring Bait
+						NewString: Effects of Sand Cloak, Old Die, Rusty Medallion, Aquatic Heart and Alluring Bait
+						OldString: Effects of Sand Cloak, Old Die, Rusty Medallion, Aquatic Heart and Alluring Bait
 					}
 
 					26: {
-						// NewString: Tooltip12
-						// OldString: Tooltip12
+						NewString: Tooltip12
+						OldString: Tooltip12
 					}
 
 					25: {
-						// NewString: Effects of Corrosive Spine, Lumenous Amulet, Amadias Pendant, and Leviathan Ambergris
-						// OldString: Effects of Corrosive Spine, Lumenous Amulet, Amadias Pendant, and Leviathan Ambergris
+						NewString: Effects of Corrosive Spine, Lumenous Amulet, Amadias Pendant, and Leviathan Ambergris
+						OldString: Effects of Corrosive Spine, Lumenous Amulet, Amadias Pendant, and Leviathan Ambergris
 					}
 
 					24: {
-						// NewString: Tooltip11
-						// OldString: Tooltip11
+						NewString: Tooltip11
+						OldString: Tooltip11
 					}
 
 					23: {
-						// NewString: Effects of Ocean's Crest, Deep Diver and Luxor's Gift
-						// OldString: Effects of Ocean's Crest, Deep Diver and Luxor's Gift
+						NewString: Effects of Ocean's Crest, Deep Diver and Luxor's Gift
+						OldString: Effects of Ocean's Crest, Deep Diver and Luxor's Gift
 					}
 
 					22: {
-						// NewString: Tooltip10
-						// OldString: Tooltip10
+						NewString: Tooltip10
+						OldString: Tooltip10
 					}
 
 					21: {
-						// NewString: Effects of Aquatic Emblem, Shield of the Ocean, and Giant Pearl
-						// OldString: Effects of Aquatic Emblem, Shield of the Ocean, and Giant Pearl
+						NewString: Effects of Aquatic Emblem, Shield of the Ocean, and Giant Pearl
+						OldString: Effects of Aquatic Emblem, Shield of the Ocean, and Giant Pearl
 					}
 
 					20: {
-						// NewString: Tooltip9
-						// OldString: Tooltip9
+						NewString: Tooltip9
+						OldString: Tooltip9
 					}
 
 					2: {
-						// NewString: When the world is barren and cold, you will be all that remains
-						// OldString: When the world is barren and cold, you will be all that remains
+						NewString: 当世界仅剩荒芜寒冷时，你将会是剩下的一切
+						OldString: When the world is barren and cold, you will be all that remains
 					}
 
 					19: {
-						// NewString: Effects of Old Duke Scales and Reaper Tooth Necklace
-						// OldString: Effects of Old Duke Scales and Reaper Tooth Necklace
+						NewString: Effects of Old Duke Scales and Reaper Tooth Necklace
+						OldString: Effects of Old Duke Scales and Reaper Tooth Necklace
 					}
 
 					18: {
-						// NewString: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
-						// OldString: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
+						NewString: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
+						OldString: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
 					}
 
 					17: {
-						// NewString: Tooltip8
-						// OldString: Tooltip8
+						NewString: Tooltip8
+						OldString: Tooltip8
 					}
 
 					16: {
-						// NewString: Effects of Hide of Asturm Deus, Gravistar Sabaton and Ursa Sergeant
-						// OldString: Effects of Hide of Asturm Deus, Gravistar Sabaton and Ursa Sergeant
+						NewString: Effects of Hide of Asturm Deus, Gravistar Sabaton and Ursa Sergeant
+						OldString: Effects of Hide of Asturm Deus, Gravistar Sabaton and Ursa Sergeant
 					}
 
 					15: {
-						// NewString: Effects of Radiance, Gravistar Sabaton and Ursa Sergeant
-						// OldString: Effects of Radiance, Gravistar Sabaton and Ursa Sergeant
+						NewString: Effects of Radiance, Gravistar Sabaton and Ursa Sergeant
+						OldString: Effects of Radiance, Gravistar Sabaton and Ursa Sergeant
 					}
 
 					14: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					13: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					12: {
-						// NewString: Effects of Thief's Dime, Vampiric Talisman, and Evasion Scarf
-						// OldString: Effects of Thief's Dime, Vampiric Talisman, and Evasion Scarf
+						NewString: Effects of Thief's Dime, Vampiric Talisman, and Evasion Scarf
+						OldString: Effects of Thief's Dime, Vampiric Talisman, and Evasion Scarf
 					}
 
 					11: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					10: {
-						// NewString: Effects of Cryo Stone, Howls Heart, Frost Barrier, and Frost Flare
-						// OldString: Effects of Cryo Stone, Howls Heart, Frost Barrier, and Frost Flare
+						NewString: 拥有冰川石,哈尔之心,寒冰屏障和霜冻之炎的效果
+						OldString: Effects of Cryo Stone, Howls Heart, Frost Barrier, and Frost Flare
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					8: {
-						// NewString: Effects of Scuttler's Jewel and Permafrost Concoction
-						// OldString: Effects of Scuttler's Jewel and Permafrost Concoction
+						NewString: 拥有潜遁者宝石和永冻秘药的效果
+						OldString: Effects of Scuttler's Jewel and Permafrost Concoction
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: All armor bonuses from Omega Blue, Mollusk, Victide, Fathom Swarmer, and Sulphurous
-						// OldString: All armor bonuses from Omega Blue, Mollusk, Victide, Fathom Swarmer, and Sulphurous
+						NewString: 拥有渊洋之内的蓝色欧米茄套装,软壳套装,胜潮套装,幻渊鱼群套装和硫磺套装的套装奖励
+						OldString: All armor bonuses from Omega Blue, Mollusk, Victide, Fathom Swarmer, and Sulphurous
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					4: {
-						// NewString: All armor bonuses from Daedalus, Snow Ruffian, Umbraphile, and Astral
-						// OldString: All armor bonuses from Daedalus, Snow Ruffian, Umbraphile, and Astral
+						NewString: 拥有渊洋之外的代达罗斯套装,雪境暴徒套装,日影套装,和星幻套装的套装奖励
+						OldString: All armor bonuses from Daedalus, Snow Ruffian, Umbraphile, and Astral
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 				}
 			}
@@ -4232,130 +4232,130 @@ Items: {
 			DevastationForce: {
 				UpdateAccessory: {
 					6: {
-						// NewString: DemonShadeEnchantment
-						// OldString: DemonShadeEnchantment
+						NewString: DemonShadeEnchantment
+						OldString: DemonShadeEnchantment
 					}
 
 					5: {
-						// NewString: PlagueReaperEnchantment
-						// OldString: PlagueReaperEnchantment
+						NewString: PlagueReaperEnchantment
+						OldString: PlagueReaperEnchantment
 					}
 
 					4: {
-						// NewString: ReaverEnchantment
-						// OldString: ReaverEnchantment
+						NewString: ReaverEnchantment
+						OldString: ReaverEnchantment
 					}
 
 					3: {
-						// NewString: WulfrumEnchantment
-						// OldString: WulfrumEnchantment
+						NewString: WulfrumEnchantment
+						OldString: WulfrumEnchantment
 					}
 
 					2: {
-						// NewString: FargosSoulsModDLCRecreated
-						// OldString: FargosSoulsModDLCRecreated
+						NewString: FargosSoulsModDLCRecreated
+						OldString: FargosSoulsModDLCRecreated
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					19: {
-						// NewString: Effects of Angelic Alliance, Cirrus Dress, and Shattered Community
-						// OldString: Effects of Angelic Alliance, Cirrus Dress, and Shattered Community
+						NewString: Effects of Angelic Alliance, Cirrus Dress, and Shattered Community
+						OldString: Effects of Angelic Alliance, Cirrus Dress, and Shattered Community
 					}
 
 					18: {
-						// NewString: Tooltip8
-						// OldString: Tooltip8
+						NewString: Tooltip8
+						OldString: Tooltip8
 					}
 
 					17: {
-						// NewString: Effects of Corrupt Flask and Crimson Flask
-						// OldString: Effects of Corrupt Flask and Crimson Flask
+						NewString: Effects of Corrupt Flask and Crimson Flask
+						OldString: Effects of Corrupt Flask and Crimson Flask
 					}
 
 					16: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					15: {
-						// NewString: Effects of Glove of Recklessness, Glove of Precision, and The Bee
-						// OldString: Effects of Glove of Recklessness, Glove of Precision, and The Bee
+						NewString: Effects of Glove of Recklessness, Glove of Precision, and The Bee
+						OldString: Effects of Glove of Recklessness, Glove of Precision, and The Bee
 					}
 
 					14: {
-						// NewString: Effects of Bloom Stone and Necklace of Vexation
-						// OldString: Effects of Bloom Stone and Necklace of Vexation
+						NewString: Effects of Bloom Stone and Necklace of Vexation
+						OldString: Effects of Bloom Stone and Necklace of Vexation
 					}
 
 					13: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					12: {
-						// NewString: Effects of Alchemical Flask, The Camper, and Profaned Soul Crystal
-						// OldString: Effects of Alchemical Flask, The Camper, and Profaned Soul Crystal
+						NewString: Effects of Alchemical Flask, The Camper, and Profaned Soul Crystal
+						OldString: Effects of Alchemical Flask, The Camper, and Profaned Soul Crystal
 					}
 
 					11: {
-						// NewString: Effects of Plagued Fuel Pack, The Camper, and Profaned Soul Crystal
-						// OldString: Effects of Plagued Fuel Pack, The Camper, and Profaned Soul Crystal
+						NewString: Effects of Plagued Fuel Pack, The Camper, and Profaned Soul Crystal
+						OldString: Effects of Plagued Fuel Pack, The Camper, and Profaned Soul Crystal
 					}
 
 					10: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					8: {
-						// NewString: Effects of Trinket of Chi, Rotten Dogtooth, Wulfrum Acrobatics Pack, and Plague Hive
-						// OldString: Effects of Trinket of Chi, Rotten Dogtooth, Wulfrum Acrobatics Pack, and Plague Hive
+						NewString: Effects of Trinket of Chi, Rotten Dogtooth, Wulfrum Acrobatics Pack, and Plague Hive
+						OldString: Effects of Trinket of Chi, Rotten Dogtooth, Wulfrum Acrobatics Pack, and Plague Hive
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: +5 defense when below 50% life
-						// OldString: +5 defense when below 50% life
+						NewString: +5 defense when below 50% life
+						OldString: +5 defense when below 50% life
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					4: {
-						// NewString: All armor bonuses from Reaver, Plague Reaper, and Demonshade
-						// OldString: All armor bonuses from Reaver, Plague Reaper, and Demonshade
+						NewString: All armor bonuses from Reaver, Plague Reaper, and Demonshade
+						OldString: All armor bonuses from Reaver, Plague Reaper, and Demonshade
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 
 					2: {
-						// NewString: Rain hell down on those who resist your power
-						// OldString: Rain hell down on those who resist your power
+						NewString: Rain hell down on those who resist your power
+						OldString: Rain hell down on those who resist your power
 					}
 				}
 			}
@@ -4363,145 +4363,145 @@ Items: {
 			ExaltationForce: {
 				UpdateAccessory: {
 					7: {
-						// NewString: AuricEnchantment
-						// OldString: AuricEnchantment
+						NewString: AuricEnchantment
+						OldString: AuricEnchantment
 					}
 
 					6: {
-						// NewString: SilvaEnchantment
-						// OldString: SilvaEnchantment
+						NewString: SilvaEnchantment
+						OldString: SilvaEnchantment
 					}
 
 					5: {
-						// NewString: GodSlayerEnchantment
-						// OldString: GodSlayerEnchantment
+						NewString: GodSlayerEnchantment
+						OldString: GodSlayerEnchantment
 					}
 
 					4: {
-						// NewString: BloodflareEnchantment
-						// OldString: BloodflareEnchantment
+						NewString: BloodflareEnchantment
+						OldString: BloodflareEnchantment
 					}
 
 					3: {
-						// NewString: TarragonEnchantment
-						// OldString: TarragonEnchantment
+						NewString: TarragonEnchantment
+						OldString: TarragonEnchantment
 					}
 
 					2: {
-						// NewString: FargosSoulsModDLCRecreated
-						// OldString: FargosSoulsModDLCRecreated
+						NewString: FargosSoulsModDLCRecreated
+						OldString: FargosSoulsModDLCRecreated
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					21: {
-						// NewString: Effects of Dragon Scales and Dimensional Soul Artifact
-						// OldString: Effects of Dragon Scales and Dimensional Soul Artifact
+						NewString: Effects of Dragon Scales and Dimensional Soul Artifact
+						OldString: Effects of Dragon Scales and Dimensional Soul Artifact
 					}
 
 					20: {
-						// NewString: Effects of Dynamo Stem Cells, Daawnlight Spirit Origin, and The Transformer
-						// OldString: Effects of Dynamo Stem Cells, Daawnlight Spirit Origin, and The Transformer
+						NewString: Effects of Dynamo Stem Cells, Daawnlight Spirit Origin, and The Transformer
+						OldString: Effects of Dynamo Stem Cells, Daawnlight Spirit Origin, and The Transformer
 					}
 
 					2: {
-						// NewString: All armor bonuses from Tarragon, Bloodflare, and Brimflame
-						// OldString: All armor bonuses from Tarragon, Bloodflare, and Brimflame
+						NewString: All armor bonuses from Tarragon, Bloodflare, and Brimflame
+						OldString: All armor bonuses from Tarragon, Bloodflare, and Brimflame
 					}
 
 					19: {
-						// NewString: Effects of Blunder Booster and Auric Soul Artifact
-						// OldString: Effects of Blunder Booster and Auric Soul Artifact
+						NewString: Effects of Blunder Booster and Auric Soul Artifact
+						OldString: Effects of Blunder Booster and Auric Soul Artifact
 					}
 
 					18: {
-						// NewString: Effects of Blazing Core, Dark Sun Ring, Warbanner of the Sun, and Affliction
-						// OldString: Effects of Blazing Core, Dark Sun Ring, Warbanner of the Sun, and Affliction
+						NewString: Effects of Blazing Core, Dark Sun Ring, Warbanner of the Sun, and Affliction
+						OldString: Effects of Blazing Core, Dark Sun Ring, Warbanner of the Sun, and Affliction
 					}
 
 					17: {
-						// NewString: Effects of Void of Calamity, Slagsplitter Pauldron, Flame-Licked Shell, and Chaos Stone
-						// OldString: Effects of Void of Calamity, Slagsplitter Pauldron, Flame-Licked Shell, and Chaos Stone
+						NewString: Effects of Void of Calamity, Slagsplitter Pauldron, Flame-Licked Shell, and Chaos Stone
+						OldString: Effects of Void of Calamity, Slagsplitter Pauldron, Flame-Licked Shell, and Chaos Stone
 					}
 
 					16: {
-						// NewString: Tooltip8
-						// OldString: Tooltip8
+						NewString: Tooltip8
+						OldString: Tooltip8
 					}
 
 					15: {
-						// NewString: Effects of Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
-						// OldString: Effects of Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
+						NewString: Effects of Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
+						OldString: Effects of Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Eldritch Soul Artifact
 					}
 
 					14: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					13: {
-						// NewString: Effects of Yharim's Gift, Heart of the Elements, and The Sponge
-						// OldString: Effects of Yharim's Gift, Heart of the Elements, and The Sponge
+						NewString: Effects of Yharim's Gift, Heart of the Elements, and The Sponge
+						OldString: Effects of Yharim's Gift, Heart of the Elements, and The Sponge
 					}
 
 					12: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					11: {
-						// NewString: Effects of The Amalgam and Auric Soul Artifact
-						// OldString: Effects of The Amalgam and Auric Soul Artifact
+						NewString: Effects of The Amalgam and Auric Soul Artifact
+						OldString: Effects of The Amalgam and Auric Soul Artifact
 					}
 
 					10: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Effects of Nebulous Core and Draedon's Heart
-						// OldString: Effects of Nebulous Core and Draedon's Heart
+						NewString: Effects of Nebulous Core and Draedon's Heart
+						OldString: Effects of Nebulous Core and Draedon's Heart
 					}
 
 					8: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					7: {
-						// NewString: Effects of Blazing Core, Dark Sun Ring, and Chalice of the Blood God
-						// OldString: Effects of Blazing Core, Dark Sun Ring, and Chalice of the Blood God
+						NewString: Effects of Blazing Core, Dark Sun Ring, and Chalice of the Blood God
+						OldString: Effects of Blazing Core, Dark Sun Ring, and Chalice of the Blood God
 					}
 
 					6: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					5: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					4: {
-						// NewString: All armor bonuses from God Slayer, Silva, and Auric
-						// OldString: All armor bonuses from God Slayer, Silva, and Auric
+						NewString: All armor bonuses from God Slayer, Silva, and Auric
+						OldString: All armor bonuses from God Slayer, Silva, and Auric
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 				}
 			}
@@ -4509,125 +4509,125 @@ Items: {
 			AnnihilationForce: {
 				UpdateAccessory: {
 					7: {
-						// NewString: EmpyreanEnchantment
-						// OldString: EmpyreanEnchantment
+						NewString: EmpyreanEnchantment
+						OldString: EmpyreanEnchantment
 					}
 
 					6: {
-						// NewString: StatigelEnchantment
-						// OldString: StatigelEnchantment
+						NewString: StatigelEnchantment
+						OldString: StatigelEnchantment
 					}
 
 					5: {
-						// NewString: FearmongerEnchantment
-						// OldString: FearmongerEnchantment
+						NewString: FearmongerEnchantment
+						OldString: FearmongerEnchantment
 					}
 
 					4: {
-						// NewString: AtaxiaEnchantment
-						// OldString: AtaxiaEnchantment
+						NewString: AtaxiaEnchantment
+						OldString: AtaxiaEnchantment
 					}
 
 					3: {
-						// NewString: AerospecEnchantment
-						// OldString: AerospecEnchantment
+						NewString: AerospecEnchantment
+						OldString: AerospecEnchantment
 					}
 
 					2: {
-						// NewString: FargosSoulsModDLCRecreated
-						// OldString: FargosSoulsModDLCRecreated
+						NewString: FargosSoulsModDLCRecreated
+						OldString: FargosSoulsModDLCRecreated
 					}
 
 					1: {
-						// NewString: CalamityMod
-						// OldString: CalamityMod
+						NewString: CalamityMod
+						OldString: CalamityMod
 					}
 				}
 
 				ModifyTooltips: {
 					17: {
-						// NewString: Effects of Spectral Veil, The Community, and The Evolution
-						// OldString: Effects of Spectral Veil, The Community, and The Evolution
+						NewString: Effects of Spectral Veil, The Community, and The Evolution
+						OldString: Effects of Spectral Veil, The Community, and The Evolution
 					}
 
 					16: {
-						// NewString: Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, and Shield of the High Ruler
-						// OldString: Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, and Shield of the High Ruler
+						NewString: Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, and Shield of the High Ruler
+						OldString: Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, and Shield of the High Ruler
 					}
 
 					15: {
-						// NewString: Effects of Spectral Veil, The Community, and Statis' Void Sash
-						// OldString: Effects of Spectral Veil, The Community, and Statis' Void Sash
+						NewString: 拥有幽灵披风和斯塔提斯的虚空饰带的效果
+						OldString: Effects of Spectral Veil, The Community, and Statis' Void Sash
 					}
 
 					14: {
-						// NewString: Tooltip7
-						// OldString: Tooltip7
+						NewString: Tooltip7
+						OldString: Tooltip7
 					}
 
 					13: {
-						// NewString: Effects of Hallowed Rune, Ethereal Extorter, Regenator, The Community, and Shield of the High Ruler
-						// OldString: Effects of Hallowed Rune, Ethereal Extorter, Regenator, The Community, and Shield of the High Ruler
+						NewString: 拥有神圣符文，虚空掠夺者，再生符文，归一心元石和至高统治之盾的效果
+						OldString: Effects of Hallowed Rune, Ethereal Extorter, Regenator, The Community, and Shield of the High Ruler
 					}
 
 					12: {
-						// NewString: Tooltip6
-						// OldString: Tooltip6
+						NewString: Tooltip6
+						OldString: Tooltip6
 					}
 
 					11: {
-						// NewString: FargowiltasCrossmod
-						// OldString: FargowiltasCrossmod
+						NewString: FargowiltasCrossmod
+						OldString: FargowiltasCrossmod
 					}
 
 					10: {
-						// NewString: Effects of Fungal Clump, Mana Polarizer and Fungal Symbiote
-						// OldString: Effects of Fungal Clump, Mana Polarizer and Fungal Symbiote
+						NewString: 拥有真菌块，魔能谐振仪，真菌共生体的效果
+						OldString: Effects of Fungal Clump, Mana Polarizer and Fungal Symbiote
 					}
 
 					1: {
-						// NewString: Tooltip1
-						// OldString: Tooltip1
+						NewString: Tooltip1
+						OldString: Tooltip1
 					}
 
 					9: {
-						// NewString: Tooltip5
-						// OldString: Tooltip5
+						NewString: Tooltip5
+						OldString: Tooltip5
 					}
 
 					8: {
-						// NewString: Effects of Gladiator's Locket, Aero Stone and Unstable Granite Core
-						// OldString: Effects of Gladiator's Locket, Aero Stone and Unstable Granite Core
+						NewString: 拥有角斗士锁链、气动石和不稳定花岗岩核心的效果
+						OldString: Effects of Gladiator's Locket, Aero Stone and Unstable Granite Core
 					}
 
 					7: {
-						// NewString: Tooltip4
-						// OldString: Tooltip4
+						NewString: Tooltip4
+						OldString: Tooltip4
 					}
 
 					6: {
-						// NewString: All armor bonuses from Empyrean and Fearmonger
-						// OldString: All armor bonuses from Empyrean and Fearmonger
+						NewString: 拥有月辉之上的皇天套装和神惧者套装的套装奖励
+						OldString: All armor bonuses from Empyrean and Fearmonger
 					}
 
 					5: {
-						// NewString: Tooltip3
-						// OldString: Tooltip3
+						NewString: Tooltip3
+						OldString: Tooltip3
 					}
 
 					4: {
-						// NewString: All armor bonuses from Aerospec, Statigel, and Hydrothermic
-						// OldString: All armor bonuses from Aerospec, Statigel, and Hydrothermic
+						NewString: 拥有月辉之下的天蓝套装，斯塔提斯套装和渊泉套装的套装奖励
+						OldString: All armor bonuses from Aerospec, Statigel, and Hydrothermic
 					}
 
 					3: {
-						// NewString: Tooltip2
-						// OldString: Tooltip2
+						NewString: Tooltip2
+						OldString: Tooltip2
 					}
 
 					2: {
-						// NewString: Where once there was life and light, only ruin remains...
-						// OldString: Where once there was life and light, only ruin remains...
+						NewString: 昔日维护生命和光明的地方，如今仅存废墟...
+						OldString: Where once there was life and light, only ruin remains...
 					}
 				}
 			}
@@ -4636,27 +4636,27 @@ Items: {
 		RogueEssence: {
 			UpdateAccessory: {
 				1: {
-					// NewString: CalamityMod
-					// OldString: CalamityMod
+					NewString: CalamityMod
+					OldString: CalamityMod
 				}
 			}
 
 			ModifyTooltips: {
 				2: {
-					// NewString: ItemName
-					// OldString: ItemName
+					NewString: ItemName
+					OldString: ItemName
 				}
 
 				1: {
-					// NewString: Terraria
-					// OldString: Terraria
+					NewString: Terraria
+					OldString: Terraria
 				}
 			}
 
 			IsLoadingEnabled: {
 				1: {
-					// NewString: FargowiltasCrossmod
-					// OldString: FargowiltasCrossmod
+					NewString: FargowiltasCrossmod
+					OldString: FargowiltasCrossmod
 				}
 			}
 		}
@@ -4665,28 +4665,28 @@ Items: {
 	DLCRecipeChanges: {
 		PostAddRecipes: {
 			5: {
-				// NewString: DBZMODPORT
-				// OldString: DBZMODPORT
+				NewString: DBZMODPORT
+				OldString: DBZMODPORT
 			}
 
 			4: {
-				// NewString: FargowiltasCrossmod
-				// OldString: FargowiltasCrossmod
+				NewString: FargowiltasCrossmod
+				OldString: FargowiltasCrossmod
 			}
 
 			3: {
-				// NewString: SpiritMod
-				// OldString: SpiritMod
+				NewString: SpiritMod
+				OldString: SpiritMod
 			}
 
 			2: {
-				// NewString: ThoriumMod
-				// OldString: ThoriumMod
+				NewString: ThoriumMod
+				OldString: ThoriumMod
 			}
 
 			1: {
-				// NewString: CalamityMod
-				// OldString: CalamityMod
+				NewString: CalamityMod
+				OldString: CalamityMod
 			}
 		}
 	}
@@ -4694,28 +4694,28 @@ Items: {
 	DLCItemChanges: {
 		UpdateAccessory: {
 			5: {
-				// NewString: DBZMODPORT
-				// OldString: DBZMODPORT
+				NewString: DBZMODPORT
+				OldString: DBZMODPORT
 			}
 
 			4: {
-				// NewString: FargowiltasCrossmod
-				// OldString: FargowiltasCrossmod
+				NewString: FargowiltasCrossmod
+				OldString: FargowiltasCrossmod
 			}
 
 			3: {
-				// NewString: SpiritMod
-				// OldString: SpiritMod
+				NewString: SpiritMod
+				OldString: SpiritMod
 			}
 
 			2: {
-				// NewString: ThoriumMod
-				// OldString: ThoriumMod
+				NewString: ThoriumMod
+				OldString: ThoriumMod
 			}
 
 			1: {
-				// NewString: CalamityMod
-				// OldString: CalamityMod
+				NewString: CalamityMod
+				OldString: CalamityMod
 			}
 		}
 	}
@@ -4724,8 +4724,8 @@ Items: {
 CalDLCPlayer: {
 	ResetEffects: {
 		1: {
-			// NewString: ThoriumMod
-			// OldString: ThoriumMod
+			NewString: ThoriumMod
+			OldString: ThoriumMod
 		}
 	}
 }
@@ -4734,8 +4734,8 @@ Buffs: {
 	Magma: {
 		SetStaticDefaults: {
 			1: {
-				// OldString: FargosSoulsModDLCRecreated/Buffs/Magma
-				// NewString: FargosSoulsModDLCRecreated/Buffs/Magma
+				OldString: FargosSoulsModDLCRecreated/Buffs/Magma
+				NewString: FargosSoulsModDLCRecreated/Buffs/Magma
 			}
 		}
 	}

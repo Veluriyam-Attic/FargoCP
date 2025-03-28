@@ -15,8 +15,9 @@ Items: {
 		DisplayName: Soul of the Transcendentor
 		Tooltip:
 			'''
-			Grants immunity to Mutant Rebirth, Time Frozen, Coffin Toss Buff, Time Stop Cooldown, Abominable Cooldown, Berserker Cooldown, Abominable Fang, Abominable Presence, God Eater, Mutant Fang, Mutant Presence, Lovestruck, Fake Hearts, Deviant Presence
-			Effects of [i:FargowiltasSouls/EternitySoul] Soul of Eternity, [i:FargoSoulMore/TyrantSoul] Tyrant Soul
+			Grants immunity to Mutant Rebirth, Time Frozen, Coffin Toss Buff, Time Stop Cooldown, Abominable Cooldown,
+			Berserker Cooldown, Abominable Fang, Abominable Presence, God Eater, Mutant Fang, Mutant Presence, Lovestruck, Fake Hearts, Deviant Presence
+			Effects of [i:FargowiltasSouls/EternitySoul] Soul of Eternity, [i:FargoSoulMore/TyrantSoul] Tyrant Soul and [i:FargoSoulMore/DemolishersSoul] Demolisher's Soul
 			[i:FargowiltasSouls/AbominableWand] Can endure any attack and survive with one life, endurance recovers when you reach max life
 			Increased damage gained Sparkling Adoration graze, halves heart cooldown, Abominationn periodically manifests to support your critical hits
 			If with Styx armor, charges energy when graze is maxed
@@ -122,8 +123,8 @@ Items: {
 			'''
 			[i:CalamityMod/LivingDew] Increases max life by 50
 			Grants +1 life regen and an additional +1 life regen when inflicted with a damage debuff
-			Standing still in Honey grants +1.5 life regen
-			sHalves how long you are afflicted with fire and sickness debuffs
+			Standing still in Honey grants +1.5 life regeneration
+			Halves how long you are afflicted with fire and sickness debuffs
 			Effects of Reaver Armor
 			'It's living'
 			'''
@@ -170,29 +171,26 @@ Items: {
 		DisplayName: Tyrant Soul
 		Tooltip:
 			'''
+			[i:FargoSoulMore/TyrantSoul] Effects of Demonshade Enchantment and all ingredient Forces
 			[i:CalamityMod/TheEvolution] You reflect projectiles when they hit you, reflected projectiles deal no damage to you, projectiles that deal less than 5% of your max life in damage will not be reflected
 			Reflect has a cooldown that ranges between 15 and 90 seconds depending on the reflected projectile's damage, this cooldown is shared with all other dodges and reflects
 			After reflecting, grants +1 life regen and accelerated life regen for 5 seconds, if the same enemy projectile type hits you again you will resist its damage by 15%
 			[i:CalamityMod/HideofAstrumDeus] Taking damage / inflicting a true melee strike, drops an immense amount of astral stars from the sky, taking damage boosts true melee damage by 30%, boost duration scales with the amount of damage you took, up to 10 seconds
 			immunity to the astral infection, cursed inferno, on fire, and frostburn, enemies take damage when they hit you and inflicted with the astral infection
-			[i:CalamityMod/BlazingCore] Pressing activate accessory parry key will activate a parry, encasing you in profaned crystal, being hit shortly after encasement will shatter the crystal
+			[i:CalamityMod/BlazingCore] Pressing activate accessory parry key will activate a parry, encasing you in profaned crystal, being hit shortly after encasement will shatter the crystal 
 			Upon shattering, waves of holy stars spiral outwards and the damage you would have taken is reduced to 1, after shattering, this damage reduction effect goes on cooldown
 			If another encasement is shattered whilst on cooldown, healing stars will be interspersed throughout the waves of stars, the damage of a hit is not reduced whilst on cooldown, provides a moderate amount of light in the Abyss
 			[i:CalamityMod/PhantomicArtifact] Whenever your minions hit an enemy you will gain a random phantomic buff, does not stack with downgrades, phantomic Empowerment increases summon damage by 10% and makes minion hits spawn phantomic knives
 			Phantomic Shield increases defense by 10 and damage reduction by 5% and spawns a phantomic bulwark which absorbs 20% of the next projectile's damage that touches it
-			Phantomic Regen grants +2 life regen and spawns a phantomic heart which grants an additional 2 life regen when touched, [I:FargoSoulMore/TyrantSoul] grants immunity to Calamitous Presence
+			Phantomic Regen grants +2 life regen and spawns a phantomic heart which grants an additional 2 life regen when touched, [I:FargoSoulMore/TyrantSoul] grants immunity to Calamitous Presence and Encased
 			[i:CalamityMod/BloodflareCore] Taking defense damage heals you over time, you gain 1 health for every 1 defense damage recovered, taking damage always deals at least half of your total defense in defense damage
 			[i:CalamityMod/EldritchSoulArtifact] Boosts melee speed by 10%, ranged velocity by 25%, rogue stealth regen by 15%, max minions by 1, reduces mana cost by 25%, grants immunity to whispering death
 			[i:CalamityMod/AuricSoulArtifact] For each Fiery Draconid you have summoned, you gain 1 minion slot, effects of [i:CalamityMod/TheCommunity] The Community, [i:CalamityMod/ShatteredCommunity] Shattered Community, [i:CalamityMod/DimensionalSoulArtifact] multiplies all damage by 1.2x, but at the cost of increasing damage taken by 15%
 			[i:CalamityMod/TheAbsorber] 12% increased movement and jump speed, grants immunity to knockback, enemies take immense damage when they touch you and are afflicted with a damaging sickness debuff that reduces damage reduction significantly
-			Using a healing potion will spawn a cleansing aura, aura removes all debuffs one time, aura grants +3 life regen, +8% damage, and +5% damage reduction for all players inside for 10 seconds, 5% of the damage from enemy attacks is absorbed and converted into healing
+			Using a healing potion will spawn a cleansing aura, aura removes all debuffs one time
+			aura grants +3 life regen, +8% damage, and +5% damage reduction for all players inside for 10 seconds, 5% of the damage from enemy attacks is absorbed and converted into healing
 			[i:CalamityMod/Affliction] Grants you and all other players on your team +0.5 life regen, +10% max life, 7% damage reduction, 13 defense and +10% damage
 			[i:CalamityMod/DarkSunRing] 12% increase to damage, +0.5 life regen and +2 max minions, increases minion knockback, during the day, grants +2 life regen, during the night, grants +20 defense, during an eclipse, grants +1 life regen and +10 defense
-			[i:FargowiltasCrossmod/BrandoftheBrimstoneWitch] Effects of [i:CalamityMod/HeartoftheElements] Heart of the Elements, [i:CalamityMod/OccultSkullCrown] Occult Skull Crown, [i:CalamityMod/Radiance] Radiance, [i:CalamityMod/TheSponge] The Sponge, [i:CalamityMod/ChaliceOfTheBloodGod] Chalice of the Blood God, [i:CalamityMod/NebulousCore] Nebulous Core, [i:CalamityMod/YharimsGift] Yharim's Gift, [i:CalamityMod/DraedonsHeart] Draedon's heart and [i:CalamityMod/Calamity] Calamity
-			[i:FargowiltasCrossmod/MarniteEnchant] 25% increased placement speed and +10 placement range, lasers strike nearby enemies when building and mining, effects of [i:CalamityMod/MarniteRepulsionShield] Marnite Repulsion Shield, [i:FargowiltasCrossmod/WulfrumEnchant] wulfrum drone tells you enemy debuff weaknesses and makes enemies take extra debuff damage
-			[i:FargowiltasCrossmod/DesertProwlerEnchant] Replaces jumping boot hovering with a charged sand jump that boosts you horizontally, [i:FargowiltasCrossmod/AerospecEnchant] jumping and using double jumps increase critical strike chance and summon damage
-			[i:FargowiltasCrossmod/SulphurEnchant] Grants an extra jump that spawns a bubble, shooting the bubble releases toxic gas, [i:FargowiltasCrossmod/VictideEnchant] gives you urchin spikes, which after attacking for a short time and releasing attack, launch outward
-			[i:FargoSoulMore/DaedalusEnchantment] Effects of Daedalus Armor, Ornate Shield, [i:FargoSoulMore/HydrothermicEnchantment] Effects of Hydrothermic Armor, Void of Extinction, [i:FargoSoulMore/ReaverEnchantment] Effects of Reaver Armor, Living Dew, [i:FargoSoulMore/PlaguebringerEnchantment] Effects of Plaguebringer Armor, Bloom Stone
 			'The ruler of the jungle'
 			'''
 	}
@@ -338,6 +336,7 @@ Items: {
 			[i:FargoSoulMore/ShadeMasterEnchantment] Effects of Shinobi Sigil, Shade Master Armor
 			[i:FargoSoulMore/TerrariumEnchantment] Effects of Terrarium Surround Sound, Terrarium Defender,
 			Terrarium Particle Sprinters, Thorium Enchantment, Terrarium Armor
+			'One of the Worlds'
 			'''
 	}
 
@@ -374,6 +373,313 @@ Items: {
 			Effects of Life Bloom Armor
 			'True nature'
 			'''
+	}
+
+	BrimflameEnchantment: {
+		Tooltip:
+			'''
+			[i:CalamityMod/SigilofCalamitas] 15% increased magic damage and 10% decreased mana usage
+			+100 max mana
+			Increases pickup range for mana stars
+			Effects of Brimflame Armor
+			'Brimstone Flames'
+			'''
+		DisplayName: Brimflame Enchantment
+	}
+
+	AstralEnchantment: {
+		Tooltip:
+			'''
+			[i:CalamityMod/UrsaSergeant] Decreased movement speed by 15%
+			Immune to Astral Infection and Feral Bite
+			Increased regeneration at lower health
+			[i:CalamityMod/GravistarSabaton] 20% increased jump speed, Immunity to fall damage
+			Hold down key to increase your maximum fall speed
+			Hold Gravistar Sabaton Hotkey for 1 second while midair to charge up a superspeed slam
+			While slamming, you ram through enemies and don't take contact damage
+			Once you reach the ground, you create an explosion at your feet
+			The explosion scales in both damage and size the longer you slam for
+			Temporary 40% increased jump speed after slamming into the ground
+			Effects of Astral Armor
+			'Beautiful Astral Star Shines On You'
+			'''
+		DisplayName: Astral Enchantment
+	}
+
+	FearmongerEnchantment: {
+		Tooltip:
+			'''
+			+3 max minions
+			+100 max mana
+			50% Increased movement speed
+			Effects of Fearmonger Armor
+			'Fear itself'
+			'''
+		DisplayName: Fearmonger Enchantment
+	}
+
+	XerocEnchantment: {
+		Tooltip:
+			'''
+			When projectile hits enemy, it will spawn rainbow homing projectile
+			Reduced movement speed to 50%
+			200% max life
+			+50 max stealth
+			Effects of Empyrean Armor
+			'Piece of Xeroc's Power'
+			'''
+		DisplayName: Xeroc Enchantment
+	}
+
+	AnnihilationForce: {
+		Tooltip:
+			'''
+			[i:FargoSoulMore/FearmongerEnchantment] +4 max minions
+			[i:FargoSoulMore/FearmongerEnchantment] +130 max mana
+			[i:FargoSoulMore/FearmongerEnchantment] 70% Increased movement speed
+			[i:FargoSoulMore/XerocEnchantment] When projectile hits enemy, it will spawn rainbow homing projectile
+			[i:FargoSoulMore/XerocEnchantment] Reduced movement speed to 0.7x
+			[i:FargoSoulMore/XerocEnchantment] 200% max life
+			[i:FargoSoulMore/XerocEnchantment] +100 max stealth
+			Effects of [i:FargoSoulMore/XerocEnchantment] Empyrean Armor, [i:FargoSoulMore/FearmongerEnchantment] Fearmonger Armor, [i:FargoSoulMore/BrimflameEnchantment] Brimflame Armor, Sigil of Calamitas
+			[i:FargowiltasCrossmod/StatigelEnchant] Increases your maximum speed, Massively decreases your acceleration and deceleration
+			Gain up to +15% increased damage, depending on how fast you're moving
+			'Defining the End of The World'
+			'''
+		DisplayName: Force of Annihilation
+	}
+
+	BloodflareEnchantment: {
+		Tooltip:
+			'''
+			When projectile hits enemy, it has 20% chance to heal you 2 life
+			+100 max life, +3 life regeneration
+			+10% damage reduction, +1 max minions
+			Effects of Bloodflare Armor
+			'Burning Blood'
+			'''
+		DisplayName: Bloodflare Enchantment
+	}
+
+	TarragonEnchantment: {
+		Tooltip:
+			'''
+			When projectile hits enemy, it inflicts Holy Flames
+			+5 life regeneration
+			[i:CalamityMod/BadgeofBravery] Increases melee damage, melee critical strike chance by 10%
+			+5 melee armor penetration
+			Effects of Tarragon Armor
+			'Ancient Goddess Power'
+			'''
+		DisplayName: Tarragon Enchantment
+	}
+
+	GodSlayerEnchantment: {
+		Tooltip:
+			'''
+			When projectile hits enemy, it inflicts God Slayer Inferno 
+			When projectile hits enemy, has a 1% chance to get healed for 1% of max life
+			Effects of God Slayer Armor
+			'Cosmic Devourer's Power'
+			'''
+		DisplayName: God Slayer Enchantment
+	}
+
+	SilvaEnchantment: {
+		Tooltip:
+			'''
+			When projectile hits enemy, it wil spawn Magic Missile
+			Increases immune time by 1
+			Effects of Silva Armor
+			'Absoulte Natural'
+			'''
+		DisplayName: Silva Enchantment
+	}
+
+	AuricTeslaEnchantment: {
+		Tooltip:
+			'''
+			[i:CalamityMod/PermafrostsConcoction] Increases maximum mana by 50 and reduces mana cost by 15%
+			+0.5 life regeneration below half health, +1 when below 25% health and +2 when below 10% health
+			+3 life regeneration while afflicted with any fire debuff
+			You will survive fatal damage and revive with 30% life on a 3 minute cooldown
+			You are encased in an ice barrier for 3 seconds when revived
+			Effects of Auric Tesla Armor
+			You can run fast like running on the Asphalt Block
+			'Boundless Auric Energy Flows'
+			'''
+		DisplayName: Auric Tesla Enchantment
+	}
+
+	ExaltationForce: {
+		Tooltip:
+			'''
+			[i:CalamityMod/PermafrostsConcoction] Effects of Permafrost's Concoction
+			Effects of Bloodflare Armor, Silva Armor, God Slayer Armor, Tarragon Armor, Auric Tesla Armor
+			You can run fast like running on the Asphalt Block
+			When projectile hits enemy, it wil spawn Magic Missile, has a 1% chance to get healed for 1% of max life,
+			it inflicts God Slayer Inferno and Holy Flames, has 20% chance to heal you 2 life
+			+1 immune time, +8 life regeneration, +100 max life, +10% damage reduction, +1 max minions
+			[i:CalamityMod/BadgeofBravery] Effects of Badge of Bravery
+			'Culmination of the journey'
+			'''
+		DisplayName: Force of Exaltation
+	}
+
+	DemolishersSoul: {
+		Tooltip:
+			'''
+			[i:CalamityMod/EvasionScarf] 15% increased true melee damage
+			Grants the ability to dash; dashing into an attack will cause you to dodge it
+			After a successful dodge you must wait 30 seconds before you can dodge again
+			When projectile hits enemy, it will heal you random life (1 to 20), inflict Miracle Blight
+			+50 life regeneration, +1000 max life, 300% melee damage
+			[i:CalamityMod/WarbanneroftheSun] Increases melee damage, true melee damage and melee speed
+			the closer you are to enemies, Max boost is 20% increased melee damage, true melee damage and melee speed
+			[i:FargowiltasSouls/BerserkerSoul] Effects of Berserker's Soul
+			'They have managed to demolish what we made'
+			'''
+		DisplayName: Demolisher's Soul
+	}
+
+	FathomSwarmerEnchantment: {
+		Tooltip:
+			'''
+			[i:CalamityMod/CorrosiveSpine] 5% increased movement speed
+			All rogue weapons inflict poison and spawn poisoned clouds on enemy hits
+			You release a ton of clouds everywhere on hit
+			200% summon damage and +2 max minions
+			Effects of Fathom Swarmer Armor
+			'Fathom swarm'
+			'''
+		DisplayName: Fathom Swarmer Enchantment
+	}
+
+	OmegaBlueEnchantment: {
+		Tooltip:
+			'''
+			+5% damage reduction, +1 max minions, +50 armor penetration
+			[i:CalamityMod/ReaperToothNecklace] 15% increased damage
+			Increases armor penetration by 15
+			Effects of Omega Blue Armor
+			'The Blue and Dark Water of the Abyss'
+			'''
+		DisplayName: Omega Blue Enchantment
+	}
+
+	MolluskEnchantment: {
+		Tooltip:
+			'''
+			[i:CalamityMod/GiantPearl] You have a light aura around you, Enemies within the aura are slowed down
+			Does not work while a boss is alive, Provides a small amount of light in the abyss
+			[i:CalamityMod/AquaticEmblem] Almost all ocean enemies become friendly and provides underwater breathing
+			Being underwater slowly boosts your defense over time but also slows movement speed
+			The defense boost and movement speed reduction slowly vanish while outside of water
+			Maximum defense boost is 50, maximum movement speed reduction is 10%
+			Provides a small amount of light in the abyss, Moderately reduces breath loss in the abyss
+			Effects of Mollusk Armor
+			'The Glory of the Ocean'
+			'''
+		DisplayName: Mollusk Enchantment
+	}
+
+	DesolationForce: {
+		Tooltip:
+			'''
+			+5% damage reduction, +3 max minions, +50 armor penetration, 200% summon damage
+			[i:CalamityMod/UrsaSergeant] Effects of Ursa Sergeant, [i:CalamityMod/GiantPearl] Giant Pearl, [i:CalamityMod/AquaticEmblem] Aquatic Emblem, [i:CalamityMod/VampiricTalisman] Vampiric Talisman, [i:CalamityMod/ReaperToothNecklace] Reaper Tooth Necklace, [i:CalamityMod/CorrosiveSpine] Corrosive Spine, [i:CalamityMod/GravistarSabaton] Gravistar Sabaton
+			Effects of Mollusk Armor, Omega Blue Armor, Fathom Swarmer Armor, Umbraphile Armor, Astral Armor
+			'The power enough to rule the abyss'
+			'''
+		DisplayName: Force of Desolation
+	}
+
+	DemonshadeEnchantment: {
+		Tooltip:
+			'''
+			+30% damage reduction, +30 life regeneration, +3 max minions, +300 max life
+			[i:CalamityMod/AngelicAlliance] Call upon the force of heaven to empower your attacks and minions
+			Courage, Enlightenment, Bliss. United in Judgement
+			+2 max minions, 15% increased summon damage, and 8% increased damage to all other classes
+			+2 life regen while airborne using wings
+			Press Angelic Alliance Blessing to grace yourself in divinity for 15 seconds
+			While under the effects of Divine Bless, for every minion you have, an archangel shall be summoned to aid you in combat
+			Each spawned angel will instantly heal you for two health
+			All minion attacks inflict Banishing Fire and you are granted a flat health boost of four health per second
+			This effect has a cooldown of 1 minute
+			Effects of Demonshade Armor
+			'Demon's Shadow'
+			'''
+		DisplayName: Demonshade Enchantment
+	}
+
+	TideTurnerEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/AbyssalShell] Pressing the 'Encase' key will place you in an impenetrable shell
+			While encased, you can't use items or health potions, life regeneration is heavily reduced, and damage is nearly nullified
+			Leaving the shell will greatly lower your speed, damage reduction and damage briefly
+			Leaving the shell will prohibit the use of the shell again for 20 seconds
+			Effects of Tide Turner Armor
+			'I who turn the tide and world?'
+			'''
+		DisplayName: Tide Turner Enchantment
+	}
+
+	AssassinEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/MirroroftheBeholder] While equipped, you gain vision of your cursor's current position
+			Enemies around your cursor are briefly revealed and take 15% more damage from all sources
+			Effects of Assassin Armor
+			'Stealth'
+			'''
+		DisplayName: Assassin Enchantment
+	}
+
+	PyromancerEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/IceBoundStriderHide] Damage done against slowed targets is increased by 15%
+			Damage done against slowed targets has a chance to heal you slightly
+			Effects of Pyromancer Armor
+			'Infernal'
+			'''
+		DisplayName: Pyromancer Enchantment
+	}
+
+	DreamWeaverEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/TheOmegaCore] Increases movement speed beyond comprehension
+			Effects of Dream Weaver Armor
+			'True Power of the Dream Eater'
+			'''
+		DisplayName: Dream Weaver Enchantment
+	}
+
+	RhapsodistEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/Phylactery] Taking fatal damage will instead return you to 25% life every four minutes
+			Life regeneration is increased while the phylactery is not on cooldown
+			Effects of Rhapsodist Armor
+			'Rhapsodist Power'
+			'''
+		DisplayName: Rhapsodist Enchantment
+	}
+
+	ForceOfAsgard: {
+		Tooltip:
+			'''
+			[i:FargoSoulMore/PyromancerEnchantment] Effects of Pyromancer Armor, Ice Bound Strider Hide
+			[i:FargoSoulMore/AssassinEnchantment] Effects of Assassin Armor, Mirror of the Beholder
+			[i:FargoSoulMore/TideTurnerEnchantment] Effects of Tide Turner Armor, Abyssal Shell
+			[i:FargoSoulMore/DreamWeaverEnchantment] Effects of Dream Weaver Armor, The Omega Core
+			[i:FargoSoulMore/RhapsodistEnchantment] Effects of Rhapsodist Armor, Phylactery
+			'One of the Worlds'
+			'''
+		DisplayName: Force of Asgard
 	}
 }
 

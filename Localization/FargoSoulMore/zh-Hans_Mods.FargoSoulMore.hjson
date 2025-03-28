@@ -1,5 +1,6 @@
 # This file will automatically update with entries for new content after a build and reload.
-		Items: {
+
+Items: {
 	RealityTranscendentor: {
 		DisplayName: 跨越现实之人
 		Tooltip:
@@ -107,13 +108,13 @@
 	}
 
 	DaedalusEnchantment: {
-		DisplayName: 代达罗斯魔石
+		DisplayName: EX代达罗斯魔石
 		Tooltip:
 			'''
 			[i:CalamityMod/OrnateShield] 
 			获得撞击冲刺能力, 此冲刺可以在不受伤害的情况下猛击穿过敌怪
 			使你免疫霜冻、冷冻和冰冻减益
-			获得代达罗斯盔甲的套装奖励：
+			拥有代达罗斯魔石的效果并获得代达罗斯盔甲的套装奖励：
 			战士：
 			提升10%近战攻速，敌人更有可能以你为目标
 			你能够反弹弹幕，被反弹的弹幕只会对你造成50%的伤害，这个反弹效果有15-90秒内置冷却(时间取决于弹幕伤害量)，这个冷却时间和其它效果类似的物品共享，
@@ -135,7 +136,7 @@
 	}
 
 	ReaverEnchantment: {
-		DisplayName: 掠夺者魔石
+		DisplayName: EX掠夺者魔石
 		Tooltip:
 			'''
 			[i:CalamityMod/LivingDew] 
@@ -143,7 +144,7 @@
 			获得+1HP/s生命再生，受到伤害性减益时再额外获得+1HP/s生命再生
 			站立不动时获得+1.5HP/s生命再生
 			减半受到火系和疾病系减益的持续时间
-			获得掠夺者盔甲的套装奖励：
+			拥有掠夺者魔石的效果并获得掠夺者盔甲的套装奖励：
 			+10防御力并+3生命恢复
 			敌人更有可能以你为目标
 			受到持续性伤害减益时的生命恢复损失降低20%
@@ -180,13 +181,13 @@
 	}
 
 	HydrothermicEnchantment: {
-		DisplayName: 渊泉魔石
+		DisplayName: EX渊泉魔石
 		Tooltip:
 			'''
 			[i:CalamityMod/VoidofExtinction] 	增加13%的暴击率
 			暴击会产生爆炸，并将附近的敌人用硫磺火引燃
 			大幅减少硫磺火减益造成的伤害
-			获得渊泉盔甲的套装奖励：
+			拥有渊泉魔石的效果并获得渊泉盔甲的套装奖励：
 			战士：
 			提升15%近战攻速
 			敌人更有可能以你为目标
@@ -223,7 +224,7 @@
 		DisplayName: 暴君之魂
 		Tooltip:
 			'''
-			[i:FargoSoulMore/TyrantSoul] 拥有魔影魔石和其余灾厄之力的效果
+			[i:FargoSoulMore/TyrantSoul] 拥有下级灾厄之力和灾厄魔石的效果
 			[i:CalamityMod/TheEvolution] 拥有进化者，[i:CalamityMod/HideofAstrumDeus] 星神隐壳，[i:CalamityMod/BlazingCore] 渎火核心，[i:CalamityMod/PhantomicArtifact] 幻魂神物的权能
 			[I:FargoSoulMore/TyrantSoul] 免疫灾厄驾到
 			[i:CalamityMod/BloodflareCore] 拥有血炎晶核，[i:CalamityMod/EldritchSoulArtifact] 惧魂神物，[i:CalamityMod/AuricSoulArtifact] 圣魂神物, [i:CalamityMod/TheCommunity] 归一心元石, [i:CalamityMod/ShatteredCommunity] 幻灭心元石, [i:CalamityMod/DimensionalSoulArtifact] 维魂神物，[i:CalamityMod/TheAbsorber] 阴阳吸星石，[i:CalamityMod/Affliction] 灾劫之尖啸，[i:CalamityMod/DarkSunRing] 蚀日尊戒的力量
@@ -249,12 +250,12 @@
 	}
 
 	TitanHeartEnchantment: {
-		DisplayName: 泰坦之心魔石
+		DisplayName: EX泰坦之心魔石
 		Tooltip:
 			'''
 			[i:CalamityMod/AeroStone] 提供50的额外飞行时间
 			当你处于空中并且没有处于飞行或滑翔状态时，你的飞行时间会缓慢恢复
-			获得泰坦之心盔甲的套装奖励：|
+			拥有泰坦之心魔石的效果并获得泰坦之心盔甲的套装奖励：|
 			增加15%盗贼伤害和击退
 			+100点最大潜行值
 			潜伏攻击会造成两倍的击退并产生幻星爆炸
@@ -572,8 +573,7 @@
 			'''
 			当弹幕击中敌人时，会造成神圣之火减益
 			增加5点生命恢复，
-			[i:CalamityMod/BadgeofBravery] 增加10%近战伤害和近战暴击率
-			增加5点近战护甲穿透
+			[i:CalamityMod/BadgeofBravery] 增加10%近战伤害和近战暴击率，增加5点近战护甲穿透
 			获得龙嵩盔甲的套装奖励：
 			战士：
 			增加15%近战攻速
@@ -890,7 +890,129 @@
 			'''
 		
 	}
-		}
+	
+	PrismaticEnchantment: {
+		Tooltip:
+			'''
+			按套装奖励键在鼠标位置召唤一轮死亡激光，持续5秒
+			获得光棱盔甲的套装奖励：
+			最大魔力值增加40，魔力消耗减少15%
+			提高魔力再生速度
+			'光鲜亮丽的'
+			'''
+		DisplayName: 光棱魔石
+	}
+
+	GemTechEnchantment: {
+		Tooltip:
+			'''
+			按“超新星”键召唤超新星爆炸
+			爆炸造成最大生命值的50倍伤害
+			After using explosion, Celestial Price debuff will be inflicted to player
+			Celestial Price sets life regeneration and damage reduction to 0
+			Effects of Gem Tech Armor
+			'Jewels'
+			'''
+		DisplayName: 天钻魔石
+	}
+
+	SpiritTrapperEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/InnerFlame] After healing a nearby ally, a life spirit is released from you
+			This spirit seeks out your ally with the lowest life and heals them for 2 life
+			Effects of Spirit Trapper Armor
+			'''
+		DisplayName: Spirit Trapper Enchantment
+	}
+
+	SilkEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/ArtificersFocus] Pressing and holding the 'Accessory Ability' key will channel artificer's energy
+			Every second channeled increases your next damage by 20 up to 100
+			Effects of Silk Armor
+			'''
+		DisplayName: Silk Enchantment
+	}
+
+	MalignantEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/ArtificersShield] Reduces the amount of knockback you take from getting hit
+			Grants 2 defense for every 20 artificer's energy you have
+			Taking damage saps 20 artificer's energy
+			[i:FargoSoulMore/SilkEnchantment] Effects of Silk Enchantment
+			'''
+		DisplayName: Malignant Enchantment
+	}
+
+	DreadEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/CrashBoots] 8% increased movement speed and run acceleration
+			Running builds up momentum and increases movement speed
+			Crashing into an enemy releases all stored momentum, catapulting the enemy
+			[i:FargoSoulMore/DragonEnchantment] Effects of Dragon Enchantment
+			Effects of Dread Armor
+			'''
+		DisplayName: Dread Enchantment
+	}
+
+	DragonEnchantment: {
+		Tooltip:
+			'''
+			Your attacks inflict Dragon Banish damage over time debuff
+			Effects of Dragon Armor
+			'''
+		DisplayName: Dragon Enchantment
+	}
+
+	WhiteKnightEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/SmotheringBand] Every eighth magic cast costs no mana
+			Effects of White Knight Armor
+			'''
+		DisplayName: White Knight Enchantment
+	}
+
+	FleshEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/VampireGland] Your damage will have a 10% chance to cause an eruption of blood
+			This blood can be picked up by players to heal themselves for 15% of the damage you dealt
+			Healing amount cannot exceed 15 life and picking up blood causes bleeding for 5 seconds
+			Effects of Flesh Armor
+			'''
+		DisplayName: Flesh Enchantment
+	}
+
+	DemonBloodEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/VileFlailCore] 65% basic damage
+			Flail weapons have a chance to release a vile spike ball on hit
+			The vile spike ball applies ichor to damaged enemies
+			[i:FargoSoulMore/FleshEnchantment] Effects of Flesh Enchantment
+			Effects of Demon Blood Armor
+			'''
+		DisplayName: Demon Blood Enchantment
+	}
+
+	ForceOfHelheim: {
+		Tooltip:
+			'''
+			[i:FargoSoulMore/SpiritTrapperEnchantment] Effects of Spirit Trapper Armor, Inner Flame
+			[i:FargoSoulMore/MalignantEnchantment] Effects of Artificer's Shield, Silk Enchantment
+			[i:FargoSoulMore/DreadEnchantment] Effects of Dread Armor, Crash Boots and Dragon Enchantment
+			[i:FargoSoulMore/DemonBloodEnchantment] Effects of Demon Blood Armor, Vile Flail-Core and Flesh Enchantment
+			[i:FargoSoulMore/WhiteKnightEnchantment] Effects of White Knight Armor, Smothering Band
+			'One of the Worlds'
+			'''
+		DisplayName: Force of Helheim
+	}
+}
 
 NPCs.MutantEX.DisplayName: 真·突变体
 
@@ -904,5 +1026,15 @@ Buffs: {
 			禁用大师之魂和狂暴过载，效果重置
 			'''
 		DisplayName: 真·突变驾到
+	}
+	
+	CelestialPrice: {
+		DisplayName: 天价
+		Description: 无法使用超新星，伤害减免和生命再生变为0
+	}
+
+	DragonBanish: {
+		Description: Banished by ancient draconic powers
+		DisplayName: Dragon Banish
 	}
 }
