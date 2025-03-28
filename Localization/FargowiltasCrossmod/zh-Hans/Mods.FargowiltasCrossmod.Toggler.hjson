@@ -1,0 +1,54 @@
+CalamitySoulHeader: 灾厄之魂
+VagabondsSoulHeader: 浪客之魂
+NanotechEffect: 纳米技术
+EclipseMirrorEffect: 日蚀魔镜
+AmalgamEffect: 聚合之脑
+AsgardianAegisEffect: 阿斯加德之庇护
+RampartofDeitiesEffect: 神之壁垒
+ElementalGauntletEffect: 元素之握
+EtherealTalismanEffect: 空灵护符
+CalamitySniperHeader: 灾厄 神枪手之魂
+ElementalQuiverEffect: 元素箭袋
+QuiverofNihilityEffect: 虚无箭袋
+NucleogenesisEffect: 核子之源
+StatisVoidSashEffect: 斯塔提斯的虚空饰带
+AbyssalDivingSuitEffect: 深渊潜游服
+BrandoftheBrimstoneWitchHeader: "{$Mods.FargowiltasCrossmod.Items.BrandoftheBrimstoneWitch.DisplayName}"
+HeartoftheElementsEffect: 元灵之心
+OccultSkullCrownEffect: 玄秘颅冠
+PurityEffect: 辐辉
+TheSpongeEffect: 化绵留香石
+ChaliceOfTheBloodGodEffect: 血神圣杯
+NebulousCoreEffect: 星云之核
+YharimsGiftEffect: "{$Mods.CalamityMod.Items.Accessories.YharimsGift.DisplayName}"
+DraedonsHeartEffect: 嘉登之心
+CalamityEffect: "{$Mods.CalamityMod.Items.Accessories.Calamity.DisplayName}"
+// gale
+GaleHeader: 风涛之力
+SnowRuffianEffect: 雪镜暴徒 滑翔能力
+GaleSlowfallEffect: 风涛之力 缓降
+StatigelEffect: 斯塔提斯 移动加伤
+SulphurEffect: 硫磺 泡泡跳跃
+VictideEffect: 胜潮 海胆尖刺
+GaleSpineEffect: 风涛之力 海胆尖刺
+DesertProwlerEffect: 沙漠巡游者 充能跳跃
+GaleJumpEffect: 风涛之力 无限跳跃
+// elements
+ElementsHeader: 元灵之力
+DaedalusEffect: 代达罗斯 强大箭矢
+ReaverEffect: 掠夺者 属性提升
+HydrothermicEffect: 熔渣 积蓄热量
+AerospecJumpEffect: 天蓝 跳跃加成
+// world shaper
+MarniteRepulsionEffect: 合成岩 斥力盾
+MarniteLasersEffect: 合成岩 激光
+// others
+WulfrumEffect: 钨钢 无人机
+PlaguebringerEffect: 瘟疫使者 疫染毒云
+PlagueReaperEffect: 瘟疫死神 减益蔓延
+TitanHeartEffect: 泰坦之心 肾上腺素充能速度
+UmbraphileEffect: 日影魔石 蝠群模式
+FathomSwarmerEffect: 幻渊鱼群 鮟鱇鱼
+BrimflameEffect: 硫火 硫火冲击波
+MolluskEffect: 软壳 猛冲
+EmpyreanEffect: 皇天 强化攻击

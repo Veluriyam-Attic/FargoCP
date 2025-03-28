@@ -1,0 +1,535 @@
+AddedEffects: {
+	AngelTreads: 获得天使之靴的效果
+	AeolusBoots: 获得风神之靴的效果
+	CalamitySupersonic: 获得斯塔提斯的虚空饰带的效果
+	ThoriumSuperSonic: 获得履空靴，求生家之飞鞋和举足轻重靴的效果
+	CalamityColossus: 获得聚合之脑，阿斯加德之庇护和神之壁垒的效果
+	ThoriumColossus:
+		'''
+		获得甜蜜的复仇，黑曜石鳞片和界元之庇佑
+		魂匣，岩石之心和刺甲贝的效果
+		'''
+	CalamityBerserker: 获得勇气勋章和元素之握的效果
+	ThoriumBerserker: 获得长剑徽章的效果
+	CalamityWizard: 获得空灵护符的效果
+	ThoriumWizard: 获得暗影催化剂的效果
+	CalamitySniper: 获得元素箭袋和虚无箭袋的效果
+	Vagabond: 获得纳米技术和日蚀魔镜的效果
+	ThoriumSniper: 获得震荡弹头的效果
+	CalamityConjurist: 获得核子之源的效果
+	ThoriumConjurist: 获得游马的皇之键和水晶蝎的效果
+	CalamityTrawler: 获得深渊潜游服的效果
+	CalamityWorldShaper: 获得合成岩建筑师的效果
+	ThoriumUniverse:
+		'''
+		增加15%投掷速度
+		获得投手大师指南：卷三
+		美人鱼水壶和亡者眼罩的效果
+		'''
+}
+
+OutlawsEssence: {
+	DisplayName: 狂徒精华
+	Tooltip:
+		'''
+		增加18%盗贼伤害
+		增加5%盗贼弹幕速度
+		增加5%盗贼暴击率
+		'''
+}
+
+VagabondsSoul: {
+	DisplayName: 浪客之魂
+	Tooltip:
+		'''
+		增加22%盗贼伤害
+		增加20%盗贼弹幕速度
+		增加10%盗贼暴击率
+		纳米核心和日蚀魔镜的效果
+		'''
+}
+
+ABombInMyNation: {
+	DisplayName: 蜜蜂奴役装置
+	Tooltip: 召唤瘟疫使者歌莉娅
+}
+
+AstrumCor: {
+	DisplayName: 星幻核
+	Tooltip: 召唤星神游龙
+}
+
+BirbPheromones: {
+	DisplayName: 癫痫信息素
+	Tooltip: 召唤痴愚金龙
+}
+
+BlightedEye: {
+	DisplayName: 枯萎之眼
+	Tooltip: 召唤灾厄之影
+}
+
+BloodyWorm: {
+	DisplayName: 血腥蠕虫
+	Tooltip: 召唤硫海遗爵
+}
+
+ChunkyStardust: {
+	DisplayName: 碎屑星尘
+	Tooltip: 召唤白金星舰
+}
+
+CryingKey: {
+	DisplayName: 泣寒之匙
+	Tooltip: 召唤极地之灵
+}
+
+DefiledCore: {
+	DisplayName: 神殇晶核
+	Tooltip: 召唤亵渎天神
+}
+
+DefiledShard: {
+	DisplayName: 神殇碎片
+	Tooltip: 召唤亵渎守卫
+}
+
+DragonEgg: {
+	DisplayName: 犽戎蛋
+	Tooltip: 召唤重生之龙，犽戎
+}
+
+PortableCodebreaker: {
+	DisplayName: 便携密码破译器
+	Tooltip: 召唤星流巨械
+}
+
+EyeofExtinction: {
+	DisplayName: 灭世之眼
+	Tooltip: 召唤至尊女巫，灾厄
+}
+
+FriedDoll: {
+	DisplayName: 焦炭娃娃
+	Tooltip: 召唤硫磺火元素
+}
+
+HiveTumor: {
+	DisplayName: 腐化肿瘤
+	Tooltip: 召唤腐巢意志
+}
+
+LetterofKos: {
+	DisplayName: 宇宙信函
+	Tooltip: 召唤神之使徒西格纳斯
+}
+
+MedallionoftheDesert: {
+	DisplayName: 荒漠勋章
+	Tooltip: 召唤荒漠灾虫
+}
+
+MurkySludge: {
+	DisplayName: 污浊淤泥
+	Tooltip: 召唤史莱姆之神
+}
+
+NoisyWhistle: {
+	DisplayName: 吵死哨笛
+	Tooltip: 召唤毁灭魔像
+}
+
+OphiocordycipitaceaeSprout: {
+	DisplayName: 真菌生物芽孢
+	Tooltip: 召唤菌生蟹
+}
+
+PolterplasmicBeacon: {
+	DisplayName: 灵质魂炬
+	Tooltip: 召唤噬魂幽花
+}
+
+RedStainedWormFood: {
+	DisplayName: 血蠕虫食物
+	Tooltip: 召唤血肉宿主
+}
+
+RiftofKos: {
+	DisplayName: 宇宙裂隙
+	Tooltip: 召唤无尽虚空
+}
+
+SeeFood: {
+	DisplayName: 河鲜饵料
+	Tooltip: 召唤渊海灾虫
+}
+
+SirensPearl: {
+	DisplayName: 海妖珍珠
+	Tooltip: 召唤阿娜希塔
+}
+
+SomeKindofSpaceWorm: {
+	DisplayName: 某种宇宙蠕虫
+	Tooltip: 召唤神明吞噬者
+}
+
+WormFoodofKos: {
+	DisplayName: 宇宙蠕虫食物
+	Tooltip: 召唤风暴编织者
+}
+
+AbandonedRemote: {
+	DisplayName: 废弃遥控装置
+	Tooltip:
+		'''
+		召唤装甲掘地虫
+		只能在地下使用
+		'''
+}
+
+ClamPearl: {
+	DisplayName: 蛤蜊珍珠
+	Tooltip:
+		'''
+		召唤巨像蛤
+		只能在沉沦之海使用
+		'''
+}
+
+ColossalTentacle: {
+	DisplayName: 巨型触手
+	Tooltip:
+		'''
+		召唤巨像乌贼
+		只能在深渊使用
+		'''
+}
+
+DeepseaProteinShake: {
+	DisplayName: 深海蛋白奶昔
+	Tooltip:
+		'''
+		召唤猎魂鲨
+		只能在深渊使用
+		'''
+}
+
+MaulerSkull: {
+	DisplayName: 狂鲨之颅
+	Tooltip:
+		'''
+		召唤渊海狂鲨
+		只能在硫磺海使用
+		'''
+}
+
+NuclearChunk: {
+	DisplayName: 辐核之物
+	Tooltip:
+		'''
+		召唤辐核骇兽
+		只能在硫磺海使用
+		'''
+}
+
+PlaguedWalkieTalkie: {
+	DisplayName: 瘟疫对讲机
+	Tooltip:
+		'''
+		召唤瘟疫使者
+		只能在丛林使用
+		'''
+}
+
+QuakeIdol: {
+	DisplayName: 地震玩偶
+	Tooltip:
+		'''
+		召唤大地元素
+		只能在地下使用
+		'''
+}
+
+StormIdol: {
+	DisplayName: 风暴玩偶
+	Tooltip: 召唤雨云元素
+}
+
+SulphurBearTrap: {
+	DisplayName: 硫磺捕兽夹
+	Tooltip:
+		'''
+		召唤峭咽潭
+		只能在硫磺海使用
+		'''
+}
+
+WyrmTablet: {
+	DisplayName: 妖龙石板
+	Tooltip:
+		'''
+		召唤幻海妖龙
+		只能在深渊使用
+		'''
+}
+
+BrandoftheBrimstoneWitch: {
+	DisplayName: 硫火女巫的烙印
+	Tooltip:
+		'''
+		拥有元灵之心、辐辉、化绵留香石、血神圣杯的效果
+		拥有星云之核、寻神者之礼、嘉登之心、灾厄的效果
+		'''
+}
+
+AerospecEnchant: {
+	DisplayName: 天蓝魔石
+	Tooltip:
+		'''
+		每次跳跃或二段跳后都会增加5%暴击率和5%召唤伤害
+		加成在你重置跳跃或使用坐骑后消失
+		'''
+	CritUp: +{0}% 暴击率
+	CritReset: -{0}% 暴击率
+}
+
+MarniteEnchant: {
+	DisplayName: 合成岩魔石
+	Tooltip:
+		'''
+		增加10%放置速度，放置距离+5
+		未使用武器或使用工具时会产生激光攻击附近敌人
+		获得[i:CalamityMod/MarniteRepulsionShield]合成岩斥力盾的效果
+		'''
+}
+
+DesertProwlerEnchant: {
+	DisplayName: 沙漠巡游者魔石
+	Tooltip:
+		'''
+		按住[上]可进行强大的充能跳跃并提升水平移速
+		只有处于地面上时才能进行充能跳跃
+		按住[下]时按[跳]可以快速向下俯冲
+		充能跳跃和俯冲都可以推开附近的敌人
+		俯冲击中地面的短时间内会推开附近的敌人同时造成伤害
+		'''
+}
+
+WulfrumEnchant: {
+	DisplayName: 钨钢魔石
+	Tooltip:
+		'''
+		召唤一架跟随光标的钨钢无人机
+		无人机会扫描碰撞到的敌怪
+		扫描敌怪可得知敌怪对减益类型的易伤与抗性
+		绿色表示对该减益有易伤，红色表示对减益有抗性
+		被扫描的敌怪受到伤害性减益的伤害增加固定伤害值
+		'''
+}
+
+GaleForce: {
+	DisplayName: 风涛之力
+	Tooltip:
+		'''
+		允许在空中无限跳跃
+		该效果生效时禁用翅膀
+		[i:FargowiltasCrossmod/DesertProwlerEnchant] 跳跃时按住[上]以快速跃起
+		[i:FargowiltasCrossmod/DesertProwlerEnchant] 跳跃时按住[下]以进行俯冲
+		[i:FargowiltasCrossmod/SnowRuffianEnchant] 按住[上]以缓慢坠落
+		[i:FargowiltasCrossmod/VictideEnchant] 按住[跳]会伸出海胆尖刺
+		[i:FargowiltasCrossmod/VictideEnchant] 生成六个海胆尖刺后下一次跳跃会向外发射并追踪目标
+		[i:FargowiltasCrossmod/SulphurEnchant] 海胆尖刺会额外造成硫磺海剧毒效果
+		[i:FargowiltasCrossmod/StatigelEnchant] 根据你的速度增加伤害, 最多增加40%
+		'''
+}
+
+SnowRuffianEnchant: {
+	DisplayName: 雪境暴徒魔石
+	Tooltip:
+		'''
+		如果没有翅膀，则获得滑翔能力
+		在翅膀滑翔时获得加速度
+		滑翔时按住[上]键可获得向上的动量
+		滑翔时按住[下]可增加水平加速度
+		'''
+}
+
+DaedalusEnchant: {
+	DisplayName: 代达罗斯魔石
+	Tooltip:
+		'''
+		增加25%飞行时间
+		在空中飞行一秒后，攻击会伴随着从天而降的强大箭矢
+		落地或受到攻击时移除加成，且受到攻击时额外减少一半飞行时间
+		'''
+}
+
+PlagueReaperEnchant: {
+	DisplayName: 瘟疫死神魔石
+	Tooltip: 所有减益将在敌人之间蔓延开来
+}
+
+PlaguebringerEnchant: {
+	DisplayName: 瘟疫使者魔石
+	Tooltip:
+		'''
+		所有攻击造成瘟疫减益
+		生成一个疫染毒云跟随着你，在靠近感染瘟疫减益的敌人时成长
+		成长到最大尺寸时，疫染毒云会迅速膨胀并停止跟随你
+		而是在原地停留一些时间
+		'''
+}
+
+ReaverEnchant: {
+	DisplayName: 掠夺者魔石
+	Tooltip: ""
+}
+
+HydrothermicEnchant: {
+	DisplayName: 渊泉魔石
+	Tooltip:
+		'''
+		攻击会积聚热量
+		热量积聚满时，停止攻击来散失热量
+		同时最高增加30%伤害减免，并朝着光标方向发射混沌烈焰
+		最多持续三秒
+		无论当前集聚多少热量如何，受到攻击也会散失热量
+		'''
+}
+
+ElementsForce: {
+	DisplayName: 元灵之力
+	Tooltip:
+		'''
+		[c/E03131:炎流模式:]
+		[i:FargowiltasCrossmod/ReaverEnchant] 增加30%伤害减免和30点防御
+		[i:FargowiltasCrossmod/HydrothermicEnchant] 攻击会积聚热量，热量积聚满时停止攻击或受到伤害会散失热量
+		[i:FargowiltasCrossmod/HydrothermicEnchant] 散失热量会给予掠夺者之怒，并召唤强大的混沌烈焰，最多持续3秒
+		[c/45A8EF:凛冰模式:]
+		[i:FargowiltasCrossmod/ReaverEnchant] 增加飞行时间、飞行速度、生命再生速度、钩爪速度并减少冲刺冷却
+		[i:FargowiltasCrossmod/AerospecEnchant] 持续停留在空中会增加至多50%的伤害
+		[i:FargowiltasCrossmod/DaedalusEnchant] 在空中飞行一秒后，攻击会伴随着从天而降的强大箭矢
+		'''
+}
+
+UmbraphileEnchant: {
+	DisplayName: 日影魔石
+	Tooltip: ""
+}
+
+TitanHeartEnchant: {
+	DisplayName: 泰坦之心魔石
+	Tooltip:
+		'''
+		肾上腺素充能速度增加20%，落地时速度增加70%
+		根据肾上腺素的充能进度增加伤害减免，最多增加15%伤害减免
+		最大移动速度和加速度增加5%
+		'''
+}
+
+StatigelEnchant: {
+	DisplayName: 斯塔提斯魔石
+	Tooltip:
+		'''
+		增加最大移动速度但大幅降低加速度
+		根据移动速度提升伤害，最多增加35%伤害
+		'''
+}
+
+SulphurEnchant: {
+	DisplayName: 硫磺魔石
+	Tooltip:
+		'''
+		可以进行硫磺套装的额外跳跃，同时会生成一个硫磺泡泡
+		当你击破泡泡时会生成伤害性气体
+		'''
+}
+
+VictideEnchant: {
+	DisplayName: 胜潮魔石
+	Tooltip:
+		'''
+		海胆尖刺会从玩家身体中伸出，伤害接触到的敌怪
+		尖刺附着在你身上时增加四点防御力
+		攻击会为尖刺充能，充能完毕后停止攻击时尖刺会向外发射
+		'''
+}
+
+Lore.LoreDraedon.DisplayName: 嘉登
+
+FathomSwarmerEnchant: {
+	DisplayName: 幻渊鱼群魔石
+	Tooltip:
+		'''
+		召唤一个跟随你鼠标的鮟鱇鱼宠物
+		鮟鱇鱼的光可以减缓敌人和敌人弹幕的速度
+		'''
+}
+
+AstralEnchant: {
+	DisplayName: 星幻魔石
+	Tooltip: 你的身后将跟随着一条伤害性的幻星
+}
+
+BrimflameEnchant: {
+	DisplayName: 硫火魔石
+	Tooltip:
+		'''
+		按下[减益负载]来舍弃所有防御并向四周释放一阵硫火冲击波
+		防御力消耗越多造成的伤害越高
+		你的防御力会随着时间逐渐恢复
+		只能在达到当前最大防御值时使用该效果
+		'''
+	DefenseDown: -{0}防御
+	DefenseUp: +{0}防御
+}
+
+MolluskEnchant: {
+	DisplayName: 软壳魔石
+	Tooltip:
+		'''
+		按下[特殊冲刺]来迅速向下猛冲
+		击中敌人会造成巨大伤害并赋予你无敌帧
+		只有在命中敌人时才会冷却
+		'''
+}
+
+# This is used to detect and remove lines, not displayed. Must match Cal's localization.
+NotConsumable: 不消耗
+
+EmpyreanEnchant: {
+	DisplayName: 皇天魔石
+	Tooltip:
+		'''
+		缓慢移动或静止两秒后会使你的下一次攻击得到强化
+		强化攻击造成两倍伤害, 恢复20点生命值
+		同时充满怒气, 并在碰撞时产生可以追踪的皇天落星
+		该效果有4-12秒的冷却,怒气值越多冷却越短
+		'''
+}
+
+Archmage: {
+	DisplayName: 大法师
+	Tooltip: “我看你骨骼惊奇，很有魔法天赋. 告诉我，你对冰魔法怎么看？”
+}
+
+SeaKing: {
+	DisplayName: 海王
+	Tooltip: “家园陷落，国民散轶……但我会帮助你去纪念他们”
+}
+
+Bandit: {
+	DisplayName: 强盗
+	Tooltip: “只要使劲扔，万物皆武器”
+}
+
+DrunkPrincess: {
+	DisplayName: 醉仙女
+	Tooltip: 谁爱复制粘贴引文谁复制去，管他呢
+}
+
+BrimstoneWitch: {
+	DisplayName: 硫火女巫
+	Tooltip: “如果有什么你需要的诅咒被不慎解除了……好吧我也不是你的人”
+}

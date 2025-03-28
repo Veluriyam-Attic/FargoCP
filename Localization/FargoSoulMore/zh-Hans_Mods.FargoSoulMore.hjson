@@ -15,7 +15,8 @@ Items: {
 		DisplayName: 僭越之魂
 		Tooltip:
 			'''
-			免疫突变重生，时间冻结，大力投掷，时停冷却，憎恶冷却，狂暴冷却，憎恶毒牙，憎恶驾到，噬神者，突变毒牙，突变驾到，热恋，假心，戴维安驾到
+			免疫突变重生，时间冻结，大力抛投，时停冷却，憎恶冷却，
+			狂暴冷却，憎恶毒牙，憎恶驾到，噬神者，突变毒牙，突变驾到，热恋，假心，戴薇安驾到
 			拥有[i:FargowiltasSouls/EternitySoul]永恒之魂，[i:FargoSoulMore/TyrantSoul]暴君之魂以及[i:FargoSoulMore/DemolishersSoul]歼灭者之魂的效果
 			[i:FargowiltasSouls/AbominableWand]受到致命伤害时，保留1点生命值并避免死亡，再次恢复到满生命值后，免死效果恢复
 			增加闪烁崇心的擦弹伤害加成，红心发射冷却减半，暴击时偶尔会召唤幽灵憎恶
@@ -42,7 +43,6 @@ Items: {
 	}
 
 	PhantasmalEnchantment: {
-		DisplayName: 幻影魔石
 		Tooltip:
 			'''
 			免疫突变毒牙, 突变驾到, 噬神者减益
@@ -56,7 +56,7 @@ Items: {
 			你的攻击会施加突变毒牙
 			'非常可疑'
 			'''
-		
+		DisplayName: 幻影魔石
 	}
 
 	TrueMutantEnergy: {
@@ -213,10 +213,10 @@ Items: {
 		DisplayName: 毁灭之力
 		Tooltip:
 			'''
-			[i:FargoSoulMore/DaedalusEnchantment] 永冻大法师将寒元之力加持与你
-			[i:FargoSoulMore/HydrothermicEnchantment] 深渊中层的温度灼热却舒适
-			[i:FargoSoulMore/ReaverEnchantment] 古代丛林部落的祝福
-			[i:FargoSoulMore/PlaguebringerEnchantment] 草本为你献上新时代的礼物
+			[i:FargoSoulMore/DaedalusEnchantment] 代达罗斯套装、宝光盾牌和代达罗斯魔石效果
+			[i:FargoSoulMore/HydrothermicEnchantment] 渊泉套装、终结虚空和渊泉魔石效果
+			[i:FargoSoulMore/ReaverEnchantment] 掠夺者套装、生命露珠和掠夺者魔石效果
+			[i:FargoSoulMore/PlaguebringerEnchantment] 瘟疫使者魔石和绽花石效果
 			'''
 	}
 
@@ -396,6 +396,7 @@ Items: {
 			[i:FargoSoulMore/IllumiteEnchantment] 获得核弹头配件, 荧光套装的效果
 			[i:FargoSoulMore/ShadeMasterEnchantment] 获得忍者魔符, 暗影大师套装的效果
 			[i:FargoSoulMore/TerrariumEnchantment] 获得界元音箱, 界元之庇佑、元素粒子加速靴, 瑟银魔石, 元素之灵套装的效果
+			'世界的顶点'
 			'''
 	}
 
@@ -410,7 +411,6 @@ Items: {
 			'万物皆有灵'
 			'''
 	}
-
 
 	BloomingEnchantment: {
 		DisplayName: 绽花魔石
@@ -437,7 +437,6 @@ Items: {
 	}
 
 	BrimflameEnchantment: {
-		DisplayName: 硫火魔石
 		Tooltip:
 			'''
 			[i:CalamityMod/SigilofCalamitas] 
@@ -453,20 +452,17 @@ Items: {
 			硫火狂暴有30秒冷却时间
 			'恨火不息'
 			'''
-		
+		DisplayName: 硫火魔石
 	}
 
 	AstralEnchantment: {
-		DisplayName: 星幻魔石
 		Tooltip:
 			'''
 			[i:CalamityMod/UrsaSergeant] 
 			降低15%移动速度
 			使你免疫幻星感染和野性咬噬减益
 			生命值较低时增加生命再生
-			[i:CalamityMod/GravistarSabaton] 
-			增加20%跳跃速度
-			免疫摔落伤害
+			[i:CalamityMod/GravistarSabaton] 增加20%跳跃速度，免疫摔落伤害
 			按“下”键增加你的最大下落速度
 			在半空中按引力靴猛击1秒会充能一次极速猛击
 			猛击时你可以撞击穿过敌人而不受到接触伤害
@@ -480,11 +476,10 @@ Items: {
 			此效果1秒内最多触发一次
 			'炫星之辉照耀着你'
 			'''
-		
+		DisplayName: 星幻魔石
 	}
 
 	FearmongerEnchantment: {
-		DisplayName: 神惧者魔石
 		Tooltip:
 			'''
 			增加3个召唤栏
@@ -499,14 +494,14 @@ Items: {
 			这15%伤害减免无视减伤率软上限
 			'畏惧自己'
 			'''
-		
+		DisplayName: 神惧者魔石
 	}
 
 	XerocEnchantment: {
-		DisplayName: 克希洛克魔石
 		Tooltip:
 			'''
 			当弹幕击中敌人时，它会生成彩虹追踪弹幕
+			将移动速度降低至50%
 			增加200%点最大生命值
 			增加50点最大潜行值
 			获得皇天盔甲的套装奖励：
@@ -516,11 +511,10 @@ Items: {
 			受伤时受到来自宇宙的怒火加持
 			'克希洛克的局部显现'
 			'''
-		
+		DisplayName: 克希洛克魔石
 	}
 
 	AnnihilationForce: {
-		DisplayName: 湮灭之力
 		Tooltip:
 			'''
 			[i:FargoSoulMore/FearmongerEnchantment] 增加4个召唤栏，增加130最大魔力值，增加70%移动速度
@@ -535,12 +529,10 @@ Items: {
 			根据移动速度提高伤害，最多提升15%伤害
 			'重新定义世界末日'
 			'''
-		
+		DisplayName: 湮灭之力
 	}
 
-
 	BloodflareEnchantment: {
-		DisplayName: 血炎魔石
 		Tooltip:
 			'''
 			当弹幕击中敌人时，有20%的概率治疗2点生命
@@ -563,12 +555,11 @@ Items: {
 			+120点最大潜行值
 			高于80%生命时增加30防御力，提高5%盗贼伤害，低于80%生命时提高10%盗贼伤害，盗贼武器暴击有50%几率治疗你
 			'血液已经沸腾了'
-			''' 
-		 
+			'''
+		DisplayName: 血炎魔石
 	}
 
 	TarragonEnchantment: {
-		DisplayName: 龙嵩魔石
 		Tooltip:
 			'''
 			当弹幕击中敌人时，会造成神圣之火减益
@@ -594,11 +585,10 @@ Items: {
 			若你受到减益影响，则提升10%盗贼伤害
 			'远古神明之力'
 			'''
-		
+		DisplayName: 龙嵩魔石
 	}
 
 	GodSlayerEnchantment: {
-		DisplayName: 弑神者魔石
 		Tooltip:
 			'''
 			当弹幕击中敌人时，会造成弑神怒焰减益，并且有1%的概率恢复1%最大生命值
@@ -621,15 +611,14 @@ Items: {
 			如果一次攻击对你造成了超过80伤害，你获得额外的无敌帧
 			'宇宙掠食者的可怕威慑'
 			'''
-		
+		DisplayName: 弑神者魔石
 	}
 
 	SilvaEnchantment: {
-		DisplayName: 始源林海魔石
 		Tooltip:
 			'''
 			当弹幕击中敌人时，会生成魔法飞弹
-			延长1秒受伤后无敌时间
+			延长受伤后无敌时间，具体值为1“Fargo帧”
 			获得始源林海盔甲的套装奖励：
 			所有弹幕击中敌人时生成林海光球治疗你
 			最大跑动速度和加速度提高5%
@@ -642,11 +631,10 @@ Items: {
 			召唤始源林海水晶轰击你的敌人
 			'最为纯粹的自然能量'
 			'''
-		
+		DisplayName: 始源林海魔石
 	}
 
 	AuricTeslaEnchantment: {
-		DisplayName: 古圣金源魔石
 		Tooltip:
 			'''
 			[i:CalamityMod/PermafrostsConcoction] 增加50点最大魔力值并降低15%魔力消耗
@@ -669,11 +657,10 @@ Items: {
 			你的奔跑速度如同在沥青块上疾跑
 			'无尽的圣金源魄'
 			'''
-		
+		DisplayName: 古圣金源魔石
 	}
 
 	ExaltationForce: {
-		DisplayName: 飞升之力
 		Tooltip:
 			'''
 			[i:CalamityMod/PermafrostsConcoction] 拥有永冻秘药的效果
@@ -684,11 +671,10 @@ Items: {
 			延长1秒受伤后无敌时间, 增加8点生命再生, 增加100点最大生命值, 增加10%伤害减免, 增加1个召唤栏
 			'旅行的终点'
 			'''
-		
+		DisplayName: 飞升之力
 	}
 
 	DemolishersSoul: {
-		DisplayName: 歼灭者之魂
 		Tooltip:
 			'''
 			增加50点生命恢复, 1000最大生命值, 300% 近战伤害
@@ -696,11 +682,10 @@ Items: {
 			当弹幕击中敌人时，它会随机恢复你的随机生命（1-20），并且造成超位崩解减益
 			'他们妄想摧毁我们的造物'
 			'''
-		
+		DisplayName: 歼灭者之魂
 	}
 
 	FathomSwarmerEnchantment: {
-		DisplayName: 幻渊鱼群魔石
 		Tooltip:
 			'''
 			[i:CalamityMod/CorrosiveSpine] 增加5%移动速度
@@ -714,11 +699,10 @@ Items: {
 			在深渊提供适量光照，并适度减少深渊中的氧气损耗
 			'鱼群相拥'
 			'''
-		
+		DisplayName: 幻渊鱼群魔石
 	}
 
 	OmegaBlueEnchantment: {
-		DisplayName: 蓝色欧米茄魔石
 		Tooltip:
 			'''
 			增加5%伤害减免, 1个召唤栏, 50的护甲穿透
@@ -733,11 +717,10 @@ Items: {
 			此效果有25秒冷却时间
 			'深渊最黑暗的波流'
 			'''
-		
+		DisplayName: 蓝色欧米茄魔石
 	}
 
 	MolluskEnchantment: {
-		DisplayName: 软壳魔石
 		Tooltip:
 			'''
 			[i:CalamityMod/GiantPearl] 	光明之环环绕身周
@@ -756,23 +739,21 @@ Items: {
 			水平移动速度降低
 			'大海荣光'
 			'''
-		
+		DisplayName: 软壳魔石
 	}
 
 	DesolationForce: {
-		DisplayName: 虚寂之力
 		Tooltip:
 			'''
-			增加5%伤害减免,3个召唤栏, 50的护甲穿透, 增加110%的召唤伤害
+			增加5%伤害减免,3个召唤栏, 50的护甲穿透, 增加200%的召唤伤害
 			拥有[i:CalamityMod/UrsaSergeant] 大熊座雀鲷, [i:CalamityMod/GiantPearl] 大珍珠, [i:CalamityMod/AquaticEmblem] 海波纹章, [i:CalamityMod/VampiricTalisman] 吸血鬼符咒, [i:CalamityMod/ReaperToothNecklace] 猎魂鲨齿项链bb, [i:CalamityMod/CorrosiveSpine] 腐蚀脊椎, [i:CalamityMod/GravistarSabaton] 引力靴的效果
 			获得软壳盔甲, 拥有蓝色欧米茄盔甲, 幻渊鱼群盔甲, 日影盔甲, 星幻盔甲的套装奖励
 			'足以统治深渊的力量'
 			'''
-		
+		DisplayName: 虚寂之力
 	}
 
 	DemonshadeEnchantment: {
-		DisplayName: 魔影魔石
 		Tooltip:
 			'''
 			增加30%伤害减免, 30生命恢复, 3个召唤栏, 300最大生命值
@@ -793,14 +774,13 @@ Items: {
 			这道咒语使他们对你额外造成25%伤害，同时额外受到125%伤害
 			'暗魔魇影'
 			'''
-		
+		DisplayName: 魔影魔石
 	}
 
 	TideTurnerEnchantment: {
-		DisplayName: 洪流逆潮魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/AbyssalShell] P按下包裹键会将你置于坚固的壳中
+			[i:ThoriumMod/AbyssalShell] 按下包裹键会将你置于坚固的壳中
 			被包裹时无法使用物品或治疗药水，生命再生大幅减少且几乎不能造成伤害
 			离开壳会短暂大幅降低你的速度，伤害减免和伤害
 			离开壳后的20秒内无法再次使用壳
@@ -811,11 +791,10 @@ Items: {
 			投掷伤害有20%概率在你周围释放追踪海潮飞刀
 			'难道我就是扭转了潮流和世界之人？'
 			'''
-		
+		DisplayName: 洪流逆潮魔石
 	}
 
 	AssassinEnchantment: {
-		DisplayName: 刺客魔石
 		Tooltip:
 			'''
 			[i:ThoriumMod/MirroroftheBeholder] 你可以看到当前光标位置的视野
@@ -826,11 +805,10 @@ Items: {
 			此效果只能在Boss生命值低于5%时生效
 			'潜行···'
 			'''
-		
+		DisplayName: 刺客魔石
 	}
 
 	PyromancerEnchantment: {
-		DisplayName: 炎法魔石
 		Tooltip:
 			'''
 			[i:ThoriumMod/IceBoundStriderHide] 对减速目标造成的伤害增加15%
@@ -842,11 +820,10 @@ Items: {
 			所有召唤伤害会滞留下造成大量伤害的灼烧
 			'焚烧···'
 			'''
-		
+		DisplayName: 炎法魔石
 	}
 
 	DreamWeaverEnchantment: {
-		DisplayName: 梦境编织者魔石
 		Tooltip:
 			'''
 			[i:ThoriumMod/TheOmegaCore] 无法理解地增加移动速度
@@ -858,11 +835,10 @@ Items: {
 			在梦中时，被治疗的队友会变得短暂无敌且所有减益都会被治愈
 			'梦境吞噬者的权能'
 			'''
-		
+		DisplayName: 梦境编织者魔石
 	}
 
 	RhapsodistEnchantment: {
-		DisplayName: 狂想者魔石
 		Tooltip:
 			'''
 			[i:ThoriumMod/Phylactery] 每四分钟，受到致命伤害时会将你恢复到25%生命值时
@@ -874,11 +850,10 @@ Items: {
 			使用此能力需要20点灵感值且必须重新充能1分钟
 			'狂想曲之力'
 			'''
-		
+		DisplayName: 狂想者魔石
 	}
 
 	ForceOfAsgard: {
-		DisplayName: 阿斯加德之力
 		Tooltip:
 			'''
 			[i:FargoSoulMore/PyromancerEnchantment] 获得炎法盔甲的套装奖励和遁蛛冰皮的效果
@@ -888,7 +863,7 @@ Items: {
 			[i:FargoSoulMore/RhapsodistEnchantment]获得狂想者盔甲的套装奖励和魂匣的效果
 			'世界的顶点'
 			'''
-		
+		DisplayName: 阿斯加德之力
 	}
 	
 	PrismaticEnchantment: {
@@ -906,12 +881,12 @@ Items: {
 	GemTechEnchantment: {
 		Tooltip:
 			'''
-			按“超新星”键召唤超新星爆炸
-			爆炸造成最大生命值的50倍伤害
-			After using explosion, Celestial Price debuff will be inflicted to player
-			Celestial Price sets life regeneration and damage reduction to 0
-			Effects of Gem Tech Armor
-			'Jewels'
+			按“超新星”键来召唤超新星爆炸
+			爆炸伤害为你最大生命值的50倍
+			爆炸之后，玩家将受到天界代价减益
+			此减益将玩家的生命再生和伤害减免降至0
+			获得天钻套的套装奖励
+			'珠光宝气'
 			'''
 		DisplayName: 天钻魔石
 	}
@@ -1027,14 +1002,14 @@ Buffs: {
 			'''
 		DisplayName: 真·突变驾到
 	}
-	
+
 	CelestialPrice: {
-		DisplayName: 天价
-		Description: 无法使用超新星，伤害减免和生命再生变为0
+		DisplayName: 天界代价
+		Description: 无法使用超新星，伤害减免和生命再生归零
 	}
 
 	DragonBanish: {
-		Description: Banished by ancient draconic powers
-		DisplayName: Dragon Banish
+		Description: 被远古巨龙之力驱逐
+		DisplayName: 龙之驱逐
 	}
 }

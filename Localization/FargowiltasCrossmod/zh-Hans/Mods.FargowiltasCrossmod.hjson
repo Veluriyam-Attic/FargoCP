@@ -1,0 +1,102 @@
+EternityRevDifficulty: {
+	Name: 永恒-复仇
+	ShortDescription: "[c/00FFFF:以Fargo的永恒模式为主并包含了部分][c/880808:复仇模式][c/00FFFF:更改的更具挑战性的难度]"
+	ExpandedDescription:
+		'''
+		融合了[c/00FFFF:永恒模式]与[c/880808:复仇模式]，Boss会掉落大师模式专属物品
+
+		部分灾厄Boss获得了新的[c/00FFFF:永恒模式]AI
+		当前制作进度:
+		    -灾厄之影前全Boss
+		    -硫海遗爵
+		    -星流巨械
+		剩余Boss的永恒模式新AI仍在制作中!
+
+		默认[c/00FFFF:永恒模式]AI优先于[c/880808:复仇模式]，可在模组配置设定中更改
+
+		[c/00FFFF:永恒模式]更改:
+		{$Mods.FargowiltasSouls.UI.ExpandedFeatures}
+
+		[i:1612][c/00ff00:建议打开Fargo's Mutant Mod的头顶显示减益相关效果（在模组的客户端配置设定中）]
+
+		'''
+	Activation: 永恒-复仇模式已开启！
+	Deactivation: 永恒-复仇模式已关闭
+}
+
+EternityDeathDifficulty: {
+	Name: 永恒-死亡
+	ShortDescription: "[c/00FFFF:以Fargo的永恒模式为主并包含了部分][c/800080:死亡模式][c/00FFFF:更改和额外的原版Boss AI修改的更具挑战性的难度]"
+	ExpandedDescription:
+		'''
+		融合了[c/00FFFF:永恒模式]与[c/880808:死亡模式]，Boss会掉落大师模式专属物品
+		[c/00FFFF:您可以体验到下列内容] 
+
+		部分灾厄Boss获得了新的[c/00FFFF:永恒模式]AI
+		当前制作进度:
+		    -灾厄之影前全Boss
+		    -硫海遗爵
+		    -星流巨械
+		剩余Boss的永恒模式新AI仍在制作中!
+		仅永恒-死亡模式下: 为一些原版Boss的[c/00FFFF:永恒模式]AI添加了部分[c/880808:死亡模式]的攻击方式
+
+		默认[c/00FFFF:永恒模式]AI优先于[c/880808:死亡模式]，可在模组配置设定中更改
+
+		[c/00FFFF:永恒模式]更改:
+		{$Mods.FargowiltasSouls.UI.ExpandedFeatures}
+
+		[i:1612][c/00ff00:建议打开Fargo突变的头顶显示减益相关效果（在模组的客户端配置设定中）]
+
+		'''
+	Activation: 永恒-死亡模式已开启！
+	Deactivation: 永恒-死亡模式已关闭
+}
+
+UI: {
+	ToggledWithCal: 请使用灾厄的难度指示器
+	HadesIconMessage: 哈迪斯，一条装备着厚重铠甲、搭载了无数机关炮的恐怖巨蟒
+	AresIconMessage: 阿瑞斯，一个搭载着四台可装卸超级星流武器的庞然巨物
+	ArtemisAndApolloIconMessage: 阿尔忒弥斯与阿波罗，一对能量储备十分不稳定的超敏捷自动机器
+}
+
+Buffs: {
+	CalamitousPresenceBuff: {
+		Description:
+			'''
+			防御、伤害减免和生命再生降低
+			月蛭效果；缩小擦弹范围
+			'''
+		DisplayName: 灾厄驾到
+	}
+}
+
+Cooldowns.DaedalusPlatformCooldown: 代达罗斯平台
+
+ExpandedTooltips: {
+	FountainAstral: 激活后将周围的生物群落环境变为星辉瘟疫（仅在困难模式下）
+	FountainCrags: 激活后将周围的生物群落环境变为硫火之崖
+	FountainSulphur: 激活后将周围的生物群落环境变为硫磺海
+	FountainSunken: 激活后将周围的生物群落环境变为沉沦之海
+	MasoModeDisabled: "[c/FF0000:灾厄联动支持：] 使用灾厄的难度指示器来启用永恒模式!"
+	UsablePostMutant: "[c/FF0000:灾厄联动支持：] 只能在击败突变体后使用"
+	DisabledByDefault: "[c/FF0000:灾厄联动支持：] 功能默认为关闭状态"
+}
+
+RecipeGroups: {
+	GildedDagger: 闪亮匕首或镀金匕首
+	EvilBar: 魔矿/猩红锭
+	VictideHelmet: 胜潮头部盔甲
+	AerospecHelmet: 天蓝头部盔甲
+	StatigelHelmet: 斯塔提斯头部盔甲
+	ReaverHelmet: 掠夺者头部盔甲
+	DaedalusHelmet: 代达罗斯头部盔甲
+	HydrothermicHelmet: 渊泉头部盔甲
+}
+
+BossRushDialogue: {
+	Start: 让我们开始吧
+	EndP1_1: 毫无趣味
+	EndP1_2: 没必要继续浪费时间了
+}
+
+EmodeBannedByInfernum: "[c/00ffee:永恒模式]被[c/9c0000:炼狱模式]禁用"

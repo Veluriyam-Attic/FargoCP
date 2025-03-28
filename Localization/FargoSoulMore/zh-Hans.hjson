@@ -1,0 +1,9 @@
+Mods: {
+	FargoSoulMore: {
+		Keybinds: {
+			StarWrath.DisplayName: 星雨
+			Supernova.DisplayName: 现实破碎者
+			SuperNova.DisplayName: 超新星
+		}
+	}
+}

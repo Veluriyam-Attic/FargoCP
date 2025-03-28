@@ -1,0 +1,19 @@
+CrossBalanceGeneric: 联动平衡调整：
+DamageUpGeneric: 伤害增加{0}%
+DamageDownGeneric: 伤害减少{0}%
+PickPowerDownGeneric: 镐力降低{0}%
+MagicDagger: 困难模式前伤害降低50%
+ProfanedCrystal: 在存在任何仆从时大幅降低伤害
+MythrilEnch: 对盗贼武器加成减少
+OrichalcumEnch: 减益伤害的增加削弱至1.5倍
+Daawnlight: 锡魔石生效时失效
+SlimyShield: 不会造成涂油减益
+FlightMastery: 当与非Fargo's Souls Mod的boss战斗时，减少飞行属性
+EarthForce: 减益伤害的增加削弱至2倍
+LifeForce: 当与非Fargo's Souls Mod的boss战斗时，减少飞行属性和飞行时间
+OnionPackUpgrade: 现在作为[i:FargowiltasSouls/MutantsPact]突变体契约的升级，以允许将任何饰品放入其提供的栏位
+Laudanum: 减半大多数增益效果
+HardmodeSwords: 减少提供的属性加成
+OceanCrest: 提供对各类入水造成的永恒模式debuff的免疫
+// truth be told I have absolutely no idea what this enchantment is so the key name is just that
+CalEnch: 累计伤害上限为500.000

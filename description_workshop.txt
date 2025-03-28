@@ -4,9 +4,10 @@
 汉化质量差，请多多来群里反馈骂我
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2847120725&searchtext=]Fargo突变与魂石汉化 [/url] 
+[url=https://github.com/Veluriyam-Attic/FargoCP]本汉化开源库[/url]
 
 [h1]†Ξ介绍Ξ†[/h1]
-本品为由玲珑汉化组和ROH共同制作的汉化
+本品为由玲珑汉化组、ROH、狐狸、芸笙和依稀共同制作的汉化
 汉化进度：99%
 适配模组列表
 （标注*的为有硬编码内容还未解决，后续会更新）
@@ -78,4 +79,4 @@ StarlightCat的Fargo魂石拓展
 [/code] 
 
 [quote=虞悖] 致谢：
-Fargo汉化人员&玲珑汉化组&狐狸&芸笙[/quote]
+Fargo汉化人员&玲珑汉化组&狐狸&芸笙&依稀[/quote]

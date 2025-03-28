@@ -107,25 +107,25 @@ Items: {
 	}
 
 	DaedalusEnchantment: {
-		DisplayName: Daedalus Enchantment
+		DisplayName: Daedalus Enchantment EX
 		Tooltip:
 			'''
 			[i:CalamityMod/OrnateShield] Allows the ability to ram dash, this dash can slam through enemies without taking damage
 			Immunity to Chilled, Frostburn, Frostbite and Frozen
-			Effects of Daedalus Armor
+			Effects of Daedalus Armor and Daedalus Enchantment
 			'Cryonic'
 			'''
 	}
 
 	ReaverEnchantment: {
-		DisplayName: Reaver Enchantment
+		DisplayName: Reaver Enchantment EX
 		Tooltip:
 			'''
 			[i:CalamityMod/LivingDew] Increases max life by 50
 			Grants +1 life regen and an additional +1 life regen when inflicted with a damage debuff
 			Standing still in Honey grants +1.5 life regeneration
 			Halves how long you are afflicted with fire and sickness debuffs
-			Effects of Reaver Armor
+			Effects of Reaver Armor and Reaver Enchantment
 			'It's living'
 			'''
 	}
@@ -145,13 +145,13 @@ Items: {
 	}
 
 	HydrothermicEnchantment: {
-		DisplayName: Hydrothermic Enchantment
+		DisplayName: Hydrothermic Enchantment EX
 		Tooltip:
 			'''
 			[i:CalamityMod/VoidofExtinction] 13% increased critical strike chance
 			Critical strikes explode, causing nearby enemies to ignite with Brimstone Flames
 			Reduces Brimstone Flames debuff damage
-			Effects of Hydrothermic Armor
+			Effects of Hydrothermic Armor and Hydrothermic Enchantment
 			'Warm'
 			'''
 	}
@@ -160,9 +160,9 @@ Items: {
 		DisplayName: Force of Devastation
 		Tooltip:
 			'''
-			[i:FargoSoulMore/DaedalusEnchantment] Effects of Daedalus Armor, Ornate Shield
-			[i:FargoSoulMore/HydrothermicEnchantment] Effects of Hydrothermic Armor, Void of Extinction
-			[i:FargoSoulMore/ReaverEnchantment] Effects of Reaver Armor, Living Dew
+			[i:FargoSoulMore/DaedalusEnchantment] Effects of Daedalus Armor, Ornate Shield and Daedalus Enchantment
+			[i:FargoSoulMore/HydrothermicEnchantment] Effects of Hydrothermic Armor, Void of Extinction and Hydrothermic Enchantment
+			[i:FargoSoulMore/ReaverEnchantment] Effects of Reaver Armor, Living Dew and Daedalus Enchantment
 			[i:FargoSoulMore/PlaguebringerEnchantment] Effects of Plaguebringer Armor, Bloom Stone
 			'''
 	}
@@ -171,7 +171,7 @@ Items: {
 		DisplayName: Tyrant Soul
 		Tooltip:
 			'''
-			[i:FargoSoulMore/TyrantSoul] Effects of Demonshade Enchantment and all ingredient Forces
+			[i:FargoSoulMore/TyrantSoul] Effects of all ingredient Forces and Enchantments
 			[i:CalamityMod/TheEvolution] You reflect projectiles when they hit you, reflected projectiles deal no damage to you, projectiles that deal less than 5% of your max life in damage will not be reflected
 			Reflect has a cooldown that ranges between 15 and 90 seconds depending on the reflected projectile's damage, this cooldown is shared with all other dodges and reflects
 			After reflecting, grants +1 life regen and accelerated life regen for 5 seconds, if the same enemy projectile type hits you again you will resist its damage by 15%
@@ -209,12 +209,12 @@ Items: {
 	}
 
 	TitanHeartEnchantment: {
-		DisplayName: Titan Heart Enchantment
+		DisplayName: Titan Heart Enchantment EX
 		Tooltip:
 			'''
 			[i:CalamityMod/AeroStone] Provides an additional 50 flight time
 			You slowly recover flight time while in the air if you are not flying or gliding
-			Effects of Titan Heart Armor
+			Effects of Titan Heart Armor and Titan Heart Enchantment
 			'Atlas'
 			'''
 	}
@@ -681,6 +681,126 @@ Items: {
 			'''
 		DisplayName: Force of Asgard
 	}
+
+	PrismaticEnchantment: {
+		Tooltip:
+			'''
+			Press "Star Rain" key to rain down three stars
+			Effects of Prismatic Armor
+			'Colorful'
+			'''
+		DisplayName: Prismatic Enchantment
+	}
+
+	GemTechEnchantment: {
+		Tooltip:
+			'''
+			Press "Reality Shatterer" key to summon reality-shattering explosion
+			Explosion deals 50x of your maximum life value as damage
+			After using explosion, Celestial Price debuff will be inflicted to player
+			Celestial Price sets life regeneration and damage reduction to 0
+			Effects of Gem Tech Armor
+			'Jewels'
+			'''
+		DisplayName: Gem Tech Enchantment
+	}
+
+	SpiritTrapperEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/InnerFlame] After healing a nearby ally, a life spirit is released from you
+			This spirit seeks out your ally with the lowest life and heals them for 2 life
+			Effects of Spirit Trapper Armor
+			'''
+		DisplayName: Spirit Trapper Enchantment
+	}
+
+	SilkEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/ArtificersFocus] Pressing and holding the 'Accessory Ability' key will channel artificer's energy
+			Every second channeled increases your next damage by 20 up to 100
+			Effects of Silk Armor
+			'''
+		DisplayName: Silk Enchantment
+	}
+
+	MalignantEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/ArtificersShield] Reduces the amount of knockback you take from getting hit
+			Grants 2 defense for every 20 artificer's energy you have
+			Taking damage saps 20 artificer's energy
+			[i:FargoSoulMore/SilkEnchantment] Effects of Silk Enchantment
+			'''
+		DisplayName: Malignant Enchantment
+	}
+
+	DreadEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/CrashBoots] 8% increased movement speed and run acceleration
+			Running builds up momentum and increases movement speed
+			Crashing into an enemy releases all stored momentum, catapulting the enemy
+			[i:FargoSoulMore/DragonEnchantment] Effects of Dragon Enchantment
+			Effects of Dread Armor
+			'''
+		DisplayName: Dread Enchantment
+	}
+
+	DragonEnchantment: {
+		Tooltip:
+			'''
+			Your attacks inflict Dragon Banish damage over time debuff
+			Effects of Dragon Armor
+			'''
+		DisplayName: Dragon Enchantment
+	}
+
+	WhiteKnightEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/SmotheringBand] Every eighth magic cast costs no mana
+			Effects of White Knight Armor
+			'''
+		DisplayName: White Knight Enchantment
+	}
+
+	FleshEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/VampireGland] Your damage will have a 10% chance to cause an eruption of blood
+			This blood can be picked up by players to heal themselves for 15% of the damage you dealt
+			Healing amount cannot exceed 15 life and picking up blood causes bleeding for 5 seconds
+			Effects of Flesh Armor
+			'''
+		DisplayName: Flesh Enchantment
+	}
+
+	DemonBloodEnchantment: {
+		Tooltip:
+			'''
+			[i:ThoriumMod/VileFlailCore] 65% basic damage
+			Flail weapons have a chance to release a vile spike ball on hit
+			The vile spike ball applies ichor to damaged enemies
+			[i:FargoSoulMore/FleshEnchantment] Effects of Flesh Enchantment
+			Effects of Demon Blood Armor
+			'''
+		DisplayName: Demon Blood Enchantment
+	}
+
+	ForceOfHelheim: {
+		Tooltip:
+			'''
+			[i:FargoSoulMore/SpiritTrapperEnchantment] Effects of Spirit Trapper Armor, Inner Flame
+			[i:FargoSoulMore/MalignantEnchantment] Effects of Artificer's Shield, Silk Enchantment
+			[i:FargoSoulMore/DreadEnchantment] Effects of Dread Armor, Crash Boots and Dragon Enchantment
+			[i:FargoSoulMore/DemonBloodEnchantment] Effects of Demon Blood Armor, Vile Flail-Core and Flesh Enchantment
+			[i:FargoSoulMore/WhiteKnightEnchantment] Effects of White Knight Armor, Smothering Band
+			'One of the Worlds'
+			'''
+		DisplayName: Force of Helheim
+	}
 }
 
 NPCs.MutantEX.DisplayName: True Mutant
@@ -694,5 +814,15 @@ Buffs: {
 			disabled, effects reseted
 			'''
 		DisplayName: True Mutant Presence
+	}
+
+	CelestialPrice: {
+		DisplayName: Celestial Price
+		Description: Cannot use Reality Shatterer, damage reduction and life regeneration is set to 0
+	}
+
+	DragonBanish: {
+		Description: Banished by ancient draconic powers
+		DisplayName: Dragon Banish
 	}
 }
