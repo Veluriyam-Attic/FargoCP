@@ -11,7 +11,8 @@ SlimyShield: 不会造成涂油减益
 FlightMastery: 当与非Fargo's Souls Mod的boss战斗时，减少飞行属性
 EarthForce: 减益伤害的增加削弱至2倍
 LifeForce: 当与非Fargo's Souls Mod的boss战斗时，减少飞行属性和飞行时间
-OnionPackUpgrade: 现在作为[i:FargowiltasSouls/MutantsPact]突变体契约的升级，以允许将任何饰品放入其提供的栏位
+OnionPackUpgrade: 提供的饰品栏现在与[i:FargowiltasSouls/MutantsPact]突变体契约提供的特定饰品栏位合并
+PactOnionUpgrade: 提供的饰品栏现在与[i:CalamityMod/CelestialOnion]天体洋葱提供的栏位合并, 给予1完整饰品栏
 Laudanum: 减半大多数增益效果
 HardmodeSwords: 减少提供的属性加成
 OceanCrest: 提供对各类入水造成的永恒模式debuff的免疫
