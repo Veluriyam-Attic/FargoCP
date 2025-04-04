@@ -15,6 +15,7 @@ OnionPackUpgrade: 提供的饰品栏现在与[i:FargowiltasSouls/MutantsPact]突
 PactOnionUpgrade: 提供的饰品栏现在与[i:CalamityMod/CelestialOnion]天体洋葱提供的栏位合并, 给予1完整饰品栏
 Laudanum: 减半大多数增益效果
 TheSponge: 充能时间和受击时的冷却增加25%
+ExoBox: 速度减少40%
 HardmodeSwords: 减少提供的属性加成
 OceanCrest: 提供对各类入水造成的永恒模式debuff的免疫
 // truth be told I have absolutely no idea what this enchantment is so the key name is just that
