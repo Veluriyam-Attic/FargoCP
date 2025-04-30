@@ -7,7 +7,7 @@
 [url=https://github.com/Veluriyam-Attic/FargoCP]本汉化开源库[/url]
 
 [h1]†Ξ介绍Ξ†[/h1]
-本品为由玲珑汉化组、ROH、狐狸、芸笙和依稀共同制作的汉化
+本品为由玲珑汉化组、ROH、狐狸、芸笙、依稀和三杯伍迪共同制作的汉化
 汉化进度：99%
 适配模组列表
 （标注*的为有硬编码内容还未解决，后续会更新）
@@ -55,6 +55,8 @@ Fargo掉落物修改
 Fargo马里奥物品
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3329620648] Community Souls Expansion [/url] 
 社区魂石拓展
+    [*][url=https://steamcommunity.com/workshop/filedetails/?id=3464463610] Fargo's Mod Clickers [/url] 
+Fargo点击者
 [/olist] 
 [/code] 
 
@@ -79,4 +81,4 @@ Fargo马里奥物品
 [/code] 
 
 [quote=虞悖] 致谢：
-Fargo汉化人员&玲珑汉化组&狐狸&家庭电脑[/quote]
+Fargo汉化人员&玲珑汉化组&狐狸&家庭电脑&三杯伍迪[/quote]
