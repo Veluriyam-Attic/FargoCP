@@ -1,6 +1,6 @@
 displayName = Fargo系列的汉化合集（无突变与魂石）
 author = 狐狸&虞悖&ROH&至尊永冻&CottANDY&芸笙&家庭电脑&依稀&三杯伍迪（按时间为序）
-version = 0.2.13
+version = 0.2.14
 sortAfter = FargowiltasCrossmod@1.2.0.10,DirtCraft,FargoAltMusicMod,FargoMoreSoulsCompat,FargoRarities,FargosExpertModifs,fargosoulstweaks,RainbowMod,PaperMarioBadgeMod,OmniWield,HyperMode,GodMode,FishAnything,YharimMutant,BannerBoost,Satanist,FargoEnemyModifiers,MasomodeEX,TooManySlots,LootBonus,CraftingTreeGenerator,StarHell,FargoSeeds,ssm,FargosSoulsModDLCRecreated,FargoClickers
 translationMod = true
 side = Client
