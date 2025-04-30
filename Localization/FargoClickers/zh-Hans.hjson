@@ -1,0 +1,201 @@
+Mods: {
+	FargoClickers: {
+		Items: {
+			Weapons: {
+				Clicker: {
+					AcornClicker.DisplayName: 橡果点击器
+					BaronClicker.DisplayName: 遗爵点击器
+					CursedClicker.DisplayName: 诅咒点击器
+					LightClicker.DisplayName: 游光点击器
+					MagickaClicker.DisplayName: 魔能点击器
+				}
+			}
+
+			GamerEssence: {
+				DisplayName: 玩家精华
+				Tooltip:
+					'''
+					增加18%点击伤害
+					增加10%点击范围
+					增加8%点击暴击率
+					“这只是个开始……”
+					'''
+			}
+
+			MasterPlayerSoul: {
+				DisplayName: 大师玩家之魂
+				Tooltip:
+					'''
+					增加22%点击伤害
+					增加10%点击暴击率
+					增加75%点击范围
+					减少20%触发点击效果所需的点击次数
+					{0}
+					“我准备好电竞比赛了”
+					'''
+				NormalAccessories: 拥有专业玩家手提箱、巧克力牛奶与曲奇、自动瞄准模块、豪华点击手套、S级勋章的效果
+				CalamityAccessories: 拥有D.o.G、血腥巧克力饼干、寰宇点击手套、SS奖牌的效果
+			}
+
+			ForceOfMatrix: {
+				DisplayName: 矩阵之力
+				Tooltip:
+					'''
+					[i:FargoClickers/MotherboardEnchantment] 每秒点击次数超过6次，增加3%伤害，最高增加200%
+					[i:FargoClickers/RGBEnchantment] 造成75次伤害，在目标位置产生一次彩色爆炸
+					[i:FargoClickers/MiceEnchantment] 传送后1秒内受伤获得以下效果：
+					* [i:FargoClickers/RGBEnchantment] 产生彩色爆炸
+					* [i:FargoClickers/OverclockEnchantment] 攻击速度加倍，持续15秒
+					* [i:FargoClickers/MiceEnchantment] 3秒无敌，增加15%移动速度和加速度，持续15秒
+					[i:FargoClickers/PrecursorEnchantment] 生成造成伤害的光标拖尾
+					拥有万能钥匙串、红色大按钮、无底回形针盒的效果
+					“整个世界都是个游戏?”
+					'''
+			}
+
+			MotherboardEnchantment: {
+				DisplayName: 主板魔石
+				Tooltip:
+					'''
+					每秒点击次数超过6次，攻击会随着时间的推移而增加伤害
+					增加1%点击伤害，最高100%
+					“频率越高，越好”
+					'''
+			}
+
+			RGBEnchantment: {
+				DisplayName: RGB魔石
+				Tooltip:
+					'''
+					每造成100次伤害，在目标位置产生一次彩色爆炸
+					拥有红色大按钮的效果
+					“哇塞！RGB键盘”
+					'''
+			}
+
+			PrecursorEnchantment: {
+				DisplayName: 先驱者魔石
+				Tooltip:
+					'''
+					生成5个光标，跟随你的光标
+					拥有万能钥匙串的效果
+					“你知道这个功能是真的”
+					'''
+			}
+
+			OverclockEnchantment: {
+				DisplayName: 超频魔石
+				Tooltip:
+					'''
+					每造成10000点伤害，获得5秒[c/B22222:超频]效果
+					[c/B22222:超频]提供1.5倍的攻击速度
+					此效果有60秒的冷却时间
+					拥有无底回形针盒的效果
+					“你准备好超频处理器了吗?”
+					'''
+			}
+
+			MiceEnchantment: {
+				DisplayName: 鼠标魔石
+				Tooltip:
+					'''
+					传送有10秒冷却时间
+					传送后短时间内受到伤害
+					获得2秒无敌，增加10%移动速度、加速度和攻击速度，持续10秒
+					并且冷却时间增加至30秒
+					“正常搬迁参考”
+					'''
+			}
+		}
+
+		ClickEffect: {
+			Acorn: {
+				Name: 橡果
+				Description: 生成一个橡果朝向最近的敌人
+			}
+
+			Sandwave: {
+				Name: 沙浪
+				Description: 产生沙浪朝向最近的敌人
+			}
+
+			BanishedMine: {
+				Name: 遗爵鱼雷
+				Description: 放置一枚爆炸产生破片的鱼雷
+			}
+
+			Lightbomb: {
+				Name: 光之迸发
+				Description: 产生分散的光弹，减速并形成造成伤害的光环
+			}
+
+			MagickaEnchantment: {
+				Name: 魔能附魔
+				Description: 提升点击伤害判定范围
+			}
+
+			MagickaPower: {
+				Name: 魔能之力
+				Description: 你的点击有额外伤害判定范围
+			}
+		}
+
+		Projectiles: {
+			PrecursorProjectile.DisplayName: 前光标
+
+			Clicker: {
+				CursedClickerProjectile.DisplayName: 沙浪
+				LightClickerProjectile.DisplayName: 光弹
+				LightClickerProjectile2.DisplayName: 光爆炸
+				BaronClickerProj.DisplayName: 遗爵鱼雷
+				BaronClickerProj2.DisplayName: 遗爵破片
+			}
+		}
+
+		Toggler: {
+			MatrixHeader: 矩阵之力
+			MotherboardEffect: 处理器频率
+			RGBEffect: 彩色爆炸
+			RGBBigRedButtonEffect: 红色大按钮
+			OverclockEffect: 超频
+			OverclockBottomlessBoxofPaperclipsEffect: 无底回形针盒
+			PrecursorEffect: 光标轨迹
+			PrecursorMasterKeychainEffect: 万能钥匙串
+			MiceEffect: 鼠标传送
+		}
+
+		WizardEffect: {
+			Motherboard: 增加伤害幅度提升至2%
+			RGB: 产生彩色爆炸所需造成伤害数减少至75次
+			Precursor: 轨迹造成的伤害和长度翻倍
+			Overclock: 攻击速度提升至2倍，且持续时间提升至10秒
+			Mice: 无敌时间提升至3秒，且速度增益持续时间提升至15秒
+		}
+
+		ActiveSkills: {
+			MiceKeyEffect: {
+				DisplayName: 鼠标传送
+				Tooltip:
+					'''
+					传送至鼠标的位置
+					1秒内受击可获得增益
+					'''
+			}
+		}
+
+		Keybinds.MiceTeleport.DisplayName: 鼠标传送
+
+		ExpandedTooltips: {
+			ClickerRadius: 增加100%点击范围
+			ClickerEffect: 减少20%产生点击效果所需的点击量
+			MatrixForce: "[i:FargoClickers/ForceOfMatrix] 鼠标传送受击后产生弹幕和基于额外速度的统计数据"
+		}
+
+		Buffs: {
+			MagickaClickerBuff: {
+				DisplayName: 魔能附魔
+				Description: 你的点击有额外伤害判定范围
+			}
+		}
+	}
+}
