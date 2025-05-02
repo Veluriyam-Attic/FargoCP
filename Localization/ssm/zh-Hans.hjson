@@ -176,7 +176,7 @@ Mods: {
 
 			MonstrositySuit: {
 				DisplayName: 魔神之躯
-				Tooltip: Vanity
+				Tooltip: 原初的魔神之力
 			}
 
 			TrueMonstrosityMask: {
@@ -205,7 +205,7 @@ Mods: {
 				Tooltip:
 					'''
 					增加150%伤害和20%暴击率
-					增加20个召唤栏和哨兵栏
+					增加20个召唤栏位和哨兵栏
 					最大生命值和魔力值增加1000
 					减少40%魔力消耗，25%概率不消耗弹药
 					[c/cDA10E6:装备一整套盔甲会给予你惊人的属性加成]
@@ -1310,7 +1310,7 @@ Mods: {
 					每5秒你会生成至多3个神圣十字架
 					在使用治疗法术时会消耗1个十字架而不是魔力
 					获得护士钱包的效果
-
+					“涤荡一切邪恶”
 					'''
 			}
 
@@ -1457,9 +1457,8 @@ Mods: {
 					'''
 					泰拉瑞亚的能量会追寻并保护着你
 					攻击敌怪时间歇爆发出伤害性能量
-					暴击时会在你的头顶敲响铃铛，减速附近的所有敌怪
 					获得精准项链和恢复手环的效果
-					获得界元音箱和粉丝的信函的效果
+					获得界元音箱的效果
 					“一切都会在你的力量面前倒下……”
 					'''
 			}
@@ -1469,8 +1468,7 @@ Mods: {
 				Tooltip:
 					'''
 					攻击敌怪时间歇爆发出伤害性能量
-					暴击时会在你的头顶敲响铃铛，减速附近的所有敌怪
-					获得精准项链、恢复手环和粉丝的信函的效果
+					获得精准项链和恢复手环的效果
 					“它充满能量”
 					'''
 			}
@@ -1553,11 +1551,11 @@ Mods: {
 			}
 
 			AstroEnchant: {
-				DisplayName: Astro Enchantment
+				DisplayName: 宇航魔石
 				Tooltip:
 					'''
-					Summon damage has a chance to unleash a brust of damaging plasma on hit
-					increases your max number of minions and sentries by 1
+					仆从伤害集中时有概率释放一场魔法脉冲爆发
+					增加1个召唤栏位和哨兵栏位
 					'''
 			}
 
@@ -1586,11 +1584,10 @@ Mods: {
 				DisplayName: 阿尔弗海姆之力
 				Tooltip:
 					'''
-					获得牧师学徒、崇圣、术士和生物工程盔甲的套装奖励
-					获得光耀、生命束缚、圣殿骑士和堕落圣骑士盔甲的套装奖励
-					获得恶魔之舌、鬼影塑像、芦荟叶和平等护符的效果
-					获得业果之握、涅槃雕像和医疗魔石的效果
-					“光辉与你同在”
+					获得绽花、刺客、绽生、光复和医疗盔甲的套装奖励
+					获得绽花盾、活力花瓣、芳香胸花和飞镖袋的效果
+					获得芦荟叶和平等护符的效果
+					“精灵的奥秘在你面前揭晓”
 					'''
 			}
 
@@ -1598,9 +1595,9 @@ Mods: {
 				DisplayName: 阿斯加德之力
 				Tooltip:
 					'''
-					获得洪流逆潮者、刺客和炎法盔甲的套装奖励
-					获得梦境编织者和狂想盔甲的套装奖励
-					获得飞镖袋、瘟疫领主的药剂瓶和等离子护盾发生器的效果
+					获得白骑士、崇圣、堕骑盔甲的套装奖励
+					获得天界和狂音盔甲的套装奖励
+					获得普利多温、暗影催化剂、业果之握和涅槃雕像的效果
 					“可曾听闻诸神黄昏？”
 					'''
 			}
@@ -1609,12 +1606,9 @@ Mods: {
 				DisplayName: 赫尔海姆之力
 				Tooltip:
 					'''
-					获得猎魂者、绿龙、恐惧和魔血盔甲的套装奖励
-					获得Magma,、Berserker、Harbinger、Harbinger盔甲的套装奖励（未添加）
-					获得心灵之火、震地靴和龙爪项链的效果
-					获得邪恶连枷核心、咒炎连枷核心和炽热矛尖的效果
-					获得吸血鬼试剂、弹簧鞋和熔渣重踏的效果
-					获得Shade Band的效果
+					获得丝绸、猎魂、暗影大师、织梦者和恐惧盔甲的套装奖励
+					获得工匠的聚焦项链、工匠的护盾、忍者魔符和工匠的火箭靴的效果
+					获得震地靴、咒炎连枷核心、心灵之火和全知水晶球的效果
 					“从冥府中窥见末日”
 					'''
 			}
@@ -1623,10 +1617,10 @@ Mods: {
 				DisplayName: 约顿海姆之力
 				Tooltip:
 					'''
-					获得深海潜游者、紫衫木和猎潮者盔甲的套装奖励
-					获得娜迦、碎冰、极寒巫师和低语者盔甲的套装奖励
-					获得海风垂饰和泡泡磁铁的效果
-					获得哥布林战盾、琵琶鱼球碗和遁蛛冰皮的效果
+					获得深海潜游者、低语者和猎潮者盔甲的套装奖励
+					获得娜迦、碎冰、极寒巫师和洪流逆潮者盔甲的套装奖励
+					获得海风垂饰、泡泡磁铁、海潮之噬和沉没的金币的效果
+					获得暴雪袋、琵琶鱼球碗、瘟疫之主的药剂瓶和遁蛛冰皮的效果
 					“比极寒更可怕的巨人之力”
 					'''
 			}
@@ -1635,11 +1629,12 @@ Mods: {
 				DisplayName: 米德加德之力
 				Tooltip:
 					'''
-					获得地脉、虚金、荧光和暗影大师盔甲的套装奖励
-					获得弄臣、瑟银和元素之灵盔甲的套装奖励
-					获得太空甲虫壳、黑曜石鳞片、注视者之镜和Jazz音乐播放器的效果
-					获得精准项链、恢复手环、粉丝的信函和界元音箱的效果
-					获得连锁挖矿和水晶矛尖的效果
+					获得地脉、虚金、荧光和元素之灵盔甲的套装奖励
+					获得耐钢、暗钢、钢和瑟银盔甲的套装奖励
+					获得炽热火花、尖刺护腕、瑟银盾和黑曜石鳞片的效果
+					获得精准项链、太空甲虫壳、沙海穿梭者头冠和注视者之凝的效果
+					获得注视者之镜、核弹头配件、Jazz音乐播放器和恢复手环的效果
+					获得界元音箱的效果
 					“人类的未来掌握在自己手中”
 					'''
 			}
@@ -1648,11 +1643,10 @@ Mods: {
 				DisplayName: 穆斯贝尔海姆之力
 				Tooltip:
 					'''
-					获得砂石、飞羽和真菌盔甲的套装奖励
-					获得生命木、绽花和生命绽放盔甲的套装奖励
-					获得皇家彩蛋、绽花盾和活力花瓣的效果
-					获得影缀花、无瑕之蛹和蜜蜂靴的效果
-					“传说中苏尔特能驾驭炽热的能量”
+					获得赛博朋克、魔血、砂石、贵族和炎法盔甲的套装奖励
+					获得自动调谐器、Metal音乐播放器、等离子护盾发生器和Diss曲目的效果
+					获得吸血鬼试、邪恶连枷核心、黄铜旋帽、蜡质松香和团结之戒的效果
+					“炽热如火，这是苏尔特之迹…”
 					'''
 			}
 
@@ -1660,10 +1654,9 @@ Mods: {
 				DisplayName: 尼福尔海姆之力
 				Tooltip:
 					'''
-					获得传讯员、贵族、赛博朋克、华贵和大师盔甲的套装奖励
-					获得团结之戒、黄铜旋帽和蜡质松香的效果
-					获得自动调谐器、Metal音乐播放器和Diss曲目的效果
-					获得音乐会门票、指挥棒、总谱、节拍器的效果
+					获得传讯员、流影掠星、华贵和大师甲的套装奖励
+					获得幸运兔脚和音乐会门票的效果
+					获得指挥棒、总谱和节拍器的效果
 					“充满雾霜的死寂冰封之地…”
 					'''
 			}
@@ -1672,11 +1665,10 @@ Mods: {
 				DisplayName: 斯瓦特阿尔海姆之力
 				Tooltip:
 					'''
-					获得花岗岩、青铜和暗钢盔甲的套装奖励
-					获得耐钢、泰坦和电容盔甲的套装奖励
-					获得风暴之眼、英灵的反击之盾、奥林匹克圣火和斯巴达凉鞋的效果
-					获得尖刺护腕和Rock音乐播放器的效果
-					获得食人魔凉鞋、岩石之心、水晶之眼面具和深渊贝壳的效果
+					获得花岗岩、紫衫木和泰坦盔甲的套装奖励
+					获得弄臣、宇航和电容盔甲的套装奖励
+					获得岩石之心、拇指环、粉丝的信函和Rock音乐播放器的效果
+					获得水晶之眼面具和深渊贝壳的效果
 					“黑暗精灵之杰作”
 					'''
 			}
@@ -1686,8 +1678,9 @@ Mods: {
 				Tooltip:
 					'''
 					获得巫妖、瘟疫医生和白矮星盔甲的套装奖励
-					获得天界和流星掠影盔甲的套装奖励
-					获得魂匣和飞升雕像的效果
+					获得青铜、真菌、飞羽和绿龙盔甲的套装奖励
+					获得奥林匹克圣火、皇家彩蛋和英灵的反击之盾的效果
+					获得斯巴达凉鞋、龙爪项链、Disco音乐播放器和魂匣的效果
 					“神圣丰饶的未来一瞥”
 					'''
 			}
@@ -1698,16 +1691,16 @@ Mods: {
 					'''
 					获得砂石、飞羽、真菌、生命木、绽花和生命绽放盔甲的套装奖励
 					获得深海潜游者、紫衫木、猎潮者、娜迦、碎冰、极寒巫师和低语者盔甲的套装奖励
-					获得崇圣、术士、生物工程、生命束缚和堕落圣骑士盔甲的套装奖励
-					获得传讯员、贵族、赛博朋克、华贵和大师盔甲的套装奖励
-					获得花岗岩、青铜、暗钢、耐钢、泰坦和电容盔甲的套装奖励
+					获得崇圣、术士、生物工程、宇航、生命束缚和堕落圣骑士盔甲的套装奖励
+					获得传讯员、贵族、华贵、赛博朋克、仪仗队和大师盔甲的套装奖励
+					获得花岗岩、青铜、钢、暗钢、耐钢、泰坦和电容盔甲的套装奖励
 					获得地脉、虚金、荧光、暗影大师、弄臣、瑟银和元素之灵盔甲的套装奖励
 					获得巫妖、瘟疫医生、白矮星、天界和流星掠影盔甲的套装奖励
 					获得获得猎魂者、绿龙、恐惧、血肉和魔血盔甲的套装奖励
 					获得洪流逆潮者、刺客、炎法、梦境编织者和狂想盔甲的套装奖励
-					获得获得影缀花、无瑕之蛹和蜜蜂靴的效果
+					获得获得影缀花、无瑕之蛹、拇指环和蜜蜂靴的效果
 					获得哥布林战盾、琵琶鱼球碗和遁蛛冰皮的效果
-					获得恶魔之舌、鬼影塑像、芦荟叶、平等护符、业果之握和涅槃雕像的效果
+					获得恶魔之舌、鬼影塑像、芦荟叶、平等护符、业果之握、普利多温和重生雕像的效果
 					获得团结之戒、黄铜旋帽、蜡质松香、自动调谐器、Metal音乐播放器、Diss曲目、音乐会门票、指挥棒、总谱和节拍器的效果
 					获得风暴之眼、英灵的反击之盾、奥林匹克圣火、斯巴达凉鞋、尖刺护腕、Rock音乐播放器、食人魔凉鞋、岩石之心和水晶之眼面具的效果
 					获得深渊贝壳、太空甲虫壳、黑曜石鳞片、注视者之镜、Jazz音乐播放器、精准项链、恢复手环、粉丝的信函和界元音箱的效果
@@ -2095,8 +2088,9 @@ Mods: {
 				Tooltip:
 					'''
 					获得虚空行者、 渊洋神迹、神胶幕府将军、异宇星凝、灾蛤和Frozen盔甲的套装奖励
-					Effects of Hell's Fire, Soul of Pyrogen, Holy Mantle and Splendor Jam
-					Effects of Cursor Mutagen, Reincarnation Badge and Influx Cluster
+					获得异彩果酱、神圣屏障、热源之魂、Hell's Fire的效果
+					获得光标突变剂、轮回证章、凝涌星核的效果
+					[c/EE0000:注意] 需安装灾劫、灾熵、灾蛤、旧神之猎
 					'''
 			}
 
@@ -2136,12 +2130,13 @@ Mods: {
 				DisplayName: 虚空行者魔石
 				Tooltip:
 					'''
-					Hitting the target will increase void energy
-					Provides movement and flight speed bonuses based on the amount of void energy
-					Press the armor bonus key to activate Void energy Summon a Void Wraith to assist in battle and fly indefinitely for 10 seconds
-					Void Wrairh damage type depends on the weapon in hand
-					Press [KEY] to activate the coordinated state
-					In this state, you are not affected by gravity and push away the surrounding projectiles
+					攻击命中目标汇积攒虚空能量
+					根据虚空能量提供部分移速和飞行速度加成
+					按下 套装奖励 键激发虚空能量
+					召唤一个虚空幻影协助战斗并无限飞行，持续10秒
+					虚空幻影的伤害类型取决于你手中的武器
+					按下 进升之证 键启用协调状态
+					该状态下，你不受重力影响，且推开周围弹幕
 					'''
 			}
 
@@ -2182,12 +2177,13 @@ Mods: {
 			}
 
 			CoralEnchant: {
-				DisplayName: Coral Enchantment
+				DisplayName: 珊瑚魔石
 				Tooltip:
 					'''
-					'For swimming with the fishes'
-					Radiant damage builds up to 20 life shield and life shielding no longer decays on you. Healing an ally transfers the life shield to them
-					Effects of Sea Breeze Pendant and Bubble Magnet
+					光辉伤害会建立至多20点生命护盾且你的生命护盾不会随时间衰减
+					治疗队友会将生命护盾转移至他们身上
+					获得海风垂饰、泡泡磁铁的效果
+					“在鱼群中徜徉”
 					'''
 			}
 
@@ -2333,11 +2329,11 @@ Mods: {
 			MariviumEnchant: {
 				Tooltip:
 					'''
-					If your crit chance is over 100%, convert excess crit chance into damage bonus
-					Obtain 2 layers of shields, which takes 10 seconds to recover after being shattered
-					After shield shattered, treat 140 health points and increase your damage by 100% for 5 seconds
+					如果你的暴击几率超过100%，将溢出的暴击率转化为伤害加成
+					获得2层抵挡伤害的护盾，在破碎后需要10秒才能恢复
+					护盾破碎后，回复140点生命值，获得5秒“深渊狂怒”增益，增加100%伤害
 					'''
-				DisplayName: Marivium Enchant
+				DisplayName: 渊洋神迹魔石
 			}
 
 			ClamitasEnchant: {
@@ -2395,7 +2391,7 @@ Mods: {
 			}
 
 			SleepyRock: {
-				DisplayName: Sleepy Rock
+				DisplayName: 沉睡岩石
 				Tooltip: ""
 			}
 
@@ -2416,29 +2412,29 @@ Mods: {
 					增加22%投掷伤害
 					增加10%投掷弹幕速度
 					增加10%投掷暴击率
-					获得死人补丁和海盗钱包的效果
+					获得亡者补丁和海盗钱包的效果
 					'''
 			}
 
 			MutagenHealing: {
-				DisplayName: Mutagen Healing
+				DisplayName: 救赎诱变剂
 				Tooltip:
 					'''
-					20% increased radiant damage
-					10% increased radiant crit chance
-					10% increased radiant critical strike and healing/casting speed
-					Healing spells heal additional 3 life
+					增加20%光辉伤害
+					增加10%光辉暴击率
+					增加10%治疗速度和施法速度
+					治疗法术会额外治疗3点生命值
 					'''
 			}
 
 			MutagenSymphonic: {
-				DisplayName: Mutagen Symphonic
+				DisplayName: 颂歌诱变剂
 				Tooltip:
 					'''
-					20% increased symphonic damage
-					10% increased symphonic crit chance and attack speed
-					+10 max Inspiration
-					Empowerments last longer
+					增加20%音波伤害
+					增加10%音波暴击率和演奏速度
+					增加10点最大灵感值
+					咒音增幅持续时间更长
 					'''
 			}
 
@@ -2465,11 +2461,11 @@ Mods: {
 			MutagenThrowingCal: {
 				Tooltip:
 					'''
-					20% increased throwing damage
-					10% increased throwing crit chance and attack speed
-					10% increased throwing velocity
+					增加20%投掷伤害
+					增加10%投掷暴击率和投掷速度
+					增加10%投掷物速率
 					'''
-				DisplayName: Mutagen Throwing
+				DisplayName: 盗贼诱变剂
 			}
 
 			StalkerEssence: {
@@ -2732,35 +2728,35 @@ Mods: {
 			TrueLumberjackPants: {
 				Tooltip:
 					'''
-					2147483% increased damage and 2147483% increased critical strike chance
-					214% increased movement and 21474% increased attack speed
-					Also increases armor penetration to 2147483.
+					增加2147483%伤害和2147483%暴击率
+					增加214%移动速度和21474%攻击速度
+					增加2147483护甲穿透
 					'''
-				DisplayName: True Lumberjack Pants
+				DisplayName: 真·伐木工裤
 			}
 
 			TrueLumberjackMask: {
 				Tooltip:
 					'''
-					2147483% increased damage and 2147483% increased critical strike chance
-					[c/FF0000:Absurdly] increases life regen, also increases armor penetration to 2147483.
+					增加2147483%伤害和2147483%暴击率
+					[c/FF0000:荒谬般]地增加生命恢复速度，增加2147483护甲穿透
 					'''
-				DisplayName: True Lumberjack Mask
+				DisplayName: 真·伐木工面具
 			}
 
 			TrueLumberjackBody: {
 				Tooltip:
 					'''
-					2147483% increased damage and 2147483% increased critical strike chance 
-					Increases max number of minions and sentries by 2147483
-					Increases damage reduction by 2147483%, Increases max life and mana by 21474
-					2147483% reduced mana usage, 2147483% chance not to consume ammo, also increases armor penetration by 2147483.
+					增加2147483%伤害和2147483%暴击率
+					增加2147483个召唤栏位和哨兵栏
+					增加2147483%伤害减免，最大生命值和魔力值增加2147483
+					减少2147483%魔力消耗，2147483%概率不消耗弹药，增加2147483护甲穿透
 					'''
-				DisplayName: True Lumberjack Body
+				DisplayName: 真·伐木工身体
 			}
 
 			ShtunTerminus: {
-				DisplayName: Terminus
+				DisplayName: 终末石
 				Tooltip: ""
 			}
 
@@ -2785,12 +2781,12 @@ Mods: {
 			}
 
 			MonstrocityBag: {
-				DisplayName: Monstrosity Bag
+				DisplayName: 宝藏袋（魔神）
 				Tooltip: ""
 			}
 
 			MonstrocityRelicItem: {
-				DisplayName: Monstrosity Relic Item
+				DisplayName: 魔神圣物
 				Tooltip: ""
 			}
 
@@ -2825,8 +2821,8 @@ Mods: {
 			}
 
 			Soul: {
-				Tooltip: This item have buggy animation. It will be fixed in later updates.
-				DisplayName: Soul
+				Tooltip: 恭喜你做出来，但这玩意还有错误动画的问题，会在下个版本修复
+				DisplayName: 万象归墟·寰宇一统之魂
 			}
 		}
 
@@ -2974,7 +2970,7 @@ Mods: {
 			CosmicCommanderEffect: 非常烦人的效果，把它关掉
 			SpectralFishEffect: Spectral Fishron Support
 			CuteFishEXEffect: Fishron Ritual
-			GraniteEffect: Shock Absorber
+			GraniteEffect: 动能转换器
 			ThiefsWalletEffect: Thief's Wallet
 			BlastShieldEffect: Blast Shield
 			SpeedCapEffect: Movement Speed Cap
@@ -2982,37 +2978,37 @@ Mods: {
 			HolyShieldEffect: 神圣屏障
 			CrashEffect: Crash Boots
 			CairoEffect: Eternal Oasis
-			MotDEHeader: Mark of the Dream Eater
-			PlagueEffect: Plague Gases
-			LichEffect: Soul Fragments
-			DragonEffect: Dragon's Flame
-			ConduitEffect: Bubble of Energy
-			MarchingBandEffect: Symphonic Symbols
-			MetronomeEffect: Metronome
-			SandstoneEffect: Double Jump
-			PlasmaEffect: Plasma Generator
-			VampireGlandEffect: Vampire Gland
-			FleshMaskEffect: Attacks Drop Flesh
-			ValadiumEffect: Valadium Gravity
-			CrietzEffect: Crietz Brusts
-			TerrariumEffect: Terrarium Energies
-			NuclearOptionEffect: Nuclear Option
-			IllumiteEffect: Illumite Missiles
-			IncandescentSparkEffect: Incandescent Spark
-			TideHunterEffect: Foam Splashes
-			DepthDiverEffect: Drowned Doublon
-			DepthAuraEffect: Depth Aura Buff
-			ArtificersEffect: Artificer's Rocketeers
-			LivingWoodEffect: Living Wood Sapling
-			BiotechEffect: Biotech Probe
+			MotDEHeader: 噬梦之兆
+			PlagueEffect: 瘟疫气云
+			LichEffect: 灵魂碎片
+			DragonEffect: 龙焰爆炸
+			ConduitEffect: 能量泡泡
+			MarchingBandEffect: 交响音符
+			MetronomeEffect: 节拍器
+			SandstoneEffect: 二段跳
+			PlasmaEffect: 等离子护盾发生器 
+			VampireGlandEffect: 吸血鬼试剂
+			FleshMaskEffect: 攻击掉落肉块
+			ValadiumEffect: 虚金重力
+			CrietzEffect: 精准项链火花
+			TerrariumEffect: 泰拉能量
+			NuclearOptionEffect: 核弹头配件
+			IllumiteEffect: 荧光导弹
+			IncandescentSparkEffect: 炽热火花
+			TideHunterEffect: 泡沫飞溅
+			DepthDiverEffect: 沉没的金币
+			DepthAuraEffect: 深海增益
+			ArtificersEffect: 工匠的火箭靴
+			LivingWoodEffect: 生命木幼苗
+			BiotechEffect: 生物工程探测器
 			AddonsForceHeader: 灾集之力
-			ShogunEffect: 神胶幕府将军之翼(有bug)
+			ShogunEffect: 神胶幕府将军之翼（有bug）
 			VoidFaquirEffect: 虚空充能
 			SplendorEffect: 异彩果酱
 			DivineEffect: 光之维度 (有bug)
 			EntropicEffect: Illusions
-			TendrilsEffect: Tendrils Attachment
-			IntergelacticEffect: Asteroids Ring
+			TendrilsEffect: 光标卷须（有bug）
+			IntergelacticEffect: 星环
 			InfernoLordsFocusEffect: 地狱领主的聚焦项链
 			LihzahrdTailEffect: 神庙蜥蜴之尾
 			PocketFusionGeneratorEffect: 小型聚变发生器
