@@ -428,7 +428,7 @@ Mods: {
 			}
 
 			OverloadedSirenPearl: {
-				DisplayName: 
+				DisplayName: Overloaded Siren Pearl
 				Tooltip: ""
 			}
 
@@ -2076,7 +2076,7 @@ Mods: {
 					你所有的攻击造成恶魔之炎
 					受伤时发射从天而降的暗影射线和恶魔镰刀
 					召唤一只友善的红恶魔为你而战
-					按Y键，用黑魔法咒语激怒附近的敌人10秒
+					按 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键，用黑魔法咒语激怒附近的敌人10秒
 					这道咒语使它们造成的伤害增加到1.5倍，但它们也会受到1.5倍的伤害
 					获得渎魂神晶的效果
 					“你身上散发着恶魔般的力量……”
@@ -2099,11 +2099,11 @@ Mods: {
 				Tooltip:
 					'''
 					在你的周为召唤两个由小行星形成星环，你伤害增幅越高 ，星环伤害越高
-					按下 {0} 键使星环透明化
+					按下 [异宇星凝套装星环可见性] 键使星环透明化
 					你免疫星辉凋亡，你的攻击会造成星辉凋亡
-					按下 {0} 键化身成为暴烈星云，向光标冲刺
+					按下 [凝涌星核冲刺] 键化身成为暴烈星云，向光标冲刺
 					冲刺时，免疫所有伤害
-					有{1}秒冷却
+					冷却时间为50秒
 					'''
 			}
 
@@ -2782,7 +2782,7 @@ Mods: {
 
 			MonstrocityBag: {
 				DisplayName: 宝藏袋（魔神）
-				Tooltip: ""
+				Tooltip: "<right>打开"
 			}
 
 			MonstrocityRelicItem: {
