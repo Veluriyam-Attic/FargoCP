@@ -1,13 +1,66 @@
 Mods: {
 	ssm: {
 		SetBonus: {
-			// Monstrosity: Effects of all auric helmets, shadowspec helmet and gem tech headgear
-			/* Quantum:
+			Monstrosity.SetBonus: WIP
+			TrueLumberjak.SetBonus:
 				'''
-				If damage less than 10, it will be nulified
-				Supression of Chtuxlagor Inferno effects
-				Protect you from death, consuming 1,000,000 charge
-				''' */
+				All damage is nulified. You one-shot every NPC.
+				Ring of squirrels orbit you and shoot acorns at your enemies.
+				'''
+
+			AuricTeslaHornedVisor: {
+				SetBonus:
+					'''
+					True Tarragon, Bloodflare and Silva armor effects
+					+500 shield capacity and 10 shield regeneration
+					'''
+				DisplayName: Auric Tesla Horned Visor
+				Tooltip: 30% increased true damage, critical strike chance and attack speed
+			}
+
+			TarragonHornedVisor: {
+				SetBonus:
+				'''
+					+100 shield capacity and 5 shield regeneration
+					15% increase true attack speed
+					'''
+				DisplayName: Tarragon Horned Visor
+				Tooltip:
+					'''
+					15% increased true damage and critical strike chance
+					10% damage reduction
+					'''
+			}
+
+			BloodflareHornedVisor: {
+				SetBonus:
+					'''
+					+150 shield capacity and 7 shield regeneration
+					15% increase true attack speed
+					'''
+				DisplayName: Bloodflare Horned Visor
+				Tooltip: 20% increased true damage and 10% critical strike chance
+			}
+
+			SilvaHornedVisor: {
+				SetBonus:
+					'''
+					+200 shield capacity and 8 shield regeneration
+					20% increase true attack speed
+					'''
+				DisplayName: Silva Horned Visor
+				Tooltip: 30% increased true damage and 20% critical strike chance
+			}
+
+			GodslayerHornedVisor: {
+				SetBonus:
+					'''
+					+150 shield capacity and 7 shield regeneration
+					20% increase true attack speed
+					'''
+				DisplayName: God Slayer Horned Visor
+				Tooltip: 20% increased true damage and 15% critical strike chance
+			}
 		}
 
 		Items: {
@@ -37,185 +90,6 @@ Mods: {
 				SoAWorldshaper: Effects of Rage Supressor, Celestial ring
 			}
 
-			Lore: {
-				ShtuxibusLore: {
-					/* Lore:
-						'''
-						No. No no no no. I reject commenting this.
-						I am commenting already too much.
-						''' */
-					// DisplayName: Lore - Shtuxibus
-				}
-			}
-
-			AdamantiteSingularity: {
-				// DisplayName: Adamantite Singularity
-				// Tooltip: ""
-			}
-
-			AeraliteSingularity: {
-				// DisplayName: Aeralite Singularity
-				// Tooltip: ""
-			}
-
-			ShtuxianSoul: {
-				// DisplayName: Soul of Chtux'lag'or
-				/* Tooltip:
-					'''
-					Effects of [i:FargowiltasSouls/EternitySoul], [i:ssm/EternityForce], [i:ssm/ShtuxianEnchant]
-					Your attacks inflict most of debuffs, all defense and regeneration bonuses x2
-					Grants immunity to all debuffs except "Chtux'lag'or Inferno" and "Shtuxibus Curse"
-					Press [shtuxianSuper] key to become invinvible for 20 seconds
-					Increace maximum eternity crits by 2000, faster mutant eye cooldown
-					'God or whatever, all things acknowledge your claim to omnipotence.'
-					''' */
-			}
-
-			AstralSingularity: {
-				// DisplayName: Astral Singularity
-				// Tooltip: ""
-			}
-
-			AuricSingularity: {
-				// DisplayName: Auric Singularity
-				// Tooltip: ""
-			}
-
-			ChlorophyteSingularity: {
-				// DisplayName: Chlorophyte Singularity
-				// Tooltip: ""
-			}
-
-			CobaltSingularity: {
-				// DisplayName: Cobalt Singularity
-				// Tooltip: ""
-			}
-
-			CopperSingularity: {
-				// DisplayName: Copper Singularity
-				// Tooltip: ""
-			}
-
-			CosmiliteSingularity: {
-				// DisplayName: Cosmilite Singularity
-				// Tooltip: ""
-			}
-
-			CrimtaneSingularity: {
-				// DisplayName: Crimtane Singularity
-				// Tooltip: ""
-			}
-
-			CryoniteSingularity: {
-				// DisplayName: Cryonite Singularity
-				// Tooltip: ""
-			}
-
-			DemoniteSingularity: {
-				// DisplayName: Demonite Singularity
-				// Tooltip: ""
-			}
-
-			GoldSingularity: {
-				// DisplayName: Gold Singularity
-				// Tooltip: ""
-			}
-
-			HallowSingularity: {
-				// DisplayName: Hallow Singularity
-				// Tooltip: ""
-			}
-
-			HellstoneSingularity: {
-				// DisplayName: Hellstone Singularity
-				// Tooltip: ""
-			}
-
-			LeadSingularity: {
-				// DisplayName: Lead Singularity
-				// Tooltip: ""
-			}
-
-			MeteoriteSingularity: {
-				// DisplayName: Meteorite Singularity
-				// Tooltip: ""
-			}
-
-			MythrillSingularity: {
-				// DisplayName: Mythrill Singularity
-				// Tooltip: ""
-			}
-
-			OrichalcumSingularity: {
-				// DisplayName: Orichalcum Singularity
-				// Tooltip: ""
-			}
-
-			PalladiumSingularity: {
-				// DisplayName: Palladium Singularity
-				// Tooltip: ""
-			}
-
-			PerenialSingularity: {
-				// DisplayName: Perenial Singularity
-				// Tooltip: ""
-			}
-
-			PlatinumSingularity: {
-				// DisplayName: Platinum Singularity
-				// Tooltip: ""
-			}
-
-			ScoriaSingularity: {
-				// DisplayName: Scoria Singularity
-				// Tooltip: ""
-			}
-
-			SilverSingularity: {
-				// DisplayName: Silver Singularity
-				// Tooltip: ""
-			}
-
-			SpectreSingularity: {
-				// DisplayName: Spectre Singularity
-				// Tooltip: ""
-			}
-
-			TinSingularity: {
-				// DisplayName: Tin Singularity
-				// Tooltip: ""
-			}
-
-			TitaniumSingularity: {
-				// DisplayName: Titanium Singularity
-				// Tooltip: ""
-			}
-
-			TungstenSingularity: {
-				// DisplayName: Tungsten Singularity
-				// Tooltip: ""
-			}
-
-			UelibloomSingularity: {
-				// DisplayName: Uelibloom Singularity
-				// Tooltip: ""
-			}
-
-			UltimateHealingPotion: {
-				DisplayName: 究极恢复药水
-				Tooltip: ""
-			}
-
-			LuminiteSingularity: {
-				// DisplayName: Luminite Singularity
-				// Tooltip: ""
-			}
-
-			ShroomiteSingularity: {
-				// DisplayName: Shroomite Singularity
-				// Tooltip: ""
-			}
-
 			CalamitySoul: {
 				DisplayName: 寻神者之魂
 				TooltipOld:
@@ -238,93 +112,6 @@ Mods: {
 					获得寻神者吊坠和硫火女巫的烙印效果
 					“这片土地可能再无安宁，但和平终会到来”
 					'''
-			}
-
-			ShtuxibusSword: {
-				// DisplayName: Shtuxian Spear
-				/* Tooltip:
-					'''
-					Set life of attacked entity to 0.
-					♎ Chtux'Lag'Or Item ♎
-					''' */
-			}
-
-			InfinityCatalyst: {
-				// DisplayName: Infinity Catalyst
-				// Tooltip: All strength of universe in your palm.
-			}
-
-			InfinityIngot: {
-				// DisplayName: Awakened shtuxium bar
-				// Tooltip: True essense of Chtux'Lag'Or shard.
-			}
-
-			ShtuxianCurse: {
-				// DisplayName: Shtuxibus Curse
-				// Tooltip: ""
-			}
-
-			chtuxmantle: {
-				// DisplayName: Chtuxlagor Mantle
-				// Tooltip: Effects of all armor sets and accessories.
-			}
-
-			DemonshadeBreastplateCat: {
-				// DisplayName: Demonshade C.A.T Breastplate
-				/* Tooltip:
-					'''
-					+ 700 Max life
-					x2 all damage for all classes
-					Godly regeneration
-					+ 500 armor penetration for all classes
-					Effect of [i:FargowiltasSouls/MutantBody], [i:CalamityMod/DemonshadeBreastplate], [i:CalamityMod/AuricTeslaBodyArmor], [i:CalamityMod/GemTechBodyArmor].
-					''' */
-			}
-
-			DemonshadeHelmetCat: {
-				// DisplayName: Demonshade C.A.T Helmet
-				/* Tooltip:
-					'''
-					+ 700 Max mana
-					+ 60% damage to all classes and 80% crit chance
-					+ 10 Max minion slots
-					Effect of [i:FargowiltasSouls/MutantMask], [i:CalamityMod/DemonshadeHelm], [i:CalamityMod/AuricTeslaHoodedFacemask], [i:CalamityMod/AuricTeslaWireHemmedVisage], [i:CalamityMod/AuricTeslaRoyalHelm], [i:CalamityMod/AuricTeslaPlumedHelm], [i:CalamityMod/GemTechHeadgear].
-					''' */
-			}
-
-			DemonshadeLegginsCat: {
-				// DisplayName: Demonshade C.A.T Leggins
-				/* Tooltip:
-					'''
-					+ 30% movement speed
-					+ 50% damage to all clases
-					Effect of [i:FargowiltasSouls/MutantPants], [i:CalamityMod/DemonshadeGreaves], [i:CalamityMod/AuricTeslaCuisses], [i:CalamityMod/GemTechSchynbaulds].
-					''' */
-			}
-
-			ShtuxiumOre: {
-				// Tooltip: ""
-				// DisplayName: Shtuxium Ore
-			}
-
-			ShtuxiumBar: {
-				// Tooltip: Ingot of Chtux'Lag'Or shard's essense.
-				// DisplayName: Shtuxium Bar
-			}
-
-			ShtuxiumSoulShard: {
-				// Tooltip: ""
-				// DisplayName: Shtuxium Soul Shard
-			}
-
-			ShtuxibusBag: {
-				// Tooltip: ""
-				// DisplayName: Shtuxibus Bag
-			}
-
-			ShtuxibusSpear: {
-				// Tooltip: ""
-				// DisplayName: Shtuxibus Spear
 			}
 
 			NekomiEnchant: {
@@ -367,106 +154,6 @@ Mods: {
 					'''
 			}
 
-			ShtuxibusTrophy: {
-				// DisplayName: Shtuxibus Trophy
-				// Tooltip: ""
-			}
-
-			ShtuxibusRelic: {
-				// DisplayName: Shtuxibus Relic
-				// Tooltip: ""
-			}
-
-			AnnihilationAshSingularity: {
-				// DisplayName: Annihilation Ash Singularity
-				// Tooltip: ""
-			}
-
-			AscendantSingularity: {
-				// DisplayName: Ascendant Singularity
-				// Tooltip: ""
-			}
-
-			BloodSampleSingularity: {
-				// DisplayName: Blood Sample Singularity
-				// Tooltip: ""
-			}
-
-			BloodstoneSingularity: {
-				// DisplayName: Bloodstone Singularity
-				// Tooltip: ""
-			}
-
-			CalamityAshSingularity: {
-				// DisplayName: Calamity Ash Singularity
-				// Tooltip: ""
-			}
-
-			CalamitySingularity: {
-				// DisplayName: Calamity Singularity
-				// Tooltip: ""
-			}
-
-			CorrodedSingularity: {
-				// DisplayName: Corroded Singularity
-				// Tooltip: ""
-			}
-
-			DepthSingularity: {
-				// DisplayName: Depth Singularity
-				// Tooltip: ""
-			}
-
-			ExoSingularity: {
-				// DisplayName: Exo Singularity
-				// Tooltip: ""
-			}
-
-			MeldSingularity: {
-				// DisplayName: Meld Singularity
-				// Tooltip: ""
-			}
-
-			NecroplasmSingularity: {
-				// DisplayName: Necroplasm Singularity
-				// Tooltip: ""
-			}
-
-			PlagueCanisterSingularity: {
-				// DisplayName: Plague Canister Singularity
-				// Tooltip: ""
-			}
-
-			PurifiedGelSingularity: {
-				// DisplayName: Purified Gel Singularity
-				// Tooltip: ""
-			}
-
-			RottenMatterSingularity: {
-				// DisplayName: Rotten Matter Singularity
-				// Tooltip: ""
-			}
-
-			SeaRemainsSingularity: {
-				// DisplayName: Sea Remains Singularity
-				// Tooltip: ""
-			}
-
-			SolarVeilSingularity: {
-				// DisplayName: Solar Veil Singularity
-				// Tooltip: ""
-			}
-
-			TerrariaSingularity: {
-				// DisplayName: Terraria Singularity
-				// Tooltip: ""
-			}
-
-			WulfrumSingularity: {
-				// DisplayName: Wulfrum Singularity
-				// Tooltip: ""
-			}
-
 			UltimateFargoWeapon: {
 				Tooltip: ""
 				DisplayName: 终极Fargo武器
@@ -475,11 +162,6 @@ Mods: {
 			MutantsForge: {
 				DisplayName: 突变锻炉
 				Tooltip: ""
-			}
-
-			ShtuxibusForge: {
-				// Tooltip: Allow you creating Chtuxlagor Items and Items from Shtuxium
-				// DisplayName: Shtuxibus Forge
 			}
 
 			MonstrosityMask: {
@@ -495,21 +177,6 @@ Mods: {
 			MonstrositySuit: {
 				DisplayName: 魔神之躯
 				Tooltip: 原初的魔神之力
-			}
-
-			ShtuxibusHeadgear: {
-				// DisplayName: Shtuxibus Headgear
-				// Tooltip: Vanity
-			}
-
-			ShtuxibusPants: {
-				// DisplayName: Shtuxibus Pants
-				// Tooltip: Vanity
-			}
-
-			ShtuxibusSuit: {
-				// DisplayName: Shtuxibus Suit
-				// Tooltip: Vanity
 			}
 
 			TrueMonstrosityMask: {
@@ -538,7 +205,7 @@ Mods: {
 				Tooltip:
 					'''
 					增加150%伤害和20%暴击率
-					增加20个召唤栏位和哨兵栏
+					增加20个仆从栏位和哨兵栏
 					最大生命值和魔力值增加1000
 					减少40%魔力消耗，25%概率不消耗弹药
 					[c/cDA10E6:装备一整套盔甲会给予你惊人的属性加成]
@@ -548,41 +215,6 @@ Mods: {
 			Sadism: {
 				DisplayName: 暴虐能量
 				Tooltip: 真正的永恒精华
-			}
-
-			TrueAuricTeslaBody: {
-				// DisplayName: True Auric Tesla Body
-				/* Tooltip:
-					'''
-					40% increased damage and 20% increased critical strike chance 
-					Increases max number of minions and sentries by 10
-					Increases damage reduction by 50%, Increases max life and mana by 300
-					50% reduced mana usage, 25% chance not to consume ammo.
-					''' */
-			}
-
-			TrueAuricTeslaHelm: {
-				// DisplayName: True Auric Tesla Helm
-				/* Tooltip:
-					'''
-					50% increased damage and 50% increased critical strike chance
-					Godly increases life regen, also increases armor penetration to 60.
-					Effect of [i:CalamityMod/AuricTeslaHoodedFacemask], [i:CalamityMod/AuricTeslaWireHemmedVisage], [i:CalamityMod/AuricTeslaRoyalHelm], [i:CalamityMod/AuricTeslaPlumedHelm]
-					''' */
-			}
-
-			TrueAuricTeslaLegs: {
-				// DisplayName: True Auric Tesla Legs
-				/* Tooltip:
-					'''
-					40% increased damage and 20% increased critical strike chance
-					50% increased movement
-					''' */
-			}
-
-			ShtuxibusBagGfb: {
-				// DisplayName: Shtuxibus Bag Gfb
-				// Tooltip: ""
 			}
 
 			CrabulonEnergizer: {
@@ -796,28 +428,8 @@ Mods: {
 			}
 
 			OverloadedSirenPearl: {
-				DisplayName: Tooltip: ""
-				// Tooltip: ""
-			}
-
-			DemonshadeHelmMagic: {
-				// DisplayName: Demonshade Helm Magic
-				// Tooltip: ""
-			}
-
-			DemonshadeHelmRanged: {
-				// DisplayName: Demonshade Helm Ranged
-				// Tooltip: ""
-			}
-
-			DemonshadeHelmRogue: {
-				// DisplayName: Demonshade Helm Rogue
-				// Tooltip: ""
-			}
-
-			DemonshadeHelmSummon: {
-				// DisplayName: Demonshade Helm Summon
-				// Tooltip: ""
+				DisplayName: 
+				Tooltip: ""
 			}
 
 			EridanusEnchant: {
@@ -869,31 +481,12 @@ Mods: {
 					[i:FargowiltasSouls/GaiaHelmet] [i:FargowiltasSouls/GaiaPlate] [i:FargowiltasSouls/GaiaGreaves]
 					增加10%近战攻速
 					魔力消耗减少10%，10%几率不消耗弹药
-					增加4个召唤栏位
+					增加4个仆从栏位
 					双击DOWN键以开关进攻模式，进攻模式具有如下效果：
 					增加30%手持武器职业伤害和15%该职业暴击率
 					增加20点护甲穿透
 					降低20点防御力、10%最大生命值和15%伤害减免
 					'''
-			}
-
-			CelestialEnchant: {
-				// DisplayName: Celestial Enchant
-				// Tooltip: Summon four pillars to protect you.
-			}
-
-			ChtuxlagorHeart: {
-				// DisplayName: Chtux'Lag'Or heart
-				/* Tooltip:
-					'''
-					Press [shtuxianSuper] key to become invinvible for 5 seconds
-					Your attacks inflict "Chtux'lag'or inferno".
-					Set Mutant Bomb CD to 30 seconds instead of 60.
-					Grants immunity to "Shtuxibus Curse", Debuff "Chtux'lag'or inferno" deal lower damage
-					100% increace graze bonus damage cap, Increace damage of spectral siblings.
-					You can't take more than 1000 damage.
-					'The mechanical heart of a puppet of an incomprehensible being'
-					''' */
 			}
 
 			RampartOfAsgard: {
@@ -1249,6 +842,17 @@ Mods: {
 					'''
 			}
 
+			SlingerEssence: {
+				DisplayName: Slinger Essence
+				Tooltip:
+					'''
+					18% increased thrower damage
+					5% increased thrower and throwing speed
+					5% increased thrower critical strike chance
+					'This is only the beginning..'
+					'''
+			}
+
 			BardSoul: {
 				DisplayName: 天籁之魂
 				Tooltip:
@@ -1492,6 +1096,11 @@ Mods: {
 					'''
 			}
 
+			Fallen: {
+				DisplayName: 坠落
+				Tooltip: ""
+			}
+
 			FleshEnchant: {
 				DisplayName: 血肉魔石
 				Tooltip:
@@ -1625,7 +1234,7 @@ Mods: {
 				Tooltip:
 					'''
 					召唤一个生命木橡子
-					增加1个召唤栏位
+					增加1个仆从栏位
 					“成为自然的一部分”
 					'''
 			}
@@ -1941,6 +1550,15 @@ Mods: {
 					'''
 			}
 
+			AstroEnchant: {
+				DisplayName: 宇航魔石
+				Tooltip:
+					'''
+					仆从伤害集中时有概率释放一场魔法脉冲爆发
+					增加1个仆从栏位和哨兵栏位
+					'''
+			}
+
 			WhiteKnightEnchant: {
 				DisplayName: 白骑士魔石
 				Tooltip:
@@ -2153,11 +1771,6 @@ Mods: {
 				DisplayName: 深渊之影密封盒
 			}
 
-			ShtuxianCurseEX: {
-				// DisplayName: Shtuxian Curse EX
-				// Tooltip: ""
-			}
-
 			AbaddonEnergizer: {
 				DisplayName: Abaddon Energizer
 				Tooltip: ""
@@ -2258,51 +1871,14 @@ Mods: {
 				Tooltip: ""
 			}
 
-			ShtuxianHarbringer: {
-				// DisplayName: Shtuxian Harbringer
-				// Tooltip: ""
-			}
-
 			Monstrocity: {
 				DisplayName: 魔神
 				Tooltip: ""
 			}
 
-			Calamitass: {
-				// DisplayName: Calamitas
-				// Tooltip: ""
-			}
-
-			YharimWhere: {
-				// DisplayName: Yharim Where
-				// Tooltip: ""
-			}
-
-			Bandit: {
-				// DisplayName: Bandit
-				// Tooltip: ""
-			}
-
 			DemonshadeWorkbench: {
 				Tooltip: ""
 				DisplayName: 魔影坩埚
-			}
-
-			ShtuxibusFumo: {
-				/* Tooltip:
-					'''
-					Use this item to meet me.
-					Reccomend you to use it in spacious place like sky.
-					Your hitbox will become a little dot for a fight.
-					Highly reccomend to have [i:ssm/ShtuxianSoul].
-					Defeating me less than in minute will kill you.
-					Dealing more that 1/10 of health will kill you.
-					Trying to use Super Smash mod on me will kill you.
-					Trying to use [shtuxianSuper] will immideately kill you.
-					Cheat Sheet/Heros's Mod/DragonLens godmode will kill you.
-					All bosses, npcs and creature will die after usage of this item.
-					''' */
-				// DisplayName: Shtuxibus Fumo
 			}
 
 			BrimstoneWitch: {
@@ -2430,94 +2006,6 @@ Mods: {
 				Tooltip: “鸡蛋里面为什么能孵出来鸭绒”
 			}
 
-			ShtuxianEnchant: {
-				// DisplayName: Shtuxian Enchant
-				/* Tooltip:
-					'''
-					[i:ssm/QuantumChestplate], [i:ssm/QuantumPants]
-					If damage less than 10, it will be nulified, Your attacks inflict "Chtux'lag'or inferno"
-					Supression of "Chtux'lag'or inferno" effects, All set bonuses from Monstrosity and Mutant armor
-					You can revive up to 3 times, healing all health, Cooldown of each revive is 30 seconds
-					[i:ssm/ChtuxlagorHeart]
-					Your attacks inflict "Chtux'lag'or inferno", You can't take more than 1000 damage.
-					Set Mutant Bomb CD to 30 seconds instead of 60, 100% increace graze bonus damage cap
-					Grants immunity to "Shtuxibus Curse", Debuff "Chtux'lag'or inferno" deal lower damage
-					Press [shtuxianSuper] key to become invinvible for 10 seconds
-					[i:ssm/ShtuxianEnchant] Remove any hits cap.
-					''' */
-			}
-
-			QuantumChestplate: {
-				// DisplayName: Quantum Chestplate
-				/* Tooltip:
-					'''
-					+ 10000 shield points, + 100 shield regeneration
-					+ 2000 Max life and mana, x5 all damage for all classes
-					Godly regeneration, 50% Damage resistance
-					Ignore armor of any enemies, 100% crit chance
-					''' */
-			}
-
-			QuantumPants: {
-				// DisplayName: Quantum Pants
-				/* Tooltip:
-					'''
-					+ 10000 shield points, + 100 shield regeneration
-					50% Damage resistance, Ignore armor of any enemies
-					50% move speed, x5 all damage for all classes
-					''' */
-			}
-
-			QuantumHelmet: {
-				// DisplayName: Quantum Helmet
-				/* Tooltip:
-					'''
-					+ 10000 shield points, + 100 shield regeneration
-					50% Damage resistance, Ignore armor of any enemies
-					Display all enemies, traps, treasures, ores
-					''' */
-			}
-
-			ShieldCheckDebug: {
-				// DisplayName: Shield Check Debug
-				// Tooltip: Debug
-			}
-
-			StorageUnitShtuxian: {
-				// DisplayName: Storage Unit Shtuxian
-				// Tooltip: DO NOT use this
-			}
-
-			ChtuxlagorShard: {
-				// Tooltip: ""
-				// DisplayName: Chtuxlagor Shard
-			}
-
-			ShtuxiumArrow: {
-				// DisplayName: Shtuxium Arrow
-				/* Tooltip:
-					'''
-					Inflict "Chtux'lag'or Inferno" on attacked
-					Homes in on enemies, pass throug blocks
-					Explodes on hit
-					''' */
-			}
-
-			StarlightCompiler: {
-				// DisplayName: Starlight Compiler
-				// Tooltip: Equip this to unleash true power of dev suits.
-			}
-
-			ShtuxiumBullet: {
-				/* Tooltip:
-					'''
-					Inflict "Chtux'lag'or Inferno" on attacked
-					Homes in on enemies, pass throug blocks
-					Explodes on hit
-					''' */
-				// DisplayName: Shtuxium Bullet
-			}
-
 			ElementalArtifact: {
 				DisplayName: 元素之石
 				Tooltip:
@@ -2595,63 +2083,750 @@ Mods: {
 					'''
 			}
 
-			GeigerCounter: {
-				// DisplayName: Geiger Counter
-				// Tooltip: ""
+			AddonsForce: {
+				DisplayName: 灾集之力
+				Tooltip:
+					'''
+					获得虚空行者、 渊洋神迹、神胶幕府将军、异宇星凝、灾蛤和Frozen盔甲的套装奖励
+					获得异彩果酱、神圣屏障、热源之魂、Hell's Fire的效果
+					获得光标突变剂、轮回证章、凝涌星核的效果
+					[c/EE0000:注意] 需安装灾劫、灾熵、灾蛤、旧神之猎
+					'''
 			}
 
-			RadiationDebug: {
-				// DisplayName: Radiation Debug
-				// Tooltip: ""
+			IntergelacticEnchant: {
+				DisplayName: 异宇星凝魔石
+				Tooltip:
+					'''
+					在你的周为召唤两个由小行星形成星环，你伤害增幅越高 ，星环伤害越高
+					按下 {0} 键使星环透明化
+					你免疫星辉凋亡，你的攻击会造成星辉凋亡
+					按下 {0} 键化身成为暴烈星云，向光标冲刺
+					冲刺时，免疫所有伤害
+					有{1}秒冷却
+					'''
 			}
 
-			JourneyCapacitor: {
-				// DisplayName: Journey Capacitor
-				// Tooltip: ""
+			ShogunEnchant: {
+				DisplayName: 神胶幕府魔石
+				Tooltip:
+					'''
+					启用压力条
+					压力值会被动的累计，站在敌怪附近提升积累速率
+					压力值达到25%时你的武器会产生爆炸
+					压力值达到75%时爆炸会变得更大并造成更多伤害
+					压力值高于25%双击DOWN激活恶意模式
+					恶意模式会显著增加你的伤害，同时获得固定伤害、护甲穿透和暴击率加成
+					加成的效果与持续时间取决于你当前剩余的压力值
+					{$CommonItemTooltip.FlightAndSlowfall}
+					穿戴任何翅膀都会覆盖飞行效果
+					{$CommonItemTooltip.PressDownToHover}
+					允许冲刺并增强其他冲刺效果
+					免疫许多游戏末期以及速度相关的减益
+					'''
 			}
 
-			ShtuxiumCapacitor: {
-				// DisplayName: Shtuxium Capacitor
-				// Tooltip: ""
+			VoidFaquirEnchant: {
+				DisplayName: 虚空行者魔石
+				Tooltip:
+					'''
+					攻击命中目标汇积攒虚空能量
+					根据虚空能量提供部分移速和飞行速度加成
+					按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键激发虚空能量
+					召唤一个虚空幻影协助战斗并无限飞行，持续10秒
+					虚空幻影的伤害类型取决于你手中的武器
+					按下 [{$Mods.CalamityMod.Keybinds.AscendantInsigniaHotKey.DisplayName}] 键启用协调状态
+					该状态下，你不受重力影响，且推开周围弹幕
+					'''
+			}
+
+			DivineEnchant: {
+				DisplayName: Divine Enchantment
+				Tooltip:
+					'''
+					Grants fast infinite flight
+					{$CommonItemTooltip.PressDownToHover}
+					Reveals a Light Dimension behind your cursor
+					'''
+			}
+
+			EntropicEnchant: {
+				DisplayName: Entropic Enchantment
+				Tooltip: Makes cosmic hallutinations materialize around you
+			}
+
+			FrozenEnchant: {
+				DisplayName: Frozen Enchantment
+				Tooltip:
+					'''
+					20% increased true melee damage. Can't be frozen
+					True melee attacks inflict frostburn. 
+					Press Armor Ability Key to create an ice shield that parries attack
+					Failing to parry will cause you to overcool
+					'''
+			}
+
+			WoolenEnchantment: {
+				DisplayName: Woolen Enchantment
+				Tooltip: ""
+			}
+
+			EmptinessEnchant: {
+				DisplayName: Emptiness Enchantment
+				Tooltip: ""
+			}
+
+			CoralEnchant: {
+				DisplayName: 珊瑚魔石
+				Tooltip:
+					'''
+					光辉伤害会建立至多20点生命护盾且你的生命护盾不会随时间衰减
+					治疗队友会将生命护盾转移至他们身上
+					获得海风垂饰、泡泡磁铁的效果
+					“在鱼群中徜徉”
+					'''
+			}
+
+			SyranCraftingStationItem: {
+				Tooltip: ""
+				DisplayName: Syran Crafting Station
+			}
+
+			MutantsForgeItem: {
+				Tooltip: ""
+				DisplayName: 突变锻炉
+			}
+
+			DreamersForgeItem: {
+				Tooltip: ""
+				DisplayName: 梦幻锻炉
+			}
+
+			DemonshadeWorkbenchItem: {
+				Tooltip: ""
+				DisplayName: 魔影坩埚
+			}
+
+			SolynsSigil: {
+				Tooltip: 获得众神之怒所有时装饰品的效果
+				DisplayName: 索琳魔符
+			}
+
+			RedemptionCraftingStationItem: {
+				DisplayName: 救赎制作站
+				Tooltip: ""
+			}
+
+			CairoCrusaderEnchant: {
+				Tooltip:
+					'''
+					Awakens Eternal Oasis to aid in your battle
+					Double tap down to switch between active and passive
+					'''
+				DisplayName: Cairo Crusader Enchant
+			}
+
+			Blacksmith: {
+				DisplayName: Blacksmith
+				Tooltip: ""
+			}
+
+			Cook: {
+				DisplayName: Cook
+				Tooltip: ""
+			}
+
+			Cobbler: {
+				DisplayName: Cobbler
+				Tooltip: ""
+			}
+
+			ConfusedZombie: {
+				DisplayName: Confused Zombie
+				Tooltip: ""
+			}
+
+			DesertAcolyte: {
+				DisplayName: Desert Acolyte
+				Tooltip: ""
+			}
+
+			Diverman: {
+				DisplayName: Diverman
+				Tooltip: ""
+			}
+
+			Druid: {
+				DisplayName: Druid
+				Tooltip: ""
+			}
+
+			Spiritualist: {
+				DisplayName: Spiritualist
+				Tooltip: ""
+			}
+
+			Tracker: {
+				DisplayName: Tracker
+				Tooltip: ""
+			}
+
+			WeaponMaster: {
+				DisplayName: Weapon Master
+				Tooltip: ""
+			}
+
+			PureNymph: {
+				DisplayName: Pure Nymph
+				Tooltip: ""
+			}
+
+			Scavenger: {
+				DisplayName: Scavenger
+				Tooltip: ""
+			}
+
+			PandolarSalvager: {
+				DisplayName: Pandolar Salvager
+				Tooltip: ""
+			}
+
+			Decorationist: {
+				DisplayName: Decorationist
+				Tooltip: ""
+			}
+
+			CloakedAlchemist: {
+				DisplayName: Cloaked Alchemist
+				Tooltip: ""
+			}
+
+			Fool: {
+				DisplayName: Fool
+				Tooltip: ""
+			}
+
+			FriendlyTbot: {
+				DisplayName: Friendly Tbot
+				Tooltip: ""
+			}
+
+			Calavia: {
+				DisplayName: Calavia
+				Tooltip: ""
+			}
+
+			Wayfarer: {
+				DisplayName: Wayfarer
+				Tooltip: ""
+			}
+
+			BlueComputerChip: {
+				Tooltip: ""
+				DisplayName: Blue Computer Chip
+			}
+
+			MariviumEnchant: {
+				Tooltip:
+					'''
+					如果你的暴击几率超过100%，将溢出的暴击率转化为伤害加成
+					获得2层抵挡伤害的护盾，在破碎后需要10秒才能恢复
+					护盾破碎后，回复140点生命值，获得5秒“深渊狂怒”增益，增加100%伤害
+					'''
+				DisplayName: 渊洋神迹魔石
+			}
+
+			ClamitasEnchant: {
+				Tooltip:
+					'''
+					Three shellfishes aid you in combat
+					Effects of Soul of Pyrogen and Hell Flare
+					'''
+				DisplayName: Clamitas Enchant
+			}
+
+			BuffaloDrumstick: {
+				DisplayName: Buffalo Drumstick
+				Tooltip: ""
+			}
+
+			CockatriceEgg: {
+				DisplayName: Cockatrice Egg
+				Tooltip: ""
+			}
+
+			DirtyCloth: {
+				DisplayName: Dirty Cloth
+				Tooltip: ""
+			}
+
+			FrostedMetal: {
+				DisplayName: Frosted Metal
+				Tooltip: ""
+			}
+
+			GildedDrumstick: {
+				DisplayName: Gilded Drumstick
+				Tooltip: ""
+			}
+
+			GreenComputerChip: {
+				DisplayName: Green Computer Chip
+				Tooltip: ""
+			}
+
+			GreyComputerChip: {
+				DisplayName: Grey Computer Chip
+				Tooltip: ""
+			}
+
+			IrradiatedSkull: {
+				DisplayName: Irradiated Skull
+				Tooltip: ""
+			}
+
+			RadioactiveSushi: {
+				DisplayName: Radioactive Sushi
+				Tooltip: ""
+			}
+
+			SleepyRock: {
+				DisplayName: 沉睡岩石
+				Tooltip: ""
+			}
+
+			MutantsCurseEX: {
+				DisplayName: 突变体诅咒EX
+				Tooltip: ""
+			}
+
+			UltimateHealingPotion: {
+				Tooltip: ""
+				DisplayName: 究极恢复药水
+			}
+
+			OlympiansSoul: {
+				DisplayName: 奥林匹克之魂
+				Tooltip:
+					'''
+					增加22%投掷伤害
+					增加10%投掷弹幕速度
+					增加10%投掷暴击率
+					获得亡者补丁和海盗钱包的效果
+					'''
+			}
+
+			MutagenHealing: {
+				DisplayName: 救赎诱变剂
+				Tooltip:
+					'''
+					增加20%光辉伤害
+					增加10%光辉暴击率
+					增加10%治疗速度和施法速度
+					治疗法术会额外治疗3点生命值
+					'''
+			}
+
+			MutagenSymphonic: {
+				DisplayName: 颂歌诱变剂
+				Tooltip:
+					'''
+					增加20%音波伤害
+					增加10%音波暴击率和演奏速度
+					增加10点最大灵感值
+					咒音增幅持续时间更长
+					'''
+			}
+
+			MutagenThrowing: {
+				DisplayName: Mutagen Throwing
+				Tooltip:
+					'''
+					20% increased throwing damage
+					10% increased throwing crit chance and attack speed
+					10% increased throwing velocity
+					'''
+			}
+
+			MutagenThrowingSoA: {
+				Tooltip:
+					'''
+					20% increased throwing damage
+					10% increased throwing crit chance and attack speed
+					10% increased throwing velocity
+					'''
+				DisplayName: Mutagen Throwing
+			}
+
+			MutagenThrowingCal: {
+				Tooltip:
+					'''
+					增加20%投掷伤害
+					增加10%投掷暴击率和投掷速度
+					增加10%投掷物速率
+					'''
+				DisplayName: 盗贼诱变剂
+			}
+
+			StalkerEssence: {
+				Tooltip:
+					'''
+					18% increased thrower damage
+					5% increased thrower and throwing speed
+					5% increased thrower critical strike chance
+					'''
+				DisplayName: Stalker Essence
+			}
+
+			CyclonicFin: {
+				Tooltip:
+					'''
+					'The wind is howling'
+					Grants immunity to Curse of the Moon and Oceanic Maul
+					Your attacks inflict Curse of the Moon and Oceanic Maul
+					Spectral Fishron periodically manifests to support your critical hits
+					Spectral Fishron also inflicts Mutant Nibble, disabling enemy healing
+					Upgrades Cute Fishron to Cute Fishron EX
+					'''
+				DisplayName: Cyclonic Fin
+			}
+
+			WildernessForce: {
+				Tooltip:
+					'''
+					Set bonuses from [i:Polarities/SnakescaleMask] Snakescale, [i:Polarities/SunplateMask] Sunplate, [i:Polarities/StormcloudMask] Stormcloud, [i:Polarities/LimestoneHelmet] Limestone, [i:Polarities/HaliteHelmet] Halite and [i:Polarities/ConvectiveHelmetSummon] Convective armor
+					Effects of [i:Polarities/CosmicCable] Cosmic Cable, [i:Polarities/StarbindCuffs] Starbind Cuffs, [i:Polarities/StormScales] Stormscales and [i:Polarities/RhyoliteShield] Rhyolite Shield
+					Effects of [i:Polarities/CorrosivePolish] Corrosive Polish, [i:Polarities/BuildingEruption] Building Eruption and [i:Polarities/SaltatoryLeg] Saltatory Leg
+					'''
+				DisplayName: Wilderness Force
+			}
+
+			SpacetimeForce: {
+				Tooltip:
+					'''
+					Set bonuses from [i:Polarities/SelfsimilarHelmetMelee] Selfsimilar, [i:Polarities/FractalHelmetMelee] Fractal and [i:Polarities/FlawlessMechMask] Flawless Mechanical Armor
+					Effects of [i:Polarities/SentinelsHeart] Sentinels Heart, [i:Polarities/CloakofPockets] Cloak of Pockets
+					'''
+				DisplayName: Spacetime Force
+			}
+
+			SunplateEnchant: {
+				Tooltip:
+					'''
+					[i:Polarities/SunplateMask] Allows the ability to dash
+					[i:Polarities/CosmicCable] Improves hook stats
+					[i:Polarities/StarbindCuffs] Increases pickup range for mana stars, Restores mana when damaged
+					[i:Polarities/StarbindCuffs] Increases maximum mana by 20, Doubles mana recieved from mana stars
+					'''
+				DisplayName: Sunplate Enchant
+			}
+
+			StormcloudEnchant: {
+				Tooltip:
+					'''
+					[i:Polarities/StormcloudMask] Summons clouds to drench your foes
+					[i:Polarities/StormcloudMask] Increases your max number of minions
+					[i:Polarities/StormScales] Boosts mobility in the air
+					'''
+				DisplayName: Stormcloud Enchant
+			}
+
+			SnakescaleEnchant: {
+				Tooltip:
+					'''
+					[i:Polarities/SnakescaleMask] Free movement in liquids
+					[i:Polarities/SnakescaleMask] Critical hits deal extra damage and inflict venom
+					'''
+				DisplayName: Snakescale Enchant
+			}
+
+			SelfsimilarEnchant: {
+				Tooltip:
+					'''
+					[i:Polarities/SelfsimilarHelmetMelee] Maximum life lost to fractalization is divided by 1.25
+					[i:Polarities/SelfsimilarHelmetMelee] Grants resistance up to 3 minutes of fractalization
+					[i:Polarities/SelfsimilarHelmetMelee] Create class-specific projectiles from selfsimilar energy
+					[i:Polarities/SentinelsHeart] Grants the player additional health, and a boost to defense while this additional health is retained
+					[i:Polarities/SentinelsHeart] When this additional health is lost, released homing wisps to damage enemies
+					'''
+				DisplayName: Selfsimilar Enchant
+			}
+
+			MechanicalEnchant: {
+				Tooltip:
+					'''
+					[i:Polarities/FlawlessMechMask] Right click to enter a temporary state of mecha mayhem, buffing your armor's attacks
+					[i:Polarities/FlawlessMechMask] This has a short cooldown, but the cooldown does not progress while holding a weapon
+					'''
+				DisplayName: Mechanical Enchant
+			}
+
+			LimestoneEnchant: {
+				Tooltip:
+					'''
+					[i:Polarities/LimestoneHelmet] 40 defense
+					[i:Polarities/LimestoneHelmet] Defense is reduced to zero for a short time after being hit
+					[i:Polarities/RhyoliteShield] Grants immunity to knockback and fire blocks
+					[i:Polarities/RhyoliteShield] You take 33% less damage from a single hit with a 30 second cooldown
+					[i:Polarities/CorrosivePolish] Warhammers remove 10 more defense for 10 more seconds
+					'''
+				DisplayName: Limestone Enchantment
+			}
+
+			HaliteEnchant: {
+				Tooltip:
+					'''
+					[i:Polarities/SaltatoryLeg] Increases jump speed and allows auto-jump
+					[i:Polarities/SaltatoryLeg] Increases fall resistance and horizontal speed when jumping
+					[i:Polarities/HaliteHelmet] Free movement in liquids
+					[i:Polarities/HaliteHelmet] Immunity to desiccation
+					'''
+				DisplayName: Halite Enchantment
+			}
+
+			FractalEnchant: {
+				Tooltip:
+					'''
+					[i:Polarities/FractalFaceplate] Maximum life lost to fractalization is divided by 1.25
+					[i:Polarities/FractalFaceplate] Create class-specific projectiles from fractal energy
+					[i:Polarities/CloakofPockets] Press an {Hotkey} to hide in your cloak, or to emerge if already hidden
+					'''
+				DisplayName: Fractal Enchantment
+			}
+
+			ConvectiveEnchant: {
+				Tooltip:
+					'''
+					[i:Polarities/ConvectiveHelmetSummon] Press {Hotkey} to use class-specified ability, with a 10 second cooldown
+					[i:Polarities/BuildingEruption] Press and hold [KEY] to dash in the direction of the cursor
+					[i:Polarities/BuildingEruption] This requires some time to fully recharge
+					'''
+				DisplayName: Convective Enchantment
+			}
+
+			TerrorForce: {
+				Tooltip:
+					'''
+					Set bonuses from [i:Spooky/EyeHead] Living Flesh, [i:Spooky/GoreHoodEye] Gore, [i:Spooky/OldWoodHead] Old Wood and [i:Spooky/GourdHead] RottenGourd
+					Effects of [i:Spooky/CreepyCandle] Creepy Candle, [i:Spooky/MonsterBloodVial] Monster Blood Vial and [i:Spooky/TotalOrganPackage] Total Organ Package
+					Effects of [i:Spooky/GhostBook] Tome of Spirits, [i:Spooky/CandyBag] Bag 'O Treats and [i:Spooky/RustyRing] Rusty Ring
+					'''
+				DisplayName: Terror Force
+			}
+
+			HorrorForce: {
+				Tooltip:
+					'''
+					Set bonuses from [i:Spooky/SpiritHorsemanHead] Spirit Horseman, [i:Spooky/SpiderHead] Spi-Ops, [i:Spooky/WizardGangsterHead] Gilded Mage and [i:Spooky/Root] Root
+					Effects of [i:Spooky/SkullAmulet] Skull Amulet, [i:Spooky/SpiritAmulet] Spirit Amulet and [i:Spooky/BustlingGlowshroom] Bustling Glowshroom
+					Effects of [i:Spooky/HunterScarf] Old Hunter Scarf, [i:Spooky/SewingThread] Sewing Thread and [i:Spooky/DaffodilHairpin] Flower Hairpin 
+					'''
+				DisplayName: Horror Force
+			}
+
+			SpiritHorsemenEnchant: {
+				Tooltip:
+					'''
+					[i:Spooky/SpiritHorsemanHead] Your own head will now fight alongside you
+					[i:Spooky/SkullAmulet] Allows you to absorb the souls of enemies you kill 
+					[i:Spooky/SkullAmulet] After 10 souls are absorbed, you will enter a frenzy for 10 seconds
+					[i:Spooky/SkullAmulet] During this frenzy you gain increases to various stats
+					[i:Spooky/SpiritAmulet] When hit, you will sometimes release homing spirit particles around you
+					'''
+				DisplayName: Spirit Horsemen Enchant
+			}
+
+			SpiOpsEnchant: {
+				Tooltip:
+					'''
+					[i:Spooky/SpiderHead] Press the Armor Bonus Hotkey to enter spider stealth for 10 seconds
+					[i:Spooky/SpiderHead] Upon entering spider stealth you will briefly stun nearby enemies
+					[i:Spooky/SpiderHead] While in spider stealth your damage reduction is increased by 12%
+					[i:Spooky/HunterScarf] Marked enemies will take more damage from your ranged weapons
+					[i:Spooky/SewingThread] Using items will sometimes launch out a piercing thread
+					'''
+				DisplayName: Spi Ops Enchant
+			}
+
+			RottenGourdEnchant: {
+				Tooltip:
+					'''
+					[i:Spooky/GourdHead] Melee weapons have a 12.5% chance to inflict Rotting
+					[i:Spooky/GhostBook] Summons one of the grave-robber's spirits to fight with and protect you
+					[i:Spooky/RustyRing] Increases your maximum life by 60 and life regeneration
+					[i:Spooky/RustyRing] Grants you the spelunker effect while in the dungeon or catacombs
+					'''
+				DisplayName: Rotten Gourd Enchant
+			}
+
+			RootEnchant: {
+				Tooltip: "[i:Spooky/RootHead] Your ranged projectiles have a 20% chance to heal you"
+				DisplayName: Root Enchant
+			}
+
+			OldWoodEnchant: {
+				Tooltip:
+					'''
+					[i:Spooky/CreepyCandle] Magic projectiles will sometimes ignite enemies
+					[i:Spooky/CandyBag] Summons a magical bag of candy to follow you
+					[i:Spooky/CandyBag] Hitting enemies with summon weapons will spawn homing candy out of the bag
+					'''
+				DisplayName: Old Wood Enchant
+			}
+
+			LivingFleshEnchant: {
+				Tooltip:
+					'''
+					[i:Spooky/EyeHead] Hitting enemies with whips has a 20% chance to spawn eyes that deal additional damage
+					[i:Spooky/MonsterBloodVial] Massively increases life regeneration while not moving
+					[i:Spooky/MonsterBloodVial] While moving, you gain 5% increased critical strike chance
+					'''
+				DisplayName: Living Flesh Enchant
+			}
+
+			GoreEnchant: {
+				Tooltip:
+					'''
+					[i:Spooky/GoreHoodEye] Summons a baby orro and boro to fight alongside you
+					[i:Spooky/TotalOrganPackage] Grants the abilities of all organ accessories
+					'''
+				DisplayName: Gore Enchant
+			}
+
+			GildedWizardEnchant: {
+				Tooltip:
+					'''
+					[i:Spooky/WizardGangsterHead] Grants +2% magic damage for each gold coin you have, up to +20%
+					[i:Spooky/WizardGangsterHead2] Grants -2% mana usage for each gold coin you have, up to -20%
+					[i:Spooky/BustlingGlowshroom] Summons a magical bag of candy to follow you
+					'''
+				DisplayName: Gilded Wizard Enchant
+			}
+
+			FlowerEnchant: {
+				Tooltip:
+					'''
+					[i:Spooky/FlowerHead] Increases life regeneration by +2.5 HP/s
+					[i:Spooky/FlowerHead] Press the Armor Bonus Hotkey to summon a large amount of pollen to attack your enemies
+					[i:Spooky/FlowerHead] This ability has a 30 second cooldown before it can be used again
+					[i:Spooky/DaffodilHairpin] Grants you a petal ring that deals massive damage to enemies when they touch you
+					[i:Spooky/DaffodilHairpin] The ring goes away when an enemy hits you, and grows back after one minute
+					'''
+				DisplayName: Flower Enchant
+			}
+
+			StalkerSoul: {
+				DisplayName: Stalker Soul
+				Tooltip:
+					'''
+					22% increased thrower damage
+					10% increased thrower projectile velocity
+					10% increased thrower critical chance
+					'''
+			}
+
+			TrueLumberjackPants: {
+				Tooltip:
+					'''
+					增加2147483%伤害和2147483%暴击率
+					增加214%移动速度和21474%攻击速度
+					增加2147483护甲穿透
+					'''
+				DisplayName: 真·伐木工裤
+			}
+
+			TrueLumberjackMask: {
+				Tooltip:
+					'''
+					增加2147483%伤害和2147483%暴击率
+					[c/FF0000:荒谬般]地增加生命恢复速度，增加2147483护甲穿透
+					'''
+				DisplayName: 真·伐木工面具
+			}
+
+			TrueLumberjackBody: {
+				Tooltip:
+					'''
+					增加2147483%伤害和2147483%暴击率
+					增加2147483个仆从栏位和哨兵栏
+					增加2147483%伤害减免，最大生命值和魔力值增加2147483
+					减少2147483%魔力消耗，2147483%概率不消耗弹药，增加2147483护甲穿透
+					'''
+				DisplayName: 真·伐木工身体
+			}
+
+			ShtunTerminus: {
+				DisplayName: 终末石
+				Tooltip: ""
+			}
+
+			BeekeeperEssence: {
+				DisplayName: Beekeeper Essence
+				Tooltip:
+					'''
+					18% increased hymenoptra damage
+					10% increased hymenoptra critical chance
+					+ 50 max honey
+					'''
+			}
+
+			BeekeeperSoul: {
+				DisplayName: Beekeeper Soul
+				Tooltip:
+					'''
+					22% increased hymenoptra damage
+					10% increased hymenoptra critical chance
+					+ 200 max honey
+					'''
+			}
+
+			MonstrocityBag: {
+				DisplayName: 宝藏袋（魔神）
+				Tooltip: ""
+			}
+
+			MonstrocityRelicItem: {
+				DisplayName: 魔神圣物
+				Tooltip: ""
+			}
+
+			UpgradeAbominable: {
+				DisplayName: Upgrade Abominable
+				Tooltip: ""
+			}
+
+			UpgradeDeviating: {
+				DisplayName: Upgrade Deviating
+				Tooltip: ""
+			}
+
+			UpgradeEternal: {
+				DisplayName: Upgrade Eternal
+				Tooltip: ""
+			}
+
+			AbominableStorageUnitItem: {
+				DisplayName: Abominable Storage Unit Item
+				Tooltip: ""
+			}
+
+			DeviatingStorageUnitItem: {
+				DisplayName: Deviating Storage Unit Item
+				Tooltip: ""
+			}
+
+			EternalStorageUnitItem: {
+				DisplayName: Eternal Storage Unit Item
+				Tooltip: ""
+			}
+
+			Soul: {
+				Tooltip: 恭喜你做出来，但这玩意还有错误动画的问题，会在下个版本修复
+				DisplayName: 万象归墟·寰宇一统之魂
 			}
 		}
 
 		Buffs: {
-			ShtuxibusCurse: {
-				// DisplayName: Shtuxibus Curse
-				// Description: Kill yourself
-			}
-
-			Dot: {
-				// DisplayName: Dot
-				// Description: Your hitbox is a single dot.
-			}
-
-			ChtuxlagorBuff: {
-				// DisplayName: Chtuxlagor Buff
-				// Description: Strength of omniversal creator with you.
-			}
-
-			ShtuxibusMinionBuff: {
-				// DisplayName: Shtuxibus Minion Buff
-				// Description: Shtuxibus's spectral image protect you.
-			}
-
-			AntiCollision: {
-				// DisplayName: Anti Collision
-				// Description: You can't get hit.
-			}
-
-			AntiDeath: {
-				// DisplayName: Anti Death
-				// Description: You can't die.
-			}
-
-			AntiDebuff: {
-				// DisplayName: Anti Debuff
-				// Description: You immune to all debuffs.
-			}
-
 			ChtuxlagorInferno: {
 				DisplayName: Chtuxlagor Inferno
 				Description: OOOHHHH NOOOO YOU dAed
@@ -2667,11 +2842,6 @@ Mods: {
 				Description: Your power rival with Godseeker's
 			}
 
-			CelestialPowerBuff: {
-				// DisplayName: Celestial Power Buff
-				// Description: Celestial pillars protects you
-			}
-
 			DeviSoulBuff: {
 				DisplayName: Deviantt Soul Buff
 				Description: Spectral Deviantt protects you
@@ -2682,100 +2852,33 @@ Mods: {
 				Description: Spectral Mutant protects you
 			}
 
-			StarlightVodkaBuff: {
-				// DisplayName: Starlight Vodka Buff
-				// Description: You feel oversupply of shtuxian energy in your veins
-			}
-
 			ChtuxlagorInfernoEX: {
 				Description: No life, no salvation, no escape, no existance
 				DisplayName: Chtuxlagor Inferno EX
-			}
-
-			StellarGuardianBuff: {
-				DisplayName: Stellar Guardian Buff
-				Description: Stellar Guardian protects You
-			}
-
-			ShtuxianDomination: {
-				// Description: You are f*king invincible
-				// DisplayName: Shtuxian Domination
-			}
-
-			DotBuff: {
-				// Description: Your hitbox is a singe dot
-				// DisplayName: Dot Buff
 			}
 
 			YharonBuff: {
 				DisplayName: Yharon
 				Description: Little Yharon is fighting for you.
 			}
+
+			MonstrocityPresenceBuff: {
+				Description: No soul toggles, no enhanced movement, no dash or dodge, no escape
+				DisplayName: Monstrosity Presence Buff
+			}
+
+			StellarGuardianBuff: {
+				Description: Stellar Guardian protects You
+				DisplayName: Stellar Guardian Buff
+			}
+
+			NihilityPresenceBuff: {
+				DisplayName: Nihility Presence Buff
+				Description: Some of your souls effects are toggled off
+			}
 		}
 
 		NPCs: {
-			ShtuxianHarbringer: {
-				// DisplayName: Shtuxian Harbringer
-
-				TownNPCMood: {
-					// Content: I am satisfied.
-					// NoHome: Terrible that i don't have place to stay. I will go back to my world if will not get one.
-					// FarFromHome: I am far from home.
-					// LoveSpace: I like how spacious it is here. Just like in my palace in Shtundex.
-					// DislikeCrowded: I don't like that there are a lot of people here.
-					// HateCrowded: I hate all this people. I feel like gonna erase everything around.
-					// LikeBiome: I like {BiomeName}. It's very similar to my home world.
-					// LoveBiome: The {BiomeName} is amazing place to live.
-					// DislikeBiome: I hate {BiomeName}.
-					// HateBiome: I can live anywhere but not in {BiomeName}.
-					// LoveNPC: I adore {NPCName}. Do you think she like me?
-					// LikeNPC: I like spending time with {NPCName}.
-					// DislikeNPC: "{NPCName} is getting on my nerves. I would prefer not to exist near him"
-					// HateNPC: GET {NPCName} AWAY FROM ME! I HATE IT.
-					// LikeNPC_Princess: I don't understand why everyone likes {NPCName}. What so special about her?
-					// Princess_LovesNPC: Ugh. {NPCName} annoy me
-				}
-
-				Chat: {
-					// ZenithSeed: What the hell is going on here? This world act abnormaly.
-					// Defeat: ShtuxiumSuit: So you used shtuxian tech for your equipment? This look awful. You could use AA-7 capacitor instead of AA-4. Also this pieces absolutely impractical. Are you really have no engeneering education?
-					// Calamitas: Do you think that Calamitas would come to me and... Nevermind.
-					// Mutant: Mutant is so strange. Anyway. I like drinking with him.
-					// MasoMode: Is it the hardest difficulty of tml? I heard about Satanist mode and Maso EX.
-					// Normal0: Hm. It's interesting to observe your progress. But you will never reach my level of power.
-					// Normal1: Can i jump? Yeah. I have that thing you call 'space'.
-					// Normal2: Have you ever seen shtuxian before? I bet no!
-					// Normal3: Who is Yharim? How many years you waiting for him to be added in game?
-					// Normal4: Heh. Gods of this world so pathetic. Kill dragon and consume his soul? Don't make me laugh!
-					// Normal5: Do you know about 'Сhtux'Lag'Or'? No? I thought that people study cosmology.
-					// Normal6: Sometimes I feel that I'm too different from everyone else here.
-					// Normal7: Hey, do you know about 3d dimension? No? Disappointing. My home world in 3d dimension.
-					// Normal8: What i was doing in my world? Hmm... Just sitting on sofa and making some machines out of sticks and shit.
-					// Normal9: Why does Mutant, Deviantt and Abomination call themselfes siblings? Who are they even?
-					// Normal10: Only Chtux'lag'or and other shards can rival my power.
-					// Normal11: How old i am? I don't really know. But anyway i look like i am sixteen. I never age.
-					// Normal12: Echdeath? It look it have something in common with Chtux'Lag'Or.
-					// Normal13: What will happen if I will use Itemss with 'Overload' in name?
-					// Normal14: Who is Fargowilta?
-				}
-
-				// Census.SpawnCondition: Spawn when Shtuxibus was defeated
-			}
-
-			// ShtuxibusGFB.DisplayName: The true eldrich multiversal horror of Chtux'Lag'Or EX
-
-			Shtuxibus: {
-				// DisplayName: Shtuxibus
-
-				BossChecklistIntegration: {
-					// SpawnInfo: Spawned with an [i:ssm/ShtuxianCurse] anytime anywhere.
-					// DespawnMessage: "[c/008000:Shtuxibus return to the space rift.]"
-					// KilledAllMessage: "[c/008000:Chtuxlagorian Shard erased every alife human in this universe.]"
-				}
-			}
-
-			// ShtuxibusIllusion.DisplayName: Shtuxibus
-
 			Monstrocity: {
 				TownNPCMood: {
 					Content: 我很满意
@@ -2850,23 +2953,62 @@ Mods: {
 				}
 			}
 
-			StarlightCatBoss: {
-				// DisplayName: ☭
+			MutantEX: {
+				DisplayName: 魔神
 
 				BossChecklistIntegration: {
-					// SpawnInfo: Spawned with an [i:ssm/ShtuxibusFumo] anytime anywhere.
-					// DespawnMessage: StarlightCat despawned.
-					// KilledAllMessage: StarlightCat killed all players.
+					SpawnInfo: 使用突变体的诅咒EX
+					DespawnMessage: ""
+					KilledAllMessage: ""
 				}
 			}
 
-			// StarlightCatChaos.DisplayName: Chaos
-			// StarlightCatCreator.DisplayName: StarlightCat Creator
-			// StarlightCatDestroyer.DisplayName: StarlightCat Destroyer
-			// StarlightCatOrder.DisplayName: Order
+			MutantIllusion.DisplayName: 魔神
 		}
 
 		Toggler: {
+			CosmicCommanderEffect: 非常烦人的效果，把它关掉
+			SpectralFishEffect: Spectral Fishron Support
+			CuteFishEXEffect: Fishron Ritual
+			GraniteEffect: 动能转换器
+			ThiefsWalletEffect: Thief's Wallet
+			BlastShieldEffect: Blast Shield
+			SpeedCapEffect: Movement Speed Cap
+			MariviumEffect: 渊洋神迹之盾
+			HolyShieldEffect: 神圣屏障
+			CrashEffect: Crash Boots
+			CairoEffect: Eternal Oasis
+			MotDEHeader: 噬梦之兆
+			PlagueEffect: 瘟疫气云
+			LichEffect: 灵魂碎片
+			DragonEffect: 龙焰爆炸
+			ConduitEffect: 能量泡泡
+			MarchingBandEffect: 交响音符
+			MetronomeEffect: 节拍器
+			SandstoneEffect: 二段跳
+			PlasmaEffect: 等离子护盾发生器 
+			VampireGlandEffect: 吸血鬼试剂
+			FleshMaskEffect: 攻击掉落肉块
+			ValadiumEffect: 虚金重力
+			CrietzEffect: 精准项链火花
+			TerrariumEffect: 泰拉能量
+			NuclearOptionEffect: 核弹头配件
+			IllumiteEffect: 荧光导弹
+			IncandescentSparkEffect: 炽热火花
+			TideHunterEffect: 泡沫飞溅
+			DepthDiverEffect: 沉没的金币
+			DepthAuraEffect: 深海增益
+			ArtificersEffect: 工匠的火箭靴
+			LivingWoodEffect: 生命木幼苗
+			BiotechEffect: 生物工程探测器
+			AddonsForceHeader: 灾集之力
+			ShogunEffect: 神胶幕府将军之翼（有bug）
+			VoidFaquirEffect: 虚空充能
+			SplendorEffect: 异彩果酱
+			DivineEffect: 光之维度 (有bug)
+			EntropicEffect: Illusions
+			TendrilsEffect: 光标卷须（有bug）
+			IntergelacticEffect: 星环
 			InfernoLordsFocusEffect: 地狱领主的聚焦项链
 			LihzahrdTailEffect: 神庙蜥蜴之尾
 			PocketFusionGeneratorEffect: 小型聚变发生器
@@ -2883,12 +3025,9 @@ Mods: {
 			YataMirrorEffect: Yata Mirror
 			PrimordialCoreEffect: Primordia Core
 			RoyalGuardEffect: Royal Guard
-			// CelestialEffect: Celestial pillars
 			FloraFistEffect: Flora Fist
 			MilinticaDashEffect: Advanced Dash
 			HeartOfThePloughEffect: Heart of the Plough
-			// ShtuxianSoulHeader: Shtuxian Soul
-			// ShtuxianEffect: No caps
 			GuardianEffect: 医疗包效果
 			AsgardForceHeader: 阿斯加德之力
 			AlfheimForceHeader: 阿尔弗海姆之力
@@ -2934,256 +3073,106 @@ Mods: {
 		}
 
 		Tiles: {
-			// ShtuxiumOreTile.MapEntry: Shtuxium Ore
-			// ShtuxibusForgeTile.MapEntry: Shtuxibus Forge Tile
 			MutantsForgeTile.MapEntry: 突变锻炉
 			DemonshadeWorkbenchTile.MapEntry: 魔影坩埚
+			SyranCraftingStationTile.MapEntry: Syran Crafting Station Tile
+			DreamersForgeTile.MapEntry: 梦幻锻炉
+			RedemptionCraftingStationTile.MapEntry: 救赎制作站
 			ShtunStorageUnit.MapEntry: Shtun Storage Unit
 		}
 
-		// ItemClass.Chtuxlagor: ∞ Chtux'Lag'Or Item ∞
-
-		WorldGen: {
-			// BlessedWithShtuxiumOreMessage: Defeat of Chtux'lag'or shard vented concentrated shtuxian energy in this world.
-			// ShtuxiumOrePassMessage: Mods.ssm.WorldGen.ShtuxiumOrePassMessage
-		}
-
 		Projectiles: {
-			// GiantDeathrayULTRA.DisplayName: Giant Deathray
-			// GiantDeathrayULTRA100.DisplayName: Giant Deathray
-			// WillDeathrayBig.DisplayName: Will Deathray Big
-			// WillDeathrayBig20.DisplayName: Will Deathray Big20
-			// WillDeathraySmall.DisplayName: Will Deathray Small
-			// WillDeathraySmall20.DisplayName: Will Deathray Small20
-			// ProtoProjectileAimButOP.DisplayName: Proto Projectile
-			// ProtoProjectile.DisplayName: Proto Projectile
-			// AbomFlocko.DisplayName: Abom Flocko
-			// AbomFlocko2.DisplayName: Abom Flocko2
-			// AbomFlocko3.DisplayName: Abom Flocko3
-			// AbomFrostShard.DisplayName: Abom Frost Shard
-			// AbomFrostWave.DisplayName: Abom Frost Wave
-			// AbomLaser.DisplayName: Abom Laser
-			// AbomRocket.DisplayName: Abom Rocket
-			AbomSword.DisplayName: Abom Sword
-			AbomSwordHandle.DisplayName: Abom Sword Handle
-			BossRush.DisplayName: Boss Rush
-			// Boss.MutantYharonVortex.DisplayName: Mutant Yharon Vortex
-			// ChampionBeetle.DisplayName: Champion Beetle
-			// CosmosDeathray.DisplayName: Cosmos Deathray
-			// CosmosDeathray2.DisplayName: Cosmos Deathray2
-			// CosmosSphere.DisplayName: Cosmos Sphere
-			// DeviAxe.DisplayName: Devi Axe
-			// DeviBigDeathray.DisplayName: Devi Big Deathray
-			// DeviDeathray.DisplayName: Devi Deathray
-			// DeviEnergyHeart.DisplayName: Devi Energy Heart
-			// DeviHammer.DisplayName: Devi Hammer
-			// DeviHammerHeld.DisplayName: Devi Hammer Held
-			// DeviHeart.DisplayName: Devi Heart
-			// DeviSparklingLove.DisplayName: Devi Sparkling Love
-			// LifeFireball.DisplayName: Life Fireball
-			MutantBomb.DisplayName: Mutant Bomb
-			MutantBombSmall.DisplayName: Mutant Bomb Small
-			MutantDeathray2.DisplayName: Mutant Deathray2
-			MutantEye.DisplayName: Mutant Eye
-			MutantEyeWavy.DisplayName: Mutant Eye Wavy
-			MutantFishron.DisplayName: Mutant Fishron
-			MutantGiantDeathray2.DisplayName: Mutant Giant Deathray2
-			MutantNuke.DisplayName: Mutant Nuke
-			MutantReticle.DisplayName: Mutant Reticle
-			MutantRitual.DisplayName: Mutant Ritual
-			// MutantRitual2.DisplayName: Mutant Ritual2
-			// MutantRitual3.DisplayName: Mutant Ritual3
-			// MutantRitual4.DisplayName: Mutant Ritual4
-			MutantRitual5.DisplayName: Mutant Ritual5
-			// MutantRitualwiththing.DisplayName: Mutant Ritualwiththing
-			MutantSlimeBall.DisplayName: Mutant Slime Ball
-			MutantSlimeRain.DisplayName: Mutant Slime Rain
-			MutantSpearAim.DisplayName: Mutant Spear Aim
-			MutantSpearThrown.DisplayName: Mutant Spear Thrown
-			MutantSphereRing.DisplayName: Mutant Sphere Ring
-			MutantSphereSmall.DisplayName: Mutant Sphere Small
-			MutantSword.DisplayName: Mutant Sword
-			// PhantasmalBlast.DisplayName: Phantasmal Blast
-			// PhantasmalBlastTS.DisplayName: Phantasmal Blast TS
-			// Shtuxibus.DisplayName: Shtuxibus
-			// WillJavelin.DisplayName: Will Javelin
-			// ShtuxibusSoulMinion.DisplayName: Shtuxibus Soul Minion
-			// ShtuxibusMiniSword.DisplayName: Shtuxibus Mini Sword
-			// ShtuxibusSoulAttack.DisplayName: Shtuxibus Soul Attack
-			// ShtuxibusSpearThrow.DisplayName: Shtuxibus Spear Throw
-			// ShtuxibusSwordSwing.DisplayName: Shtuxibus Sword Swing
-			// MutantAureusSpawn.DisplayName: Mutant Aureus Spawn
-			// MutantHolyRay.DisplayName: Mutant Holy Ray
-			// MutantPBG.DisplayName: Mutant PBG
-			// MutantPolter.DisplayName: Mutant Polter
-			// MutantSlimeGod.DisplayName: Mutant Slime God
-			MutantHeal.DisplayName: Mutant Heal
-			// ShtuxibusSwordAttack.DisplayName: Shtuxibus Sword Attack
-			// MutantDoGBody.DisplayName: Mutant DoG Body
-			// MutantDoGHead.DisplayName: Mutant DoG Head
-			// MutantDoGTail.DisplayName: Mutant DoG Tail
-			// MutantOldDuke.DisplayName: Mutant Old Duke
-			// MutantSCal.DisplayName: Mutant SCal
+			YharonFireballMinion.DisplayName: Yharon Fireball Minion
+			YharonMinion.DisplayName: Yharon Minion
 			DevianttSoul.DisplayName: Deviantt Soul
 			MutantSoul.DisplayName: Mutant Soul
 			NebulaP.DisplayName: Nebula P
 			SolarP.DisplayName: Solar P
 			StardustP.DisplayName: Stardust P
 			VortexP.DisplayName: Vortex P
-			// HolySpear.DisplayName: Holy Spear
-			// FlareDust.DisplayName: Flare Dust
-			// DLCBloomLine.DisplayName: D L C Bloom Line
-			// SlamTelegraph.DisplayName: Slam Telegraph
-			// ShtuxianArrowProj.DisplayName: Shtuxian Arrow Proj
-			// ShtuxiumBlast.DisplayName: Shtuxium Blast
-			// ShtuxianBulletProj.DisplayName: Shtuxian Bullet Proj
-			// ChtuxlagorRayTelegraph.DisplayName: Chtuxlagor Ray Telegraph
-			// ChtuxlagorDeathraySmall.DisplayName: Chtuxlagor Deathray Small
-			// ChtuxlagorDeathrayMark.DisplayName: Chtuxlagor Deathray Mark
-			YharonFireballMinion.DisplayName: Yharon Fireball Minion
-			YharonMinion.DisplayName: Yharon Minion
-		}
-
-		Biomes: {
-			ShtuxibusSurfaceBiome: {
-				// DisplayName: Shtuxibus Surface Biome
-				// TownNPCDialogueName: Shtuxibus Surface Biome
-			}
+			MutantTyphoon.DisplayName: Mutant Typhoon
+			MutantTrueEyeSphere.DisplayName: Mutant True Eye Sphere
+			MutantTrueEyeS.DisplayName: Mutant True Eye S
+			MutantTrueEyeR.DisplayName: Mutant True Eye R
+			MutantTrueEyeL.DisplayName: Mutant True Eye L
+			MutantTrueEyeDeathray.DisplayName: Mutant True Eye Deathray
+			MutantSword.DisplayName: Mutant Sword
+			MutantSphereSmall.DisplayName: Mutant Sphere Small
+			MutantSpazmarang.DisplayName: Mutant Spazmarang
+			MutantSlimeRain.DisplayName: Mutant Slime Rain
+			MutantSlimeBall.DisplayName: Mutant Slime Ball
+			MutantScythe2.DisplayName: Mutant Scythe2
+			MutantScythe1.DisplayName: Mutant Scythe1
+			MutantRitual.DisplayName: Mutant Ritual
+			MutantRetirang.DisplayName: Mutant Retirang
+			MutantReticle2.DisplayName: Mutant Reticle2
+			MutantReticle.DisplayName: Mutant Reticle
+			MutantPillar.DisplayName: Mutant Pillar
+			MutantNuke.DisplayName: Mutant Nuke
+			MutantMark2.DisplayName: Mutant Mark2
+			MutantMark1.DisplayName: Mutant Mark1
+			MutantHeal.DisplayName: Mutant Heal
+			MutantGuardian.DisplayName: Mutant Guardian
+			MutantGlowything.DisplayName: Mutant Glowything
+			MutantGiantDeathray2.DisplayName: Mutant Giant Deathray2
+			MutantFragment.DisplayName: Mutant Fragment
+			MutantFishronRitual.DisplayName: Mutant Fishron Ritual
+			MutantFishron.DisplayName: Mutant Fishron
+			MutantEyeWavy.DisplayName: Mutant Eye Wavy
+			MutantEyeOfCthulhu.DisplayName: Mutant Eye Of Cthulhu
+			MutantEyeHoming.DisplayName: Mutant Eye Homing
+			MutantEye.DisplayName: Mutant Eye
+			MutantDestroyerTail.DisplayName: Mutant Destroyer Tail
+			MutantDestroyerHead.DisplayName: Mutant Destroyer Head
+			MutantDestroyerBody.DisplayName: Mutant Destroyer Body
+			MutantDeathraySmall.DisplayName: Mutant Deathray Small
+			MutantDeathrayAim.DisplayName: Mutant Deathray Aim
+			MutantDeathray3.DisplayName: Mutant Deathray3
+			MutantDeathray2.DisplayName: Mutant Deathray2
+			MutantDeathray1.DisplayName: Mutant Deathray1
+			MutantCrystalLeaf.DisplayName: Mutant Crystal Leaf
+			MutantBoss.DisplayName: Mutant Boss
+			MutantBombSmall.DisplayName: Mutant Bomb Small
+			MutantBomb.DisplayName: Mutant Bomb
+			MutantSphereRing.DisplayName: Mutant Sphere Ring
+			MutantSpearThrown.DisplayName: Mutant Spear Thrown
+			MutantSpearSpin.DisplayName: Mutant Spear Spin
+			MutantSpearMagical.DisplayName: Mutant Spear Magical
+			MutantSpearDash.DisplayName: Mutant Spear Dash
+			MutantSpearAim.DisplayName: Mutant Spear Aim
+			MutantSlimeSpike.DisplayName: Mutant Slime Spike
+			MutantShadowHand.DisplayName: Mutant Shadow Hand
+			MutantSansHead.DisplayName: Mutant Sans Head
+			MutantSansBeam.DisplayName: Mutant Sans Beam
+			MutantRitual5.DisplayName: Mutant Ritual5
+			BossRush.DisplayName: Boss Rush
+			AbomSword.DisplayName: Abom Sword
+			AbomSwordHandle.DisplayName: Abom Sword Handle
+			SpectralFishron.DisplayName: Spectral Fishron
+			CuteFishronRitual.DisplayName: Cute Fishron Ritual
+			TrueAcornProjectile.DisplayName: True Acorn Projectile
+			SquirrelMinion.DisplayName: Squirrel Minion
+			SquirrelRing.DisplayName: Squirrel Ring
 		}
 
 		Bestiary: {
 			Monstrocity: The Siblings' more annoying, strange cousin, he thinks he is stronger than his cousin the mutant which makes the both of them fight a lot, he likes tacos though.
 			Echdeath: ech
-			// Shtuxibus: Shtuxibus is being came from other world called Shtundex. The shard of omnipotent Chtux'Lag'or and embodiment of energy concept.
 		}
 
 		Configs: {
 			ShtunConfig: {
 				Headers: {
-					// Visual: Visual
 					General: 常规
-					// Calamity: Calamity
-					// SoA: Shadows of Abaddon
-					// SoACal: SoA - Calamity
-					// TorCal: Thorium - Calamity
-					// Thorium: Thorium
-					// Redemption: Redemption
-					// Crafting: Crafting Header
-					// Shtuxibus: Shtuxibus Header
-					// Bosses: Bosses Header
 					CrossMods: 联动模组
-				}
-
-				ItemsUsedInSingularity: {
-					// Tooltip: ""
-					// Label: Items Used In Singularity
+					EnchantsLoad: 加载魔石
 				}
 
 				DisplayName: 模组配置
 
-				ForcedFilters: {
-					// Tooltip: ""
-					// Label: Forced Filters
-				}
-
-				Stalin: {
-					// Label: ☭
-					// Tooltip: gUeSS whAt iT DoeS
-				}
-
-				ExtraContent: {
-					// Label: Extra Content
-					// Tooltip: Toggle Shtuxibus/Echdeath and their items
-				}
-
-				CalSwarmItems: {
-					// Label: Calamity Swarms
-					// Tooltip: ""
-				}
-
-				CalEnchantments: {
-					// Label: Calamity Enchantments
-					// Tooltip: WIP
-				}
-
-				CalSingularities: {
-					// Label: Calamity Singularities
-					// Tooltip: ""
-				}
-
-				CalCaughtNpcs: {
-					// Label: Calamity Caught NPCs
-					// Tooltip: ""
-				}
-
-				SoASwarmItems: {
-					// Label: SoA Swarms
-					// Tooltip: ""
-				}
-
-				SoAEnchantments: {
-					// Label: SoA Enchantments
-					// Tooltip: ""
-				}
-
-				SoASingularities: {
-					// Label: SoA Singularities
-					// Tooltip: WIP
-				}
-
-				SoACaughtNpcs: {
-					// Label: SoA Caught NPCs
-					// Tooltip: WIP
-				}
-
-				TorSwarmItems: {
-					// Label: Thorium Swarms
-					// Tooltip: ""
-				}
-
-				TorEnchantments: {
-					// Label: Thorium Enchantments
-					// Tooltip: ""
-				}
-
-				TorSingularities: {
-					// Label: Thorium Singularities
-					// Tooltip: WIP
-				}
-
-				TorCaughtNpcs: {
-					// Label: Thorium Caught NPCs
-					// Tooltip: WIP
-				}
-
-				RedSwarmItems: {
-					// Label: Redemption Swarms
-					// Tooltip: WIP
-				}
-
-				RedEnchantments: {
-					// Label: Redemption Enchantments
-					// Tooltip: WIP
-				}
-
-				RedSingularities: {
-					// Label: Redemption Singularities
-					// Tooltip: WIP
-				}
-
-				RedCaughtNpcs: {
-					// Label: Redemption Caught NPCs
-					// Tooltip: WIP
-				}
-
 				WorldEnterMessage: {
 					Label: 世界加载信息
 					Tooltip: ""
-				}
-
-				OldCalDlcBalance: {
-					// Tooltip: ""
-					// Label: Old Cal Dlc Balance
 				}
 
 				Boots: {
@@ -3195,17 +3184,180 @@ Mods: {
 					Label: 盾牌
 					Tooltip: 重做盾牌效果
 				}
+
+				DebugMode: {
+					Label: Debug模式
+					Tooltip: ""
+				}
+
+				ExperimentalContent: {
+					Label: 实验性内容
+					Tooltip:加载未制作完成的内容
+				}
+
+				ThrowerMerge: {
+					Tooltip: 注意：会将真实伤害也改为投掷伤害
+					Label: 投手伤害合并
+				}
+
+				Thorium: {
+					Label: Thorium
+					Tooltip: ""
+				}
+
+				SacredTools: {
+					Label: Shadows of Abaddon
+					Tooltip: ""
+				}
+
+				Polarities: {
+					Label: Polarities
+					Tooltip: ""
+				}
+
+				Spirit: {
+					Label: Spirit
+					Tooltip: ""
+				}
+
+				Homeward: {
+					Label: Homeward Journey
+					Tooltip: ""
+				}
+
+				Redemption: {
+					Label: Redemption
+					Tooltip: ""
+				}
+
+				Spooky: {
+					Label: Spooky
+					Tooltip: ""
+				}
+
+				Beekeeper: {
+					Label: Bombus Apis
+					Tooltip: ""
+				}
 			}
 		}
 
 		Keybinds: {
-			// "Shtuxian Domination.DisplayName": Shtuxian Domination
 			"Dot Mount.DisplayName": Dot Mount
+			"Teleportation Module.DisplayName": Teleportation Module
+			"Energy charging.DisplayName": Energy Charging
 		}
 
-		DamageClasses: {
-			UnitedModdedThrower.DisplayName: thrower Damage
-			// ShtuxaianDamage.DisplayName: Shtuxaian Damage
+		DamageClasses.UnitedModdedThrower.DisplayName: thrower Damage
+
+		Message: {
+			NoRework: It is recomended to play Thorium with Thorium Bosses Rework to enhance experience.
+			NoSoABardHealer1: We detected that you playing Shadows of Abaddon with Thorium Mod.
+			NoSoABardHealer2: Please install SoA Bard & Healer for better compatibility.
 		}
+	}
+
+	Redemption: {
+		Items: {
+			MutagenMagic: {
+				DisplayName: Sorcerer's Mutagen
+				Tooltip:
+					'''
+					20% increased magic damage
+					10% increased magic critical strike chance
+					Increase your maximum mana by 100
+					'''
+			}
+
+			MutagenMelee: {
+				DisplayName: Warrior's Mutagen
+				Tooltip:
+					'''
+					20% increased melee damage
+					10% increased melee critical strike chance and attack speed
+					Increased melee knockback
+					'''
+			}
+
+			MutagenRanged: {
+				DisplayName: Ranger's Mutagen
+				Tooltip:
+					'''
+					20% increased ranged damage
+					10% increased ranged critical strike chance
+					15% increased ranged projectile velocity
+					'''
+			}
+
+			MutagenRitualist: {
+				DisplayName: Ritualist's Mutagen
+				Tooltip:
+					'''
+					20% increased ritual damage
+					10% increased ritual critical strike chance
+					'''
+			}
+
+			MutagenSummon: {
+				DisplayName: Summoner's Mutagen
+				Tooltip:
+					'''
+					20% increased summon damage
+					10% increased whip range 
+					Increase max numbers of minions by 2
+					'''
+			}
+		}
+	}
+
+	FargowiltasCrossmod: {
+		Items: {
+			AddedEffects: {
+				OutlawsEssence: {
+					DisplayName: Outlaw's Essence
+					Tooltip:
+						'''
+						18% increased thrower damage
+						8% increased thrower projectile velocity
+						5% increased thrower critical chance
+						'''
+				}
+
+				VagabondsSoul: {
+					DisplayName: Vagabond's Soul
+					Tooltip:
+						'''
+						22% increased thrower damage
+						10% increased thrower projectile velocity
+						10% increased thrower critical chance
+						Effects of Nanotech and Eclipse Mirror
+						'''
+				}
+			}
+		}
+	}
+
+	Catalyst: {
+		Items: {
+			IntergelacticHeadRogue: {
+				DisplayName: Intergelactic Headgear
+				Tooltip:
+					'''
+					Increases thrower damage and critical strike chance by 22%
+					12% increased damage reduction
+					'''
+			}
+		}
+
+		AuricTeslaPlusSet.Rogue:
+			'''
+			Thrower Intergelactic, Bloodflare and God Slayer armor effects
+			Press {0} to make the asteroids more transparent
+			All projectiles spawn healing auric orbs on enemy hits
+			Thrower stealth builds while not attacking and slower while moving, up to a max of 130
+			Once you have built max stealth, you will be able to perform a Stealth Strike
+			Throwere stealth only reduces when you attack, it does not reduce while moving
+			The higher your thrower stealth the higher your thrower damage, crit, and movement speed
+			'''
 	}
 }
