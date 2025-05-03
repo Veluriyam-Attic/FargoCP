@@ -1097,7 +1097,7 @@ Mods: {
 			}
 
 			Fallen: {
-				DisplayName: 坠落
+				DisplayName: 堕落者
 				Tooltip: ""
 			}
 
@@ -1654,7 +1654,7 @@ Mods: {
 				DisplayName: 尼福尔海姆之力
 				Tooltip:
 					'''
-					获得传讯员、流影掠星、华贵和大师甲的套装奖励
+					获得传讯员、流影掠星、华贵、仪仗队和大师盔甲的套装奖励
 					获得幸运兔脚和音乐会门票的效果
 					获得指挥棒、总谱和节拍器的效果
 					“充满雾霜的死寂冰封之地…”
@@ -2227,52 +2227,52 @@ Mods: {
 			}
 
 			Blacksmith: {
-				DisplayName: Blacksmith
+				DisplayName: 铁匠
 				Tooltip: ""
 			}
 
 			Cook: {
-				DisplayName: Cook
+				DisplayName: 厨师
 				Tooltip: ""
 			}
 
 			Cobbler: {
-				DisplayName: Cobbler
+				DisplayName: 鞋匠
 				Tooltip: ""
 			}
 
 			ConfusedZombie: {
-				DisplayName: Confused Zombie
+				DisplayName: 迷途僵尸
 				Tooltip: ""
 			}
 
 			DesertAcolyte: {
-				DisplayName: Desert Acolyte
+				DisplayName: 荒漠寺僧
 				Tooltip: ""
 			}
 
 			Diverman: {
-				DisplayName: Diverman
+				DisplayName: 潜水员
 				Tooltip: ""
 			}
 
 			Druid: {
-				DisplayName: Druid
+				DisplayName: 德鲁伊
 				Tooltip: ""
 			}
 
 			Spiritualist: {
-				DisplayName: Spiritualist
+				DisplayName: 牧师
 				Tooltip: ""
 			}
 
 			Tracker: {
-				DisplayName: Tracker
+				DisplayName: 赏金猎人
 				Tooltip: ""
 			}
 
 			WeaponMaster: {
-				DisplayName: Weapon Master
+				DisplayName: 武器大师
 				Tooltip: ""
 			}
 
@@ -2302,28 +2302,28 @@ Mods: {
 			}
 
 			Fool: {
-				DisplayName: Fool
+				DisplayName: 傻瓜
 				Tooltip: ""
 			}
 
 			FriendlyTbot: {
-				DisplayName: Friendly Tbot
+				DisplayName: 友好的T机器人
 				Tooltip: ""
 			}
 
 			Calavia: {
-				DisplayName: Calavia
+				DisplayName: 卡拉维亚
 				Tooltip: ""
 			}
 
 			Wayfarer: {
-				DisplayName: Wayfarer
+				DisplayName: 徒步旅行者
 				Tooltip: ""
 			}
 
 			BlueComputerChip: {
-				Tooltip: ""
-				DisplayName: Blue Computer Chip
+				Tooltip: "召唤MACE工程"
+				DisplayName: 蓝色电脑芯片
 			}
 
 			MariviumEnchant: {
@@ -2346,58 +2346,58 @@ Mods: {
 			}
 
 			BuffaloDrumstick: {
-				DisplayName: Buffalo Drumstick
-				Tooltip: ""
+				DisplayName: 辣酱鸡腿
+				Tooltip: "召唤波山"
 			}
 
 			CockatriceEgg: {
-				DisplayName: Cockatrice Egg
-				Tooltip: ""
+				DisplayName: 公鸡蛋
+				Tooltip: "召唤鸡蛇"
 			}
 
 			DirtyCloth: {
-				DisplayName: Dirty Cloth
-				Tooltip: ""
+				DisplayName: 脏衣物
+				Tooltip: "召唤掘颅者"
 			}
 
 			FrostedMetal: {
-				DisplayName: Frosted Metal
-				Tooltip: ""
+				DisplayName: 寒霜金属
+				Tooltip: "召唤卡拉维亚"
 			}
 
 			GildedDrumstick: {
-				DisplayName: Gilded Drumstick
-				Tooltip: ""
+				DisplayName: 镀金鸡腿
+				Tooltip: "召唤鸡皇"
 			}
 
 			GreenComputerChip: {
-				DisplayName: Green Computer Chip
-				Tooltip: ""
+				DisplayName: 绿色电脑芯片
+				Tooltip: "召唤守卫者伏特"
 			}
 
 			GreyComputerChip: {
-				DisplayName: Grey Computer Chip
-				Tooltip: ""
+				DisplayName: 灰色电脑芯片
+				Tooltip: "召唤清洁工"
 			}
 
 			IrradiatedSkull: {
-				DisplayName: Irradiated Skull
-				Tooltip: ""
+				DisplayName: 辐射头骨
+				Tooltip: "召唤辐射巨兽"
 			}
 
 			RadioactiveSushi: {
-				DisplayName: Radioactive Sushi
-				Tooltip: ""
+				DisplayName: 放射性寿司
+				Tooltip: "召唤脓疱疮脸"
 			}
 
 			SleepyRock: {
 				DisplayName: 沉睡岩石
-				Tooltip: ""
+				Tooltip: "召唤鹰冠魔像"
 			}
 
 			MutantsCurseEX: {
 				DisplayName: 突变体诅咒EX
-				Tooltip: ""
+				Tooltip: "召唤[c/cDA10E6:魔神]"
 			}
 
 			UltimateHealingPotion: {
@@ -2607,112 +2607,112 @@ Mods: {
 			TerrorForce: {
 				Tooltip:
 					'''
-					Set bonuses from [i:Spooky/EyeHead] Living Flesh, [i:Spooky/GoreHoodEye] Gore, [i:Spooky/OldWoodHead] Old Wood and [i:Spooky/GourdHead] RottenGourd
-					Effects of [i:Spooky/CreepyCandle] Creepy Candle, [i:Spooky/MonsterBloodVial] Monster Blood Vial and [i:Spooky/TotalOrganPackage] Total Organ Package
-					Effects of [i:Spooky/GhostBook] Tome of Spirits, [i:Spooky/CandyBag] Bag 'O Treats and [i:Spooky/RustyRing] Rusty Ring
+					获得 [i:Spooky/FlowerHead]盛花、 [i:Spooky/SpiritHorsemanHead]灵魂骑士、 [i:Spooky/SpiderHead]战蛛、 [i:Spooky/WizardGangsterHead]镀金法师 和 [i:Spooky/RootHead]根茎盔甲的套装奖励
+					获得 [i:Spooky/SkullAmulet]颅骨护身符、 [i:Spooky/SpiritAmulet]魂魄护身符 和 [i:Spooky/BustlingGlowshroom]繁茂辉光蘑菇的效果
+					获得 [i:Spooky/HunterScarf]老猎人围巾、 [i:Spooky/SewingThread]缝纫线 和 [i:Spooky/DaffodilHairpin]花朵发夹的效果
 					'''
-				DisplayName: Terror Force
+				DisplayName: 恐惧之力
 			}
 
 			HorrorForce: {
 				Tooltip:
 					'''
-					Set bonuses from [i:Spooky/SpiritHorsemanHead] Spirit Horseman, [i:Spooky/SpiderHead] Spi-Ops, [i:Spooky/WizardGangsterHead] Gilded Mage and [i:Spooky/Root] Root
-					Effects of [i:Spooky/SkullAmulet] Skull Amulet, [i:Spooky/SpiritAmulet] Spirit Amulet and [i:Spooky/BustlingGlowshroom] Bustling Glowshroom
-					Effects of [i:Spooky/HunterScarf] Old Hunter Scarf, [i:Spooky/SewingThread] Sewing Thread and [i:Spooky/DaffodilHairpin] Flower Hairpin 
+					获得 [i:Spooky/EyeHead]活体血肉、 [i:Spooky/GoreHoodEye]血尸、 [i:Spooky/OldWoodHead]古木 和 [i:Spooky/GourdHead]腐烂葫芦盔甲的套装奖励
+					获得 [i:Spooky/CreepyCandle]诡异蜡烛、 [i:Spooky/MonsterBloodVial]魔物之血 和 [i:Spooky/TotalOrganPackage]全器官套装的效果
+					获得 [i:Spooky/GhostBook]灵魂法书、 [i:Spooky/CandyBag]捣蛋袋 和 [i:Spooky/RustyRing]生锈戒指的效果
 					'''
-				DisplayName: Horror Force
+				DisplayName: 惊惧之力
 			}
 
 			SpiritHorsemenEnchant: {
 				Tooltip:
 					'''
-					[i:Spooky/SpiritHorsemanHead] Your own head will now fight alongside you
-					[i:Spooky/SkullAmulet] Allows you to absorb the souls of enemies you kill 
-					[i:Spooky/SkullAmulet] After 10 souls are absorbed, you will enter a frenzy for 10 seconds
-					[i:Spooky/SkullAmulet] During this frenzy you gain increases to various stats
-					[i:Spooky/SpiritAmulet] When hit, you will sometimes release homing spirit particles around you
+					[i:Spooky/SpiritHorsemanHead] 你的头现在将为你而战
+					[i:Spooky/SkullAmulet] 你能够吸收被你杀死的敌人的灵魂
+					[i:Spooky/SkullAmulet] 吸收10个灵魂后，会进入狂潮状态，持续10秒
+					[i:Spooky/SkullAmulet] 处于狂潮状态时，提高你的各项属性
+					[i:Spooky/SpiritAmulet] 受伤时有概率释放追踪的魂魄粒子围绕你
 					'''
-				DisplayName: Spirit Horsemen Enchant
+				DisplayName: 灵魂骑士魔石
 			}
 
 			SpiOpsEnchant: {
 				Tooltip:
 					'''
-					[i:Spooky/SpiderHead] Press the Armor Bonus Hotkey to enter spider stealth for 10 seconds
-					[i:Spooky/SpiderHead] Upon entering spider stealth you will briefly stun nearby enemies
-					[i:Spooky/SpiderHead] While in spider stealth your damage reduction is increased by 12%
-					[i:Spooky/HunterScarf] Marked enemies will take more damage from your ranged weapons
-					[i:Spooky/SewingThread] Using items will sometimes launch out a piercing thread
+					[i:Spooky/SpiderHead] 按下 [套装奖励快捷键] 进入蜘蛛潜行状态10秒
+					[i:Spooky/SpiderHead] 进入蜘蛛潜行后，你将短暂击晕附近敌人
+					[i:Spooky/SpiderHead] 在蜘蛛潜行时会降低12%所受伤害
+					[i:Spooky/HunterScarf] 被标记的敌人会从你的远程武器中受到更多伤害
+					[i:Spooky/SewingThread] 使用物品时有概率射出穿透的细线
 					'''
-				DisplayName: Spi Ops Enchant
+				DisplayName: 战蛛魔石
 			}
 
 			RottenGourdEnchant: {
 				Tooltip:
 					'''
-					[i:Spooky/GourdHead] Melee weapons have a 12.5% chance to inflict Rotting
-					[i:Spooky/GhostBook] Summons one of the grave-robber's spirits to fight with and protect you
-					[i:Spooky/RustyRing] Increases your maximum life by 60 and life regeneration
-					[i:Spooky/RustyRing] Grants you the spelunker effect while in the dungeon or catacombs
+					[i:Spooky/GourdHead] 近战武器有12.5%概率会造成腐坏debuff
+					[i:Spooky/GhostBook] 召唤其中一个盗墓贼与你一起战斗并保护你
+					[i:Spooky/RustyRing] 增加60最大生命值，增加生命恢复速度
+					[i:Spooky/RustyRing] 在地牢或地下墓穴时会获得洞穴探险的效果
 					'''
-				DisplayName: Rotten Gourd Enchant
+				DisplayName: 腐烂葫芦魔石
 			}
 
 			RootEnchant: {
-				Tooltip: "[i:Spooky/RootHead] Your ranged projectiles have a 20% chance to heal you"
-				DisplayName: Root Enchant
+				Tooltip: "[i:Spooky/RootHead] 你的的远程弹幕有概率治愈你"
+				DisplayName: 根茎魔石
 			}
 
 			OldWoodEnchant: {
 				Tooltip:
 					'''
-					[i:Spooky/CreepyCandle] Magic projectiles will sometimes ignite enemies
-					[i:Spooky/CandyBag] Summons a magical bag of candy to follow you
-					[i:Spooky/CandyBag] Hitting enemies with summon weapons will spawn homing candy out of the bag
+					[i:Spooky/CreepyCandle] 魔法弹幕有概率对敌人造成着火debuff
+					[i:Spooky/CandyBag] 召唤一个魔法糖果袋跟随你
+					[i:Spooky/CandyBag] 用召唤武器命中敌人时会从袋子里生成追踪的糖果
 					'''
-				DisplayName: Old Wood Enchant
+				DisplayName: 古木魔石
 			}
 
 			LivingFleshEnchant: {
 				Tooltip:
 					'''
-					[i:Spooky/EyeHead] Hitting enemies with whips has a 20% chance to spawn eyes that deal additional damage
-					[i:Spooky/MonsterBloodVial] Massively increases life regeneration while not moving
-					[i:Spooky/MonsterBloodVial] While moving, you gain 5% increased critical strike chance
+					[i:Spooky/EyeHead] 用鞭子命中敌人时有20%概率会生成眼球来造成额外的伤害
+					[i:Spooky/MonsterBloodVial] 不移动时大幅增加生命恢复速度
+					[i:Spooky/MonsterBloodVial] 移动时增加5%暴击率
 					'''
-				DisplayName: Living Flesh Enchant
+				DisplayName: 活体血肉魔石
 			}
 
 			GoreEnchant: {
 				Tooltip:
 					'''
-					[i:Spooky/GoreHoodEye] Summons a baby orro and boro to fight alongside you
-					[i:Spooky/TotalOrganPackage] Grants the abilities of all organ accessories
+					[i:Spooky/GoreHoodEye] 召唤噬之蛇宝宝和尾之蛇宝宝为你而战（有bug）
+					[i:Spooky/TotalOrganPackage] 获得所有器官饰品的能力
 					'''
-				DisplayName: Gore Enchant
+				DisplayName: 血尸魔石
 			}
 
 			GildedWizardEnchant: {
 				Tooltip:
 					'''
-					[i:Spooky/WizardGangsterHead] Grants +2% magic damage for each gold coin you have, up to +20%
-					[i:Spooky/WizardGangsterHead2] Grants -2% mana usage for each gold coin you have, up to -20%
-					[i:Spooky/BustlingGlowshroom] Summons a magical bag of candy to follow you
+					[i:Spooky/WizardGangsterHead] 每拥有一个金币，都会增加2%魔法伤害，最多增加20%魔法伤害
+					[i:Spooky/WizardGangsterHead2] 每拥有一个金币，都会降低2%魔力消耗，最多降低20%魔力消耗
+					[i:Spooky/BustlingGlowshroom] 不移动时大幅增加生命恢复速度
 					'''
-				DisplayName: Gilded Wizard Enchant
+				DisplayName: 镀金法师魔石
 			}
 
 			FlowerEnchant: {
 				Tooltip:
 					'''
-					[i:Spooky/FlowerHead] Increases life regeneration by +2.5 HP/s
-					[i:Spooky/FlowerHead] Press the Armor Bonus Hotkey to summon a large amount of pollen to attack your enemies
-					[i:Spooky/FlowerHead] This ability has a 30 second cooldown before it can be used again
-					[i:Spooky/DaffodilHairpin] Grants you a petal ring that deals massive damage to enemies when they touch you
-					[i:Spooky/DaffodilHairpin] The ring goes away when an enemy hits you, and grows back after one minute
+					[i:Spooky/FlowerHead] 增加2.5的生命恢复速度
+					[i:Spooky/FlowerHead] 按下 [套装奖励快捷键] 会召唤大量的花簇攻击你的敌人
+					[i:Spooky/FlowerHead] 此技能有30秒冷却时间
+					[i:Spooky/DaffodilHairpin] 获得一个花瓣之环，当敌人触碰到你时，会对其造成大量伤害
+					[i:Spooky/DaffodilHairpin] 敌人命中时你时，花瓣之环会消失，并在一分钟后再次生长
 					'''
-				DisplayName: Flower Enchant
+				DisplayName: 盛花魔石
 			}
 
 			StalkerSoul: {
