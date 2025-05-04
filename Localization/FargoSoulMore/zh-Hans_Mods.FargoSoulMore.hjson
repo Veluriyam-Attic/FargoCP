@@ -420,7 +420,7 @@ Items: {
 			打击乐器伤害有25%概率激活一片“恐慌花瓣”，花瓣会绕玩家旋转
 			触摸花瓣的玩家会获得大幅速度提升
 			触摸花瓣的敌怪会受到伤害
-			获得绽花套装的效果
+			获得绽花盔甲的套装奖励
 			'悄花之绽'
 			'''
 	}
@@ -431,7 +431,7 @@ Items: {
 			'''
 			[i:FargoSoulMore/LivingWoodEnchantment] 获得生命木魔石的效果
 			[i:FargoSoulMore/BloomingEnchantment] 获得绽花魔石的效果
-			获得生命绽放套装的效果
+			获得生命绽放盔甲的套装奖励
 			'真正的自然'
 			'''
 	}
@@ -894,98 +894,98 @@ Items: {
 	SpiritTrapperEnchantment: {
 		Tooltip:
 			'''
-			[i:ThoriumMod/InnerFlame] After healing a nearby ally, a life spirit is released from you
-			This spirit seeks out your ally with the lowest life and heals them for 2 life
-			Effects of Spirit Trapper Armor
+			[i:ThoriumMod/InnerFlame] 在治愈附近的队友后，你会释放出生命之魂
+			生命之魂会寻找你附近生命值最低的队友，并治恢复它们2点生命值
+			获得猎魂者盔甲的套装奖励
 			'''
-		DisplayName: Spirit Trapper Enchantment
+		DisplayName: 猎魂魔石
 	}
 
 	SilkEnchantment: {
 		Tooltip:
 			'''
-			[i:ThoriumMod/ArtificersFocus] Pressing and holding the 'Accessory Ability' key will channel artificer's energy
-			Every second channeled increases your next damage by 20 up to 100
-			Effects of Silk Armor
+			[i:ThoriumMod/ArtificersFocus] 持续按住“饰品能力”键会消耗玩家的匠能
+			每消耗20点匠能会增加下次攻击伤害20点，最高增加100点
+			获得丝绸盔甲的套装奖励
 			'''
-		DisplayName: Silk Enchantment
+		DisplayName: 丝绸魔石
 	}
 
 	MalignantEnchantment: {
 		Tooltip:
 			'''
-			[i:ThoriumMod/ArtificersShield] Reduces the amount of knockback you take from getting hit
-			Grants 2 defense for every 20 artificer's energy you have
-			Taking damage saps 20 artificer's energy
-			[i:FargoSoulMore/SilkEnchantment] Effects of Silk Enchantment
+			[i:ThoriumMod/ArtificersShield] 降低受击时的击退
+			每拥有20点匠能会获得2点防御
+			受到伤害会降低20点匠能
+			[i:FargoSoulMore/SilkEnchantment] 获得丝绸魔石的效果
 			'''
-		DisplayName: Malignant Enchantment
+		DisplayName: 恶毒魔石
 	}
 
 	DreadEnchantment: {
 		Tooltip:
 			'''
-			[i:ThoriumMod/CrashBoots] 8% increased movement speed and run acceleration
-			Running builds up momentum and increases movement speed
-			Crashing into an enemy releases all stored momentum, catapulting the enemy
-			[i:FargoSoulMore/DragonEnchantment] Effects of Dragon Enchantment
-			Effects of Dread Armor
+			[i:ThoriumMod/CrashBoots] 增加8%移动速度和奔跑加速度
+			奔跑时会产生动量并增加移动速度
+			撞向敌怪会释放所有储存的动能并击退敌怪
+			[i:FargoSoulMore/DragonEnchantment] 获得绿龙魔石的效果
+			获得恐惧盔甲的套装奖励
 			'''
-		DisplayName: Dread Enchantment
+		DisplayName: 恐惧魔石
 	}
 
 	DragonEnchantment: {
 		Tooltip:
 			'''
-			Your attacks inflict Dragon Banish damage over time debuff
-			Effects of Dragon Armor
+			你的攻击会造成龙之驱逐减益，随时间造成伤害
+			获得绿龙盔甲的套装奖励
 			'''
-		DisplayName: Dragon Enchantment
+		DisplayName: 绿龙魔石
 	}
 
 	WhiteKnightEnchantment: {
 		Tooltip:
 			'''
-			[i:ThoriumMod/SmotheringBand] Every eighth magic cast costs no mana
-			Effects of White Knight Armor
+			[i:ThoriumMod/SmotheringBand] 每第七次施法不消耗魔力
+			获得白骑士盔甲的套装奖励
 			'''
-		DisplayName: White Knight Enchantment
+		DisplayName: 白骑士魔石
 	}
 
 	FleshEnchantment: {
 		Tooltip:
 			'''
-			[i:ThoriumMod/VampireGland] Your damage will have a 10% chance to cause an eruption of blood
-			This blood can be picked up by players to heal themselves for 15% of the damage you dealt
-			Healing amount cannot exceed 15 life and picking up blood causes bleeding for 5 seconds
-			Effects of Flesh Armor
+			[i:ThoriumMod/VampireGland] 你的攻击有10%概率产生一次血液喷发
+			血液可被玩家拾取并治疗他们所造成伤害的15%
+			治疗量不能超过15点生命值且拾取血液会造成5秒流血
+			获得血肉盔甲的套装奖励
 			'''
-		DisplayName: Flesh Enchantment
+		DisplayName: 血肉魔石
 	}
 
 	DemonBloodEnchantment: {
 		Tooltip:
 			'''
-			[i:ThoriumMod/VileFlailCore] 65% basic damage
-			Flail weapons have a chance to release a vile spike ball on hit
-			The vile spike ball applies ichor to damaged enemies
-			[i:FargoSoulMore/FleshEnchantment] Effects of Flesh Enchantment
-			Effects of Demon Blood Armor
+			[i:ThoriumMod/VileFlailCore] 65%基础伤害
+			连枷武器击中时有概率释放一个邪恶尖球
+			邪恶尖球对敌人造成伤害的同时施加灵液减益
+			[i:FargoSoulMore/FleshEnchantment] 获得血肉魔石的效果
+			获得魔血盔甲的套装效果
 			'''
-		DisplayName: Demon Blood Enchantment
+		DisplayName: 魔血魔石
 	}
 
 	ForceOfHelheim: {
 		Tooltip:
 			'''
-			[i:FargoSoulMore/SpiritTrapperEnchantment] Effects of Spirit Trapper Armor, Inner Flame
-			[i:FargoSoulMore/MalignantEnchantment] Effects of Artificer's Shield, Silk Enchantment
-			[i:FargoSoulMore/DreadEnchantment] Effects of Dread Armor, Crash Boots and Dragon Enchantment
-			[i:FargoSoulMore/DemonBloodEnchantment] Effects of Demon Blood Armor, Vile Flail-Core and Flesh Enchantment
-			[i:FargoSoulMore/WhiteKnightEnchantment] Effects of White Knight Armor, Smothering Band
+			[i:FargoSoulMore/SpiritTrapperEnchantment] 获得猎魂者盔甲的套装奖励和心灵之火的效果
+			[i:FargoSoulMore/MalignantEnchantment] 获得丝绸魔石和工匠的护盾的效果
+			[i:FargoSoulMore/DreadEnchantment] 获得恐惧盔甲的套装奖励和震地鞋、绿龙魔石的效果
+			[i:FargoSoulMore/DemonBloodEnchantment] 获得魔血盔甲的套装效果和邪恶连枷核心、血肉魔石的效果
+			[i:FargoSoulMore/WhiteKnightEnchantment] 获得白骑士盔甲的套装奖励和覆影手环的效果
 			'One of the Worlds'
 			'''
-		DisplayName: Force of Helheim
+		DisplayName: 赫尔海姆之力
 	}
 }
 
