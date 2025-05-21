@@ -91,4 +91,5 @@ Projectiles: {
 	MiniTimberChampionProjectile.DisplayName: 森林幼灵
 	NatureHeadPetProjectile.DisplayName: 自然幼灵
 	NaturePetProjectile.DisplayName: 自然幼灵
+	TrojanSquirrelPetProjectile.DisplayName: 迷你特洛伊松鼠
 }
