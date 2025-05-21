@@ -1,0 +1,94 @@
+Buffs: {
+	BabyLifeChampionBuff: {
+		DisplayName: 生命幼灵
+		Description: 作者太懒说不想写描述所以我在这挂个jav骂一下
+	}
+
+	BabyRockBuff: {
+		DisplayName: 大地幼灵
+		Description: 作者太懒说不想写描述所以我在这挂个jav骂一下
+	}
+
+	BiteSizeBabyFishronBuff: {
+		DisplayName: 襁褓遗爵
+		Description: 作者太懒说不想写描述所以我在这挂个jav骂一下
+	}
+
+	EridinisChildofCosmosBuff: {
+		DisplayName: 厄里达妮丝, 宇宙宝宝
+		Description: 作者太懒说不想写描述所以我在这挂个jav骂一下
+	}
+
+	MiniCoffinBuff: {
+		DisplayName: 微型棺材
+		Description: 作者太懒说不想写描述所以我在这挂个jav骂一下
+	}
+
+	MiniTimberChampionBuff: {
+		DisplayName: 森林幼灵
+		Description: 作者太懒说不想写描述所以我在这挂个jav骂一下
+	}
+
+	NaturePetBuff: {
+		DisplayName: 自然幼灵
+		Description: 作者太懒说不想写描述所以我在这挂个jav骂一下
+	}
+
+	TrojanSquirrelBuff: {
+		DisplayName: 迷你特洛伊松鼠
+		Description: 作者太懒说不想写描述所以我在这挂个jav骂一下
+	}
+}
+
+Items: {
+	BiteSizeBait: {
+		DisplayName: 啵饵粒
+		Tooltip: 召唤一只襁褓遗爵
+	}
+
+	CharredStone: {
+		DisplayName: 地之烬顽
+		Tooltip: 召唤一只大地幼灵
+	}
+
+	MiniTopHat: {
+		DisplayName: 波江高礼帽
+		Tooltip: 召唤一只厄里达妮丝, 宇宙宝宝
+	}
+
+	MysticRings: {
+		DisplayName: 魔戒
+		Tooltip: 召唤一只生命幼灵
+	}
+
+	NaturePetItem: {
+		DisplayName: 突变——生态与进化的馈礼
+		Tooltip: 召唤一只自然幼灵
+	}
+
+	ToolKitForBeginners: {
+		DisplayName: 新手伐木包
+		Tooltip: 召唤一只森林幼灵
+	}
+
+	ToyScepter: {
+		DisplayName: 玩具权杖
+		Tooltip: 召唤一只微型棺材
+	}
+
+	TrojanSquirrelItem: {
+		DisplayName: 松鼠的高礼帽
+		Tooltip: 召唤一只迷你特洛伊松鼠
+	}
+}
+
+Projectiles: {
+	BabyLifeChampionProjectile.DisplayName: 生命幼灵
+	BabyRockProjectile.DisplayName: 大地幼灵
+	BiteSizeBabyFishronProjectile.DisplayName: 襁褓遗爵
+	EridinisChildofCosmos.DisplayName: 厄里达妮丝, 宇宙宝宝
+	MiniCoffinProjectile.DisplayName: 微型棺材
+	MiniTimberChampionProjectile.DisplayName: 森林幼灵
+	NatureHeadPetProjectile.DisplayName: 自然幼灵
+	NaturePetProjectile.DisplayName: 自然幼灵
+}

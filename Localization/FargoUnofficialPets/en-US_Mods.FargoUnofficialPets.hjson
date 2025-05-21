@@ -1,0 +1,95 @@
+Buffs: {
+	BabyLifeChampionBuff: {
+		DisplayName: Mini Champion of Life
+		Description: i'm lazy to write buffs descriptions.
+	}
+
+	BabyRockBuff: {
+		DisplayName: Mini Champion of Earth
+		Description: i'm lazy to write buffs descriptions.
+	}
+
+	BiteSizeBabyFishronBuff: {
+		DisplayName: Baby Banished Baron
+		Description: i'm lazy to write buffs descriptions.
+	}
+
+	EridinisChildofCosmosBuff: {
+		DisplayName: Eridinis, Child of Cosmos
+		Description: i'm lazy to write buffs descriptions.
+	}
+
+	MiniCoffinBuff: {
+		DisplayName: Miniature Coffin
+		Description: i'm lazy to write buffs descriptions.
+	}
+
+	MiniTimberChampionBuff: {
+		DisplayName: Mini Champion of Timber
+		Description: i'm lazy to write buffs descriptions.
+	}
+
+	NaturePetBuff: {
+		DisplayName: Mini Champion of Nature
+		Description: i'm lazy to write buffs descriptions.
+	}
+
+	TrojanSquirrelBuff: {
+		DisplayName: Mini Trojan Squirrel
+		Description: i'm lazy to write buffs descriptions.
+	}
+}
+
+Items: {
+	BiteSizeBait: {
+		DisplayName: Bite-Size Bait
+		Tooltip: Summons a baby Banished Baron
+	}
+
+	CharredStone: {
+		DisplayName: Charred Stone
+		Tooltip: Summons a mini Champion of Earth
+	}
+
+	MiniTopHat: {
+		DisplayName: Small Top Hat
+		Tooltip: Summons Eridinis, Child of Cosmos
+	}
+
+	MysticRings: {
+		DisplayName: Mystic Rings
+		Tooltip: Summons a mini Champion of Life
+	}
+
+	NaturePetItem: {
+		DisplayName: Nature Pet Item
+		Tooltip: Summons a mini Champion of Nature
+	}
+
+	ToolKitForBeginners: {
+		DisplayName: Toolkit For Beginners
+		Tooltip: Summons a mini Champion of Timber
+	}
+
+	ToyScepter: {
+		DisplayName: Toy Scepter
+		Tooltip: Summons a miniature coffin
+	}
+
+	TrojanSquirrelItem: {
+		DisplayName: Squirrel's Top Hat
+		Tooltip: Summons a mini Trojan Squirrel
+	}
+}
+
+Projectiles: {
+	BabyLifeChampionProjectile.DisplayName: Mini Champion of Life
+	BabyRockProjectile.DisplayName: Mini Champion of Earth
+	BiteSizeBabyFishronProjectile.DisplayName: Baby Banished Baron
+	EridinisChildofCosmos.DisplayName: Eridinis, Child of Cosmos
+	MiniCoffinProjectile.DisplayName: Miniature Coffin
+	MiniTimberChampionProjectile.DisplayName: Mini Champion of Timber
+	NatureHeadPetProjectile.DisplayName: Mini Champion of Nature
+	NaturePetProjectile.DisplayName: Mini Champion of Nature
+	TrojanSquirrelPetProjectile.DisplayName: Mini Trojan Squirrel
+}
