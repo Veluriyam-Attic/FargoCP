@@ -68,7 +68,7 @@ Mods: {
 				Tooltip:
 					'''
 					Every 100 hits done propels a chromatic burst on target position
-					Effect of Big Red Button
+					Effect of {$Mods.ClickerClass.Items.BigRedButton.DisplayName}
 					'Wow rainbow keyboard'
 					'''
 			}
@@ -78,7 +78,7 @@ Mods: {
 				Tooltip:
 					'''
 					Summon a 5 cursors to follow you cursor after each other
-					Effect of Master Keychain
+					Effect of {$Mods.ClickerClass.Items.MasterKeychain.DisplayName}
 					'You know that this fuction is real'
 					'''
 			}
@@ -90,7 +90,7 @@ Mods: {
 					Every 10000 damage done grant the Overclock debuff for 5 seconds
 					Overclock buff provides 1.5x attack speed
 					There is a 60 second cooldown for this effect
-					Effect of Bottomless Box of Paperclips
+					Effect of {$Mods.ClickerClass.Items.BottomlessBoxofPaperclips.DisplayName}
 					'You are ready for overclock the processor?'
 					'''
 			}
@@ -105,6 +105,13 @@ Mods: {
 					and increased cooldown to 30 seconds
 					'Normality Relocator reference'
 					'''
+			}
+
+			MiceBooster: {
+				DisplayName: Mice Booster
+				Tooltip: ""
+				Activate: +{0} defence
+				Deactivate: -{0} defence
 			}
 		}
 
@@ -156,11 +163,11 @@ Mods: {
 			MatrixHeader: Force of Matrix
 			MotherboardEffect: Processor Frequency
 			RGBEffect: Chromatic Burst
-			RGBBigRedButtonEffect: Big Red Button
+			RGBBigRedButtonEffect: "{$Mods.ClickerClass.Items.BigRedButton.DisplayName}"
 			OverclockEffect: Overclock
-			OverclockBottomlessBoxofPaperclipsEffect: Bottomless Box of Paperclips
+			OverclockBottomlessBoxofPaperclipsEffect: "{$Mods.ClickerClass.Items.BottomlessBoxofPaperclips.DisplayName}"
 			PrecursorEffect: Cursor Trail
-			PrecursorMasterKeychainEffect: Master Keychain
+			PrecursorMasterKeychainEffect: "{$Mods.ClickerClass.Items.MasterKeychain.DisplayName}"
 			MiceEffect: Mice Teleport
 		}
 
@@ -183,8 +190,6 @@ Mods: {
 			}
 		}
 
-		Keybinds.MiceTeleport.DisplayName: Mice Teleport
-
 		ExpandedTooltips: {
 			ClickerRadius: 100% increased clicker radius
 			ClickerEffect: 20% decreased the amount of clicks required for a click effect
@@ -193,8 +198,13 @@ Mods: {
 
 		Buffs: {
 			MagickaClickerBuff: {
-				DisplayName: Magica Enchantment
+				DisplayName: Magicka Enchantment
 				Description: Your clicks now has extra damage hitbox
+			}
+
+			MiceBoosterBuff: {
+				DisplayName: Mice Buff
+				Description: Increased defence
 			}
 		}
 	}
