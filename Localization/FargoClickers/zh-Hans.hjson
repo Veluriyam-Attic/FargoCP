@@ -201,11 +201,11 @@ Mods: {
 				DisplayName: 魔能附魔
 				Description: 你的点击有额外伤害判定范围
 			}
-	
+
 			MiceBoosterBuff: {
 				DisplayName: 鼠标强化
 				Description: 增加防御力
 			}
-		}	
+		}
 	}
 }
