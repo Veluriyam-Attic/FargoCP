@@ -23,22 +23,22 @@ Mods: {
 			}
 
 			DragonEnchant: {
-				DisplayName: Dragon Enchantment
+				DisplayName: 绿龙魔石
 				Tooltip:
 					'''
-					'Made from mythical scales'
-					Your attacks have a chance to unleash an explosion of Dragon's Flame
-					Effects of Dragon Talon Necklace and Disco Music Player
+					你的攻击有概率释放龙焰爆炸
+					获得龙爪项链和Disco音乐播放器的效果
+					“由神话般的鳞片制成”
 					'''
 			}
 
 			TitanEnchant: {
-				DisplayName: Titan Enchantment
+				DisplayName: 泰坦魔石
 				Tooltip:
 					'''
-					'Infused with primordial energy'
-					15% increased damage
-					Effects of Mask of the Crystal Eye, Abyssal Shell, and Rock Music Player
+					增加15%伤害
+					获得水晶之眼面具、深渊贝壳和Rock音乐播放器的效果
+					“充满始源能量”
 					'''
 			}
 
@@ -52,13 +52,13 @@ Mods: {
 			}
 
 			WarlockEnchant: {
-				DisplayName: Warlock Enchantment
+				DisplayName: 术士魔石
 				Tooltip:
 					'''
-					'Better than a wizard'
-					Critical strikes will generate up to 15 shadow wisps
-					Pressing the 'Special Ability' key will unleash every stored shadow wisp towards your cursor's position
-					Effects of Demon Tongue and Dark Effigy
+					暴击攻击会生成至多15颗暗影微粒
+					按下盔甲能力键会向光标位置释放所有存储的暗影微粒
+					获得恶魔之舌和鬼影塑像的效果
+					“术士>巫师，望周知”
 					'''
 			}
 
@@ -193,7 +193,7 @@ Mods: {
 			}
 
 			Rogue: {
-				DisplayName: Rogue
+				DisplayName: 盗贼
 				Tooltip: ""
 			}
 
@@ -364,7 +364,7 @@ Mods: {
 			}
 
 			Adventurer: {
-				DisplayName: Adventurer
+				DisplayName: 冒险家
 				Tooltip: ""
 			}
 
@@ -1468,16 +1468,6 @@ Mods: {
 					'''
 			}
 
-			DragonEnchant: {
-				DisplayName: 绿龙魔石
-				Tooltip:
-					'''
-					你的攻击有概率释放龙焰爆炸
-					获得龙爪项链和Disco音乐播放器的效果
-					“由神话般的鳞片制成”
-					'''
-			}
-
 			DreadEnchant: {
 				DisplayName: 恐惧魔石
 				Tooltip:
@@ -1936,16 +1926,6 @@ Mods: {
 					'''
 			}
 
-			TitanEnchant: {
-				DisplayName: 泰坦魔石
-				Tooltip:
-					'''
-					增加15%伤害
-					获得水晶之眼面具、深渊贝壳和Rock音乐播放器的效果
-					“充满始源能量”
-					'''
-			}
-
 			ValadiumEnchant: {
 				DisplayName: 虚金魔石
 				Tooltip:
@@ -1954,17 +1934,6 @@ Mods: {
 					翻转时伤害增加12%
 					获得注视者之凝和注视者之镜的效果
 					“大佬们为什么我人物倒立过来了”
-					'''
-			}
-
-			WarlockEnchant: {
-				DisplayName: 术士魔石
-				Tooltip:
-					'''
-					暴击攻击会生成至多15颗暗影微粒
-					按下盔甲能力键会向光标位置释放所有存储的暗影微粒
-					获得恶魔之舌和鬼影塑像的效果
-					“术士>巫师，望周知”
 					'''
 			}
 
@@ -2525,10 +2494,10 @@ Mods: {
 				DisplayName: 灾集之力
 				Tooltip:
 					'''
-					获得虚空行者、 渊洋神迹、神胶幕府将军、异宇星凝、灾蛤和Frozen盔甲的套装奖励
-					获得异彩果酱、神圣屏障、热源之魂、Hell's Fire的效果
+					获得虚空行者、渊洋神迹、神胶幕府将军、异宇星凝、灾蛤和寒狱盔甲的套装奖励
+					获得异彩果酱、神圣屏障、极炎之魄、阳炎之霜的效果
 					获得光标突变剂、轮回证章、凝涌星核的效果
-					[c/EE0000:注意] 需安装灾劫、灾熵、灾蛤、旧神之猎
+					[c/EE0000:注意] 需安装灾劫、灾熵、灾蛤和旧神之猎
 					'''
 			}
 
@@ -2594,13 +2563,13 @@ Mods: {
 			}
 
 			FrozenEnchant: {
-				DisplayName: Frozen Enchantment
+				DisplayName: 寒狱魔石
 				Tooltip:
 					'''
-					20% increased true melee damage. Can't be frozen
-					True melee attacks inflict frostburn. 
-					Press Armor Ability Key to create an ice shield that parries attack
-					Failing to parry will cause you to overcool
+					增加20%真近战伤害，免疫冰冻减益
+					真近战伤害造成霜火减益
+					按下 盔甲能力键 创建一个可以格挡的冰盾
+					格挡失败会增加冷却时间
 					'''
 			}
 
@@ -2760,7 +2729,7 @@ Mods: {
 			}
 
 			BlueComputerChip: {
-				Tooltip: "召唤MACE工程"
+				Tooltip: 召唤MACE工程
 				DisplayName: 蓝色电脑芯片
 			}
 
@@ -2777,65 +2746,65 @@ Mods: {
 			ClamitasEnchant: {
 				Tooltip:
 					'''
-					Three shellfishes aid you in combat
-					Effects of Soul of Pyrogen and Hell Flare
+					召唤3只硫磺夹贝为你而战
+					获得极炎之魄、阳炎之霜的效果
 					'''
-				DisplayName: Clamitas Enchant
+				DisplayName: 灾蛤魔石
 			}
 
 			BuffaloDrumstick: {
 				DisplayName: 辣酱鸡腿
-				Tooltip: "召唤波山"
+				Tooltip: 召唤波山
 			}
 
 			CockatriceEgg: {
 				DisplayName: 公鸡蛋
-				Tooltip: "召唤鸡蛇"
+				Tooltip: 召唤鸡蛇
 			}
 
 			DirtyCloth: {
 				DisplayName: 脏衣物
-				Tooltip: "召唤掘颅者"
+				Tooltip: 召唤掘颅者
 			}
 
 			FrostedMetal: {
 				DisplayName: 寒霜金属
-				Tooltip: "召唤卡拉维亚"
+				Tooltip: 召唤卡拉维亚
 			}
 
 			GildedDrumstick: {
 				DisplayName: 镀金鸡腿
-				Tooltip: "召唤鸡皇"
+				Tooltip: 召唤鸡皇
 			}
 
 			GreenComputerChip: {
 				DisplayName: 绿色电脑芯片
-				Tooltip: "召唤守卫者伏特"
+				Tooltip: 召唤守卫者伏特
 			}
 
 			GreyComputerChip: {
 				DisplayName: 灰色电脑芯片
-				Tooltip: "召唤清洁工"
+				Tooltip: 召唤清洁工
 			}
 
 			IrradiatedSkull: {
 				DisplayName: 辐射头骨
-				Tooltip: "召唤辐射巨兽"
+				Tooltip: 召唤辐射巨兽
 			}
 
 			RadioactiveSushi: {
 				DisplayName: 放射性寿司
-				Tooltip: "召唤脓疱疮脸"
+				Tooltip: 召唤脓疱疮脸
 			}
 
 			SleepyRock: {
 				DisplayName: 沉睡岩石
-				Tooltip: "召唤鹰冠魔像"
+				Tooltip: 召唤鹰冠魔像
 			}
 
 			MutantsCurseEX: {
 				DisplayName: 突变体诅咒EX
-				Tooltip: "召唤[c/cDA10E6:魔神]"
+				Tooltip: 召唤[c/cDA10E6:魔神]
 			}
 
 			UltimateHealingPotion: {
@@ -2918,15 +2887,15 @@ Mods: {
 
 			CyclonicFin: {
 				Tooltip:
+					'''				
+					是你免疫月之诅咒和海洋重击
+					你的攻击会造成月之诅咒和海洋重击
+					幽灵猪鲨短暂现身造成伤害，提升你的暴击效果
+					幽灵猪鲨还会造成突变啃啄，禁敌恢复
+					将小猪鲨升级为小猪鲨EX
+					“狂风在咆哮”
 					'''
-					'The wind is howling'
-					Grants immunity to Curse of the Moon and Oceanic Maul
-					Your attacks inflict Curse of the Moon and Oceanic Maul
-					Spectral Fishron periodically manifests to support your critical hits
-					Spectral Fishron also inflicts Mutant Nibble, disabling enemy healing
-					Upgrades Cute Fishron to Cute Fishron EX
-					'''
-				DisplayName: Cyclonic Fin
+				DisplayName: 飓风鱼鳍
 			}
 
 			WildernessForce: {
@@ -3220,7 +3189,7 @@ Mods: {
 
 			MonstrocityBag: {
 				DisplayName: 宝藏袋（魔神）
-				Tooltip: "<right>打开"
+				Tooltip: <right>打开
 			}
 
 			MonstrocityRelicItem: {
@@ -3262,9 +3231,9 @@ Mods: {
 				DisplayName: 万象归墟·寰宇一统之魂
 				Tooltip:
 					'''
-					Effects of [i:FargowiltasSouls/EternitySoul], [i:ssm/EternityForce], [i:ssm/CyclonicFin]
-					Immunity to all possible debuffs.
-					'The feeling of [c/FF0000:HIS] gaze does not leave you.'
+					获得[i:FargowiltasSouls/EternitySoul]， [i:ssm/EternityForce]和[i:ssm/CyclonicFin]的效果
+					免疫几乎所有减益
+					“[c/FF0000:祂]凝视你的感觉从未消失过”
 					'''
 			}
 
@@ -3289,17 +3258,17 @@ Mods: {
 			}
 
 			Politician: {
-				DisplayName: Politician
+				DisplayName: 政客
 				Tooltip: ""
 			}
 
 			Gambler: {
-				DisplayName: Gambler
+				DisplayName: 赌徒
 				Tooltip: ""
 			}
 
 			RuneWizard: {
-				DisplayName: Rune Wizard
+				DisplayName: 附魔师
 				Tooltip: ""
 			}
 
@@ -3386,8 +3355,8 @@ Mods: {
 			}
 
 			SadismEX: {
-				DisplayName: Sadism EX
-				Description: You immune to all debuffs.
+				DisplayName: 暴虐能量EX
+				Description: 你免疫所有减益！
 			}
 
 			YharimBuff: {
@@ -3545,7 +3514,7 @@ Mods: {
 			MarchingBandEffect: 交响音符
 			MetronomeEffect: 节拍器
 			SandstoneEffect: 二段跳
-			PlasmaEffect: 等离子护盾发生器 
+			PlasmaEffect: 等离子护盾发生器
 			VampireGlandEffect: 吸血鬼试剂
 			FleshMaskEffect: 攻击掉落肉块
 			ValadiumEffect: 虚金重力
@@ -3577,7 +3546,7 @@ Mods: {
 			CryoStoneEffect: 冰川石
 			BloomStoneEffect: 绽花石
 			ToxicHeartEffect: 毒疫之心
-			ShtuxianSoulEffect: 星光攻速加成
+			// AttackSpeedCapSoulEffect: Attack speed cap
 			HideofAstrumDeusEffect: 星神隐壳
 			AquaticHeartEffect: 渊洋之心
 			SoAMasoSoulHeader: 大师之魂
@@ -3755,7 +3724,7 @@ Mods: {
 
 				ExperimentalContent: {
 					Label: 实验性内容
-					Tooltip:加载未制作完成的内容
+					Tooltip: 加载未制作完成的内容
 				}
 
 				ThrowerMerge: {
