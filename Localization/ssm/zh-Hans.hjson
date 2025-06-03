@@ -7,63 +7,499 @@ Mods: {
 				All damage is nulified. You one-shot every NPC.
 				Ring of squirrels orbit you and shoot acorns at your enemies.
 				'''
-
-			AuricTeslaHornedVisor: {
-				SetBonus:
-					'''
-					True Tarragon, Bloodflare and Silva armor effects
-					+500 shield capacity and 10 shield regeneration
-					'''
-				DisplayName: Auric Tesla Horned Visor
-				Tooltip: 30% increased true damage, critical strike chance and attack speed
-			}
-
-			TarragonHornedVisor: {
-				SetBonus:
-				'''
-					+100 shield capacity and 5 shield regeneration
-					15% increase true attack speed
-					'''
-				DisplayName: Tarragon Horned Visor
-				Tooltip:
-					'''
-					15% increased true damage and critical strike chance
-					10% damage reduction
-					'''
-			}
-
-			BloodflareHornedVisor: {
-				SetBonus:
-					'''
-					+150 shield capacity and 7 shield regeneration
-					15% increase true attack speed
-					'''
-				DisplayName: Bloodflare Horned Visor
-				Tooltip: 20% increased true damage and 10% critical strike chance
-			}
-
-			SilvaHornedVisor: {
-				SetBonus:
-					'''
-					+200 shield capacity and 8 shield regeneration
-					20% increase true attack speed
-					'''
-				DisplayName: Silva Horned Visor
-				Tooltip: 30% increased true damage and 20% critical strike chance
-			}
-
-			GodslayerHornedVisor: {
-				SetBonus:
-					'''
-					+150 shield capacity and 7 shield regeneration
-					20% increase true attack speed
-					'''
-				DisplayName: God Slayer Horned Visor
-				Tooltip: 20% increased true damage and 15% critical strike chance
-			}
 		}
 
 		Items: {
+			OstaraEnchant: {
+				DisplayName: Ostara Enchantment
+				Tooltip:
+					'''
+					3% Increased movement speed
+					Allows wearer to perform up to 5 bunny hops
+					Enemies have a chance of leaving chocolate eggs on death
+					Eggs drop life hearts and mana stars when broken
+					Negates fall damage
+					'''
+			}
+
+			DragonEnchant: {
+				DisplayName: Dragon Enchantment
+				Tooltip:
+					'''
+					'Made from mythical scales'
+					Your attacks have a chance to unleash an explosion of Dragon's Flame
+					Effects of Dragon Talon Necklace and Disco Music Player
+					'''
+			}
+
+			TitanEnchant: {
+				DisplayName: Titan Enchantment
+				Tooltip:
+					'''
+					'Infused with primordial energy'
+					15% increased damage
+					Effects of Mask of the Crystal Eye, Abyssal Shell, and Rock Music Player
+					'''
+			}
+
+			PhantasmalEnchant: {
+				DisplayName: Phantasmal Enchantment
+				Tooltip:
+					'''
+					Spectral aura drains mana out of nearby enemies
+					Effects of Shadowbound Exoskeleton
+					'''
+			}
+
+			WarlockEnchant: {
+				DisplayName: Warlock Enchantment
+				Tooltip:
+					'''
+					'Better than a wizard'
+					Critical strikes will generate up to 15 shadow wisps
+					Pressing the 'Special Ability' key will unleash every stored shadow wisp towards your cursor's position
+					Effects of Demon Tongue and Dark Effigy
+					'''
+			}
+
+			AncientDragonEnchant: {
+				DisplayName: Ancient Dragon Enchantment
+				Tooltip:
+					'''
+					12% Increased melee speed
+					10% Increased melee damage
+					'''
+			}
+
+			AncientTitanEnchant: {
+				DisplayName: Ancient Titan Enchantment
+				Tooltip:
+					'''
+					8% Increased ranged critical strike chance
+					15% Increased ranged attack speed
+					'''
+			}
+
+			AncientPhantasmalEnchant: {
+				DisplayName: Ancient Phantasmal Enchantment
+				Tooltip:
+					'''
+					8% increased magic critical strike chance
+					12% Increased magic damage
+					'''
+			}
+
+			AncientWarlockEnchant: {
+				DisplayName: Ancient Warlock Enchantment
+				Tooltip:
+					'''
+					Increases your max number of minions by 2
+					10% Increased summon damage
+					'''
+			}
+
+			HeroForce: {
+				DisplayName: Force of Hero
+				Tooltip:
+					'''
+					[i:ssm/OstaraEnchant] Allows wearer to perform up to 5 bunny hops
+					[i:ssm/OstaraEnchant] Effects of Ostara's Gift
+					[i:ssm/DragonEnchant] Creates a burst of shadowflames after taking damage	
+					[i:ssm/TitanEnchant] Using ranged weapons triggers a recoil blast
+					[i:ssm/PhantasmalEnchant] Spectral aura drains mana out of nearby enemies
+					[i:ssm/WarlockEnchant] Enemies killed by minions heal the player
+					'''
+			}
+
+			BotanistEnchant: {
+				DisplayName: Botanist Enchantment
+				Tooltip:
+					'''
+					Increases the amount of Herbs the player can yield
+					Herbs glow in dark places
+					Increased vision in Briar at night or underground
+					'''
+			}
+
+			ElderbarkEnchant: {
+				DisplayName: Elderbark Enchantment
+				Tooltip: Increases all item damage by 2
+			}
+
+			DriftwoodEnchant: {
+				DisplayName: Driftwood Enchantment
+				Tooltip: Increased fishing power, chance of fishing up crate and defense when in ocean biome
+			}
+
+			FloranEnchant: {
+				DisplayName: Floran Enchantment
+				Tooltip:
+					'''
+					Killing enemies may drop raw meat, restoring health and granting 'Well Fed'
+					5% increased melee speed and slightly increases life regeneration while standing on grass
+					'''
+			}
+
+			SunflowerEnchant: {
+				DisplayName: Sunflower Enchantment
+				Tooltip: Being outside during daytime increases defense, maximum mana, and life regeneration slightly
+			}
+
+			WayfarersEnchant: {
+				DisplayName: Wayfarer Enchantment
+				Tooltip:
+					'''
+					Killing enemies, breaking pots, mining ore grants stacking buffs. All buffs stack up to 4 times.
+					Effect of Explorer's Treads
+					Effect of Metal Band
+					'''
+			}
+
+			ApostleEnchant: {
+				DisplayName: Apostle Enchantment
+				Tooltip:
+					'''
+					Wind Spirits guide you, granting you double jumps
+					Magic and ranged attacks occasionally spawn feathers to attack foes
+					'''
+			}
+
+			AstraliteEnchant: {
+				DisplayName: Astralite Enchantment
+				Tooltip:
+					'''
+					Double tap 'Down' to deploy an energy field at the cursor position
+					This field lasts for five seconds and supercharges all ranged projectiles that pass through it
+					Effects of High-Grav Boots
+					'''
+			}
+
+			ChitinEnchant: {
+				DisplayName: Chitin Enchantment
+				Tooltip:
+					'''
+					Double tap in a direction to dash and envelop yourself in a tornado
+					Provides immunity to the Mighty Wind debuff during Sandstorms
+					'''
+			}
+
+			RogueEnchant: {
+				DisplayName: Rogue Enchantment
+				Tooltip:
+					'''
+					Getting hit grants four seconds of invisibility and 100% increased damage. 25 second cooldown
+					Effects of Rogue's Crest and Swiftness Rune
+					'''
+			}
+
+			Rogue: {
+				DisplayName: Rogue
+				Tooltip: ""
+			}
+
+			MarbleChunkEnchant: {
+				DisplayName: Ancient Marble Enchantment
+				Tooltip: Press 'Up' to grant 'Divine Winds', allowing for limited flight. 5 second cooldown
+			}
+
+			RunicEnchant: {
+				DisplayName: Runic Enchantment
+				Tooltip:
+					'''
+					Leave behind dangerous explosive runes
+					Effects of Rune Wizard's Scroll
+					'''
+			}
+
+			SeraphEnchant: {
+				DisplayName: Seraph Enchantment
+				Tooltip:
+					'''
+					Being near enemies increases life regen, increases melee speed and reduces mana cost by 6% per enemy
+					Effects of Angelic Sigil and Seraphim Bulwark
+					'''
+			}
+
+			BismiteEnchant: {
+				DisplayName: Bismite Enchantment
+				Tooltip:
+					'''
+					Not getting hit builds up stacks of Virulence
+					Striking while Virulence is charged releases a toxic explosion
+					Being struck by an enemy inflicts them with festering wounds debuff
+					'''
+			}
+
+			CascadeEnchant: {
+				DisplayName: Cascade Enchantment
+				Tooltip:
+					'''
+					Dealing damage to enemies builds up a bubble shield
+					The bubble at full size grants heavy damage resistance against the next attack
+					Double tap 'Down' to gain unhindered movement underwater for a short time
+					'''
+			}
+
+			GraniteChunkEnchant: {
+				DisplayName: Granite Chunk Enchantment
+				Tooltip:
+					'''
+					Double tap 'Down' while falling to stomp downward
+					Hitting the ground releases a shockwave that scales with height
+					Effect of Heartbeat Cleats and Sharpshooter's Glove
+					'''
+			}
+
+			PrimalstoneEnchant: {
+				DisplayName: Primalstone Enchantment
+				Tooltip:
+					'''
+					Melee and magic hits on enemies trigger Unstable Affliction
+					Effect of Titanbound Bulwark
+					'''
+			}
+
+			SpiritEnchant: {
+				DisplayName: Spirit Enchantment
+				Tooltip:
+					'''
+					Spirits grant you various buffs based on your health
+					Effect of Shadow-Singed Fang
+					'''
+			}
+
+			StreamSurferEnchant: {
+				DisplayName: Stream Surfer Enchantment
+				Tooltip:
+					'''
+					Double tap 'Down' to create a ridable waterspout that damages enemies
+					Increases jump height and descent speed
+					'''
+			}
+
+			BloodcourtEnchant: {
+				DisplayName: Bloodcourt Enchantment
+				Tooltip:
+					'''
+					Double tap 'Down' to sacrifice 8% of your maximum health and launch a bolt of Dark Anima dealing damage in a radius
+					Effects of Grisly Tongue and Sanguine Ward
+					'''
+			}
+
+			CryoliteEnchant: {
+				DisplayName: Cryolite Enchantment
+				Tooltip:
+					'''
+					Generates an icy aura that slows nearby enemies
+					This aura expands gradually, but resets when injured
+					Effects of Winter hat and Four of a Kind
+					'''
+			}
+
+			DuskEnchant: {
+				DisplayName: Dusk Enchantment
+				Tooltip:
+					'''
+					Magic attacks inflict Shadowflame
+					8% Increased Magic and Ranged Damage at Night
+					Nearby enemies and enemies hit by attacks may be hit by a chain of lightning
+					'Andrew Hulshult'
+					'''
+			}
+
+			FrigidEnchant: {
+				DisplayName: Frigid Enchantment
+				Tooltip:
+					'''
+					Double tap 'Down' to create an icy wall at the cursor position, effect has 8 second cooldown
+					Effects of Frigid Wraps
+					'''
+			}
+
+			MarksmanEnchant: {
+				DisplayName: Marksman Enchantment
+				Tooltip:
+					'''
+					4% increased critical strike chance
+					Wearing Marksman's Armor builds up concentration
+					While concentrated, your next strike is a critical strike and deals more damage
+					Concentration is disrupted when hurt, but charges faster while standing still
+					'''
+			}
+
+			PainMongerEnchant: {
+				DisplayName: Pain Monger Enchantment
+				Tooltip:
+					'''
+					When under 25% health, defense is decreased by 4, but Infernal Guardians surround you
+					Infernal Guardians vastly increase magic damage and reduce mana cost
+					Magic attacks shoot out fiery spit that explode upon hitting enemies
+					'''
+			}
+
+			SlagTyrantEnchant: {
+				DisplayName: Slag Tyrant Enchantment
+				Tooltip:
+					'''
+					Double tap 'Down' to cause all sentries to release a burst of fireballs, 8 second cooldown
+					Summons a magic scepter to fight for you
+					This scepter does not take up minion slots
+					'''
+			}
+
+			AdventurerForce: {
+				DisplayName: Adventurer Force
+				Tooltip:
+					'''
+					[i:ssm/ElderbarkEnchant] Increases all item damage by 10
+					[i:ssm/DriftwoodEnchant] Allows the wearer to float on water
+					[i:ssm/DriftwoodEnchant] Increased fishing power
+					[i:ssm/BotanistEnchant] Increases the amount of Herbs the player can yield
+					[i:ssm/BotanistEnchant] Herbs glow in dark places
+					[i:ssm/FloranEnchant] Killing enemies may drop raw meat, restoring health and granting 'Well Fed'
+					[i:ssm/WayfarersEnchant] Killing enemies, breaking pots, mining ore grants stacking buffs. All buffs stack up to 4 times.
+					[i:ssm/WayfarersEnchant] Effect of Explorer's Treads and Metal Band
+					[i:ssm/SunflowerEnchant] Being outside during daytime increases defense, maximum mana, and life regeneration slightly
+					'''
+			}
+
+			Adventurer: {
+				DisplayName: Adventurer
+				Tooltip: ""
+			}
+
+			HurricaneForce: {
+				DisplayName: Force of Hurricane
+				Tooltip:
+					'''
+					[i:ssm/RogueEnchant] Getting hit grants four seconds of invisibility and 100% increased damage
+					[i:ssm/ChitinEnchant] Double tap in a direction to dash and envelop yourself in a tornado
+					[i:ssm/ChitinEnchant] Provides immunity to the Mighty Wind debuff during Sandstorms
+					[i:ssm/ApostleEnchant] Wind Spirits guide you, granting you double jumps
+					[i:ssm/ApostleEnchant] Magic and ranged attacks occasionally spawn feathers to attack foes
+					[i:ssm/MarbleChunkEnchant] Press 'Up' to grant 'Divine Winds', allowing for limited flight
+					[i:ssm/AstraliteEnchant] Double tap 'Down' to deploy an energy field at the cursor position
+					[i:ssm/SeraphEnchant] Being near enemies increases life regen, increases melee speed and reduces mana cost
+					[i:ssm/RunicEnchant] Leave behind dangerous explosive runes
+					'''
+			}
+
+			AtlantisForce: {
+				DisplayName: Atlantis Force
+				Tooltip:
+					'''
+					[i:ssm/BismiteEnchant] Not getting hit builds up Virulence, striking while Virulence is charged releases a toxic explosion
+					[i:ssm/CascadeEnchant] Dealing damage to enemies builds up a bubble shield that rants heavy damage resistance
+					[i:ssm/GraniteChunkEnchant] Double tap 'Down' while falling to stomp downward, hitting the ground releases shockwave
+					[i:ssm/StreamSurferEnchant] Double tap 'Down' to create a ridable waterspout that damages enemies
+					[i:ssm/SpiritEnchant] Spirits grant you various buffs based on your health
+					[i:ssm/PrimalstoneEnchant] Melee and magic hits on enemies trigger Unstable Affliction debuff
+
+					'''
+			}
+
+			FrostburnForce: {
+				DisplayName: Frostburn Force
+				Tooltip:
+					'''
+					[i:ssm/BloodcourtEnchant] Double tap 'Down' to sacrifice 8% of your maximum health and launch a bolt of Dark Anima dealing high damage in a radius
+					[i:ssm/CryoliteEnchant] Generates an icy aura that slows nearby enemies
+					[i:ssm/DuskEnchant] You are surrounded by a rune that guides the way
+					[i:ssm/FrigidEnchant] Double tap 'Down' to create an icy wall at the cursor position
+					[i:ssm/MarksmanEnchant] Wearing Marksman's Armor builds up concentration, your next strike is a critical strike when concentrated
+					[i:ssm/PainMongerEnchant] Infernal Guardians surround you when under 25% health, vastly increase magic damage and reduce mana cost
+					[i:ssm/SlagTyrantEnchant] Double tap 'Down' to cause all sentries to release a burst of fireballs
+					'''
+			}
+
+			CommonGuardEnchant: {
+				DisplayName: Common Guard Enchantment
+				Tooltip:
+					'''
+					+12% increased melee speed 
+					Reduces damage taken by 6%
+					Effect of Trapped Soul Bauble
+					'''
+			}
+
+			DragonLeadEnchant: {
+				DisplayName: Dragon Lead Enchantment
+				Tooltip:
+					'''
+					20% increased Ice elemental resistance
+					33% chance for weapons to inflict Dragonblaze 
+					100% chance for all Dragon-Lead weapons to inflict Dragonblaze
+					Effect of Heart Insignia
+					- Good Route -
+					'''
+			}
+
+			PureIronEnchant: {
+				DisplayName: Pure Iron Enchantment
+				Tooltip:
+					'''
+					20% increased Fire elemental resistance 
+					33% chance for weapons to inflict Pure Chill 
+					100% chance for all Pure-Iron weapons to inflict Pure Chill
+					Effect of Erhan's Cross
+					- Bad Route -
+					'''
+			}
+
+			HardlightEnchant: {
+				DisplayName: Hardlight Enchantment
+				Tooltip:
+					'''
+					Press 'Special Ability Key' to get different effects of Hardlight Armor
+					Effects depend on what weapon class you are using and will not work if you aren't holding any
+					Melee: Summons 2 orbiting mini spaceships that fire lasers whenever you attack using a melee weapon
+					Ranged: Fires a missile barrage, targetting the enemy nearest to the cursor position
+					Magic: Summons a drone that gives a continuous feed of mana for 10 seconds
+					Summon: Summons 2 missile drones and a magnet drone
+					'''
+			}
+
+			LivingTwigEnchant: {
+				DisplayName: Living Twig Enchantment
+				Tooltip:
+					'''
+					Immunity to the Poisoned debuff 
+					3% Increased minions damage
+					'''
+			}
+
+			XeniumEnchant: {
+				DisplayName: Xenium Enchantment
+				Tooltip:
+					'''
+					+10 increased Energy regeneration 			
+					Effects of Beelzebub Concoction and Infected Thornshield
+					'''
+			}
+
+			XenomiteEnchant: {
+				DisplayName: Xenomite Enchantment
+				Tooltip:
+					'''
+					Press 'Special Ability Key' to unleash toxic gas in a radius around the player, inflicting Burning Acid
+					Effect of Necklace of Perception
+					'''
+			}
+
+			AdvancementForce: {
+				DisplayName: Force of Advancement
+				Tooltip:
+					'''
+					[i:ssm/LivingWoodEnchant2] Immunity to the Poisoned debuff 
+					[i:ssm/CommonGuardEnchant] +12% increased melee speed and reduces damage taken by 6%
+					[i:ssm/PureIronEnchant][i:ssm/DragonLeadEnchant] 33% chance for weapons to inflict Pure Chill and Dragonblaze  
+					[i:ssm/PureIronEnchant][i:ssm/DragonLeadEnchant] 100% chance for all Dragon-Lead weapons to inflict Pure Chill and Dragonblaze
+					[i:ssm/PureIronEnchant][i:ssm/DragonLeadEnchant] 20% increased Ice and Fire elemental resistance 
+					[i:ssm/HardlightEnchant] Press 'Special Ability Key' to get different effects of Hardlight Armor
+					[i:ssm/XeniumEnchant] +10 increased Energy regeneration
+					'''
+			}
+
 			AddedEffects: {
 				ThoriumColossus: Effect of Blast Shield
 				CalDefender: Effects of Asgard's Valor
@@ -524,7 +960,8 @@ Mods: {
 				Tooltip:
 					'''
 					'It takes every color to make a rainbow'
-					Hitting enemies has a chance to summon a bismuth hammer for extra damage
+					While standing you will form bismuth crystals that can absorb 5% of damage from enemies, and 2% from bosses 
+					It takes 5 seconds to form and has three stages that can only absorb up to 90 damage
 					'''
 			}
 
@@ -543,8 +980,8 @@ Mods: {
 				Tooltip:
 					'''
 					'Your spooks and scares will send shivers down your enemies' spines'
-					Empowers certain bone-related weapons
-					Effects of Dreadflame Emblem
+					Adds a 10% chance for a blightbone to be thrown out alongside your thrown weapon, applying ‘On Fire!’ for 2 seconds
+					Empowers bone type weapons, making them apply the ‘On Fire!’ debuff for 3 seconds.
 					'''
 			}
 
@@ -564,10 +1001,8 @@ Mods: {
 				Tooltip:
 					'''
 					'Ralnek's spirit guides you'
-					Pressing [Ability] will activate 'Dreadfire Aura'.
-					'Dreadfire Aura' increases minion damage greatly for a minute. 
-					3 minute cooldown
-					Effects of Pumpkin Amulet
+					Surrounds player with Dreadfire Aura that inflicting Dreadfire buff
+					Dreadfire buff increases magic and summon damage by 15%
 					'''
 			}
 
@@ -576,7 +1011,9 @@ Mods: {
 				Tooltip:
 					'''
 					'Creeper? Aw man…'
-					Minion damage grants increased life regeneration
+					Summons an eerie crimson monster
+					Whenever the minion hits an enemy, you get the “Eerie Regeneration” buff
+					The monster lifesteals for 25% of the damage it deals
 					'''
 			}
 
@@ -617,9 +1054,8 @@ Mods: {
 				Tooltip:
 					'''
 					'The hunter now hunted, the prey now predator'
-					15% increased ranged damage while in the snow biome
-					Ranged projectiles frostburn enemies
-					Effects of Frigid Pendant
+					When shooting an enemy, cause a small frost explosion that damages enemies in a radius
+					With a 2 second cooldown, the frost explosion becomes a cluster explosion, causing multiple small frost explosions to come after it
 					'''
 			}
 
@@ -628,8 +1064,9 @@ Mods: {
 				Tooltip:
 					'''
 					'Gotta go fast'
-					20% increased movement speed
-					Effects of Lapis Pendant
+					15% increased movement speed
+					Additional 25% movement speed for 2 seconds after being damaged
+					Every 5 attacks, give the Lapis Shield, increasing your defense by 3/6/9, depending on how many stacks you have
 					'''
 			}
 
@@ -710,6 +1147,7 @@ Mods: {
 				Tooltip:
 					'''
 					'Reap the rewards of your near-endless grind'
+					Allows the player to increase Boss Damage by killing enemies near the boss which increases damage by 5% for 2 seconds per enemies defeated.
 					Provides immunity to Flarium Inferno and Obsidian Curse
 					'''
 			}
@@ -900,7 +1338,7 @@ Mods: {
 			}
 
 			BerserkerEnchant: {
-				DisplayName: Berserker Enchant
+				DisplayName: Berserker Enchantment
 				Tooltip:
 					'''
 					'I'd rather fight for my life than live it'
@@ -2820,9 +3258,124 @@ Mods: {
 				Tooltip: ""
 			}
 
-			Soul: {
-				Tooltip: 恭喜你做出来，但这玩意还有错误动画的问题，会在下个版本修复
+			StargateSoul: {
 				DisplayName: 万象归墟·寰宇一统之魂
+				Tooltip:
+					'''
+					Effects of [i:FargowiltasSouls/EternitySoul], [i:ssm/EternityForce], [i:ssm/CyclonicFin]
+					Immunity to all possible debuffs.
+					'The feeling of [c/FF0000:HIS] gaze does not leave you.'
+					'''
+			}
+
+			MicroverseSoul: {
+				Tooltip: ""
+				DisplayName: Microverse Soul
+			}
+
+			MacroverseSoul: {
+				Tooltip: ""
+				DisplayName: Macroverse Soul
+			}
+
+			ILoveStarlightCat: {
+				DisplayName: I Love Starlight Cat
+				Tooltip: ""
+			}
+
+			LivingWoodEnchant2: {
+				DisplayName: Living Wood Enchant2
+				Tooltip: ""
+			}
+
+			Politician: {
+				DisplayName: Politician
+				Tooltip: ""
+			}
+
+			Gambler: {
+				DisplayName: Gambler
+				Tooltip: ""
+			}
+
+			RuneWizard: {
+				DisplayName: Rune Wizard
+				Tooltip: ""
+			}
+
+			StarblightFruit: {
+				DisplayName: Starblight Fruit
+				Tooltip: ""
+			}
+
+			DragonEnchant2: {
+				DisplayName: Dragon Enchant2
+				Tooltip: ""
+			}
+
+			TitanEnchant2: {
+				DisplayName: Titan Enchant2
+				Tooltip: ""
+			}
+
+			WarlockEnchant2: {
+				DisplayName: Warlock Enchant2
+				Tooltip: ""
+			}
+
+			AstatineEnchant: {
+				DisplayName: Astatine Enchant
+				Tooltip: ""
+			}
+
+			FaradayEnchant: {
+				DisplayName: Faraday Enchant
+				Tooltip: ""
+			}
+
+			KevlarEnchant: {
+				DisplayName: Kevlar Enchant
+				Tooltip: ""
+			}
+
+			PlasticEnchant: {
+				DisplayName: Plastic Enchant
+				Tooltip: ""
+			}
+
+			PlutoniumEnchant: {
+				DisplayName: Plutonium Enchant
+				Tooltip: ""
+			}
+
+			PurifiedSaltEnchant: {
+				DisplayName: Purified Salt Enchant
+				Tooltip: ""
+			}
+
+			RockSaltEnchant: {
+				DisplayName: Rock Salt Enchant
+				Tooltip: ""
+			}
+
+			SuperCeramicEnchant: {
+				DisplayName: Super Ceramic Enchant
+				Tooltip: ""
+			}
+
+			UraniumEnchant: {
+				DisplayName: Uranium Enchant
+				Tooltip: ""
+			}
+
+			IdeocracyForce: {
+				DisplayName: Ideocracy Force
+				Tooltip: ""
+			}
+
+			RadioactiveForce: {
+				DisplayName: Radioactive Force
+				Tooltip: ""
 			}
 		}
 
@@ -2863,18 +3416,23 @@ Mods: {
 			}
 
 			MonstrocityPresenceBuff: {
-				Description: No soul toggles, no enhanced movement, no dash or dodge, no escape
+				Description: No soul toggles, no eternity crits, no escape.
 				DisplayName: Monstrosity Presence Buff
 			}
 
-			StellarGuardianBuff: {
-				Description: Stellar Guardian protects You
-				DisplayName: Stellar Guardian Buff
+			NihilityPresenceBuff: {
+				DisplayName: Nihility Presence
+				Description: Souls effects are disabled
 			}
 
-			NihilityPresenceBuff: {
-				DisplayName: Nihility Presence Buff
-				Description: Some of your souls effects are toggled off
+			DreadflameAura: {
+				DisplayName: Dreadflame Aura
+				Description: Mods.ssm.Buffs.DreadflameAura.Description
+			}
+
+			DreadflameAuraCD: {
+				DisplayName: Dreadflame Aura C D
+				Description: Mods.ssm.Buffs.DreadflameAuraCD.Description
 			}
 		}
 
@@ -2955,6 +3513,7 @@ Mods: {
 
 			MutantEX: {
 				DisplayName: 魔神
+				DisplayNameApril: LumberJack
 
 				BossChecklistIntegration: {
 					SpawnInfo: 使用突变体的诅咒EX
@@ -3153,6 +3712,10 @@ Mods: {
 			TrueAcornProjectile.DisplayName: True Acorn Projectile
 			SquirrelMinion.DisplayName: Squirrel Minion
 			SquirrelRing.DisplayName: Squirrel Ring
+			Blightbone.DisplayName: Blightbone
+			EerieMinion.DisplayName: Eerie Minion
+			DreadfireAuraProj.DisplayName: Dreadfire Aura Proj
+			SpaceJunkProj.DisplayName: Space Junk Proj
 		}
 
 		Bestiary: {
@@ -3237,6 +3800,16 @@ Mods: {
 
 				Beekeeper: {
 					Label: Bombus Apis
+					Tooltip: ""
+				}
+
+				TerMerica: {
+					Tooltip: ""
+					Label: TerMerica
+				}
+
+				SpiritMod: {
+					Label: Spirit Mod
 					Tooltip: ""
 				}
 			}
