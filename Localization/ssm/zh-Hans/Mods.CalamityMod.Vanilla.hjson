@@ -1,10 +1,10 @@
 // Buff Descriptions
 BuffDescription: {
-	WeaponImbueCursedFlames: Melee, Whip, and Thrower attacks inflict enemies with cursed flames
-	WeaponImbueFire: Melee, Whip, and Thrower attacks set enemies on fire
-	WeaponImbueGold: Melee, Whip, and Thrower attacks make enemies drop more gold
-	WeaponImbueIchor: Melee, Whip, and Thrower attacks decrease enemies defense
-	WeaponImbueNanites: Melee, Whip, and Thrower attacks confuse enemies
-	WeaponImbuePoison: Melee, Whip, and Thrower attacks poison enemies
-	WeaponImbueVenom: Melee, Whip, and Thrower attacks inflict acid venom on your targets
+	WeaponImbueCursedFlames: 近战、鞭子和投掷攻击会对敌人施放诅咒焰
+	WeaponImbueFire: 近战、鞭子和投掷攻击会使敌人着火
+	WeaponImbueGold: 近战、鞭子和投掷攻击会使敌人掉落更多钱
+	WeaponImbueIchor: 近战、鞭子和投掷攻击会降低敌人防御
+	WeaponImbueNanites: 近战、鞭子和投掷攻击会使敌人困惑
+	WeaponImbuePoison: 近战、鞭子和投掷攻击会使敌人中毒
+	WeaponImbueVenom: 近战、鞭子和投掷攻击会对敌人造成酸性毒液
 }

@@ -1,11 +1,11 @@
 CommonItemTooltip: {
-	PercentIncreasedKineticDamage: "{0}% increased Thrower damage"
-	PercentIncreasedKineticCritChance: "{0}% increased Thrower critical strike chance"
-	PercentIncreasedKineticDamageCritChance: "{0}% increased Thrower damage and critical strike chance"
-	PercentIncreasedKineticSpeed: "{0}% increased Thrower velocity"
+	PercentIncreasedKineticDamage: 增加{0}%投掷伤害
+	PercentIncreasedKineticCritChance: 增加{0}%投掷暴击率
+	PercentIncreasedKineticDamageCritChance: 增加{0}%投掷伤害和投掷暴击率
+	PercentIncreasedKineticSpeed: 增加{0}%投掷物速度
 }
 
-DamageClasses.KineticDamageClass.DisplayName: Thrower damage
+DamageClasses.KineticDamageClass.DisplayName: 投掷伤害
 
 Items: {
 	QuasarSigil: {

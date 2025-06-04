@@ -1,98 +1,98 @@
 DaedalusHeadRogue: {
-	DisplayName: Daedalus Facemask
+	DisplayName: 代达罗斯头罩
 	Tooltip:
 		'''
-		13% increased Thrower damage and 7% increased Thrower critical strike chance
-		15% increased Thrower velocity and 5% increased movement speed
+		增加13%投掷伤害和7%投掷暴击率
+		增加15%投掷弹幕速度和5%移动速度
 		'''
 	SetBonus:
 		'''
-		5% increased Thrower damage
-		+105 maximum stealth
-		Thrower projectiles throw out crystal shards as they travel
+		增加5%投掷伤害
+		增加105最大潜行值
+		投掷弹幕飞行时释放水晶碎片
 		'''
 }
 
 ForbiddenCirclet: {
-	DisplayName: Forbidden Circlet
-	Tooltip: 10% increased summon damage and 15% increased Thrower velocity
+	DisplayName: 禁戒金箍
+	Tooltip: 增加10%召唤伤害和15%投掷弹幕速度
 	SetBonus:
 		'''
-		+40 maximum stealth
-		Press {0} to call an ancient storm to the cursor location
-		The ancient storm costs {1} mana and benefits from both summon and Thrower bonuses
-		Thrower stealth strikes spawn homing eaters on enemy hits
-		Thrower and summon attacks will scale off of the stat with a higher boost
+		增加40最大潜行值
+		按下{0}键在光标位置召唤一个远古风暴
+		远古风暴消耗{1}魔力值并受召唤伤害和投掷伤害的加成
+		潜伏攻击会在命中的敌怪身上产生追踪的禁戒吞噬者
+		投掷和召唤攻击会随着更高的加成而减少
 		'''
 }
 
 HydrothermicHeadRogue: {
-	DisplayName: Hydrothermic Hood
+	DisplayName: 渊泉兜帽
 	Tooltip:
 		'''
-		12% increased Thrower damage and 10% increased Thrower critical strike chance
-		50% chance to not consume Thrower items and 5% increased movement speed
-		Grants immunity to fire and lava
+		增加12%投掷伤害和10%投掷暴击率
+		50%几率不消耗投掷武器并增加5%移动速度
+		免疫火焰和熔岩
 		'''
 	SetBonus:
 		'''
-		5% increased Thrower damage
-		+110 maximum stealth
-		Thrower weapons unleash a volley of homing chaos flames around the player every 2 seconds
+		提升5%投掷伤害
+		增加110点最大潜行值
+		使用投掷武器攻击时每2秒会在你周围召唤8团追踪敌人的混沌火焰
 		'''
 }
 
 TitanHeartBoots: {
-	DisplayName: Titan Heart Boots
-	Tooltip: 4% increased Thrower damage, 10% increased Thrower velocity, and 5% increased Thrower knockback
+	DisplayName: 泰坦之心靴子
+	Tooltip: 增加4%投掷伤害、10%投掷弹幕速度和5%投掷击退
 }
 
 TitanHeartMantle: {
-	DisplayName: Titan Heart Mantle
+	DisplayName: 泰坦之心斗篷
 	Tooltip:
 		'''
-		45% chance to not consume Thrower items
-		5% boosted Thrower knockback but 15% lowered Thrower attack speed
+		45%几率不消耗投掷武器
+		增加5%击退，但降低15%投掷攻击速度
 		'''
 }
 
 TitanHeartMask: {
-	DisplayName: Titan Heart Mask
+	DisplayName: 泰坦之心面具
 	Tooltip:
 		'''
-		5% increased Thrower damage and knockback
-		Thrower weapons inflict the Astral Infection debuff
+		增加5%投掷伤害和投掷击退
+		投掷武器会造成幻星感染
 		'''
 	SetBonus:
 		'''
-		15% increased Thrower damage and knockback
-		+100 maximum stealth
-		Stealth strikes deal double knockback and cause an astral explosion
-		Grants immunity to knockback
+		增加15%投掷伤害和击退
+		增加100点潜行值
+		潜伏攻击会造成两倍的击退并产生幻星爆炸
+		免疫击退
 		'''
 }
 
 UmbraphileBoots: {
-	DisplayName: Umbraphile Boots
+	DisplayName: 日影靴子
 	Tooltip:
 		'''
-		9% increased Thrower damage and 6% increased Thrower crit
-		20% increased movement speed
+		增加9%投掷伤害和6%投掷暴击率
+		增加20%移动速度
 		'''
 }
 
 UmbraphileHood: {
-	DisplayName: Umbraphile Hood
-	Tooltip: 8% increased Thrower damage and 10% increased Thrower velocity
+	DisplayName: 日影兜帽
+	Tooltip: 增加8%投掷伤害和10%投掷弹幕速度
 	SetBonus:
 		'''
-		+110 maximum stealth
-		Thrower weapons have a chance to create explosions on hit
-		Stealth strikes always create an explosion
+		增加110点潜行值
+		投掷武器击中敌人时概率产生爆炸
+		潜伏攻击总是产生爆炸
 		'''
 }
 
 UmbraphileRegalia: {
-	DisplayName: Umbraphile Regalia
-	Tooltip: 10% increased Thrower damage and 10% increased Thrower crit
+	DisplayName: 日影斗篷
+	Tooltip: 增加10%投掷伤害和投掷暴击率
 }

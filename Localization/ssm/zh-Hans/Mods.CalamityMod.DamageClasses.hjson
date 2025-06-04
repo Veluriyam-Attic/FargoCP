@@ -1,6 +1,6 @@
-AverageDamageClass.DisplayName: average damage
-MeleeRangedHybridDamageClass.DisplayName: melee/ranged damage
-RogueDamageClass.DisplayName: thrower damage
-StealthDamageClass.DisplayName: stealth damage
-TrueMeleeDamageClass.DisplayName: true melee damage
-TrueMeleeNoSpeedDamageClass.DisplayName: true melee damage
+AverageDamageClass.DisplayName: 无职业伤害
+MeleeRangedHybridDamageClass.DisplayName: 近战/远程伤害
+RogueDamageClass.DisplayName: 投掷伤害
+StealthDamageClass.DisplayName: 潜伏伤害
+TrueMeleeDamageClass.DisplayName: 真近战伤害
+TrueMeleeNoSpeedDamageClass.DisplayName: 真近战伤害

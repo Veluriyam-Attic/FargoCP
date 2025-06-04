@@ -1,25 +1,25 @@
 FlaskOfBrimstone: {
-	DisplayName: Flask of Brimstone
-	Tooltip: Melee, Whip, and Thrower attacks inflict Brimstone Flames
+	DisplayName: 硫火瓶
+	Tooltip: 近战、鞭子和投掷攻击会造成硫磺火减益
 }
 
 FlaskOfCrumbling: {
-	DisplayName: Flask of Crumbling
-	Tooltip: Melee, Whip, and Thrower attacks inflict Crumbling on enemies
+	DisplayName: 粉碎瓶
+	Tooltip: 近战、鞭子和投掷攻击会造成粉碎减益
 }
 
 FlaskOfHolyFlames: {
-	DisplayName: Flask of Holy Flames
-	Tooltip: Melee, Whip, and Thrower attacks inflict Holy Flames
+	DisplayName: 圣火瓶
+	Tooltip: 近战、鞭子和投掷攻击会造成神圣之火减益
 }
 
 ShadowPotion: {
-	DisplayName: Shadow Potion
+	DisplayName: 暗影药剂
 	Tooltip:
 		'''
-		Turns the player into a shadow with glowing eyes
-		Thrower weapons spawn projectiles on hit
-		8% increased stealth generation
-		Visual effects can be disabled with the Stealth Invisibility config
+		将你转化为一个眼睛发光的暗影
+		投掷武器在击中敌人时会生成弹幕
+		增加8%潜行值恢复速度
+		可通过配置“潜行不可见性”来禁用视觉效果
 		'''
 }

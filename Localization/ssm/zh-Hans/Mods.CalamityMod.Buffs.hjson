@@ -1,24 +1,24 @@
 ShadowBuff: {
-	DisplayName: Shadow
+	DisplayName: 匿影
 	Description:
 		'''
-		You are a shadow
-		Thrower weapons spawn projectiles on hit
-		8% boosted stealth generation
+		你成为了一个暗影
+		投掷武器在击中敌人时会生成弹幕
+		增加8%潜行值恢复速度
 		'''
 }
 
 WeaponImbueBrimstone: {
-	DisplayName: Weapon Imbue: Brimstone
-	Description: Melee, Whip, and Thrower attacks ignite enemies with brimstone flames
+	DisplayName: 武器灌注：硫火
+	Description: 近战、鞭子和投掷攻击会用硫磺火焰点燃敌人
 }
 
 WeaponImbueCrumbling: {
-	DisplayName: Weapon Imbue: Crumbling
-	Description: Melee, Whip, and Thrower attacks reduce enemy damage reduction
+	DisplayName: 武器灌注：粉碎
+	Description: 近战、鞭子和投掷攻击会降低敌人的伤害减免
 }
 
 WeaponImbueHolyFlames: {
-	DisplayName: Weapon Imbue: Holy Flames
-	Description: Melee, Whip, and Thrower attacks dissolve enemies with holy flames
+	DisplayName: 武器灌注：圣火
+	Description: 近战、鞭子和投掷攻击会用神圣火焰焚化敌人
 }

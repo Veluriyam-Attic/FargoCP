@@ -1,67 +1,67 @@
 AerospecHeadgear: {
-	DisplayName: Aerospec Headgear
-	Tooltip: 10% increased Thrower damage and 5% increased movement speed
+	DisplayName: 天蓝头套
+	Tooltip: 增加10%投掷伤害和5%移动速度
 	SetBonus:
 		'''
-		5% increased movement speed and Thrower critical strike chance
-		+80 maximum stealth
+		增加5%移动速度和投掷暴击率
+		增加80点最大潜行值
 		'''
 }
 
 SnowRuffianChestplate: {
-	DisplayName: Snow Ruffian Chestplate
-	Tooltip: 3% increased Thrower critical strike chance
+	DisplayName: 雪境暴徒胸甲
+	Tooltip: 增加3%投掷暴击率
 }
 
 SnowRuffianMask: {
-	DisplayName: Snow Ruffian Mask
-	Tooltip: 2% increased Thrower damage
+	DisplayName: 雪境暴徒面具
+	Tooltip: 增加2%投掷伤害
 	SetBonus:
 		'''
-		5% increased Thrower damage
-		+50 maximum stealth
-		You can glide to negate fall damage
+		增加5%投掷伤害
+		增加50点最大潜行值
+		你可以缓降以消除坠落伤害
 		'''
 }
 
 StatigelHeadRogue: {
-	DisplayName: Statigel Mask
+	DisplayName: 斯塔提斯面具
 	Tooltip:
 		'''
-		10% increased Thrower damage and 34% chance to not consume Thrower items
-		7% increased Thrower critical strike chance and 5% increased movement speed
+		增加10%投掷伤害，34%几率不消耗投掷武器
+		增加7%投掷暴击率和5%移动速度
 		'''
-	SetBonus: +90 maximum stealth
+	SetBonus: 增加90点最大潜行值
 }
 
 SulphurousBreastplate: {
-	DisplayName: Sulphurous Breastplate
-	Tooltip: 6% increased Thrower damage and 4% increased Thrower critical strike chance
+	DisplayName: 硫磺胸甲
+	Tooltip: 增加6%投掷伤害和4%投掷暴击率
 }
 
 SulphurousHelmet: {
-	DisplayName: Sulphurous Helmet
+	DisplayName: 硫磺头盔
 	Tooltip:
 		'''
-		4% increased Thrower damage
-		2% increased Thrower critical strike chance
-		Grants underwater breathing
+		增加4%投掷伤害
+		增加2%投掷暴击率
+		使你获得水下呼吸能力
 		'''
 	SetBonus:
 		'''
-		+65 maximum stealth
-		Attacking and being attacked by enemies inflicts poison
-		Grants an additional jump that summons a sulphurous bubble
-		Provides increased underwater mobility and reduces the severity of the sulphuric waters
+		增加65点最大潜行值
+		攻击敌人或被敌人攻击时对其造成中毒减益
+		获得一段额外跳跃，跳跃时生成硫磺泡泡
+		增加水下移动力，降低硫磺海水的威胁性
 		'''
 }
 
 VictideHeadRogue: {
-	DisplayName: Victide Headcrab
-	Tooltip: 5% increased Thrower damage
+	DisplayName: 胜潮蟹盔
+	Tooltip: 增加5%投掷伤害
 	SetBonus:
 		'''
-		+60 maximum stealth
-		+1.5 HP/s life regen and 10% increased Thrower damage while submerged in liquid
+		增加60点最大潜行值
+		在水中时+1.5HP/s生命再生和增加10%投掷伤害
 		'''
 }
