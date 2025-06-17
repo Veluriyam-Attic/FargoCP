@@ -32,6 +32,32 @@ Mods: {
 					'''
 			}
 
+			DragonEnchant2: {
+				DisplayName: Dragon Enchant2
+				Tooltip: ""
+			}
+
+			TitanEnchant2: {
+				DisplayName: Titan Enchant2
+				Tooltip: ""
+			}
+
+			WarlockEnchant: {
+				DisplayName: 术士魔石
+				Tooltip:
+					'''
+					暴击攻击会生成至多15颗暗影微粒
+					按下盔甲能力键会向光标位置释放所有存储的暗影微粒
+					获得恶魔之舌和鬼影塑像的效果
+					“术士>巫师，望周知”
+					'''
+			}
+
+			WarlockEnchant2: {
+				DisplayName: Warlock Enchant2
+				Tooltip: ""
+			}
+
 			TitanEnchant: {
 				DisplayName: 泰坦魔石
 				Tooltip:
@@ -48,17 +74,6 @@ Mods: {
 					'''
 					Spectral aura drains mana out of nearby enemies
 					Effects of Shadowbound Exoskeleton
-					'''
-			}
-
-			WarlockEnchant: {
-				DisplayName: 术士魔石
-				Tooltip:
-					'''
-					暴击攻击会生成至多15颗暗影微粒
-					按下盔甲能力键会向光标位置释放所有存储的暗影微粒
-					获得恶魔之舌和鬼影塑像的效果
-					“术士>巫师，望周知”
 					'''
 			}
 
@@ -105,9 +120,9 @@ Mods: {
 					[i:ssm/OstaraEnchant] Allows wearer to perform up to 5 bunny hops
 					[i:ssm/OstaraEnchant] Effects of Ostara's Gift
 					[i:ssm/DragonEnchant] Creates a burst of shadowflames after taking damage	
-					[i:ssm/TitanEnchant] Using ranged weapons triggers a recoil blast
+					[i:ssm/TitanEnchant2] Using ranged weapons triggers a recoil blast
 					[i:ssm/PhantasmalEnchant] Spectral aura drains mana out of nearby enemies
-					[i:ssm/WarlockEnchant] Enemies killed by minions heal the player
+					[i:ssm/WarlockEnchant2] Enemies killed by minions heal the player
 					'''
 			}
 
@@ -364,8 +379,8 @@ Mods: {
 			}
 
 			Adventurer: {
-				DisplayName: 冒险家
 				Tooltip: ""
+				DisplayName: 冒险家
 			}
 
 			HurricaneForce: {
@@ -520,7 +535,6 @@ Mods: {
 					Effects of Celestial Shield and Royal Guard
 					Only grants effects of Shield of Reflections when True Mode is enabled.
 					'''
-				SoAMaso: Summon [i:SacredTools/YataMirror] little Nihilus and [i:SacredTools/PrimordialCore] Pyramid Orbitals
 				SoABerserker: Effects of Flora Fist
 				SoASupersonic: Effects of Heart of the Plough, Advanced Dash Tech
 				SoAWorldshaper: Effects of Rage Supressor, Celestial ring
@@ -590,16 +604,6 @@ Mods: {
 					'''
 			}
 
-			UltimateFargoWeapon: {
-				Tooltip: ""
-				DisplayName: 终极Fargo武器
-			}
-
-			MutantsForge: {
-				DisplayName: 突变锻炉
-				Tooltip: ""
-			}
-
 			MonstrosityMask: {
 				DisplayName: 魔神之颅
 				Tooltip: 原初的魔神之力
@@ -619,9 +623,8 @@ Mods: {
 				DisplayName: 真·魔神之颅
 				Tooltip:
 					'''
-					增加100%伤害、50%暴击率和70点护甲穿透
+					增加100%伤害、33%暴击率和700点护甲穿透
 					大幅增加生命恢复速度
-					[c/cDA10E6:装备一整套盔甲会给予你惊人的属性加成]
 					'''
 			}
 
@@ -632,7 +635,6 @@ Mods: {
 					增加100%伤害和20%暴击率
 					增加50%移动速度和20%攻击速度
 					以及增加70点护甲穿透
-					[c/cDA10E6:装备一整套盔甲会给予你惊人的属性加成]
 					'''
 			}
 
@@ -644,228 +646,12 @@ Mods: {
 					增加20个仆从栏位和哨兵栏
 					最大生命值和魔力值增加1000
 					减少40%魔力消耗，25%概率不消耗弹药
-					[c/cDA10E6:装备一整套盔甲会给予你惊人的属性加成]
 					'''
 			}
 
 			Sadism: {
 				DisplayName: 暴虐能量
 				Tooltip: 真正的永恒精华
-			}
-
-			CrabulonEnergizer: {
-				DisplayName: 真菌强化剂
-				Tooltip: ""
-			}
-
-			OverloadSprout: {
-				DisplayName: 过载嫩芽
-				Tooltip: ""
-			}
-
-			DesertEnergizer: {
-				DisplayName: 沙漠强化剂
-				Tooltip: ""
-			}
-
-			HiveEnergizer: {
-				DisplayName: 腐巢强化剂
-				Tooltip: ""
-			}
-
-			PerforatorEnergizer: {
-				DisplayName: 脓血强化剂
-				Tooltip: ""
-			}
-
-			SlimeGodEnergizer: {
-				DisplayName: 凝元强化剂
-				Tooltip: ""
-			}
-
-			BunchOfMedalions: {
-				DisplayName: 一堆奖章
-				Tooltip: ""
-			}
-
-			AnahitaEnergizer: {
-				DisplayName: 深渊强化剂
-				Tooltip: 这是“阿娜希塔与利维坦”的强化剂 而不是 “阿娜希塔”与“利维坦的强化剂”
-			}
-
-			AstralEnergizer: {
-				DisplayName: 星辉强化剂
-				Tooltip: ""
-			}
-
-			AureusEnergizer: {
-				DisplayName: 星神强化剂
-				Tooltip: ""
-			}
-
-			AuricEnergizer: {
-				DisplayName: 金源强化剂
-				Tooltip: ""
-			}
-
-			BrimstoneEnergizer: {
-				DisplayName: 硫火强化剂
-				Tooltip: ""
-			}
-
-			CalamitousEnergizer: {
-				DisplayName: 灾厄强化核心
-				Tooltip: ""
-			}
-
-			CryoEnergizer: {
-				DisplayName: 冷源强化剂
-				Tooltip: ""
-			}
-
-			DevouringEnergizer: {
-				DisplayName: 神明强化剂
-				Tooltip: ""
-			}
-
-			FleshyEnergizer: {
-				DisplayName: 骨肉强化剂
-				Tooltip: ""
-			}
-
-			FollyEnergizer: {
-				DisplayName: 痴愚强化剂
-				Tooltip: ""
-			}
-
-			PlagueEnergizer: {
-				DisplayName: 瘟疫强化剂
-				Tooltip: ""
-			}
-
-			ProfandedEnergizer: {
-				DisplayName: 亵渎强化剂
-				Tooltip: ""
-			}
-
-			TerraEnergizer: {
-				DisplayName: 泰拉强化核心
-				Tooltip: ""
-			}
-
-			ToxicEnergizer: {
-				DisplayName: 酸腐强化剂
-				Tooltip: ""
-			}
-
-			WaifuCloneEnergizer: {
-				DisplayName: 克隆强化剂
-				Tooltip: ""
-			}
-
-			WaifuEnergizer: {
-				DisplayName: 硫湮强化剂
-				Tooltip: ""
-			}
-
-			AstralLump: {
-				DisplayName: 星辉台灯
-				Tooltip: ""
-			}
-
-			BloodyWormChicken: {
-				DisplayName: Bloody Worm Chicken
-				Tooltip: ""
-			}
-
-			CosmicAmalgamation: {
-				DisplayName: 寰宇融合
-				Tooltip: ""
-			}
-
-			CryonicCore: {
-				DisplayName: Cryonic Core
-				Tooltip: ""
-			}
-
-			DeepFriedIdol: {
-				DisplayName: Deep Fried Idol
-				Tooltip: ""
-			}
-
-			EyeofExtintion: {
-				DisplayName: Eyeof Extintion
-				Tooltip: ""
-			}
-
-			OverloadedWaifu: {
-				DisplayName: Overloaded Waifu
-				Tooltip: ""
-			}
-
-			OverloadPheromones: {
-				DisplayName: Overload Pheromones
-				Tooltip: ""
-			}
-
-			OverloadSeafood: {
-				DisplayName: Overload Seafood
-				Tooltip: ""
-			}
-
-			OverloadStarcore: {
-				DisplayName: Overload Starcore
-				Tooltip: ""
-			}
-
-			OverloadTeratoma: {
-				DisplayName: Overload Teratoma
-				Tooltip: ""
-			}
-
-			OverloadWhistle: {
-				DisplayName: Overload Whistle
-				Tooltip: ""
-			}
-
-			PhantasmalBeacon: {
-				DisplayName: Phantasmal Beacon
-				Tooltip: ""
-			}
-
-			PileOfBloodWorms: {
-				DisplayName: Pile Of Blood Worms
-				Tooltip: ""
-			}
-
-			PlagueTerminal: {
-				DisplayName: Plague Terminal
-				Tooltip: ""
-			}
-
-			ProfandedCluster: {
-				DisplayName: Profanded Cluster
-				Tooltip: ""
-			}
-
-			TrueOverloadedSludge: {
-				DisplayName: 真过载淤泥
-				Tooltip: ""
-			}
-
-			YharonEggsBox: {
-				DisplayName: 犽戎蛋盒
-				Tooltip: ""
-			}
-
-			SwarmDeactivatorDebug: {
-				Tooltip: ""
-				DisplayName: 开发者调试物品
-			}
-
-			OverloadedSirenPearl: {
-				DisplayName: Overloaded Siren Pearl
-				Tooltip: ""
 			}
 
 			EridanusEnchant: {
@@ -877,6 +663,7 @@ Mods: {
 					增加10%手持武器职业暴击率
 					增加10%手持武器职业攻击速度
 					双击DOWN键开启宇宙英灵的护佑
+					[i:FargowiltasSouls/UniverseCore]
 					'''
 			}
 
@@ -886,8 +673,7 @@ Mods: {
 					'''
 					大幅提升所有进攻属性
 					[i:ssm/GaiaEnchant]双击DOWN键以开关进攻模式，进攻模式具有如下效果：
-					增加30%手持武器职业伤害和15%该职业暴击率
-					增加20点护甲穿透
+					增加30%手持武器职业伤害和15%该职业暴击率，增加20点护甲穿透
 					降低30点防御力、10%最大生命值和15%伤害减免
 					[i:ssm/EridanusEnchant]双击DOWN键开启宇宙英灵的护佑
 					[i:ssm/StyxEnchant]免疫憎恶毒牙和憎恶驾到减益，受到致命伤害时，保留1点生命并避免死亡，你再次恢复到满生命值后，免死效果才能再被激活
@@ -925,33 +711,13 @@ Mods: {
 					'''
 			}
 
-			RampartOfAsgard: {
-				DisplayName: Rampart Of Asgard
-				Tooltip: ""
-			}
-
-			StarlightVodka: {
-				DisplayName: Starlight Vodka
-				Tooltip: ""
-			}
-
-			ProfandedSomething: {
-				DisplayName: Profanded Something
-				Tooltip: ""
-			}
-
 			AsthraltiteEnchant: {
 				DisplayName: Asthraltite Enchantment
 				Tooltip:
 					'''
 					'Asph-... Asthath-... How are you meant to pronounce this?'
-					Press [{$Keybinds.AbilityPrimary.DisplayName}] to parry incoming attacks in the direction of the cursor
-					Successfully parrying an attack will grant 1 second of invincibility and knock the player backwards
-					If an attack is parried the moment it hits the player, you receive 2 seconds of invincibility instead
-					Cooldown depends on the action (Missed parry: 5 seconds, Taking damage: 2 seconds, Successful parry: 3 seconds, Perfect parry: 2 seconds)
-					Certain special attacks and contact damage cannot be parried
-					This ability disables shadow dodge and similar effects
-					Effects of Ring of the Fallen, Memento Mori, and Arcanum of the Caster
+					Allows crits, and super crits to have a 50% chance to ignore any type of defense
+					All attacks inflict Draconic Blaze
 					'''
 			}
 
@@ -966,12 +732,13 @@ Mods: {
 			}
 
 			BlazingBruteEnchant: {
-				DisplayName: Blazing Brute Enchantment
+				DisplayName: Unrelenting Rival Enchantment
 				Tooltip:
 					'''
 					'Your spirit ignites like the brightest flame. Soon, your enemies will too'
-					Standing still for 5 seconds charges a shield that increases damage reduction by 25% per level (max of 4) 
-					Getting hit or moving resets the counter
+					Killing enemies creates a kill streak
+					The more enemies you kill increases damage by 30% 
+					Maximum streak is limited by 5
 					'''
 			}
 
@@ -990,9 +757,7 @@ Mods: {
 				Tooltip:
 					'''
 					'Make Soran great again'
-					Pressing [Ability] puts you in 'Sniper State' 
-					Your damage is upped in this state however you are frozen in place and have reduced defense 
-					State is toggled upon button press and has a cooldown of 5 seconds after switching
+					WIP
 					'''
 			}
 
@@ -1002,7 +767,7 @@ Mods: {
 					'''
 					'Ralnek's spirit guides you'
 					Surrounds player with Dreadfire Aura that inflicting Dreadfire buff
-					Dreadfire buff increases magic and summon damage by 15%
+					Dreadfire buff increases damage by 20%
 					'''
 			}
 
@@ -1011,9 +776,8 @@ Mods: {
 				Tooltip:
 					'''
 					'Creeper? Aw man…'
-					Summons an eerie crimson monster
-					Whenever the minion hits an enemy, you get the “Eerie Regeneration” buff
-					The monster lifesteals for 25% of the damage it deals
+					After taking damage create pulses that grants a damage buff to minions, sentries, and nearby players
+					The strength of the buff depends on the user's health 
 					'''
 			}
 
@@ -1022,7 +786,7 @@ Mods: {
 				Tooltip:
 					'''
 					'Does something soon'TM
-					Effects of Stone of Resonance
+					Using relic weapons multiply most of stats by 1.1
 					'''
 			}
 
@@ -1031,10 +795,9 @@ Mods: {
 				Tooltip:
 					'''
 					'Give up your heritage, gain power'
-					Hitting enemies has a chance to summon an energy blade behind you (Max of 5).
-					Every newly acquired blade increases the damage of pre-existing ones by 20%
-					Pressing [Ability] will launch the blades at nearby enemies
-					Effects of Novaniel's Resolve
+					When throwing a weapon enemies are pulled closer to it by gravity 
+					The strength of the gravity is based on the weapons damage
+					Before death you will explode into a supernova
 					'''
 			}
 
@@ -1043,9 +806,8 @@ Mods: {
 				Tooltip:
 					'''
 					'Raze your enemies with Araghur's flames'
-					Taking fatal damage will revive you with 1/3rd of your max health
-					You will have one minute of increased strength after rebirth
-					5 minute cooldown
+					Projectiles that hit the ground have a chance to create spurring flame geysers
+					Geysers lasts for 5 seconds 
 					'''
 			}
 
@@ -1114,11 +876,17 @@ Mods: {
 
 			SpaceJunkEnchant: {
 				DisplayName: Space Junk Enchantment
+				/* Tooltip1:
+					'''
+					'I'm da spaceman!'
+					Pressing the ability key sends out a falling satellite that explodes into multiple damaging shrapnels
+					Shrapnels stay on grounds/platforms and disappear after a few seconds
+					When being damaged, there is a 33% chance for 1-2 shrapnels to fall off your armor
+					''' */
 				Tooltip:
 					'''
 					'I'm da spaceman!'
-					33% chance to not consume thrown Items
-					Damaging enemies will occasionally call upon a meteor to fall from the sky
+					WIP
 					'''
 			}
 
@@ -1184,16 +952,16 @@ Mods: {
 					'''
 			}
 
-			SyranForce: {
-				DisplayName: Syran Force
-				Tooltip:
+			SyrainForce: {
+				// DisplayName: Syrain Force
+				/* Tooltip:
 					'''
 					'Dragon Rage empowers you, and encourages you to go on'
 					All armor bonuses from Void Warden, Vulcan Reaper, and Flarium
 					All armor bonuses from Asthraltite
 					Effects of Ring of the Fallen, Memento Mori, and Arcanum of the Caster
 					Effects of Stone of Resonance
-					'''
+					''' */
 			}
 
 			SoASoul: {
@@ -2118,301 +1886,6 @@ Mods: {
 					'''
 			}
 
-			ForgottenEnergizer: {
-				DisplayName: 遗忘强化剂
-				Tooltip: ""
-			}
-
-			ViscountEnergizer: {
-				DisplayName: 音波强化剂
-				Tooltip: ""
-			}
-
-			OverloadChampion: {
-				DisplayName: 赏赐之剑
-				Tooltip: ""
-			}
-
-			OverloadGranite: {
-				DisplayName: 极不稳定核心
-				Tooltip: ""
-			}
-
-			OverloadJelly: {
-				DisplayName: 水母共震器
-				Tooltip: ""
-			}
-
-			OverloadLich: {
-				DisplayName: 万圣节彩棒
-				Tooltip: ""
-			}
-
-			OverloadRag: {
-				DisplayName: 末日预言者的钢镚儿
-				Tooltip: ""
-			}
-
-			OverloadSaucer: {
-				DisplayName: 超负荷星空信号发射器
-				Tooltip: ""
-			}
-
-			OverloadStrider: {
-				DisplayName: 冰封蛛卵
-				Tooltip: ""
-			}
-
-			OverloadThunderbird: {
-				DisplayName: 风暴信号弹匣
-				Tooltip: ""
-			}
-
-			OverloadViscount: {
-				Tooltip: ""
-				DisplayName: 蝙蝠骨灰盒
-			}
-
-			OverloadAbyssalion: {
-				Tooltip: ""
-				DisplayName: 深渊之影密封盒
-			}
-
-			AbaddonEnergizer: {
-				DisplayName: Abaddon Energizer
-				Tooltip: ""
-			}
-
-			AraneasEnergizer: {
-				DisplayName: Araneas Energizer
-				Tooltip: ""
-			}
-
-			DecreeEnergizer: {
-				DisplayName: Decree Energizer
-				Tooltip: ""
-			}
-
-			ErazorEnergizer: {
-				DisplayName: Erazor Energizer
-				Tooltip: ""
-			}
-
-			JensenEnergizer: {
-				DisplayName: Jensen Energizer
-				Tooltip: ""
-			}
-
-			NovanielEnergizer: {
-				DisplayName: Novaniel Energizer
-				Tooltip: ""
-			}
-
-			PrimordiaEnergizer: {
-				DisplayName: Primordia Energizer
-				Tooltip: ""
-			}
-
-			PumpkinEnergizer: {
-				DisplayName: Pumpkin Energizer
-				Tooltip: ""
-			}
-
-			RaynareEnergizer: {
-				DisplayName: Raynare Energizer
-				Tooltip: ""
-			}
-
-			SerpentEnergizer: {
-				DisplayName: Serpent Energizer
-				Tooltip: ""
-			}
-
-			OverloadAbaddon: {
-				DisplayName: Overload Abaddon
-				Tooltip: ""
-			}
-
-			OverloadAraneas: {
-				DisplayName: Overload Araneas
-				Tooltip: ""
-			}
-
-			OverloadDecree: {
-				DisplayName: Overload Decree
-				Tooltip: ""
-			}
-
-			OverloadErazor: {
-				DisplayName: Overload Erazor
-				Tooltip: ""
-			}
-
-			OverloadJensen: {
-				DisplayName: Overload Jensen
-				Tooltip: ""
-			}
-
-			OverloadNovaniel: {
-				DisplayName: Overload Novaniel
-				Tooltip: ""
-			}
-
-			OverloadPrimordia: {
-				DisplayName: Overload Primordia
-				Tooltip: ""
-			}
-
-			OverloadPumpkin: {
-				DisplayName: Overload Pumpkin
-				Tooltip: ""
-			}
-
-			OverloadRaynare: {
-				DisplayName: Overload Raynare
-				Tooltip: ""
-			}
-
-			OverloadSerpent: {
-				DisplayName: Overload Serpent
-				Tooltip: ""
-			}
-
-			Monstrocity: {
-				DisplayName: 魔神
-				Tooltip: ""
-			}
-
-			DemonshadeWorkbench: {
-				Tooltip: ""
-				DisplayName: 魔影坩埚
-			}
-
-			BrimstoneWitch: {
-				DisplayName: 硫火女巫
-				Tooltip: ""
-			}
-
-			Archmage: {
-				DisplayName: 永冻
-				Tooltip: ""
-			}
-
-			SeaKing: {
-				DisplayName: 海王
-				Tooltip: ""
-			}
-
-			OverloadAnahita: {
-				DisplayName: 深渊珍珠
-				Tooltip: ""
-			}
-
-			OverloadAS: {
-				DisplayName: 美味海鲜饵料
-				Tooltip: ""
-			}
-
-			OverloadAureus: {
-				DisplayName: 星辉库里南碎片
-				Tooltip: “老登爆金币了”
-			}
-
-			OverloadBirb: {
-				DisplayName: 奇迹信息素
-				Tooltip: ""
-			}
-
-			OverloadCrabulon: {
-				DisplayName: 变异芽孢
-				Tooltip: ""
-			}
-
-			OverloadCryogen: {
-				DisplayName: 永冻私房钱保险箱的钥匙
-				Tooltip: “在你手上时，蕴含的能量足以让他冲破囚笼”
-			}
-
-			OverloadDeus: {
-				DisplayName: 星星核核
-				Tooltip: “星神游龙怎么召唤啊大佬们”
-			}
-
-			OverloadDOG: {
-				DisplayName: 宇宙之蛆
-				Tooltip: ""
-			}
-
-			OverloadDS: {
-				DisplayName: 荒漠吊坠-限定珍品款
-				Tooltip: ""
-			}
-
-			OverloadElemental: {
-				DisplayName: 1：1等身焦炭玩偶
-				Tooltip: ""
-			}
-
-			OverloadGoliath: {
-				DisplayName: 瘟疫，启动！
-				Tooltip: “嘉登怎么你了”
-			}
-
-			OverloadGuardians: {
-				DisplayName: 亵渎晶核
-				Tooltip: ""
-			}
-
-			OverloadHive: {
-				DisplayName: 坤形肿瘤
-				Tooltip: ""
-			}
-
-			OverloadOldDuke: {
-				DisplayName: 松露虫的远房表亲
-				Tooltip: ""
-			}
-
-			OverloadPerforators: {
-				DisplayName: 一只肥美的血蠕虫
-				Tooltip: ""
-			}
-
-			OverloadPolterghast: {
-				DisplayName: 粉地牢火把
-				Tooltip: ""
-			}
-
-			OverloadProvidence: {
-				DisplayName: 亵渎碎片
-				Tooltip: ""
-			}
-
-			OverloadRavager: {
-				DisplayName: 可疑头骨
-				Tooltip: ""
-			}
-
-			OverloadSlimeGod: {
-				DisplayName: 过载²淤泥
-				Tooltip: “过载的过载淤泥”
-			}
-
-			OverloadWaifu: {
-				DisplayName: 娘化至尊灾厄眼
-				Tooltip: “年龄：1501~至今”
-			}
-
-			OverloadWaifuClone: {
-				DisplayName: 一个低级的至尊灾厄眼克隆体小将
-				Tooltip: “掉300个灾厄尘够吗”
-			}
-
-			OverloadYharon: {
-				DisplayName: 圣佑烬昭鸡蛋
-				Tooltip: “鸡蛋里面为什么能孵出来鸭绒”
-			}
-
 			ElementalArtifact: {
 				DisplayName: 元素之石
 				Tooltip:
@@ -2432,16 +1905,6 @@ Mods: {
 					'''
 			}
 
-			MonstrosityEnchant: {
-				DisplayName: 魔神魔石
-				Tooltip: ""
-			}
-
-			MaxChargerDebug: {
-				Tooltip: ""
-				DisplayName: 最大充能调试
-			}
-
 			MotDE: {
 				DisplayName: 噬梦之兆
 				Tooltip:
@@ -2450,6 +1913,16 @@ Mods: {
 					获得怪物护符、巫咒护符、无瑕之蛹和魔戒的效果
 					“你仿佛感受到了它散出的能量”
 					'''
+			}
+
+			MutagenBeekeeper: {
+				// DisplayName: Beekeeper's Mutagen
+				/* Tooltip:
+					'''
+					20% increased hymenoptra damage
+					10% increased hymenoptra critical chance
+					+ 100 max honey
+					''' */
 			}
 
 			CorruptedWarShield: {
@@ -2533,20 +2006,6 @@ Mods: {
 					'''
 			}
 
-			VoidFaquirEnchant: {
-				DisplayName: 虚空行者魔石
-				Tooltip:
-					'''
-					攻击命中目标汇积攒虚空能量
-					根据虚空能量提供部分移速和飞行速度加成
-					按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键激发虚空能量
-					召唤一个虚空幻影协助战斗并无限飞行，持续10秒
-					虚空幻影的伤害类型取决于你手中的武器
-					按下 [{$Mods.CalamityMod.Keybinds.AscendantInsigniaHotKey.DisplayName}] 键启用协调状态
-					该状态下，你不受重力影响，且推开周围弹幕
-					'''
-			}
-
 			DivineEnchant: {
 				DisplayName: Divine Enchantment
 				Tooltip:
@@ -2571,16 +2030,6 @@ Mods: {
 					按下 盔甲能力键 创建一个可以格挡的冰盾
 					格挡失败会增加冷却时间
 					'''
-			}
-
-			WoolenEnchantment: {
-				DisplayName: Woolen Enchantment
-				Tooltip: ""
-			}
-
-			EmptinessEnchant: {
-				DisplayName: Emptiness Enchantment
-				Tooltip: ""
 			}
 
 			CoralEnchant: {
@@ -2733,16 +2182,6 @@ Mods: {
 				DisplayName: 蓝色电脑芯片
 			}
 
-			MariviumEnchant: {
-				Tooltip:
-					'''
-					如果你的暴击几率超过100%，将溢出的暴击率转化为伤害加成
-					获得2层抵挡伤害的护盾，在破碎后需要10秒才能恢复
-					护盾破碎后，回复140点生命值，获得5秒“深渊狂怒”增益，增加100%伤害
-					'''
-				DisplayName: 渊洋神迹魔石
-			}
-
 			ClamitasEnchant: {
 				Tooltip:
 					'''
@@ -2800,11 +2239,6 @@ Mods: {
 			SleepyRock: {
 				DisplayName: 沉睡岩石
 				Tooltip: 召唤鹰冠魔像
-			}
-
-			MutantsCurseEX: {
-				DisplayName: 突变体诅咒EX
-				Tooltip: 召唤[c/cDA10E6:魔神]
 			}
 
 			UltimateHealingPotion: {
@@ -3011,16 +2445,6 @@ Mods: {
 				DisplayName: Convective Enchantment
 			}
 
-			TerrorForce: {
-				Tooltip:
-					'''
-					获得 [i:Spooky/FlowerHead]盛花、 [i:Spooky/SpiritHorsemanHead]灵魂骑士、 [i:Spooky/SpiderHead]战蛛、 [i:Spooky/WizardGangsterHead]镀金法师 和 [i:Spooky/RootHead]根茎盔甲的套装奖励
-					获得 [i:Spooky/SkullAmulet]颅骨护身符、 [i:Spooky/SpiritAmulet]魂魄护身符 和 [i:Spooky/BustlingGlowshroom]繁茂辉光蘑菇的效果
-					获得 [i:Spooky/HunterScarf]老猎人围巾、 [i:Spooky/SewingThread]缝纫线 和 [i:Spooky/DaffodilHairpin]花朵发夹的效果
-					'''
-				DisplayName: 恐惧之力
-			}
-
 			HorrorForce: {
 				Tooltip:
 					'''
@@ -3029,6 +2453,16 @@ Mods: {
 					获得 [i:Spooky/GhostBook]灵魂法书、 [i:Spooky/CandyBag]捣蛋袋 和 [i:Spooky/RustyRing]生锈戒指的效果
 					'''
 				DisplayName: 惊惧之力
+			}
+
+			TerrorForce: {
+				Tooltip:
+					'''
+					获得 [i:Spooky/FlowerHead]盛花、 [i:Spooky/SpiritHorsemanHead]灵魂骑士、 [i:Spooky/SpiderHead]战蛛、 [i:Spooky/WizardGangsterHead]镀金法师 和 [i:Spooky/RootHead]根茎盔甲的套装奖励
+					获得 [i:Spooky/SkullAmulet]颅骨护身符、 [i:Spooky/SpiritAmulet]魂魄护身符 和 [i:Spooky/BustlingGlowshroom]繁茂辉光蘑菇的效果
+					获得 [i:Spooky/HunterScarf]老猎人围巾、 [i:Spooky/SewingThread]缝纫线 和 [i:Spooky/DaffodilHairpin]花朵发夹的效果
+					'''
+				DisplayName: 恐惧之力
 			}
 
 			SpiritHorsemenEnchant: {
@@ -3272,26 +2706,6 @@ Mods: {
 				Tooltip: ""
 			}
 
-			StarblightFruit: {
-				DisplayName: Starblight Fruit
-				Tooltip: ""
-			}
-
-			DragonEnchant2: {
-				DisplayName: Dragon Enchant2
-				Tooltip: ""
-			}
-
-			TitanEnchant2: {
-				DisplayName: Titan Enchant2
-				Tooltip: ""
-			}
-
-			WarlockEnchant2: {
-				DisplayName: Warlock Enchant2
-				Tooltip: ""
-			}
-
 			AstatineEnchant: {
 				DisplayName: Astatine Enchant
 				Tooltip: ""
@@ -3345,6 +2759,21 @@ Mods: {
 			RadioactiveForce: {
 				DisplayName: Radioactive Force
 				Tooltip: ""
+			}
+
+			Catlight: {
+				// Tooltip: Becomes stronger with bosses defeated: Mutant, Monstrosity
+				// DisplayName: Catlight
+			}
+
+			SwarmDeactivatorDebug: {
+				// Tooltip: ""
+				// DisplayName: Swarm Deactivator Debug
+			}
+
+			SyrianForce: {
+				// DisplayName: Syrian Force
+				// Tooltip: ""
 			}
 		}
 
@@ -3403,6 +2832,16 @@ Mods: {
 				DisplayName: Dreadflame Aura C D
 				Description: Mods.ssm.Buffs.DreadflameAuraCD.Description
 			}
+
+			VulkanReaperBuff: {
+				// DisplayName: Vulkan Reaper Buff
+				// Description: ech
+			}
+
+			RivalBuff: {
+				// Description: ech
+				// DisplayName: Rival Buff
+			}
 		}
 
 		NPCs: {
@@ -3453,7 +2892,6 @@ Mods: {
 					Normal29: A lot of things explode for no reason
 					Normal30: Megalovania isn't funny
 					Normal31: I may be in love with the Forbotten one, don't search her up on Google please
-					Normal32: Did you know that market got inflated prices bc of some sonic books? Don't trust me? Search up Sonic inflation on google to learn more ab it!
 				}
 
 				DisplayName: 魔神
@@ -3492,18 +2930,14 @@ Mods: {
 			}
 
 			MutantIllusion.DisplayName: 魔神
+			// MutantAuraOfSupression.DisplayName: Mutant Aura Of Supression
 		}
 
 		Toggler: {
-			CosmicCommanderEffect: 非常烦人的效果，把它关掉
-			SpectralFishEffect: Spectral Fishron Support
-			CuteFishEXEffect: Fishron Ritual
+			//thorium
 			GraniteEffect: 动能转换器
 			ThiefsWalletEffect: Thief's Wallet
 			BlastShieldEffect: Blast Shield
-			SpeedCapEffect: Movement Speed Cap
-			MariviumEffect: 渊洋神迹之盾
-			HolyShieldEffect: 神圣屏障
 			CrashEffect: Crash Boots
 			CairoEffect: Eternal Oasis
 			MotDEHeader: 噬梦之兆
@@ -3529,33 +2963,13 @@ Mods: {
 			ArtificersEffect: 工匠的火箭靴
 			LivingWoodEffect: 生命木幼苗
 			BiotechEffect: 生物工程探测器
-			AddonsForceHeader: 灾集之力
-			ShogunEffect: 神胶幕府将军之翼（有bug）
-			VoidFaquirEffect: 虚空充能
-			SplendorEffect: 异彩果酱
-			DivineEffect: 光之维度 (有bug)
 			EntropicEffect: Illusions
 			TendrilsEffect: 光标卷须（有bug）
-			IntergelacticEffect: 星环
 			InfernoLordsFocusEffect: 地狱领主的聚焦项链
 			LihzahrdTailEffect: 神庙蜥蜴之尾
 			PocketFusionGeneratorEffect: 小型聚变发生器
 			SerpentShieldEffect: 蛇之盾
 			MotDEEffect: 噬梦之兆
-			ChaosStoneEffect: 混乱石
-			CryoStoneEffect: 冰川石
-			BloomStoneEffect: 绽花石
-			ToxicHeartEffect: 毒疫之心
-			// AttackSpeedCapSoulEffect: Attack speed cap
-			HideofAstrumDeusEffect: 星神隐壳
-			AquaticHeartEffect: 渊洋之心
-			SoAMasoSoulHeader: 大师之魂
-			YataMirrorEffect: Yata Mirror
-			PrimordialCoreEffect: Primordia Core
-			RoyalGuardEffect: Royal Guard
-			FloraFistEffect: Flora Fist
-			MilinticaDashEffect: Advanced Dash
-			HeartOfThePloughEffect: Heart of the Plough
 			GuardianEffect: 医疗包效果
 			AsgardForceHeader: 阿斯加德之力
 			AlfheimForceHeader: 阿尔弗海姆之力
@@ -3576,19 +2990,65 @@ Mods: {
 			BulbEffect: 活力花瓣
 			LifeBloomEffect: 丛林之心
 			CyberPunkEffect: 赛博朋克切换形态
+			// CapeoftheSurvivorEffect: Cape of the Survivor
+			// CrystalScorpionEffect: Crystal Scorpion
+			// PyroEffect: Pyromancer Ignition
+			// PlagueLordEffect: Plague Lord's Flask
+			// LodestoneEffect2: Lodestone Shields
+			//soa
+			// FoundationsForceHeader: Foundations Force
+			// SyranForceHeader: Syrian Force
+			// AsthraltiteEffect: Hypercrits
+			// ExitumLuxEffect: Relic Boost
+			// SpaceJunkEffect: Space Junk on hit
+			// VoidWardenEffect: Nightmare Bubbles
+			// LapisDefenseEffect: Lapis defense
+			// VulcanReaperEffect: Reaper Streak
+			// FlariumEffect: Flarium Geysers
+			// BlightboneEffect: Blightbone Support
+			// LapisSpeedEffect: Lapis Speed
+			// EerieEffect: Eerie Pulses
+			// PrairieEffect: Wind Speed
+			// FrosthunterEffect: Frost Explosions
+			CosmicCommanderEffect: 非常烦人的效果，把它关掉
 			GenerationsForceHeader: Generations Force
 			SoranForceHeader: Soran Force
 			BlazingBruteEffect: Blazing Shield
 			FallenPrinceEffect: Energy Blades
 			NebulousApprenticeEffect: Nebulous Flames
-			QuasarEffect: Energy Surges
+			// GravityEffect: Gravity Area
+			// SupernovaEffect: Supernova On Death
 			StellarPriestEffect: Stallar Guardian
+			QuasarEffect: Energy Surges
 			BismuthEffect: Bismuth Hammers
 			DreadfireEffect: Pumpkin Amulet
 			MarstechEffect: Force Fields
+			FloraFistEffect: Flora Fist
+			SoAMasoSoulHeader: 大师之魂
+			RoyalGuardEffect: Royal Guard
+			MilinticaDashEffect: Advanced Dash
+			HeartOfThePloughEffect: Heart of the Plough
 			CalamitySoulHeader: 寻神者之魂
+			//cal
 			ShatteredCommunityEffect: 幻灭心元石
-			EridanusEffect: 宇宙英灵护佑
+			// ClamitasEffect: Clams Minions
+			// RedDevil: Demonshade Devil
+			// SoulCrystal: Soul Crystal
+			// PyrogenEffect: Pyrogen Core
+			IntergelacticEffect: 星环
+			AddonsForceHeader: 灾集之力
+			ShogunEffect: 神胶幕府将军之翼（有bug）
+			VoidFaquirEffect: 虚空充能
+			SplendorEffect: 异彩果酱
+			DivineEffect: 光之维度 (有bug)
+			ChaosStoneEffect: 混乱石
+			CryoStoneEffect: 冰川石
+			BloomStoneEffect: 绽花石
+			ToxicHeartEffect: 毒疫之心
+			HideofAstrumDeusEffect: 星神隐壳
+			AquaticHeartEffect: 渊洋之心
+			// Enrage: Demonshade Enrage
+			//other
 			GaiaEffect: 进攻模式
 			NekomiEffect: 猫猫睡衣套装奖励
 			PhantaplazmalEffect: 真突变套装奖励
@@ -3596,8 +3056,73 @@ Mods: {
 			MutantSoulEffect: 幽灵突变体
 			DeviEffect: 幽灵戴薇安
 			EternityForceHeader: 永恒之力
-			ChtuxlagorHeartHeader: 星光之心
-			ChtuxlagorHeartEffect: 星光之心
+			SpeedCapEffect: Movement Speed Cap
+			SpectralFishEffect: Spectral Fishron Support
+			CuteFishEXEffect: Fishron Ritual
+			EridanusEffect: 宇宙英灵护佑
+			//redemption
+			// AdvancementHeader: "{$Mods.FargoMoreSoulsCompat.Items.AdvancementForce.DisplayName}"
+			// CommonGuardBauble: Soul Bauble
+			// PureIronCross: Holy Shield
+			// XenomiteNecklace: Necklace of Perception
+			// XenomiteArmorEffect: Toxic Gas
+			// HardlightEffect: Drones Summon
+			// XeniumConcoction: Beelzebub Concoction
+			// XeniumShield: Infected Thornshield Dash
+			//spirit
+			// AdventurerHeader: Adventurer Force
+			// BotanistHerbEffect: Glowing Herb
+			// FloranWellFed: Raw Meat Drops
+			// FloranGrassEffect: Standing On Grass Bonus
+			// WayfarerTreads: Explorer's Treads
+			// WayfarerBand: Metal Band
+			// WayfarerArmorBuff: Wayfarer Stacking Buff
+			// HurricaneHeader: Hurricane Force
+			// RogueCrestEffect: Rusted Sword Summon
+			// RogueRuneEffect: Movement Increases
+			// RogueArmorEffect: Rogue Invisibility On Hit
+			// ChitinTornadoDash: Tornado Dash
+			// ApostleEffect: Feathers Spawn
+			// MarbleChunkEffect: Limited Flight
+			// AstraliteArmorEffect: Energy Field
+			// AstraliteBoots: Fast Falling
+			// SeraphAngelicSigil: Angelic Spark
+			// RunicSpawn: Explosive Runes
+			// RunicScroll: Rune Wizard's Scroll
+			// AtlantisHeader: Atlantis Force
+			// BismiteExplosion: Toxic Explosion
+			// BismiteShieldEffect: Festering Wounds On Hit
+			// CascadeBubble: Bubble Shield
+			// CascadePendant: Improved Swimming
+			// GraniteChunkStomp: Granite Stomp
+			// GraniteBoots: Low Health Speed Boost
+			// StreamSurferFishJump: Fish Jump/ Fall Speed
+			// StreamSurferSpout: Water Spout Summon
+			// SpiritFangEffect: Shadow-Singed Fang
+			// PrimalStoneArmorEffect: Inflict Unstable Affliction
+			// FrostburnHeader: Frostburn Force
+			// BloodCourtBolt: Blood Bolt
+			// BloodCourtTongue: Grisly Tongue
+			// BloodCourtWard: Sanguine Ward
+			// CryoliteAura: Icy Aura
+			// CryoliteCard: Four Of A Kind
+			// DuskRunes: Shadowflame Magic Attack
+			// DuskGuitar: Guitar Lightning
+			// FrigidAttackSpeed: Icy Wall
+			// FrigidIceWall: Frigid Melee Speed
+			// MarksmanCrit: Concentrated Critical Attack
+			// PainMongerGuard: Infernal Guardians
+			// PainMongerMaw: Magic Fiery Spit
+			// SlagTyrantBurst: Sentries Fireballs Burst
+			// SlagTyrantSummon: Magic Scepter Summon
+			//consolaria
+			// HeroHeader: Hero Force
+			// OstaraJump: Bunny Hops
+			// OstaraGift: Ostara's Gift
+			// DragonBurst: Dragon Burst
+			// TitanRecoil: Ranged Recoil
+			// PhantasmalAura: Spectral Aura
+			// PhantasmalJump: Shadowbound Jump
 		}
 
 		Tiles: {
@@ -3610,81 +3135,77 @@ Mods: {
 		}
 
 		Projectiles: {
-			YharonFireballMinion.DisplayName: Yharon Fireball Minion
-			YharonMinion.DisplayName: Yharon Minion
-			DevianttSoul.DisplayName: Deviantt Soul
-			MutantSoul.DisplayName: Mutant Soul
-			NebulaP.DisplayName: Nebula P
-			SolarP.DisplayName: Solar P
-			StardustP.DisplayName: Stardust P
-			VortexP.DisplayName: Vortex P
-			MutantTyphoon.DisplayName: Mutant Typhoon
-			MutantTrueEyeSphere.DisplayName: Mutant True Eye Sphere
-			MutantTrueEyeS.DisplayName: Mutant True Eye S
-			MutantTrueEyeR.DisplayName: Mutant True Eye R
-			MutantTrueEyeL.DisplayName: Mutant True Eye L
-			MutantTrueEyeDeathray.DisplayName: Mutant True Eye Deathray
-			MutantSword.DisplayName: Mutant Sword
-			MutantSphereSmall.DisplayName: Mutant Sphere Small
-			MutantSpazmarang.DisplayName: Mutant Spazmarang
-			MutantSlimeRain.DisplayName: Mutant Slime Rain
-			MutantSlimeBall.DisplayName: Mutant Slime Ball
-			MutantScythe2.DisplayName: Mutant Scythe2
-			MutantScythe1.DisplayName: Mutant Scythe1
-			MutantRitual.DisplayName: Mutant Ritual
-			MutantRetirang.DisplayName: Mutant Retirang
-			MutantReticle2.DisplayName: Mutant Reticle2
-			MutantReticle.DisplayName: Mutant Reticle
-			MutantPillar.DisplayName: Mutant Pillar
-			MutantNuke.DisplayName: Mutant Nuke
-			MutantMark2.DisplayName: Mutant Mark2
-			MutantMark1.DisplayName: Mutant Mark1
-			MutantHeal.DisplayName: Mutant Heal
-			MutantGuardian.DisplayName: Mutant Guardian
-			MutantGlowything.DisplayName: Mutant Glowything
-			MutantGiantDeathray2.DisplayName: Mutant Giant Deathray2
-			MutantFragment.DisplayName: Mutant Fragment
-			MutantFishronRitual.DisplayName: Mutant Fishron Ritual
-			MutantFishron.DisplayName: Mutant Fishron
-			MutantEyeWavy.DisplayName: Mutant Eye Wavy
-			MutantEyeOfCthulhu.DisplayName: Mutant Eye Of Cthulhu
-			MutantEyeHoming.DisplayName: Mutant Eye Homing
-			MutantEye.DisplayName: Mutant Eye
-			MutantDestroyerTail.DisplayName: Mutant Destroyer Tail
-			MutantDestroyerHead.DisplayName: Mutant Destroyer Head
-			MutantDestroyerBody.DisplayName: Mutant Destroyer Body
-			MutantDeathraySmall.DisplayName: Mutant Deathray Small
-			MutantDeathrayAim.DisplayName: Mutant Deathray Aim
-			MutantDeathray3.DisplayName: Mutant Deathray3
-			MutantDeathray2.DisplayName: Mutant Deathray2
-			MutantDeathray1.DisplayName: Mutant Deathray1
-			MutantCrystalLeaf.DisplayName: Mutant Crystal Leaf
-			MutantBoss.DisplayName: Mutant Boss
-			MutantBombSmall.DisplayName: Mutant Bomb Small
-			MutantBomb.DisplayName: Mutant Bomb
-			MutantSphereRing.DisplayName: Mutant Sphere Ring
-			MutantSpearThrown.DisplayName: Mutant Spear Thrown
-			MutantSpearSpin.DisplayName: Mutant Spear Spin
-			MutantSpearMagical.DisplayName: Mutant Spear Magical
-			MutantSpearDash.DisplayName: Mutant Spear Dash
-			MutantSpearAim.DisplayName: Mutant Spear Aim
-			MutantSlimeSpike.DisplayName: Mutant Slime Spike
-			MutantShadowHand.DisplayName: Mutant Shadow Hand
-			MutantSansHead.DisplayName: Mutant Sans Head
-			MutantSansBeam.DisplayName: Mutant Sans Beam
-			MutantRitual5.DisplayName: Mutant Ritual5
+			TrueAcornProjectile.DisplayName: True Acorn Projectile
 			BossRush.DisplayName: Boss Rush
 			AbomSword.DisplayName: Abom Sword
 			AbomSwordHandle.DisplayName: Abom Sword Handle
-			SpectralFishron.DisplayName: Spectral Fishron
+			MutantRitual5.DisplayName: Mutant Ritual5
+			MutantRitual.DisplayName: Mutant Ritual
+			MutantSansBeam.DisplayName: Mutant Sans Beam
+			MutantSansHead.DisplayName: Mutant Sans Head
+			MutantShadowHand.DisplayName: Mutant Shadow Hand
+			MutantSlimeSpike.DisplayName: Mutant Slime Spike
+			MutantSpearAim.DisplayName: Mutant Spear Aim
+			MutantSpearDash.DisplayName: Mutant Spear Dash
+			MutantSpearMagical.DisplayName: Mutant Spear Magical
+			MutantSpearSpin.DisplayName: Mutant Spear Spin
+			MutantSpearThrown.DisplayName: Mutant Spear Thrown
+			MutantSphereRing.DisplayName: Mutant Sphere Ring
+			MutantBomb.DisplayName: Mutant Bomb
+			MutantBombSmall.DisplayName: Mutant Bomb Small
+			MutantBoss.DisplayName: Mutant Boss
+			MutantCrystalLeaf.DisplayName: Mutant Crystal Leaf
+			MutantDeathray1.DisplayName: Mutant Deathray1
+			MutantDeathray2.DisplayName: Mutant Deathray2
+			MutantDeathray3.DisplayName: Mutant Deathray3
+			MutantDeathrayAim.DisplayName: Mutant Deathray Aim
+			MutantDeathraySmall.DisplayName: Mutant Deathray Small
+			MutantDestroyerBody.DisplayName: Mutant Destroyer Body
+			MutantDestroyerHead.DisplayName: Mutant Destroyer Head
+			MutantDestroyerTail.DisplayName: Mutant Destroyer Tail
+			MutantEye.DisplayName: Mutant Eye
+			MutantEyeHoming.DisplayName: Mutant Eye Homing
+			MutantEyeOfCthulhu.DisplayName: Mutant Eye Of Cthulhu
+			MutantEyeWavy.DisplayName: Mutant Eye Wavy
+			MutantFishron.DisplayName: Mutant Fishron
+			MutantFishronRitual.DisplayName: Mutant Fishron Ritual
+			MutantFragment.DisplayName: Mutant Fragment
+			MutantGiantDeathray2.DisplayName: Mutant Giant Deathray2
+			MutantGlowything.DisplayName: Mutant Glowything
+			MutantGuardian.DisplayName: Mutant Guardian
+			MutantHeal.DisplayName: Mutant Heal
+			MutantMark1.DisplayName: Mutant Mark1
+			MutantMark2.DisplayName: Mutant Mark2
+			MutantNuke.DisplayName: Mutant Nuke
+			MutantPillar.DisplayName: Mutant Pillar
+			MutantReticle.DisplayName: Mutant Reticle
+			MutantReticle2.DisplayName: Mutant Reticle2
+			MutantRetirang.DisplayName: Mutant Retirang
+			MutantScythe1.DisplayName: Mutant Scythe1
+			MutantScythe2.DisplayName: Mutant Scythe2
+			MutantSlimeBall.DisplayName: Mutant Slime Ball
+			MutantSlimeRain.DisplayName: Mutant Slime Rain
+			MutantSpazmarang.DisplayName: Mutant Spazmarang
+			MutantSphereSmall.DisplayName: Mutant Sphere Small
+			MutantSword.DisplayName: Mutant Sword
+			MutantTrueEyeDeathray.DisplayName: Mutant True Eye Deathray
+			MutantTrueEyeL.DisplayName: Mutant True Eye L
+			MutantTrueEyeR.DisplayName: Mutant True Eye R
+			MutantTrueEyeS.DisplayName: Mutant True Eye S
+			MutantTrueEyeSphere.DisplayName: Mutant True Eye Sphere
+			MutantTyphoon.DisplayName: Mutant Typhoon
 			CuteFishronRitual.DisplayName: Cute Fishron Ritual
-			TrueAcornProjectile.DisplayName: True Acorn Projectile
-			SquirrelMinion.DisplayName: Squirrel Minion
-			SquirrelRing.DisplayName: Squirrel Ring
-			Blightbone.DisplayName: Blightbone
-			EerieMinion.DisplayName: Eerie Minion
 			DreadfireAuraProj.DisplayName: Dreadfire Aura Proj
+			Blightbone.DisplayName: Blightbone
+			// FrosthunterExplosion.DisplayName: Frosthunter Explosion
+			// SatelliteShard.DisplayName: Satellite Shard
 			SpaceJunkProj.DisplayName: Space Junk Proj
+			DevianttSoul.DisplayName: Deviantt Soul
+			MutantSoul.DisplayName: Mutant Soul
+			SpectralFishron.DisplayName: Spectral Fishron
+			SquirrelRing.DisplayName: Squirrel Ring
+			// FlariumGeyser.DisplayName: Flarium Geyser
+			// EeriePulse.DisplayName: Eerie Pulse
 		}
 
 		Bestiary: {
@@ -3747,11 +3268,6 @@ Mods: {
 					Tooltip: ""
 				}
 
-				Spirit: {
-					Label: Spirit
-					Tooltip: ""
-				}
-
 				Homeward: {
 					Label: Homeward Journey
 					Tooltip: ""
@@ -3781,22 +3297,24 @@ Mods: {
 					Label: Spirit Mod
 					Tooltip: ""
 				}
-			}
-		}
 
-		Keybinds: {
-			"Dot Mount.DisplayName": Dot Mount
-			"Teleportation Module.DisplayName": Teleportation Module
-			"Energy charging.DisplayName": Energy Charging
+				AlternativeSiblings: {
+					// Label: Alternative Siblings
+					// Tooltip: ""
+				}
+			}
 		}
 
 		DamageClasses.UnitedModdedThrower.DisplayName: thrower Damage
 
 		Message: {
+			// NoBalance: If you playing Calamity with Thorium, install WHummus' Calamity/Thorium Balancing
 			NoRework: It is recomended to play Thorium with Thorium Bosses Rework to enhance experience.
 			NoSoABardHealer1: We detected that you playing Shadows of Abaddon with Thorium Mod.
 			NoSoABardHealer2: Please install SoA Bard & Healer for better compatibility.
 		}
+
+		"Keybinds.Dot Mount.DisplayName": Dot Mount
 	}
 
 	Redemption: {
@@ -3850,56 +3368,5 @@ Mods: {
 					'''
 			}
 		}
-	}
-
-	FargowiltasCrossmod: {
-		Items: {
-			AddedEffects: {
-				OutlawsEssence: {
-					DisplayName: Outlaw's Essence
-					Tooltip:
-						'''
-						18% increased thrower damage
-						8% increased thrower projectile velocity
-						5% increased thrower critical chance
-						'''
-				}
-
-				VagabondsSoul: {
-					DisplayName: Vagabond's Soul
-					Tooltip:
-						'''
-						22% increased thrower damage
-						10% increased thrower projectile velocity
-						10% increased thrower critical chance
-						Effects of Nanotech and Eclipse Mirror
-						'''
-				}
-			}
-		}
-	}
-
-	Catalyst: {
-		Items: {
-			IntergelacticHeadRogue: {
-				DisplayName: Intergelactic Headgear
-				Tooltip:
-					'''
-					Increases thrower damage and critical strike chance by 22%
-					12% increased damage reduction
-					'''
-			}
-		}
-
-		AuricTeslaPlusSet.Rogue:
-			'''
-			Thrower Intergelactic, Bloodflare and God Slayer armor effects
-			Press {0} to make the asteroids more transparent
-			All projectiles spawn healing auric orbs on enemy hits
-			Thrower stealth builds while not attacking and slower while moving, up to a max of 130
-			Once you have built max stealth, you will be able to perform a Stealth Strike
-			Throwere stealth only reduces when you attack, it does not reduce while moving
-			The higher your thrower stealth the higher your thrower damage, crit, and movement speed
-			'''
 	}
 }
