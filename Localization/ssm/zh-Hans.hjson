@@ -432,91 +432,91 @@ Mods: {
 			}
 
 			CommonGuardEnchant: {
-				// DisplayName: Common Guard Enchantment
-				/* Tooltip:
+				DisplayName: 共卫魔石
+				Tooltip:
 					'''
-					+12% increased melee speed 
-					Reduces damage taken by 6%
-					Effect of Trapped Soul Bauble
-					''' */
+					增加12%近战攻击速度
+					增加6%伤害减免
+					获得破壁者戒指、守夜人的头环和缚魂珠的效果
+					'''
 			}
 
 			DragonLeadEnchant: {
-				// DisplayName: Dragon Lead Enchantment
-				/* Tooltip:
+				DisplayName: 龙铅魔石
+				Tooltip:
 					'''
-					20% increased Ice elemental resistance
-					33% chance for weapons to inflict Dragonblaze 
-					100% chance for all Dragon-Lead weapons to inflict Dragonblaze
-					Effect of Heart Insignia
-					- Good Route -
-					''' */
+					增加20%冰元素抗性
+					普通武器攻击时33%施加龙炎
+					龙铅武器攻击时100%施加龙炎
+					获得心形徽章的效果
+					- 好抉择 -
+					'''
 			}
 
 			PureIronEnchant: {
-				// DisplayName: Pure Iron Enchantment
-				/* Tooltip:
+				DisplayName: 净钢魔石
+				Tooltip:
 					'''
-					20% increased Fire elemental resistance 
-					33% chance for weapons to inflict Pure Chill 
-					100% chance for all Pure-Iron weapons to inflict Pure Chill
-					Effect of Erhan's Cross
-					- Bad Route -
-					''' */
+					增加20%火元素抗性
+					普通武器攻击时33%施加净寒
+					净钢武器攻击时100%施加净寒
+					获得埃尔罕十字架的效果
+					- 坏抉择 -
+					'''
 			}
 
 			HardlightEnchant: {
-				// DisplayName: Hardlight Enchantment
-				/* Tooltip:
+				DisplayName: 强光魔石
+				Tooltip:
 					'''
-					Press 'Special Ability Key' to get different effects of Hardlight Armor
-					Effects depend on what weapon class you are using and will not work if you aren't holding any
-					Melee: Summons 2 orbiting mini spaceships that fire lasers whenever you attack using a melee weapon
-					Ranged: Fires a missile barrage, targetting the enemy nearest to the cursor position
-					Magic: Summons a drone that gives a continuous feed of mana for 10 seconds
-					Summon: Summons 2 missile drones and a magnet drone
-					''' */
+					按下 [特殊能力按键] 获得与相应强光盔甲的套装效果
+					效果取决于你使用的武器类别，如果你没有持有任何武器将不起效果
+					近战: 召唤2架环绕你的迷你宇宙飞船，当你使用近战武器攻击时会发射激光（有bug）
+					远程: 发射一波导弹进行轰炸，瞄准距离光标位置最近的敌人
+					魔法: 召唤一架无人机，为你提供持续10秒的魔力补充
+					召唤: 召唤2架导弹无人机和1架磁能无人机（鞭子无法使用）
+					'''
 			}
 
 			LivingTwigEnchant: {
-				// DisplayName: Living Twig Enchantment
-				/* Tooltip:
+				DisplayName: 生命木魔石
+				Tooltip:
 					'''
-					Immunity to the Poisoned debuff 
-					3% Increased minions damage
-					''' */
+					免疫中毒减益
+					增加3%召唤伤害
+					'''
 			}
 
 			XeniumEnchant: {
-				// DisplayName: Xenium Enchantment
-				/* Tooltip:
+				DisplayName: 异金魔石
+				Tooltip:
 					'''
-					+10 increased Energy regeneration 			
-					Effects of Beelzebub Concoction and Infected Thornshield
-					''' */
+					增加10能量恢复速度		
+					获得瘟魔混浆和疫染荆棘盾的效果
+					'''
 			}
 
 			XenomiteEnchant: {
-				// DisplayName: Xenomite Enchantment
-				/* Tooltip:
+				DisplayName: 异辉魔石
+				Tooltip:
 					'''
-					Press 'Special Ability Key' to unleash toxic gas in a radius around the player, inflicting Burning Acid
-					Effect of Necklace of Perception
-					''' */
+					按下 [特殊能力键] 在玩家周围释放有毒气体，施加沸腾酸液减益
+					获得感知项链的效果
+					'''
 			}
 
 			AdvancementForce: {
-				// DisplayName: Force of Advancement
-				/* Tooltip:
+				DisplayName: 飞升之力
+				Tooltip:
 					'''
-					[i:ssm/LivingWoodEnchant2] Immunity to the Poisoned debuff 
-					[i:ssm/CommonGuardEnchant] +12% increased melee speed and reduces damage taken by 6%
-					[i:ssm/PureIronEnchant][i:ssm/DragonLeadEnchant] 33% chance for weapons to inflict Pure Chill and Dragonblaze  
-					[i:ssm/PureIronEnchant][i:ssm/DragonLeadEnchant] 100% chance for all Dragon-Lead weapons to inflict Pure Chill and Dragonblaze
-					[i:ssm/PureIronEnchant][i:ssm/DragonLeadEnchant] 20% increased Ice and Fire elemental resistance 
-					[i:ssm/HardlightEnchant] Press 'Special Ability Key' to get different effects of Hardlight Armor
-					[i:ssm/XeniumEnchant] +10 increased Energy regeneration
-					''' */
+					[i:ssm/LivingWoodEnchant2] 免疫中毒
+					[i:ssm/CommonGuardEnchant] 增加12%近战攻击速度和6%伤害减免
+					[i:ssm/PureIronEnchant][i:ssm/DragonLeadEnchant] 普通武器攻击时33%施加净寒和龙炎  
+					[i:ssm/PureIronEnchant][i:ssm/DragonLeadEnchant] 净钢/龙铅武器攻击时100%施加净寒/龙炎
+					[i:ssm/PureIronEnchant][i:ssm/DragonLeadEnchant] 增加20%冰和火元素抗性
+					[i:ssm/HardlightEnchant] 按下 [特殊能力按键] 获得不同强光盔甲的套装效果
+					[i:ssm/XeniumEnchant] 增加10能量恢复速度
+					'''
 			}
 
 			AddedEffects: {
@@ -1182,7 +1182,7 @@ Mods: {
 					'''
 					你的攻击会冻结敌怪2秒
 					一个冰精灵环绕着你，每经过一段时间便会冻结附近的敌人
-					获得遁蛛冰皮的效果
+					获得遁蛛冰皮和暴雪袋的效果
 					“是什么结束了大灾难？冰河时代！”
 					'''
 			}
@@ -1201,11 +1201,9 @@ Mods: {
 				DisplayName: 暗钢魔石
 				Tooltip:
 					'''
-					获得双击冲刺能力
-					生命值满时受到的伤害减少10%
 					没有什么可以阻挡你的移动
+					获得双击冲刺能力
 					免疫蹒跚者的链球
-					获得尖刺护腕的效果
 					“轻便而耐用”
 					'''
 			}
@@ -1352,6 +1350,7 @@ Mods: {
 				Tooltip:
 					'''
 					一个冰光环环绕着你，冻结待在其中太久的敌怪
+					获得暴雪袋的效果
 					“触之即寒”
 					'''
 			}
@@ -1406,7 +1405,7 @@ Mods: {
 					治疗队友将会在短时间内增加他们50点最大生命值
 					你的光辉伤害有15%概率释放一道致盲闪光
 					闪光会以你的治疗加成治疗附近所有队友并困惑敌怪
-					获得芦荟叶和平等护符的效果
+					获得露水收集器和平等护符的效果
 					“生命之力从你的指尖流出”
 					'''
 			}
@@ -1415,10 +1414,11 @@ Mods: {
 				DisplayName: 绽生魔石
 				Tooltip:
 					'''
-					仆从攻击有33%概率轻微治疗你
+					增加1个仆从栏位
 					生命木橡子的攻击可以跟踪附近的敌怪
+					仆从攻击有33%概率轻微治疗你
 					你的治疗法术会增加被治疗目标的生命恢复和生命恢复速率
-					获得绽花盾、活力花瓣、芳香胸花和丛林之心的效果
+					获得丛林之心的效果
 					“你与自然融为一体”
 					'''
 			}
@@ -1439,7 +1439,7 @@ Mods: {
 					'''
 					每失去25%生命值获得15%伤害减免
 					低于50%生命值时伤害减免达到最大30%
-					获得太空甲虫壳、黑曜石鳞片和沙海穿梭者头冠的效果
+					获得黑曜石鳞片和沙海穿梭者头冠的效果
 					“坚如磐石”
 					'''
 			}
@@ -1759,7 +1759,7 @@ Mods: {
 					'''
 					获得绽花、刺客、绽生、光复和医疗盔甲的套装奖励
 					获得绽花盾、活力花瓣、芳香胸花和飞镖袋的效果
-					获得芦荟叶和平等护符的效果
+					获得丛林之心、生命石英盾、露水收集器和平等护符的效果
 					“精灵的奥秘在你面前揭晓”
 					'''
 			}
@@ -1805,7 +1805,7 @@ Mods: {
 					获得地脉、虚金、荧光和元素之灵盔甲的套装奖励
 					获得耐钢、暗钢、钢和瑟银盔甲的套装奖励
 					获得炽热火花、尖刺护腕、瑟银盾和黑曜石鳞片的效果
-					获得精准项链、太空甲虫壳、沙海穿梭者头冠和注视者之凝的效果
+					获得精准项链、沙海穿梭者头冠和注视者之凝的效果
 					获得注视者之镜、核弹头配件、Jazz音乐播放器和恢复手环的效果
 					获得界元音箱的效果
 					“人类的未来掌握在自己手中”
@@ -1956,7 +1956,7 @@ Mods: {
 					召唤一只友善的红恶魔为你而战
 					按 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键，用黑魔法咒语激怒附近的敌人10秒
 					这道咒语使它们造成的伤害增加到1.5倍，但它们也会受到1.5倍的伤害
-					获得渎魂神晶的效果
+					获得渎神魂晶的效果
 					“你身上散发着恶魔般的力量……”
 					'''
 			}
@@ -2249,8 +2249,9 @@ Mods: {
 				Tooltip:
 					'''
 					增加22%投掷伤害
-					增加10%投掷弹幕速度
-					增加10%投掷暴击率
+					增加15%投掷弹幕速度
+					增加10%投掷暴击率和投掷速度
+					增加疲劳值回复速度和最大疲劳值
 					获得亡者补丁和海盗钱包的效果
 					'''
 			}
@@ -2323,7 +2324,7 @@ Mods: {
 					是你免疫月之诅咒和海洋重击
 					你的攻击会造成月之诅咒和海洋重击
 					幽灵猪鲨短暂现身造成伤害，提升你的暴击效果
-					幽灵猪鲨还会造成突变啃啄，禁敌恢复
+					幽灵猪鲨还会造成突变啃啄，禁止敌人恢复
 					将小猪鲨升级为小猪鲨EX
 					“狂风在咆哮”
 					'''
@@ -2596,7 +2597,7 @@ Mods: {
 
 			ShtunTerminus: {
 				DisplayName: 终末石
-				// Tooltip: Summons Boss Rush. If WotG enabled summons Nameless Deity on RMB.
+				Tooltip: 激活BossRush模式，如果启用众神之怒会召唤无名光神
 			}
 
 			BeekeeperEssence: {
@@ -2687,8 +2688,12 @@ Mods: {
 			}
 
 			LivingWoodEnchant2: {
-				// DisplayName: Living Wood Enchant2
-				// Tooltip: ""
+				DisplayName: 生命木魔石
+				Tooltip: 
+					'''
+					免疫中毒减益
+					增加3%召唤伤害
+					'''
 			}
 
 			Politician: {
@@ -2895,7 +2900,7 @@ Mods: {
 				}
 
 				DisplayName: 魔神
-				// Census.SpawnCondition: Spawns when Moon Lord is defeated.
+				Census.SpawnCondition: 在月亮领主击败后生成
 			}
 
 			DukeFishronEX: {
@@ -2920,7 +2925,7 @@ Mods: {
 
 			MutantEX: {
 				DisplayName: 魔神
-				// DisplayNameApril: LumberJack
+				DisplayNameApril: 伐木工
 
 				BossChecklistIntegration: {
 					SpawnInfo: 使用突变体的诅咒EX
@@ -2936,9 +2941,9 @@ Mods: {
 		Toggler: {
 			//thorium
 			GraniteEffect: 动能转换器
-			// ThiefsWalletEffect: Pirate's Purse
-			// BlastShieldEffect: Blast Shield
-			// CrashEffect: Crash Boots
+			// ThiefsWalletEffect: 海盗的钱袋子（未时装）
+			BlastShieldEffect: 爆炸盾
+			// CrashEffect: 震地靴（未时装）
 			// CairoEffect: Eternal Oasis
 			MotDEHeader: 噬梦之兆
 			PlagueEffect: 瘟疫气云
@@ -2951,7 +2956,7 @@ Mods: {
 			PlasmaEffect: 等离子护盾发生器
 			VampireGlandEffect: 吸血鬼试剂
 			FleshMaskEffect: 攻击掉落肉块
-			ValadiumEffect: 虚金重力
+			ValadiumEffect: 虚金重力（有bug）
 			CrietzEffect: 精准项链火花
 			TerrariumEffect: 泰拉能量
 			NuclearOptionEffect: 核弹头配件
@@ -2961,7 +2966,7 @@ Mods: {
 			DepthDiverEffect: 沉没的金币
 			DepthAuraEffect: 深海增益
 			ArtificersEffect: 工匠的火箭靴
-			LivingWoodEffect: 生命木幼苗
+			LivingWoodEffect: 生命木幼苗（有bug）
 			BiotechEffect: 生物工程探测器
 			EntropicEffect: Illusions
 			TendrilsEffect: 光标卷须（有bug）
@@ -2990,11 +2995,11 @@ Mods: {
 			BulbEffect: 活力花瓣
 			LifeBloomEffect: 丛林之心
 			CyberPunkEffect: 赛博朋克切换形态
-			// CapeoftheSurvivorEffect: Cape of the Survivor
-			// CrystalScorpionEffect: Crystal Scorpion
-			// PyroEffect: Pyromancer Ignition
-			// PlagueLordEffect: Plague Lord's Flask
-			// LodestoneEffect2: Lodestone Shields
+			CapeoftheSurvivorEffect: 生存者披风
+			CrystalScorpionEffect: 水晶蝎
+			PyroEffect: 炎法烧灼
+			PlagueLordEffect: 瘟疫之主的药剂瓶
+			LodestoneEffect2: 地脉护盾
 			//soa
 			// FoundationsForceHeader: Foundations Force
 			// SyranForceHeader: Syrian Force
@@ -3031,13 +3036,13 @@ Mods: {
 			CalamitySoulHeader: 寻神者之魂
 			//cal
 			ShatteredCommunityEffect: 幻灭心元石
-			// ClamitasEffect: Clams Minions
-			// RedDevil: Demonshade Devil
-			// SoulCrystal: Soul Crystal
-			// PyrogenEffect: Pyrogen Core
+			ClamitasEffect: 召唤硫磺夹贝
+			RedDevil: 红恶魔
+			SoulCrystal: 渎神魂晶
+			PyrogenEffect: 极炎之魄
 			IntergelacticEffect: 星环
 			AddonsForceHeader: 灾集之力
-			ShogunEffect: 神胶幕府将军之翼（有bug）
+			ShogunEffect: 神胶幕府将军之翼
 			VoidFaquirEffect: 虚空充能
 			SplendorEffect: 异彩果酱
 			DivineEffect: 光之维度 (有bug)
@@ -3047,7 +3052,7 @@ Mods: {
 			ToxicHeartEffect: 毒疫之心
 			HideofAstrumDeusEffect: 星神隐壳
 			AquaticHeartEffect: 渊洋之心
-			// Enrage: Demonshade Enrage
+			Enrage: 魔影激怒
 			//other
 			GaiaEffect: 进攻模式
 			NekomiEffect: 猫猫睡衣套装奖励
@@ -3056,19 +3061,19 @@ Mods: {
 			MutantSoulEffect: 幽灵突变体
 			DeviEffect: 幽灵戴薇安
 			EternityForceHeader: 永恒之力
-			// SpeedCapEffect: Movement Speed Cap
-			// SpectralFishEffect: Spectral Fishron Support
-			// CuteFishEXEffect: Fishron Ritual
+			SpeedCapEffect: 提升移动速度上限
+			SpectralFishEffect: 幽灵猪鲨助攻
+			CuteFishEXEffect: 猪鲨仪式
 			EridanusEffect: 宇宙英灵护佑
 			//redemption
-			// AdvancementHeader: "{$Mods.FargoMoreSoulsCompat.Items.AdvancementForce.DisplayName}"
-			// CommonGuardBauble: Soul Bauble
-			// PureIronCross: Holy Shield
-			// XenomiteNecklace: Necklace of Perception
-			// XenomiteArmorEffect: Toxic Gas
-			// HardlightEffect: Drones Summon
-			// XeniumConcoction: Beelzebub Concoction
-			// XeniumShield: Infected Thornshield Dash
+			AdvancementHeader: "{$Mods.FargoMoreSoulsCompat.Items.AdvancementForce.DisplayName}"
+			CommonGuardBauble: 缚魂珠
+			PureIronCross: 神圣护盾
+			XenomiteNecklace: 感知项链
+			XenomiteArmorEffect: 有毒气体
+			HardlightEffect: 无人机召唤
+			XeniumConcoction: 瘟魔混浆
+			XeniumShield: 疫染荆棘盾冲刺
 			//spirit
 			// AdventurerHeader: Adventurer Force
 			// BotanistHerbEffect: Glowing Herb
@@ -3245,7 +3250,11 @@ Mods: {
 
 				ExperimentalContent: {
 					Label: 实验性内容
-					Tooltip: 加载未制作完成的内容
+					Tooltip: 
+						'''
+						加载未制作完成的内容
+						[c/f0190a:注意：] 这可能导致游戏崩溃，不要轻易启用
+						'''
 				}
 
 				ThrowerMerge: {
@@ -3299,19 +3308,19 @@ Mods: {
 				}
 
 				AlternativeSiblings: {
-					// Label: Alternative Siblings
-					// Tooltip: ""
+					Label: 额外的兄弟姊妹
+					Tooltip: "启用后，允许生成魔神"
 				}
 			}
 		}
 
-		// DamageClasses.UnitedModdedThrower.DisplayName: thrower damage
+		DamageClasses.UnitedModdedThrower.DisplayName: 投掷伤害
 
 		Message: {
-			// NoBalance: If you playing Calamity with Thorium, install WHummus' Calamity/Thorium Balancing
-			// NoRework: It is recomended to play Thorium with Thorium Bosses Rework to enhance experience.
-			// NoSoABardHealer1: We detected that you playing Shadows of Abaddon with Thorium Mod.
-			// NoSoABardHealer2: Please install SoA Bard & Healer for better compatibility.
+			NoBalance: 如果你正在同时游玩灾厄和瑟银，建议安装mod “WHummus' Calamity/Thorium Balancing”
+			NoRework: 建议你在游玩瑟银时安装瑟银Boss重置来提升游戏体验
+			//NoSoABardHealer1: 我们检测到你在同时游玩亚巴顿之影和瑟银
+			//NoSoABardHealer2: 请安装亚巴顿之影瑟银武器来进行更好的兼容
 		}
 
 		// "Keybinds.Dot Mount.DisplayName": Dot  Mount
@@ -3330,12 +3339,12 @@ Mods: {
 			}
 
 			MutagenMelee: {
-				// DisplayName: Warrior's Mutagen
+				// DisplayName: 战士诱变剂
 				/* Tooltip:
 					'''
-					20% increased melee damage
-					10% increased melee critical strike chance and attack speed
-					Increased melee knockback
+					增加20%近战伤害
+					增加10%近战暴击率和攻击速度
+					加强近战击退力
 					''' */
 			}
 
