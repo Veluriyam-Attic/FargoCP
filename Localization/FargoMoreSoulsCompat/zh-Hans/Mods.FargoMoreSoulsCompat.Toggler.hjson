@@ -29,7 +29,7 @@ ApostleEffect: 生成羽毛
 MarbleChunkEffect: 有限制的飞行
 AstraliteArmorEffect: 能量场
 AstraliteBoots: 超重力靴
-SeraphAngelicSigil: 堕天使旗
+SeraphAngelicSigil: 天国符印
 RunicSpawn: 爆炸符文
 RunicScroll: 符文巫师的卷轴
 AtlantisHeader: "{$Mods.FargoMoreSoulsCompat.Items.AtlantisForce.DisplayName}"
@@ -57,4 +57,4 @@ MarksmanCrit: 注意力攻击暴击
 PainMongerGuard: 炎狱守卫
 PainMongerMaw: 炎狱灰烬
 SlagTyrantBurst: 火球
-SlagTyrantSummon: 召唤物
+SlagTyrantSummon: 西米里权杖

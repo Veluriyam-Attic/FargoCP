@@ -114,7 +114,7 @@ ElderbarkEnchant: {
 
 DriftwoodEnchant: {
 	DisplayName: 浮木魔石
-	Tooltip: 增加渔力, 在海洋生物群系中钓鱼时，有几率钓上宝箱和防御性物品
+	Tooltip: 处于海洋环境时，增加渔力、防御力以及钓上宝匣的概率
 }
 
 FloranEnchant: {
@@ -128,7 +128,7 @@ FloranEnchant: {
 
 SunflowerEnchant: {
 	DisplayName: 太阳花魔石
-	Tooltip: Being 在白天时小幅度增加防御力、最大魔力值、和生命再生速度.
+	Tooltip: 在白天时小幅度增加防御力、最大魔力值、和生命再生速度.
 }
 
 WayfarersEnchant: {
@@ -197,7 +197,7 @@ SeraphEnchant: {
 	Tooltip:
 		'''
 		附近每有一名敌人，便会增加生命再生速度、魔力再生速度和近战攻速，并降低6%魔力消耗
-		获得堕天使旗和炽天使壁垒的效果
+		获得天国符印和炽天使壁垒的效果
 		'''
 }
 
@@ -314,7 +314,7 @@ PainMongerEnchant: {
 		'''
 		生命值低于25%时，降低4点防御，但炎狱守卫会环绕着你
 		炎狱守卫会大幅度增加魔法伤害并降低魔力消耗
-		受到伤害时有几率生成多个爆炸性炎狱灰烬
+		魔法攻击会射出炽热吐息，击中敌人后爆炸
 		'''
 }
 
@@ -355,7 +355,7 @@ HurricaneForce: {
 		[i:FargoMoreSoulsCompat/ApostleEnchant] 魔法和远程攻击偶尔会产生羽毛来协同攻击
 		[i:FargoMoreSoulsCompat/MarbleChunkEnchant] 按“上”获得“神性之风”增益，允许你进行有限制的飞行，此效果有10秒冷却时间
 		[i:FargoMoreSoulsCompat/AstraliteEnchant] 双击向上或向下键在光标位置部署一个能量场
-		[i:FargoMoreSoulsCompat/SeraphEnchant] 附近每有一名敌人，便会增加生命再生速度、魔力再生速度和近战攻速，并降低6%魔力消耗
+		[i:FargoMoreSoulsCompat/SeraphEnchant] 附近每有一名敌人，便会增加生命再生速度、近战攻速，并降低6%魔力消耗
 		[i:FargoMoreSoulsCompat/RunicEnchant] 在身后留下危险的爆炸符文
 		'''
 }
@@ -368,7 +368,7 @@ AtlantisForce: {
 		[i:FargoMoreSoulsCompat/CascadeEnchant] 对敌人造成伤害时会构建起有着极高的伤害抗性的泡泡盾
 		[i:FargoMoreSoulsCompat/GraniteChunkEnchant] 在下落时双击向上或向下键进行下砸践踏，撞击地面时会释放随高度变化的冲击波
 		[i:FargoMoreSoulsCompat/StreamSurferEnchant] 双击向上或向下键创造一个可驾驭的水龙卷来伤害敌人
-		[i:FargoMoreSoulsCompat/SpiritEnchant] S魂灵会基于你当前生命值赋予你各种增益
+		[i:FargoMoreSoulsCompat/SpiritEnchant] 魂灵会基于你当前生命值赋予你各种增益
 		[i:FargoMoreSoulsCompat/PrimalstoneEnchant] 近战和魔法攻击会造成痛苦无常减益
 
 		'''

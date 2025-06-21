@@ -118,8 +118,8 @@ Mods: {
 			}
 
 			HeroForce: {
-				// DisplayName: Force of Hero
-				/* Tooltip:
+				DisplayName: Force of Hero
+				Tooltip:
 					'''
 					[i:ssm/OstaraEnchant] Allows wearer to perform up to 5 bunny hops
 					[i:ssm/OstaraEnchant] Effects of Ostara's Gift
@@ -127,88 +127,88 @@ Mods: {
 					[i:ssm/TitanEnchant2] Using ranged weapons triggers a recoil blast
 					[i:ssm/PhantasmalEnchant] Spectral aura drains mana out of nearby enemies
 					[i:ssm/WarlockEnchant2] Enemies killed by minions heal the player
-					''' */
+					'''
 			}
 
 			BotanistEnchant: {
-				// DisplayName: Botanist Enchantment
-				/* Tooltip:
+				DisplayName: 植物学家魔石
+				Tooltip:
 					'''
-					Increases the amount of Herbs the player can yield
-					Herbs glow in dark places
-					Increased vision in Briar at night or underground
-					''' */
+					增加玩家获取的草药数量
+					在暗处草药会发光
+					在荆棘之地的地下或夜晚增加视野
+					'''
 			}
 
 			ElderbarkEnchant: {
-				// DisplayName: Elderbark Enchantment
-				// Tooltip: Increases all item damage by 2
+				DisplayName: 古木魔石
+				Tooltip: 提高所有物品两点伤害
 			}
 
 			DriftwoodEnchant: {
-				// DisplayName: Driftwood Enchantment
-				// Tooltip: Increased fishing power, chance of fishing up crate and defense when in ocean biome
+				DisplayName: 浮木魔石
+				Tooltip: 处于海洋环境时，增加渔力、防御力以及钓上宝匣的概率
 			}
 
 			FloranEnchant: {
-				// DisplayName: Floran Enchantment
-				/* Tooltip:
+				DisplayName: 叶族魔石
+				Tooltip:
 					'''
-					Killing enemies may drop raw meat, restoring health and granting 'Well Fed'
-					5% increased melee speed and slightly increases life regeneration while standing on grass
-					''' */
+					击杀敌人时有几率掉落生肉，生肉会回复生命值并给予“吃得好”增益
+					站在草地上时，增加5%近战攻击速度并略微提升生命恢复速度
+					'''
 			}
 
 			SunflowerEnchant: {
-				// DisplayName: Sunflower Enchantment
-				// Tooltip: Being outside during daytime increases defense, maximum mana, and life regeneration slightly
+				DisplayName: 太阳花魔石
+				Tooltip: 处于白天室外时略微增加防御力、最大魔力值和生命恢复速度
 			}
 
 			WayfarersEnchant: {
-				// DisplayName: Wayfarer Enchantment
-				/* Tooltip:
+				DisplayName: 远行者魔石
+				Tooltip:
 					'''
-					Killing enemies, breaking pots, mining ore grants stacking buffs. All buffs stack up to 4 times.
-					Effect of Explorer's Treads
-					Effect of Metal Band
-					''' */
+					击杀敌怪、打破罐子、挖掘矿石时获得至多4层增益
+					获得金属手环的效果
+					获得探险家之靴的效果
+					'''
 			}
 
 			ApostleEnchant: {
-				// DisplayName: Apostle Enchantment
-				/* Tooltip:
+				DisplayName: 古翼信徒魔石
+				Tooltip:
 					'''
-					Wind Spirits guide you, granting you double jumps
-					Magic and ranged attacks occasionally spawn feathers to attack foes
-					''' */
+					魂风指引着你，并给予你二段跳
+					魔法和远程攻击偶尔会产生羽毛来协同攻击
+					'''
 			}
 
 			AstraliteEnchant: {
-				// DisplayName: Astralite Enchantment
-				/* Tooltip:
+				DisplayName: 星界魔石
+				Tooltip:
 					'''
-					Double tap 'Down' to deploy an energy field at the cursor position
-					This field lasts for five seconds and supercharges all ranged projectiles that pass through it
-					Effects of High-Grav Boots
-					''' */
+					双击向上或向下键在光标位置部署一个能量场
+					能量场存在5秒，并会增压所有经过能量场的远程弹幕
+					获得超重力靴的效果
+					'''
 			}
 
 			ChitinEnchant: {
-				// DisplayName: Chitin Enchantment
-				/* Tooltip:
+				DisplayName: 甲壳魔石
+				Tooltip:
 					'''
-					Double tap in a direction to dash and envelop yourself in a tornado
-					Provides immunity to the Mighty Wind debuff during Sandstorms
-					''' */
+					双击方向键将你包裹在一股旋风中并进行冲刺
+					沙尘暴期间免疫强风减益
+					'''
 			}
 
 			RogueEnchant: {
-				// DisplayName: Rogue Enchantment
-				/* Tooltip:
+				DisplayName: 盗贼魔石
+				Tooltip:
 					'''
-					Getting hit grants four seconds of invisibility and 100% increased damage. 25 second cooldown
-					Effects of Rogue's Crest and Swiftness Rune
-					''' */
+					受到攻击时会获得4秒的隐身和100%的伤害提升效果，此效果有25秒冷却时间
+					获得盗贼饰章和迅捷符文的效果
+					'''
 			}
 
 			Rogue: {
@@ -217,169 +217,169 @@ Mods: {
 			}
 
 			MarbleChunkEnchant: {
-				// DisplayName: Ancient Marble Enchantment
-				// Tooltip: Press 'Up' to grant 'Divine Winds', allowing for limited flight. 5 second cooldown
+				DisplayName: 镀金魔石
+				Tooltip: 按向上键获得“神性之风”增益，允许你进行有限的飞行，此效果有10秒冷却时间
 			}
 
 			RunicEnchant: {
-				// DisplayName: Runic Enchantment
-				/* Tooltip:
+				DisplayName: 符文魔石
+				Tooltip:
 					'''
-					Leave behind dangerous explosive runes
-					Effects of Rune Wizard's Scroll
-					''' */
+					在身后留下危险的爆炸符文
+					获得符文巫师的卷轴的效果
+					'''
 			}
 
 			SeraphEnchant: {
-				// DisplayName: Seraph Enchantment
-				/* Tooltip:
+				DisplayName: 炽天使魔石
+				Tooltip:
 					'''
-					Being near enemies increases life regen, increases melee speed and reduces mana cost by 6% per enemy
-					Effects of Angelic Sigil and Seraphim Bulwark
-					''' */
+					附近每有一名敌人，便会增加生命再生速度、魔力再生速度和近战攻速，并降低6%魔力消耗
+					获得天国符印和炽天使壁垒的效果
+					'''
 			}
 
 			BismiteEnchant: {
-				// DisplayName: Bismite Enchantment
-				/* Tooltip:
+				DisplayName: 铋华魔石
+				Tooltip:
 					'''
-					Not getting hit builds up stacks of Virulence
-					Striking while Virulence is charged releases a toxic explosion
-					Being struck by an enemy inflicts them with festering wounds debuff
-					''' */
+					未受到攻击时会积蓄毒性
+					毒性充能后，攻击会释放剧毒爆炸
+					被敌人击中时，会对敌人施加溃烂伤口减益效果
+					'''
 			}
 
 			CascadeEnchant: {
-				// DisplayName: Cascade Enchantment
-				/* Tooltip:
+				DisplayName: 涌流魔石
+				Tooltip:
 					'''
-					Dealing damage to enemies builds up a bubble shield
-					The bubble at full size grants heavy damage resistance against the next attack
-					Double tap 'Down' to gain unhindered movement underwater for a short time
-					''' */
+					对敌人造成伤害时会构建起泡泡盾
+					完整尺寸大小的泡泡盾对受到的下次攻击有着极高的伤害抗性
+					双击向上或向下键可以在短时间内在水中自由移动
+					'''
 			}
 
 			GraniteChunkEnchant: {
-				// DisplayName: Granite Chunk Enchantment
-				/* Tooltip:
+				DisplayName: 花岗岩魔石
+				Tooltip:
 					'''
-					Double tap 'Down' while falling to stomp downward
-					Hitting the ground releases a shockwave that scales with height
-					Effect of Heartbeat Cleats and Sharpshooter's Glove
-					''' */
+					在下落时，双击向上或向下键进行下砸践踏
+					撞击地面时会释放随高度变化的冲击波
+					获得心律防滑鞋和神射手手套的效果
+					'''
 			}
 
 			PrimalstoneEnchant: {
-				// DisplayName: Primalstone Enchantment
-				/* Tooltip:
+				DisplayName: 擎元古石魔石
+				Tooltip:
 					'''
-					Melee and magic hits on enemies trigger Unstable Affliction
-					Effect of Titanbound Bulwark
-					''' */
+					近战和魔法攻击会造成痛苦无常减益
+					获得泰坦壁垒的效果
+					'''
 			}
 
 			SpiritEnchant: {
-				// DisplayName: Spirit Enchantment
-				/* Tooltip:
+				DisplayName: 魂灵魔石
+				Tooltip:
 					'''
-					Spirits grant you various buffs based on your health
-					Effect of Shadow-Singed Fang
-					''' */
+					魂灵会基于你当前生命值赋予你各种增益
+					获得影迹之牙的效果
+					'''
 			}
 
 			StreamSurferEnchant: {
-				// DisplayName: Stream Surfer Enchantment
-				/* Tooltip:
+				DisplayName: 越浪者魔石
+				Tooltip:
 					'''
-					Double tap 'Down' to create a ridable waterspout that damages enemies
-					Increases jump height and descent speed
-					''' */
+					双击向上或向下键创造一个可驾驭的水龙卷来伤害敌人
+					增加跳跃高度和下落速度
+					'''
 			}
 
 			BloodcourtEnchant: {
-				// DisplayName: Bloodcourt Enchantment
-				/* Tooltip:
+				DisplayName: 血庭魔石
+				Tooltip:
 					'''
-					Double tap 'Down' to sacrifice 8% of your maximum health and launch a bolt of Dark Anima dealing damage in a radius
-					Effects of Grisly Tongue and Sanguine Ward
-					''' */
+					双击向上或向下键献祭8%最大生命值，并发射一束暗魂矢，在半径范围内造成高额伤害
+					获得可怖之舌和血染戒石的效果
+					'''
 			}
 
 			CryoliteEnchant: {
-				// DisplayName: Cryolite Enchantment
-				/* Tooltip:
+				DisplayName: 冰晶魔石
+				Tooltip:
 					'''
-					Generates an icy aura that slows nearby enemies
-					This aura expands gradually, but resets when injured
-					Effects of Winter hat and Four of a Kind
-					''' */
+					生成一个能减速附近敌人的冰环
+					冰环会逐渐扩大，但会在你受到伤害时重置大小
+					获得寒冬帽和四牌同点的效果
+					'''
 			}
 
 			DuskEnchant: {
-				// DisplayName: Dusk Enchantment
-				/* Tooltip:
+				DisplayName: 薄暮魔石
+				Tooltip:
 					'''
-					Magic attacks inflict Shadowflame
-					8% Increased Magic and Ranged Damage at Night
-					Nearby enemies and enemies hit by attacks may be hit by a chain of lightning
+					魔法攻击造成暗影焰效果
+					在夜晚提高8%魔法和远程伤害
+					附近的敌人和被攻击的敌人有几率受到连锁闪电的攻击
 					'Andrew Hulshult'
-					''' */
+					'''
 			}
 
 			FrigidEnchant: {
-				// DisplayName: Frigid Enchantment
-				/* Tooltip:
+				DisplayName: 严寒魔石
+				Tooltip:
 					'''
-					Double tap 'Down' to create an icy wall at the cursor position, effect has 8 second cooldown
-					Effects of Frigid Wraps
-					''' */
+					双击向上或向下键在光标位置创造一面冰墙，此效果有8秒冷却时间
+					获得严寒护膝的效果
+					'''
 			}
 
 			MarksmanEnchant: {
-				// DisplayName: Marksman Enchantment
-				/* Tooltip:
+				DisplayName: 神射手魔石
+				Tooltip:
 					'''
-					4% increased critical strike chance
-					Wearing Marksman's Armor builds up concentration
-					While concentrated, your next strike is a critical strike and deals more damage
-					Concentration is disrupted when hurt, but charges faster while standing still
-					''' */
+					增加4%暴击率
+					穿戴神射手盔甲时可以集中注意力
+					注意力集中时，你的下次攻击必定暴击并且会造成更多伤害
+					到伤害时注意力会消失，但站定不动时会使注意力恢复的更快
+					'''
 			}
 
 			PainMongerEnchant: {
-				// DisplayName: Pain Monger Enchantment
-				/* Tooltip:
+				DisplayName: 苦痛散播者魔石
+				Tooltip:
 					'''
-					When under 25% health, defense is decreased by 4, but Infernal Guardians surround you
-					Infernal Guardians vastly increase magic damage and reduce mana cost
-					Magic attacks shoot out fiery spit that explode upon hitting enemies
-					''' */
+					生命值低于25%时，降低4点防御，但炎狱守卫会环绕着你
+					炎狱守卫会大幅度增加魔法伤害并降低魔力消耗
+					魔法攻击会射出炽热吐息，击中敌人后爆炸
+					'''
 			}
 
 			SlagTyrantEnchant: {
-				// DisplayName: Slag Tyrant Enchantment
-				/* Tooltip:
+				DisplayName: 熔渣暴君魔石
+				Tooltip:
 					'''
-					Double tap 'Down' to cause all sentries to release a burst of fireballs, 8 second cooldown
-					Summons a magic scepter to fight for you
-					This scepter does not take up minion slots
-					''' */
+					双击向上或向下键使所有哨兵释放火球，此效果有8秒冷却时间
+					召唤魔法权杖为你而战
+					权杖不占用随从栏
+					'''
 			}
 
 			AdventurerForce: {
-				// DisplayName: Adventurer Force
-				/* Tooltip:
+				DisplayName: 行者之力
+				Tooltip:
 					'''
-					[i:ssm/ElderbarkEnchant] Increases all item damage by 10
-					[i:ssm/DriftwoodEnchant] Allows the wearer to float on water
-					[i:ssm/DriftwoodEnchant] Increased fishing power
-					[i:ssm/BotanistEnchant] Increases the amount of Herbs the player can yield
-					[i:ssm/BotanistEnchant] Herbs glow in dark places
-					[i:ssm/FloranEnchant] Killing enemies may drop raw meat, restoring health and granting 'Well Fed'
-					[i:ssm/WayfarersEnchant] Killing enemies, breaking pots, mining ore grants stacking buffs. All buffs stack up to 4 times.
-					[i:ssm/WayfarersEnchant] Effect of Explorer's Treads and Metal Band
-					[i:ssm/SunflowerEnchant] Being outside during daytime increases defense, maximum mana, and life regeneration slightly
-					''' */
+					[i:ssm/ElderbarkEnchant] 提高所有物品10点伤害
+					[i:ssm/DriftwoodEnchant] 允许佩戴者漂浮在水面
+					[i:ssm/DriftwoodEnchant] 增加渔力
+					[i:ssm/BotanistEnchant] 增加玩家获取的草药数量
+					[i:ssm/BotanistEnchant] 草药在黑暗的地方发光
+					[i:ssm/FloranEnchant]击杀敌人时有几率掉落生肉，生肉会回复生命值并给予“吃得好”增益
+					[i:ssm/WayfarersEnchant] 击杀敌怪、打破罐子、挖掘矿石时获得至多4层增益
+					[i:ssm/WayfarersEnchant] 获得探险家之靴和金属手环的效果
+					[i:ssm/SunflowerEnchant] 处于白天室外时略微增加防御力、最大魔力值和生命恢复速度
+					'''
 			}
 
 			Adventurer: {
@@ -388,47 +388,47 @@ Mods: {
 			}
 
 			HurricaneForce: {
-				// DisplayName: Force of Hurricane
-				/* Tooltip:
+				DisplayName: 飓风之力
+				Tooltip:
 					'''
-					[i:ssm/RogueEnchant] Getting hit grants four seconds of invisibility and 100% increased damage
-					[i:ssm/ChitinEnchant] Double tap in a direction to dash and envelop yourself in a tornado
-					[i:ssm/ChitinEnchant] Provides immunity to the Mighty Wind debuff during Sandstorms
-					[i:ssm/ApostleEnchant] Wind Spirits guide you, granting you double jumps
-					[i:ssm/ApostleEnchant] Magic and ranged attacks occasionally spawn feathers to attack foes
-					[i:ssm/MarbleChunkEnchant] Press 'Up' to grant 'Divine Winds', allowing for limited flight
-					[i:ssm/AstraliteEnchant] Double tap 'Down' to deploy an energy field at the cursor position
-					[i:ssm/SeraphEnchant] Being near enemies increases life regen, increases melee speed and reduces mana cost
-					[i:ssm/RunicEnchant] Leave behind dangerous explosive runes
-					''' */
+					[i:ssm/RogueEnchant] 受到攻击时会获得4秒的隐身和100%的伤害提升效果
+					[i:ssm/ChitinEnchant] 双击方向键将你包裹在一股旋风中并进行冲刺
+					[i:ssm/ChitinEnchant] 沙尘暴期间免疫强风减益
+					[i:ssm/ApostleEnchant] 魂风指引着你，并给予你二段跳
+					[i:ssm/ApostleEnchant] 魔法和远程攻击偶尔会产生羽毛来协同攻击
+					[i:ssm/MarbleChunkEnchant] 按“上”获得“神性之风”增益，允许你进行有限制的飞行，此效果有10秒冷却时间
+					[i:ssm/AstraliteEnchant] 双击向上或向下键在光标位置部署一个能量场
+					[i:ssm/SeraphEnchant] 附近每有一名敌人，便会增加生命再生速度、近战攻速并降低6%魔力消耗
+					[i:ssm/RunicEnchant] 在身后留下危险的爆炸符文
+					'''
 			}
 
 			AtlantisForce: {
-				// DisplayName: Atlantis Force
-				/* Tooltip:
+				DisplayName: 亚特兰蒂斯之力
+				Tooltip:
 					'''
-					[i:ssm/BismiteEnchant] Not getting hit builds up Virulence, striking while Virulence is charged releases a toxic explosion
-					[i:ssm/CascadeEnchant] Dealing damage to enemies builds up a bubble shield that rants heavy damage resistance
-					[i:ssm/GraniteChunkEnchant] Double tap 'Down' while falling to stomp downward, hitting the ground releases shockwave
-					[i:ssm/StreamSurferEnchant] Double tap 'Down' to create a ridable waterspout that damages enemies
-					[i:ssm/SpiritEnchant] Spirits grant you various buffs based on your health
-					[i:ssm/PrimalstoneEnchant] Melee and magic hits on enemies trigger Unstable Affliction debuff
+					[i:ssm/BismiteEnchant] 未受到攻击时会积蓄毒性，毒性充能后，攻击会释放剧毒爆炸
+					[i:ssm/CascadeEnchant] 对敌人造成伤害时会构建起有着极高的伤害抗性的泡泡盾
+					[i:ssm/GraniteChunkEnchant] 在下落时双击向上或向下键进行下砸践踏，撞击地面时会释放随高度变化的冲击波
+					[i:ssm/StreamSurferEnchant] 双击向上或向下键创造一个可驾驭的水龙卷来伤害敌人
+					[i:ssm/SpiritEnchant] 魂灵会基于你当前生命值赋予你各种增益
+					[i:ssm/PrimalstoneEnchant] 近战和魔法攻击会造成痛苦无常减益
 
-					''' */
+					'''
 			}
 
 			FrostburnForce: {
-				// DisplayName: Frostburn Force
-				/* Tooltip:
+				DisplayName: 冰疮之力
+				Tooltip:
 					'''
-					[i:ssm/BloodcourtEnchant] Double tap 'Down' to sacrifice 8% of your maximum health and launch a bolt of Dark Anima dealing high damage in a radius
-					[i:ssm/CryoliteEnchant] Generates an icy aura that slows nearby enemies
-					[i:ssm/DuskEnchant] You are surrounded by a rune that guides the way
-					[i:ssm/FrigidEnchant] Double tap 'Down' to create an icy wall at the cursor position
-					[i:ssm/MarksmanEnchant] Wearing Marksman's Armor builds up concentration, your next strike is a critical strike when concentrated
-					[i:ssm/PainMongerEnchant] Infernal Guardians surround you when under 25% health, vastly increase magic damage and reduce mana cost
-					[i:ssm/SlagTyrantEnchant] Double tap 'Down' to cause all sentries to release a burst of fireballs
-					''' */
+					[i:ssm/BloodcourtEnchant] 双击向上或向下键献祭8%最大生命值,并发射一束暗魂矢，在半径范围内造成高额伤害
+					[i:ssm/CryoliteEnchant] 生成一个能减速附近敌人的冰环
+					[i:ssm/DuskEnchant] 指引道路的符文环绕着你
+					[i:ssm/FrigidEnchant] 双击向上或向下键在光标位置创造一面冰墙
+					[i:ssm/MarksmanEnchant] 穿戴神射手盔甲时可以集中注意力，注意力集中时，你的下次攻击必定暴击
+					[i:ssm/PainMongerEnchant] 生命值低于25%时炎狱守卫会环绕着你, 大幅度增加魔法伤害并降低魔力消耗
+					[i:ssm/SlagTyrantEnchant] 双击向上或向下键使所有哨兵释放火球
+					'''
 			}
 
 			CommonGuardEnchant: {
@@ -3076,51 +3076,51 @@ Mods: {
 			XeniumConcoction: 瘟魔混浆
 			XeniumShield: 疫染荆棘盾冲刺
 			//spirit
-			// AdventurerHeader: Adventurer Force
-			// BotanistHerbEffect: Glowing Herb
-			// FloranWellFed: Raw Meat Drops
-			// FloranGrassEffect: Standing On Grass Bonus
-			// WayfarerTreads: Explorer's Treads
-			// WayfarerBand: Metal Band
-			// WayfarerArmorBuff: Wayfarer Stacking Buff
-			// HurricaneHeader: Hurricane Force
-			// RogueCrestEffect: Rusted Sword Summon
-			// RogueRuneEffect: Movement Increases
-			// RogueArmorEffect: Rogue Invisibility On Hit
-			// ChitinTornadoDash: Tornado Dash
-			// ApostleEffect: Feathers Spawn
-			// MarbleChunkEffect: Limited Flight
-			// AstraliteArmorEffect: Energy Field
-			// AstraliteBoots: Fast Falling
-			// SeraphAngelicSigil: Angelic Spark
-			// RunicSpawn: Explosive Runes
-			// RunicScroll: Rune Wizard's Scroll
-			// AtlantisHeader: Atlantis Force
-			// BismiteExplosion: Toxic Explosion
-			// BismiteShieldEffect: Festering Wounds On Hit
-			// CascadeBubble: Bubble Shield
-			// CascadePendant: Improved Swimming
-			// GraniteChunkStomp: Granite Stomp
-			// GraniteBoots: Low Health Speed Boost
-			// StreamSurferFishJump: Fish Jump/ Fall Speed
-			// StreamSurferSpout: Water Spout Summon
-			// SpiritFangEffect: Shadow-Singed Fang
-			// PrimalStoneArmorEffect: Inflict Unstable Affliction
-			// FrostburnHeader: Frostburn Force
-			// BloodCourtBolt: Blood Bolt
-			// BloodCourtTongue: Grisly Tongue
-			// BloodCourtWard: Sanguine Ward
-			// CryoliteAura: Icy Aura
-			// CryoliteCard: Four Of A Kind
-			// DuskRunes: Shadowflame Magic Attack
-			// DuskGuitar: Guitar Lightning
-			// FrigidAttackSpeed: Icy Wall
-			// FrigidIceWall: Frigid Melee Speed
-			// MarksmanCrit: Concentrated Critical Attack
-			// PainMongerGuard: Infernal Guardians
-			// PainMongerMaw: Magic Fiery Spit
-			// SlagTyrantBurst: Sentries Fireballs Burst
-			// SlagTyrantSummon: Magic Scepter Summon
+			AdventurerHeader: 行者之力
+			BotanistHerbEffect: 草药发光
+			FloranWellFed: 掉落生肉
+			FloranGrassEffect: 站在草地上增益
+			WayfarerTreads: 探险家之靴
+			WayfarerBand: 金属手环
+			WayfarerArmorBuff: 远行者叠加增益
+			HurricaneHeader: 飓风之力
+			RogueCrestEffect: 盗贼饰章
+			RogueRuneEffect: 迅捷符文
+			RogueArmorEffect: 隐身
+			ChitinTornadoDash: 旋风冲刺
+			ApostleEffect: 生成羽毛
+			MarbleChunkEffect: 有限飞行
+			AstraliteArmorEffect: 能量场
+			AstraliteBoots: 超重力靴
+			SeraphAngelicSigil: 天国符印
+			RunicSpawn: 爆炸符文
+			RunicScroll: 符文巫师的卷轴
+			AtlantisHeader: 亚特兰蒂斯之力
+			BismiteExplosion: 剧毒爆炸
+			BismiteShieldEffect: 溃烂伤口减益
+			CascadeBubble: 泡泡盾
+			CascadePendant: 提高游泳
+			GraniteChunkStomp: 下砸践踏
+			GraniteBoots: 心率防滑靴
+			StreamSurferFishJump: 高跳和速降
+			StreamSurferSpout: 水龙卷
+			SpiritFangEffect: 影迹之牙
+			PrimalStoneArmorEffect: 痛苦无常减益
+			FrostburnHeader: 冰疮之力
+			BloodCourtBolt: 暗魂矢
+			BloodCourtTongue: 可怖之舌
+			BloodCourtWard: 血染戒石
+			CryoliteAura: 冰环
+			CryoliteCard: 四牌同点
+			DuskRunes: 暗影焰
+			DuskGuitar: 闪电
+			FrigidAttackSpeed: 冰墙
+			FrigidIceWall: 严寒护膝（有bug）
+			MarksmanCrit: 注意力攻击暴击
+			PainMongerGuard: 炎狱守卫
+			PainMongerMaw: 炽热吐息
+			SlagTyrantBurst: 火球
+			SlagTyrantSummon: 西米里权杖
 			//consolaria
 			// HeroHeader: Hero Force
 			// OstaraJump: Bunny Hops
