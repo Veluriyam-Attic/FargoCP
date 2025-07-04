@@ -11,15 +11,15 @@ Mods: {
 
 		Items: {
 			OstaraEnchant: {
-				// DisplayName: Ostara Enchantment
-				/* Tooltip:
+				DisplayName: 奥丝塔拉魔石
+				Tooltip:
 					'''
-					3% Increased movement speed
-					Allows wearer to perform up to 5 bunny hops
-					Enemies have a chance of leaving chocolate eggs on death
-					Eggs drop life hearts and mana stars when broken
-					Negates fall damage
-					''' */
+					增加3%移动速度
+					装备者在前进过程中跳跃会逐渐提升跳跃高度，最多提升五次
+					敌人死后有概率掉落巧克力蛋
+					蛋破碎后产生心和魔力
+					免疫坠落伤害
+					'''
 			}
 
 			DragonEnchant: {
@@ -33,13 +33,13 @@ Mods: {
 			}
 
 			DragonEnchant2: {
-				// DisplayName: Dragon Enchantment
-				// Tooltip: Creates a burst of shadowflames after taking damage
+				DisplayName: 龙魔石
+				Tooltip: 受到伤害后造成火焰爆发
 			}
 
 			TitanEnchant2: {
-				// DisplayName: Titan Enchantment
-				// Tooltip: Using ranged weapons triggers a recoil blast
+				DisplayName: 泰坦魔石
+				Tooltip: 充能完成后使用远程武器射击将引发爆炸并对玩家造成击退
 			}
 
 			WarlockEnchant: {
@@ -54,12 +54,12 @@ Mods: {
 			}
 
 			WarlockEnchant2: {
-				// DisplayName: Warlock Enchantment
-				/* Tooltip:
+				DisplayName: 巫士魔石
+				Tooltip:
 					'''
-					Increases health regeneration and jump speed
-					Enemies killed by minions heal the player
-					''' */
+					提高生命恢复速度和跳跃速度
+					召唤物击杀敌人时将会治疗你
+					'''
 			}
 
 			TitanEnchant: {
@@ -73,60 +73,60 @@ Mods: {
 			}
 
 			PhantasmalEnchant: {
-				// DisplayName: Phantasmal Enchantment
-				/* Tooltip:
+				DisplayName: 灵能魔石
+				Tooltip:
 					'''
-					Spectral aura drains mana out of nearby enemies
-					Effects of Shadowbound Exoskeleton
-					''' */
+					汲取附近敌人的魔力
+					获得影月外骨骼的效果
+					'''
 			}
 
 			AncientDragonEnchant: {
-				// DisplayName: Ancient Dragon Enchantment
-				/* Tooltip:
+				DisplayName: 远古龙魔石
+				Tooltip:
 					'''
-					12% Increased melee speed
-					10% Increased melee damage
-					''' */
+					增加12%近战攻速
+					增加10%近战伤害
+					'''
 			}
 
 			AncientTitanEnchant: {
-				// DisplayName: Ancient Titan Enchantment
-				/* Tooltip:
+				DisplayName: 远古泰坦魔石
+				Tooltip:
 					'''
-					8% Increased ranged critical strike chance
-					15% Increased ranged attack speed
-					''' */
+					增加8%远程暴击率
+					增加15%远程攻速
+					'''
 			}
 
 			AncientPhantasmalEnchant: {
-				// DisplayName: Ancient Phantasmal Enchantment
-				/* Tooltip:
+				DisplayName: 远古灵能魔石
+				Tooltip:
 					'''
-					8% increased magic critical strike chance
-					12% Increased magic damage
-					''' */
+					增加8%魔法暴击率
+					增加12%魔法伤害
+					'''
 			}
 
 			AncientWarlockEnchant: {
-				// DisplayName: Ancient Warlock Enchantment
-				/* Tooltip:
+				DisplayName: 远古巫士魔石
+				Tooltip:
 					'''
-					Increases your max number of minions by 2
-					10% Increased summon damage
-					''' */
+					增加2最大随从栏
+					增加10%召唤伤害
+					'''
 			}
 
 			HeroForce: {
-				DisplayName: Force of Hero
+				DisplayName: 英雄之力
 				Tooltip:
 					'''
-					[i:ssm/OstaraEnchant] Allows wearer to perform up to 5 bunny hops
-					[i:ssm/OstaraEnchant] Effects of Ostara's Gift
-					[i:ssm/DragonEnchant] Creates a burst of shadowflames after taking damage	
-					[i:ssm/TitanEnchant2] Using ranged weapons triggers a recoil blast
-					[i:ssm/PhantasmalEnchant] Spectral aura drains mana out of nearby enemies
-					[i:ssm/WarlockEnchant2] Enemies killed by minions heal the player
+					[i:ssm/OstaraEnchant] 装备者在前进过程中跳跃会逐渐提升跳跃高度，最多提升五次
+					[i:ssm/OstaraEnchant] 获得奥丝塔拉之贺的效果
+					[i:ssm/DragonEnchant2] 受到伤害后造成火焰爆发
+					[i:ssm/TitanEnchant2] 充能完成后使用远程武器射击将引发爆炸并对玩家造成击退
+					[i:ssm/PhantasmalEnchant] 汲取附近敌人的魔力
+					[i:ssm/WarlockEnchant2] 召唤物击杀敌人时将会治疗你
 					'''
 			}
 
@@ -3122,13 +3122,13 @@ Mods: {
 			SlagTyrantBurst: 火球
 			SlagTyrantSummon: 西米里权杖
 			//consolaria
-			// HeroHeader: Hero Force
-			// OstaraJump: Bunny Hops
-			// OstaraGift: Ostara's Gift
-			// DragonBurst: Dragon Burst
-			// TitanRecoil: Ranged Recoil
-			// PhantasmalAura: Spectral Aura
-			// PhantasmalJump: Shadowbound Jump
+			HeroHeader: 英雄之力
+			OstaraJump: 奥丝塔拉跳跃
+			OstaraGift: 奥丝塔拉之贺
+			DragonBurst: 火焰爆发
+			TitanRecoil: 远程爆炸
+			PhantasmalAura: 汲取魔力
+			PhantasmalJump: 影月外骨骼
 		}
 
 		Tiles: {
