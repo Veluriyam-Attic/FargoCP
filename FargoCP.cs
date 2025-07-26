@@ -41,7 +41,7 @@ namespace FargoCP
         }
     }
     // 取消对DLC的硬编码翻译
-    /* public class FargowiltasCrossmod : ModSystem
+    public class FargowiltasCrossmod : ModSystem
     {
         public override void PostSetupContent()
         {
@@ -50,7 +50,7 @@ namespace FargoCP
                )
                 TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargowiltasCrossmod", false);
         }
-    } */
+    }
 
     // 取消那个√石非官方额外魔石的硬编码翻译
     /* public class FargosSoulsModDLCRecreated : ModSystem
