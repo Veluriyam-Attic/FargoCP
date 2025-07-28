@@ -26,7 +26,7 @@ EternityRevDifficulty: {
 
 EternityDeathDifficulty: {
 	Name: 永恒-死亡
-	ShortDescription: "[c/00FFFF:以Fargo的永恒模式为主并包含了部分][c/800080:死亡模式][c/00FFFF:更改和额外的原版Boss AI修改的更具挑战性的难度]"
+	ShortDescription: "[c/00FFFF:以Fargo的永恒模式为主并包含了部分][c/800080:死亡模式][c/00FFFF:更改的更具挑战性的难度]"
 	ExpandedDescription:
 		'''
 		融合了[c/00FFFF:永恒模式]与[c/880808:死亡模式]，Boss会掉落大师模式专属物品
@@ -38,7 +38,6 @@ EternityDeathDifficulty: {
 		    -硫海遗爵
 		    -星流巨械
 		剩余Boss的永恒模式新AI仍在制作中!
-		仅永恒-死亡模式下: 为一些原版Boss的[c/00FFFF:永恒模式]AI添加了部分[c/880808:死亡模式]的攻击方式
 
 		默认[c/00FFFF:永恒模式]AI优先于[c/880808:死亡模式]，可在模组配置设定中更改
 
