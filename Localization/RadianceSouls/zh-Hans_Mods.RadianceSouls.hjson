@@ -1,0 +1,10 @@
+Toggler: {
+	RadiantCharmEffect: 辐光神韵
+	LightsWrathEffect: 神光忿怒
+	RadianceHeader: 辐光
+}
+
+ExpandedTooltips: {
+	UsablePostMutant: "[c/FF0000:辐光联动调整:] 只能在击败突变体后使用"
+	RuinDebuff: "[c/FF0000:辐光联动调整:] 无法免疫寂灭和混沌减益"
+}

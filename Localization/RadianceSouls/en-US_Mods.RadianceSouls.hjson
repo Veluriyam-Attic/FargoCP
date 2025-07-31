@@ -1,0 +1,10 @@
+Toggler: {
+	RadiantCharmEffect: Radiant Charm
+	LightsWrathEffect: Light's Wrath
+	RadianceHeader: Radiance
+}
+
+ExpandedTooltips: {
+	UsablePostMutant: "[c/FF0000:Radiance Crossmod Support:] Can only be used after defeating the Mutant"
+	RuinDebuff: "[c/FF0000:Radiance Crossmod Support:] Does not provide immunity against Ruin or Chaos State"
+}
