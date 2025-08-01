@@ -23,7 +23,7 @@ Configs: {
 		}
 
 		NPCBlacklist: {
-			Label: 增加击杀敌人时旗帜的计数倍率
+			Label: NPC旗帜黑名单
 			Tooltip: 在黑名单中的NPC将不会有掉落物倍率加成
 		}
 	}
