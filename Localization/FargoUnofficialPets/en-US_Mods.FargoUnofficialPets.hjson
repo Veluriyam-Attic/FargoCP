@@ -93,3 +93,20 @@ Projectiles: {
 	NaturePetProjectile.DisplayName: Mini Champion of Nature
 	TrojanSquirrelPetProjectile.DisplayName: Mini Trojan Squirrel
 }
+
+Configs: {
+	PetConfig: {
+		DisplayName: Pet Config
+		Headers.Tweaks: "[i:603] Pet Tweaks"
+
+		BabyLifelightTweaks: {
+			Label: "[i:FargowiltasSouls/LifelightMasterPet] Baby Lifelight Tweaks"
+			Tooltip: ""
+		}
+
+		AccursedSarcophagusTweaks: {
+			Label: "[i:FargowiltasSouls/AccursedRags] Accursed Sarcophagus Tweaks"
+			Tooltip: ""
+		}
+	}
+}
