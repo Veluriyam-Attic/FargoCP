@@ -1012,4 +1012,9 @@ Buffs: {
 		Description: 被远古巨龙之力驱逐
 		DisplayName: 龙之驱逐
 	}
+
+		DeviPresenceBuff: {
+		Description: Mods.FargoSoulMore.Buffs.DeviPresenceBuff.Description
+		DisplayName: 戴维安驾到
+	}
 }
