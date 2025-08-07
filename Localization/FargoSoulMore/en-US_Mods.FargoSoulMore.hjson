@@ -825,4 +825,9 @@ Buffs: {
 		Description: Banished by ancient draconic powers
 		DisplayName: Dragon Banish
 	}
+
+	DeviPresenceBuff: {
+		Description: Mods.FargoSoulMore.Buffs.DeviPresenceBuff.Description
+		DisplayName: Devi Presence Buff
+	}
 }
