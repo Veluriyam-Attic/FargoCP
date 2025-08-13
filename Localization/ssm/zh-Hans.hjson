@@ -13,7 +13,7 @@ Mods: {
 			Homing: 武器弹幕能追踪敌人
 			CancelBuff: 取消 DLC 增益
 			CancelDebuff: 取消 DLC 减益
-			PostND: 火焰柱伤害降低 50%
+			PostND: 只能在无名光神被击败后使用
 		}
 
 		CodebreakerOptions.Mutant: 突变体
