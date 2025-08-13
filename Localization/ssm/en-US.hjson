@@ -13,7 +13,7 @@ Mods: {
 			Homing: Weapon's pojectiles are homing in on enemies
 			CancelBuff: Canceled DLC buff
 			CancelDebuff: Canceled DLC debuff
-			PostND: Fire column deal 50% less damage
+			PostND: Can be only used after defeating the Nameless Deity
 		}
 
 		CodebreakerOptions.Mutant: Mutant
