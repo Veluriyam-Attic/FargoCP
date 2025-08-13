@@ -1,5 +1,30 @@
 Mods: {
 	ssm: {
+		Balance: {
+			Buff: "[c/00A36C:联动平衡调整：]"
+			//green
+			ReBalance: "[c/FFFF00:CSE平衡调整：]"
+			//yellow
+			Nerf: "[c/FF0000:联动平衡调整：]"
+			//red
+			DamageUP: "伤害提升 "
+			DamageDown: "伤害减少 "
+			VelUP: "弹幕速度增加 "
+			Homing: 武器弹幕能追踪敌人
+			CancelBuff: 取消 DLC 增益
+			CancelDebuff: 取消 DLC 减益
+			PostND: 火焰柱伤害降低 50%
+		}
+
+		CodebreakerOptions.Mutant: 突变体
+
+		ActiveSkills: {
+			MarstechEffect.DisplayName: Marstech Probe
+			DreadfireEffect.DisplayName: Dreadfire
+			CosmicCommanderEffect.DisplayName: Sniper's state
+			XenomiteEffect.DisplayName: Xenomite Clouds
+		}
+
 		SetBonus: {
 			// Monstrosity.SetBonus: WIP
 			/* TrueLumberjak.SetBonus:
@@ -10,15 +35,30 @@ Mods: {
 		}
 
 		Items: {
+			CalWingEffects: {
+				Xenomite: 当你穿戴整套异辉盔甲时，免疫异辉相关的减益
+				Asthral: 50% increased supression when wearing full set of Asthraltite armor
+				Aurora: ""
+				Devil: ""
+				Cryo: ""
+				Quasar: 15% increased thrower velocity and 10% increased crit chance
+				Flarium: You will be revived with full helath instead of 1/3
+				Despair:
+					'''
+					15% increased damage if Void Warden scale mail equipped.
+					20% increased damage reduction if Void Warden chestplate equipped.
+					'''
+			}
+
 			Lore: {
 				MonstrosityLore: {
 					Lore: What a calamity
-					DisplayName: Lore - Monstrosity
+					DisplayName: 魔神
 				}
 
 				EchdeathLore: {
 					Lore: What a calamity
-					DisplayName: Lore - Echdeath
+					DisplayName: 触之即死
 				}
 
 				DivergenttLore: {
@@ -28,22 +68,22 @@ Mods: {
 
 				AbomLore: {
 					Lore: What a calamity
-					DisplayName: Lore - Abominationn
+					DisplayName: 憎恶
 				}
 
 				MutantLore: {
 					Lore: What a calamity
-					DisplayName: Lore - Mutant
+					DisplayName: 突变体
 				}
 
-				AmalgamationnLore: {
-					Lore: What a calamity
-					DisplayName: Lore - Amalgamationn
+				AmalgamLore: {
+					// Lore: What a calamity
+					// DisplayName: Amalgam Lore
 				}
 
 				DeviLore: {
 					Lore: What a calamity
-					DisplayName: Lore - Deviantt
+					DisplayName: 戴薇安
 				}
 			}
 
@@ -52,7 +92,7 @@ Mods: {
 				Tooltip:
 					'''
 					增加3%移动速度
-					装备者在前进过程中跳跃会逐渐提升跳跃高度，最多提升五次
+					装备者在前进过程中跳跃会逐渐提升跳跃高度，最多提升5次
 					敌人死后有概率掉落巧克力蛋
 					蛋破碎后产生心和魔力
 					免疫坠落伤害
@@ -64,7 +104,7 @@ Mods: {
 				Tooltip:
 					'''
 					你的攻击有概率释放龙焰爆炸
-					获得龙爪项链和Disco音乐播放器的效果
+					获得Disco音乐播放器的效果
 					“由神话般的鳞片制成”
 					'''
 			}
@@ -84,8 +124,8 @@ Mods: {
 				Tooltip:
 					'''
 					暴击攻击会生成至多15颗暗影微粒
-					按下盔甲能力键会向光标位置释放所有存储的暗影微粒
-					获得恶魔之舌和鬼影塑像的效果
+					按下 [盔甲能力] 键会向光标位置释放所有存储的暗影微粒
+					获得黑暗之心、恶魔之舌和鬼影塑像的效果
 					“术士>巫师，望周知”
 					'''
 			}
@@ -104,14 +144,14 @@ Mods: {
 				Tooltip:
 					'''
 					增加15%伤害
-					获得水晶之眼面具、深渊贝壳和Rock音乐播放器的效果
+					获得水晶之眼面具和Rock音乐播放器的效果
 					“充满始源能量”
 					'''
 			}
 
 			StarblightFruit: {
-				DisplayName: Qliphoth Fruit
-				Tooltip: Grants extra accessory slot
+				DisplayName: 逆卡巴拉之果
+				Tooltip: 获得额外的饰品栏
 			}
 
 			PhantasmalEnchant: {
@@ -173,7 +213,7 @@ Mods: {
 			}
 
 			BotanistEnchant: {
-				DisplayName: 植物学家魔石
+				DisplayName: 植物学魔石
 				Tooltip:
 					'''
 					增加玩家获取的草药数量
@@ -184,7 +224,7 @@ Mods: {
 
 			ElderbarkEnchant: {
 				DisplayName: 古木魔石
-				Tooltip: 提高所有物品两点伤害
+				Tooltip: 提高所有物品2点伤害
 			}
 
 			DriftwoodEnchant: {
@@ -207,7 +247,7 @@ Mods: {
 			}
 
 			WayfarersEnchant: {
-				DisplayName: 远行者魔石
+				DisplayName: 远行魔石
 				Tooltip:
 					'''
 					击杀敌怪、打破罐子、挖掘矿石时获得至多4层增益
@@ -217,7 +257,7 @@ Mods: {
 			}
 
 			ApostleEnchant: {
-				DisplayName: 古翼信徒魔石
+				DisplayName: 古翼魔石
 				Tooltip:
 					'''
 					魂风指引着你，并给予你二段跳
@@ -229,7 +269,7 @@ Mods: {
 				DisplayName: 星界魔石
 				Tooltip:
 					'''
-					双击向上或向下键在光标位置部署一个能量场
+					双击 向上/向下 键在光标位置部署一个能量场
 					能量场存在5秒，并会增压所有经过能量场的远程弹幕
 					获得超重力靴的效果
 					'''
@@ -297,7 +337,7 @@ Mods: {
 					'''
 					对敌人造成伤害时会构建起泡泡盾
 					完整尺寸大小的泡泡盾对受到的下次攻击有着极高的伤害抗性
-					双击向上或向下键可以在短时间内在水中自由移动
+					双击 向上/向下 键可以在短时间内在水中自由移动
 					'''
 			}
 
@@ -305,14 +345,14 @@ Mods: {
 				DisplayName: 花岗岩魔石
 				Tooltip:
 					'''
-					在下落时，双击向上或向下键进行下砸践踏
+					在下落时，双击 向上/向下 键进行下砸践踏
 					撞击地面时会释放随高度变化的冲击波
 					获得心律防滑鞋和神射手手套的效果
 					'''
 			}
 
 			PrimalstoneEnchant: {
-				DisplayName: 擎元古石魔石
+				DisplayName: 古石魔石
 				Tooltip:
 					'''
 					近战和魔法攻击会造成痛苦无常减益
@@ -330,10 +370,10 @@ Mods: {
 			}
 
 			StreamSurferEnchant: {
-				DisplayName: 越浪者魔石
+				DisplayName: 越浪魔石
 				Tooltip:
 					'''
-					双击向上或向下键创造一个可驾驭的水龙卷来伤害敌人
+					双击 向上/向下 键创造一个可驾驭的水龙卷来伤害敌人
 					增加跳跃高度和下落速度
 					'''
 			}
@@ -342,7 +382,7 @@ Mods: {
 				DisplayName: 血庭魔石
 				Tooltip:
 					'''
-					双击向上或向下键献祭8%最大生命值，并发射一束暗魂矢，在半径范围内造成高额伤害
+					双击 向上/向下 键献祭8%最大生命值，并发射一束暗魂矢，在半径范围内造成高额伤害
 					获得可怖之舌和血染戒石的效果
 					'''
 			}
@@ -364,7 +404,7 @@ Mods: {
 					魔法攻击造成暗影焰效果
 					在夜晚提高8%魔法和远程伤害
 					附近的敌人和被攻击的敌人有几率受到连锁闪电的攻击
-					'Andrew Hulshult'
+					“Andrew Hulshult”
 					'''
 			}
 
@@ -372,7 +412,7 @@ Mods: {
 				DisplayName: 严寒魔石
 				Tooltip:
 					'''
-					双击向上或向下键在光标位置创造一面冰墙，此效果有8秒冷却时间
+					双击 向上/向下 键在光标位置创造一面冰墙，此效果有8秒冷却时间
 					获得严寒护膝的效果
 					'''
 			}
@@ -389,7 +429,7 @@ Mods: {
 			}
 
 			PainMongerEnchant: {
-				DisplayName: 苦痛散播者魔石
+				DisplayName: 苦痛散播魔石
 				Tooltip:
 					'''
 					生命值低于25%时，降低4点防御，但炎狱守卫会环绕着你
@@ -402,7 +442,7 @@ Mods: {
 				DisplayName: 熔渣暴君魔石
 				Tooltip:
 					'''
-					双击向上或向下键使所有哨兵释放火球，此效果有8秒冷却时间
+					双击 向上/向下 键使所有哨兵释放火球，此效果有8秒冷却时间
 					召唤魔法权杖为你而战
 					权杖不占用随从栏
 					'''
@@ -439,7 +479,7 @@ Mods: {
 					[i:ssm/ApostleEnchant] 魂风指引着你，并给予你二段跳
 					[i:ssm/ApostleEnchant] 魔法和远程攻击偶尔会产生羽毛来协同攻击
 					[i:ssm/MarbleChunkEnchant] 按“上”获得“神性之风”增益，允许你进行有限制的飞行，此效果有10秒冷却时间
-					[i:ssm/AstraliteEnchant] 双击向上或向下键在光标位置部署一个能量场
+					[i:ssm/AstraliteEnchant] 双击 向上/向下 键在光标位置部署一个能量场
 					[i:ssm/SeraphEnchant] 附近每有一名敌人，便会增加生命再生速度、近战攻速并降低6%魔力消耗
 					[i:ssm/RunicEnchant] 在身后留下危险的爆炸符文
 					'''
@@ -451,8 +491,8 @@ Mods: {
 					'''
 					[i:ssm/BismiteEnchant] 未受到攻击时会积蓄毒性，毒性充能后，攻击会释放剧毒爆炸
 					[i:ssm/CascadeEnchant] 对敌人造成伤害时会构建起有着极高的伤害抗性的泡泡盾
-					[i:ssm/GraniteChunkEnchant] 在下落时双击向上或向下键进行下砸践踏，撞击地面时会释放随高度变化的冲击波
-					[i:ssm/StreamSurferEnchant] 双击向上或向下键创造一个可驾驭的水龙卷来伤害敌人
+					[i:ssm/GraniteChunkEnchant] 在下落时双击 向上/向下 键进行下砸践踏，撞击地面时会释放随高度变化的冲击波
+					[i:ssm/StreamSurferEnchant] 双击 向上/向下 键创造一个可驾驭的水龙卷来伤害敌人
 					[i:ssm/SpiritEnchant] 魂灵会基于你当前生命值赋予你各种增益
 					[i:ssm/PrimalstoneEnchant] 近战和魔法攻击会造成痛苦无常减益
 
@@ -463,13 +503,13 @@ Mods: {
 				DisplayName: 冰疮之力
 				Tooltip:
 					'''
-					[i:ssm/BloodcourtEnchant] 双击向上或向下键献祭8%最大生命值,并发射一束暗魂矢，在半径范围内造成高额伤害
+					[i:ssm/BloodcourtEnchant] 双击 向上/向下 键献祭8%最大生命值,并发射一束暗魂矢，在半径范围内造成高额伤害
 					[i:ssm/CryoliteEnchant] 生成一个能减速附近敌人的冰环
 					[i:ssm/DuskEnchant] 指引道路的符文环绕着你
-					[i:ssm/FrigidEnchant] 双击向上或向下键在光标位置创造一面冰墙
+					[i:ssm/FrigidEnchant] 双击 向上/向下 键在光标位置创造一面冰墙
 					[i:ssm/MarksmanEnchant] 穿戴神射手盔甲时可以集中注意力，注意力集中时，你的下次攻击必定暴击
 					[i:ssm/PainMongerEnchant] 生命值低于25%时炎狱守卫会环绕着你, 大幅度增加魔法伤害并降低魔力消耗
-					[i:ssm/SlagTyrantEnchant] 双击向上或向下键使所有哨兵释放火球
+					[i:ssm/SlagTyrantEnchant] 双击 向上/向下 键使所有哨兵释放火球
 					'''
 			}
 
@@ -520,7 +560,7 @@ Mods: {
 					'''
 			}
 
-			LivingTwigEnchant: {
+			LivingWoodEnchant2: {
 				DisplayName: 生命木魔石
 				Tooltip:
 					'''
@@ -562,29 +602,43 @@ Mods: {
 			}
 
 			AddedEffects: {
-				// ThoriumColossus: Effect of Blast Shield
-				// CalDefender: Effects of Asgard's Valor
-				/* ThoriumUniverse:
+				ThoriumWorldshaper: 获得晶体魔石的效果
+				ThoriumBerserker: 获得暴雪袋的效果
+				ThoriumColossus: 获得爆炸盾和界元之庇护的效果
+				ThoriumSupersonic: 获得欧米伽核心的效果
+				CalDefender: 获得阿斯加德之英勇的效果
+				ThoriumThrower: 获得盗贼的钱袋子的效果
+				ThoriumThrower2: 你再也不会感到疲劳
+				ThoriumUniverse:
 					'''
-					Healing spells will heal 5 additional lifes
+					治疗法术会额外治疗5点生命值
+					获得
 					Effects of Support sash, Saving grace, Grave goods
-					Increase inspiration by 20
-					20% increased throwing velocity
-					''' */
-				/* SoARampart:
+					增加20点最大灵感值
+					提升20%投掷弹幕速度
 					'''
-					Effects of Celestial Shield
-					Only grants effects of Shield of Reflections when True Mode is enabled.
-					''' */
-				/* SoAColossus:
-					'''
-					Effects of Celestial Shield and Royal Guard
-					Only grants effects of Shield of Reflections when True Mode is enabled.
-					'''*/
-				//SoABerserker: Effects of Flora Fist
-				//SoASnipers: Your weapons don't require reloading
-				//SoASupersonic: Effects of Heart of the Plough, Advanced Dash Tech
-				//SoAWorldshaper: Effects of Rage Supressor, Celestial ring
+				SoARampart: Effects of Celestial Shield and Shield of Reflections
+				SoAColossus: Effects of Nightmare Blindfold, Shield of Reflections and Royal Guard
+				SoAArchWizard: Effects of Nuba's Blessing, Stone Of Resonance
+				SoABerserker: Effects of Flora Fist
+				SoASniper: Your weapons don't require reloading
+				SoASupersonic: Effects of Heart of the Plough, Advanced Dash Tech
+				SoAWorldshaper: Effects of Rage Suppressor, Celestial ring
+				SoAConjurist: Effects of Starstream Veil
+				SoAThrower: Effects of Dreadflame Emblem
+				HWJBerserker: 获得哲人王之石、指挥官的手套和神之手的效果
+				HWJSniper: 获得弩镜、梨栗熟了和击球手的效果
+				HWJStarSniper: 获得星星箭袋的效果
+				HWJConjurist: 获得圣洁发夹的效果
+				HWJArchWizard: 获得妙手回春和博学书签的效果
+				ClamThrower: 获得吸血鬼护身符的效果
+				ClamWorldshaper: 获得红色骰子的效果
+				ClamColossus: 获得血神之颅的效果
+				RedSupersonic: 获得疫染荆棘盾的效果
+				HWJSupersonic: 获得边行者和时针的效果
+				HWJColossus: 获得月球漫步和大师之盾的效果
+				RedColossus: 获得H.E.V套装的效果
+				Aeolus: Effects of Aeolus Boots
 			}
 
 			CalamitySoul: {
@@ -636,6 +690,7 @@ Mods: {
 					[i:FargowiltasSouls/MutantEye] 按下“炸弹”键时释放一圈幻影眼球，摧毁大多数敌对弹幕，突变炸弹有60秒的冷却时间
 					[i:FargowiltasSouls/MutantMask] 召唤会向周围的敌怪发射激光的幻影球
 					[i:FargowiltasSouls/MutantMask] 召唤幽灵憎恶与你一同战斗，你复活时会爆发出巨大的幻影死亡射线，增加20%武器使用速度
+					“永恒的胜利”
 					'''
 			}
 
@@ -648,6 +703,7 @@ Mods: {
 					[i:FargowiltasSouls/StyxCrown] 增加20%手持武器职业的伤害，免疫憎恶毒牙和憎恶驾到减益，召唤幽灵戴薇安为你而战
 					[i:FargowiltasSouls/StyxCrown] 攻击敌人以积蓄冥河能量，受伤时消耗冥河能量，减免一部分伤害,你的攻击能造成憎恶毒牙减益
 					[i:FargowiltasSouls/StyxCrown] 双击DOWN以消耗能量，释放跟踪镰刀，能量蓄满时会释放出冥狱魔剑
+					“为什么这场战斗比上次更难”
 					'''
 			}
 
@@ -670,8 +726,9 @@ Mods: {
 				DisplayName: 真·魔神之颅
 				Tooltip:
 					'''
-					增加100%伤害、33%暴击率和700点护甲穿透
-					大幅增加生命恢复速度
+					增加200%伤害和100%暴击率
+					增加20个最大仆从栏和哨兵栏，并增加1000点护甲穿透
+					增加500点最大生命值
 					'''
 			}
 
@@ -679,9 +736,9 @@ Mods: {
 				DisplayName: 真·魔神之靴
 				Tooltip:
 					'''
-					增加100%伤害和20%暴击率
-					增加50%移动速度和20%攻击速度
-					以及增加70点护甲穿透
+					增加200%伤害和100%暴击率
+					提升50%移动速度和100%攻击速度
+					增加500点最大生命值
 					'''
 			}
 
@@ -689,10 +746,11 @@ Mods: {
 				DisplayName: 真·魔神之躯
 				Tooltip:
 					'''
-					增加150%伤害和20%暴击率
-					增加20个仆从栏位和哨兵栏
-					最大生命值和魔力值增加1000
-					减少40%魔力消耗，25%概率不消耗弹药
+					增加300%伤害和100%暴击率
+					大幅提升生命恢复速度
+					增加100%伤害减免
+					最大生命值和魔力值增加1000点
+					减少100%魔力消耗，25%概率不消耗弹药
 					'''
 			}
 
@@ -747,6 +805,7 @@ Mods: {
 					增加30%手持武器职业伤害和15%该职业暴击率
 					增加20点护甲穿透
 					降低20点防御力、10%最大生命值和15%伤害减免
+					“世界……以你为中心旋转”
 					'''
 			}
 
@@ -796,7 +855,10 @@ Mods: {
 				/* Tooltip:
 					'''
 					'Make Soran great again'
-					WIP
+					Makes enemies less likely to hit you
+					You deal 125% more damage but your defense is reduced by 25% in sniper state
+					This state lasts for 15 seconds and after you will deal 25% less damage but with 30% increased defense 
+					Getting hit while in sniper state will instantly end it
 					''' */
 			}
 
@@ -876,12 +938,14 @@ Mods: {
 				/* Tooltip:
 					'''
 					'Who needs magic when you have technology?'
-					WIP
+					Pressing the ability key sends out a homing martian probe that explodes into multiple damaging shrapnels
+					Shrapnels stay on grounds/platforms and disappear after a few seconds
+					When being damaged, there is a 50% chance for 2-4 shrapnels to fall off your armor
 					''' */
 			}
 
 			NebulousApprenticeEnchant: {
-				// DisplayName: Nebulous Apprentice Enchantment
+				// DisplayName: Saving Grace Enchantment
 				/* Tooltip:
 					'''
 					'Nuba would be proud'
@@ -895,7 +959,7 @@ Mods: {
 				/* Tooltip:
 					'''
 					'Subdued Serenity'
-					Depending on the wind speed all speed stats are increased by 2% to 5%
+					Depending on the wind speed all speed stats are increased by 5%-10%
 					''' */
 			}
 
@@ -904,7 +968,7 @@ Mods: {
 				/* Tooltip:
 					'''
 					'It's time to shine'
-					WIP
+					When throwing a weapon enemies are pulled closer to it by gravity 
 					''' */
 			}
 
@@ -913,15 +977,11 @@ Mods: {
 				/* Tooltip1:
 					'''
 					'I'm da spaceman!'
-					Pressing the ability key sends out a falling satellite that explodes into multiple damaging shrapnels
+					Pressing the ability key sends a falling satellite from sky that explodes into multiple damaging shrapnels
 					Shrapnels stay on grounds/platforms and disappear after a few seconds
 					When being damaged, there is a 33% chance for 1-2 shrapnels to fall off your armor
 					''' */
-				/* Tooltip:
-					'''
-					'I'm da spaceman!'
-					WIP
-					''' */
+				// Tooltip: ""
 			}
 
 			StellarPriestEnchant: {
@@ -959,11 +1019,11 @@ Mods: {
 					'''
 					[i:ssm/BlightboneEnchant] Chance for a frosted bone to support your attack
 					[i:ssm/FrosthunterEnchant] Bones explode into frost explosion and freeze enemies
-					[i:ssm/PraireEnchant] Bones damage and velocity affected by speed of wind
+					[i:ssm/PrairieEnchant] Bones damage and velocity affected by speed of wind
 					[i:ssm/LapisEnchant] Being near frost explosion grants max lapis speed and Defense
-					[i:ssm/CairoCrusaderEnchant] Frost Explosion can enevelop player in blizzar that can ignore attack
+					[i:ssm/CairoCrusaderEnchant] Frost Explosion can enevelop player in blizzard that can ignore attack
 					':HeyMF:'
-					'''*/
+					''' */
 			}
 
 			GenerationsForce: {
@@ -975,48 +1035,35 @@ Mods: {
 					[i:ssm/EerieEnchant] After shield breaks for next 10 seconds you will release eerie pulses that buff minions and allies
 					[i:ssm/MarstechEnchant]
 					'Through all this world's years, none have seen anything quite like you'
-					'''*/
+					''' */
 			}
 
 			SoranForce: {
 				// DisplayName: Soran Force
 				/* Tooltip:
 					'''
-					[i:ssm/BlazingBruteEnchant] [i:ssm/CosmicCommanderEnchant] Marks bosses with crosshair
-					[i:ssm/BlazingBruteEnchant] [i:ssm/CosmicCommanderEnchant] The longer you hit in crosshairs, the more damsge boost you get
+					[i:ssm/CosmicCommanderEnchant] In sniper state you deal 300% more damage but defense is reduced by 15%
+					[i:ssm/BlazingBruteEnchant] Every time you kill an enemy in sniper state you gain a 75% increase this stacks up to 5 times
 					[i:ssm/QuasarEnchant] [i:ssm/FallenPrinceEnchant] Hitting enemies have chance to reate quasar that pull weak enemies
 					[i:ssm/FallenPrinceEnchant] [i:ssm/NebulousApprenticeEnchant] Upon death you will be revived in supernova explosion
 					[i:ssm/FallenPrinceEnchant] [i:ssm/NebulousApprenticeEnchant] After respawning Shadow of Nuba will protect you for few seconds
 					[i:ssm/StellarPriestEnchant] Minions have a chance to summon starstream worms
 					[i:ssm/NebulousApprenticeEnchant] Attacking enemies release buff wisps which can be picked up for different stacking buffs
 					'The true power of the Soraniti'
-					'''*/
-			}
-
-			SyrainForce: {
-				// DisplayName: Syran Force
-				/* Tooltip:
-					'''
-					[i:ssm/VoidWardenEnchant] [i:ssm/AsthraltiteEnchant] Grants ring of void lanterns that decrease agression and shoot enemies
-					[i:ssm/VoidWardenEnchant] Hitting enemy inflict Fear that makes them attack other enemies
-					[i:ssm/FlariumEnchant] Lanterns sometimes spur abyssal flame geysers
-					[i:ssm/VulcanReaperEnchant] If lanterns kill enemy while any boss active your boss damage increases
-					[i:ssm/ExitumLuxEnchant] Attacking with relic weapon grants 20% damage buff
-					'Dragon Rage empowers you, and encourages you to go on'
-					'''*/
+					''' */
 			}
 
 			SoASoul: {
 				// DisplayName: Soul of Two Realms
 				/* Tooltip:
 					'''
-					[i:ssm/SyrianForce] Gain void lanterns ring that can spur gaysers, buffs relic weapons, increases boss damage if enemy killed
-					[i:ssm/SoranForce] Marks bosses with crosshair that boost your damage, creates quasars when hitting enemy, supernova revival
+					[i:ssm/SyranForce] Gain void lanterns ring that can spur gaysers, buffs relic weapons, increases boss damage if enemy killed
+					[i:ssm/SoranForce] Sniper state ability, creates quasars when hitting enemy, supernova revival
 					[i:ssm/SoranForce] Release buff wisps whan attacking, minions summon starstream worms
 					[i:ssm/GenerationsForce] Aura inflicting dreadfire, bismuth crystals that release eerie pulses when broken, 
 					[i:ssm/FoundationsForce] Blightbone support, bones explode and grant lapis shield and speed, envelop player in blizzard
 					'Two worlds, now embodied as one'
-					'''*/
+					''' */
 			}
 
 			OverloadCoznix: {
@@ -1069,7 +1116,7 @@ Mods: {
 				Tooltip:
 					'''
 					增加18%音波伤害
-					增加10%音波演奏速度
+					增加5%音波演奏速度
 					增加5%音波暴击率
 					“这只是个开始……”
 					'''
@@ -1087,7 +1134,7 @@ Mods: {
 			}
 
 			SlingerEssence: {
-				// DisplayName: Slinger Essence
+				// DisplayName: Slinger's Essence
 				/* Tooltip:
 					'''
 					18% increased thrower damage
@@ -1101,16 +1148,12 @@ Mods: {
 				DisplayName: 天籁之魂
 				Tooltip:
 					'''
-					增加30%音波伤害
+					增加25%音波伤害
 					增加20%音波演奏速度
 					增加10%音波暴击率
 					增加20点最大灵感值
-					打击乐器暴击会多造成10%伤害
-					打击乐器暴击会短暂眩晕敌怪
-					管乐器现在会试图快速跟踪敌怪
-					如果攻击已经能跟踪敌怪，它的速度会变得更快
-					弦乐器弹幕会额外反弹5次
-					铜管乐器暴击会释放一阵穿透性能量
+					获得界元音箱和金属弱音器的效果
+					获得数码调谐器、史诗吹口和吉他拨爪的效果
 					“一音一世界，一韵一华章”
 					'''
 			}
@@ -1119,15 +1162,12 @@ Mods: {
 				DisplayName: 圣使之魂
 				Tooltip:
 					'''
-					增加30%光辉伤害
+					增加25%光辉伤害
 					增加20%治疗速度和光辉施法速度
 					增加10%光辉暴击率
-					治疗法术会额外治疗40点生命值
-					指向生命值最少的队友
-					治疗队友会增加你的治疗速度和移动速度并提升他们的防御和生命恢复速度
-					饮用治疗药水后，所有附近玩家会回复25生命和50魔力并使你的治疗加成增加5点
-					使你和附近队友受到的伤害降低10%
-					附近队友死亡时会掉落灵魂能量微粒
+					治疗法术会额外治疗5点生命值
+					获得支援腰带、救世恩典和灵魂庇护的效果
+					获得医疗包的效果
 					“救死扶伤，医者仁心”
 					'''
 			}
@@ -1141,18 +1181,6 @@ Mods: {
 					获得飞镖袋的效果
 					“遮天蔽日，席卷八荒”
 					'''
-			}
-
-			BerserkerEnchant: {
-				// DisplayName: Berserker Enchantment
-				/* Tooltip:
-					'''
-					'I'd rather fight for my life than live it'
-					Attack speed is increased by 5% at every 25% segment of life
-					Fire surrounds your armour and melee weapons
-					Enemies that you set on fire or singe will take additional damage over time
-					Effects of Spring Steps, Slag Stompers, Molten Spear Tip, and Rapier Badge
-					''' */
 			}
 
 			BiotechEnchant: {
@@ -1189,7 +1217,7 @@ Mods: {
 				DisplayName: 天界魔石
 				Tooltip:
 					'''
-					按下盔甲能力键会消耗150魔力在你的光标周围召唤一个大型光环
+					按下 [盔甲能力] 键会消耗150魔力在你的光标周围召唤一个大型光环
 					光环会提高队友的进攻和防御能力，并增加光环内敌人受到的伤害
 					“和谐温暖的能量拥抱着你”
 					'''
@@ -1220,8 +1248,8 @@ Mods: {
 				DisplayName: 极寒魔石
 				Tooltip:
 					'''
-					你的攻击会冻结敌怪2秒
-					一个冰精灵环绕着你，每经过一段时间便会冻结附近的敌人
+					你的魔法攻击会冻结敌怪2秒
+					一个冰光环环绕着你，冻结待在其中太久的敌怪
 					获得遁蛛冰皮和暴雪袋的效果
 					“是什么结束了大灾难？冰河时代！”
 					'''
@@ -1231,8 +1259,9 @@ Mods: {
 				DisplayName: 赛博魔石
 				Tooltip:
 					'''
-					按下盔甲能力键会在4种状态间切换
-					获得自动调谐器、Metal音乐播放器和Diss曲目的效果
+					2个赛博科技球围绕你转，可抵御弹幕
+					科技球被摧毁后随机赋予 Ⅲ 级咒音增幅
+					每个科技球在1分钟后重构
 					“秦安锐舞？科技锐舞！”
 					'''
 			}
@@ -1278,8 +1307,7 @@ Mods: {
 					'''
 					你的靴子以不真实的频率振动，大幅增加基础移动速度
 					移动时你的近战伤害和暴击率增加
-					你的攻击有概率释放龙焰爆炸
-					获得震地靴、龙爪项链、Disco音乐播放器和咒炎连枷核心的效果
+					获得震地靴和咒炎连枷核心的效果
 					“充满该死的灵魂”
 					'''
 			}
@@ -1288,7 +1316,7 @@ Mods: {
 				DisplayName: 织梦魔石
 				Tooltip:
 					'''
-					按下盔甲能力键会消耗200魔力并扭曲现实结构
+					按下 [盔甲能力] 键会消耗400魔力并扭曲现实结构
 					敌怪会被大幅减速且受到所有来源的伤害增加15%
 					队友会大幅增加移动速度和攻击速度
 					并为他们把即将到来的非致命伤害转化为治疗
@@ -1337,7 +1365,7 @@ Mods: {
 				DisplayName: 血肉魔石
 				Tooltip:
 					'''
-					受伤时伤害敌怪有概率掉落肉，收集肉会恢复生命并获得伤害加成
+					连续命中敌怪有概率掉落肉，收集肉会恢复生命并获得伤害加成
 					获得吸血鬼试剂的效果
 					“与你的身体共生”
 					'''
@@ -1371,7 +1399,6 @@ Mods: {
 					获得狩猎、危险感和勘探药剂的效果
 					你现在能一次挖掘整个矿脉
 					获得水晶矛尖的效果
-
 					'''
 			}
 
@@ -1380,7 +1407,7 @@ Mods: {
 				Tooltip:
 					'''
 					免疫高温和敌怪击退，但你的移动速度大幅降低
-					获得岩石之心的效果
+					获得岩石之心和动能转换装置的效果
 					“防御性能量”
 					'''
 			}
@@ -1439,7 +1466,7 @@ Mods: {
 			}
 
 			LifeBinderEnchant: {
-				DisplayName: 光复魔石
+				DisplayName: 缚生魔石
 				Tooltip:
 					'''
 					治疗队友将会在短时间内增加他们50点最大生命值
@@ -1477,8 +1504,8 @@ Mods: {
 				DisplayName: 地脉魔石
 				Tooltip:
 					'''
-					每失去25%生命值获得15%伤害减免
-					低于50%生命值时伤害减免达到最大30%
+					每失去25%生命值获得6%伤害减免
+					低于25%生命值时伤害减免达到最大18%
 					获得黑曜石鳞片和沙海穿梭者头冠的效果
 					“坚如磐石”
 					'''
@@ -1488,7 +1515,7 @@ Mods: {
 				DisplayName: 大师魔石
 				Tooltip:
 					'''
-					按下盔甲能力键召唤一个陨落合唱团
+					按下 [盔甲能力] 键召唤一个陨落合唱团
 					它们会自动向附近的敌怪发射弹幕
 					获得总谱、节拍器和指挥棒的效果
 					“贝多芬再世”
@@ -1582,7 +1609,7 @@ Mods: {
 				Tooltip:
 					'''
 					魔法攻击会造成严重的烧伤并伤害附近所有敌怪
-					按下盔甲能力键释放出熔渣之力的回声
+					按下 [盔甲能力] 键释放出熔渣之力的回声
 					获得等离子护盾发生器的效果
 					“你的熔岩凝视足以令人惊骇”
 					'''
@@ -1594,8 +1621,8 @@ Mods: {
 					'''
 					增加灵感音符掉落数量
 					为附近的队友给予一个随机的Ⅰ级咒音增幅
-					按下盔甲能力键会让你获得无限的灵感值并大幅增加音波伤害和演奏速度
-					同时会用每种Ⅲ级咒音增幅超载附近的队友15秒
+					按下 [盔甲能力] 键会让你获得无限的灵感值并大幅增加音波伤害和演奏速度
+					同时会用每种 Ⅲ 级咒音增幅超载附近的队友15秒
 					这个效果有一分钟冷却时间
 					“你的歌声激励一支军队，你的天赋不输任何一人”
 					'''
@@ -1608,7 +1635,7 @@ Mods: {
 					治疗药水治疗量增加50%
 					每5秒你会生成至多3个神圣十字架
 					在使用治疗法术时会消耗1个十字架而不是魔力
-					获得业果之握的效果
+					获得业果之握的效果	
 					“闪烁着令人舒适的力量”
 					'''
 			}
@@ -1636,7 +1663,7 @@ Mods: {
 				DisplayName: 掠星魔石
 				Tooltip:
 					'''
-					拥有的每个独特的咒音将增幅你：
+					拥有的每个独特的咒音增幅你将获得：
 					5%音波伤害
 					2%移动速度
 					2%灵感值再生
@@ -1713,7 +1740,7 @@ Mods: {
 					'''
 					远程暴击会释放一堆泡沫，减速附近敌怪
 					4次非暴击后下次远程攻击会是造成150%伤害的小暴击
-					获得哥布林战盾和琵琶鱼球碗的效果
+					获得琵琶鱼球碗的效果
 					“不只是为了捕鱼”
 					'''
 			}
@@ -1722,7 +1749,7 @@ Mods: {
 				DisplayName: 洪流魔石
 				Tooltip:
 					'''
-					按下盔甲能力键将你包裹在密不透风的泡泡中
+					按下 [盔甲能力] 键将你包裹在密不透风的泡泡中
 					泡泡生效时，会将所有受到的伤害转化为治疗
 					每半秒钟提供一个漂浮球
 					每颗球会增加你的防御并使你下次非暴击伤害造成一次小暴击
@@ -1737,14 +1764,14 @@ Mods: {
 				Tooltip:
 					'''
 					按下up翻转重力
-					翻转时伤害增加12%
+					翻转时远程伤害增加15%
 					获得注视者之凝和注视者之镜的效果
 					“大佬们为什么我人物倒立过来了”
 					'''
 			}
 
 			WhisperingEnchant: {
-				DisplayName: 低语者魔石
+				DisplayName: 低语魔石
 				Tooltip:
 					'''
 					你会偶尔产生一根深渊能量触手攻击附近敌怪
@@ -1777,7 +1804,7 @@ Mods: {
 				Tooltip:
 					'''
 					消耗魔力的40%会存储为能量，能量值上限为最大魔力值的2倍
-					按下盔甲能力键会消耗当前能量，并回复该能量值100%的魔力值和10%的生命值
+					按下 [盔甲能力] 键会消耗当前能量，并回复该能量值100%的魔力值和10%的生命值
 					单次最多消耗50%能量值
 					“降于凡世，来自圣堂”
 					'''
@@ -1820,9 +1847,10 @@ Mods: {
 				Tooltip:
 					'''
 					获得丝绸、猎魂、暗影大师、织梦者和恐惧盔甲的套装奖励
-					获得工匠的聚焦项链、工匠的护盾、忍者魔符和工匠的火箭靴的效果
-					获得震地靴、咒炎连枷核心、心灵之火和全知水晶球的效果
-					“从冥府中窥见末日”
+					获得工匠的聚焦项链、工匠的护盾和工匠的火箭靴的效果
+					获得震地靴、咒炎连枷核心和全知水晶球的效果
+					获得恶魔之舌、鬼影塑像、心灵之火和忍者魔符的效果
+					“从冥府中窥见末日……”
 					'''
 			}
 
@@ -1893,7 +1921,7 @@ Mods: {
 					获得巫妖、瘟疫医生和白矮星盔甲的套装奖励
 					获得青铜、真菌、飞羽和绿龙盔甲的套装奖励
 					获得奥林匹克圣火、皇家彩蛋和英灵的反击之盾的效果
-					获得斯巴达凉鞋、龙爪项链、Disco音乐播放器和魂匣的效果
+					获得斯巴达凉鞋、Disco音乐播放器和魂匣的效果
 					“神圣丰饶的未来一瞥”
 					'''
 			}
@@ -1948,7 +1976,8 @@ Mods: {
 				Tooltip:
 					'''
 					获得地狱领主的聚焦项链、小型聚变发生器.神庙蜥蜴之尾、蛇之盾和代谢药的效果
-					获得怪物护符、巫咒护符、无瑕之蛹和魔戒的效果
+					获得怪物护符、巫咒护符、无瑕之蛹、生存者披风和魔戒的效果
+					获得蒸汽守卫之表和水晶蝎的效果
 					“你仿佛感受到了它散出的能量”
 					'''
 			}
@@ -1974,17 +2003,8 @@ Mods: {
 			}
 
 			GtTETFinal: {
-				Tooltip:
-					'''
-					盗贼武器的弹幕会在其飞行轨迹上留下纳米刀刃
-					潜伏攻击在击中敌人时会释放纳米光束和火花
-					潜伏攻击会附带15护甲穿透、额外造成5%伤害并为你回复2点生命值
-					增加20%盗贼伤害和25%盗贼弹幕速度
-					执行潜伏攻击后使非潜伏攻击获得12%暴击率加成
-					刺暴击加成会在5秒内衰减
-					复制你25%的盗贼伤害 //改为投掷伤害 伤害为20%
-					'''
-				DisplayName: 投手大师指南：终卷
+				Tooltip: 无效果仅与安装 WHummus' Balancing 和 诸神黄昏：炼狱蚀光 时才存在
+				DisplayName: 已移除
 			}
 
 			DemonShadeEnchant: {
@@ -2065,7 +2085,7 @@ Mods: {
 					'''
 					增加20%真近战伤害，免疫冰冻减益
 					真近战伤害造成霜火减益
-					按下 盔甲能力键 创建一个可以格挡的冰盾
+					按下 [激活饰品格挡] 键创建一个可以格挡的冰盾
 					格挡失败会增加冷却时间
 					'''
 			}
@@ -2082,8 +2102,8 @@ Mods: {
 			}
 
 			SyranCraftingStationItem: {
-				//Tooltip: Counts as every crafting station from Shadows of Abaddon
-				//DisplayName: Syrus Workshop
+				// Tooltip: Counts as every crafting station from Shadows of Abaddon
+				// DisplayName: Syrus Workshop
 			}
 
 			MutantsForgeItem: {
@@ -2293,7 +2313,7 @@ Mods: {
 				Tooltip:
 					'''
 					增加22%投掷伤害
-					增加15%投掷弹幕速度
+					提升15%投掷弹幕速度
 					增加10%投掷暴击率和投掷速度
 					增加疲劳值回复速度和最大疲劳值
 					获得亡者补丁和海盗钱包的效果
@@ -2323,7 +2343,7 @@ Mods: {
 			}
 
 			MutagenThrowing: {
-				// DisplayName: Mutagen Throwing
+				// DisplayName: Thrower Mutagen
 				/* Tooltip:
 					'''
 					20% increased throwing damage
@@ -2339,7 +2359,7 @@ Mods: {
 					10% increased throwing crit chance and attack speed
 					10% increased throwing velocity
 					''' */
-				// DisplayName: Mutagen Throwing
+				// DisplayName: Thrower Mutagen
 			}
 
 			MutagenThrowingCal: {
@@ -2347,7 +2367,7 @@ Mods: {
 					'''
 					增加20%投掷伤害
 					增加10%投掷暴击率和投掷速度
-					增加10%投掷物速率
+					提升10%投掷弹幕速度
 					'''
 				DisplayName: 盗贼诱变剂
 			}
@@ -2371,6 +2391,7 @@ Mods: {
 					幽灵猪鲨还会造成突变啃啄，禁止敌人恢复
 					将小猪鲨升级为小猪鲨EX
 					“狂风在咆哮”
+					永恒
 					'''
 				DisplayName: 飓风鱼鳍
 			}
@@ -2440,8 +2461,7 @@ Mods: {
 				Tooltip:
 					'''
 					[i:Polarities/FlawlessMechMask] 右键点击可暂时进入机械暴乱形态，会增强盔甲的攻击能力
-					[i:Polarities/FlawlessMechMask] 机械暴乱有较短的冷却时间，但在手持武器时冷却时间不会减少
-					（有bug）
+					[i:Polarities/FlawlessMechMask] 机械暴乱有较短的冷却时间，但在手持武器时冷却时间不会减少（有bug）
 					'''
 				DisplayName: 机械魔石
 			}
@@ -2640,7 +2660,7 @@ Mods: {
 				DisplayName: 真·伐木工身体
 			}
 
-			ShtunTerminus: {
+			CSETerminus: {
 				DisplayName: 终末石
 				Tooltip: 激活BossRush模式，如果启用众神之怒会召唤无名光神
 			}
@@ -2667,12 +2687,12 @@ Mods: {
 					''' */
 			}
 
-			MonstrocityBag: {
+			MonstrosityBag: {
 				DisplayName: 宝藏袋（魔神）
 				Tooltip: <right>打开
 			}
 
-			MonstrocityRelicItem: {
+			MonstrosityRelicItem: {
 				DisplayName: 魔神圣物
 				// Tooltip: ""
 			}
@@ -2693,17 +2713,17 @@ Mods: {
 			}
 
 			AbominableStorageUnitItem: {
-				// DisplayName: Abominable Storage Unit Item
+				// DisplayName: Abominable Storage Unit
 				// Tooltip: ""
 			}
 
 			DeviatingStorageUnitItem: {
-				// DisplayName: Deviating Storage Unit Item
+				// DisplayName: Deviating Storage Unit
 				// Tooltip: ""
 			}
 
 			EternalStorageUnitItem: {
-				// DisplayName: Eternal Storage Unit Item
+				// DisplayName: Eternal Storage Unit
 				// Tooltip: ""
 			}
 
@@ -2723,17 +2743,8 @@ Mods: {
 			}
 
 			MacroverseSoul: {
-				//Tooltip: ""
-				//DisplayName: Macroverse Soul
-			}
-
-			LivingWoodEnchant2: {
-				DisplayName: 生命木魔石
-				Tooltip:
-					'''
-					免疫中毒减益
-					增加3%召唤伤害
-					'''
+				Tooltip: ""
+				DisplayName: Macroverse Soul
 			}
 
 			Politician: {
@@ -2812,13 +2823,8 @@ Mods: {
 			}
 
 			SwarmDeactivatorDebug: {
-				// Tooltip: ""
-				// DisplayName: Swarm Deactivator Debug
-			}
-
-			SyrianForce: {
-				//DisplayName: Syran Force
-				//Tooltip: ""
+				Tooltip: ""
+				DisplayName: Swarm Deactivator Debug
 			}
 
 			AquaQuiver: {
@@ -3302,15 +3308,109 @@ Mods: {
 			}
 
 			ShadowEnergy: {
-				DisplayName: Shadow Energy
+				DisplayName: 暗影能量
 				Tooltip: ""
+			}
+
+			Pucheblade: {
+				DisplayName: Pucheblade
+				Tooltip: ""
+			}
+
+			TruffleWormEX: {
+				DisplayName: 松露虫EX
+				Tooltip: ""
+			}
+
+			BossWatcher: {
+				DisplayName: Boss Watcher
+				Tooltip: ""
+			}
+
+			FutureSigil: {
+				DisplayName: 来世符
+				Tooltip: ""
+			}
+
+			GunterasFruit: {
+				DisplayName: 世纪枪果
+				Tooltip: ""
+			}
+
+			EternalScale: {
+				DisplayName: 永恒鳞片
+				Tooltip: ""
+			}
+
+			tModLoadiumBar: {
+				DisplayName: t Mod Loadium Bar
+				Tooltip: ""
+			}
+
+			SyranForce: {
+				DisplayName: Syran Force
+				Tooltip:
+					'''
+					[i:ssm/VoidWardenEnchant] [i:ssm/AsthraltiteEnchant] Grants ring of void lanterns that decrease agression and shoot enemies
+					[i:ssm/VoidWardenEnchant] Hitting enemy inflict Fear that makes them attack other enemies
+					[i:ssm/FlariumEnchant] Lanterns sometimes spur abyssal flame geysers
+					[i:ssm/VulcanReaperEnchant] If lanterns kill enemy while any boss active your boss damage increases
+					[i:ssm/ExitumLuxEnchant] Attacking with relic weapon grants 20% damage buff
+					'Dragon Rage empowers you, and encourages you to go on'
+					'''
+			}
+
+			BardSigil: {
+				DisplayName: Bard Sigil
+				Tooltip:
+					'''
+					25% increased bard Damage
+					10% increased bard crit chance
+					'''
+			}
+
+			HealerSigil: {
+				DisplayName: Healer Sigil
+				Tooltip:
+					'''
+					25% increased radiant Damage
+					10% increased radiant crit chance
+					'''
+			}
+
+			HealerBadge: {
+				Tooltip:
+					'''
+					增加20%光辉伤害
+					增加5%光辉暴击率
+					'''
+				DisplayName: 圣使徽章
+			}
+
+			BardBadge: {
+				Tooltip:
+					'''
+					增加20%音波伤害
+					增加5%音波暴击率
+					'''
+				DisplayName: 吟游诗人徽章
 			}
 		}
 
 		Buffs: {
 			ChtuxlagorInferno: {
-				// DisplayName: Chtuxlagor Inferno
-				// Description: OOOHHHH NOOOO YOU dAed
+				DisplayName: Chtuxlagor Inferno
+				Description: OOOHHHH NOOOO YOU dAed
+			}
+
+			SniperBuff: {
+				DisplayName: Sniper Focus
+				Description: +125% damage, -25% defense, reduced enemy attention
+			}
+
+			SniperCooldownBuff: {
+				DisplayName: Sniper Fatigue
+				Description: +30% defense, -25% damage
 			}
 
 			MonstrousMaul: {
@@ -3325,12 +3425,12 @@ Mods: {
 
 			YharimBuff: {
 				// DisplayName: Yharim Buff
-				// Description: Your power rival with Godseeker's
+				// Description: Your power rivals the Godseeker's
 			}
 
 			DeviSoulBuff: {
 				// DisplayName: Deviantt Soul Buff
-				// Description: Spectral Deviantt protects you
+				// Description: The Spectral Deviantt protects you
 			}
 
 			MutantSoulBuff: {
@@ -3348,8 +3448,8 @@ Mods: {
 				// Description: Little Yharon is fighting for you.
 			}
 
-			MonstrocityPresenceBuff: {
-				// Description: No soul toggles, no eternity crits, no escape.
+			MonstrosityPresenceBuff: {
+				// Description: No soul toggles, no debuff immunities, no eternity crits, no escape.
 				// DisplayName: Monstrosity Presence
 			}
 
@@ -3374,23 +3474,45 @@ Mods: {
 			}
 
 			RivalBuff: {
-				//Description: ech
-				//DisplayName: Rival Buff
+				// Description: ech
+				// DisplayName: Rival Buff
 			}
 
 			SoulStrength: {
-				//DisplayName: Soul Strength
-				//Description: Your soul is empowered!
+				// DisplayName: Soul Strength
+				// Description: Your soul is empowered!
 			}
 
 			EnrageCal: {
-				//Description: Enrage
-				//DisplayName: Enrage
+				Description: 魔影激怒
+				DisplayName: 激怒
+			}
+
+			TheRichBuff: {
+				DisplayName: The Rich Buff
+				Description: Mods.ssm.Buffs.TheRichBuff.Description
+			}
+
+			Moonified: {
+				DisplayName: Moonified
+				Description: Mods.ssm.Buffs.Moonified.Description
+			}
+
+			Gun: {
+				DisplayName: Gun
+				Description: Mods.ssm.Buffs.Gun.Description
+			}
+
+			FearBuff: {
+				DisplayName: Fear Buff
+				Description: Mods.ssm.Buffs.FearBuff.Description
 			}
 		}
 
 		NPCs: {
 			Monstrosity: {
+				DisplayName: 魔神
+
 				TownNPCMood: {
 					Content: 我很满意
 					NoHome: 我讨厌没有家
@@ -3398,22 +3520,18 @@ Mods: {
 					LoveSpace: 我很享受独处的时光
 					DislikeCrowded: 这里太挤了，我不喜欢
 					HateCrowded: 有时候人多也不是一件好事
-					LikeNPC_Princess: 我喜欢{NPCName}.
-					Princess_LovesNPC: 我喜欢{NPCName}.
 					LikeNPC: 我喜欢{NPCName}.
 					DislikeNPC: 我不喜欢{NPCName}.
+					LikeNPC_Princess: 我喜欢{NPCName}.
+					Princess_LovesNPC: 我喜欢{NPCName}.
 				}
-
-				DisplayName: 魔神
-				DisplayNameApril: Уёбище
-				Census.SpawnCondition: 在月亮领主击败后生成
 			}
 
 			DukeFishronEX: {
 				DisplayName: 猪龙鱼公爵EX
 
 				BossChecklistIntegration: {
-					SpawnInfo: 在海边使用海洋诅咒
+					SpawnInfo: 使用宇宙量子计算机
 					DespawnMessage: ""
 					KilledAllMessage: ""
 				}
@@ -3423,7 +3541,7 @@ Mods: {
 				DisplayName: 触之即死
 
 				BossChecklistIntegration: {
-					SpawnInfo: 使用突变锻炉
+					SpawnInfo: 使用宇宙量子计算机
 					DespawnMessage: ""
 					KilledAllMessage: ""
 				}
@@ -3434,14 +3552,14 @@ Mods: {
 				DisplayNameApril: 伐木工
 
 				BossChecklistIntegration: {
-					SpawnInfo: 使用突变锻炉
+					SpawnInfo: 使用宇宙量子计算机
 					DespawnMessage: ""
 					KilledAllMessage: ""
 				}
 			}
 
-			MutantIllusion.DisplayName: Monstrosity
-			//MutantAuraOfSupression.DisplayName: Mutant Aura Of Supression
+			MutantIllusion.DisplayName: 魔神
+			// MutantAuraOfSupression.DisplayName: Mutant Aura Of Supression
 
 			MonocleCat: {
 				DisplayName: Monocle Cat
@@ -3458,15 +3576,28 @@ Mods: {
 					Princess_LovesNPC: I like {NPCName}.
 				}
 			}
+
+			CeilingOfMoonLord.DisplayName: Ceiling Of Moon Lord
+			CeilingOfMoonLordEye.DisplayName: Ceiling Of Moon Lord Eye
+			CeilingOfMoonLordFace.DisplayName: Ceiling Of Moon Lord Face
+			GunCelebration.DisplayName: Gun Celebration
+			GunMagnum.DisplayName: Gun Magnum
+			GunQuad.DisplayName: Gun Quad
+			GunShotgun.DisplayName: Gun Shotgun
+			GunSniper.DisplayName: Gun Sniper
+			Guntera.DisplayName: Guntera
+			GunteraHook.DisplayName: Guntera Hook
+			GunteraTentacle.DisplayName: Guntera Tentacle
+			GunUzi.DisplayName: Gun Uzi
 		}
 
 		Toggler: {
 			//thorium
+			PiratesPurseEffect: 海盗的钱袋子
 			GraniteEffect: 动能转换器
-			// ThiefsWalletEffect: Pirate's Purse
 			BlastShieldEffect: 爆炸盾
-			// CrashEffect: Crash Boots
-			// CairoEffect: Eternal Oasis
+			CrashEffect: 震地靴
+			CairoEffect: Eternal Oasis
 			MotDEHeader: 噬梦之兆
 			PlagueEffect: 瘟疫气云
 			LichEffect: 灵魂碎片
@@ -3483,7 +3614,6 @@ Mods: {
 			TerrariumEffect: 泰拉能量
 			NuclearOptionEffect: 核弹头配件
 			IllumiteEffect: 荧光导弹
-			IncandescentSparkEffect: 炽热火花
 			TideHunterEffect: 泡沫飞溅
 			DepthDiverEffect: 沉没的金币
 			DepthAuraEffect: 深海增益
@@ -3522,9 +3652,11 @@ Mods: {
 			PyroEffect: 炎法烧灼
 			PlagueLordEffect: 瘟疫之主的药剂瓶
 			LodestoneEffect2: 地脉护盾
+			TheOmegaCoreEffect: 欧米伽核心
+			ThrowerSoulEffect: 移除疲劳值
 			//soa
 			// FoundationsForceHeader: Foundations Force
-			// SyranForceHeader: Syrian Force
+			// SyranForceHeader: Syran Force
 			// AsthraltiteEffect: Hypercrits
 			// ExitumLuxEffect: Relic Boost
 			// SpaceJunkEffect: Space Junk on hit
@@ -3537,7 +3669,6 @@ Mods: {
 			// EerieEffect: Eerie Pulses
 			// PrairieEffect: Wind Speed
 			// FrosthunterEffect: Frost Explosions
-			CosmicCommanderEffect: 非常烦人的效果，把它关掉
 			// GenerationsForceHeader: Generations Force
 			// SoranForceHeader: Soran Force
 			// BlazingBruteEffect: Rival Streak
@@ -3549,14 +3680,18 @@ Mods: {
 			// QuasarEffect: ech
 			// BismuthEffect: Bismuth Crystal
 			// DreadfireEffect: Dreadfire Aura
-			// MarstechEffect: Force Fields
 			// FloraFistEffect: Flora Fist
-			SoAMasoSoulHeader: 大师之魂
+			// SoAMasoSoulHeader: Soul of Master
 			// RoyalGuardEffect: Royal Guard
 			// MilinticaDashEffect: Advanced Dash
 			// HeartOfThePloughEffect: Heart of the Plough
-			CalamitySoulHeader: 寻神者之魂
+			// NubasBlessingEffect: Nuba's Blessing
+			// StoneOfResonanceEffect: Stone of Resonance
+			// StarstreamVeilEffect: Starstream Veil
+			// DreadflameEmblemEffect: Dreadflame Emblem
+			// LunarRingEffect: Celestial Ring
 			//cal
+			CalamitySoulHeader: 寻神者之魂
 			ShatteredCommunityEffect: 幻灭心元石
 			ClamitasEffect: 召唤硫磺夹贝
 			RedDevil: 红恶魔
@@ -3575,6 +3710,8 @@ Mods: {
 			HideofAstrumDeusEffect: 星神隐壳
 			AquaticHeartEffect: 渊洋之心
 			Enrage: 魔影激怒
+			DraculasCharmEffect: 吸血鬼护身符
+			EidolonAmuletEffect: 幽灵护符
 			//other
 			GaiaEffect: 进攻模式
 			NekomiEffect: 猫猫睡衣套装奖励
@@ -3588,14 +3725,15 @@ Mods: {
 			CuteFishEXEffect: 猪鲨仪式
 			EridanusEffect: 宇宙英灵护佑
 			//redemption
-			AdvancementHeader: "{$Mods.FargoMoreSoulsCompat.Items.AdvancementForce.DisplayName}"
+			AdvancementHeader: 飞升之力
 			CommonGuardBauble: 缚魂珠
 			PureIronCross: 神圣护盾
 			XenomiteNecklace: 感知项链
 			XenomiteArmorEffect: 有毒气体
 			HardlightEffect: 无人机召唤
 			XeniumConcoction: 瘟魔混浆
-			XeniumShield: 疫染荆棘盾冲刺
+			InfectionShieldEffect: 疫染荆棘盾冲刺
+			HEVEffect: H.E.V套装
 			//spirit
 			AdventurerHeader: 行者之力
 			BotanistHerbEffect: 草药发光
@@ -3634,13 +3772,13 @@ Mods: {
 			CryoliteAura: 冰环
 			CryoliteCard: 四牌同点
 			DuskRunes: 暗影焰
-			DuskGuitar: 闪电
+			DuskGuitar: 电涌吉他
 			FrigidAttackSpeed: 冰墙
 			FrigidIceWall: 严寒护膝（有bug）
 			MarksmanCrit: 注意力攻击暴击
 			PainMongerGuard: 炎狱守卫
 			PainMongerMaw: 炽热吐息
-			SlagTyrantBurst: 火球
+			SlagTyrantBurst: 哨兵火球
 			SlagTyrantSummon: 西米里权杖
 			//consolaria
 			HeroHeader: 英雄之力
@@ -3650,12 +3788,25 @@ Mods: {
 			TitanRecoil: 远程爆炸
 			PhantasmalAura: 汲取魔力
 			PhantasmalJump: 影月外骨骼
+			//hwj
+			CommandersGauntletEffect: 指挥官的手套
+			GodlyTouchEffect: 神之手
+			WalnutOnFireEffect: 梨栗熟了
+			StarQuiverEffect: 星星箭袋
+			PhilosophersStoneEffect: 哲人王之石
+			EruditeBookmarkEffect: 博学书签
+			DivineNecklaceEffect: 圣洁发夹
+			TheBatterEffect: 击球手
+			RejuvenatedCrossEffect: 妙手回春
+			OneGiantLeapEffect: 月球漫步
+			HourHandEffect: 时针
+			EdgewalkerEffect: 边行者
 		}
 
 		Tiles: {
 			MutantsForgeTile.MapEntry: 宇宙量子计算机
 			DemonshadeWorkbenchTile.MapEntry: 魔影坩埚
-			//SyranCraftingStationTile.MapEntry: Syran Workstation
+			// SyranCraftingStationTile.MapEntry: Syrus Workstation
 			DreamersForgeTile.MapEntry: 梦幻锻炉
 			RedemptionCraftingStationTile.MapEntry: 异金加工站
 		}
@@ -3665,8 +3816,8 @@ Mods: {
 			// BossRush.DisplayName: Boss Rush
 			// AbomSword.DisplayName: Abom Sword
 			// AbomSwordHandle.DisplayName: Abom Sword Handle
-			// MutantRitual5.DisplayName: Mutant Ritual5
-			// MutantRitual.DisplayName: Mutant Ritual
+			// MonstrosityRitual5.DisplayName: Mutant Ritual5
+			// MonstrosityRitual.DisplayName: Mutant Ritual
 			// MutantSansBeam.DisplayName: Mutant Sans Beam
 			// MutantSansHead.DisplayName: Mutant Sans Head
 			// MutantShadowHand.DisplayName: Mutant Shadow Hand
@@ -3732,54 +3883,73 @@ Mods: {
 			// SquirrelRing.DisplayName: Squirrel Ring
 			// FlariumGeyser.DisplayName: Flarium Geyser
 			// EeriePulse.DisplayName: Eerie Pulse
-			//WastelandNukeProj.DisplayName: Wasteland Nuke Proj
-			//WastelandNukeSupremeProj.DisplayName: Wasteland Nuke Supreme Proj
-			//StriderLegShockwave.DisplayName: Strider Leg Shockwave
-			//SpookyRenewalProj.DisplayName: Spooky Renewal Proj
-			//SpookyRenewalSupremeProj.DisplayName: Spooky Renewal Supreme Proj
-			////EyeValleyRenewalProj.DisplayName: Eye Valley Renewal Proj
-			//EyeValleyRenewalSupremeProj.DisplayName: Eye Valley Renewal Supreme Proj
-			//SwampyRenewalProj.DisplayName: Swampy Renewal Proj
-			//SwampyRenewalSupremeProj.DisplayName: Swampy Renewal Supreme Proj
-			//FlariumNukeProj.DisplayName: Flarium Nuke Proj
-			//FlariumNukeSupremeProj.DisplayName: Flarium Nuke Supreme Proj
-			//CorruptNukeProj.DisplayName: Corrupt Nuke Proj
-			//CorruptNukeSupremeProj.DisplayName: Corrupt Nuke Supreme Proj
-			//CrimsonNukeProj.DisplayName: Crimson Nuke Proj
-			//CrimsonNukeSupremeProj.DisplayName: Crimson Nuke Supreme Proj
-			//DirtNukeProj.DisplayName: Dirt Nuke Proj
-			//DirtNukeSupremeProj.DisplayName: Dirt Nuke Supreme Proj
-			//HallowNukeProj.DisplayName: Hallow Nuke Proj
-			//HallowNukeSupremeProj.DisplayName: Hallow Nuke Supreme Proj
-			//MushroomNukeProj.DisplayName: Mushroom Nuke Proj
-			//MushroomNukeSupremeProj.DisplayName: Mushroom Nuke Supreme Proj
-			//PurityNukeProj.DisplayName: Purity Nuke Proj
-			//PurityNukeSupremeProj.DisplayName: Purity Nuke Supreme Proj
-			//SandNukeProj.DisplayName: Sand Nuke Proj
-			//SandNukeSupremeProj.DisplayName: Sand Nuke Supreme Proj
-			//SnowNukeProj.DisplayName: Snow Nuke Proj
-			//SnowNukeSupremeProj.DisplayName: Snow Nuke Supreme Proj
-			//NDLaserbeam.DisplayName: ND Laserbeam
-			//MutantSCal.DisplayName: Mutant SCal
-			//MonstrosityBoss.DisplayName: Monstrosity Boss
-			//MonstrOldDuke.DisplayName: Monstr Old Duke
-			//MonstrYharon.DisplayName: Monstr Yharon
-			//MonstrosityDEH.DisplayName: Monstrosity D E H
-			//MonstrositySparklingLove.DisplayName: Monstrosity Sparkling Love
-			//MonstrosityAxe.DisplayName: Monstrosity Axe
+			// WastelandNukeProj.DisplayName: Wasteland Nuke Proj
+			// WastelandNukeSupremeProj.DisplayName: Wasteland Nuke Supreme Proj
+			// StriderLegShockwave.DisplayName: Strider Leg Shockwave
+			// SpookyRenewalProj.DisplayName: Spooky Renewal Proj
+			// SpookyRenewalSupremeProj.DisplayName: Spooky Renewal Supreme Proj
+			// EyeValleyRenewalProj.DisplayName: Eye Valley Renewal Proj
+			// EyeValleyRenewalSupremeProj.DisplayName: Eye Valley Renewal Supreme Proj
+			// SwampyRenewalProj.DisplayName: Swampy Renewal Proj
+			// SwampyRenewalSupremeProj.DisplayName: Swampy Renewal Supreme Proj
+			// FlariumNukeProj.DisplayName: Flarium Nuke Proj
+			// FlariumNukeSupremeProj.DisplayName: Flarium Nuke Supreme Proj
+			// CorruptNukeProj.DisplayName: Corrupt Nuke Proj
+			// CorruptNukeSupremeProj.DisplayName: Corrupt Nuke Supreme Proj
+			// CrimsonNukeProj.DisplayName: Crimson Nuke Proj
+			// CrimsonNukeSupremeProj.DisplayName: Crimson Nuke Supreme Proj
+			// DirtNukeProj.DisplayName: Dirt Nuke Proj
+			// DirtNukeSupremeProj.DisplayName: Dirt Nuke Supreme Proj
+			// HallowNukeProj.DisplayName: Hallow Nuke Proj
+			// HallowNukeSupremeProj.DisplayName: Hallow Nuke Supreme Proj
+			// MushroomNukeProj.DisplayName: Mushroom Nuke Proj
+			// MushroomNukeSupremeProj.DisplayName: Mushroom Nuke Supreme Proj
+			// PurityNukeProj.DisplayName: Purity Nuke Proj
+			// PurityNukeSupremeProj.DisplayName: Purity Nuke Supreme Proj
+			// SandNukeProj.DisplayName: Sand Nuke Proj
+			// SandNukeSupremeProj.DisplayName: Sand Nuke Supreme Proj
+			// SnowNukeProj.DisplayName: Snow Nuke Proj
+			// SnowNukeSupremeProj.DisplayName: Snow Nuke Supreme Proj
+			// NDLaserbeam.DisplayName: ND Laserbeam
+			// MutantSCal.DisplayName: Mutant SCal
+			// MonstrosityBoss.DisplayName: Monstrosity Boss
+			// MonstrOldDuke.DisplayName: Monstr Old Duke
+			// MonstrYharon.DisplayName: Monstr Yharon
+			// MonstrosityDEH.DisplayName: Monstrosity D E H
+			// MonstrositySparklingLove.DisplayName: Monstrosity Sparkling Love
+			// MonstrosityAxe.DisplayName: Monstrosity Axe
+			SteelSwordProjectile.DisplayName: Steel Sword Projectile
+			SwordRainProjectile.DisplayName: Sword Rain Projectile
+			SpawnCutsceneProj.DisplayName: Spawn Cutscene Proj
+			ToxicCloudsProj.DisplayName: Toxic Clouds Proj
+			CatlightCat.DisplayName: Catlight Cat
+			CatlightDeathray.DisplayName: Catlight Deathray
+			TwigProj.DisplayName: Twig Proj
+			CeilingDeathray.DisplayName: Ceiling Deathray
+			CeilingProj.DisplayName: Ceiling Proj
+			CeilingSphere.DisplayName: Ceiling Sphere
+			GunteraBullet.DisplayName: Guntera Bullet
+			FlariumGeyser2.DisplayName: Flarium Geyser2
+			MartianProbe.DisplayName: Martian Probe
+			NightmareBubble.DisplayName: Nightmare Bubble
+			Shrapnel.DisplayName: Shrapnel
+			XeniumRocket.DisplayName: Xenium Rocket
+			XeniumTurret.DisplayName: Xenium Turret
 		}
 
 		Bestiary: {
-			// Monstrocity: The Siblings' more annoying, strange cousin, he thinks he is stronger than his cousin the mutant which makes the both of them fight a lot, he likes tacos though.
+			// Monstrosity: The Siblings' more annoying, strange cousin, he thinks he is stronger than his cousin the mutant which makes the both of them fight a lot, he likes tacos though.
 			// Echdeath: ech
 		}
 
 		Configs: {
-			ShtunConfig: {
+			CSEConfig: {
 				Headers: {
 					General: 常规
 					CrossMods: 联动模组
 					EnchantsLoad: 加载魔石
+					EmodeAccesLoad: 永恒模式饰品加载
+					EmodeWeaponsLoad: 永恒模式武器加载
 				}
 
 				DisplayName: 模组配置
@@ -3813,11 +3983,6 @@ Mods: {
 						'''
 				}
 
-				ThrowerMerge: {
-					Tooltip: 将瑟银、灾厄、亚巴顿之影的投掷伤害合并
-					Label: 投手伤害合并
-				}
-
 				Thorium: {
 					// Label: Thorium
 					// Tooltip: ""
@@ -3834,18 +3999,18 @@ Mods: {
 				}
 
 				Homeward: {
-					//Label: Homeward Journey
-					//Tooltip: WIP
+					// Label: Homeward Journey
+					// Tooltip: WIP
 				}
 
 				Vitality: {
-					//Label: Vitality
-					//Tooltip: WIP
+					// Label: Vitality
+					// Tooltip: WIP
 				}
 
 				Orchid: {
-					//Label: Orchid
-					//Tooltip: WIP
+					// Label: Orchid
+					// Tooltip: WIP
 				}
 
 				Redemption: {
@@ -3875,17 +4040,62 @@ Mods: {
 
 				AlternativeSiblings: {
 					Label: 额外的兄弟姊妹
-					Tooltip: 启用后，允许生成魔神
+					Tooltip: Monstrosity, Divergentt and Amalgamationn can be loaded
 				}
 
 				Consolaria: {
-					//Label: Consolaria
-					//Tooltip: ""
+					// Label: Consolaria
+					// Tooltip: ""
 				}
 
 				EternityForce: {
-					//Label: Eternity Force
-					//Tooltip: ""
+					Label: 永恒之力
+					Tooltip: ""
+				}
+
+				BossRushPostMutant: {
+					Label: 突变体后Boss Rush
+					Tooltip: ""
+				}
+
+				DevItems: {
+					Label: 开发者物品
+					Tooltip: ""
+				}
+
+				SecretBosses: {
+					Label: 秘密Boss
+					Tooltip: ""
+				}
+
+				EmodeThorium: {
+					Label: Thorium
+					Tooltip: ""
+				}
+
+				EmodeRedemption: {
+					Label: Redemption
+					Tooltip: ""
+				}
+
+				EmodeSoA: {
+					Label: Shadows of Abaddon
+					Tooltip: ""
+				}
+
+				EmodeThoriumW: {
+					Label: Thorium
+					Tooltip: ""
+				}
+
+				EmodeRedemptionW: {
+					Label: Redemption
+					Tooltip: ""
+				}
+
+				EmodeSoAW: {
+					Label: Shadows of Abaddon
+					Tooltip: ""
 				}
 			}
 		}
@@ -3893,8 +4103,8 @@ Mods: {
 		DamageClasses.UnitedModdedThrower.DisplayName: 投掷伤害
 
 		Message: {
-			IHateRogue: 如果你游玩时安装别的合并投手的模组，请一定要关闭它们的投掷合并
-			NoBalance: 如果你正在同时游玩灾厄和瑟银，建议安装mod “WHummus' Calamity/Thorium Balancing”
+			NoThrower: 注意： 在最近的更新中投手合并功能已被移至 Thrower Unification mod
+			NoBalancing: 如果你正在同时游玩灾厄和瑟银，建议安装mod “WHummus' Calamity/Thorium Balancing”
 			NoRework: 建议你在游玩瑟银时安装瑟银Boss重置来提升游戏体验
 			// NoSoABardHealer1: We detected that you playing Shadows of Abaddon with Thorium Mod
 			// NoSoABardHealer2: Please install SoA Bard & Healer for better compatibility

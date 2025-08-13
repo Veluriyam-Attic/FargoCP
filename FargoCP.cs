@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Terraria;
+using Terraria.ID;
+using Terraria.Localization;
+using Terraria.Map;
 using Terraria.ModLoader;
 using TigerForceLocalizationLib;
 using TigerForceLocalizationLib.Filters;
@@ -40,9 +43,37 @@ namespace FargoCP
                 TigerForceLocalizationHelper.LocalizeAll("FargoCP", "PaperMarioBadgeMod", false);
         }
     }
-    // 取消对DLC的硬编码翻译
+    // DLC传颂之物和血月天塔柱的修改
     public class FargowiltasCrossmod : ModSystem
     {
+        //public static Condition condition =
+        //new Condition(Language.GetOrRegister(Guid.NewGuid().ToString(), () => "血月天塔柱"), () => Main.player[Main.myPlayer].adjTile[480]);
+        //public override void PostAddRecipes()
+        //{
+        //    _ = Main.recipe
+        //        .Where(r => r.HasTile(480))
+        //        .Select(r => {
+        //            r.RemoveTile(480);
+        //            r.AddCondition(condition);
+        //            return 1;
+        //        })
+        //        .ToArray()
+        //        ;
+        //    base.PostAddRecipes();
+        //}
+
+        //javidpack写的解决血月天塔柱翻译的码
+        public override void Load()
+        {
+            Lang._mapLegendCache[MapHelper.TileToLookup(TileID.BloodMoonMonolith, 0)] = Lang.GetItemName(ItemID.BloodMoonMonolith);
+        }
+
+        public override void Unload()
+        {
+            Lang._mapLegendCache[MapHelper.TileToLookup(TileID.BloodMoonMonolith, 0)] = LocalizedText.Empty;
+        }
+
+
         public override void PostSetupContent()
         {
             if (
@@ -53,7 +84,7 @@ namespace FargoCP
     }
 
     // 取消那个√石非官方额外魔石的硬编码翻译
-    /* public class FargosSoulsModDLCRecreated : ModSystem
+    public class FargosSoulsModDLCRecreated : ModSystem
     {
         public override void PostSetupContent()
         {
@@ -62,6 +93,6 @@ namespace FargoCP
                )
                 TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargosSoulsModDLCRecreated", false);
         }
-    } */
+    }
 
 }

@@ -1,0 +1,1967 @@
+Toggler: {
+	MuspelheimForceHeader: 穆斯贝尔海姆之力
+	BulbEffect: 活力花瓣
+	AnnihilationForceHeader: 湮灭之力
+	AerospecMinion: 天武神
+	GladiatorsLocketEffect: 角斗士金锁
+	UnstableGraniteCoreEffect: 不稳定花岗岩核心
+	DesolationForceHeader: 荒芜之力
+	DevastationForceHeader: 毁灭之力
+	ExaltationForceHeader: 升华之力
+	RadianceEffect: 辐辉
+	GravistarSabatonEffect: 引力靴
+	UrsaSergeantEffect: 大熊座雀鲷
+	AstralStarsEffect: 星幻落星
+	AtaxiaEffects: 渊泉套装效果
+	HallowedRuneEffects: 神圣符文
+	AtaxariaVentSpirit: 沸腾渊泉
+	EmpyreanEffects: 皇天套装效果
+	FungalSymbioteEffects: 真菌共生体
+	ShellfishMinionEffect: 沉沦之贝
+	GiantPearlEffect: 大珍珠
+	AquaticEmblemEffect: 海波纹章
+	DaedalusEffects: 代达罗斯套装效果
+	PlagueBringerEffects: 瘟疫使者套装效果
+	DaedalusMinionEffect: 代达罗斯水晶
+	GoldiePetEffect: 盗贼铸币
+	OmegaBlueTentaclesEffect: 蓝色欧米茄触手
+	AbyssalDivingSuitEffect: 深渊潜游服
+	RedDevilMinionEffect: 红恶魔
+	ProfanedSoulCrystalEffect: 渎神魂晶
+	ReaverEffects: 掠夺者套装效果
+	ReaverMinionEffects: 掠夺者宝珠
+	ToxicHeartEffects: 毒疫之心
+	PlagueFuelPackEffects: 瘟疫燃料背包
+	TheCamperEffects: 露营者
+	TarragonEffects: 龙蒿套装效果
+	BloodflareEffects: 血炎套装效果
+	IntergelacticOrbit: 异宇星凝套装效果
+	InfluxClusterEffects: 凝涌星核
+	PolterMinesEffect: 噬魂幽花地雷
+	LuxorsGiftEffect: 卢克索的礼物
+	GodSlayerEffects: 弑神者套装效果
+	NebulousCoreEffects: 星云之核
+	SilvaEffects: 始源林海套装效果
+	SilvaMinionEffects: 始源林海水晶
+	AmalgamEffects: 聚合之脑
+	AuricSoulArtifactEffects: 圣魂神物
+	YharimsGiftEffect: 寻神者之礼
+	AuricEffects: Auric Effects
+	HeartOfTheElementsEffects: 元灵之心
+	BerserkerEffect: 狂战士套装效果
+	BiotechEffect: 生物工程探测器
+	ConduitShield: 电容护盾
+	CyberPunkEffect: 赛博朋克套装效果
+	BeeBootiesEffect: 蜜蜂靴
+	DreadEffect: 恐惧套装效果
+	CrystalScorpionEffect: 水晶蝎
+	LodestoneEffect: 地脉套装效果
+	MetronomeEffect: 节拍器
+	SpringStepsEffect: 弹簧鞋
+	SlagStompersEffect: 熔渣重踏
+	MarchingBandEffect: 仪仗队套装效果
+	TideGlobules: 洪流逆潮者套装效果（王冠）
+	ValadiumEffects: 虚金套装效果
+	GemTechEffects: 天钻套装效果
+	AlfheimForceHeader: 阿尔弗海姆之力
+	AsgardForceHeader: 阿斯加德之力
+	HelheimForceHeader: 赫尔海姆之力
+	MidgardForceHeader: 米德加德之力
+	NiflheimForceHeader: 尼福尔海姆之力
+	SvartalfheimForceHeader: 斯瓦特阿尔海姆之力
+	MixtapeEffects: 杂集磁带
+	VictideEffects: 胜潮套装效果
+	AerospecEffects: 天蓝套装效果
+	BrimflameEffects: 硫火套装效果
+	ScuttlersJewelEffect: 潜遁者宝石
+	SulphurousEffect: 硫磺套装效果
+	SandCloakEffects: 沙尘披风
+	SpectralVeilEffects: 幽灵披风
+	PlagueReaperEffects: 瘟疫死神套装效果
+	StatigelEffects: 斯塔提斯套装效果
+	BlazingCoreEffects: 渎火核心
+	CorrosiveSpineEffects: 腐蚀脊椎
+	NoviceClericOrbit: 牧师套装效果
+	KarmicHolderEffect: 业果之握
+	WarlockEffects: 术士套装效果
+	DemonTongueEffects: 恶魔之舌
+	DarkEffigyEffects: 鬼影塑像
+	IridescentEffects: 光耀套装效果
+	EqualizerEffects: 平等护符
+	LifeQuartzShieldEffects: 生命石英盾
+	AloeLeafEffects: 露水收集器
+	NirvanaStatuetteEffects: 涅槃雕像
+	MaskOfTheCrystalEyeEffects: 水晶之眼面具
+	FlawlessChrysalisEffects: 无暇之蛹
+	AbyssalShellEffects: 深渊贝壳
+	SpiritBandEffects: Spirit Band
+	DarksteelEffects: 暗钢套装效果
+	OgreSandalEffects: 炽光疾行
+	BronzeEffects: 青铜套装效果
+	ChampionsRebuttalEffects: 英灵的反击之盾
+	OlympicTorchEffects: 奥林匹克圣火
+	SpartanSandalEffects: 斯巴达凉鞋
+	GraniteArmorEffects: 花岗岩套装效果
+	EyeOfTheStormEffects: 动能转换装置
+	LichEffects: 巫妖套装效果
+	PhylacteryEffects: 魂匣
+	WhiteDwarfEffects: 白矮星套装效果
+	CelestialEffects: 天界套装效果
+	JesterEffects: 弄臣套装效果
+	FanLetterEffects: 粉丝的信函
+	CrietzEffects: 精准项链
+	BandOfReplenishmentEffects: 恢复手环
+	TerrariumEffects: 元素之灵套装效果
+	TerrariumSurroundSoundEffects: 界元音箱
+	VanaheimForceHeader: 华纳海姆之力
+	ShadeMasterEffect: 暗影大师套装效果
+	ShinobiSigilEffect: 忍者魔符
+	IllumiteEffects: 荧光套装效果
+	FungalClumpEffects: 真菌块
+	MirrorOfTheBeholderEffects: 注视者之镜
+	GeodeEffects: 晶体套装效果
+	MagicLanternEffect: 魔法灯笼
+	DavyJonesLockboxEffect: 深海阎王之宝盒
+	AssassinEffects: 刺客套装效果
+	DartPouchEffects: 飞镖袋
+	DreamWeaverEffects: 梦境编织者套装效果
+	RhapsodistEffects: 狂音套装效果
+	PyromancerEffects: 炎法套装效果
+	PlasmaGeneratorEffects: 等离子护盾发生器
+	ConcertTicketsEffect: 音乐会门票
+	OrnateEffects: 华贵套装效果
+	MaestroEffects: 大师套装效果
+	SandstoneEffect: 砂石套装效果
+	NightShadeEffect: 影缀花
+	FabergeEggEffect: 皇家彩蛋
+	HeartOfTheJungleEffect: 丛林之心
+	LivingWoodMinion: 生命木橡子召唤
+	BloomingShieldEffect: 绽花盾
+	FragrantCorsageEffect: 芳香胸花
+	CoralEffects: 珊瑚套装效果
+	AnglerMinion: 宠物深海琵琶鱼
+	GoblinWarShieldEffect: 哥布林战盾
+	TideHunterEffects: 猎潮套装效果
+	AnglerBowlEffects: 琵琶鱼球碗
+	OceanRetalitationEffect: 海潮之噬
+	NagaSkinEffect: 娜迦套装效果
+	IcyEffects: 碎冰套装效果
+	CryomancerEffect: 极寒巫师套装效果
+	SnowyOwlPet: 宠物迷失雪鸮
+	WhisperingEffects: 低语者套装效果
+	JotunheimForceHeader: 约顿海姆之力
+	SpiritTrapperEffects: 猎魂者套装效果
+	InnerFlameEffects: 心灵之火
+	ScryingGlassEffects: 全知水晶球
+	ArtificersFocusEffects: 工匠的聚焦项链
+	ArtificersRocketeersEffects: 工匠的火箭靴
+	ArtificersShieldEffects: 工匠的护盾
+	WyvernPetEffect: 宠物小飞龙
+	DragonEffects: 绿龙套装效果
+	DragonTallonNecklaceEffects: Dragon Talon Necklace
+	CursedFlailCoreEffects: 咒炎连枷核心
+	CrashBootsEffects: 震地靴
+	FleshEffects: 血肉套装效果
+	BliterPetEffects: 宠物飞行疱虫
+	DemonBloodEffect: 魔血套装效果
+	VileFlailCoreEffect: 邪恶连枷核心
+	MagmaEffects: 熔岩套装效果
+	WhiteKnightEffects: 白骑士套装效果
+	SmotheringBandEffects: 暗影催化剂
+	LilMogPetEffects: 宠物小猫
+	HarbingerEffects: 先兆套装效果
+	BlisterPetEffects: 宠物飞行疱虫
+	ArtificersFocusEffect: 工匠的聚焦项链
+	SilkEffects: 丝绸套装效果
+	VoidFaquirEffects: 虚空行者套装效果
+	CommunityForceHeader: 灾集之力
+	ShogunEffects: 神胶幕府套装效果
+	SplendorJamEffects: 异彩果酱
+	OceanRetaliationEffect: 海潮之噬
+	YewWoodEffect: 紫衫木套装效果
+	VampiricGlandEffects: 吸血鬼试剂
+	TideTurnerEffects: 洪流逆潮者套装效果
+	PlagueLordFlaskEffects: 瘟疫之主的药剂瓶
+	DissTrackEffect: Diss曲目
+	AngelicAllianceEffect: 圣天誓盟
+	VoidOfExtinctionEffects: 终结虚空
+	FrostFlareEffect: 霜冻之炎
+	TheAbsorberEffects: 阴阳吸星石
+	AfflictionEffects: 灾劫之尖啸
+	AmadiasPendantEffects: 阿米迪亚斯之垂饰
+	BloodflareCoreEffects: 血炎晶核
+	BloomStoneEffects: 绽花石
+	BlunderBoostEffect: 悖论增幅器
+	DynamoStemCellsEffect: 痴愚金龙干细胞
+	ChaosStoneEffects: 混乱石
+	VoidOfCalamityEffects: 灾劫虚空
+	FlameLickedShellEffects: 舐火甲壳
+	CryoStoneEffect: 冰川石
+	FrostBarrierEffect: 寒冰屏障
+	LeviathanAmbergrisEffects: 利维坦龙涎香
+	HideOfAstrumDeusEffect: 星神隐壳
+	PhantomicArtifactEffects: 幻魂神物
+	RegenatorEffects: 再生护符
+	DaawnlightSpiritOriginEffects: 曙旼始灵
+	OldDukeScalesEffect: 硫海遗爵之鳞
+	DeepDiverEffect: 深潜者
+	AlchemicalFlaskEffects: 冶金烧瓶
+	DragonScalesEffects: 浴火龙鳞
+	VenetratedLocketEffects: 敬天神盗盒
+	FleshTotemEffects: 血肉图腾
+	GloveOfRecklessnessEffects: 鲁莽手套
+	GloveOfPrecisionEffects: 精准手套
+	TheBeeEffects: 蜜蜂护符
+	HowlsHeartEffect: 哈尔之心
+	WulfrumAcrobaticsEffect: 钨钢杂技背包
+	RustyMedallionEffects: 锈蚀勋章
+	ShieldOfTheHighRulerEffects: 至高统治之盾
+	ShieldOfTheOceanEffects: 海之盾
+	SlagslitterPauldronEffects: 熔火碎矿肩甲
+	EtherealExtorterEffects: 虚空掠夺者
+	AquaticHeartEffects: 渊洋之心
+	BloodflareRitualistEffects: 血祭疗仪
+	SnowRuffianEffect: 雪境暴徒套装效果
+	LizhardTailEffect: 神庙蜥蜴之尾
+	SerpentShieldEffect: 蛇之盾
+	AirWalkersEffect: 履空靴
+	WeightedWingletsEffect: 举足轻重靴
+	BeholderGazeEffect: 注视者之凝
+	TheOmegaCoreEffects: 欧米伽核心
+	YumasPendantEffects: 游马的皇之键
+	ConcussiveWarheadEffects: 震荡弹头
+	GhastlyCarapanceEffects: 惊魂甲壳
+	GutWrenchersSheathEffects: 扳手全套
+	JetBootsEffect: 喷气靴
+	JetBootsEffects: 喷气靴
+	PocketFusionGeneratorEffects: 小型聚变发生器
+	SandweaversTiaraEffect: 沙海穿梭者头冠
+	UpDownBalloonEffects: 紊流气球
+	HungeringBlossomEffects: 饮魔玫瑰
+	ProofOfAraviceEffects: 贪婪之证
+	ProofOfAvariceEffects: 贪婪之证
+}
+
+Items: {
+	DesolationForce: {
+		Tooltip: ""
+		DisplayName: 荒芜之力
+	}
+
+	AnnihilationForce: {
+		Tooltip: ""
+		DisplayName: 湮灭之力
+	}
+
+	WulfrumEnchantment: {
+		Tooltip:
+			'''
+			生命值低于50%时增加5点防御力
+			获得气功念珠、腐烂犬齿和钨钢杂技背包的效果
+			“不要与钨魔石弄混了……”
+			'''
+		DisplayName: 钨钢魔石
+	}
+
+	VictideEnchantment: {
+		Tooltip:
+			'''
+			使用任何武器时，都有10%的几率发射回旋贝壳射弹
+			贝壳能造成真实伤害，不受任何职业伤害加成影响
+			提高水下机动性，略微减缓深渊中呼吸条的消耗速度
+			获得海波项链、海之盾和卢克索的礼物的效果
+			“昔日的海洋王国赐予你力量……”
+			'''
+		DisplayName: 胜潮魔石
+	}
+
+	UmbraphileEnchantment: {
+		Tooltip:
+			'''
+			增加110点最大潜行值
+			盗贼武器击中敌人时有几率造成爆炸
+			潜伏攻击总是能造成爆炸
+			获得盗贼铸币、吸血鬼护符和闪避围巾的效果
+			'''
+		DisplayName: 日影魔石
+	}
+
+	TarragonEnchantment: {
+		Tooltip: ""
+		DisplayName: 龙蒿魔石
+	}
+
+	SulphurousEnchantment: {
+		Tooltip: ""
+		DisplayName: 硫磺魔石
+	}
+
+	StatigelEnchantment: {
+		Tooltip: ""
+		DisplayName: 斯塔提斯魔石
+	}
+
+	SnowRuffianEnchantment: {
+		Tooltip:
+			'''
+			你可以缓降以消除坠落伤害
+			获得潜遁者宝石的效果
+			'''
+		DisplayName: 雪境暴徒魔石
+	}
+
+	SilvaEnchantment: {
+		Tooltip: ""
+		DisplayName: 始源林海魔石
+	}
+
+	ReaverEnchantment: {
+		Tooltip:
+			'''
+			受到持续性伤害减益时，降低20%生命恢复损失
+			所有攻击都能窃取生命值并提高生命恢复速度
+			降低30%移动速度和飞行时间
+			敌人会受到反伤效果，并在受伤时召唤一束荆棘
+			当你受伤时还会获得掠夺者之怒增益
+			免疫掉落伤害并允许自动跳跃
+			降低冲刺效果的冷却时间
+			高亮显示附近的所有宝藏
+			提升物品拾取距离和物块放置距离
+			在水下挖掘物块时恢复氧气
+			召唤一个掠夺者宝珠照亮周围区域
+			即使在深渊之中，也能降低敌人的仇恨
+			在水下和深渊提供适量光照
+			获得绽花石和恼怒项链的效果
+			获得鲁莽手套、精确手套和蜜蜂护符的效果
+			“你的敌人将生不如死……”
+			'''
+		DisplayName: 掠夺者魔石
+	}
+
+	PlagueReaperEnchantment: {
+		Tooltip: ""
+		DisplayName: 瘟疫死神魔石
+	}
+
+	OmegaBlueEnchantment: {
+		Tooltip: ""
+		DisplayName: 蓝色欧米茄魔石
+	}
+
+	MolluskEnchantment: {
+		Tooltip:
+			'''
+			两只沉沦之贝会在战斗中助你一臂之力
+			增加10%伤害
+			水平移动速度降低
+			获得大珍珠、海之盾和海波纹章的效果
+			获得海波项链、深潜者和卢克索的礼物的效果
+			“世界掌握在你的手中”
+			'''
+		DisplayName: 软壳魔石
+	}
+
+	GodSlayerEnchantment: {
+		Tooltip: ""
+		DisplayName: 弑神者魔石
+	}
+
+	FearmongerEnchantment: {
+		Tooltip: ""
+		DisplayName: 神惧者魔石
+	}
+
+	FathomSwarmerEnchantment: {
+		Tooltip: ""
+		DisplayName: 幻渊鱼群魔石
+	}
+
+	EmpyreanEnchantment: {
+		Tooltip: ""
+		DisplayName: 皇天魔石
+	}
+
+	DemonShadeEnchantment: {
+		Tooltip:
+			'''
+			增加100%召唤伤害和10个最大仆从栏位
+			受伤时发射暗影射线和恶魔镰刀
+			召唤一只友善的红恶魔为你战斗
+			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键用黑魔法咒语[C/741A26:激怒]周围的敌人，持续10秒
+			这道咒语使敌人受到2.25倍的伤害，同时敌人对你会造成1.25倍的伤害
+			获得渎神魂晶、幻灭心元石和圣天誓盟的效果
+			“恶魔之力于你身上显形……”
+			'''
+		DisplayName: 魔影魔石
+	}
+
+	DaedalusEnchantment: {
+		Tooltip: ""
+		DisplayName: 代达罗斯魔石
+	}
+
+	BrimflameEnchantment: {
+		Tooltip:
+			'''
+			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键进入[C/826B6B:硫火狂暴]模式
+			在此模式下，额外增加40%魔法伤害
+			然而代价是生命快速流失和魔力恢复速度归零
+			此状态可以手动关闭，且此效果有30秒的冷却时间
+			获得终结虚空、灾劫虚空、熔火碎矿肩甲、舐火甲壳和混乱石的效果
+			'''
+		DisplayName: 硫火魔石
+	}
+
+	BloodflareEnchantment: {
+		Tooltip: ""
+		DisplayName: 血炎魔石
+	}
+
+	AuricEnchantment: {
+		Tooltip: ""
+		DisplayName: 圣金源魔石
+	}
+
+	AtaxiaEnchantment: {
+		Tooltip: ""
+		DisplayName: 渊泉魔石
+	}
+
+	AstralEnchantment: {
+		Tooltip: ""
+		DisplayName: 星幻魔石
+	}
+
+	AerospecEnchantment: {
+		Tooltip:
+			'''
+			提高下落速度并免疫掉落伤害
+			一次性受到超过25点伤害时，会召唤追踪羽毛从天而降
+			召唤一个天武神保护你
+			获得角斗士金锁、天蓝石和不稳定花岗岩核心的效果
+			“天眷英才……”
+			'''
+		DisplayName: 天蓝魔石
+	}
+
+	DevastationForce: {
+		DisplayName: 毁灭之力
+		Tooltip: ""
+	}
+
+	ExaltationForce: {
+		DisplayName: 升华之力
+		Tooltip: ""
+	}
+
+	CalamitySoul: {
+		DisplayName: 暴君之魂
+		Tooltip: ""
+	}
+
+	RogueEssence: {
+		DisplayName: 盗贼精华
+		Tooltip:
+			'''
+			增加18%盗贼伤害
+			提升5%盗贼弹幕速度
+			增加5%盗贼暴击率
+			“这只是个开始……”
+			'''
+	}
+
+	RogueSoul: {
+		DisplayName: 盗贼之魂
+		Tooltip:
+			'''
+			增加30%盗贼伤害
+			提升15%盗贼弹幕速度
+			增加15%盗贼暴击率
+			获得日蚀魔镜、纳米科技、敬天神盗盒和浴火龙鳞的效果
+			“未见其影”
+			'''
+	}
+
+	AssassinEnchantment: {
+		DisplayName: 刺客魔石
+		Tooltip:
+			'''
+			你的伤害有10%概率完全复制自身并多造成15%伤害
+			远程伤害有5%概率完全湮灭击中的目标
+			此效果只能在Boss生命值低于5%时生效
+			获得飞镖袋的效果
+			“遮天蔽日，席卷八荒”
+			'''
+	}
+
+	NoviceClericEnchantment: {
+		DisplayName: 牧师魔石
+		Tooltip:
+			'''
+			每5秒你会生成至多3个神圣十字架
+			在使用治疗法术时会消耗1个十字架而不是魔力
+			获得护士钱包的效果
+			“涤荡一切邪恶”
+			'''
+	}
+
+	SacredEnchantment: {
+		DisplayName: 崇圣魔石
+		Tooltip:
+			'''
+			治疗法术会额外治疗5点生命值
+			每5秒你会生成至多3个神圣十字架
+			在使用治疗法术时会消耗1个十字架而不是魔力
+			获得业果之握、沙海穿梭者头冠和护士钱包的效果
+			“闪烁着令人舒适的力量”
+			'''
+	}
+
+	TemplarEnchantment: {
+		DisplayName: 圣骑魔石
+		Tooltip:
+			'''
+			如果队友生命值低于一半，则增强你的治疗能力
+			“为了教会！”
+			'''
+	}
+
+	BiotechEnchantment: {
+		DisplayName: 医疗魔石
+		Tooltip:
+			'''
+			一个生物工程探测器会协助你治疗队友
+			探测器治疗量等同于你治疗加成的生命值
+			获得高科技声呐仪的效果
+			“使用这个可能会被剥夺行医资格证”
+			'''
+	}
+
+	EbonEnchantment: {
+		DisplayName: 黑檀魔石
+		Tooltip:
+			'''
+			腐化你的光辉能量，使它们呈现黑暗形态并造成额外效果
+			获得黑暗之心的效果
+			“剑走偏锋”
+			'''
+	}
+
+	WarlockEnchantment: {
+		DisplayName: 术士魔石
+		Tooltip:
+			'''
+			暴击攻击会生成至多15颗暗影微粒
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键会向光标位置释放所有存储的暗影微粒
+			腐化你的光辉能量，使它们呈现黑暗形态并造成额外效果
+			获得黑暗之心、恶魔之舌和鬼影塑像的效果
+			“术士>巫师，望周知”
+			'''
+	}
+
+	FallenPaladinEnchantment: {
+		DisplayName: 堕骑魔石
+		Tooltip:
+			'''
+			受到伤害会治疗附近队友所受伤害15%的生命值
+			如果队友生命值低于一半，则增强你的治疗能力
+			获得普利多温、涅槃雕像和爆炸盾的效果
+			获得守护者斗篷和游马的皇之键的效果
+			“在地牢踽踽独行”
+			'''
+	}
+
+	IridescentEnchantment: {
+		DisplayName: 光耀魔石
+		Tooltip:
+			'''
+			你的光辉伤害有15%概率释放一道致盲闪光
+			闪光会以你的治疗加成治疗附近所有队友并[C/688EFD:困惑]敌怪
+			获得平等护符、魂灵恩典和生命石英盾的效果
+			“这就是彩虹的所有颜色”
+			'''
+	}
+
+	LifeBinderEnchantment: {
+		DisplayName: 缚生魔石
+		Tooltip:
+			'''
+			治疗队友将会在短时间内增加他们50点最大生命值
+			你的光辉伤害有15%概率释放一道致盲闪光
+			闪光会以你的治疗加成治疗附近所有队友并[C/688EFD:困惑]敌怪
+			获得露水收集器、无暇之蛹、平等护符、魂灵恩典和生命石英盾的效果
+			“生命之力从你的指尖流出”
+			'''
+	}
+
+	AlfheimForce: {
+		DisplayName: 阿尔弗海姆之力
+		Tooltip:
+			'''
+			拥有牧师、崇圣、术士和生物工程盔甲的套装奖励
+			拥有光耀、生命束缚者、圣殿骑士和堕落圣骑士盔甲的套装奖励
+			获得恶魔之舌、鬼影塑像、无暇之蛹、露水收集器、平等护符和生命石英盾的效果
+			获得守护者斗篷、高科技声呐仪、魂灵恩典和游马的皇之键的效果
+			“精灵的奥秘在你面前揭晓……”
+			'''
+	}
+
+	CrierEnchantment: {
+		DisplayName: 传讯魔石
+		Tooltip:
+			'''
+			你的音波咒音增幅会额外持续3秒
+			获得幸运兔脚和旅行者之靴的效果
+			“没什么好说的”
+			'''
+	}
+
+	NobleEnchantment: {
+		DisplayName: 贵族魔石
+		Tooltip:
+			'''
+			掉落的灵感音符效果翻倍且会短暂增加你的音波伤害
+			获得团结之戒、黄铜旋帽、杂集磁带和蜡质松香的效果
+			“精神富有也是贵族”
+			'''
+	}
+
+	MaestroEnchantment: {
+		DisplayName: 大师魔石
+		Tooltip:
+			'''
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键时召唤陨落合唱团演奏音乐
+			处于战斗时产生伤害性的彩虹音波符号会跟随你移动并晕眩敌怪
+			获得节拍器、总谱和指挥棒的效果
+			“贝多芬再世”
+			'''
+	}
+
+	MarchingBandEnchantment: {
+		DisplayName: 仪仗队魔石
+		Tooltip:
+			'''
+			处于战斗时产生伤害性的彩虹音波符号会跟随你移动并晕眩敌怪
+			获得总谱的效果
+			“跟着节奏舞动”
+			'''
+	}
+
+	CyberPunkEnchantment: {
+		DisplayName: 赛博魔石
+		Tooltip:
+			'''
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键会在4种状态间切换
+			[C/FF0000:红：玩家和附近队友获得固定伤害 Ⅱ 和伤害 Ⅱ]
+			[C/03E16E:绿：玩家和附近队友获得移动速度 Ⅱ 和飞行时间 Ⅱ]
+			[C/7D4BFF:紫：玩家和附近队友获得资源上限 Ⅱ 和资源再生 Ⅱ]
+			[C/324BFF:蓝：玩家和附近队友获得防御 Ⅱ 和伤害减免 Ⅱ]
+			获得自动调谐器、Metal音乐播放器和Diss曲目的效果
+			获得激流剑鞘、蒸汽守卫之表和万磁王手套的效果
+			“秦安锐舞？科技锐舞！”
+			'''
+	}
+
+	OrnateEnchantment: {
+		DisplayName: 华贵魔石
+		Tooltip:
+			'''
+			音波暴击会使随机激活的咒音增幅提升到 IV 级强度
+			获得音乐会门票的效果
+			“精心打造”
+			'''
+	}
+
+	NiflheimForce: {
+		DisplayName: 尼福尔海姆之力
+		Tooltip:
+			'''
+			拥有传讯员、贵族、赛博朋克、华贵和大师盔甲的套装奖励
+			获得团结之戒、节拍器、总谱和指挥棒的效果
+			获得黄铜旋帽、幸运兔脚、杂集磁带和蜡质松香的效果
+			获得自动调谐器、Metal音乐播放器、Diss曲目、旅行者之靴和音乐会门票的效果
+			获得激流剑桥、蒸汽守卫之表和万磁王手套的效果
+			“充满雾霜的死寂冰封之地……”
+			'''
+	}
+
+	ShootingStarEnchantment: {
+		DisplayName: 掠星魔石
+		Tooltip:
+			'''
+			使咒音增幅持续时间延长6秒
+			每拥有一个独特的咒音增幅会增加5%音波伤害
+			每拥有一个独特的咒音增幅会提升2%灵感恢复速率
+			“宇宙之音在你的脑海中萦绕”
+			'''
+	}
+
+	LichEnchantment: {
+		DisplayName: 巫妖魔石
+		Tooltip:
+			'''
+			击杀敌怪会释放一道灵魂碎片
+			接触灵魂碎片会短暂地大幅增加你的移动速度和投掷速度
+			你的瘟疫云在空中的滞留时间翻倍且你的瘟疫连锁反应多造成20%伤害
+			获得魂匣、饮魔玫瑰、怪物护符和暗蚀之颅的效果
+			获得生存者披风、贪欲高脚杯、海盗的钱袋子和贪婪之证的效果
+			'拥抱死亡……'
+			'''
+	}
+
+	PlagueDoctorEnchantment: {
+		DisplayName: 疫医魔石
+		Tooltip:
+			'''
+			你的瘟疫云在空中的滞留时间翻倍且你的瘟疫连锁反应多造成20%伤害
+			获得饮魔玫瑰、怪物护符和暗蚀之颅的效果
+			“你在煮什么恶心的混合物？”
+			'''
+	}
+
+	CelestialEnchantment: {
+		DisplayName: 天界魔石
+		Tooltip:
+			'''
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键在你的光标周围召唤一个大型光环
+			召唤光环消耗150点魔力
+			“和谐温暖的能量拥抱着你”
+			'''
+	}
+
+	WhiteDwarfEnchantment: {
+		DisplayName: 白矮星魔石
+		Tooltip:
+			'''
+			暴击会从星宇释放象牙状火焰
+			象牙状火焰会造成被击中目标0.1%最大生命值的伤害
+			获得投手大师指南：卷三的效果
+			“掷出星体聚变之力”
+			'''
+	}
+
+	VanaheimForce: {
+		DisplayName: 华纳海姆之力
+		Tooltip:
+			'''
+			拥有巫妖、瘟疫医生和白矮星盔甲的套装奖励
+			拥有天界和掠星盔甲的套装奖励
+			获得魂匣、饮魔玫瑰、怪物护符、投手大师指南：卷三和暗蚀之颅的效果
+			获得生存者披风、贪欲高脚杯、海盗的钱袋子和贪婪之证的效果
+			“神圣丰饶的未来一瞥……”
+			'''
+	}
+
+	LivingWoodEnchantment: {
+		DisplayName: 生命木魔石
+		Tooltip:
+			'''
+			召唤一个生命木橡子
+			生命木橡子的自动攻击会追踪敌怪
+			获得希望之种的效果
+			“成为自然的一部分”
+			'''
+	}
+
+	BulbEnchantment: {
+		DisplayName: 绽花魔石
+		Tooltip:
+			'''
+			你的治疗法术会增加被治疗目标的生命恢复和生命恢复速率
+			获得绽花盾、芳香胸花和活力花瓣的效果
+			“散发出一种沁人的芳香”
+			'''
+	}
+
+	LifeBloomEnchantment: {
+		DisplayName: 绽生魔石
+		Tooltip:
+			'''
+			仆从攻击有33%概率轻微治疗你
+			召唤一个生命木橡子能自动攻击并追踪敌怪
+			你的治疗法术会增加被治疗目标的生命恢复和生命恢复速率
+			获得绽花盾、芳香胸花、活力花瓣、蜜蜂靴和丛林之心的效果
+			获得园丁的剑鞘、希望之种和甜蜜的复仇的效果
+			“你与自然融为一体”
+			'''
+	}
+
+	FlightEnchantment: {
+		DisplayName: 飞羽魔石
+		Tooltip:
+			'''
+			允许短暂飞行
+			获得皇家彩蛋和履空靴的效果
+			“天空是你的飞行场地”
+			'''
+	}
+
+	FungusEnchantment: {
+		DisplayName: 真菌魔石
+		Tooltip:
+			'''
+			对真菌影响的敌怪造成的伤害提高10%
+			对真菌影响的敌怪造成伤害时会短暂增加10%投掷速度
+			“我们中出了个叛徒”
+			'''
+	}
+
+	DangerEnchantment: {
+		DisplayName: 危机魔石
+		Tooltip:
+			'''
+			免疫大多数伤害性减益
+			获得影缀花和水蛭剑鞘的效果
+			“让我们来点危险的……”
+			'''
+	}
+
+	SandstoneEnchantment: {
+		DisplayName: 砂石魔石
+		Tooltip:
+			'''
+			沙漠之风为你提供了一次沙质二段跳
+			“被沙漠狂风所笼罩”
+			'''
+	}
+
+	DangerGreaves: {
+		DisplayName: 危机护胫
+		Tooltip: “昔日所用之物”
+	}
+
+	DangerHelmet: {
+		DisplayName: 危机头盔
+		Tooltip: “昔日所用之物”
+	}
+
+	DangerMail: {
+		DisplayName: 危机胸甲
+		Tooltip: “昔日所用之物”
+	}
+
+	DangerShard: {
+		DisplayName: 危机碎片
+		Tooltip: “昔日所用之物”
+	}
+
+	MuspelheimForce: {
+		DisplayName: 穆斯贝尔海姆之力
+		Tooltip:
+			'''
+			拥有砂石、危机、飞羽和真菌盔甲的套装奖励
+			拥有生命木、绽花和生命绽放盔甲的套装奖励
+			获得获得绽花盾、芳香胸花、活力花瓣和丛林之心的效果
+			获得皇家彩蛋、履空靴、蜜蜂靴、水蛭剑鞘和影缀花的效果
+			获得园丁的剑鞘、希望之种和甜蜜的复仇的效果
+			“炽热如火，此乃苏尔特之迹……”
+			'''
+	}
+
+	DarksteelEnchantment: {
+		DisplayName: 暗钢魔石
+		Tooltip:
+			'''
+			增加15%伤害减免
+			没有什么能阻挡你的移动
+			双击进行冲刺
+			免疫蹒跚者的链球
+			获得尖刺护腕和举足轻重靴的效果
+			“轻盈耐用”
+			'''
+	}
+
+	SteelEnchantment: {
+		DisplayName: 钢魔石
+		Tooltip:
+			'''
+			增加5%伤害减免
+			获得尖刺护腕和举足轻重靴的效果
+			“由铁匠专业锻造”
+			'''
+	}
+
+	ConduitEnchantment: {
+		DisplayName: 电容魔石
+		Tooltip:
+			'''
+			不断移动会生成最多5个静电环，每个都会为你添加生命护盾
+			当满充能时，一个能量泡泡会保护你免受一次攻击
+			泡泡阻挡攻击后会向周围的敌人释放电束 
+			获得喷气靴的效果
+			“飞速逃离这个世界”
+			'''
+	}
+
+	DurasteelEnchantment: {
+		DisplayName: 耐钢魔石
+		Tooltip:
+			'''
+			增加18%伤害减免
+			免疫蹒跚者的链球
+			获得水晶矛尖、炽光疾行、举足轻重靴和尖刺护腕的效果
+			“由铁匠精心打造而成”
+			'''
+	}
+
+	BronzeEnchantment: {
+		DisplayName: 青铜魔石
+		Tooltip:
+			'''
+			投掷伤害有20%概率释放一道穿透性闪电
+			获得奥林匹克圣火、英灵的反击之盾和斯巴达凉鞋的效果
+			“你得到了宙斯的眷顾”
+			'''
+	}
+
+	GraniteEnchantment: {
+		DisplayName: 花岗岩魔石
+		Tooltip:
+			'''
+			免疫高温和敌怪击退，但你的移动速度大幅降低
+			获得动能转换装置的效果
+			“防御性能量”
+			'''
+	}
+
+	TitanEnchantment: {
+		DisplayName: 泰坦魔石
+		Tooltip:
+			'''
+			增加15%伤害
+			获得水晶之眼面具、深渊贝壳和Rock音乐播放器的效果
+			“充满始源能量”
+			'''
+	}
+
+	SvartalfheimForce: {
+		DisplayName: 斯瓦特阿尔海姆之力
+		Tooltip:
+			'''
+			拥有花岗岩、青铜和暗钢盔甲的套装奖励
+			拥有耐钢、泰坦和电容盔甲的套装奖励
+			获得动能转换装置、英灵的反击之盾、Rock音乐播放器和尖刺护腕的效果
+			获得水晶矛尖、水晶之眼面具、喷气靴和深渊贝壳的效果
+			获得奥林匹克圣火、炽光疾行、举足轻重靴和斯巴达凉鞋的效果
+			“请看黑暗精灵的杰作……”
+			'''
+	}
+
+	JesterEnchantment: {
+		DisplayName: 弄臣魔石
+		Tooltip:
+			'''
+			音波暴击会在你头顶响起一个铃铛并短暂减速附近所有敌怪
+			获得粉丝的信函的效果
+			“胡闹的小丑”
+			'''
+	}
+
+	TerrariumEnchantment: {
+		DisplayName: 元素魔石
+		Tooltip:
+			'''
+			泰拉瑞亚的能量会追寻并保护着你
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键可以切换职业专注
+			造成的伤害增加10%
+			音波暴击会在你头顶响起一个铃铛并短暂减速附近所有敌怪
+			获得精准项链和恢复手环的效果
+			获得界元音箱、魔戒和粉丝的信函的效果
+			获得元素粒子加速靴和界元之庇护的效果
+			“一切都会在你的力量面前倒下……”
+			'''
+
+		Focus: {
+			Generic: {
+				Name: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Generic.Name
+				Description: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Generic.Description
+			}
+
+			Melee: {
+				Name: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Melee.Name
+				Description: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Melee.Description
+			}
+
+			Ranged: {
+				Name: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Ranged.Name
+				Description: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Ranged.Description
+			}
+
+			Magic: {
+				Name: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Magic.Name
+				Description: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Magic.Description
+			}
+
+			Summon: {
+				Name: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Summon.Name
+				Description: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Summon.Description
+			}
+
+			Throwing: {
+				Name: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Throwing.Name
+				Description: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Throwing.Description
+			}
+
+			Healer: {
+				Name: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Healer.Name
+				Description: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Healer.Description
+			}
+
+			Bard: {
+				Name: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Bard.Name
+				Description: Mods.FargosSoulsModDLCRecreated.Items.TerrariumEnchantment.Focus.Bard.Description
+			}
+		}
+	}
+
+	ThoriumEnchantment: {
+		DisplayName: 瑟银魔石
+		Tooltip:
+			'''
+			造成的伤害增加10%
+			音波暴击会在你头顶响起一个铃铛并短暂减速附近所有敌怪
+			获得精准项链、恢复手环、魔戒和粉丝的信函的效果
+			“它充满能量”
+			'''
+	}
+
+	ValadiumEnchantment: {
+		DisplayName: 虚金魔石
+		Tooltip:
+			'''
+			按下 up 翻转重力
+			翻转时远程伤害增加15%
+			获得注视者之镜和紊流气球的效果
+			“哪边是上？”
+			'''
+	}
+
+	ShadeMasterEnchantment: {
+		DisplayName: 浸影魔石
+		Tooltip:
+			'''
+			你所受伤害的50%将会在接下来的10秒内结算
+			获得忍者魔符的效果
+			“匿于暗影，一击致命”
+			'''
+	}
+
+	GeodeEnchantment: {
+		DisplayName: 晶体魔石
+		Tooltip:
+			'''
+			你现在可以一次挖掘整个矿脉
+			玩家会散发光芒
+			获得水晶蝎的效果
+			召唤宠物魔法灯笼和海神宝盒
+			“由最奢华的材料制成”
+			'''
+	}
+
+	LodestoneEnchantment: {
+		DisplayName: 地脉魔石
+		Tooltip:
+			'''
+			每失去25%生命值增加6%伤害减免
+			低于25%生命值时伤害减免到达最大18%
+			获得太空甲虫壳、岩石之心和黑曜石鳞片的效果
+			“坚如磐石”
+			'''
+	}
+
+	IllumiteEnchantment: {
+		DisplayName: 荧光魔石
+		Tooltip:
+			'''
+			大部分远程武器具有特殊属性
+			每射出5发子弹释放一发多段判定的荧光子弹
+			每射出4支箭矢释放三发荧光能量
+			每射出3枚火箭释放一枚荧光导弹
+			获得Jazz音乐播放器、震荡弹头和核弹头配件的效果
+			“你感觉还不够粉”
+			'''
+	}
+
+	MidgardForce: {
+		DisplayName: 米德加德之力
+		Tooltip:
+			'''
+			拥有地脉、虚金、荧光和暗影大师盔甲的套装奖励
+			拥有弄臣、瑟银和元素之灵盔甲的套装奖励
+			获得精准项链、恢复手环、紊流气球、魔戒和粉丝的信函的效果
+			获得太空甲虫壳、岩石之心、黑曜石鳞片和注视者之镜的效果
+			获得忍者魔符、水晶蝎和界元音箱的效果
+			获得Jazz音乐播放器、震荡弹头和核弹头配件的效果
+			获得元素粒子加速靴和界元之庇护的效果
+			召唤宠物魔法灯笼和海神宝盒
+			“人类的未来掌握在自己手中”
+			'''
+	}
+
+	YewWoodEnchantment: {
+		DisplayName: 紫衫木魔石
+		Tooltip:
+			'''
+			若4次非暴击则下次远程攻击造成150%伤害的小暴击
+			获得哥布林战盾和拇指环的效果
+			“这种奇怪的木头来自异世界”
+			'''
+	}
+
+	TideHunterEnchantment: {
+		DisplayName: 猎潮魔石
+		Tooltip:
+			'''
+			远程暴击会释放一堆泡沫，减速附近敌怪
+			若4次非暴击则下次远程攻击造成150%伤害的小暴击
+			获得哥布林战盾、拇指环和琵琶鱼球碗的效果
+			“不只是为了捕鱼”
+			'''
+	}
+
+	WhisperingEnchantment: {
+		DisplayName: 低语魔石
+		Tooltip:
+			'''
+			偶尔产生一根深渊能量触手攻击附近敌怪
+			拥有至多6根触手且它们的伤害会从被击中的敌怪吸取1点生命和魔力
+			获得惊魂甲壳、扳手拳套和扭曲剑鞘的效果
+			“使用拉莱耶的古神之力”
+			'''
+	}
+
+	DepthDiverEnchantment: {
+		DisplayName: 潜海魔石
+		Tooltip:
+			'''
+			你和附近的所有队友可以在水下呼吸
+			获得游泳的能力
+			你和附近的队友增加10%伤害和移动速度
+			获得海风垂饰、沉没的金币和泡泡磁铁的效果
+			召唤宠物深海琵琶鱼
+			“成为无私的保护者”
+			'''
+	}
+
+	OceanEnchantment: {
+		DisplayName: 珊瑚魔石
+		Tooltip:
+			'''
+			光辉伤害会建立至多20点生命护盾且你的生命护盾不会随时间衰减
+			治疗队友会将生命护盾转移至他们身上
+			获得游泳的能力
+			获得海风垂饰和泡泡磁铁的效果
+			“在鱼群中徜徉”
+			'''
+	}
+
+	CryomancerEnchantment: {
+		DisplayName: 极寒魔石
+		Tooltip:
+			'''
+			你的魔法攻击会[C/4CB7D0:冻结]敌怪2秒
+			一个冰光环环绕着你，冻结待在其中太久的敌怪
+			获得遁蛛冰皮和暴雪袋的效果
+			召唤宠物迷失雪鸮
+			“是什么结束了大灾难？冰河时代！”
+			'''
+	}
+
+	IcyEnchantment: {
+		DisplayName: 碎冰魔石
+		Tooltip:
+			'''
+			一个冰光环环绕着你，冻结待在其中太久的敌怪
+			“触之即寒”
+			'''
+	}
+
+	NagaSkinEnchantment: {
+		DisplayName: 娜迦魔石
+		Tooltip:
+			'''
+			每消耗75点魔力会短暂地大幅增加你的魔法伤害和施法速度
+			获得海潮之噬、求生家之飞鞋和神庙蜥蜴之尾的效果
+			获得蛇之盾、泰坦杀手剑鞘和美人鱼水壶的效果
+			“极度危险的水下“面条””
+			'''
+	}
+
+	JotunheimForce: {
+		DisplayName: 约顿海姆之力
+		Tooltip:
+			'''
+			拥有深海潜游者、紫衫木和猎潮盔甲的套装奖励
+			拥有娜迦、碎冰、极寒巫师和低语者盔甲的套装奖励
+			获得海风垂饰、海潮之噬、求生家之飞鞋和神庙蜥蜴之尾的效果
+			获得蛇之盾、泰坦杀手剑鞘、美人鱼水壶和泡泡磁铁的效果
+			获得哥布林战盾、拇指环和沉没的金币的效果
+			获得琵琶鱼球碗、暴雪袋和遁蛛冰皮的效果
+			获得惊魂甲壳、扳手拳套和扭曲剑鞘的效果
+			召唤宠物深海琵琶鱼和迷失雪鸮
+			“刺骨严寒，这便冰霜巨人之力……”
+			'''
+	}
+
+	DragonEnchantment: {
+		DisplayName: 绿龙魔石
+		Tooltip:
+			'''
+			你的攻击有概率释放龙焰爆炸
+			获得Disco音乐播放器的效果
+			“由神话般的鳞片制成”
+			'''
+	}
+
+	DreadEnchantment: {
+		DisplayName: 恐惧魔石
+		Tooltip:
+			'''
+			你的靴子以不真实的频率振动，大幅增加基础移动速度
+			移动时，提升你的近战伤害和暴击率
+			你的攻击有概率释放龙焰爆炸
+			获得震地靴、Disco音乐播放器和咒炎连枷核心
+			“充满该死的灵魂”
+			'''
+	}
+
+	MalignantEnchantment: {
+		DisplayName: 巫毒魔石
+		Tooltip:
+			'''
+			当魔力高于90%时，增加12%魔法伤害
+			获得工匠的聚焦项链、工匠的护盾和工匠的火箭靴的效果
+			“要多邪恶才算邪恶？”
+			'''
+	}
+
+	SilkEnchantment: {
+		DisplayName: 丝绸魔石
+		Tooltip:
+			'''
+			当魔力高于90%时，增加12%魔法伤害
+			获得工匠的聚焦项链的效果
+			'''
+	}
+
+	SpiritTrapperEnchantment: {
+		DisplayName: 猎魂魔石
+		Tooltip:
+			'''
+			击杀敌怪或持续伤害Boss会生成灵魂微粒
+			生成5个微粒后，它们会被立刻消耗并治疗你10点生命值
+			增加额外1个最大仆从栏位和2个哨兵栏位
+			获得心灵之火和全知水晶球的效果
+			“如此多迷失的灵魂……”
+			'''
+	}
+
+	DemonBloodEnchantment: {
+		DisplayName: 魔血魔石
+		Tooltip:
+			'''
+			增加100最大生命值
+			连续攻击敌人可能会掉落肉，收集肉能恢复生命并获得伤害加成
+			获得吸血鬼试剂、长剑徽章和邪恶连枷核心的效果
+			召唤宠物飞行疱虫
+			“注入腐化的血液”
+			'''
+	}
+
+	FleshEnchantment: {
+		DisplayName: 血肉魔石
+		Tooltip:
+			'''
+			连续攻击敌人可能会掉落肉，收集肉能恢复生命并获得伤害加
+			获得吸血鬼试剂的效果
+			召唤宠物飞行疱虫
+			“与你的身体共生”
+			'''
+	}
+
+	WhiteKnightEnchantment: {
+		DisplayName: 白骑士魔石
+		Tooltip:
+			'''
+			消耗的40%魔力储存为能量，最多存储400点
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键每次恢复最多200点魔力和20点生命值
+			获得暗影催化剂的效果
+			召唤宠物小猫
+			“降于凡世，来自圣堂”
+			'''
+	}
+
+	HarbingerEnchantment: {
+		DisplayName: 先兆魔石
+		Tooltip:
+			'''
+			增加50%最大魔力值
+			当魔力值高于75%时，你会变得[C/3BAF83:不稳定]
+			此时增加50%魔法伤害和26%魔法暴击率
+			消耗的40%魔力储存为能量，最多存储400点
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键每次恢复最多200点魔力和20点生命值
+			获得暗影催化剂的效果
+			召唤宠物小猫
+			'''
+	}
+
+	ArcaneDust: {
+		DisplayName: 奥术粉尘
+		Tooltip: “它具有十分强大的魔法潜能”
+	}
+
+	HarbingerCatalyst: {
+		DisplayName: 先兆石
+		Tooltip: “只有拥有难以置信的魔法控制力的人才能使用这物品”
+	}
+
+	HarbingerChestguard: {
+		DisplayName: 先兆胸甲
+		Tooltip: “昔日所用之物”
+	}
+
+	HarbingerGreaves: {
+		DisplayName: 先兆护胫
+		Tooltip: “昔日所用之物”
+	}
+
+	HarbingerHelmet: {
+		DisplayName: 先兆头盔
+		Tooltip: “昔日所用之物”
+	}
+
+	MagmaEnchantment: {
+		DisplayName: 熔岩魔石
+		Tooltip:
+			'''
+			火焰会萦绕在你和你的近战武器
+			被点燃或灼烧的敌人将随时间受到额外伤害
+			获得弹簧鞋、熔渣重踏和炽热矛尖的效果
+			“散发大量热量”
+			'''
+	}
+
+	BerserkerEnchantment: {
+		DisplayName: 狂战魔石
+		Tooltip:
+			'''
+			每损失25%血量便增加15%伤害
+			火焰会萦绕在你和你的近战武器
+			被点燃或灼烧的敌人将随时间受到额外伤害
+			获得弹簧鞋、熔渣重踏和炽热矛尖的效果
+			获得注视者之凝和代谢药的效果
+			“宁战死，不苟活！”
+			'''
+	}
+
+	BerserkerShard: {
+		DisplayName: 狂战士碎晶
+		Tooltip: “单单拿着就让你感到怒火滔天”
+	}
+
+	MagmaChestguard: {
+		DisplayName: 熔岩护胸
+		Tooltip: “昔日所用之物”
+	}
+
+	MagmaGreaves: {
+		DisplayName: 熔岩腿甲
+		Tooltip: “昔日所用之物”
+	}
+
+	MagmaHelmet: {
+		DisplayName: 熔岩头盔
+		Tooltip: “昔日所用之物”
+	}
+
+	HelheimForce: {
+		DisplayName: 赫尔海姆之力
+		Tooltip:
+			'''
+			拥有猎魂者、巫毒、绿龙、恐惧、血肉和魔血盔甲的套装奖励
+			拥有熔岩、狂战士、白骑士和先兆盔甲的套装奖励
+			获得心灵之火、全知水晶球、炽热矛尖和震地靴的效果
+			获得吸血鬼试剂、长剑徽章、弹簧鞋和熔渣重踏的效果
+			获得暗影催化剂、Disco音乐播放器、咒炎连枷核心和邪恶连枷核心的效果
+			获得工匠的聚焦项链、工匠的护盾和工匠的火箭靴的效果
+			获得注视者之凝和代谢药的效果
+			召唤许多宠物
+			“从冥府中窥见末日……”
+			'''
+	}
+
+	BerserkerBreastplate: {
+		DisplayName: 狂战士护胫
+		Tooltip: “昔日所用之物”
+	}
+
+	BerserkerGreaves: {
+		DisplayName: 狂战士胸甲
+		Tooltip: “昔日所用之物”
+	}
+
+	BerserkerMask: {
+		DisplayName: 狂战士面甲
+		Tooltip: “昔日所用之物”
+	}
+
+	DreamWeaverEnchantment: {
+		DisplayName: 织梦魔石
+		Tooltip:
+			'''
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键消耗400将你置于梦中并扭曲现实结构
+			在梦中时，被治疗的队友会变得短暂无敌且所有减益都会被治愈
+			敌怪会被大幅减速且受到所有来源的伤害增加15%
+			队友会大幅增加移动速度和攻击速度
+			获得欧米伽核心的效果
+			“与友筑梦，暂缚来敌”
+			'''
+	}
+
+	TideTurnerEnchantment: {
+		DisplayName: 洪流魔石
+		Tooltip:
+			'''
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键将你包裹在密不透风发泡泡中
+			当泡泡存在时, 将所有受到的伤害转化为治疗
+			每半秒钟产生一个漂浮球
+			每颗球会增加防御力并使你下次攻击没暴击时产生一次小暴击
+			溢出的投掷伤害会以能量形式击中敌人
+			投掷攻击有20%的几率在你周围释放追踪水刃
+			获得瘟疫之主的药剂瓶的效果
+			“变得像潮汐一样势不可挡，向你的敌人释放海洋之怒”
+			'''
+	}
+
+	PyromancerEnchantment: {
+		DisplayName: 炎法魔石
+		Tooltip:
+			'''
+			你的魔法伤害会造成严重烧伤并伤害所有附近敌怪
+			所有仆从伤害会滞留下造成大量伤害的灼烧
+			获得等离子护盾发生器、小型聚变发生器、地狱领主的聚焦项链的效果
+			“你的熔岩凝视足以令人惊骇”
+			'''
+	}
+
+	RhapsodistEnchantment: {
+		DisplayName: 狂音魔石
+		Tooltip:
+			'''
+			增加灵感音符掉落数量
+			给予附近的队友一个随机的 Ⅰ 级咒音增幅
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键使你获得无限的灵感值并大幅增加音波伤害和演奏速度
+			同时会用每种 Ⅲ 级咒音增幅超载附近的队友15秒
+			使用此能力需要1分钟的充能
+			“你的歌声激励一支军队，你的天赋不输任何一人”
+			'''
+	}
+
+	AsgardForce: {
+		DisplayName: 阿斯加德之力
+		Tooltip:
+			'''
+			拥有洪流逆潮者、刺客和炎法盔甲的套装奖励
+			拥有梦境编织者和狂想音乐盔甲的套装奖励
+			获得离子护盾发生器、小型聚变发生器和地狱领主的聚焦项链的效果
+			获得欧米伽核心和瘟疫之主的药剂瓶的效果
+			“可曾听闻诸神黄昏？”
+			'''
+	}
+
+	ThoriumSoul: {
+		DisplayName: 世界树之魂
+		Tooltip: ""
+	}
+
+	BardEssence: {
+		DisplayName: 乐师精华
+		Tooltip:
+			'''
+			增加18%音波伤害
+			增加5%音波演奏速度
+			增加5%音波暴击率
+			“这只是个开始……”
+			'''
+	}
+
+	HealerEssence: {
+		DisplayName: 牧师精华
+		Tooltip:
+			'''
+			增加18%光辉伤害
+			增加5%治疗速度和光辉施法速度
+			增加5%光辉暴击率
+			“这只是个开始……”
+			'''
+	}
+
+	BardSoul: {
+		DisplayName: 颂歌之魂
+		Tooltip:
+			'''
+			增加30%音波伤害
+			增加20%音波演奏速度
+			增加15%音波暴击率
+			增加20点最大灵感值
+			打击乐器暴击会多造成10%伤害
+			打击乐器暴击会短暂眩晕敌怪
+			管乐器现在会试图快速跟踪敌怪
+			如果攻击已经能跟踪敌怪，它的速度会变得更快
+			弦乐器弹幕会额外反弹5次
+			铜管乐器暴击会释放一阵穿透性能量
+			“一乐一天地”
+			'''
+	}
+
+	GuardianAngelsSoul: {
+		DisplayName: 护使之魂
+		Tooltip:
+			'''
+			增加30%光辉伤害
+			增加20%治疗速度和光辉施法速度
+			增加15%光辉暴击率
+			治疗法术会额外治5点生命值
+			指向生命值最少的队友
+			治疗队友会增加你的移动速度并提升他们的防御和生命恢复速度
+			饮用治疗药水后，附近所有玩家会回复25生命和50魔力并使你的治疗加成增加1点
+			使你和附近队友受到的伤害降低10%
+			附近队友死亡时会掉落灵魂能量微粒
+			“神圣干预”
+			'''
+	}
+
+	BotanistEnchant: {
+		DisplayName: 植物学魔石
+		Tooltip:
+			'''
+			增加玩家获取的草药数量
+			在暗处草药会发光
+			在荆棘之地的地下或夜晚增加视野
+			'''
+	}
+
+	ElderbarkEnchant: {
+		DisplayName: 古木魔石
+		Tooltip: 提高所有物品2点伤害
+	}
+
+	DriftwoodEnchant: {
+		DisplayName: 浮木魔石
+		Tooltip: 处于海洋环境时，增加渔力、防御力以及钓上宝匣的概率
+	}
+
+	FloranEnchant: {
+		DisplayName: 叶族魔石
+		Tooltip:
+			'''
+			击杀敌人时有几率掉落生肉，生肉会回复生命值并给予[C/FB976C:吃得好]增益
+			站在草地上时，增加5%近战攻击速度并略微提升生命恢复速度
+			'''
+	}
+
+	SunflowerEnchant: {
+		DisplayName: 太阳花魔石
+		Tooltip: 处于白天室外时略微增加防御力、最大魔力值和生命恢复速度
+	}
+
+	WayfarersEnchant: {
+		DisplayName: 远行魔石
+		Tooltip:
+			'''
+			击杀敌怪、打破罐子、挖掘矿石时获得至多4层增益
+			获得金属手环的效果
+			获得探险家之靴的效果
+			'''
+	}
+
+	ApostleEnchant: {
+		DisplayName: 古翼魔石
+		Tooltip:
+			'''
+			魂风指引着你，并给予你二段跳
+			魔法和远程攻击偶尔会产生羽毛来协同攻击
+			'''
+	}
+
+	AstraliteEnchant: {
+		DisplayName: 星界魔石
+		Tooltip:
+			'''
+			双击 向上/向下 键在光标位置部署一个能量场
+			能量场存在5秒，并会增压所有经过能量场的远程弹幕
+			获得超重力靴的效果
+			'''
+	}
+
+	ChitinEnchant: {
+		DisplayName: 甲壳魔石
+		Tooltip:
+			'''
+			双击方向键将你包裹在一股旋风中并进行冲刺
+			沙尘暴期间免疫[C/D5D5E0:强风]减益
+			'''
+	}
+
+	RogueEnchant: {
+		DisplayName: 盗贼魔石
+		Tooltip:
+			'''
+			受到攻击时会获得4秒的隐身和100%的伤害提升效果，此效果有25秒冷却时间
+			获得盗贼饰章和迅捷符文的效果
+			'''
+	}
+
+	MarbleChunkEnchant: {
+		DisplayName: 镀金魔石
+		Tooltip: 按 向上 键获得[C/FFE581:神性之风]增益，允许你进行有限的飞行，此效果有10秒冷却时间
+	}
+
+	RunicEnchant: {
+		DisplayName: 符文魔石
+		Tooltip:
+			'''
+			在身后留下危险的爆炸符文
+			获得符文巫师的卷轴的效果
+			'''
+	}
+
+	SeraphEnchant: {
+		DisplayName: 炽天使魔石
+		Tooltip:
+			'''
+			附近每有一名敌人，便会提升生命恢复速度、魔力恢复速度和近战攻速，并降低6%魔力消耗
+			获得天国符印和炽天使壁垒的效果
+			'''
+	}
+
+	BismiteEnchant: {
+		DisplayName: 铋华魔石
+		Tooltip:
+			'''
+			未受到攻击时会积蓄毒性
+			毒性充能后，攻击会释放剧毒爆炸
+			被敌人击中时，会对敌人施加[C/5B903A:溃烂伤口]减益
+			'''
+	}
+
+	CascadeEnchant: {
+		DisplayName: 涌流魔石
+		Tooltip:
+			'''
+			对敌人造成伤害时会构建起泡泡盾
+			完整尺寸大小的泡泡盾对受到的下次攻击有着极高的伤害抗性
+			双击 向上/向下 键可以在短时间内在水中自由移动
+			'''
+	}
+
+	GraniteChunkEnchant: {
+		DisplayName: 花岗岩魔石
+		Tooltip:
+			'''
+			在下落时，双击 向上/向下 键进行下砸践踏
+			撞击地面时会释放随高度变化的冲击波
+			获得心律防滑鞋和神射手手套的效果
+			'''
+	}
+
+	PrimalstoneEnchant: {
+		DisplayName: 古石魔石
+		Tooltip:
+			'''
+			近战和魔法攻击会造成[C/5B77E2:痛苦无常]减益
+			获得泰坦壁垒的效果
+			'''
+	}
+
+	SpiritEnchant: {
+		DisplayName: 魂灵魔石
+		Tooltip:
+			'''
+			魂灵会基于你当前生命值赋予你各种增益
+			获得影迹之牙的效果
+			'''
+	}
+
+	StreamSurferEnchant: {
+		DisplayName: 越浪魔石
+		Tooltip:
+			'''
+			双击 向上/向下 键创造一个可驾驭的水龙卷来伤害敌人
+			增加跳跃高度和下落速度
+			'''
+	}
+
+	BloodcourtEnchant: {
+		DisplayName: 血庭魔石
+		Tooltip:
+			'''
+			双击向上或向下键献祭8%最大生命值，并发射一束暗魂矢，在半径范围内造成高额伤害
+			获得可怖之舌和血染戒石的效果
+			'''
+	}
+
+	CryoliteEnchant: {
+		DisplayName: 冰晶魔石
+		Tooltip:
+			'''
+			生成一个能减速附近敌人的冰环
+			冰环会逐渐扩大，但会在你受到伤害时重置大小
+			获得寒冬帽和四牌同点的效果
+			'''
+	}
+
+	DuskEnchant: {
+		DisplayName: 薄暮魔石
+		Tooltip:
+			'''
+			魔法攻击施加[C/8D60FE:暗影焰]减益
+			在夜晚提高8%魔法和远程伤害
+			附近的敌人和被攻击的敌人有几率受到连锁闪电的攻击
+			“Andrew Hulshult”
+			'''
+	}
+
+	FrigidEnchant: {
+		DisplayName: 严寒魔石
+		Tooltip:
+			'''
+			双击 向上/向下 键在光标位置创造一面冰墙，此效果有8秒冷却时间
+			获得严寒护膝的效果
+			'''
+	}
+
+	MarksmanEnchant: {
+		DisplayName: 神射手魔石
+		Tooltip:
+			'''
+			增加4%暴击率
+			穿戴神射手盔甲时可以集中注意力
+			注意力集中时，你的下次攻击必定暴击并且会造成更多伤害
+			到伤害时注意力会消失，但站定不动时会使注意力恢复的更快
+			'''
+	}
+
+	PainMongerEnchant: {
+		DisplayName: 苦痛散播魔石
+		Tooltip:
+			'''
+			生命值低于25%时，降低4点防御，但炎狱守卫会环绕着你
+			炎狱守卫会大幅度增加魔法伤害并降低魔力消耗
+			魔法攻击会射出炽热吐息，击中敌人后爆炸
+			'''
+	}
+
+	SlagTyrantEnchant: {
+		DisplayName: 熔渣暴君魔石
+		Tooltip:
+			'''
+			双击 向上/向下 键使所有哨兵释放火球，此效果有8秒冷却时间
+			召唤魔法权杖为你而战
+			权杖不占用随从栏
+			'''
+	}
+
+	AdventurerForce: {
+		DisplayName: 行者之力
+		Tooltip:
+			'''
+			拥有浮木、植物学家和叶族盔甲的套装奖励
+			拥有古木、远行者和太阳花盔甲的套装奖励
+			获得金属手环、探险家之靴、弃誓者吊坠和叶族狩猎护符的效果
+			'''
+	}
+
+	HurricaneForce: {
+		DisplayName: 飓风之力
+		Tooltip:
+			'''
+			拥有盗贼、甲壳、古翼信徒和镀金盔甲的套装奖励
+			拥有星界、炽天使和符文盔甲的套装奖励
+			获得盗贼饰章、迅捷符文和超重力靴的效果
+			获得炽天使壁垒、天国符印和符文巫师的卷轴的效果
+			'''
+	}
+
+	AtlantisForce: {
+		DisplayName: 亚特兰蒂斯之力
+		Tooltip:
+			'''
+			拥有铋华、涌流和花岗岩盔甲的套装奖励
+			拥有越浪者、魂灵和擎元古石盔甲的套装奖励
+			获得剧毒圆盾、海洋吊坠、心律防滑鞋和神射手手套的效果
+			获得飞鱼鳍、影迹之牙和泰坦壁垒的效果
+			'''
+	}
+
+	FrostburnForce: {
+		DisplayName: 冰疮之力
+		Tooltip:
+			'''
+			拥有血庭、冰晶、薄暮和严寒盔甲的套装奖励
+			拥有神射手、苦痛散播者和熔渣暴君盔甲的套装奖励
+			获得血染戒石、可怖之舌、寒冬帽和四牌同点的效果
+			获得电涌吉他、严寒护膝、炽焰之喉和西里米权杖的效果
+			'''
+	}
+
+	SpiritSoul: {
+		DisplayName: 幻象之魂
+		Tooltip: ""
+	}
+
+	KiSoul: {
+		DisplayName: 气之魂
+		Tooltip:
+			'''
+			增加35%气伤害
+			减少40%气消耗
+			增加20%气暴击率
+			增加30%气击退力
+			大幅提升集气速度
+			飞行速度大幅提升
+			飞行时气的消耗大幅降低
+			所有气功波的蓄力上限+5
+			显著增加气珠的拾取范围
+			提升气珠的回复量
+			大幅提升气恢复速度
+			增加30%最大气槽
+			获得阿斯佩拉水晶石、黑钻晶壳、布尔德合金和龙晶灌注器的效果
+			获得地灵秘宝、界王水晶 、魔人核心、精神护符、黄色探测器和全功率护符的效果
+			“世界之灵在你体内共鸣”
+			'''
+	}
+
+	PrairieEnchantment: {
+		DisplayName: Prairie Enchantment
+		Tooltip: ""
+	}
+
+	FrozenEnchantment: {
+		DisplayName: 寒狱魔石
+		Tooltip:
+			'''
+			增加20%真近战伤害
+			免疫冰冻
+			真近战攻击会施加霜冻减益
+			按下 [{$Mods.CalamityMod.Keybinds.ActivateAccessoryParry.DisplayName}] 键生成可以格挡攻击的冰盾
+			格挡失败导致冷却时间变长
+			'''
+	}
+
+	IntergelacticEnchantment: {
+		DisplayName: 异宇星凝魔石
+		Tooltip:
+			'''
+			在你周围召唤两个有小行星组成的星环，星环的伤害取决你的伤害加成
+			按下 [异宇星凝套装星环可见性] 键使星环变透明
+			增加120点最大潜行值
+			减少20%魔力消耗，且通过药水回复的魔力值额外增加100
+			增加3个最大仆从栏位和6%召唤暴击率
+			免疫星辉凋亡，且你的攻击会造成星辉凋亡
+			免疫击退和某些影响移动的减益
+			获得凝涌星核的效果
+			'''
+	}
+
+	ShogunEnchantment: {
+		DisplayName: 神胶幕府魔石
+		Tooltip:
+			'''
+			增加17%伤害和5个最大仆从栏位
+			允许冲刺并强化其余冲刺效果
+			按住 DOWN 加速下落
+			提高跳跃速度
+			免疫许多游戏末期和影响移动的减益
+			获得异彩果酱的效果
+			'''
+	}
+
+	VoidFaquirEnchantment: {
+		DisplayName: 虚空行者魔石
+		Tooltip:
+			'''
+			击中目标会积攒虚空能量
+			根据虚空能量提供相应移动速度和飞行速度的加成
+			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键激发虚空能量
+			召唤虚空幻影协助战斗并无限飞行，持续10秒
+			虚空幻影伤害取决于手中武器
+			击中敌人获取更多虚空能量
+			远程射弹的伤害随时间增加
+			潜伏攻击获得更多虚空能量
+			召唤一只虚空共生提协助战斗
+			获得轮回证章和神谕卡组的效果
+			'''
+	}
+
+	AddonsForce: {
+		DisplayName: 灾集之力
+		Tooltip:
+			'''
+			拥有寒狱和异宇星凝盔甲的套装奖励
+			拥有神胶幕府和虚空行者盔甲的套装奖励
+			获得凝涌星核和异彩果酱的效果
+			获得轮回证章和神谕卡组的效果
+			'''
+	}
+
+	PhantasmalEnchantment: {
+		DisplayName: 灵能魔石
+		Tooltip:
+			'''
+			汲取附近敌人的魔力
+			获得影月外骨骼的效果
+			'''
+	}
+
+	DragonEnchantmentConsolaria: {
+		DisplayName: 龙魔石
+		Tooltip: 受到伤害后造成火焰爆发
+	}
+
+	TitanEnchantmentConsolaria: {
+		DisplayName: 泰坦魔石
+		Tooltip: 充能完成后使用远程武器将引发爆炸并对玩家造成击退
+	}
+
+	GemTechEnchantment: {
+		Tooltip: ""
+		DisplayName: 天钻魔石
+	}
+
+	PlaguebringerEnchantment: {
+		DisplayName: 瘟疫使者魔石
+		Tooltip: ""
+	}
+}
+
+Buffs: {
+	Magma: {
+		DisplayName: 熔浆
+		Description: 提升火系减益效果的伤害
+	}
+}
+
+Configs: {
+	Config: {
+		DisplayName: 设置
+		Headers.Modes: 模组
+
+		AddFargosDLCRecipeChangesWhenDisabled: {
+			Label: 禁用增添Fargo DLC配方
+			Tooltip: ""
+		}
+
+		DisableEnchantmentPets: {
+			Label: 禁用魔石宠物
+			Tooltip: ""
+		}
+
+		DisableOfficialFargoDLCEnchantments: {
+			Label: 禁用Fargo官方DLC魔石
+			Tooltip: ""
+		}
+	}
+}
+
+NPCs.Echdeath.DisplayName: 触之即死
