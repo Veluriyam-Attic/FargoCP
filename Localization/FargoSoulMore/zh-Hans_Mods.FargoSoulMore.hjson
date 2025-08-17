@@ -29,14 +29,17 @@ Items: {
 			将闪烁崇心的心攻击加强为爱之射线，增加闪烁崇心的擦弹伤害加成
 			提升幽灵憎恶的出现频率和攻击力
 			按下“炸弹”键时施放一圈幻影眼球，摧毁大多数敌对弹幕，突变炸弹有60秒的冷却时间
-			[i:FargowiltasSouls/MutantMask][i:FargowiltasSouls/MutantBody][i:FargowiltasSouls/MutantPants]召唤会向周围的敌怪发射激光的幻影球，召唤幽灵憎恶与你一同战斗，你复活时会爆发出巨大的幻影死亡射线，增加20%武器使用速度，你受到的最大伤害上限为1000
+			[i:FargowiltasSouls/MutantMask][i:FargowiltasSouls/MutantBody][i:FargowiltasSouls/MutantPants]召唤会向周围的敌怪发射激光的幻影球
+			召唤幽灵憎恶与你一同战斗，你复活时会爆发出巨大的幻影死亡射线，增加20%武器使用速度
+			你受到的最大伤害上限为1000
 			[i:FargowiltasSouls/SparklingAdoration]擦弹（擦过弹幕和敌怪本体）能提高伤害，最高可增加25%
 			伤害加成会随时间流逝而减少，被击中时清零
-			你的攻击会周期性地生成能吸血的红心，造成魔法伤害
+			你的攻击会周期性地生成能吸血的红心
 			[i:FargowiltasSouls/NekomiHood][i:FargowiltasSouls/NekomiHoodie][i:FargowiltasSouls/NekomiLeggings]增加7%手持武器职业伤害和该职业暴击率
 			增加闪烁崇心的擦弹半径，擦弹以暂时积蓄能量
 			受伤时消耗能量，增加生命恢复速度
-			双击下键以消耗能量，释放吸血爱心，能量蓄满时会挥舞象征着爱与正义的恶魔之斧，恶魔之斧在困难模式中加强
+			双击下键以消耗能量，释放吸血爱心
+			能量蓄满时会挥舞象征着爱与正义的恶魔之斧，恶魔之斧在困难模式中加强
 			拥有[i:FargowiltasSouls/EridanusHat][i:FargowiltasSouls/EridanusBattleplate][i:FargowiltasSouls/EridanusLegwear]波江盔甲，[i:FargowiltasSouls/GaiaHelmet][i:FargowiltasSouls/GaiaPlate][i:FargowiltasSouls/GaiaGreaves]盖亚盔甲的套装奖励
 			'跨越神明的限界，晋升为真正的永恒'
 			'''
@@ -81,7 +84,7 @@ Items: {
 			[i:FargowiltasSouls/StyxCrown][i:FargowiltasSouls/StyxChestplate][i:FargowiltasSouls/StyxLeggings] 
 			增加20%手持武器职业的伤害
 			攻击敌人以积蓄冥河能量，受伤时消耗冥河能量，减免一部分伤害
-			双击向下或向上键以消耗能量，释放追踪镰刀，能量蓄满时会释放出冥狱魔剑
+			双击 向下/向上 键以消耗能量，释放追踪镰刀，能量蓄满时会释放出冥狱魔剑
 			你的攻击会附加憎恶毒牙Buff
 			'拥抱地狱'
 			'''
@@ -100,7 +103,7 @@ Items: {
 			增加7%手持武器职业伤害和该职业暴击率
 			增加闪烁崇心的擦弹半径, 擦弹以暂时积蓄能量
 			受伤时消耗能量，增加生命恢复速度
-			双击向下或向上键以消耗能量，释放吸血爱心
+			双击 向下/向上 键以消耗能量，释放吸血爱心
 			能量蓄满时会挥舞象征着爱与正义的恶魔之斧
 			你的攻击会附加戴薇安驾到Buff
 			'你正在偏离一切'
@@ -115,22 +118,16 @@ Items: {
 			获得撞击冲刺能力, 此冲刺可以在不受伤害的情况下猛击穿过敌怪
 			使你免疫霜冻、冷冻和冰冻减益
 			拥有代达罗斯魔石的效果并获得代达罗斯盔甲的套装奖励：
-			战士：
-			提升10%近战攻速，敌人更有可能以你为目标
-			你能够反弹弹幕，被反弹的弹幕只会对你造成50%的伤害，这个反弹效果有15-90秒内置冷却(时间取决于弹幕伤害量)，这个冷却时间和其它效果类似的物品共享，
-			如果你成功反弹了弹幕，你将恢复相当于弹幕伤害20%的生命值
-			射手：
-			提升5%远程伤害
-			当你被击中时释放水晶碎片
-			法师：
-			提升5%魔法伤害
-			你有10%的几率吸收一次物理伤害或者弹幕，当你成功吸收了一次攻击后，你将恢复相当于那次攻击的攻击力1/2的生命值
-			召唤师：
-			提升20%召唤伤害并+2召唤栏
-			召唤悬浮的代达罗斯水晶保护你
-			盗贼：
-			提升5%盗贼伤害，+105点最大潜行值
-			盗贼弹幕飞行时释放水晶碎片
+			[i:490] 战士：
+			{$Mods.CalamityMod.Items.Armor.Hardmode.DaedalusHeadMelee.SetBonus}
+			[i:491] 射手：
+			{$Mods.CalamityMod.Items.Armor.Hardmode.DaedalusHeadRanged.SetBonus}
+			[i:489] 法师：
+			{$Mods.CalamityMod.Items.Armor.Hardmode.DaedalusHeadMagic.SetBonus}
+			[i:2998] 召唤师：
+			{$Mods.CalamityMod.Items.Armor.Hardmode.DaedalusHeadSummon.SetBonus}
+			[i:CalamityMod/RogueEmblem] 盗贼：
+			{$Mods.CalamityMod.Items.Armor.Hardmode.DaedalusHeadRogue.SetBonus}
 			'寒晶守护'
 			'''
 	}
@@ -145,20 +142,9 @@ Items: {
 			站立不动时获得+1.5HP/s生命再生
 			减半受到火系和疾病系减益的持续时间
 			拥有掠夺者魔石的效果并获得掠夺者盔甲的套装奖励：
-			+10防御力并+3生命恢复
-			敌人更有可能以你为目标
-			受到持续性伤害减益时的生命恢复损失降低20%
-			你的任何攻击都有小概率具有生命偷取效果并且增加生命恢复速度
-			减少30%的移动速度与20%的飞行时间
-			增加10%的水平飞行速度
-			敌人会受到你的反伤，并且你被击中时召唤一束荆棘伤害敌人
-			当你受伤时有25%的几率获得掠夺者之怒增益
-			免疫摔落伤害并允许连续跳跃
-			钩爪的射速和牵引速度增加10%，降低冲刺类效果的冷却时间
-			高亮附近宝藏，提升物品拾取距离和物块放置距离，在水下挖掘物块时恢复氧气
-			召唤一个掠夺者毒球照亮周围区域
-			降低敌人的进攻性，即便身处深渊
-			在深渊中提供微量光照
+			[i:CalamityMod/ReaverHeadTank] {$Mods.CalamityMod.Items.Armor.Hardmode.ReaverHeadTank.SetBonus}
+			[i:CalamityMod/ReaverHeadMobility] {$Mods.CalamityMod.Items.Armor.Hardmode.ReaverHeadMobility.SetBonus}
+			[i:CalamityMod/ReaverHeadExplore] {$Mods.CalamityMod.Items.Armor.Hardmode.ReaverHeadExplore.SetBonus}
 			'它还活着'
 			'''
 	}
@@ -173,9 +159,7 @@ Items: {
 			你走过的草地会百花齐放
 			站在无草泥土上时有几率长出随机的染料植物
 			获得瘟疫使者盔甲的套装奖励：
-			获得瘟疫冲刺，使敌怪被瘟疫折磨
-			召唤一只小小的瘟疫使者，释放蜂群追杀你的敌人
-			增加3仆从栏
+			{$Mods.CalamityMod.Items.Armor.Hardmode.PlaguebringerVisor.SetBonus}
 			'瘟疫之源'
 			'''
 	}
@@ -184,27 +168,20 @@ Items: {
 		DisplayName: EX渊泉魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/VoidofExtinction] 	增加13%的暴击率
+			[i:CalamityMod/VoidofExtinction] 增加13%的暴击率
 			暴击会产生爆炸，并将附近的敌人用硫磺火引燃
 			大幅减少硫磺火减益造成的伤害
 			拥有渊泉魔石的效果并获得渊泉盔甲的套装奖励：
-			战士：
-			提升15%近战攻速
-			敌人更有可能以你为目标
-			近战攻击和弹幕在击中敌人时喷发出混沌火焰
-			射手：
-			提升5%远程伤害
-			使用远程武器时每0.33秒发射一团追踪的混沌火焰
-			法师：
-			提升5%魔法伤害并降低15%魔力消耗
-			魔法攻击产生伤害火球和治疗火球
-			召唤师：
-			提升40%召唤伤害并+2召唤栏
-			召唤沸腾渊泉保护你
-			盗贼：
-			提升5%盗贼伤害
-			+110点最大潜行值
-			使用盗贼武器攻击时每2秒会在你周围召唤8团追踪敌人的混沌火焰
+			[i:490] 战士：
+			{$Mods.CalamityMod.Items.Armor.Hardmode.HydrothermicHeadMelee.SetBonus}
+			[i:491] 射手：
+			{$Mods.CalamityMod.Items.Armor.Hardmode.HydrothermicHeadRanged.SetBonus}
+			[i:489] 法师：
+			{$Mods.CalamityMod.Items.Armor.Hardmode.HydrothermicHeadMagic.SetBonus}
+			[i:2998] 召唤师：
+			{$Mods.CalamityMod.Items.Armor.Hardmode.HydrothermicHeadSummon.SetBonus}
+			[i:CalamityMod/RogueEmblem] 盗贼：
+			{$Mods.CalamityMod.Items.Armor.Hardmode.HydrothermicHeadRogue.SetBonus}
 			'来自深渊的热量'
 			'''
 	}
@@ -236,7 +213,7 @@ Items: {
 		DisplayName: 瘟疫死神魔石
 		Tooltip:
 			'''
-			[i:CalamityMod/LumenousAmulet] 	攻击造成深渊水压减益
+			[i:CalamityMod/LumenousAmulet] 攻击造成深渊水压减益
 			使你免疫激流与深渊水压减益
 			处于深渊时增加25%最大生命值
 			在深渊中提供适量光照
@@ -244,7 +221,8 @@ Items: {
 			减少25%弹药消耗，增加5%飞行时间
 			受瘟疫减益作用的敌人会额外受到10%的远程伤害
 			受到伤害会使瘟疫残渣从天而降
-			按套装奖励键使自己在5秒内失去视野，但是及大幅度提升远程伤害，此效果有25秒冷却时间
+			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键使自己在5秒内失去视野，但是及大幅度提升远程伤害
+			此效果有25秒冷却时间
 			'瘟疫之魂丰收日'
 			'''
 	}
@@ -255,11 +233,8 @@ Items: {
 			'''
 			[i:CalamityMod/AeroStone] 提供50的额外飞行时间
 			当你处于空中并且没有处于飞行或滑翔状态时，你的飞行时间会缓慢恢复
-			拥有泰坦之心魔石的效果并获得泰坦之心盔甲的套装奖励：|
-			增加15%盗贼伤害和击退
-			+100点最大潜行值
-			潜伏攻击会造成两倍的击退并产生幻星爆炸
-			免疫击退
+			拥有泰坦之心魔石的效果并获得泰坦之心盔甲的套装奖励：
+			{$Mods.CalamityMod.Items.Armor.Hardmode.TitanHeartMask.SetBonus}
 			'擎天之神名为阿特拉斯'
 			'''
 	}
@@ -272,9 +247,7 @@ Items: {
 			盗贼武器的弹幕在暴击时会吸血
 			增加12%盗贼伤害
 			获得日影套装的效果：
-			+110点最大潜行值
-			盗贼武器击中敌人时概率产生爆炸
-			潜伏攻击总是会产生爆炸
+			{$Mods.CalamityMod.Items.Armor.Hardmode.UmbraphileHood.SetBonus}
 			'日食之时'
 			'''
 	}
@@ -404,7 +377,7 @@ Items: {
 		DisplayName: 生命木魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/LivingWoodSap] 
+			[i:ThoriumMod/CrystalSpearTip] 
 			增加1点召唤伤害
 			增加仆从击退
 			获得生命木套装的效果
@@ -416,7 +389,7 @@ Items: {
 		DisplayName: 绽花魔石
 		Tooltip:
 			'''
-			[i:ThoriumMod/KickPetal] 
+			[i:ThoriumMod/CrystalSpearTip] 
 			打击乐器伤害有25%概率激活一片“恐慌花瓣”，花瓣会绕玩家旋转
 			触摸花瓣的玩家会获得大幅速度提升
 			触摸花瓣的敌怪会受到伤害
@@ -445,11 +418,10 @@ Items: {
 			扩大魔力星的拾取范围
 			获得硫火盔甲的套装奖励：
 			额外增加15%魔法伤害和暴击率
-			按套装奖励键进入硫火狂暴模式
-			在此模式下，你造成的伤害会显著增加
+			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键进入硫火狂暴模式
+			在此模式下，你造成的魔法伤害会额外增加40%
 			然而这是以快速的生命流失和魔力再生速度归零为代价的
-			此状态可以手动关闭
-			硫火狂暴有30秒冷却时间
+			此状态可以手动关闭，硫火狂暴有30秒冷却时间
 			'恨火不息'
 			'''
 		DisplayName: 硫火魔石
@@ -464,16 +436,13 @@ Items: {
 			生命值较低时增加生命再生
 			[i:CalamityMod/GravistarSabaton] 增加20%跳跃速度，免疫摔落伤害
 			按“下”键增加你的最大下落速度
-			在半空中按引力靴猛击1秒会充能一次极速猛击
+			在半空中按下 [{$Mods.CalamityMod.Keybinds.GravistarSabatonHotkey.DisplayName}] 键1秒会充能一次极速猛击
 			猛击时你可以撞击穿过敌人而不受到接触伤害
 			一旦接触到地面你就会在脚下产生爆炸
 			猛击时间越长，爆炸的伤害越高，范围越大
 			猛击到地面后会暂时增加40%跳跃速度
 			获得星幻盔甲的套装奖励：
-			提升5%移动速度并增加3召唤栏
-			提升35%伤害和25%暴击率
-			每当你对敌人造成暴击，天空会降落神圣陨星
-			此效果1秒内最多触发一次
+			{$Mods.CalamityMod.Items.Armor.Hardmode.AstralHelm.SetBonus}
 			'炫星之辉照耀着你'
 			'''
 		DisplayName: 星幻魔石
@@ -482,16 +451,11 @@ Items: {
 	FearmongerEnchantment: {
 		Tooltip:
 			'''
-			增加3个召唤栏
+			增加3个仆从栏
 			增加100点最大魔力值
 			增加50%移动速度
 			获得神惧者盔甲的套装奖励：
-			提高20%召唤伤害并+2召唤栏
-			手持非召唤武器时召唤物造成的伤害不再降低
-			免疫一切霜，火相关的减益
-			召唤物攻击敌人使你获得极高的生命恢复速度
-			在南瓜月冰霜月事件期间获得15%伤害减免
-			这15%伤害减免无视减伤率软上限
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.FearmongerGreathelm.SetBonus}
 			'畏惧自己'
 			'''
 		DisplayName: 神惧者魔石
@@ -505,10 +469,7 @@ Items: {
 			增加200%点最大生命值
 			增加50点最大潜行值
 			获得皇天盔甲的套装奖励：
-			提高9%盗贼伤害和弹幕速度
-			+115点最大潜行值
-			盗贼弹幕击中敌人产生特殊效果
-			受伤时受到来自宇宙的怒火加持
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.EmpyreanMask.SetBonus}
 			'克希洛克的局部显现'
 			'''
 		DisplayName: 克希洛克魔石
@@ -517,7 +478,7 @@ Items: {
 	AnnihilationForce: {
 		Tooltip:
 			'''
-			[i:FargoSoulMore/FearmongerEnchantment] 增加4个召唤栏，增加130最大魔力值，增加70%移动速度
+			[i:FargoSoulMore/FearmongerEnchantment] 增加4个仆从栏，增加130最大魔力值，增加70%移动速度
 			[i:FargoSoulMore/FearmongerEnchantment] 也许神明亦会畏惧自我
 			[i:FargoSoulMore/XerocEnchantment] 当弹幕击中敌人时，它会生成彩虹追踪弹幕
 			[i:FargoSoulMore/XerocEnchantment] 移动速度降至0.7倍
@@ -536,24 +497,20 @@ Items: {
 		Tooltip:
 			'''
 			当弹幕击中敌人时，有20%的概率治疗2点生命
-			增加100点最大生命值, 增加3点生命恢复，增加1个召唤栏位，增加10%伤害减免
+			增加100点最大生命值, 增加3点生命恢复，增加1个仆从栏，增加10%伤害减免
 			获得血炎盔甲的套装奖励：
-			战士：
-			提高18%近战攻速，敌人更有可能以你为目标
-			真近战攻击会治疗你，使用真近战武器打击敌人15次进入鲜血狂怒状态，持续5秒
-			此期间近战伤害和暴击率提升25%，来自敌人的接触伤害减半，此效果有30秒冷却时间
-			射手：
-			按下套装效果键释放噬魂幽花的冤魂摧毁你的敌人，此效果有30秒冷却时间
+			[i:490] 战士：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.BloodflareHeadMelee.SetBonus}
+			[i:491] 射手：
+			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键释放噬魂幽花的冤魂摧毁你的敌人
+			此效果有30秒冷却时间
 			远程武器每2.5秒发射出一个爆炸血炎珠
-			法师：
-			魔法武器每1.67秒会发射一个灵魂射弹，魔法武器暴击产生火焰爆炸，两秒钟内至多触发一次
-			召唤师：
-			增加50%召唤伤害和3召唤栏
-			召唤3个噬魂幽花地雷环绕玩家，击中敌人时爆炸
-			如果玩家在90%血量以上，增加10%召唤伤害，在50%生命及以下获得20点防御和+2点生命恢复增益
-			盗贼：
-			+120点最大潜行值
-			高于80%生命时增加30防御力，提高5%盗贼伤害，低于80%生命时提高10%盗贼伤害，盗贼武器暴击有50%几率治疗你
+			[i:489] 法师：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.BloodflareHeadMagic.SetBonus}
+			[i:2998] 召唤师：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.BloodflareHeadSummon.SetBonus}
+			[i:CalamityMod/RogueEmblem] 盗贼：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.BloodflareHeadRogue.SetBonus}
 			'血液已经沸腾了'
 			'''
 		DisplayName: 血炎魔石
@@ -563,25 +520,25 @@ Items: {
 		Tooltip:
 			'''
 			当弹幕击中敌人时，会造成神圣之火减益
-			增加5点生命恢复，
+			增加5点生命恢复
 			[i:CalamityMod/BadgeofBravery] 增加10%近战伤害和近战暴击率，增加5点近战护甲穿透
 			获得龙嵩盔甲的套装奖励：
-			战士：
+			[i:490] 战士：
 			增加15%近战攻速
 			敌人更有可能以你为目标
-			受到伤害时你有25%的几率获得生命恢复的增益
-			按下套装效果将自已以生命能量包裹，大大降低你受到的接触伤害，持续10秒，此效果有30秒冷却时间
-			射手：
-			远程弹幕消失时分裂为追踪敌人的生命能量
-			法师：
-			每五次暴击时发射叶片风暴
-			魔法弹幕击中敌人时有50%的几率治疗你，治疗量取决于弹幕伤害
-			召唤师：
-			增加50%召唤伤害和3仆从栏
-			召唤围绕你的生命光环，对敌人造成伤害
-			盗贼：
-			+115点最大潜行值
-			使用盗贼武器暴击敌人50次时你会获得2.5秒无敌时间，此效果有25秒冷却
+			受到伤害时你会获得生命涌流增益，提供+1.5HP/s生命再生
+			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键将自已以生命能量包裹，大大降低你受到的接触伤害，持续10秒
+			此效果有30秒冷却时间
+			[i:491] 射手：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.TarragonHeadRanged.SetBonus}
+			[i:489] 法师：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.TarragonHeadMagic.SetBonus}
+			[i:2998] 召唤师：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.TarragonHeadSummon.SetBonus}
+			[i:CalamityMod/RogueEmblem] 盗贼：
+			增加115点最大潜行值
+			使用盗贼武器暴击敌人50次时你会获得2.5秒无敌时间
+			此效果有25秒冷却
 			若你受到减益影响，则提升10%盗贼伤害
 			'远古神明之力'
 			'''
@@ -594,21 +551,16 @@ Items: {
 			当弹幕击中敌人时，会造成弑神怒焰减益，并且有1%的概率恢复1%最大生命值
 			获得弑神者盔甲的套装奖励：
 			允许你进行一次距离极长的能够选择八个方向的冲刺
-			当你按着控制角色移动的按键的同时按下弑神者冲刺就能进行指定方向的冲刺
+			当你按着控制角色移动的按键的同时按下 [{$Mods.CalamityMod.Keybinds.GodSlayerDash.DisplayName}] 键就能进行指定方向的冲刺
 			被冲刺撞到的敌人会受到极高的碰撞伤害
 			在冲刺过程中你免疫绝大多数减益
 			弑神者冲刺有45秒冷却时间
-			战士：
-			提高20%近战攻速
-			敌人更有可能以你为目标
-			一次性受到超过80点伤害使你放出一群高伤害的弑神飞镖
-			敌人碰到你时受到大量伤害
-			射手：
-			你的远程武器射击时每2.5秒发射一枚弑神榴霰弹
-			盗贼：
-			+120点最大潜行值
-			生命值全满时所有盗贼属性增加10%
-			如果一次攻击对你造成了超过80伤害，你获得额外的无敌帧
+			[i:490] 战士：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.GodSlayerHeadMelee.SetBonus}
+			[i:491] 射手：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.GodSlayerHeadRanged.SetBonus}
+			[i:CalamityMod/RogueEmblem] 盗贼：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.GodSlayerHeadRogue.SetBonus}
 			'宇宙掠食者的可怕威慑'
 			'''
 		DisplayName: 弑神者魔石
@@ -624,11 +576,10 @@ Items: {
 			最大跑动速度和加速度提高5%
 			如果你的生命值将要降至1以下，则你在8秒钟内不会因为受伤而死亡
 			这个效果有5分钟冷却时间，冷却时间不会在Boss存在或事件时期计时
-			法师：
-			不能穿透的魔法弹幕击中敌人后有几率产生强大的自然能量爆炸
-			召唤师：
-			+5召唤栏并提高65%召唤伤害
-			召唤始源林海水晶轰击你的敌人
+			[i:489] 法师：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.SilvaHeadMagic.SetBonus}
+			[i:2998] 召唤师：
+			{$Mods.CalamityMod.Items.Armor.PostMoonLord.SilvaHeadSummon.SetBonus}
 			'最为纯粹的自然能量'
 			'''
 		DisplayName: 始源林海魔石
@@ -644,15 +595,15 @@ Items: {
 			复活后的3秒内你会被禁锢在寒冰屏障中
 			获得古圣金源盔甲的套装奖励：
 			龙蒿套装、血炎套装和弑神者套装和始源林海套装的套装奖励
-			战士：
+			[i:490] 战士：
 			敌人更有可能以你为目标
 			提升28%近战攻速
-			法师：
+			[i:489] 法师：
 			最大速度和加速度增加5%
-			召唤师：
+			[i:2998] 召唤师：
 			最大速度和加速度增加5%
-			+6召唤栏，提高75%召唤伤害
-			盗贼：
+			+6仆从栏，提高75%召唤伤害
+			[i:CalamityMod/RogueEmblem] 盗贼：
 			+130点最大潜行值
 			你的奔跑速度如同在沥青块上疾跑
 			'无尽的圣金源魄'
@@ -668,7 +619,7 @@ Items: {
 			拥有血炎盔甲，始源林海盔甲，弑神者盔甲，龙嵩盔甲和古圣金源盔甲的套装奖励
 			你的奔跑速度如同在沥青块上疾跑
 			当弹幕击中敌人时，会生成魔法飞弹, 有20%的概率治疗2点生命或1%的概率恢复1%最大生命值,并且会造成神圣之火和弑神怒焰减益
-			延长1秒受伤后无敌时间, 增加8点生命再生, 增加100点最大生命值, 增加10%伤害减免, 增加1个召唤栏
+			延长1秒受伤后无敌时间, 增加8点生命再生, 增加100点最大生命值, 增加10%伤害减免, 增加1个仆从栏
 			'旅行的终点'
 			'''
 		DisplayName: 飞升之力
@@ -691,12 +642,9 @@ Items: {
 			[i:CalamityMod/CorrosiveSpine] 增加5%移动速度
 			所有盗贼武器都会在击中敌人时施加中毒减益并生成毒云
 			受到伤害时会释放大量毒云
-			增加110%的召唤伤害，增加2个召唤栏位
+			增加110%的召唤伤害，增加2个仆从栏位
 			获得幻渊鱼群盔甲的套装奖励：
-			增加10%召唤伤害和2召唤栏
-			获得爬墙的能力
-			浸没在液体中时增加30%召唤伤害
-			在深渊提供适量光照，并适度减少深渊中的氧气损耗
+			{$Mods.CalamityMod.Items.Armor.Hardmode.UmbraphileHood.SetBonus}
 			'鱼群相拥'
 			'''
 		DisplayName: 幻渊鱼群魔石
@@ -705,14 +653,14 @@ Items: {
 	OmegaBlueEnchantment: {
 		Tooltip:
 			'''
-			增加5%伤害减免, 1个召唤栏, 50的护甲穿透
+			增加5%伤害减免, 1个仆从栏, 50的护甲穿透
 			[i:CalamityMod/ReaperToothNecklace] 增加15%伤害
 			增加15点护甲穿透
 			拥有蓝色欧米茄盔甲的套装奖励：
-			提高15点护甲穿透
-			提高10%伤害和暴击率并+2召唤栏
+			增加15点护甲穿透
+			增加10%伤害和暴击率以及2仆从栏
 			触手会攻击附近的敌人，偷取生命值治疗你
-			按套装奖励键进入深渊狂乱状态5秒
+			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键进入深渊狂乱状态5秒
 			深渊狂乱提升你的暴击率，同时触手的攻击欲望和攻击范围都会增加，并且触手造成的伤害必定暴击
 			此效果有25秒冷却时间
 			'深渊最黑暗的波流'
@@ -723,7 +671,7 @@ Items: {
 	MolluskEnchantment: {
 		Tooltip:
 			'''
-			[i:CalamityMod/GiantPearl] 	光明之环环绕身周
+			[i:CalamityMod/GiantPearl] 光明之环环绕身周
 			减速被光环笼罩的敌人
 			此效果在Boss存活时失效
 			在深渊中提供少量光照
@@ -734,9 +682,7 @@ Items: {
 			在深渊中提供少量光照
 			适量减缓在深渊中时的氧气消耗速度
 			获得软壳盔甲的套装奖励：
-			两只贝壳会在战斗中助你一臂之力
-			增加10%伤害
-			水平移动速度降低
+			{$Mods.CalamityMod.Items.Armor.Hardmode.MolluskShellmet.SetBonus}
 			'大海荣光'
 			'''
 		DisplayName: 软壳魔石
@@ -745,7 +691,7 @@ Items: {
 	DesolationForce: {
 		Tooltip:
 			'''
-			增加5%伤害减免,3个召唤栏, 50的护甲穿透, 增加200%的召唤伤害
+			增加5%伤害减免,3个仆从栏, 50的护甲穿透, 增加200%的召唤伤害
 			拥有[i:CalamityMod/UrsaSergeant] 大熊座雀鲷, [i:CalamityMod/GiantPearl] 大珍珠, [i:CalamityMod/AquaticEmblem] 海波纹章, [i:CalamityMod/VampiricTalisman] 吸血鬼符咒, [i:CalamityMod/ReaperToothNecklace] 猎魂鲨齿项链bb, [i:CalamityMod/CorrosiveSpine] 腐蚀脊椎, [i:CalamityMod/GravistarSabaton] 引力靴的效果
 			获得软壳盔甲, 拥有蓝色欧米茄盔甲, 幻渊鱼群盔甲, 日影盔甲, 星幻盔甲的套装奖励
 			'足以统治深渊的力量'
@@ -756,7 +702,7 @@ Items: {
 	DemonshadeEnchantment: {
 		Tooltip:
 			'''
-			增加30%伤害减免, 30生命恢复, 3个召唤栏, 300最大生命值
+			增加30%伤害减免, 30生命恢复, 3个仆从栏, 300最大生命值
 			[i:CalamityMod/AngelicAlliance] 召唤圣天之力，强化你的攻击和仆从
 			勇气注入双拳，启迪充盈脑海，祝福映于身后，这一切使你拥有无穷之力，使你能对眼前的敌人做出最终审判
 			增加2格最大仆从栏位、15%召唤伤害和8%其他职业伤害
@@ -767,11 +713,11 @@ Items: {
 			所有仆从的攻击都会造成放逐之火减益，并使你获得不受其他效果影响的+4HP/s生命再生
 			此效果有1分钟冷却时间
 			获得魔影盔甲的套装奖励：
-			增加100%召唤伤害，+10召唤栏
+			增加100%召唤伤害，+10仆从栏
 			受伤时发射暗影射线和恶魔镰刀
 			召唤一只友善的红恶魔为你战斗
-			按套装奖励键以黑魔法咒语激怒周围的敌人
-			这道咒语使他们对你额外造成25%伤害，同时额外受到125%伤害
+			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键以黑魔法咒语激怒周围的敌人
+			这道咒语使它们受到2.25倍的伤害，同时它们对你造成1.25倍伤害
 			'暗魔魇影'
 			'''
 		DisplayName: 魔影魔石
@@ -780,14 +726,14 @@ Items: {
 	TideTurnerEnchantment: {
 		Tooltip:
 			'''
-			[i:ThoriumMod/AbyssalShell] 按下包裹键会将你置于坚固的壳中
+			[i:ThoriumMod/AbyssalShell] 按下 [{$Mods.ThoriumMod.Keybinds.Encase.DisplayName}] 键会将你置于坚固的壳中
 			被包裹时无法使用物品或治疗药水，生命再生大幅减少且几乎不能造成伤害
 			离开壳会短暂大幅降低你的速度，伤害减免和伤害
 			离开壳后的20秒内无法再次使用壳
 			获得洪流逆潮盔甲的套装奖励：
-			战士：
-			按下盔甲能力键会将你包裹在密不透风的泡泡中，将所有受到的伤害转化为治疗
-			投手：
+			[i:490] 战士：
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键会将你包裹在密不透风的泡泡中，将所有受到的伤害转化为治疗
+			[i:ThoriumMod/NinjaEmblem] 投手：
 			投掷伤害有20%概率在你周围释放追踪海潮飞刀
 			'难道我就是扭转了潮流和世界之人？'
 			'''
@@ -814,9 +760,9 @@ Items: {
 			[i:ThoriumMod/IceBoundStriderHide] 对减速目标造成的伤害增加15%
 			对减速目标造成的伤害有概率略微治疗你
 			获得炎法盔甲的套装奖励：
-			法师：
+			[i:489] 法师：
 			你的魔法伤害会造成严重烧伤并伤害所有附近敌怪
-			召唤师：
+			[i:2998] 召唤师：
 			所有召唤伤害会滞留下造成大量伤害的灼烧
 			'焚烧···'
 			'''
@@ -828,10 +774,10 @@ Items: {
 			'''
 			[i:ThoriumMod/TheOmegaCore] 无法理解地增加移动速度
 			获得梦境编织者盔甲的套装奖励：
-			按下“盔甲能力”键会消耗200魔力并扭曲现实结构
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键会消耗200魔力并扭曲现实结构
 			敌怪会被大幅减速且受到所有来源的伤害增加15%
 			队友会大幅增加移动速度和攻击速度，并将到来的非致命伤害转化为治疗
-			按下“盔甲能力”键会消耗200魔力并将你放置在梦中
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键会消耗200魔力并将你放置在梦中
 			在梦中时，被治疗的队友会变得短暂无敌且所有减益都会被治愈
 			'梦境吞噬者的权能'
 			'''
@@ -844,9 +790,9 @@ Items: {
 			[i:ThoriumMod/Phylactery] 每四分钟，受到致命伤害时会将你恢复到25%生命值时
 			魂匣未处于冷却期间生命恢复增加
 			获得狂想者盔甲的套装奖励：
-			按下盔甲能力键会让你获得无限的灵感值，大幅增加音波伤害和演奏速度
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键会让你获得无限的灵感值，大幅增加音波伤害和演奏速度
 			此效果持续10秒并需要重新充能1分钟
-			按下盔甲能力键会用每种III级咒音增幅过载所有附近队友15秒
+			按下 [{$Mods.ThoriumMod.Keybinds.ArmorAbility.DisplayName}] 键会用每种III级咒音增幅过载所有附近队友15秒
 			使用此能力需要20点灵感值且必须重新充能1分钟
 			'狂想曲之力'
 			'''
@@ -869,10 +815,12 @@ Items: {
 	PrismaticEnchantment: {
 		Tooltip:
 			'''
-			按套装奖励键在鼠标位置召唤一轮死亡激光，持续5秒
+			按下 [{$Mods.FargoSoulMore.Keybinds.StarWrath.DisplayName}] 键降下3颗流星
 			获得光棱盔甲的套装奖励：
 			最大魔力值增加40，魔力消耗减少15%
 			提高魔力再生速度
+			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键在鼠标位置召唤一轮死亡激光，持续5秒
+			这个技能有30秒冷却
 			'光鲜亮丽的'
 			'''
 		DisplayName: 光棱魔石
@@ -881,7 +829,7 @@ Items: {
 	GemTechEnchantment: {
 		Tooltip:
 			'''
-			按“超新星”键来召唤超新星爆炸
+			按下 [{$Mods.FargoSoulMore.Keybinds.SuperNova.DisplayName}] 键来召唤超新星爆炸
 			爆炸伤害为你最大生命值的50倍
 			爆炸之后，玩家将受到天界代价减益
 			此减益将玩家的生命再生和伤害减免降至0
@@ -904,7 +852,7 @@ Items: {
 	SilkEnchantment: {
 		Tooltip:
 			'''
-			[i:ThoriumMod/ArtificersFocus] 持续按住“饰品能力”键会消耗玩家的匠能
+			[i:ThoriumMod/ArtificersFocus] 持续按住 [{$Mods.ThoriumMod.Keybinds.AccessoryAbility.DisplayName}] 键会消耗玩家的匠能
 			每消耗20点匠能会增加下次攻击伤害20点，最高增加100点
 			获得丝绸盔甲的套装奖励
 			'''
@@ -1011,10 +959,5 @@ Buffs: {
 	DragonBanish: {
 		Description: 被远古巨龙之力驱逐
 		DisplayName: 龙之驱逐
-	}
-
-		DeviPresenceBuff: {
-		Description: Mods.FargoSoulMore.Buffs.DeviPresenceBuff.Description
-		DisplayName: 戴维安驾到
 	}
 }
