@@ -14,7 +14,7 @@ PlagueReaper:
 	'''
 Umbraphile: 蝙蝠造成更多伤害，给予更多治疗
 Sulphur: 跳跃产生3个气泡
-Victide: 海胆尖刺不再受重力影响并且会附加酸性毒液效果
+Victide: 海胆尖刺带有轻微的追踪效果，造成更多伤害，命中时附加酸性毒液效果 提升的防御力提高至10点
 Statigel: 更高的移动速度, 伤害加成翻倍
 TitanHeart: 伤害减免翻倍, 落地时速度增加至100%
 FathomSwarmer: 光照范围更大，鮟鱇鱼移动速度更高
