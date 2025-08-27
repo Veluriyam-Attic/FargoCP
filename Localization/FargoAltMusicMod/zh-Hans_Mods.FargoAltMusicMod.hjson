@@ -45,7 +45,7 @@ Configs: {
 		}
 
 		EmpressOfLight: {
-			Tooltip: 决定光之女皇使用哪个曲子
+			Tooltip: ""
 			Label: 光之女皇
 		}
 
@@ -61,7 +61,7 @@ Configs: {
 
 		Abom: {
 			Label: 憎恶
-			Tooltip: 决定憎恶使用哪个曲子
+			Tooltip: ""
 		}
 
 		Mutant: {
@@ -80,7 +80,7 @@ Configs: {
 		}
 
 		MechBosses: {
-			Tooltip: 决定机械三王使用哪个曲子
+			Tooltip: ""
 			Label: 机械三王
 		}
 
@@ -246,6 +246,11 @@ Configs: {
 
 		Temple: {
 			Label: 神庙
+			Tooltip: ""
+		}
+		
+		Cultist: {
+			Label: 拜月教邪教徒
 			Tooltip: ""
 		}
 	}
