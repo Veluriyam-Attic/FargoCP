@@ -1,0 +1,40 @@
+Configs: {
+	MusicConfig: {
+		DisplayName: 音乐设置
+
+		DreamMusic: {
+			Label: Dream大逃杀音乐
+			Tooltip: 
+				'''
+				将白天森林音乐
+				蔚蓝档案 ——> Dream猎人游戏
+				'''
+		}
+
+		ItsBrin: {
+			Label: IT'S BRIN
+			Tooltip: 
+				'''
+				将丛林地表音乐
+				超级密特罗德 ——> 塞尔达传说:时之笛（神人版）
+				'''
+		}
+
+		MutantFtwZzz: {
+			Label: 突变体FTW世界替代音乐
+			Tooltip: ""
+		}
+
+		NowPlayingEnum: {
+			Label: 当前歌曲显示
+			Tooltip: ""
+		}
+	}
+
+	NowPlayingID: {
+		Tooltip: ""
+		None.Label: 无
+		Chat.Label: 聊天栏
+		Notification.Label: 通知栏
+	}
+}
