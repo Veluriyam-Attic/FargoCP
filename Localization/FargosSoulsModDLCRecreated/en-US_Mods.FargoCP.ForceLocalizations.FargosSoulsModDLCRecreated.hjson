@@ -783,6 +783,11 @@ Items: {
 						NewString: The Astral Infection has consumed you...
 						OldString: The Astral Infection has consumed you...
 					}
+
+					17: {
+						OldString: Effects of Titan Heart armor
+						NewString: Effects of Titan Heart armor
+					}
 				}
 			}
 
@@ -3995,6 +4000,97 @@ Items: {
 					}
 				}
 			}
+
+			LunicCorpsEnchantment: {
+				ModifyTooltips: {
+					1: {
+						OldString: Terraria
+						NewString: Terraria
+					}
+
+					2: {
+						OldString: ItemName
+						NewString: ItemName
+					}
+				}
+
+				UpdateAccessory: {
+					1: {
+						OldString: CalamityMod
+						NewString: CalamityMod
+					}
+				}
+			}
+
+			DesertProwlerEnchantment: {
+				get_LocalizationCategory: {
+					1: {
+						OldString: Items.Armor.PreHardmode
+						NewString: Items.Armor.PreHardmode
+					}
+				}
+
+				ModifyTooltips: {
+					1: {
+						OldString: Terraria
+						NewString: Terraria
+					}
+
+					2: {
+						OldString: ItemName
+						NewString: ItemName
+					}
+				}
+
+				UpdateAccessory: {
+					1: {
+						OldString: CalamityMod
+						NewString: CalamityMod
+					}
+				}
+			}
+
+			TitanHeartEnchantment: {
+				ModifyTooltips: {
+					1: {
+						OldString: Terraria
+						NewString: Terraria
+					}
+
+					2: {
+						OldString: ItemName
+						NewString: ItemName
+					}
+				}
+
+				UpdateAccessory: {
+					1: {
+						OldString: CalamityMod
+						NewString: CalamityMod
+					}
+				}
+			}
+
+			PrismaticEnchantment: {
+				ModifyTooltips: {
+					1: {
+						OldString: Terraria
+						NewString: Terraria
+					}
+
+					2: {
+						OldString: ItemName
+						NewString: ItemName
+					}
+				}
+
+				UpdateAccessory: {
+					1: {
+						OldString: CalamityMod
+						NewString: CalamityMod
+					}
+				}
+			}
 		}
 
 		Souls: {
@@ -4471,6 +4567,21 @@ Items: {
 						NewString: Tooltip4
 						OldString: Tooltip4
 					}
+
+					69: {
+						OldString: All armor bonuses from Empyrean, Desert Prowler, and Fearmonger
+						NewString: All armor bonuses from Empyrean, Desert Prowler, and Fearmonger
+					}
+
+					70: {
+						OldString: All armor bonuses from Omega Blue, Prismatic, Mollusk, Victide, Fathom Swarmer, and Sulphurous
+						NewString: All armor bonuses from Omega Blue, Prismatic, Mollusk, Victide, Fathom Swarmer, and Sulphurous
+					}
+
+					71: {
+						OldString: All armor bonuses from Reaver, Plague Reaper, Plaguebringer, Gem Tech, Lunic Corps, and Demonshade
+						NewString: All armor bonuses from Reaver, Plague Reaper, Plaguebringer, Gem Tech, Lunic Corps, and Demonshade
+					}
 				}
 			}
 		}
@@ -4516,6 +4627,11 @@ Items: {
 					1: {
 						NewString: CalamityMod
 						OldString: CalamityMod
+					}
+
+					9: {
+						OldString: PrismaticEnchantment
+						NewString: PrismaticEnchantment
 					}
 				}
 
@@ -4659,6 +4775,11 @@ Items: {
 						NewString: Tooltip2
 						OldString: Tooltip2
 					}
+
+					29: {
+						OldString: All armor bonuses from Daedalus, Snow Ruffian, Umbraphile, Prismatic, and Astral
+						NewString: All armor bonuses from Daedalus, Snow Ruffian, Umbraphile, Prismatic, and Astral
+					}
 				}
 			}
 
@@ -4697,6 +4818,11 @@ Items: {
 					1: {
 						NewString: CalamityMod
 						OldString: CalamityMod
+					}
+
+					8: {
+						OldString: LunicCorpsEnchantment
+						NewString: LunicCorpsEnchantment
 					}
 				}
 
@@ -4794,6 +4920,11 @@ Items: {
 					2: {
 						NewString: Rain hell down on those who resist your power
 						OldString: Rain hell down on those who resist your power
+					}
+
+					20: {
+						OldString: All armor bonuses from Reaver, Lunic Corps, Plague Reaper, Plaguebringer, Gem Tech, and Demonshade
+						NewString: All armor bonuses from Reaver, Lunic Corps, Plague Reaper, Plaguebringer, Gem Tech, and Demonshade
 					}
 				}
 			}
@@ -4980,6 +5111,11 @@ Items: {
 						NewString: CalamityMod
 						OldString: CalamityMod
 					}
+
+					8: {
+						OldString: DesertProwlerEnchantment
+						NewString: DesertProwlerEnchantment
+					}
 				}
 
 				ModifyTooltips: {
@@ -5066,6 +5202,11 @@ Items: {
 					2: {
 						NewString: Where once there was life and light, only ruin remains...
 						OldString: Where once there was life and light, only ruin remains...
+					}
+
+					18: {
+						OldString: All armor bonuses from Empyrean, Desert Prowler, and Fearmonger
+						NewString: All armor bonuses from Empyrean, Desert Prowler, and Fearmonger
 					}
 				}
 			}

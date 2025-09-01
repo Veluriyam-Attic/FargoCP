@@ -799,6 +799,11 @@ Items: {
 						NewString: 提高5%移动速度和3个最大仆从栏位
 						OldString: The Astral Infection has consumed you...
 					}
+
+					17: {
+						// OldString: Effects of Titan Heart armor
+						NewString: 获得泰坦之心盔甲的套装奖励
+					}
 				}
 			}
 
@@ -4047,6 +4052,97 @@ Items: {
 					}
 				}
 			}
+
+			LunicCorpsEnchantment: {
+				ModifyTooltips: {
+					1: {
+						// OldString: Terraria
+						// NewString: Terraria
+					}
+
+					2: {
+						// OldString: ItemName
+						// NewString: ItemName
+					}
+				}
+
+				UpdateAccessory: {
+					1: {
+						// OldString: CalamityMod
+						// NewString: CalamityMod
+					}
+				}
+			}
+
+			DesertProwlerEnchantment: {
+				get_LocalizationCategory: {
+					1: {
+						// OldString: Items.Armor.PreHardmode
+						// NewString: Items.Armor.PreHardmode
+					}
+				}
+
+				ModifyTooltips: {
+					1: {
+						// OldString: Terraria
+						// NewString: Terraria
+					}
+
+					2: {
+						// OldString: ItemName
+						// NewString: ItemName
+					}
+				}
+
+				UpdateAccessory: {
+					1: {
+						// OldString: CalamityMod
+						// NewString: CalamityMod
+					}
+				}
+			}
+
+			TitanHeartEnchantment: {
+				ModifyTooltips: {
+					1: {
+						// OldString: Terraria
+						// NewString: Terraria
+					}
+
+					2: {
+						// OldString: ItemName
+						// NewString: ItemName
+					}
+				}
+
+				UpdateAccessory: {
+					1: {
+						// OldString: CalamityMod
+						// NewString: CalamityMod
+					}
+				}
+			}
+
+			PrismaticEnchantment: {
+				ModifyTooltips: {
+					1: {
+						// OldString: Terraria
+						// NewString: Terraria
+					}
+
+					2: {
+						// OldString: ItemName
+						// NewString: ItemName
+					}
+				}
+
+				UpdateAccessory: {
+					1: {
+						// OldString: CalamityMod
+						// NewString: CalamityMod
+					}
+				}
+			}
 		}
 
 		Souls: {
@@ -4527,6 +4623,21 @@ Items: {
 						NewString: Tooltip4
 						OldString: Tooltip4
 					}
+
+					69: {
+						// OldString: All armor bonuses from Empyrean, Desert Prowler, and Fearmonger
+						NewString: 拥有皇天、沙漠巡游者和神惧者盔甲的套装奖励
+					}
+
+					70: {
+						// OldString: All armor bonuses from Omega Blue, Prismatic, Mollusk, Victide, Fathom Swarmer, and Sulphurous
+						NewString: 拥有蓝色欧米茄、光棱、软壳、胜潮、幻渊鱼群和硫磺盔甲的套装奖励
+					}
+
+					71: {
+						// OldString: All armor bonuses from Reaver, Plague Reaper, Plaguebringer, Gem Tech, Lunic Corps, and Demonshade
+						NewString: 拥有掠夺者、瘟疫死神、瘟疫使者、天钻、雷神之锤和魔影盔甲的套装奖励
+					}
 				}
 			}
 		}
@@ -4572,6 +4683,11 @@ Items: {
 					1: {
 						NewString: CalamityMod
 						OldString: CalamityMod
+					}
+
+					9: {
+						// OldString: PrismaticEnchantment
+						// NewString: PrismaticEnchantment
 					}
 				}
 
@@ -4723,6 +4839,11 @@ Items: {
 						NewString: Tooltip2
 						OldString: Tooltip2
 					}
+
+					29: {
+						// OldString: All armor bonuses from Daedalus, Snow Ruffian, Umbraphile, Prismatic, and Astral
+						NewString: 拥有代达罗斯、雪境暴徒、日影、光棱和星幻盔甲的套装奖励
+					}
 				}
 			}
 
@@ -4761,6 +4882,11 @@ Items: {
 					1: {
 						NewString: CalamityMod
 						OldString: CalamityMod
+					}
+
+					8: {
+						// OldString: LunicCorpsEnchantment
+						// NewString: LunicCorpsEnchantment
 					}
 				}
 
@@ -4862,6 +4988,11 @@ Items: {
 					2: {
 						NewString: ""
 						OldString: Rain hell down on those who resist your power
+					}
+
+					20: {
+						// OldString: All armor bonuses from Reaver, Lunic Corps, Plague Reaper, Plaguebringer, Gem Tech, and Demonshade
+						NewString: 拥有掠夺者、雷神之锤、瘟疫死神、瘟疫使者、天钻和魔影盔甲的套装奖励
 					}
 				}
 			}
@@ -5052,6 +5183,11 @@ Items: {
 						NewString: CalamityMod
 						OldString: CalamityMod
 					}
+
+					8: {
+						// OldString: DesertProwlerEnchantment
+						// NewString: DesertProwlerEnchantment
+					}
 				}
 
 				ModifyTooltips: {
@@ -5147,6 +5283,11 @@ Items: {
 						NewString: ""
 						OldString: Where once there was life and light, only ruin remains...
 					}
+
+					18: {
+						// OldString: All armor bonuses from Empyrean, Desert Prowler, and Fearmonger
+						NewString: 拥有皇天、沙漠巡游者和神惧者盔甲的套装奖励
+					}
 				}
 			}
 
@@ -5227,7 +5368,7 @@ Items: {
 			}
 
 			16: {
-				NewString: Effects of The Amalgam, Asgardian Aegis, and Rampart of Deities
+				NewString: 获得聚合之脑、阿斯加德之庇护和神之壁垒的效果
 				OldString: Effects of The Amalgam, Asgardian Aegis, and Rampart of Deities
 			}
 
@@ -5237,7 +5378,7 @@ Items: {
 			}
 
 			14: {
-				NewString: Effects of Abyssal Diving Suit
+				NewString: 获得深渊潜游服的效果
 				OldString: Effects of Abyssal Diving Suit
 			}
 
@@ -5247,7 +5388,7 @@ Items: {
 			}
 
 			12: {
-				NewString: Effects of Nucleogenesis
+				NewString: 获得核子之源的效果
 				OldString: Effects of Nucleogenesis
 			}
 
@@ -5257,7 +5398,7 @@ Items: {
 			}
 
 			10: {
-				NewString: Effects of Elemental Quiver and Quiver of Nihility
+				NewString: 获得元素箭袋和虚无箭袋的效果
 				OldString: Effects of Elemental Quiver and Quiver of Nihility
 			}
 
@@ -5272,7 +5413,7 @@ Items: {
 			}
 
 			8: {
-				NewString: Effects of Ethereal Talisman
+				NewString: 获得空灵护符的效果
 				OldString: Effects of Ethereal Talisman
 			}
 
@@ -5282,7 +5423,7 @@ Items: {
 			}
 
 			6: {
-				NewString: Effects of Elemental Gauntlet and Badge of Bravery
+				NewString: 获得元素之握和勇气勋章的效果
 				OldString: Effects of Elemental Gauntlet and Badge of Bravery
 			}
 
@@ -5292,7 +5433,7 @@ Items: {
 			}
 
 			4: {
-				NewString: Effects of Statis' Void Sash
+				NewString: 获得斯塔提斯的虚空饰带的效果
 				OldString: Effects of Statis' Void Sash
 			}
 

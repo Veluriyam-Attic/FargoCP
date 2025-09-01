@@ -19,6 +19,10 @@ Toggler: {
 	FungalSymbioteEffects: 真菌共生体
 	ShellfishMinionEffect: 沉沦之贝
 	GiantPearlEffect: 大珍珠
+	PrismaticEffects: 光棱套装效果
+	DesertProwlerEffects: 沙漠巡游者套装效果
+	TitanHeartEffects: 泰坦之心套装效果
+	LunicCorpsEffects: 雷神之锤套装效果
 	AquaticEmblemEffect: 海波纹章
 	DaedalusEffects: 代达罗斯套装效果
 	PlagueBringerEffects: 瘟疫使者套装效果
@@ -1932,6 +1936,57 @@ Items: {
 	PlaguebringerEnchantment: {
 		DisplayName: 瘟疫使者魔石
 		Tooltip: ""
+	}
+
+	DesertProwlerEnchantment: {
+		DisplayName: 巡荒魔石
+		Tooltip:
+			'''
+			远程攻击额外造成1点伤害
+			[C/FFE59C:沙尘覆盖] - 双击 向上/向下 键将自己笼罩在一小片沙尘之中
+			当在沙尘之中，获得更高的机动性，但防御力大大降低
+			使用远程攻击会立即驱散沙尘，但会造成200％的超级暴击伤害
+			超级暴击只在造成的伤害不超过100点时才有效
+			此次攻击击杀敌人，冷却时间缩短到1.5秒
+			'''
+	}
+
+	LunicCorpsEnchantment: {
+		DisplayName: 雷神之锤魔石
+		Tooltip:
+			'''
+			提供一面可以抵挡50点伤害的能量盾牌
+			盾牌会在被破坏后需要5秒充能
+			重新从0到充满需要花费2秒
+			重新充能期间被击中会重置充能计时器
+			增加10%子弹伤害
+			增加10%特殊远程伤害
+			这是指发射器、飞镖枪和其他一切不发射子弹或弓箭的武器
+			增加20%跳跃速度
+			“结束这场战争”
+			'''
+	}
+
+	PrismaticEnchantment: {
+		DisplayName: 光棱魔石
+		Tooltip:
+			'''
+			最大魔力值增加40，魔力消耗减少15%
+			提高魔力再生速度
+			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键在鼠标位置召唤一轮[C/FF6AF6:死亡][C/4ED9BE:激光]，持续5秒
+			技能有30秒冷却时间
+			'''
+	}
+
+	TitanHeartEnchantment: {
+		DisplayName: 泰坦之心魔石
+		Tooltip:
+			'''
+			增加15%盗贼伤害和击退
+			增加100点潜行值
+			潜伏攻击会造成两倍的击退并产生幻星爆炸
+			免疫击退
+			'''
 	}
 }
 
