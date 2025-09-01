@@ -19,6 +19,10 @@ Toggler: {
 	FungalSymbioteEffects: Fungal Symbiote
 	ShellfishMinionEffect: Shellfish Minion
 	GiantPearlEffect: Giant Pearl
+	PrismaticEffects: Prismatic Effects
+	DesertProwlerEffects: Desert Prowler Effects
+	TitanHeartEffects: Titan Heart Effects
+	LunicCorpsEffects: Lunic Corps Effects
 	AquaticEmblemEffect: Aquatic Emblem
 	DaedalusEffects: Daedalus Effects
 	PlagueBringerEffects: Plaguebringer Effects
@@ -1925,6 +1929,57 @@ Items: {
 	PlaguebringerEnchantment: {
 		DisplayName: Plaguebringer Enchantment
 		Tooltip: ""
+	}
+
+	DesertProwlerEnchantment: {
+		DisplayName: Desert Prowler Enchantment
+		Tooltip:
+			'''
+			Ranged attacks deal an extra 1 flat damage
+			Sandsmoke Bomb - Double tap DOWN to shroud yourself in a small cloud of sand
+			While the sand cloud is active, gain increased mobility but heavily reduced defense
+			Using a ranged weapon instantly dispels the sand cloak, but guarantees a supercrit for 200% damage
+			The super crit applies only as long as the resulting hit wouldn't exceed 100 damage
+			Landing the killing blow on an enemy with this shot shortens the ability's cooldown to 1.5 seconds
+			'''
+	}
+
+	LunicCorpsEnchantment: {
+		DisplayName: Lunic Corps Enchantment
+		Tooltip:
+			'''
+			Projects a bubble shield that absorbs up to 50 damage
+			The shield starts recharging 5 seconds after being hit
+			Recharging from zero to full charge takes 2 seconds
+			Being hit again while recharging restarts the charge timer
+			10% increased bullet damage
+			10% increased specialist ranged damage
+			These are launchers, dartguns, or anything else that doesn't shoot arrows/bullets
+			20% increased jump speed
+			'Finish the Fight'
+			'''
+	}
+
+	PrismaticEnchantment: {
+		DisplayName: Prismatic Enchantment
+		Tooltip:
+			'''
+			+40 max mana and 15% reduced mana cost
+			Increased mana regeneration rate
+			Press Armor Set Bonus to unleash a barrage of death lasers at the cursor for the next 5 seconds
+			This has a 30 second cooldown
+			'''
+	}
+
+	TitanHeartEnchantment: {
+		DisplayName: Titan Heart Enchantment
+		Tooltip:
+			'''
+			5% increased rogue damage and knockback
+			+100 maximum stealth
+			Stealth strikes deal double knockback and cause an astral explosion
+			Grants immunity to knockback
+			'''
 	}
 }
 
