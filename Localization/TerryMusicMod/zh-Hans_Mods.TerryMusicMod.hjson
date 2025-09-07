@@ -4,7 +4,7 @@ Configs: {
 
 		DreamMusic: {
 			Label: Dream大逃杀音乐
-			Tooltip: 
+			Tooltip:
 				'''
 				将白天森林音乐
 				蔚蓝档案 ——> Dream猎人游戏
@@ -13,7 +13,7 @@ Configs: {
 
 		ItsBrin: {
 			Label: IT'S BRIN
-			Tooltip: 
+			Tooltip:
 				'''
 				将丛林地表音乐
 				超级密特罗德 ——> 塞尔达传说:时之笛（神人版）
@@ -21,13 +21,18 @@ Configs: {
 		}
 
 		MutantFtwZzz: {
-			Label: 突变体FTW世界替代音乐
+			Label: 突变体高难度替换音乐
 			Tooltip: ""
 		}
 
 		NowPlayingEnum: {
 			Label: 当前歌曲显示
 			Tooltip: ""
+		}
+
+		ImmersiveBossSongs: {
+			Label: 沉浸式Boss歌曲
+			Tooltip: Boss歌曲在战斗结束后仍会继续播放一段时间
 		}
 	}
 
