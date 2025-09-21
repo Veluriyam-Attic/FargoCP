@@ -1,6 +1,11 @@
 Configs: {
 	MusicConfig: {
 		DisplayName: 音乐设置
+		
+		Headers: {
+			VanillaMusicOverrides: 覆盖原版音乐
+			SoulsMusicOverrides: 覆盖Fargo魂音乐
+		}
 
 		DreamMusic: {
 			Label: Dream大逃杀音乐
@@ -20,11 +25,6 @@ Configs: {
 				'''
 		}
 
-		MutantFtwZzz: {
-			Label: 突变体高难度替换音乐
-			Tooltip: ""
-		}
-
 		NowPlayingEnum: {
 			Label: 当前歌曲显示
 			Tooltip: ""
@@ -33,6 +33,206 @@ Configs: {
 		ImmersiveBossSongs: {
 			Label: 沉浸式Boss歌曲
 			Tooltip: Boss歌曲在战斗结束后仍会继续播放一段时间
+		}
+		
+		OverrideTrojanSquirrelTheme: {
+			Label: 覆盖特洛伊松鼠主题曲
+			Tooltip: 启用后，将播放 HoloCure ~ Suspect
+		}
+
+		OverrideKingSlimeTheme: {
+			Label: 覆盖史莱姆王主题曲
+			Tooltip: 启用后，将播放 Sakuzyo ~ rePrologue
+		}
+
+		OverrideEyeOfCthulhuTheme: {
+			Label: 覆盖克苏鲁之眼主题曲
+			Tooltip: 启用后，将播放 Paper Mario The Thousand Year Door ~ X-Naut Fortress
+		}
+
+		OverrideCursedCoffinTheme: {
+			Label: 覆盖咒缚灵棺主题曲
+			Tooltip: 启用后，将播放 Super Mario 64 ~ Shifting Sand Land
+		}
+
+		OverrideEaterOfWorldsTheme: {
+			Label: 覆盖世界吞噬者主题曲
+			Tooltip: 启用后，将播放 DM Dokuro ~ Last Battle (Ballos Mix)
+		}
+
+		OverrideBrainOfCthulhuTheme: {
+			Label: 覆盖克苏鲁之脑主题曲
+			Tooltip: 启用后，将播放 Super Metroid ~ Mother Brain
+		}
+
+		OverrideQueenBeeTheme: {
+			Label: 覆盖蜂王主题曲
+			Tooltip: 启用后，将播放 Regnum Caelorum Et Gehenna ~ Verum Cur Non Audimus
+		}
+
+		OverrideSkeletronTheme: {
+			Label: 覆盖骷髅王主题曲
+			Tooltip: 启用后，将播放 George Thorogood & The Destroyers ~ Bad to the Bone
+		}
+
+		OverrideDeerclopsTheme: {
+			Label: 覆盖独眼巨鹿主题曲
+			Tooltip: 启用后，将播放 Jujutsu Kaisen ~ No Hesitation (Abridged)
+		}
+
+		OverrideDevianttTheme: {
+			Label: 覆盖戴薇安主题曲
+			Tooltip: 启用后，将播放 Blue Archive ~ Usagi Flap
+		}
+
+		OverrideWallOfFleshTheme: {
+			Label: 覆盖血肉之墙主题曲
+			Tooltip: 启用后，将播放 Demetori ~ Necrofantasia
+		}
+
+		OverrideDreadnautilusTheme: {
+			Label: 覆盖恐惧鹦鹉螺主题曲
+			Tooltip: 启用后，将播放 Blue Archive ~ Blood Stained Faith
+		}
+
+		OverrideQueenSlimeTheme: {
+			Label: 覆盖史莱姆皇后主题曲
+			Tooltip: 启用后，将播放 Dedede's Drum Dash Deluxe ~ C-R-O-W-N-E-D
+		}
+
+		OverrideBanishedBaronTheme: {
+			Label: 覆盖放逐遗爵主题曲
+			Tooltip: 启用后，将播放 BREIS ~ X Vs Zero Decisive Battle 2
+		}
+
+		OverrideSkeletronPrimeTheme: {
+			Label: 覆盖机械骷髅王主题曲
+			Tooltip: 启用后，将播放 Blue Archive ~ PACHAD
+		}
+
+		OverrideTwinsTheme: {
+			Label: 覆盖双子魔眼主题曲
+			Tooltip: 启用后，将播放 Sound Ave ~ Storm Rider
+		}
+
+		OverrideDestroyerTheme: {
+			Label: 覆盖毁灭者主题曲
+			Tooltip: 启用后，将播放 Diverse System ~ Nightmare Paradise (Abridged)
+		}
+
+		OverrideLifelightTheme: {
+			Label: 覆盖飘渺游光主题曲
+			Tooltip: 启用后，将播放 SEQUEL colony ~ Kizuato
+		}
+
+		OverridePlanteraTheme: {
+			Label: 覆盖世界之花主题曲
+			Tooltip: 启用后，将播放 Magia Record ~ Gekkasakuya
+		}
+
+		OverrideGolemTheme: {
+			Label: 覆盖石巨人主题曲
+			Tooltip: 启用后，将播放 UNDERTALE ~ MEGALOVANIA
+		}
+
+		OverrideBetsyTheme: {
+			Label: 覆盖双足翼龙主题曲
+			Tooltip: 启用后，将播放 Better Call Saul ~ Intro
+		}
+
+		OverrideDukeFishronTheme: {
+			Label: 覆盖猪龙鱼公爵主题曲
+			Tooltip: 启用后，将播放 Megaman Zero ~ Cannon Ball (Mythos)
+		}
+
+		OverrideEmpressOfLightTheme: {
+			Label: 覆盖光之女王主题曲
+			Tooltip: 启用后，将播放 Touhou Perfect Cherry Blossom ~ Border of Life / Resurrection Butterfly
+		}
+
+		OverrideLunaticCultistTheme: {
+			Label: 覆盖拜月教邪教徒主题曲
+			Tooltip: 启用后，将播放 Blue Archive ~ OST 232 (Chokmah)
+		}
+
+		OverrideLunarPillarsTheme: {
+			Label: 覆盖天界柱主题曲
+			Tooltip: 启用后，将播放 Blue Archive ~ Our Oath
+		}
+
+		OverrideMoonLordTheme: {
+			Label: 覆盖月亮领主主题曲
+			Tooltip: 启用后，将播放 Blue Archive ~ FURY OF SET
+		}
+
+		OverrideTimberChampionTheme: {
+			Label: 覆盖森林英灵主题曲
+			Tooltip: 启用后，将播放 HoloCure ~ Stardust Song
+		}
+
+		OverrideTerraChampionTheme: {
+			Label: 覆盖泰拉英灵主题曲
+			Tooltip: 启用后，将播放 Castlevania Aria of Sorrow ~ Last Battle
+		}
+
+		OverrideNatureChampionTheme: {
+			Label: 覆盖自然英灵主题曲
+			Tooltip: 启用后，将播放 Masahiro Aoki ~ Frostbite
+		}
+
+		OverrideLifeChampionTheme: {
+			Label: 覆盖生命英灵主题曲
+			Tooltip: 启用后，将播放 BlazBlue ~ conciliation
+		}
+
+		OverrideShadowChampionTheme: {
+			Label: 覆盖死亡英灵主题曲
+			Tooltip: 启用后，将播放 Metroid Samus Returns ~ Proteus Ridley 3
+		}
+
+		OverrideEarthChampionTheme: {
+			Label: 覆盖大地英灵主题曲
+			Tooltip: 启用后，将播放 Zenless Zone Zero ~ Pompey
+		}
+
+		OverrideSpiritChampionTheme: {
+			Label: 覆盖心灵英灵主题曲
+			Tooltip: 启用后，将播放 The Binding of Isaac ~ Sketches of Pain
+		}
+
+		OverrideWillChampionTheme: {
+			Label: 覆盖意志英灵主题曲
+			Tooltip: 启用后，将播放 Mamoru-kun Wa Norowarete Shimatta! ~ Will Force
+		}
+
+		OverrideEridanusTheme: {
+			Label: 覆盖宇宙英灵·厄里达诺斯主题曲
+			Tooltip: 启用后，将播放 Rabi-Ribi ~ Sudden Death
+		}
+
+		OverrideAbominationnTheme: {
+			Label: 覆盖憎恶主题曲
+			Tooltip: 启用后，将播放 Project Wingman ~ Showdown
+		}
+
+		OverrideMutantTheme: {
+			Label: 覆盖突变体主题曲
+			Tooltip: 启用后，将播放 Kirby's Return to Dream Land Deluxe ~ Supreme Ruler's Coronation - OVERLORD
+		}
+
+		MutantFtwZzz: {
+			Label: 突变体高难度替换音乐
+			Tooltip: 启用后，将突变体的主题曲替换为 Zenless Zone Zero ~ Battle Trials (Glory) in For The Worthy difficulty
+		}
+
+		ToggleAllVanillaMusicOverrides: {
+			Tooltip: 启用该选项，将启用所有原版音乐覆盖
+			Label: 切换所有原版音乐覆盖
+		}
+
+		ToggleAllSoulsMusicOverrides: {
+			Tooltip: 启用该选项，将启用所有Fargo魂音乐覆盖
+			Label: 切换所有Fargo魂音乐覆盖
 		}
 	}
 
