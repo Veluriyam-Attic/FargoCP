@@ -67,6 +67,11 @@ Buffs: {
 			'''
 		DisplayName: 灾厄驾到
 	}
+
+	RevealedBuff: {
+		DisplayName: 启示
+		Description: 你的潜行值和投掷速度已经被我破坏了！
+	}
 }
 
 Cooldowns.DaedalusPlatformCooldown: 代达罗斯平台
