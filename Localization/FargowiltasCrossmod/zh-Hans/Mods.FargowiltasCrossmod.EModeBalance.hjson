@@ -20,3 +20,4 @@ HardmodeSwords: 减少提供的属性加成
 OceanCrest: 提供对各类入水造成的永恒模式debuff的免疫
 // truth be told I have absolutely no idea what this enchantment is so the key name is just that
 CalEnch: 累计伤害上限为500.000
+PickSpeedUpGeneric: 提高{0}%挥镐速度
