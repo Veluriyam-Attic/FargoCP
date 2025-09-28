@@ -407,7 +407,7 @@ ElementsForce: {
 		[i:FargowiltasCrossmod/HydrothermicEnchant] 攻击会积聚热量，热量积聚满时停止攻击或受到伤害会散失热量
 		[i:FargowiltasCrossmod/HydrothermicEnchant] 散失热量会给予掠夺者之怒，并召唤强大的混沌烈焰，最多持续3秒
 		[c/45A8EF:凛冰模式:]
-		[i:FargowiltasCrossmod/ReaverEnchant] 增加飞行时间、飞行速度、生命再生速度、钩爪速度并减少冲刺冷却
+		[i:FargowiltasCrossmod/ReaverEnchant] 免疫击退，增加飞行时间、飞行速度、生命再生速度、钩爪速度并减少冲刺冷却
 		[i:FargowiltasCrossmod/AerospecEnchant] 持续停留在空中会增加至多50%的伤害
 		[i:FargowiltasCrossmod/DaedalusEnchant] 在空中飞行一秒后，攻击会伴随着从天而降的强大箭矢
 		'''
