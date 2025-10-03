@@ -87,11 +87,12 @@ Projectiles: {
 	BabyRockProjectile.DisplayName: Mini Champion of Earth
 	BiteSizeBabyFishronProjectile.DisplayName: Baby Banished Baron
 	EridinisChildofCosmos.DisplayName: Eridinis, Child of Cosmos
-	MiniCoffinProjectile.DisplayName: Miniature Coffin
+	MiniCoffinProjectile.DisplayName: Mini Cursed Coffin
 	MiniTimberChampionProjectile.DisplayName: Mini Champion of Timber
 	NatureHeadPetProjectile.DisplayName: Mini Champion of Nature
 	NaturePetProjectile.DisplayName: Mini Champion of Nature
 	TrojanSquirrelPetProjectile.DisplayName: Mini Trojan Squirrel
+	MiniCoffinSpirit.DisplayName: Mini Cursed Spirit
 }
 
 Configs: {

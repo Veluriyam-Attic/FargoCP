@@ -1,0 +1,12 @@
+Items: {
+	EternityToilet: {
+		DisplayName: 永恒马桶
+		Tooltip:
+			'''
+			究极宝座仅献给真正配得上的人
+			极大幅增加渔力
+
+			“我独自在这片荒芜的大地上”
+			'''
+	}
+}

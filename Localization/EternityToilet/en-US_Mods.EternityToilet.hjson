@@ -1,0 +1,12 @@
+Items: {
+	EternityToilet: {
+		DisplayName: Toilet of Eternity
+		Tooltip:
+			'''
+			The ultimate throne truly for the worthy.
+			Massively increases fishing power.
+
+			'I Am Alone On This Barren Earth.'
+			'''
+	}
+}

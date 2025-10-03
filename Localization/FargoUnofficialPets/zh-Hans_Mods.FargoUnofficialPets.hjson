@@ -92,6 +92,7 @@ Projectiles: {
 	NatureHeadPetProjectile.DisplayName: 自然幼灵
 	NaturePetProjectile.DisplayName: 自然幼灵
 	TrojanSquirrelPetProjectile.DisplayName: 迷你特洛伊松鼠
+	MiniCoffinSpirit.DisplayName: 迷你诅咒之灵
 }
 
 Configs: {
@@ -101,12 +102,12 @@ Configs: {
 
 		BabyLifelightTweaks: {
 			Label: "[i:FargowiltasSouls/LifelightMasterPet] 照明圣光调整"
-			Tooltip: "让宠物变得更帅！"
+			Tooltip: 让宠物变得更帅！
 		}
 
 		AccursedSarcophagusTweaks: {
 			Label: "[i:FargowiltasSouls/AccursedRags] 被诅咒的石棺调整"
-			Tooltip: "让宠物变得更帅！"
+			Tooltip: 让宠物变得更帅！
 		}
 	}
 }
