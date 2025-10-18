@@ -1,0 +1,113 @@
+Items: {
+	EridanusSummon: {
+		Tooltip: ""
+		DisplayName: Eridanus Summon
+	}
+
+	CosmicHat: {
+		Tooltip: ""
+		DisplayName: 宇宙之帽
+	}
+
+	ShadowCloak: {
+		Tooltip: ""
+		DisplayName: 暗影披风
+	}
+
+	PhantasmalEnergy: {
+		Tooltip: ""
+		DisplayName: 幻象能量
+	}
+
+	WillingGear: {
+		DisplayName: 意志齿轮
+		Tooltip: ""
+	}
+
+	DormantGoldGear: {
+		DisplayName: 沉眠金齿轮
+		Tooltip: ""
+	}
+
+	LifeSigil: {
+		Tooltip: ""
+		DisplayName: 生命符文
+	}
+
+	ShadeEssence: {
+		DisplayName: 暗影精华
+		Tooltip: ""
+	}
+
+	ShadeSoul: {
+		DisplayName: 暗影之魂
+		Tooltip: ""
+	}
+}
+
+Configs: {
+	MusicConfig: {
+		UseCustomLifelightMusic: {
+			Tooltip: "替换为 DELTARUNE - From Now On"
+			Label: 使用飘渺游光替换主题曲 （默认：启用）
+		}
+
+		DisplayName: Music Config
+
+		UseCustomDraedonMusic: {
+			Label: 使用星流巨械替换主题曲 （默认：启用）
+			Tooltip: "替换为 UNDERTALE - Hopes And Dreams"
+		}
+	}
+
+	ModSettings: {
+		RemoveSigilConfig: {
+			Tooltip: ""
+			Label: 移除[i:FargowiltasSouls/SigilOfChampions]唤灵魔符配方 （默认：启用）
+		}
+
+		UseCustomDraedonMusic: {
+			Tooltip: "替换为 UNDERTALE - Hopes And Dreams"
+			Label: 使用星流巨械替换主题曲 （默认：启用）
+		}
+
+		UseCustomLifelightMusic: {
+			Tooltip: "替换为 DELTARUNE - From Now On"
+			Label: 使用飘渺游光替换主题曲 （默认：启用）
+		}
+
+		DisplayName: 模组设置
+
+		DisableFargoZenithNerf: {
+			Label: 禁用永恒模式 [i:4956]天顶剑的削弱 （默认：启用）
+			Tooltip: ""
+		}
+
+		UseCustomArgusMusic: {
+			Tooltip: ""
+			Label: Use Argus' alt theme (default: true)
+		}
+
+		DisableEModeStarCannonNerf: {
+			Tooltip: ""
+			Label: 禁用永恒模式 [i:197] 星星炮的削弱 （默认：启用）
+		}
+
+		DisableEModeZenithNerf: {
+			Tooltip: ""
+			Label: 禁用永恒模式 [i:4956] 天顶剑的削弱 （默认：启用）
+		}
+
+		DisableEModeStarShooterNerf: {
+			Label: 禁用永恒模式 [i:4060] 超级星星炮的削弱 （默认：启用）
+			Tooltip: ""
+		}
+
+		MultiplyEterniaCrystalLife: {
+			Label: "[i:3828] 永恒水晶生命值乘以3倍（默认：启用）"
+			Tooltip: 撒旦军团事件的永恒水晶
+		}
+	}
+}
+
+"Keybinds.Toggle Lifelight Music.DisplayName": Toggle  Lifelight  Music

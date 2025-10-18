@@ -1,0 +1,113 @@
+Items: {
+	EridanusSummon: {
+		Tooltip: ""
+		DisplayName: Eridanus Summon
+	}
+
+	CosmicHat: {
+		Tooltip: ""
+		DisplayName: Cosmic Hat
+	}
+
+	ShadowCloak: {
+		Tooltip: ""
+		DisplayName: Shadow Cloak
+	}
+
+	PhantasmalEnergy: {
+		Tooltip: ""
+		DisplayName: Phantasmal Energy
+	}
+
+	WillingGear: {
+		DisplayName: Willing Gear
+		Tooltip: ""
+	}
+
+	DormantGoldGear: {
+		DisplayName: Dormant Gold Gear
+		Tooltip: ""
+	}
+
+	LifeSigil: {
+		Tooltip: ""
+		DisplayName: Life Sigil
+	}
+
+	ShadeEssence: {
+		DisplayName: Shade Essence
+		Tooltip: ""
+	}
+
+	ShadeSoul: {
+		DisplayName: Shade Soul
+		Tooltip: ""
+	}
+}
+
+Configs: {
+	MusicConfig: {
+		UseCustomLifelightMusic: {
+			Tooltip: ""
+			Label: Use Lifelight's alt theme (default: true)
+		}
+
+		DisplayName: Music Config
+
+		UseCustomDraedonMusic: {
+			Label: Use ExoMechs' alt theme (default: true)
+			Tooltip: ""
+		}
+	}
+
+	ModSettings: {
+		RemoveSigilConfig: {
+			Tooltip: ""
+			Label: Remove Sigil Of Champions recipe (default: true)
+		}
+
+		UseCustomDraedonMusic: {
+			Tooltip: ""
+			Label: Use ExoMech's alt theme (default: true)
+		}
+
+		UseCustomLifelightMusic: {
+			Tooltip: ""
+			Label: Use Lifelight's alt theme (default: true)
+		}
+
+		DisplayName: Mod Settings
+
+		DisableFargoZenithNerf: {
+			Label: Disable Zenith nerf in Eternity Mode (default: true)
+			Tooltip: ""
+		}
+
+		UseCustomArgusMusic: {
+			Tooltip: ""
+			Label: Use Argus' alt theme (default: true)
+		}
+
+		DisableEModeStarCannonNerf: {
+			Tooltip: ""
+			Label: Disable Star Cannon nerf in Eternity Mode (default: true)
+		}
+
+		DisableEModeZenithNerf: {
+			Tooltip: ""
+			Label: Disable Zenith nerf in Eternity Mode (default: true)
+		}
+
+		DisableEModeStarShooterNerf: {
+			Label: Disable Super Star Shooter nerf in Eternity Mode (default: true)
+			Tooltip: ""
+		}
+
+		MultiplyEterniaCrystalLife: {
+			Label: Multiply Eternia Crystal life by 3x (default: true)
+			Tooltip: ""
+		}
+	}
+}
+
+"Keybinds.Toggle Lifelight Music.DisplayName": Toggle  Lifelight  Music

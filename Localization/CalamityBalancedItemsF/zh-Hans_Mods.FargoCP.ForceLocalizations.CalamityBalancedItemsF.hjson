@@ -1,0 +1,458 @@
+Common: {
+	GlobalItem: {
+		PenetratorTooltipModifier+<>c: {
+			<ModifyTooltips>b__0_1: {
+				2: {
+					// NewString: Terraria
+					// OldString: Terraria
+				}
+
+				1: {
+					// NewString: CritChance
+					// OldString: CritChance
+				}
+			}
+
+			<ModifyTooltips>b__0_0: {
+				1: {
+					// NewString: Damage
+					// OldString: Damage
+				}
+			}
+		}
+
+		PenetratorTooltipModifier: {
+			ModifyTooltips: {
+				2: {
+					NewString: 100%暴击率
+					// OldString: 100% critical strike chance
+				}
+
+				1: {
+					NewString: ∞ 远程伤害
+					// OldString: ∞ ranged damage
+				}
+			}
+		}
+
+		UltimatePotionsBalance: {
+			PostAddRecipes: {
+				2: {
+					// NewString: Ultimate
+					// OldString: Ultimate
+				}
+
+				1: {
+					// NewString: UltimatePotionsMod
+					// OldString: UltimatePotionsMod
+				}
+			}
+		}
+
+		RecipeOverrideSystem: {
+			PostAddRecipes: {
+				4: {
+					// NewString: CrucibleCosmosSheet
+					// OldString: CrucibleCosmosSheet
+				}
+
+				3: {
+					// NewString: Fargowiltas
+					// OldString: Fargowiltas
+				}
+
+				2: {
+					// NewString: PhantasmalLeashOfCthulhu
+					// OldString: PhantasmalLeashOfCthulhu
+				}
+
+				1: {
+					// NewString: FargowiltasSouls
+					// OldString: FargowiltasSouls
+				}
+			}
+		}
+
+		PhantasmalLeashEdit: {
+			ModifyTooltips: {
+				3: {
+					// NewString: " "
+					// OldString: " "
+				}
+
+				2: {
+					// NewString: Terraria
+					// OldString: Terraria
+				}
+
+				1: {
+					// NewString: Damage
+					// OldString: Damage
+				}
+			}
+		}
+
+		MinicharkDamageEdit: {
+			ModifyTooltips: {
+				3: {
+					// NewString: " "
+					// OldString: " "
+				}
+
+				2: {
+					// NewString: Terraria
+					// OldString: Terraria
+				}
+
+				1: {
+					// NewString: Damage
+					// OldString: Damage
+				}
+			}
+		}
+
+		MeteoriteTransmutation: {
+			AddRecipes: {
+				3: {
+					// NewString: MoonstoneOreItem
+					// OldString: MoonstoneOreItem
+				}
+
+				2: {
+					// NewString: MoonstoneBarItem
+					// OldString: MoonstoneBarItem
+				}
+
+				1: {
+					// NewString: StarlightRiver
+					// OldString: StarlightRiver
+				}
+			}
+		}
+	}
+
+	GlobalBiome: {
+		MarbleCavesMusic: {
+			get_Music: {
+				1: {
+					// NewString: Sounds/Music/MarbleCaves
+					// OldString: Sounds/Music/MarbleCaves
+				}
+			}
+		}
+
+		GraniteCavesMusic: {
+			get_Music: {
+				1: {
+					// NewString: Sounds/Music/GraniteCaves
+					// OldString: Sounds/Music/GraniteCaves
+				}
+			}
+		}
+	}
+
+	GlobalBaronLoot: {
+		GlobalBaronLoot: {
+			ModifyNPCLoot: {
+				2: {
+					// NewString: BanishedBaron
+					// OldString: BanishedBaron
+				}
+
+				1: {
+					// NewString: FargowiltasSouls
+					// OldString: FargowiltasSouls
+				}
+			}
+		}
+	}
+
+	GlobalLunaticLoot: {
+		GlobalLunaticLoot: {
+			ModifyNPCLoot: {
+				1: {
+					NewString: 拜月邪教徒的掉落物已被修改！
+					// OldString: Lunatic Cultist loot being modified!
+				}
+			}
+		}
+	}
+
+	GlobalMutantLoot: {
+		GlobalMutantLoot: {
+			ModifyNPCLoot: {
+				2: {
+					// NewString: MutantBoss
+					// OldString: MutantBoss
+				}
+
+				1: {
+					// NewString: FargowiltasSouls
+					// OldString: FargowiltasSouls
+				}
+			}
+		}
+	}
+}
+
+Items: {
+	Accessories: {
+		ShadowCloak: {
+			ModifyTooltips: {
+				5: {
+					NewString: “暗影似乎与你有了某种连接……”
+					// OldString: "'The shadow seems to bond in you...'"
+				}
+
+				4: {
+					NewString: 有10%概率闪避攻击
+					// OldString: Gives a 10% chance to dodge attacks
+				}
+
+				3: {
+					NewString: 使你获得爬墙的能力
+					// OldString: Grants the ability to grab and climb walls
+				}
+
+				2: {
+					NewString: 允许你在不受伤害的情况下穿过敌人或弹幕
+					// OldString: Allows you to ram dash through enemies or projectiles without taking damage
+				}
+
+				1: {
+					// NewString: Tooltip0
+					// OldString: Tooltip0
+				}
+			}
+		}
+	}
+
+	Materials: {
+		ShadeSoul: {
+			ModifyTooltips: {
+				2: {
+					NewString: “你几乎看不见它……”
+					// OldString: "'You barely can look at it...'"
+				}
+
+				1: {
+					// NewString: Tooltip0
+					// OldString: Tooltip0
+				}
+			}
+		}
+
+		PhantasmalEnergy: {
+			ModifyTooltips: {
+				2: {
+					NewString: “这只是真正力量的一小部分……”
+					// OldString: "'Just a fragment of the real power...'"
+				}
+
+				1: {
+					// NewString: Tooltip0
+					// OldString: Tooltip0
+				}
+			}
+		}
+
+		DormantGoldGear: {
+			ModifyTooltips: {
+				2: {
+					NewString: “一个空容器……或许能被某种能量所填满……”
+					// OldString: "'A blank container... Maybe could be filled with some kind of energy...'"
+				}
+
+				1: {
+					// NewString: Tooltip0
+					// OldString: Tooltip0
+				}
+			}
+		}
+	}
+
+	Summons: {
+		WillingGear: {
+			ModifyTooltips: {
+				4: {
+					NewString: “这个齿轮散发着意志能量……如此精妙的造物，甚至能够引起嘉登的注意……”
+					// OldString: "'This gear emanates will energy... Such a good engineering, it may even catches Draedon's attention...'"
+				}
+
+				3: {
+					NewString: 不消耗
+					// OldString: Not Consumable
+				}
+
+				2: {
+					NewString: 在海洋使用召唤意志英灵
+					// OldString: Summons the Champion of Will when used in the Ocean biome
+				}
+
+				1: {
+					// NewString: Tooltip0
+					// OldString: Tooltip0
+				}
+			}
+		}
+
+		LifeSigil: {
+			ModifyTooltips: {
+				5: {
+					NewString: “它似乎不太友善……”
+					// OldString: "'It doesn't seems so friendly...'"
+				}
+
+				4: {
+					NewString: 不消耗
+					// OldString: Not Consumable
+				}
+
+				3: {
+					NewString: 不能在日食或下雨时使用
+					// OldString: Cannot be used when it's in an eclipse nor raining
+				}
+
+				2: {
+					NewString: 在白天使用召唤生命英灵
+					// OldString: Summons Champion of Life when used in day time
+				}
+
+				1: {
+					// NewString: Tooltip0
+					// OldString: Tooltip0
+				}
+			}
+		}
+
+		CosmicHat: {
+			ModifyTooltips: {
+				5: {
+					NewString: “这顶帽子散发着无法估量的力量……”
+					// OldString: "'This hat exudes immeasurable power...'"
+				}
+
+				4: {
+					NewString: 不消耗
+					// OldString: Not Consumable
+				}
+
+				3: {
+					NewString: 击败后解锁永恒守护者
+					// OldString: When defeated, unlocks the Eternity Keeper
+				}
+
+				2: {
+					NewString: 在太空使用召唤厄里达诺斯，宇宙英灵
+					// OldString: Summons Eridanus, Champion of Cosmos when used in the Space biome
+				}
+
+				1: {
+					// NewString: Tooltip0
+					// OldString: Tooltip0
+				}
+			}
+		}
+	}
+}
+
+Assets: {
+	Music: {
+		ExoMechsMusicScene: {
+			IsSceneEffectActive: {
+				7: {
+					// NewString: ThanatosTail
+					// OldString: ThanatosTail
+				}
+
+				6: {
+					// NewString: ThanatosHead
+					// OldString: ThanatosHead
+				}
+
+				5: {
+					// NewString: Artemis
+					// OldString: Artemis
+				}
+
+				4: {
+					// NewString: Apollo
+					// OldString: Apollo
+				}
+
+				3: {
+					// NewString: AresBody
+					// OldString: AresBody
+				}
+
+				2: {
+					// NewString: Draedon
+					// OldString: Draedon
+				}
+
+				1: {
+					// NewString: CalamityMod
+					// OldString: CalamityMod
+				}
+			}
+
+			get_Music: {
+				1: {
+					// NewString: Sounds/Music/HopesAndDreams
+					// OldString: Sounds/Music/HopesAndDreams
+				}
+			}
+		}
+
+		LifelightMusicScene: {
+			IsSceneEffectActive: {
+				2: {
+					// NewString: LifeChallenger
+					// OldString: LifeChallenger
+				}
+
+				1: {
+					// NewString: FargowiltasSouls
+					// OldString: FargowiltasSouls
+				}
+			}
+
+			get_Music: {
+				1: {
+					// NewString: Sounds/Music/FromNowOn
+					// OldString: Sounds/Music/FromNowOn
+				}
+			}
+		}
+	}
+}
+
+ShadowCloakPlayer: {
+	StartDash: {
+		1: {
+			// NewString: /Sounds/Item/ShadowCloak/ShadeDash
+			// OldString: /Sounds/Item/ShadowCloak/ShadeDash
+		}
+	}
+
+	PostUpdateRunSpeeds: {
+		1: {
+			// NewString: /Sounds/Item/ShadowCloak/ShadeDashCharge
+			// OldString: /Sounds/Item/ShadowCloak/ShadeDashCharge
+		}
+	}
+}
+
+CalamityBalancedItemsF: {
+	Load: {
+		2: {
+			// NewString: CalamityBalancedItemsF/Sounds/Music/HopesAndDreams
+			// OldString: CalamityBalancedItemsF/Sounds/Music/HopesAndDreams
+		}
+
+		1: {
+			// NewString: CalamityBalancedItemsF/Sounds/Music/FromNowOn
+			// OldString: CalamityBalancedItemsF/Sounds/Music/FromNowOn
+		}
+	}
+}

@@ -1,0 +1,2 @@
+version：0.2.34
+-增加 Balanced Calamity-Fargo's Experience (BCFE) 汉化
