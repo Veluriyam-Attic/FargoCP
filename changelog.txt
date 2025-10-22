@@ -1,2 +1,3 @@
-version：0.2.34
--增加 Balanced Calamity-Fargo's Experience (BCFE) 汉化
+version：0.2.35
+-更新 Balanced Calamity-Fargo's Experience (BCFE) 汉化
+-不再使用硬编码汉化

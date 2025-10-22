@@ -1,101 +1,40 @@
-Items: {
-	EridanusSummon: {
-		Tooltip: ""
-		DisplayName: Eridanus Summon
-	}
-
-	CosmicHat: {
-		Tooltip: ""
-		DisplayName: 宇宙之帽
-	}
-
-	ShadowCloak: {
-		Tooltip: ""
-		DisplayName: 暗影披风
-	}
-
-	PhantasmalEnergy: {
-		Tooltip: ""
-		DisplayName: 幻象能量
-	}
-
-	WillingGear: {
-		DisplayName: 意志齿轮
-		Tooltip: ""
-	}
-
-	DormantGoldGear: {
-		DisplayName: 沉眠金齿轮
-		Tooltip: ""
-	}
-
-	LifeSigil: {
-		Tooltip: ""
-		DisplayName: 生命符文
-	}
-
-	ShadeEssence: {
-		DisplayName: 暗影精华
-		Tooltip: ""
-	}
-
-	ShadeSoul: {
-		DisplayName: 暗影之魂
-		Tooltip: ""
-	}
-}
-
 Configs: {
-	MusicConfig: {
-		UseCustomLifelightMusic: {
-			Tooltip: "替换为 DELTARUNE - From Now On"
-			Label: 使用飘渺游光替换主题曲 （默认：启用）
-		}
-
-		DisplayName: Music Config
-
-		UseCustomDraedonMusic: {
-			Label: 使用星流巨械替换主题曲 （默认：启用）
-			Tooltip: "替换为 UNDERTALE - Hopes And Dreams"
-		}
-	}
-
 	ModSettings: {
-		RemoveSigilConfig: {
-			Tooltip: ""
-			Label: 移除[i:FargowiltasSouls/SigilOfChampions]唤灵魔符配方 （默认：启用）
-		}
-
 		UseCustomDraedonMusic: {
-			Tooltip: "替换为 UNDERTALE - Hopes And Dreams"
 			Label: 使用星流巨械替换主题曲 （默认：启用）
+			Tooltip: 替换为 UNDERTALE - Hopes And Dreams
 		}
 
 		UseCustomLifelightMusic: {
-			Tooltip: "替换为 DELTARUNE - From Now On"
+			Tooltip: 替换为 DELTARUNE - From Now On
 			Label: 使用飘渺游光替换主题曲 （默认：启用）
 		}
 
 		DisplayName: 模组设置
 
-		DisableFargoZenithNerf: {
-			Label: 禁用永恒模式 [i:4956]天顶剑的削弱 （默认：启用）
+		UseCustomMarbleTheme: {
+			Label: 使用大理石洞穴主题音乐 (默认：启用)
 			Tooltip: ""
 		}
 
-		UseCustomArgusMusic: {
+		UseCustomGraniteTheme: {
+			Label: 使用花岗岩洞穴主题音乐 (默认：启用)
 			Tooltip: ""
-			Label: Use Argus' alt theme (default: true)
 		}
 
-		DisableEModeStarCannonNerf: {
+		RemoveSigilConfig: {
+			Label: 移除[i:FargowiltasSouls/SigilOfChampions]唤灵魔符配方 （默认：启用）
 			Tooltip: ""
-			Label: 禁用永恒模式 [i:197] 星星炮的削弱 （默认：启用）
 		}
 
 		DisableEModeZenithNerf: {
-			Tooltip: ""
 			Label: 禁用永恒模式 [i:4956] 天顶剑的削弱 （默认：启用）
+			Tooltip: ""
+		}
+
+		DisableEModeStarCannonNerf: {
+			Label: 禁用永恒模式 [i:197] 星星炮的削弱 （默认：启用）
+			Tooltip: ""
 		}
 
 		DisableEModeStarShooterNerf: {
@@ -110,4 +49,67 @@ Configs: {
 	}
 }
 
-"Keybinds.Toggle Lifelight Music.DisplayName": Toggle  Lifelight  Music
+Items: {
+	WillingGear: {
+		Tooltip:
+			'''
+			在海洋使用召唤意志英灵
+			不消耗
+			“这个齿轮散发着意志能量……如此精妙的造物，甚至能够引起嘉登的注意……”
+			'''
+		DisplayName: 意志齿轮
+	}
+
+	LifeSigil: {
+		Tooltip:
+			'''
+			在白天使用召唤生命英灵
+			不能在日食或下雨时使用
+			不消耗
+			“它似乎不太友善……”
+			'''
+		DisplayName: 生命符文
+	}
+
+	CosmicHat: {
+		Tooltip:
+			'''
+			在太空使用召唤厄里达诺斯，宇宙英灵
+			击败后解锁永恒守护者
+			不消耗
+			“这顶帽子散发着无法估量的力量……”
+			'''
+		DisplayName: 宇宙之帽
+	}
+
+	ShadeSoul: {
+		Tooltip: “你几乎看不见它……”
+		DisplayName: 暗影之魂
+	}
+
+	PhantasmalEnergy: {
+		Tooltip: “这只是真正力量的一小部分……”
+		DisplayName: 幻象能量
+	}
+
+	DormantGoldGear: {
+		Tooltip: “一个空容器……或许能被某种能量所填满……”
+		DisplayName: 沉眠金齿轮
+	}
+
+	ShadowCloak: {
+		DisplayName: 暗影披风
+		Tooltip:
+			'''
+			允许你在不受伤害的情况下穿过敌人或弹幕
+			使你获得爬墙的能力
+			有10%概率闪避攻击
+			“暗影似乎与你有了某种连接……”
+			'''
+	}
+}
+
+Tooltips: {
+	PenetratorDamage: ∞ 远程伤害
+	PenetratorCrit: 100%暴击率
+}

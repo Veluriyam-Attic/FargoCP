@@ -94,15 +94,4 @@ namespace FargoCP
                 TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargosSoulsModDLCRecreated", false);
         }
     }
-
-    public class CalamityBalancedItemsF : ModSystem
-    {
-        public override void PostSetupContent()
-        {
-            if (
-                    ModLoader.HasMod("CalamityBalancedItemsF")
-               )
-                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "CalamityBalancedItemsF", false);
-        }
-    }
 }

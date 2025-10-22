@@ -1,101 +1,40 @@
-Items: {
-	EridanusSummon: {
-		Tooltip: ""
-		DisplayName: Eridanus Summon
-	}
-
-	CosmicHat: {
-		Tooltip: ""
-		DisplayName: Cosmic Hat
-	}
-
-	ShadowCloak: {
-		Tooltip: ""
-		DisplayName: Shadow Cloak
-	}
-
-	PhantasmalEnergy: {
-		Tooltip: ""
-		DisplayName: Phantasmal Energy
-	}
-
-	WillingGear: {
-		DisplayName: Willing Gear
-		Tooltip: ""
-	}
-
-	DormantGoldGear: {
-		DisplayName: Dormant Gold Gear
-		Tooltip: ""
-	}
-
-	LifeSigil: {
-		Tooltip: ""
-		DisplayName: Life Sigil
-	}
-
-	ShadeEssence: {
-		DisplayName: Shade Essence
-		Tooltip: ""
-	}
-
-	ShadeSoul: {
-		DisplayName: Shade Soul
-		Tooltip: ""
-	}
-}
-
 Configs: {
-	MusicConfig: {
-		UseCustomLifelightMusic: {
-			Tooltip: ""
-			Label: Use Lifelight's alt theme (default: true)
-		}
-
-		DisplayName: Music Config
-
-		UseCustomDraedonMusic: {
-			Label: Use ExoMechs' alt theme (default: true)
-			Tooltip: ""
-		}
-	}
-
 	ModSettings: {
-		RemoveSigilConfig: {
-			Tooltip: ""
-			Label: Remove Sigil Of Champions recipe (default: true)
-		}
-
 		UseCustomDraedonMusic: {
+			Label: Use Lifelight's alt theme (default: true)
 			Tooltip: ""
-			Label: Use ExoMech's alt theme (default: true)
 		}
 
 		UseCustomLifelightMusic: {
 			Tooltip: ""
-			Label: Use Lifelight's alt theme (default: true)
+			Label: Use ExoMechs' alt theme (default: true)
 		}
 
 		DisplayName: Mod Settings
 
-		DisableFargoZenithNerf: {
-			Label: Disable Zenith nerf in Eternity Mode (default: true)
+		UseCustomMarbleTheme: {
+			Label: Use Marble Caves biome theme (default: true)
 			Tooltip: ""
 		}
 
-		UseCustomArgusMusic: {
+		UseCustomGraniteTheme: {
+			Label: Use Granite Caves biome theme (default: true)
 			Tooltip: ""
-			Label: Use Argus' alt theme (default: true)
 		}
 
-		DisableEModeStarCannonNerf: {
+		RemoveSigilConfig: {
+			Label: Remove Sigil Of Champions recipe (default: true)
 			Tooltip: ""
-			Label: Disable Star Cannon nerf in Eternity Mode (default: true)
 		}
 
 		DisableEModeZenithNerf: {
-			Tooltip: ""
 			Label: Disable Zenith nerf in Eternity Mode (default: true)
+			Tooltip: ""
+		}
+
+		DisableEModeStarCannonNerf: {
+			Label: Disable Star Cannon nerf in Eternity Mode (default: true)
+			Tooltip: ""
 		}
 
 		DisableEModeStarShooterNerf: {
@@ -110,4 +49,67 @@ Configs: {
 	}
 }
 
-"Keybinds.Toggle Lifelight Music.DisplayName": Toggle  Lifelight  Music
+Items: {
+	WillingGear: {
+		Tooltip:
+			'''
+			Summons the Champion of Will when used in the Ocean biome
+			Not Consumable
+			'A gear forged with determination. It turns not by force, but by will itself...'
+			'''
+		DisplayName: Willing Gear
+	}
+
+	LifeSigil: {
+		Tooltip:
+			'''
+			Summons Champion of Life when used in day time
+			Cannot be used when it's in an eclipse nor raining
+			Not Consumable
+			'It doesn't seems so friendly...'
+			'''
+		DisplayName: Life Sigil
+	}
+
+	CosmicHat: {
+		Tooltip:
+			'''
+			Summons Eridanus, Champion of Cosmos when used in the Space biome
+			When defeated, unlocks the Eternity Keeper
+			Not Consumable
+			'This hat exudes immeasurable power...'
+			'''
+		DisplayName: Cosmic Hat
+	}
+
+	ShadeSoul: {
+		Tooltip: "'You barely can look at it...'"
+		DisplayName: Shade Soul
+	}
+
+	PhantasmalEnergy: {
+		Tooltip: "'Just a fragment of the real power...'"
+		DisplayName: Phantasmal Energy
+	}
+
+	DormantGoldGear: {
+		Tooltip: "'A blank container... Maybe could be filled with some kind of energy...'"
+		DisplayName: Dormant Gold Gear
+	}
+
+	ShadowCloak: {
+		DisplayName: Shadow Cloak
+		Tooltip:
+			'''
+			Allows you to ram dash through enemies or projectiles without taking damage
+			Grants the ability to grab and climb walls
+			Gives a 10% chance to dodge attacks
+			'The shadow seems to bond in you...'
+			'''
+	}
+}
+
+Tooltips: {
+	PenetratorDamage: ∞ ranged damage
+	PenetratorCrit: 100% critical strike chance
+}
