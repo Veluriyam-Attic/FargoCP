@@ -1,3 +1,2 @@
-version：0.2.35
--更新 Balanced Calamity-Fargo's Experience (BCFE) 汉化
--不再使用硬编码汉化
+version：0.2.36
+-更新 Fargo's Enemy Modifiers 汉化
