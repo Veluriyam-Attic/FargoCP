@@ -19,6 +19,11 @@ Configs: {
 			Tooltip: ""
 		}
 
+		Skeletron: {
+			Label: 骷髅王
+			Tooltip: ""
+		}
+
 		MoonLord: {
 			Label: 月亮领主
 			Tooltip: ""
@@ -248,10 +253,22 @@ Configs: {
 			Label: 神庙
 			Tooltip: ""
 		}
-		
+
 		Cultist: {
 			Label: 拜月教邪教徒
 			Tooltip: ""
 		}
+
+		NowPlayingEnum: {
+			Label: 正在播放的曲目
+			Tooltip: ""
+		}
+	}
+
+	NowPlayingID: {
+		Tooltip: ""
+		None.Label: 无
+		Chat.Label: 聊天栏
+		Notification.Label: 通知栏
 	}
 }
