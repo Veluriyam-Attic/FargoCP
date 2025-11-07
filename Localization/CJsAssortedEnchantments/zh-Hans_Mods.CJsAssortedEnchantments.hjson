@@ -1,0 +1,163 @@
+Items: {
+	BrothersShirt: {
+		DisplayName: 路易吉兄弟的衬衫
+		Tooltip: ""
+	}
+
+	WeegeeEnchantment: {
+		DisplayName: 维吉魔石
+		Tooltip:
+			'''
+			略微提升跳跃高度
+			增加伤害减免并在完全静止时给予荆棘效果
+			死亡时播放特殊音效（在时装栏也生效）
+			“L is real 2401”
+			[C/959595:（马里奥64的一个谜团）]
+			'''
+	}
+
+	LuckyEnchantment: {
+		DisplayName: 幸运魔石
+		Tooltip:
+			'''
+			增加0.5点幸运值
+			你有概率受到在超过50%最大生命的伤害下存活
+			在受到伤害并存活后，你会剩余20点生命值并清除所有减益
+			存活概率 = （当前幸运值 + 1 ） * 5
+			“幸运女神向你微笑”
+			'''
+	}
+
+	TastyEnchantment: {
+		DisplayName: 美味魔石
+		Tooltip:
+			'''
+			提供高于酒足饭饱2级的属性增益
+			无法与其他食物增益叠加
+			“一天一苹果，月总远离我！”
+			'''
+	}
+
+	SlimeEnchantment: {
+		DisplayName: 史莱姆魔石
+		Tooltip:
+			'''
+			生成一个史莱姆王召唤物，其伤害受到召唤伤害加成影响
+			远程弹幕有15%的概率在击中实心物块后反弹
+			使所有原版史莱姆变得友好
+			“黏滑滑的，却令人满足”
+			'''
+	}
+
+	ShimmerEnchantment: {
+		DisplayName: 微光魔石
+		Tooltip:
+			'''
+			使你免疫微光闪烁
+			按下 [{$Mods.CJsAssortedEnchantments.Keybinds.Shimmering.DisplayName}] 键切换为微光模式
+			处于微光模式下，你将穿过物块并免疫大部分类型的伤害
+			你仍可以移动和使用物品，但垂直移动会变得更加困难，尤其是在物块内时
+			“哦！闪闪发亮！”
+			'''
+	}
+
+	ForagerEnchantment: {
+		DisplayName: 采集魔石
+		Tooltip:
+			'''
+			砍树时会顺便种下橡实
+			提高炼金植物的采集量
+			挖掘时有小概率掉落额外矿石
+			激活时提供以下额外效果：
+			允许收集干草和藤蔓绳
+			站在某些物块上时有小概率长出炼金植物
+			右键点击以切换
+			“虽然不多，但都是辛苦钱”
+			'''
+	}
+
+	ForagerEnchantmentInactive: {
+		DisplayName: 采集魔石 (未激活)
+		Tooltip:
+			'''
+			砍树时会顺便种下橡实
+			提高炼金植物的采集量
+			挖掘时有小概率掉落额外矿石
+			激活时提供以下额外效果：
+			允许收集干草和藤蔓绳
+			站在某些物块上时有小概率长出炼金植物
+			右键点击以切换
+			“虽然不多，但都是辛苦钱”
+			'''
+	}
+
+	FORCE: {
+		DisplayName: F.O.R.C.E.
+		Tooltip:
+			'''
+			"The Fully Organizable Receptacle for Combining魔石s.
+			Its core of pure, crystallized Fargonium stabilizes the chaotic
+			energies of opposing魔石s, allowing them to coexist."
+			'''
+	}
+
+	OmniBucket: {
+		DisplayName: 全能桶 (水)
+		Tooltip:
+			'''
+			无限范围
+			含有无限多的水
+			倾倒 5x5 大小的水
+			右键点击以切换液体
+			“这...是一个桶”
+			'''
+	}
+
+	OmniBucketHoney: {
+		DisplayName: 全能桶 (蜂蜜)
+		Tooltip:
+			'''
+			无限范围
+			含有无限多的蜂蜜
+			倾倒 5x5 大小的蜂蜜
+			右键点击以切换液体
+			“这...是一个桶”
+			'''
+	}
+
+	OmniBucketLava: {
+		DisplayName: 全能桶 (熔岩)
+		Tooltip:
+			'''
+			无限范围
+			含有无限多的熔岩
+			倾倒 5x5 大小的熔岩
+			右键点击以切换液体
+			“这...是一个桶”
+			'''
+	}
+
+	HyperAbsorbantSponge: {
+		DisplayName: 超级吸收棉
+		Tooltip:
+			'''
+			无限范围
+			能够吸收无限多的液体
+			吸收 5x5 范围内的液体
+			“它吸收的比任何东西都多”
+			[C/959595:（这句话是双关语还可以翻译为“没有比这个更烂的了”）]
+			'''
+	}
+}
+
+Buffs: {
+	ShimmeringBuff: {
+		DisplayName: 微光模式
+		Description: 你已经变得无形了！
+	}
+}
+
+Keybinds: {
+	Shimmering.DisplayName: 微光模式
+	ActivateShimmering.DisplayName: 激活微光模式
+}

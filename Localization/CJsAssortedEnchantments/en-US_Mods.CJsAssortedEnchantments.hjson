@@ -1,0 +1,161 @@
+Items: {
+	BrothersShirt: {
+		DisplayName: Brother's Shirt
+		Tooltip: ""
+	}
+
+	WeegeeEnchantment: {
+		DisplayName: Weegee Enchantment
+		Tooltip:
+			'''
+			Slightly increases jump height
+			Increases damage reduction and gives a thorns effect while doing absolutely nothing
+			Plays a special sound when you die (works in vanity)
+			'L is real 2401'
+			'''
+	}
+
+	LuckyEnchantment: {
+		DisplayName: Lucky Enchantment
+		Tooltip:
+			'''
+			Increases luck by 0.5
+			You have a chance to survive any lethal attack that deals more than 50% of your max health in damage
+			Surviving an attack leaves you with 20 HP and cures all debuffs
+			The chance of surviving an attack is 5% multiplied by your current luck value + 1
+			'Lady Luck smiles upon thee'
+			'''
+	}
+
+	TastyEnchantment: {
+		DisplayName: Tasty Enchantment
+		Tooltip:
+			'''
+			Gives stat buffs 2 tiers higher than Exquisitely Stuffed
+			Does not stack with other food buffs
+			'An apple a day keeps the Moon Lord at bay!'
+			'''
+	}
+
+	SlimeEnchantment: {
+		DisplayName: Slime Enchantment
+		Tooltip:
+			'''
+			Spawns a King Slime Minion that scales with summon damage
+			Ranged projectiles have a 15% chance to bounce upon hitting a solid wall
+			Makes all vanilla slimes friendly
+			'Slimy, yet satisfying'
+			'''
+	}
+
+	ShimmerEnchantment: {
+		DisplayName: Shimmer Enchantment
+		Tooltip:
+			'''
+			Grants immunity to Shimmer Phasing
+			Press the Shimmering hotkey to toggle Shimmering Mode
+			While in Shimmering Mode, you will pass through blocks and become immune to most types of damage
+			You can still move and use items, however vertical movement becomes more difficult, especially while inside blocks
+			'Ooh, sparkly!'
+			'''
+	}
+
+	ForagerEnchantment: {
+		DisplayName: Forager Enchantment
+		Tooltip:
+			'''
+			Plants acorns when cutting down trees
+			Increases alchemy plant collection
+			Has a small chance to drop additional ores when mined
+			Grants the following additional effects while active:
+			Allows for the collection of Hay and Vine Ropes
+			Has a small chance to grow alchemy plants while standing on certain blocks
+			Right click to toggle
+			'It ain’t much, but it’s honest work'
+			'''
+	}
+
+	ForagerEnchantmentInactive: {
+		DisplayName: Forager Enchantment (Inactive)
+		Tooltip:
+			'''
+			Plants acorns when cutting down trees
+			Increases alchemy plant collection
+			Has a small chance to drop additional ores when mined
+			Grants the following additional effects while active:
+			Allows for the collection of Hay and Vine Ropes
+			Has a small chance to grow alchemy plants while standing on certain blocks
+			Right click to toggle
+			'It ain’t much, but it’s honest work'
+			'''
+	}
+
+	FORCE: {
+		DisplayName: F.O.R.C.E.
+		Tooltip:
+			'''
+			"The Fully Organizable Receptacle for Combining Enchantments.
+			Its core of pure, crystallized Fargonium stabilizes the chaotic
+			energies of opposing Enchantments, allowing them to coexist."
+			'''
+	}
+
+	OmniBucket: {
+		DisplayName: Omni-Bucket (Water)
+		Tooltip:
+			'''
+			Infinite range
+			Contains an endless amount of water
+			Can be poured out in a 5x5 area
+			Right click to swap liquids
+			'This... is a bucket'
+			'''
+	}
+
+	OmniBucketHoney: {
+		DisplayName: Omni-Bucket (Honey)
+		Tooltip:
+			'''
+			Infinite range
+			Contains an endless amount of honey
+			Can be poured out in a 5x5 area
+			Right click to swap liquids
+			'This... is a bucket'
+			'''
+	}
+
+	OmniBucketLava: {
+		DisplayName: Omni-Bucket (Lava)
+		Tooltip:
+			'''
+			Infinite range
+			Contains an endless amount of lava
+			Can be poured out in a 5x5 area
+			Right click to swap liquids
+			'This... is a bucket'
+			'''
+	}
+
+	HyperAbsorbantSponge: {
+		DisplayName: Hyper Absorbant Sponge
+		Tooltip:
+			'''
+			Infinite range
+			Capable of soaking up an endless amount of liquid
+			Soaks up liquids within a 5x5 area
+			'It sucks more than anything'
+			'''
+	}
+}
+
+Buffs: {
+	ShimmeringBuff: {
+		DisplayName: Shimmering Mode
+		Description: You've gone insubstantial!
+	}
+}
+
+Keybinds: {
+	Shimmering.DisplayName: Shimmering Mode
+	ActivateShimmering.DisplayName: Activate Shimmering Mode
+}
