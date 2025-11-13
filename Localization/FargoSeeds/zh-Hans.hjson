@@ -39,7 +39,7 @@ Mods: {
 
 				InvertedHell: {
 					Tooltip: ""
-					Label: "[i:207] 颠倒世界"
+					Label: "[i:207] 颠倒地狱"
 				}
 
 				BothOres: {
@@ -361,7 +361,7 @@ Mods: {
 				}
 
 				RemixUnderworld: {
-					Label: "[i:207] 颠倒地狱"
+					Label: "[i:207] 颠倒世界"
 					Tooltip: ""
 				}
 
