@@ -1,7 +1,7 @@
 Configs: {
 	MusicConfig: {
 		DisplayName: 音乐设置
-		
+
 		Headers: {
 			VanillaMusicOverrides: 覆盖原版音乐
 			SoulsMusicOverrides: 覆盖Fargo魂音乐
@@ -25,6 +25,11 @@ Configs: {
 				'''
 		}
 
+		CopyrightMode: {
+			Label: 版权安全模式
+			Tooltip: ""
+		}
+
 		NowPlayingEnum: {
 			Label: 当前歌曲显示
 			Tooltip: ""
@@ -34,7 +39,7 @@ Configs: {
 			Label: 沉浸式Boss歌曲
 			Tooltip: Boss歌曲在战斗结束后仍会继续播放一段时间
 		}
-		
+
 		OverrideTrojanSquirrelTheme: {
 			Label: 覆盖特洛伊松鼠主题曲
 			Tooltip: 启用后，将播放 HoloCure ~ Suspect
@@ -238,8 +243,20 @@ Configs: {
 
 	NowPlayingID: {
 		Tooltip: ""
-		None.Label: 无
-		Chat.Label: 聊天栏
-		Notification.Label: 通知栏
+
+		None: {
+			Label: 无
+			Tooltip: ""
+		}
+
+		Chat: {
+			Label: 聊天栏
+			Tooltip: ""
+		}
+
+		Notification: {
+			Label: 通知栏
+			Tooltip: ""
+		}
 	}
 }

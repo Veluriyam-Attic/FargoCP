@@ -17,6 +17,11 @@ Configs: {
 			Tooltip: ""
 		}
 
+		CopyrightMode: {
+			Label: Copyright-Safe Mode
+			Tooltip: ""
+		}
+
 		NowPlayingEnum: {
 			Label: Current Song Display
 			Tooltip: ""
@@ -230,8 +235,20 @@ Configs: {
 
 	NowPlayingID: {
 		Tooltip: ""
-		None.Label: None
-		Chat.Label: Chat
-		Notification.Label: Notification
+
+		None: {
+			Label: None
+			Tooltip: ""
+		}
+
+		Chat: {
+			Label: Chat
+			Tooltip: ""
+		}
+
+		Notification: {
+			Label: Notification
+			Tooltip: ""
+		}
 	}
 }
