@@ -257,7 +257,7 @@ Items: {
 		DisplayName: 湮灭之力
 	}
 
-	WulfrumEnchantment: {
+	WulfrumEnchant: {
 		Tooltip:
 			'''
 			生命值低于50%时增加5点防御力
@@ -267,7 +267,7 @@ Items: {
 		DisplayName: 钨钢魔石
 	}
 
-	VictideEnchantment: {
+	VictideEnchant: {
 		Tooltip:
 			'''
 			使用任何武器时，都有10%的几率发射回旋贝壳射弹
@@ -279,7 +279,7 @@ Items: {
 		DisplayName: 胜潮魔石
 	}
 
-	UmbraphileEnchantment: {
+	UmbraphileEnchant: {
 		Tooltip:
 			'''
 			增加110点最大潜行值
@@ -290,22 +290,22 @@ Items: {
 		DisplayName: 日影魔石
 	}
 
-	TarragonEnchantment: {
+	TarragonEnchant: {
 		Tooltip: ""
 		DisplayName: 龙蒿魔石
 	}
 
-	SulphurousEnchantment: {
+	SulphurousEnchant: {
 		Tooltip: ""
 		DisplayName: 硫磺魔石
 	}
 
-	StatigelEnchantment: {
+	StatigelEnchant: {
 		Tooltip: ""
 		DisplayName: 斯塔提斯魔石
 	}
 
-	SnowRuffianEnchantment: {
+	SnowRuffianEnchant: {
 		Tooltip:
 			'''
 			你可以缓降以消除坠落伤害
@@ -314,12 +314,12 @@ Items: {
 		DisplayName: 雪境暴徒魔石
 	}
 
-	SilvaEnchantment: {
+	SilvaEnchant: {
 		Tooltip: ""
 		DisplayName: 始源林海魔石
 	}
 
-	ReaverEnchantment: {
+	ReaverEnchant: {
 		Tooltip:
 			'''
 			受到持续性伤害减益时，降低20%生命恢复损失
@@ -342,17 +342,17 @@ Items: {
 		DisplayName: 掠夺者魔石
 	}
 
-	PlagueReaperEnchantment: {
+	PlagueReaperEnchant: {
 		Tooltip: ""
 		DisplayName: 瘟疫死神魔石
 	}
 
-	OmegaBlueEnchantment: {
+	OmegaBlueEnchant: {
 		Tooltip: ""
 		DisplayName: 蓝色欧米茄魔石
 	}
 
-	MolluskEnchantment: {
+	MolluskEnchant: {
 		Tooltip:
 			'''
 			两只沉沦之贝会在战斗中助你一臂之力
@@ -365,27 +365,27 @@ Items: {
 		DisplayName: 软壳魔石
 	}
 
-	GodSlayerEnchantment: {
+	GodSlayerEnchant: {
 		Tooltip: ""
 		DisplayName: 弑神者魔石
 	}
 
-	FearmongerEnchantment: {
+	FearmongerEnchant: {
 		Tooltip: ""
 		DisplayName: 神惧者魔石
 	}
 
-	FathomSwarmerEnchantment: {
+	FathomSwarmerEnchant: {
 		Tooltip: ""
 		DisplayName: 幻渊鱼群魔石
 	}
 
-	EmpyreanEnchantment: {
+	EmpyreanEnchant: {
 		Tooltip: ""
 		DisplayName: 皇天魔石
 	}
 
-	DemonShadeEnchantment: {
+	DemonShadeEnchant: {
 		Tooltip:
 			'''
 			增加100%召唤伤害和10个最大仆从栏位
@@ -399,12 +399,12 @@ Items: {
 		DisplayName: 魔影魔石
 	}
 
-	DaedalusEnchantment: {
+	DaedalusEnchant: {
 		Tooltip: ""
 		DisplayName: 代达罗斯魔石
 	}
 
-	BrimflameEnchantment: {
+	BrimflameEnchant: {
 		Tooltip:
 			'''
 			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键进入[C/826B6B:硫火狂暴]模式
@@ -416,27 +416,27 @@ Items: {
 		DisplayName: 硫火魔石
 	}
 
-	BloodflareEnchantment: {
+	BloodflareEnchant: {
 		Tooltip: ""
 		DisplayName: 血炎魔石
 	}
 
-	AuricEnchantment: {
+	AuricEnchant: {
 		Tooltip: ""
 		DisplayName: 圣金源魔石
 	}
 
-	AtaxiaEnchantment: {
+	AtaxiaEnchant: {
 		Tooltip: ""
 		DisplayName: 渊泉魔石
 	}
 
-	AstralEnchantment: {
+	AstralEnchant: {
 		Tooltip: ""
 		DisplayName: 星幻魔石
 	}
 
-	AerospecEnchantment: {
+	AerospecEnchant: {
 		Tooltip:
 			'''
 			提高下落速度并免疫掉落伤害
@@ -486,7 +486,7 @@ Items: {
 			'''
 	}
 
-	AssassinEnchantment: {
+	AssassinEnchant: {
 		DisplayName: 刺客魔石
 		Tooltip:
 			'''
@@ -498,7 +498,7 @@ Items: {
 			'''
 	}
 
-	NoviceClericEnchantment: {
+	NoviceClericEnchant: {
 		DisplayName: 牧师魔石
 		Tooltip:
 			'''
@@ -509,7 +509,7 @@ Items: {
 			'''
 	}
 
-	SacredEnchantment: {
+	SacredEnchant: {
 		DisplayName: 崇圣魔石
 		Tooltip:
 			'''
@@ -521,7 +521,7 @@ Items: {
 			'''
 	}
 
-	TemplarEnchantment: {
+	TemplarEnchant: {
 		DisplayName: 圣骑魔石
 		Tooltip:
 			'''
@@ -530,7 +530,7 @@ Items: {
 			'''
 	}
 
-	BiotechEnchantment: {
+	BiotechEnchant: {
 		DisplayName: 医疗魔石
 		Tooltip:
 			'''
@@ -541,7 +541,7 @@ Items: {
 			'''
 	}
 
-	EbonEnchantment: {
+	EbonEnchant: {
 		DisplayName: 黑檀魔石
 		Tooltip:
 			'''
@@ -551,7 +551,7 @@ Items: {
 			'''
 	}
 
-	WarlockEnchantment: {
+	WarlockEnchant: {
 		DisplayName: 术士魔石
 		Tooltip:
 			'''
@@ -563,7 +563,7 @@ Items: {
 			'''
 	}
 
-	FallenPaladinEnchantment: {
+	FallenPaladinEnchant: {
 		DisplayName: 堕骑魔石
 		Tooltip:
 			'''
@@ -575,7 +575,7 @@ Items: {
 			'''
 	}
 
-	IridescentEnchantment: {
+	IridescentEnchant: {
 		DisplayName: 光耀魔石
 		Tooltip:
 			'''
@@ -586,7 +586,7 @@ Items: {
 			'''
 	}
 
-	LifeBinderEnchantment: {
+	LifeBinderEnchant: {
 		DisplayName: 缚生魔石
 		Tooltip:
 			'''
@@ -610,7 +610,7 @@ Items: {
 			'''
 	}
 
-	CrierEnchantment: {
+	CrierEnchant: {
 		DisplayName: 传讯魔石
 		Tooltip:
 			'''
@@ -620,7 +620,7 @@ Items: {
 			'''
 	}
 
-	NobleEnchantment: {
+	NobleEnchant: {
 		DisplayName: 贵族魔石
 		Tooltip:
 			'''
@@ -630,7 +630,7 @@ Items: {
 			'''
 	}
 
-	MaestroEnchantment: {
+	MaestroEnchant: {
 		DisplayName: 大师魔石
 		Tooltip:
 			'''
@@ -641,7 +641,7 @@ Items: {
 			'''
 	}
 
-	MarchingBandEnchantment: {
+	MarchingBandEnchant: {
 		DisplayName: 仪仗队魔石
 		Tooltip:
 			'''
@@ -651,7 +651,7 @@ Items: {
 			'''
 	}
 
-	CyberPunkEnchantment: {
+	CyberPunkEnchant: {
 		DisplayName: 赛博魔石
 		Tooltip:
 			'''
@@ -666,7 +666,7 @@ Items: {
 			'''
 	}
 
-	OrnateEnchantment: {
+	OrnateEnchant: {
 		DisplayName: 华贵魔石
 		Tooltip:
 			'''
@@ -689,7 +689,7 @@ Items: {
 			'''
 	}
 
-	ShootingStarEnchantment: {
+	ShootingStarEnchant: {
 		DisplayName: 掠星魔石
 		Tooltip:
 			'''
@@ -700,7 +700,7 @@ Items: {
 			'''
 	}
 
-	LichEnchantment: {
+	LichEnchant: {
 		DisplayName: 巫妖魔石
 		Tooltip:
 			'''
@@ -713,7 +713,7 @@ Items: {
 			'''
 	}
 
-	PlagueDoctorEnchantment: {
+	PlagueDoctorEnchant: {
 		DisplayName: 疫医魔石
 		Tooltip:
 			'''
@@ -723,7 +723,7 @@ Items: {
 			'''
 	}
 
-	CelestialEnchantment: {
+	CelestialEnchant: {
 		DisplayName: 天界魔石
 		Tooltip:
 			'''
@@ -733,7 +733,7 @@ Items: {
 			'''
 	}
 
-	WhiteDwarfEnchantment: {
+	WhiteDwarfEnchant: {
 		DisplayName: 白矮星魔石
 		Tooltip:
 			'''
@@ -756,7 +756,7 @@ Items: {
 			'''
 	}
 
-	LivingWoodEnchantment: {
+	LivingWoodEnchant: {
 		DisplayName: 生命木魔石
 		Tooltip:
 			'''
@@ -767,7 +767,7 @@ Items: {
 			'''
 	}
 
-	BulbEnchantment: {
+	BulbEnchant: {
 		DisplayName: 绽花魔石
 		Tooltip:
 			'''
@@ -777,7 +777,7 @@ Items: {
 			'''
 	}
 
-	LifeBloomEnchantment: {
+	LifeBloomEnchant: {
 		DisplayName: 绽生魔石
 		Tooltip:
 			'''
@@ -790,7 +790,7 @@ Items: {
 			'''
 	}
 
-	FlightEnchantment: {
+	FlightEnchant: {
 		DisplayName: 飞羽魔石
 		Tooltip:
 			'''
@@ -800,7 +800,7 @@ Items: {
 			'''
 	}
 
-	FungusEnchantment: {
+	FungusEnchant: {
 		DisplayName: 真菌魔石
 		Tooltip:
 			'''
@@ -810,7 +810,7 @@ Items: {
 			'''
 	}
 
-	DangerEnchantment: {
+	DangerEnchant: {
 		DisplayName: 危机魔石
 		Tooltip:
 			'''
@@ -820,7 +820,7 @@ Items: {
 			'''
 	}
 
-	SandstoneEnchantment: {
+	SandstoneEnchant: {
 		DisplayName: 砂石魔石
 		Tooltip:
 			'''
@@ -862,7 +862,7 @@ Items: {
 			'''
 	}
 
-	DarksteelEnchantment: {
+	DarksteelEnchant: {
 		DisplayName: 暗钢魔石
 		Tooltip:
 			'''
@@ -875,7 +875,7 @@ Items: {
 			'''
 	}
 
-	SteelEnchantment: {
+	SteelEnchant: {
 		DisplayName: 钢魔石
 		Tooltip:
 			'''
@@ -885,7 +885,7 @@ Items: {
 			'''
 	}
 
-	ConduitEnchantment: {
+	ConduitEnchant: {
 		DisplayName: 电容魔石
 		Tooltip:
 			'''
@@ -897,7 +897,7 @@ Items: {
 			'''
 	}
 
-	DurasteelEnchantment: {
+	DurasteelEnchant: {
 		DisplayName: 耐钢魔石
 		Tooltip:
 			'''
@@ -908,7 +908,7 @@ Items: {
 			'''
 	}
 
-	BronzeEnchantment: {
+	BronzeEnchant: {
 		DisplayName: 青铜魔石
 		Tooltip:
 			'''
@@ -918,7 +918,7 @@ Items: {
 			'''
 	}
 
-	GraniteEnchantment: {
+	GraniteEnchant: {
 		DisplayName: 花岗岩魔石
 		Tooltip:
 			'''
@@ -928,7 +928,7 @@ Items: {
 			'''
 	}
 
-	TitanEnchantment: {
+	TitanEnchant: {
 		DisplayName: 泰坦魔石
 		Tooltip:
 			'''
@@ -951,7 +951,7 @@ Items: {
 			'''
 	}
 
-	JesterEnchantment: {
+	JesterEnchant: {
 		DisplayName: 弄臣魔石
 		Tooltip:
 			'''
@@ -961,7 +961,7 @@ Items: {
 			'''
 	}
 
-	TerrariumEnchantment: {
+	TerrariumEnchant: {
 		DisplayName: 元素魔石
 		Tooltip:
 			'''
@@ -1018,7 +1018,7 @@ Items: {
 		}
 	}
 
-	ThoriumEnchantment: {
+	ThoriumEnchant: {
 		DisplayName: 瑟银魔石
 		Tooltip:
 			'''
@@ -1029,7 +1029,7 @@ Items: {
 			'''
 	}
 
-	ValadiumEnchantment: {
+	ValadiumEnchant: {
 		DisplayName: 虚金魔石
 		Tooltip:
 			'''
@@ -1040,7 +1040,7 @@ Items: {
 			'''
 	}
 
-	ShadeMasterEnchantment: {
+	ShadeMasterEnchant: {
 		DisplayName: 浸影魔石
 		Tooltip:
 			'''
@@ -1050,7 +1050,7 @@ Items: {
 			'''
 	}
 
-	GeodeEnchantment: {
+	GeodeEnchant: {
 		DisplayName: 晶体魔石
 		Tooltip:
 			'''
@@ -1062,7 +1062,7 @@ Items: {
 			'''
 	}
 
-	LodestoneEnchantment: {
+	LodestoneEnchant: {
 		DisplayName: 地脉魔石
 		Tooltip:
 			'''
@@ -1073,7 +1073,7 @@ Items: {
 			'''
 	}
 
-	IllumiteEnchantment: {
+	IllumiteEnchant: {
 		DisplayName: 荧光魔石
 		Tooltip:
 			'''
@@ -1102,7 +1102,7 @@ Items: {
 			'''
 	}
 
-	YewWoodEnchantment: {
+	YewWoodEnchant: {
 		DisplayName: 紫衫木魔石
 		Tooltip:
 			'''
@@ -1112,7 +1112,7 @@ Items: {
 			'''
 	}
 
-	TideHunterEnchantment: {
+	TideHunterEnchant: {
 		DisplayName: 猎潮魔石
 		Tooltip:
 			'''
@@ -1123,7 +1123,7 @@ Items: {
 			'''
 	}
 
-	WhisperingEnchantment: {
+	WhisperingEnchant: {
 		DisplayName: 低语魔石
 		Tooltip:
 			'''
@@ -1134,7 +1134,7 @@ Items: {
 			'''
 	}
 
-	DepthDiverEnchantment: {
+	DepthDiverEnchant: {
 		DisplayName: 潜海魔石
 		Tooltip:
 			'''
@@ -1147,7 +1147,7 @@ Items: {
 			'''
 	}
 
-	OceanEnchantment: {
+	OceanEnchant: {
 		DisplayName: 珊瑚魔石
 		Tooltip:
 			'''
@@ -1159,7 +1159,7 @@ Items: {
 			'''
 	}
 
-	CryomancerEnchantment: {
+	CryomancerEnchant: {
 		DisplayName: 极寒魔石
 		Tooltip:
 			'''
@@ -1171,7 +1171,7 @@ Items: {
 			'''
 	}
 
-	IcyEnchantment: {
+	IcyEnchant: {
 		DisplayName: 碎冰魔石
 		Tooltip:
 			'''
@@ -1180,7 +1180,7 @@ Items: {
 			'''
 	}
 
-	NagaSkinEnchantment: {
+	NagaSkinEnchant: {
 		DisplayName: 娜迦魔石
 		Tooltip:
 			'''
@@ -1207,7 +1207,7 @@ Items: {
 			'''
 	}
 
-	DragonEnchantment: {
+	DragonEnchant: {
 		DisplayName: 绿龙魔石
 		Tooltip:
 			'''
@@ -1217,7 +1217,7 @@ Items: {
 			'''
 	}
 
-	DreadEnchantment: {
+	DreadEnchant: {
 		DisplayName: 恐惧魔石
 		Tooltip:
 			'''
@@ -1229,7 +1229,7 @@ Items: {
 			'''
 	}
 
-	MalignantEnchantment: {
+	MalignantEnchant: {
 		DisplayName: 巫毒魔石
 		Tooltip:
 			'''
@@ -1239,7 +1239,7 @@ Items: {
 			'''
 	}
 
-	SilkEnchantment: {
+	SilkEnchant: {
 		DisplayName: 丝绸魔石
 		Tooltip:
 			'''
@@ -1248,7 +1248,7 @@ Items: {
 			'''
 	}
 
-	SpiritTrapperEnchantment: {
+	SpiritTrapperEnchant: {
 		DisplayName: 猎魂魔石
 		Tooltip:
 			'''
@@ -1260,7 +1260,7 @@ Items: {
 			'''
 	}
 
-	DemonBloodEnchantment: {
+	DemonBloodEnchant: {
 		DisplayName: 魔血魔石
 		Tooltip:
 			'''
@@ -1272,7 +1272,7 @@ Items: {
 			'''
 	}
 
-	FleshEnchantment: {
+	FleshEnchant: {
 		DisplayName: 血肉魔石
 		Tooltip:
 			'''
@@ -1283,7 +1283,7 @@ Items: {
 			'''
 	}
 
-	WhiteKnightEnchantment: {
+	WhiteKnightEnchant: {
 		DisplayName: 白骑士魔石
 		Tooltip:
 			'''
@@ -1295,7 +1295,7 @@ Items: {
 			'''
 	}
 
-	HarbingerEnchantment: {
+	HarbingerEnchant: {
 		DisplayName: 先兆魔石
 		Tooltip:
 			'''
@@ -1334,7 +1334,7 @@ Items: {
 		Tooltip: “昔日所用之物”
 	}
 
-	MagmaEnchantment: {
+	MagmaEnchant: {
 		DisplayName: 熔岩魔石
 		Tooltip:
 			'''
@@ -1345,7 +1345,7 @@ Items: {
 			'''
 	}
 
-	BerserkerEnchantment: {
+	BerserkerEnchant: {
 		DisplayName: 狂战魔石
 		Tooltip:
 			'''
@@ -1409,7 +1409,7 @@ Items: {
 		Tooltip: “昔日所用之物”
 	}
 
-	DreamWeaverEnchantment: {
+	DreamWeaverEnchant: {
 		DisplayName: 织梦魔石
 		Tooltip:
 			'''
@@ -1422,7 +1422,7 @@ Items: {
 			'''
 	}
 
-	TideTurnerEnchantment: {
+	TideTurnerEnchant: {
 		DisplayName: 洪流魔石
 		Tooltip:
 			'''
@@ -1437,7 +1437,7 @@ Items: {
 			'''
 	}
 
-	PyromancerEnchantment: {
+	PyromancerEnchant: {
 		DisplayName: 炎法魔石
 		Tooltip:
 			'''
@@ -1448,7 +1448,7 @@ Items: {
 			'''
 	}
 
-	RhapsodistEnchantment: {
+	RhapsodistEnchant: {
 		DisplayName: 狂音魔石
 		Tooltip:
 			'''
@@ -1836,12 +1836,12 @@ Items: {
 			'''
 	}
 
-	PrairieEnchantment: {
-		DisplayName: Prairie Enchantment
+	PrairieEnchant: {
+		DisplayName: Prairie Enchant
 		Tooltip: ""
 	}
 
-	FrozenEnchantment: {
+	FrozenEnchant: {
 		DisplayName: 寒狱魔石
 		Tooltip:
 			'''
@@ -1853,7 +1853,7 @@ Items: {
 			'''
 	}
 
-	IntergelacticEnchantment: {
+	IntergelacticEnchant: {
 		DisplayName: 异宇星凝魔石
 		Tooltip:
 			'''
@@ -1868,7 +1868,7 @@ Items: {
 			'''
 	}
 
-	ShogunEnchantment: {
+	ShogunEnchant: {
 		DisplayName: 神胶幕府魔石
 		Tooltip:
 			'''
@@ -1881,7 +1881,7 @@ Items: {
 			'''
 	}
 
-	VoidFaquirEnchantment: {
+	VoidFaquirEnchant: {
 		DisplayName: 虚空行者魔石
 		Tooltip:
 			'''
@@ -1909,7 +1909,7 @@ Items: {
 			'''
 	}
 
-	PhantasmalEnchantment: {
+	PhantasmalEnchant: {
 		DisplayName: 灵能魔石
 		Tooltip:
 			'''
@@ -1918,27 +1918,27 @@ Items: {
 			'''
 	}
 
-	DragonEnchantmentConsolaria: {
+	DragonEnchantConsolaria: {
 		DisplayName: 龙魔石
 		Tooltip: 受到伤害后造成火焰爆发
 	}
 
-	TitanEnchantmentConsolaria: {
+	TitanEnchantConsolaria: {
 		DisplayName: 泰坦魔石
 		Tooltip: 充能完成后使用远程武器将引发爆炸并对玩家造成击退
 	}
 
-	GemTechEnchantment: {
+	GemTechEnchant: {
 		Tooltip: ""
 		DisplayName: 天钻魔石
 	}
 
-	PlaguebringerEnchantment: {
+	PlaguebringerEnchant: {
 		DisplayName: 瘟疫使者魔石
 		Tooltip: ""
 	}
 
-	DesertProwlerEnchantment: {
+	DesertProwlerEnchant: {
 		DisplayName: 巡荒魔石
 		Tooltip:
 			'''
@@ -1951,7 +1951,7 @@ Items: {
 			'''
 	}
 
-	LunicCorpsEnchantment: {
+	LunicCorpsEnchant: {
 		DisplayName: 雷神之锤魔石
 		Tooltip:
 			'''
@@ -1967,7 +1967,7 @@ Items: {
 			'''
 	}
 
-	PrismaticEnchantment: {
+	PrismaticEnchant: {
 		DisplayName: 光棱魔石
 		Tooltip:
 			'''
@@ -1978,7 +1978,7 @@ Items: {
 			'''
 	}
 
-	TitanHeartEnchantment: {
+	TitanHeartEnchant: {
 		DisplayName: 泰坦之心魔石
 		Tooltip:
 			'''
@@ -2003,7 +2003,7 @@ Configs: {
 		Headers.Modes: 模组
 
 		AddFargosDLCRecipeChangesWhenDisabled: {
-			Label: 禁用增添Fargo DLC配方
+			Label: 禁止增添Fargo DLC配方
 			Tooltip: ""
 		}
 
@@ -2013,10 +2013,28 @@ Configs: {
 		}
 
 		DisableOfficialFargoDLCEnchantments: {
-			Label: 禁用Fargo官方DLC魔石
+			Label: 禁用官方Fargo DLC魔石
 			Tooltip: ""
 		}
 	}
 }
 
-NPCs.Echdeath.DisplayName: 触之即死
+NPCs: {
+	Echdeath.DisplayName: 触之即死
+	SquirrelChatHandler.DisplayName: Squirrel Chat Handler
+
+	SquirrelChatBridge: {
+		DisplayName: Squirrel Chat Bridge
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+}

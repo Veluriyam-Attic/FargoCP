@@ -1,0 +1,5 @@
+写给后面想汉化的
+因为硬编码的原因，直接汉化不再有热重载功能
+如果要让汉化获得热重载效果
+请先将 FargosSoulsModDLCRecreatedTranslator 和 Systems 两个文件夹移出模组文件夹
+并进行 构建并重新加载
