@@ -75,8 +75,8 @@ Mods: {
 			Homing: 武器弹幕能追踪敌人
 			CancelBuff: 取消 DLC 增益
 			CancelDebuff: 取消 DLC 减益
-			PostND: "[c/FF0000:联动平衡调整：] 只能在击败无名光神后使用"
-			PostMonstrosity: "[c/FF0000:联动平衡调整：] 只能在击败魔神后使用"
+			PosttND: "[c/FF0000:联动平衡调整：] 只能在击败无名光神后使用"
+			PosttMonstrosity: "[c/FF0000:联动平衡调整：] 只能在击败魔神后使用"
 			ColumnNerf: 火柱造成的伤害减少50%
 			Thorium1: 提升灵感值的恢复速度和灵感音符的掉落概率
 			Thorium2: 提升投掷物速度和疲劳值恢复速度
@@ -86,33 +86,33 @@ Mods: {
 		}
 
 		TrueEternityRevDifficulty: {
-			Name: True-Eternity-Revengeance
-			ShortDescription: "[c/00FFFF:A challenging mode from Fargo's Mods that includes] [c/880808:Revengeance Mode] and [c/FF00B7:True Mode] [c/00FFFF:changes.]"
+			Name: 真实-永恒-复仇
+			ShortDescription: "[c/00FFFF:以Fargo的永恒模式为主并包含了部分][c/800080:复仇模式]和[c/FF00B7:真实模式][c/00FFFF:更改的更具挑战性的难度]"
 			ExpandedDescription:
 				'''
-				Enables [c/00FFFF:Eternity Mode], [c/880808:Revengeance Mode], [c/FF00B7:True Mode] and enables Master Mode drops.
+				融合了[c/FF00B7:真实模式]，[c/00FFFF:永恒模式]与[c/880808:复仇模式]，Boss会掉落大师模式专属物品
 
-				By default, [c/00FFFF:Eternity Mode] behaviour takes priority. This can be changed in the configs.
+				默认[c/00FFFF:永恒模式]AI优先级最高，可在模组配置设定中更改
 				{$Mods.FargowiltasSouls.UI.ExpandedFeatures}
-				[i:1612][c/00ff00:Recommended to use Fargo's Mutant Mod Debuff Display (in config)]
+				[i:1612][c/00ff00:建议打开Fargo's Mutant Mod的头顶显示减益相关效果（在模组的客户端配置设定中）]
 				'''
-			Activation: True-Eternity-Revengeance Mode has activated!
-			Deactivation: True-Eternity-Revengeance Mode has deactivated.
+			Activation: 真实-永恒-复仇模式已开启！
+			Deactivation: 真实-永恒-复仇模式已关闭
 		}
 
 		TrueEternityDeathDifficulty: {
-			Name: True-Eternity-Death
-			ShortDescription: "[c/00FFFF:A challenging mode from Fargo's Mods that includes] [c/880808:Death Mode] and [c/FF00B7:True Mode] [c/00FFFF:changes.]"
+			Name: 真实-永恒-死亡
+			ShortDescription: "[c/00FFFF:以Fargo的永恒模式为主并包含了部分][c/800080:死亡模式]和[c/FF00B7:真实模式][c/00FFFF:更改的更具挑战性的难度]"
 			ExpandedDescription:
 				'''
-				Enables [c/00FFFF:Eternity Mode], [c/880808:Death Mode], [c/FF00B7:True Mode] and enables Master Mode drops.
+				融合了[c/FF00B7:真实模式]，[c/00FFFF:永恒模式]与[c/880808:死亡模式]，Boss会掉落大师模式专属物品
 
-				Eternity-Death only: Expands behavior for vanilla [c/00FFFF:Eternity Mode] bosses, including parts of Calamity behavior or new Calamity-inspired behavior.
+				仅永恒-死亡模式：扩展了原版[c/00FFFF:永恒模式]Boss的行为，包括部分灾厄行为或受灾厄启发的新行为
 				{$Mods.FargowiltasSouls.UI.ExpandedFeatures}
-				[i:1612][c/00ff00:Recommended to use Fargo's Mutant Mod Debuff Display (in config)]
+				[i:1612][c/00ff00:建议打开Fargo's Mutant Mod的头顶显示减益相关效果（在模组的客户端配置设定中）]
 				'''
-			Activation: True-Eternity-Death Mode has activated!
-			Deactivation: True-Eternity-Death Mode has deactivated.
+			Activation: 真实-永恒-死亡模式已开启！
+			Deactivation: 真实-永恒-死亡模式已关闭
 		}
 
 		StatSheet: {
@@ -182,7 +182,7 @@ Mods: {
 
 			XenomiteEffect: {
 				DisplayName: 异辉毒云
-				Tooltip: 在玩家周围释放剧毒气体，造成沸腾酸液
+				Tooltips: 在玩家周围释放剧毒气体，造成沸腾酸液
 			}
 		}
 
@@ -805,7 +805,7 @@ Mods: {
 					[i:ssm/XeniumEnchant] 给予玩家一个肩挂式火箭发射器，它会追踪敌人并发射制导火箭
 					'''
 			}
-			
+
 			AchivementForce: {
 				DisplayName: 伟业之力
 				Tooltip:
@@ -1031,9 +1031,9 @@ Mods: {
 				// DisplayName: Asthraltite Enchantment
 				/* Tooltip:
 					'''
-					'Asph-... Asthath-... How are you meant to pronounce this?'
 					Allows crits, and super crits to have a 50% chance to ignore any type of defense
 					All attacks inflict Draconic Blaze
+					'Asph-... Asthath-... How are you meant to pronounce this?'
 					''' */
 			}
 
@@ -1041,9 +1041,9 @@ Mods: {
 				// DisplayName: Bismuth Enchantment
 				/* Tooltip:
 					'''
-					'It takes every color to make a rainbow'
 					While standing you will form bismuth crystals that can absorb 5% of damage from enemies, and 2% from bosses 
 					It takes 5 seconds to form and has three stages that can only absorb up to 90 damage
+					'It takes every color to make a rainbow'
 					''' */
 			}
 
@@ -1051,10 +1051,10 @@ Mods: {
 				// DisplayName: Unrelenting Rival Enchantment
 				/* Tooltip:
 					'''
-					'Your spirit ignites like the brightest flame. Soon, your enemies will too'
 					Killing enemies creates a kill streak
 					The more enemies you kill increases damage by 30% 
 					Maximum streak is limited by 5
+					'Your spirit ignites like the brightest flame. Soon, your enemies will too'
 					''' */
 			}
 
@@ -1062,21 +1062,21 @@ Mods: {
 				// DisplayName: Blightbone Enchantment
 				/* Tooltip:
 					'''
-					'Your spooks and scares will send shivers down your enemies' spines'
 					Adds a 10% chance for a blightbone to be thrown out alongside your thrown weapon, applying ‘On Fire!’ for 2 seconds
-					Empowers bone type weapons, making them apply the ‘On Fire!’ debuff for 3 seconds.
+					Empowers bone type weapons, making them apply the ‘On Fire!’ debuff for 5 seconds.
+					'Your spooks and scares will send shivers down your enemies' spines'
 					''' */
 			}
 
 			CosmicCommanderEnchant: {
-				// DisplayName: Cosmic Commander Enchantment
+				// DisplayName: Soran Forces Enchantment
 				/* Tooltip:
 					'''
-					'Make Soran great again'
 					Makes enemies less likely to hit you
 					You deal 125% more damage but your defense is reduced by 25% in sniper state
 					This state lasts for 15 seconds and after you will deal 25% less damage but with 30% increased defense 
 					Getting hit while in sniper state will instantly end it
+					'Make Soran great again'
 					''' */
 			}
 
@@ -1084,9 +1084,10 @@ Mods: {
 				// DisplayName: Dreadfire Enchantment
 				/* Tooltip:
 					'''
+					Surrounds player with Dreadfire Aura that inflicts Dreadfire buff
+					For players: Dreadfire buff increases damage by 20%
+					For enemies: Lose 5 life each second
 					'Ralnek's spirit guides you'
-					Surrounds player with Dreadfire Aura that inflicting Dreadfire buff
-					Dreadfire buff increases damage by 20%
 					''' */
 			}
 
@@ -1094,9 +1095,9 @@ Mods: {
 				// DisplayName: Eerie Enchantment
 				/* Tooltip:
 					'''
-					'Creeper? Aw man…'
 					After taking damage create pulses that grants a damage buff to minions, sentries, and nearby players
 					The strength of the buff depends on the user's health 
+					'Creeper? Aw man…'
 					''' */
 			}
 
@@ -1104,8 +1105,8 @@ Mods: {
 				// DisplayName: Exitum Lux Enchantment
 				/* Tooltip:
 					'''
-					'Does something soon'TM
 					Using relic weapons multiply most of stats by 1.1
+					'Does something soon'TM
 					''' */
 			}
 
@@ -1113,10 +1114,10 @@ Mods: {
 				// DisplayName: Fallen Prince Enchantment
 				/* Tooltip:
 					'''
-					'Give up your heritage, gain power'
 					When throwing a weapon enemies are pulled closer to it by gravity 
 					The strength of the gravity is based on the weapons damage
 					Before death you will explode into a supernova
+					'Give up your heritage, gain power'
 					''' */
 			}
 
@@ -1124,9 +1125,10 @@ Mods: {
 				// DisplayName: Flarium Enchantment
 				/* Tooltip:
 					'''
+					Projectiles that hit the ground have a chance to create spurring flame tornado
+					Tornados lasts for 5 seconds 
+					Only 5 tornados can exist at the same time
 					'Raze your enemies with Araghur's flames'
-					Projectiles that hit the ground have a chance to create spurring flame geysers
-					Geysers lasts for 5 seconds 
 					''' */
 			}
 
@@ -1134,9 +1136,9 @@ Mods: {
 				// DisplayName: Frosthunter Enchantment
 				/* Tooltip:
 					'''
-					'The hunter now hunted, the prey now predator'
 					When shooting an enemy, cause a small frost explosion that damages enemies in a radius
 					With a 2 second cooldown, the frost explosion becomes a cluster explosion, causing multiple small frost explosions to come after it
+					'The hunter now hunted, the prey now predator'
 					''' */
 			}
 
@@ -1144,10 +1146,10 @@ Mods: {
 				// DisplayName: Lapis Enchantment
 				/* Tooltip:
 					'''
-					'Gotta go fast'
 					15% increased movement speed
 					Additional 25% movement speed for 2 seconds after being damaged
 					Every 5 attacks, give the Lapis Shield, increasing your defense by 3/6/9, depending on how many stacks you have
+					'Gotta go fast'
 					''' */
 			}
 
@@ -1155,10 +1157,9 @@ Mods: {
 				// DisplayName: Marstech Enchantment
 				/* Tooltip:
 					'''
-					'Who needs magic when you have technology?'
-					Pressing the ability key sends out a homing martian probe that explodes into multiple damaging shrapnels
 					Shrapnels stay on grounds/platforms and disappear after a few seconds
 					When being damaged, there is a 50% chance for 2-4 shrapnels to fall off your armor
+					'Who needs magic when you have technology?'
 					''' */
 			}
 
@@ -1166,9 +1167,8 @@ Mods: {
 				// DisplayName: Saving Grace Enchantment
 				/* Tooltip:
 					'''
-					'Nuba would be proud'
 					Attacking enemies release buff wisps which can be picked up for different stacking buffs
-					Effects of Nuba's Blessing
+					'Nuba would be proud'
 					''' */
 			}
 
@@ -1176,8 +1176,8 @@ Mods: {
 				// DisplayName: Prairie Enchantment
 				/* Tooltip:
 					'''
+					Depending on the wind speed all speed stats are increased by 5%-15%
 					'Subdued Serenity'
-					Depending on the wind speed all speed stats are increased by 5%-10%
 					''' */
 			}
 
@@ -1185,25 +1185,23 @@ Mods: {
 				// DisplayName: Quasar Enchantment
 				/* Tooltip:
 					'''
-					'It's time to shine'
 					When throwing a weapon enemies are pulled closer to it by gravity 
+					'It's time to shine'
 					''' */
 			}
 
 			SpaceJunkEnchant: {
 				// DisplayName: Space Junk Enchantment
-				/* Tooltip1:
+				/* Tooltip:
 					'''
-					'I'm da spaceman!'
-					Pressing the ability key sends a falling satellite from sky that explodes into multiple damaging shrapnels
 					Shrapnels stay on grounds/platforms and disappear after a few seconds
 					When being damaged, there is a 33% chance for 1-2 shrapnels to fall off your armor
+					'I'm da spaceman!'
 					''' */
-				// Tooltip: ""
 			}
 
 			StellarPriestEnchant: {
-				// DisplayName: Stellar Priest Enchantment
+				// DisplayName: Spirit Medium Enchantment
 				/* Tooltip:
 					'''
 					'Stand proud'
@@ -1232,7 +1230,7 @@ Mods: {
 			}
 
 			FoundationsForce: {
-				// DisplayName: Foundations Force
+				// DisplayName: Force of Foundations
 				/* Tooltip:
 					'''
 					[i:ssm/BlightboneEnchant] Chance for a frosted bone to support your attack
@@ -1245,27 +1243,25 @@ Mods: {
 			}
 
 			GenerationsForce: {
-				// DisplayName: Generations Force
+				// DisplayName: Force of Generations
 				/* Tooltip:
 					'''
 					[i:ssm/DreadfireEnchant] You have aura that inflict dreadfire on nearby enemies and allies
 					[i:ssm/BismuthEnchant] Anyone standing inside of aura get bismuth crystal that reduces damage by 10% 
 					[i:ssm/EerieEnchant] After shield breaks for next 10 seconds you will release eerie pulses that buff minions and allies
-					[i:ssm/MarstechEnchant]
 					'Through all this world's years, none have seen anything quite like you'
 					''' */
 			}
 
 			SoranForce: {
-				// DisplayName: Soran Force
+				// DisplayName: Force of Soran
 				/* Tooltip:
 					'''
 					[i:ssm/CosmicCommanderEnchant] In sniper state you deal 300% more damage but defense is reduced by 15%
 					[i:ssm/BlazingBruteEnchant] Every time you kill an enemy in sniper state you gain a 75% increase this stacks up to 5 times
 					[i:ssm/QuasarEnchant] [i:ssm/FallenPrinceEnchant] Hitting enemies have chance to reate quasar that pull weak enemies
-					[i:ssm/FallenPrinceEnchant] [i:ssm/NebulousApprenticeEnchant] Upon death you will be revived in supernova explosion
-					[i:ssm/FallenPrinceEnchant] [i:ssm/NebulousApprenticeEnchant] After respawning Shadow of Nuba will protect you for few seconds
-					[i:ssm/StellarPriestEnchant] Minions have a chance to summon starstream worms
+					[i:ssm/FallenPrinceEnchant] Upon death you will be revived in supernova explosion
+					[i:ssm/StellarPriestEnchant] WIP
 					[i:ssm/NebulousApprenticeEnchant] Attacking enemies release buff wisps which can be picked up for different stacking buffs
 					'The true power of the Soraniti'
 					''' */
@@ -1389,7 +1385,7 @@ Mods: {
 					“救死扶伤，医者仁心”
 					'''
 			}
-			//瑟银魔石重置
+
 			AssassinEnchant: {
 				DisplayName: 刺客魔石
 				Tooltip:
@@ -1478,6 +1474,7 @@ Mods: {
 					科技球被摧毁后随机赋予 Ⅲ 级咒音增幅
 					每个科技球在1分钟后重构
 					“秦安锐舞？科技锐舞！”
+					（多人模式下有严重Bug）
 					'''
 			}
 
@@ -1503,7 +1500,7 @@ Mods: {
 					“它渗出了腐败的血液”
 					'''
 			}
-			//9.20
+
 			DepthDiverEnchant: {
 				DisplayName: 潜海魔石
 				Tooltip:
@@ -1512,7 +1509,6 @@ Mods: {
 					- 从太空高度，+1hp/s、增加2%伤害和2点防御力
 					- 到地狱高度，+2.5hp/s、增加8%伤害和9点防御力
 					“成为无私的保护者”
-					（存在bug，仅根据高度获得增益）
 					'''
 			}
 
@@ -1587,7 +1583,7 @@ Mods: {
 					“与你的身体共生”
 					'''
 			}
-			//9.24
+
 			FlightEnchant: {
 				DisplayName: 飞羽魔石
 				Tooltip:
@@ -1765,7 +1761,7 @@ Mods: {
 					“原始海洋法师的装束”
 					'''
 			}
-			//10.3
+
 			NobleEnchant: {
 				DisplayName: 贵族魔石
 				Tooltip:
@@ -1815,7 +1811,7 @@ Mods: {
 					“你在煮着什么恶心东西？”
 					'''
 			}
-			//？ 原文本整段都删光了
+
 			PyromancerEnchant: {
 				DisplayName: 炎法魔石
 				Tooltip:
@@ -3514,7 +3510,7 @@ Mods: {
 			}
 
 			MonstrosityEnchant: {
-				DisplayName: Monstrosity Enchant
+				DisplayName: 魔神魔石
 				Tooltip: ""
 			}
 
@@ -3614,7 +3610,7 @@ Mods: {
 
 			NDMaterialPlaceholder: {
 				DisplayName: 无名光神占位符材料
-				Tooltip: "加载众神之怒后提供的毕业材料"
+				Tooltip: 加载众神之怒后提供的毕业材料
 			}
 
 			TModTechHelmet: {
@@ -3645,13 +3641,13 @@ Mods: {
 					增加35%你手持武器职业的伤害，但是降低生命恢复速度
 					'''
 			}
-			//缺SoA
+
 			MutantsCurseEX: {
 				DisplayName: 突变体的挑战
 				Tooltip: （现在缺SoA的汉化）
 				Mayo1: 突变体的最大生命值和伤害根据目前安装的所支持的mod决定
 				Mayo21: 目前最大生命：
-				Mayo22: "， 目前伤害："
+				Mayo22: ， 目前伤害：
 				Mayo3: 如果启用受虐模式，突变体属性提升1.5倍
 				Mayo4: 在第一阶段突变体有Supression光环，在击碎光环后将开始2阶段
 				Mayo5: 光环只能被Relic武器或Styx盔甲的套装奖励，在光环激活时突变体免疫一切伤害
@@ -3806,8 +3802,8 @@ Mods: {
 			}
 
 			MonstrosityPresenceBuff: {
-			Description: 关闭所有魂效果、不再免疫减益、无法造成永恒暴击、无处可逃
-			DisplayName: 魔神驾到
+				Description: 关闭所有魂效果、不再免疫减益、无法造成永恒暴击、无处可逃
+				DisplayName: 魔神驾到
 			}
 
 			NihilityPresenceBuff: {
@@ -3962,7 +3958,7 @@ Mods: {
 			CeilingOfMoonLord.DisplayName: 月亮穹顶
 			CeilingOfMoonLordEye.DisplayName: 月亮穹顶 眼睛
 			CeilingOfMoonLordFace.DisplayName: 月亮穹顶 面部
-			GunCelebration.DisplayName: 喜庆弹射器 
+			GunCelebration.DisplayName: 喜庆弹射器
 			GunMagnum.DisplayName: 维纳斯万能枪
 			GunQuad.DisplayName: 四管霰弹枪
 			GunShotgun.DisplayName: 霰弹枪
@@ -4210,8 +4206,8 @@ Mods: {
 		Projectiles: {
 			// TrueAcornProjectile.DisplayName: True Acorn Projectile
 			// BossRush.DisplayName: Boss Rush
-			// AbomSword.DisplayName: Abom Sword
-			// AbomSwordHandle.DisplayName: Abom Sword Handle
+			// AbomSword.DisplayName: Abominationn Sword
+			// AbomSwordHandle.DisplayName: Abominationn Sword Handle
 			// MonstrosityRitual5.DisplayName: Mutant Ritual5
 			// MonstrosityRitual.DisplayName: Mutant Ritual
 			// MutantSansBeam.DisplayName: Mutant Sans Beam
@@ -4268,7 +4264,7 @@ Mods: {
 			// MutantTrueEyeSphere.DisplayName: Mutant True Eye Sphere
 			// MutantTyphoon.DisplayName: Mutant Typhoon
 			// CuteFishronRitual.DisplayName: Cute Fishron Ritual
-			// DreadfireAuraProj.DisplayName: Dreadfire Aura Proj
+			// DreadfireAuraProj.DisplayName: Dreadfire Aura Projectile
 			// Blightbone.DisplayName: Blightbone
 			// FrosthunterExplosion.DisplayName: Frosthunter Explosion
 			// SatelliteShard.DisplayName: Satellite Shard
@@ -4279,39 +4275,39 @@ Mods: {
 			// SquirrelRing.DisplayName: Squirrel Ring
 			// FlariumGeyser.DisplayName: Flarium Geyser
 			// EeriePulse.DisplayName: Eerie Pulse
-			// WastelandNukeProj.DisplayName: Wasteland Nuke Proj
-			// WastelandNukeSupremeProj.DisplayName: Wasteland Nuke Supreme Proj
+			// WastelandNukeProj.DisplayName: Wasteland Nuke Projectile
+			// WastelandNukeSupremeProj.DisplayName: Wasteland Nuke Supreme Projectile
 			// StriderLegShockwave.DisplayName: Strider Leg Shockwave
 			// SpookyRenewalProj.DisplayName: Spooky Renewal Proj
-			// SpookyRenewalSupremeProj.DisplayName: Spooky Renewal Supreme Proj
+			// SpookyRenewalSupremeProj.DisplayName: Spooky Renewal Supreme Projectile
 			// EyeValleyRenewalProj.DisplayName: Eye Valley Renewal Proj
-			// EyeValleyRenewalSupremeProj.DisplayName: Eye Valley Renewal Supreme Proj
+			// EyeValleyRenewalSupremeProj.DisplayName: Eye Valley Renewal Supreme Projectile
 			// SwampyRenewalProj.DisplayName: Swampy Renewal Proj
-			// SwampyRenewalSupremeProj.DisplayName: Swampy Renewal Supreme Proj
-			// FlariumNukeProj.DisplayName: Flarium Nuke Proj
-			// FlariumNukeSupremeProj.DisplayName: Flarium Nuke Supreme Proj
-			// CorruptNukeProj.DisplayName: Corrupt Nuke Proj
-			// CorruptNukeSupremeProj.DisplayName: Corrupt Nuke Supreme Proj
-			// CrimsonNukeProj.DisplayName: Crimson Nuke Proj
-			// CrimsonNukeSupremeProj.DisplayName: Crimson Nuke Supreme Proj
-			// DirtNukeProj.DisplayName: Dirt Nuke Proj
-			// DirtNukeSupremeProj.DisplayName: Dirt Nuke Supreme Proj
-			// HallowNukeProj.DisplayName: Hallow Nuke Proj
-			// HallowNukeSupremeProj.DisplayName: Hallow Nuke Supreme Proj
-			// MushroomNukeProj.DisplayName: Mushroom Nuke Proj
-			// MushroomNukeSupremeProj.DisplayName: Mushroom Nuke Supreme Proj
-			// PurityNukeProj.DisplayName: Purity Nuke Proj
-			// PurityNukeSupremeProj.DisplayName: Purity Nuke Supreme Proj
-			// SandNukeProj.DisplayName: Sand Nuke Proj
-			// SandNukeSupremeProj.DisplayName: Sand Nuke Supreme Proj
-			// SnowNukeProj.DisplayName: Snow Nuke Proj
-			// SnowNukeSupremeProj.DisplayName: Snow Nuke Supreme Proj
+			// SwampyRenewalSupremeProj.DisplayName: Swampy Renewal Supreme Projectile
+			// FlariumNukeProj.DisplayName: Flarium Nuke Projectile
+			// FlariumNukeSupremeProj.DisplayName: Flarium Nuke Supreme Projectile
+			// CorruptNukeProj.DisplayName: Corrupt Nuke Projectile
+			// CorruptNukeSupremeProj.DisplayName: Corrupt Nuke Supreme Projectile
+			// CrimsonNukeProj.DisplayName: Crimson Nuke Projectile
+			// CrimsonNukeSupremeProj.DisplayName: Crimson Nuke Supreme Projectile
+			// DirtNukeProj.DisplayName: Dirt Nuke Projectile
+			// DirtNukeSupremeProj.DisplayName: Dirt Nuke Supreme Projectile
+			// HallowNukeProj.DisplayName: Hallow Nuke Projectile
+			// HallowNukeSupremeProj.DisplayName: Hallow Nuke Supreme Projectile
+			// MushroomNukeProj.DisplayName: Mushroom Nuke Projectile
+			// MushroomNukeSupremeProj.DisplayName: Mushroom Nuke Supreme Projectile
+			// PurityNukeProj.DisplayName: Purity Nuke Projectile
+			// PurityNukeSupremeProj.DisplayName: Purity Nuke Supreme Projectile
+			// SandNukeProj.DisplayName: Sand Nuke Projectile
+			// SandNukeSupremeProj.DisplayName: Sand Nuke Supreme Projectile
+			// SnowNukeProj.DisplayName: Snow Nuke Projectile
+			// SnowNukeSupremeProj.DisplayName: Snow Nuke Supreme Projectile
 			// NDLaserbeam.DisplayName: ND Laserbeam
 			// MutantSCal.DisplayName: Mutant SCal
 			// MonstrosityBoss.DisplayName: Monstrosity Boss
-			// MonstrOldDuke.DisplayName: Monstr Old Duke
-			// MonstrYharon.DisplayName: Monstr Yharon
-			// MonstrosityDEH.DisplayName: Monstrosity D E H
+			// MonstrOldDuke.DisplayName: Monster Old Duke
+			// MonstrYharon.DisplayName: Monster Yharon
+			// MonstrosityDEH.DisplayName: Monstrosity's Deviant Energy Heart
 			// MonstrositySparklingLove.DisplayName: Monstrosity Sparkling Love
 			// MonstrosityAxe.DisplayName: Monstrosity Axe
 			SteelSwordProjectile.DisplayName: Steel Sword Projectile
@@ -4433,47 +4429,47 @@ Mods: {
 				}
 
 				Thorium: {
-					// Label: Thorium
+					Label: 瑟银 - Thorium
 					// Tooltip: ""
 				}
 
 				SacredTools: {
-					// Label: Shadows of Abaddon
+					Label: 亚巴顿之影 - Shadows of Abaddon
 					// Tooltip: ""
 				}
 
 				Polarities: {
-					// Label: Polarities
+					Label: 极性 - Polarities
 					// Tooltip: ""
 				}
 
 				Homeward: {
-					// Label: Homeward Journey
+					Label: 旅人归途 - Homeward Journey
 					// Tooltip: WIP
 				}
 
 				Vitality: {
-					// Label: Vitality
+					Label: 万灵 - Vitality
 					// Tooltip: WIP
 				}
 
 				Orchid: {
-					// Label: Orchid
+					Label: 兰花 - Orchid
 					// Tooltip: WIP
 				}
 
 				Redemption: {
-					// Label: Redemption
+					Label:  救赎 - Redemption
 					// Tooltip: ""
 				}
 
 				Spooky: {
-					// Label: Spooky
+					Label: 惊惧 - Spooky
 					// Tooltip: ""
 				}
 
 				Beekeeper: {
-					// Label: Bombus Apis
+					Label: Bombus Apis
 					// Tooltip: ""
 				}
 
@@ -4483,7 +4479,7 @@ Mods: {
 				}
 
 				SpiritMod: {
-					// Label: Spirit Mod
+					Label: 魂灵 - Spirit Mod
 					// Tooltip: ""
 				}
 
@@ -4518,76 +4514,82 @@ Mods: {
 				}
 
 				EmodeThorium: {
-					Label: Thorium
+					Label: 瑟银 - Thorium
 					Tooltip: ""
 				}
 
 				EmodeRedemption: {
-					Label: Redemption
+					Label: 救赎 - Redemption
 					Tooltip: ""
 				}
 
 				EmodeSoA: {
-					Label: Shadows of Abaddon
+					Label: 亚巴顿之影 - Shadows of Abaddon
 					Tooltip: ""
 				}
 
 				EmodeThoriumW: {
-					Label: Thorium
+					Label: 瑟银 - Thorium
 					Tooltip: ""
 				}
 
 				EmodeRedemptionW: {
-					Label: Redemption
+					Label: 救赎 - Redemption
 					Tooltip: ""
 				}
 
 				EmodeSoAW: {
-					Label: Shadows of Abaddon
+					Label: 亚巴顿之影 - Shadows of Abaddon
 					Tooltip: ""
 				}
 
 				EmodeHWJ: {
-					Label: Homeward Journey
+					Label: 旅人归途 - Homeward Journey
 					Tooltip: ""
 				}
 
 				EmodeHWJW: {
-					Label: Homeward Journey
+					Label: 旅人归途 - Homeward Journey
 					Tooltip: ""
 				}
 
 				ThoriumBR: {
-					Label: Thorium
+					Label: 瑟银 - Thorium
 					Tooltip: ""
 				}
 
 				RedemptionBR: {
-					Label: Redemption
+					Label: 救赎 - Redemption
 					Tooltip: ""
 				}
 
 				SoABR: {
-					Label: Shadows of Abaddon
+					Label: 亚巴顿之影 - Shadows of Abaddon
 					Tooltip: ""
 				}
 
 				HWJBR: {
-					Label: Homeward Journey
+					Label: 旅人归途 - Homeward Journey
 					Tooltip: ""
 				}
 
 				MutantWontShutUp: {
-					Label: Mutant Wont Shut Up
+					Label: 突变体不会闭嘴
 					Tooltip: ""
 				}
 			}
 		}
 
 		Message: {
-					NoThrower: 注意：投掷伤害合并功能已被移至 Thrower Unification mod
-					NoBalancing: 如果你正在同时游玩灾厄和瑟银，建议安装mod “WHummus' Calamity/Thorium Balancing”
-					NoRework: 建议你在游玩瑟银时安装 瑟银Boss重置 来提升游戏体验
+			NoThrower: 注意：投掷伤害合并功能已被移至 Thrower Unification mod
+			NoBalancing: 如果你正在同时游玩灾厄和瑟银，建议安装mod “WHummus' Calamity/Thorium Balancing”
+			NoRework: 建议你在游玩瑟银时安装 瑟银Boss重置 来提升游戏体验
+			EndOfCSE:
+				'''
+				当前CSE的规模已远远超出我们切实可行维持高质量标准的程度
+				该模组将从头开始重做，仅兼容瑟银、亚伯顿之影和救赎，且在未来将添加对旅人归途的支持
+				请勿在Discord服务器中为该模组提供建议或提交错误报告
+				'''
 		}
 
 		DamageClasses: {

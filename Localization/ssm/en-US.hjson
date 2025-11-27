@@ -75,8 +75,8 @@ Mods: {
 			Homing: Weapon's pojectiles are homing in on enemies
 			CancelBuff: Canceled DLC buff
 			CancelDebuff: Canceled DLC debuff
-			PostND: "[c/FF0000:Cross-mod Balance:] Can be only used after defeating the Nameless Deity"
-			PostMonstrosity: "[c/FF0000:Cross-mod Balance:] Can be only used after defeating Monstrosity"
+			PosttND: "[c/FF0000:Cross-mod Balance:] Can be only used after defeating the Nameless Deity"
+			PosttMonstrosity: "[c/FF0000:Cross-mod Balance:] Can be only used after defeating Monstrosity"
 			ColumnNerf: Fire column deal 50% less damage
 			Thorium1: Increased inspiration regeneration and chance for notes to drop
 			Thorium2: Increased thrower velocity and exhaustion regeneration by
@@ -4566,6 +4566,12 @@ Mods: {
 			NoThrower: WARNING! The thrower merge was moved to Thrower Unification mod
 			NoBalancing: Since you are playing Calamity with Thorium, WHummus' Calamity and Thorium Balancing mod is recommended
 			NoRework: It is recomended to play Thorium with Thorium Bosses Rework to enhance your experience
+			EndOfCSE:
+				'''
+				Current CSE scope has far exceeded what is realistically possible to maintain the high quality standard set by ourselves.
+				Mod will be remade from ground up with only Thorium, SoA and Redemption as compatible mods. Homeward Journey support will be added in future.
+				Do not give suggestions or bug reports for that mod in Discord server.
+				'''
 		}
 
 		DamageClasses: {
