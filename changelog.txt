@@ -1,5 +1,7 @@
-version：0.2.37
+{ModDisplayName}(FargoCP) - Mod Version {ModVersion} - TML Version {tMLVersion}
 -增加 CJ的各样魔石 汉化
 -更新 Terry的音乐 汉化
 -修复 Fargo旧版DLC 硬编码汉化问题
 -修复 Fargo最好的世界生成 文本问题
+
+感谢：{ModAuthor}和各位订阅者
