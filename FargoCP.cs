@@ -46,23 +46,8 @@ namespace FargoCP
     // DLC传颂之物和血月天塔柱的修改
     public class FargowiltasCrossmod : ModSystem
     {
-        //public static Condition condition =
-        //new Condition(Language.GetOrRegister(Guid.NewGuid().ToString(), () => "血月天塔柱"), () => Main.player[Main.myPlayer].adjTile[480]);
-        //public override void PostAddRecipes()
-        //{
-        //    _ = Main.recipe
-        //        .Where(r => r.HasTile(480))
-        //        .Select(r => {
-        //            r.RemoveTile(480);
-        //            r.AddCondition(condition);
-        //            return 1;
-        //        })
-        //        .ToArray()
-        //        ;
-        //    base.PostAddRecipes();
-        //}
-
         //javidpack写的解决血月天塔柱翻译的码
+        //后续可能移除，此事已经在dlc提交pr
         public override void Load()
         {
             Lang._mapLegendCache[MapHelper.TileToLookup(TileID.BloodMoonMonolith, 0)] = Lang.GetItemName(ItemID.BloodMoonMonolith);
