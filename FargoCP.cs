@@ -82,8 +82,7 @@ namespace FargoCP
                 TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargowiltasCrossmod", false);
         }
     }
-
-    // 取消那个√石非官方额外魔石的硬编码翻译
+    
     public class FargosSoulsModDLCRecreated : ModSystem
     {
         public override void PostSetupContent()
