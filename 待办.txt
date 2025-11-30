@@ -1,0 +1,5 @@
+第一要务★寻找愿意长时间做汉化工作的继承人
+[ToDo]1.重译description中各种mod的译名
+[ToDo]2.调整Old DLC的硬编码文本解决手段
+[ToDo]3.修改description.txt中只有创意工坊才能使用的格式，改为游戏内可以看懂的格式
+[Done]4.规范版本号格式
