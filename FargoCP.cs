@@ -64,7 +64,10 @@ namespace FargoCP
             if (
                     ModLoader.HasMod("FargowiltasCrossmod")
                )
-                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargowiltasCrossmod", false);
+                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargowiltasCrossmod", false, filters: new()
+                { 
+                    MethodFilter = MethodFilter.MatchName("DrawExoMechLore")
+                });
         }
     }
     
