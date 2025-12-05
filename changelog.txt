@@ -1,6 +1,6 @@
-{ModDisplayName}(FargoCP) - Mod Version {ModVersion} - TML Version {tMLVersion}
+Fargo附属汉化合集(FargoCP) - Mod Version {ModVersion} - TML Version {tMLVersion}
 [#]===============更新细节===============[#]
 -增加 Fargo Boss Rush 汉化
 -优化 Fargo旧DLC 汉化代码
 [#]=====================================[#]
-感谢：{ModAuthor}和各位订阅者
+感谢：所有汉化作者和各位订阅者
