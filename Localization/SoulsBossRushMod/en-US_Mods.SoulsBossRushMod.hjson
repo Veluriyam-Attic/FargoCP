@@ -1,0 +1,61 @@
+ModReferences: {
+	BossChecklist: {
+		EventName: Boss Rush
+		EventSpawnCondition: Use [i:SoulsBossRushMod/VoidEnterer] to start the Boss Rush.
+	}
+}
+
+Items: {
+	VoidEnterer: {
+		DisplayName: Pocket Universe
+		Tooltip:
+			'''
+			Hold using item to start Boss Rush
+			Pay attention:
+			Item creates a new subworld for Boss Rush event
+			[c/ff474e:This will clear dropped items, active buffs and etc]
+			'Doom is eternal'
+			'''
+	}
+
+	MainframePaint: {
+		DisplayName: The Mainframe Painting
+		Tooltip: "'The reward for a great massacre'"
+	}
+
+	EternalMonolith: {
+		DisplayName: Eternal Monolith
+		Tooltip: "'Contains small amount of eternal energy'"
+	}
+}
+
+Conditions.BossRushCondition: Defeated Boss Rush
+
+Tiles: {
+	FakeCoffinArenaTile.MapEntry: Fake Coffin Arena Tile
+	FakeGolemArenaTile.MapEntry: Fake Golem Arena Tile
+	FakeJungleArenaTile.MapEntry: Fake Jungle Arena Tile
+	CoffinArenaTile.MapEntry: Coffin Arena Tile
+}
+
+Achievements: {
+	DefeatedBossRushAchievement: {
+		FriendlyName: Eternal Slayer
+		Description: Defeat the Boss Rush.
+	}
+}
+
+BossRush.DisplayName: Boss Rush
+Projectiles.VoidEntererProjectile.DisplayName: Void Enterer
+
+Configs: {
+	BossRushConfig: {
+		DisplayName: Boss Rush Config
+		Headers.Bosses: Bosses
+
+		EnergizedVariants: {
+			Label: "[i:Fargowiltas/Overloader] Energized"
+			Tooltip: Whether bosses will be energized or not
+		}
+	}
+}

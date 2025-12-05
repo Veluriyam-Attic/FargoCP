@@ -1,0 +1,61 @@
+ModReferences: {
+	BossChecklist: {
+		EventName: Fargo Boss Rush
+		EventSpawnCondition: 使用[i:SoulsBossRushMod/VoidEnterer]开始Fargo Boss Rush
+	}
+}
+
+Items: {
+	VoidEnterer: {
+		DisplayName: 口袋宇宙
+		Tooltip:
+			'''
+			按住使用物品以开始Fargo Boss Rush
+			注意：
+			物品会为Fargo Boss Rush事件创建一个新的子世界
+			[c/ff474e:这将清除掉落的物品、启用的增益等]
+			“末日是永恒的”
+			'''
+	}
+
+	MainframePaint: {
+		DisplayName: Mainframe画作
+		Tooltip: “一场大屠杀的奖励”
+	}
+
+	EternalMonolith: {
+		DisplayName: 永恒方碑
+		Tooltip: “包含小部分的永恒能量”
+	}
+}
+
+Conditions.BossRushCondition: 击败Fargo Boss Rush
+
+Tiles: {
+	FakeCoffinArenaTile.MapEntry: 假的咒缚灵棺材竞技场方块
+	FakeGolemArenaTile.MapEntry: 假的石巨人竞技场方块
+	FakeJungleArenaTile.MapEntry: 假的丛林竞技场方块
+	CoffinArenaTile.MapEntry: 咒缚灵棺材竞技场方块
+}
+
+Achievements: {
+	DefeatedBossRushAchievement: {
+		FriendlyName: 永恒杀手
+		Description: 击败Fargo Boss Rush
+	}
+}
+
+BossRush.DisplayName: Fargo Boss Rush
+Projectiles.VoidEntererProjectile.DisplayName: 口袋宇宙进入虚空
+
+Configs: {
+	BossRushConfig: {
+		DisplayName: Boss Rush设置
+		Headers.Bosses: Bosses
+
+		EnergizedVariants: {
+			Label: "[i:Fargowiltas/Overloader] 激发强化"
+			Tooltip: 是否启用过载后强化的Boss
+		}
+	}
+}
