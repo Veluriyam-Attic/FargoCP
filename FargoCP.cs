@@ -47,7 +47,7 @@ namespace FargoCP
     public class FargowiltasCrossmod : ModSystem
     {
         //javidpack写的解决血月天塔柱翻译的码
-        //后续可能移除，此事已经在dlc提交pr
+        //后续可能移除，此事已经在dlc提交pr，并且在tModLoader仓库发了issue
         public override void Load()
         {
             Lang._mapLegendCache[MapHelper.TileToLookup(TileID.BloodMoonMonolith, 0)] = Lang.GetItemName(ItemID.BloodMoonMonolith);
