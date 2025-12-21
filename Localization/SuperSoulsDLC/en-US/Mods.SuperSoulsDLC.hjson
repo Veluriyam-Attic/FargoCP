@@ -1,0 +1,883 @@
+Items: {
+	CursedEnchant: {
+		DisplayName: Cursed Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/CursedHood] Summons a Ruby Monolith to your side
+			[i:SOTS/CursedHood] The closest enemy to you is afflicted with a curse
+			Upon taking damage, cursed enemies will Flare, taking 140% additional damage and dealing 140% damage to other nearby enemies
+			This effect has a 2 second cooldown
+			[i:SOTS/CursedApple] Effects of Cursed Apple
+			[i:SOTS/HeartInAJar] Effects of Heart in a Jar
+			[i:SOTS/PricklyPearShield] Effects of Prickly Pear Shield
+			[i:SOTS/RotHeart] Effects of Rot Heart
+			'''
+	}
+
+	DrillforgeEnchant: {
+		DisplayName: Drillforge Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/ExcavatorHelmet] Gain a Missile Launcher tail that attacks nearby enemies for 1 void
+			[i:SOTS/ExperimentalInjection] All effects of Experimental Injection
+			[i:SOTS/TinyPlanetoid] Effects of Tiny Planetoid
+			'''
+	}
+
+	EarthenEnchant: {
+		DisplayName: Earthen Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/EarthenHelmet] Melee strikes have a chance to apply a stacking, permanent shred on enemies, making them take additional damage from all attacks
+			[i:SOTS/EarthenHelmet] Improves vision and provides light when worn
+			[i:SOTS/EarthenHelmet] Increases mining speed by 10%
+			[i:SOTS/RockCandy] Effects of Rock Candy
+			[i:SOTS/AutoClicker] Effects of Auto Clicker
+			'''
+	}
+
+	ElementalEnchant: {
+		DisplayName: Elemental Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/ElementalHelmet] Press {0} to teleport to your cursor, dealing 200% of your defense as damage to all enemies in your path
+			[i:SOTS/ElementalHelmet] Increases max void by 100
+			[i:SOTS/ElementalHelmet] Increases void gain by 3
+			[i:SOTS/FocusReticle] Effects of Focus Reticle
+			[i:SOTS/AcidicInjection] Effects of Overkill Injection
+			[i:SOTS/VisionAmulet] All effects of Elemental Amulet
+			'''
+	}
+
+	FrigidEnchant: {
+		DisplayName: Frigid Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/FrigidCrown] Effects of Ice Skates 
+			[i:SOTS/FrigidRobe] Frigid Javelin gains 3 additional bounces
+			[i:SOTS/FrigidRobe] Frigid Javelin no longer costs void
+			[i:SOTS/ShatterShardChestplate] Taking damage spawns 1-3 Shatter Shards
+			[i:SOTS/ShatterShardChestplate] Grants immunity to Chilled, Frozen, and Frostburn
+			[i:SOTS/ShoeIce] Effects of Shoe Ice
+			[i:SOTS/Sunbulb] Effects of Sunbulb
+			'''
+	}
+
+	FrostArtifactEnchant: {
+		DisplayName: Frost Artifact Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/FrostArtifactHelmet] Most melee and ranged attacks summon a handful of Polar Cannons that each deal 25% damage
+			[i:SuperSoulsDLC/FrigidEnchantment] Effects of Frigid Enchantment
+			[i:SOTS/FrigidHourglass] Effects of Frigid Hourglass
+			[i:SOTS/ShardGuard] Effects of Shard Guard
+			[i:SOTS/EndothermicAfterburner] Effects of Endothermic Afterburner
+			'''
+	}
+
+	PatchLeatherEnchant: {
+		DisplayName: Patch Leather Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/PatchLeatherHat] Summons 3 Flying Snakes to attack nearby enemies
+			[i:SOTS/SunlightAmulet] Effects of Sunlight Amulet
+			[i:SOTS/BandOfDoor] Effects of Band of Door
+			[i:SOTS/SteelerWheeler] Effects of Steeler Wheeler
+			'''
+	}
+
+	TwilightAssassinEnchant: {
+		DisplayName: Twilight Assassin Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/TwilightAssassinsCirclet] Provides a Holo Eye minion to assist in combat
+			[i:SOTS/TwilightAssassinsCirclet] Increases max void by 50
+			[i:SOTS/TwilightAssassinsLeggings] Decreases Blink Pack cooldown by 20%
+			[i:SOTS/BladeNecklace] Effects of Blade Necklace
+			[i:SOTS/BlinkPack] Effects of Blink Pack
+			[i:SOTS/GravityAnchor] Effects of Gravity Anchor
+			'''
+	}
+
+	VesperaEnchant: {
+		DisplayName: Vespera Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/VesperaMask] Increases max void by 50 and void gain by 50%
+			[i:SOTS/VesperaMask] Increases void gain by 1
+			[i:SOTS/IlluminantLantern] Effects of Illuminant Lantern
+			[i:SOTS/SafetySwitch] Effects of Safety Switch
+			[i:SOTS/RockingHorse] Effects of Rocking Horse
+			'''
+	}
+
+	VibrantEnchant: {
+		DisplayName: Vibrant Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/VibrantHelmet] Vibrant Pistol fires three shots at once at the cost of accuracy
+			[i:SOTS/VibrantHelmet] Increases void gain by 2
+			[i:SOTS/HarvestersScythe] Effects of Harvester's Scythe
+			[i:SOTS/GuideToIllumination] Effects of Guide to Illumination
+			[i:SOTS/WardingCharm] Effects of Warding Charm
+			'''
+	}
+
+	VoidspaceRangerEnchant: {
+		DisplayName: Voidspace Ranger Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/VoidspaceMask] Attacks permanently inflict the Subspace Flames debuff, which deals 10 damage per second
+			[i:SOTS/VoidspaceMask] When an enemy with Subspace Flames is killed, they deal damage to all other enemies equal to the cumulative damage they took from Subspace Flames
+			[i:SOTS/VoidspaceMask] Increases max void by 50
+			[i:SOTS/VoidspaceMask] Increases void gain by 4
+			[i:SOTS/VoidspaceBreastplate] When hurt, 15% of damage taken is converted into void
+			[i:SOTS/VoidspaceBreastplate] When using void, 15% of the void used is converted into life
+			[i:SOTS/SubspaceLocket] Effects of Subspace Locket
+			[i:SOTS/VoidspaceEmblem] Effects of Voidspace Emblem
+			[i:SOTS/BagOfCharms] Effects of Bag of Charms
+			'''
+	}
+
+	WormwoodEnchant: {
+		DisplayName: Wormwood Enchantment
+		Tooltip:
+			'''
+			[i:SOTS/NatureWreath] Summons three Blooming Hooks to assist in combat
+			[i:SOTS/NatureWreath] Increases defense for every active minion
+			[i:SOTS/FlowerCrown] Effects of Flower Crown
+			[i:SOTS/BotanicalSymbiote] Effects of Botanical Symbiote
+			[i:SOTS/LittleWoes] Effects of Little Woes
+			'''
+	}
+
+	ChaosForce: {
+		DisplayName: Force of Chaos
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/CursedEnchant] Effects of Cursed Enchantment
+			[i:SuperSoulsDLC/DrillforgeEnchant] Effects of Drillforge Enchantment
+			[i:SuperSoulsDLC/PatchLeatherEnchant] Effects of Patch Leather Enchantment
+			[i:SuperSoulsDLC/VesperaEnchant] Effects of Vespera Enchantment
+			[i:SuperSoulsDLC/VibrantEnchant] Effects of Vibrant Enchantment
+			[i:SuperSoulsDLC/WormwoodEnchant] Effects of Wormwood Enchantment
+			'''
+	}
+
+	TessellationForce: {
+		DisplayName: Force of Tessellation
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/EarthenEnchant] Effects of Earthen Enchantment
+			[i:SuperSoulsDLC/ElementalEnchant] Effects of Elemental Enchantment
+			[i:SuperSoulsDLC/FrostArtifactEnchant] Effects of Frost Artifact Enchantment
+			[i:SuperSoulsDLC/TwilightAssassinEnchant] Effects of Twilight Assassin Enchantment
+			[i:SuperSoulsDLC/VoidspaceRangerEnchant] Effects of Voidspace Ranger Enchantment
+			'''
+	}
+
+	VoidlingEssence: {
+		DisplayName: Voidling's Essence
+		Tooltip:
+			'''
+			18% increased void damage
+			8% increased void crit chance
+			Increases max void by 50
+			'This is only the beginning...'
+			'''
+	}
+
+	VoidbearerSoul: {
+		DisplayName: Voidbearer's Soul
+		Tooltip:
+			'''
+			22% increased void damage
+			10% increased void crit chance
+			Increases max void by 100
+			Effects of Synthetic Liver and Voidmage Incubator
+			Effects of Mr. Eepy, Mr. Glorp, and Mr. McMillen
+			'The call of the void grows ever louder...'
+			'''
+	}
+
+	FungusEnchant: {
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/FungusHat] Double tap DOWN to place a fungus sentry
+			[i:ContinentOfJourney/HoneyMushroom] Effects of Honey Mushroom
+			[i:ContinentOfJourney/SimpleShield] Effects of Simple Shield
+			'''
+		DisplayName: Fungus Enchantment
+	}
+
+	AuroraEnchant: {
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/AuroraHeadwear] Aurora Slimes rotate around you, double tap DOWN to launch them
+			[i:ContinentOfJourney/CommandersGaunlet] Effects of Gaunlet of the Commander
+			[i:ContinentOfJourney/ConstructionPDA] Effects of Construction PDA
+			'''
+		DisplayName: Aurora Enchantment
+	}
+
+	BiologicEnchant: {
+		DisplayName: Biologic Enchantment
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/BiologicalHelmet] Double tap DOWN to put down a gas station
+			[i:ContinentOfJourney/TimeTurner] Effects of Time Turner
+			[i:ContinentOfJourney/KingBill] Effects of King Bill
+			[i:ContinentOfJourney/MetalNozzle] Effects of Metal Nozzle
+			'''
+	}
+
+	ChronoEnchant: {
+		DisplayName: Chrono Enchantment
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/PerpetualHelmet] Double tap DOWN to borrow your team some time
+			[i:ContinentOfJourney/JellyMushroom] Effects of Jelly Mushroom
+			[i:ContinentOfJourney/SaviorsHeart] Effects of Savior's Heart
+			'''
+	}
+
+	EquilibriumEnchant: {
+		DisplayName: Equilibrium Enchantment
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/EquilibriumMask] Releases fogs over time
+			[i:ContinentOfJourney/GrandSpectral] Effects of Grand Spectral
+			[i:ContinentOfJourney/SaintlyEyeball] Effects of The Saint's Eyeball
+			'''
+	}
+
+	FiveStarGeneralEnchant: {
+		DisplayName: Five-Star General Enchantment
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/HeliologyHelmet] Increases minion slots by 77%, but reduces base damage of minions by 38%
+			[i:ContinentOfJourney/LampreyScarf] Effects of Lamprey Scarf
+			[i:ContinentOfJourney/CircuitChip] Effects of Circuit Chip
+			[i:ContinentOfJourney/BumpAttack] Effects of Bump Attack
+			'''
+	}
+
+	FlinxFurEnchant: {
+		DisplayName: Flinx Fur Enchantment
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/FlinxFurHat] Increases your max number of minions and sentries by 1
+			[i:ContinentOfJourney/FrameIron] Increases movement speed by 4% and acceleration by 6%
+			[i:ContinentOfJourney/CounsellorsFan] Effects of Counsellor's Fan
+			'''
+	}
+
+	ForestEnchant: {
+		DisplayName: Forest Enchantment
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/ForestHelmet] Grow thorns on hit enemies, release thorns when damaged
+			[i:ContinentOfJourney/Edgewalker] Effects of Edgewalker
+			[i:ContinentOfJourney/WalnutOnFire] Effects of Walnut on Fire
+			[i:ContinentOfJourney/ArrowCase] Effects of Arrow Case
+			'''
+	}
+
+	IndividualCombatEnchant: {
+		DisplayName: Individual Combat Enchantment
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/IndividualCombatHelmet] Reveals enemies and traps, hitting marked enemies gives a damage boost
+			[i:ContinentOfJourney/Cardiotachometer] Effects of Cardiotachometer
+			[i:ContinentOfJourney/RobinHat] Effects of Robin Hat
+			[i:ContinentOfJourney/BowTrigger] Effects of Mechanical Trigger
+			'''
+	}
+
+	OnyxEnchant: {
+		DisplayName: Onyx Enchantment
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/DarkCrown] An onyx protects you
+			[i:ContinentOfJourney/AlloyCross] Effects of Alloy Cross
+			[i:ContinentOfJourney/ShadowShackle] Effects of Shadow Shackle
+			[i:ContinentOfJourney/Negatama] Effects of Negatama
+			[i:ContinentOfJourney/ZeroPenny] Effects of Zero Penny
+			'''
+	}
+
+	ReflectorEnchant: {
+		DisplayName: Reflector Enchantment
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/ReflectorHelmet] Generates a shield that can reflect most hostile projectiles
+			[i:ContinentOfJourney/PersonInDream] Effects of Person in Dream
+			[i:ContinentOfJourney/HeartOfOcean] Effects of Heart of Ocean
+			[i:ContinentOfJourney/Negashield] Effects of Negashield
+			'''
+	}
+
+	SunGodEnchant: {
+		DisplayName: Sun God Enchantment
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/SunlightHelmet] Ignites nearby enemies, attacks inflict Solar Burnt
+			[i:ContinentOfJourney/DeadRinger] Effects of Dead Ringer
+			[i:ContinentOfJourney/SolarPanel] Effects of Solar Panel
+			'''
+	}
+
+	WatchmanEnchant: {
+		DisplayName: Watchman Enchantment
+		Tooltip:
+			'''
+			[i:ContinentOfJourney/WatchmanHat] Accelerate your team upon hitting an enemy with a magic weapon
+			[i:ContinentOfJourney/MapleMushroom] Effects of Maple Mushroom
+			[i:ContinentOfJourney/HourHand] Effects of Hour Hand
+			'''
+	}
+
+	BalanceForce: {
+		DisplayName: Force of Balance
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/BiologicEnchant] Effects of Biologic Enchantment
+			[i:SuperSoulsDLC/ChronoEnchant] Effects of Chrono Enchantment
+			[i:SuperSoulsDLC/EquilibriumEnchant] Effects of Equilibrium Enchantment
+			[i:SuperSoulsDLC/FiveStarGeneralEnchant] Effects of Five-Star General Enchantment
+			'''
+	}
+
+	ConclusionForce: {
+		DisplayName: Force of Conclusion
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/AuroraEnchant] Effects of Aurora Enchantment
+			[i:SuperSoulsDLC/ForestEnchant] Effects of Forest Enchantment
+			[i:SuperSoulsDLC/ReflectorEnchant] Effects of Reflector Enchantment
+			[i:SuperSoulsDLC/WatchmanEnchant] Effects of Watchman Enchantment
+			'''
+	}
+
+	HighlandForce: {
+		DisplayName: Force of Highland
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/FungusEnchant] Effects of Fungus Enchantment
+			[i:SuperSoulsDLC/FlinxFurEnchant] Effects of Flinx Fur Enchantment
+			[i:SuperSoulsDLC/IndividualCombatEnchant] Effects of Individual Combat Enchantment
+			[i:SuperSoulsDLC/OnyxEnchant] Effects of Onyx Enchantment
+			[i:SuperSoulsDLC/SunGodEnchant] Effects of Sun God Enchantment
+			'''
+	}
+
+	AncientCrystalEnchant: {
+		DisplayName: Ancient Crystal Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/AncientCHead] Projectile attacks occasionally spawn crystal shards
+			[i:MartainsOrder/ShimmerGlowingMushroom] Effects of Gloopy Shimmering Mushroom
+			'''
+	}
+
+	AncientGarnetEnchant: {
+		DisplayName: Ancient Garnet Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/AncientGH1] All attacks inflict wither
+			[i:MartainsOrder/GarnetCore] Effects of Cerise Stone
+			'''
+	}
+
+	AncientRockEnchant: {
+		DisplayName: Ancient Rock Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/AncientRH] Grants immunity to knockback
+			[i:MartainsOrder/Flint] Effects of Flint
+			'''
+	}
+
+	AncientTantalumEnchant: {
+		DisplayName: Ancient Tantalum Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/AncientTHead] Grants immunity to electrified
+			[i:MartainsOrder/TurtleScent] Effects of Turtle Scent
+			[i:MartainsOrder/SecurityGlove] Effects of Security Glove
+			'''
+	}
+
+	AncientZincEnchant: {
+		DisplayName: Ancient Zinc Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/AncientZHead] Grants immunity to fracture
+			[i:MartainsOrder/WhirlwindInABottle] Effects of Whirlwind in a Bottle
+			'''
+	}
+
+	BirchWoodEnchant: {
+		DisplayName: Birch Wood Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/BirchWoodHelmet] 10% increased movement and attack speed
+			[i:MartainsOrder/PooInABottle] Effects of Poo in a Bottle
+			'''
+	}
+
+	CamoEnchant: {
+		DisplayName: Camo Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/CamoHelmet] 20% decreased damage taken from projectiles
+			[i:MartainsOrder/CamoHelmet] Increases length of invincibility after taking damage
+			[i:MartainsOrder/TrenchSack] Effects of Trench Sack
+			[i:MartainsOrder/Shuither] Effects of Shuither
+			'''
+	}
+
+	CharcoalEnchant: {
+		DisplayName: Charcoal Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/CharAH] Provides a charcoal reticle that follows the mouse
+			[i:MartainsOrder/PaperWorks] Effects of Paper Fireworks
+			[i:MartainsOrder/AmmoBelt] Effects of Ammo Belt
+			'''
+	}
+
+	ClayArtisanEnchant: {
+		DisplayName: Clay Artisan Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/ClayAH] +1 flat art damage
+			[i:MartainsOrder/InkPot] Effects of Ink Pot
+			'''
+	}
+
+	CrystalEnchant: {
+		DisplayName: Crystal Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/CrystalAH] Shoots crystal shards out when hit
+			[i:SuperSoulsDLC/AncientCrystalEnchant] Effects of Ancient Crystal Enchantment
+			[i:MartainsOrder/CrystalGloves] Effects of Crystal Gloves
+			'''
+	}
+
+	DepthsMineEnchant: {
+		DisplayName: Depths Mine Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/MinerHelmet] 15% increased mining speed
+			[i:MartainsOrder/MinerHelmet] Provides light when worn
+			[i:MartainsOrder/Flashlight] Effects of Flashlight
+			[i:MartainsOrder/RedGlowingMushroom] Effects of Red Glowing Mushroom
+			'''
+	}
+
+	DesertWoodEnchant: {
+		DisplayName: Desert Wood Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/SwarmerWings] Effects of Swarmer Wings
+			[i:MartainsOrder/BlueGlowingMushroom] Effects of Blue Glowing Mushroom
+			'''
+	}
+
+	DynastyWoodEnchant: {
+		DisplayName: Dynasty Wood Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/DynastyWoodHelmet] Critical strikes create a gong explosion
+			[i:MartainsOrder/MahoganyScroll] Effects of Mahogany Scroll
+			[i:MartainsOrder/GreenGlowingMushroom] Effects of Green Glowing Mushroom
+			'''
+	}
+
+	ExiledPrinceEnchant: {
+		DisplayName: Exiled Prince Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/ExiledPrinceHood] Grants an uninterruptible slime double dash
+			[i:MartainsOrder/ExiliedGel] Effects of Exiled Gel
+			[i:MartainsOrder/JungleHeart] Effects of Jungle's Core
+			'''
+	}
+
+	ExoticCactusEnchant: {
+		DisplayName: Exotic Cactus Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/CactusHead] Attackers take damage from enhanced cactus spines
+			[i:MartainsOrder/CactusCatExpertItem] Effects of Exotic Prickly Pear
+			[i:MartainsOrder/GuideToHealthRetribution] Effects of Guide to Health Retribution
+			'''
+	}
+
+	ExplosiveBoxEnchant: {
+		DisplayName: Explosive Box Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/KMHead] You create a massive explosion on death
+			[i:MartainsOrder/Shuttlecocks] Effects of Shuttlecocks
+			[i:MartainsOrder/Technoboost] Effects of Technoboost
+			'''
+	}
+
+	FakeFishyumEnchant: {
+		DisplayName: Fake Fishyum Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/FishyumAH] Summons a fishyum guardian that bashes into enemies
+			[i:MartainsOrder/CubeFolksBless] Effects of Cube Folk's Bless
+			[i:MartainsOrder/StoneStone] Effects of Stone Stone
+			'''
+	}
+
+	FireEnchant: {
+		DisplayName: Fire Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/MagmaAH] Yoyos in movement will periodically emit fire waves
+			[i:MartainsOrder/EnchantedSheath] Effects of Enchanted Sheath
+			[i:MartainsOrder/MagmaWatch] Effects of Magma Watch
+			'''
+	}
+
+	ForestsEnchant: {
+		DisplayName: Forest's Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/SpiritH2] Increases summoning and throwing speed after taking damage
+			[i:MartainsOrder/EngineerBelt] Effects of Engineer Belt
+			[i:MartainsOrder/SpiralLeaf] Effects of Spiral Leaf
+			'''
+	}
+
+	HollowwoodEnchant: {
+		DisplayName: Hollowwood Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/HollowwoodHelmet] Decreases the effects of the void biome
+			[i:MartainsOrder/ShadeCords] Effects of Shade Cords
+			[i:MartainsOrder/IgnitionStone] Effects of Ignition Stone
+			'''
+	}
+
+	IceCrystalEnchant: {
+		DisplayName: Ice Crystal Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/IceCrystalHat] 50% chance to not consume mana potions
+			[i:MartainsOrder/TundraNecklace] Effects of Tundra Necklace
+			[i:MartainsOrder/FrozenLilyBee] Effects of Frozen Lily Bee
+			'''
+	}
+
+	MagnesiumEnchant: {
+		DisplayName: Magnesium Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/MagnesiumAH] Summons a leaf crystal to shoot at nearby enemies
+			[i:MartainsOrder/Belovezoar] Effects of Belovezoar
+			[i:MartainsOrder/NoeticStone] Effects of Noetic Stone
+			'''
+	}
+
+	MercuryEnchant: {
+		DisplayName: Mercury Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/MercuryAH] Provides the player an uninterruptible quicksilver double dash
+			[i:MartainsOrder/SmokeInABottle] Effects of Smoke in a Bottle
+			'''
+	}
+
+	NadirEnchant: {
+		DisplayName: Nadir Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/NadirAH] Basic improvements to all stats
+			[i:MartainsOrder/Relic] Effects of Sequence Relic
+			[i:MartainsOrder/BatScent] Effects of Bat Scent
+			'''
+	}
+
+	OrigamiEnchant: {
+		DisplayName: Origami Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/OrigamiHat] Enemies that touch you are inflicted with bleeding and damaged
+			[i:MartainsOrder/RealitySkull] Effects of Reality Skull
+			[i:MartainsOrder/VoodooJets] Effects of Voodoo Jets
+			'''
+	}
+
+	OtherworldlyEnchant: {
+		DisplayName: Otherworldly Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/DD2MegaMixHead] Grants every Old One's Army armor set bonus
+			[i:MartainsOrder/SuperLifeSupport] Effects of Super Medkit
+			[i:MartainsOrder/ExtraterrestialCurse] Effects of Rainbow Curse
+			'''
+	}
+
+	PainterEnchant: {
+		DisplayName: Painter Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/PainterAH] Striking enemies will emit additional paint drops
+			[i:MartainsOrder/PainterAH] +2 flat art damage
+			'''
+	}
+
+	RecycledEnchant: {
+		DisplayName: Recycled Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/PlasticAH] Command minions to your cursor by double tapping down
+			[i:MartainsOrder/AlchemistsPouch] Effects of Alchemist's Pouch
+			[i:MartainsOrder/Satelite] Effects of Satellite 
+			'''
+	}
+
+	ReptileEnchant: {
+		DisplayName: Reptile Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/ReptileAH] Striking enemies boosts summon rage
+			[i:MartainsOrder/RedCells] Effects of Vicious Cells
+			[i:MartainsOrder/ThornCrown] Effects of Thorn Crown
+			'''
+	}
+
+	SandEnchant: {
+		DisplayName: Sand Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/SandAH] 10% increased movement speed while in the desert
+			[i:MartainsOrder/BeastHandler] Effects of Beast Handler
+			[i:MartainsOrder/PygmyExtension] Effects of Pygmy Extension
+			'''
+	}
+
+	TantalumEnchant: {
+		DisplayName: Tantalum Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/TantalumHeadgear] Grants a tantalum double jump
+			[i:MartainsOrder/CharmOfLuck] Effects of Charm of Luck
+			'''
+	}
+
+	TectonicEnchant: {
+		DisplayName: Tectonic Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/RockAH] Grants a rock ground pound
+			[i:MartainsOrder/MagneticCharge] Effects of Magnetic Charge
+			[i:MartainsOrder/DeadCells] Effects of Vile Cells
+			'''
+	}
+
+	TimeEnchant: {
+		DisplayName: Time Enchantment
+		Tooltip: "[i:MartainsOrder/TimeAH] Grants a time skipping double dash"
+	}
+
+	ToyEnchant: {
+		DisplayName: Toy Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/ToyHead] Projectiles follow your cursor while holding UP
+			[i:MartainsOrder/ForbiddenBandana] Effects of Forbidden Bandana
+			'''
+	}
+
+	VoidEnchant: {
+		DisplayName: Void Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/VoidHMelee] Grants a void rock ground pound
+			[i:MartainsOrder/RoyalDinnerService] Effects of Royal Dinner Service
+			[i:SuperSoulsDLC/TectonicEnchant] Effects of Tectonic Enchantment
+			'''
+	}
+
+	WaterEnchant: {
+		DisplayName: Water Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/AquaAH] Periodically heals nearby teammates while standing still
+			[i:MartainsOrder/AquaWatch] Effects of Aqua Watch
+			'''
+	}
+
+	WitherEnchant: {
+		DisplayName: Wither Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/WitherAH] Become enraged after being struck or double tapping down
+			[i:MartainsOrder/DemonCharm] Effects of Demon Charm
+			[i:MartainsOrder/ScentKnuckles] Effects of Scent Knuckles
+			'''
+	}
+
+	ZincEnchant: {
+		DisplayName: Zinc Enchantment
+		Tooltip:
+			'''
+			[i:MartainsOrder/ZincHead] Summons a protective zinc shield
+			[i:MartainsOrder/SanguineScroll] Effects of Sanguine Scroll
+			[i:MartainsOrder/CalciumDose] Effects of Calcium Dose
+			'''
+	}
+
+	CreativesEssence: {
+		DisplayName: Creative's Essence
+		Tooltip:
+			'''
+			18% increased art damage
+			10% increased art attack speed
+			8% increased art crit chance
+			'This is only the beginning...'
+			'''
+	}
+
+	HurlersEssence: {
+		DisplayName: Hurler's Essence
+		Tooltip:
+			'''
+			18% increased throwing damage
+			10% increased throwing velocity
+			8% increased throwing crit chance
+			'This is only the beginning...'
+			'''
+	}
+
+	AgeForce: {
+		DisplayName: Force of Ages
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/AncientGarnetEnchant] Effects of Ancient Garnet Enchantment
+			[i:SuperSoulsDLC/AncientRockEnchant] Effects of Ancient Rock Enchantment
+			[i:SuperSoulsDLC/AncientTantalumEnchant] Effects of Ancient Tantalum Enchantment
+			[i:SuperSoulsDLC/AncientZincEnchant] Effects of Ancient Zinc Enchantment
+			[i:SuperSoulsDLC/TantalumEnchant] Effects of Tantalum Enchantment
+			[i:SuperSoulsDLC/WitherEnchant] Effects of Wither Enchantment
+			[i:SuperSoulsDLC/ZincEnchant] Effects of Zinc Enchantment
+			'''
+	}
+
+	ComplexionForce: {
+		DisplayName: Force of Complexion
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/BirchWoodEnchant] Effects of Birch Wood Enchantment
+			[i:SuperSoulsDLC/DesertWoodEnchant] Effects of Desert Wood Enchantment
+			[i:SuperSoulsDLC/DynastyWoodEnchant] Effects of Dynasty Wood Enchantment
+			[i:SuperSoulsDLC/ExoticCactusEnchant] Effects of Exotic Cactus Enchantment
+			[i:SuperSoulsDLC/ForestsEnchant] Effects of Forest's Enchantment
+			[i:SuperSoulsDLC/NadirEnchant] Effects of Nadir Enchantment
+			[i:SuperSoulsDLC/ReptileEnchant] Effects of Reptile Enchantment
+			'''
+	}
+
+	DarknessForce: {
+		DisplayName: Force of Darkness
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/ExiledPrinceEnchant] Effects of Exiled Prince Enchantment
+			[i:SuperSoulsDLC/HollowwoodEnchant] Effects of Hollowwood Enchantment
+			[i:SuperSoulsDLC/OtherworldlyEnchant] Effects of Otherworldly Enchantment
+			[i:SuperSoulsDLC/TimeEnchant] Effects of Time Enchantment
+			[i:SuperSoulsDLC/VoidEnchant] Effects of Void Enchantment
+			'''
+	}
+
+	FabricationForce: {
+		DisplayName: Force of Fabrication
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/CamoEnchant] Effects of Camo Enchantment
+			[i:SuperSoulsDLC/ClayArtisanEnchant] Effects of Clay Artisan Enchantment
+			[i:SuperSoulsDLC/OrigamiEnchant] Effects of Origami Enchantment
+			[i:SuperSoulsDLC/PainterEnchant] Effects of Painter Enchantment
+			[i:SuperSoulsDLC/RecycledEnchant] Effects of Recycled Enchantment
+			[i:SuperSoulsDLC/ToyEnchant] Effects of Toy Enchantment
+			'''
+	}
+
+	MetallurgyForce: {
+		DisplayName: Force of Metallurgy
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/CrystalEnchant] Effects of Crystal Enchantment
+			[i:SuperSoulsDLC/DepthsMineEnchant] Effects of Depths Mine Enchantment
+			[i:SuperSoulsDLC/ExplosiveBoxEnchant] Effects of Explosive Box Enchantment
+			[i:SuperSoulsDLC/FakeFishyumEnchant] Effects of Fake Fishyum Enchantment
+			[i:SuperSoulsDLC/MagnesiumEnchant] Effects of Magnesium Enchantment
+			[i:SuperSoulsDLC/MercuryEnchant] Effects of Mercury Enchantment
+			'''
+	}
+
+	WorldForce: {
+		DisplayName: Force of Worlds
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/CharcoalEnchant] Effects of Charcoal Enchantment
+			[i:SuperSoulsDLC/FireEnchant] Effects of Fire Enchantment
+			[i:SuperSoulsDLC/IceCrystalEnchant] Effects of Ice Crystal Enchantment
+			[i:SuperSoulsDLC/SandEnchant] Effects of Sand Enchantment
+			[i:SuperSoulsDLC/WaterEnchant] Effects of Water Enchantment
+			'''
+	}
+
+	IllustratorsSoul: {
+		DisplayName: Illustrator's Soul
+		Tooltip:
+			'''
+			22% increased art damage
+			20% increased art attack speed
+			10% increased art crit chance
+			'The world is your canvas...'
+			'''
+	}
+
+	OrderSoul: {
+		DisplayName: Soul of Order
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/AgeForce] Effects of Force of Ages
+			[i:SuperSoulsDLC/ComplexionForce] Effects of Force of Complexion
+			[i:SuperSoulsDLC/DarknessForce] Effects of Force of Darkness
+			[i:SuperSoulsDLC/FabricationForce] Effects of Force of Fabrication
+			[i:SuperSoulsDLC/MetallurgyForce] Effects of Force of Metallurgy
+			[i:SuperSoulsDLC/WorldForce] Effects of Force of Worlds
+			'''
+	}
+
+	PitchersSoul: {
+		DisplayName: Pitcher's Soul
+		Tooltip:
+			'''
+			22% increased throwing damage
+			20% increased throwing velocity
+			10% increased throwing crit chance
+			Effects of Singular Time Cuff and Vandalism Props Bag
+			'Even small pebbles can be deadly with your prowess...'
+			'''
+	}
+}
+
+Projectiles.DynastyGongProjectile.DisplayName: Dynasty Gong
+
+Buffs: {
+	BleedingBuff: {
+		DisplayName: Bleeding
+		Description: Losing life
+	}
+}
