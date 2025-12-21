@@ -38,8 +38,3 @@ InfernumDisablesEternity: {
 		禁用时：开启炼狱模式时会同时开启永恒模式，但除非启用上一条配置选项，否则Boss将采用炼狱模式的AI
 		'''
 }
-
-VoiceActingEnabled: {
-	Label: 启用配音
-	Tooltip: 设置游戏中配音是否启用
-}

@@ -140,7 +140,8 @@ NoisyWhistle: {
 }
 
 OphiocordycipitaceaeSprout: {
-	DisplayName: 真菌生物芽孢
+	DisplayName: 真菌界子囊菌门粪壳菌纲肉座菌目线虫草科芽孢
+	#英文文本很长且学术化，大概率是故意写的让人不认识的
 	Tooltip: 召唤菌生蟹
 }
 
@@ -150,7 +151,8 @@ PolterplasmicBeacon: {
 }
 
 RedStainedWormFood: {
-	DisplayName: 血蠕虫食物
+	DisplayName: 染红的蠕虫饲料
+	#英文是关于世界吞噬者召唤物“蠕虫饲料”的小玩笑，且血蠕虫和后续boss硫海遗爵召唤物同名
 	Tooltip: 召唤血肉宿主
 }
 
@@ -324,8 +326,9 @@ WulfrumEnchant: {
 		无人机会扫描碰撞到的敌怪
 		扫描敌怪可得知敌怪对减益类型的易伤与抗性
 		绿色表示对该减益有易伤，红色表示对减益有抗性
-		被扫描的敌怪受到伤害性减益的伤害增加固定伤害值
+		被扫描的敌怪受到任意减益时随时间受到额外的固定伤害
 		'''
+		#英文文本为"任意减益"
 }
 
 GaleForce: {
@@ -423,9 +426,10 @@ TitanHeartEnchant: {
 	Tooltip:
 		'''
 		肾上腺素充能速度增加20%，落地时速度增加70%
-		根据肾上腺素的充能进度增加伤害减免，最多增加15%伤害减免
+		在肾上腺素充能时根据肾上腺素的充能进度增加伤害减免，最多增加15%伤害减免
 		最大移动速度和加速度增加5%
 		'''
+		#肾上腺素完成充能后自带减伤，且英文文本专门说了"充能时"
 }
 
 StatigelEnchant: {
@@ -491,8 +495,9 @@ MolluskEnchant: {
 		'''
 		按下[特殊冲刺]来迅速向下猛冲
 		击中敌人会造成巨大伤害并赋予你无敌帧
-		只有在命中敌人时才会冷却
+		只有在命中敌人时才会进入冷却
 		'''
+		#避免"在不可使用，即冷却中，命中敌人完成冷却"的歧义
 }
 
 # This is used to detect and remove lines, not displayed. Must match Cal's localization.
@@ -524,12 +529,10 @@ Bandit: {
 	Tooltip: “只要使劲扔，万物皆武器”
 }
 
-DrunkPrincess: {
-	DisplayName: 醉仙女
-	Tooltip: 谁爱复制粘贴引文谁复制去，管他呢
-}
+
 
 BrimstoneWitch: {
 	DisplayName: 硫火女巫
-	Tooltip: “如果有什么你需要的诅咒被不慎解除了……好吧我也不是你的人”
+	Tooltip: “如果你有什么需要解除的诅咒……好吧找我也不管用”
+	#emmm原本的翻译好像是错的qwq
 }
