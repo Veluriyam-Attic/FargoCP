@@ -69,8 +69,6 @@ Buffs: {
 	}
 }
 
-Cooldowns.DaedalusPlatformCooldown: 代达罗斯平台
-
 ExpandedTooltips: {
 	FountainAstral: 激活后将周围的生物群落环境变为星辉瘟疫（仅在困难模式下）
 	FountainCrags: 激活后将周围的生物群落环境变为硫火之崖

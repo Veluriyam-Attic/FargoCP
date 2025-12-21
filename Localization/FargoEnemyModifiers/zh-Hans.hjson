@@ -1,1032 +1,1000 @@
 Mods: {
 	FargoEnemyModifiers: {
 		NPCs: {
-			 BabySpider.DisplayName: 幼蛛
-			 SkeleArm.DisplayName: 骷髅手臂
-			 Creeper.DisplayName: 爬行者
+			BabySpider.DisplayName: 幼蛛
+			SkeleArm.DisplayName: 骷髅手臂
+			Creeper.DisplayName: 爬行者
 		}
 
 		Configs: {
 			EnemyModifiersServerConfig: {
-				 DisplayName: 服务器配置
-				 ModifierConfiguration: 修饰词配置
-				 Blacklists: 黑名单
+				DisplayName: 服务器配置
+				ModifierConfiguration: 修饰词配置
+				Blacklists: 黑名单
 
 				ModifierAnnouncements: {
-					 Label: 修饰词公告
-					 Tooltip: 敌人的修饰词会短暂显示在其头顶
+					Label: 修饰词公告
+					Tooltip: 敌人的修饰词会短暂显示在其头顶
 				}
 
 				BossModifiers: {
-					 Label: Boss 可获得修饰词
-					 Tooltip: ""
+					Label: Boss 可获得修饰词
+					Tooltip: ""
 				}
 
 				ChanceForModifier: {
-					 Label: 修饰词几率 (%)
-					 Tooltip: ""
+					Label: 修饰词几率 (%)
+					Tooltip: ""
 				}
 
 				ForceModifier: {
-					 Label: 强制附加修饰词
-					 Tooltip: ""
+					Label: 强制附加修饰词
+					Tooltip: ""
 				}
 
 				ModifierEnum: {
-					 Label: 要强制的修饰词
-					 Tooltip: ""
+					Label: 要强制的修饰词
+					Tooltip: ""
 				}
 
 				NPCBlacklist: {
-					 Label: NPC 黑名单
-					 Tooltip: 此列表中的 NPC 永远不会获得修饰词
+					Label: NPC 黑名单
+					Tooltip: 此列表中的 NPC 永远不会获得修饰词
 				}
 
 				ModifierBlacklist: {
-					 Label: 修饰词黑名单
-					 Tooltip: 这些修饰词不会出现
-					 Enabled.Tooltip: 嗨
+					Label: 修饰词黑名单
+					Tooltip: 这些修饰词不会出现
+					Enabled.Tooltip: 嗨
 				}
 
 				ModifierAmount: {
-					 Label: 最大可能修饰词数量
-					 Tooltip: ""
+					Label: 最大可能修饰词数量
+					Tooltip: ""
 				}
 
 				ChanceForExtraModifier: {
-					 Label: 额外修饰词几率 (%)
-					 Tooltip: ""
+					Label: 额外修饰词几率 (%)
+					Tooltip: ""
 				}
 
 				AnnouncementsForever: {
-					 Label: 永久显示
-					 Tooltip: 修饰词名称将始终显示在敌人头顶
+					Label: 永久显示
+					Tooltip: 修饰词名称将始终显示在敌人头顶
 				}
 
 				Headers: {
-					 ModifierConfiguration: 修饰词配置
-					 Blacklists: 黑名单
-					 ModifierToggleHeader: 修饰词开关
-					 Rarity1Header: 常见修饰词
-					 Rarity2Header: 稀有修饰词
-					 Rarity3Header: 罕见修饰词
-					 Rarity4Header: 超级稀有修饰词
+					ModifierConfiguration: 修饰词配置
+					Blacklists: 黑名单
+					ModifierToggleHeader: 修饰词开关
+					Rarity1Header: 常见修饰词
+					Rarity2Header: 稀有修饰词
+					Rarity3Header: 罕见修饰词
+					Rarity4Header: 超级稀有修饰词
 				}
 
 				ModifierToggles: {
-					 Label: 修饰词开关
-					 Tooltip: ""
+					Label: 修饰词开关
+					Tooltip: ""
 				}
 
 				Armored: {
-					 Label: 重甲
-					 Tooltip: 防御力提升 50%
+					Label: 重甲
+					Tooltip: 防御力提升 50%
 				}
 
 				Blue: {
-					 Label: 蓝色
-					 Tooltip: 染成蓝色
+					Label: 蓝色
+					Tooltip: 染成蓝色
 				}
 
 				Green: {
-					 Label: 绿色
-					 Tooltip: 染成绿色
+					Label: 绿色
+					Tooltip: 染成绿色
 				}
 
 				Healthy: {
-					 Label: 健壮
-					 Tooltip: 生命值提升 50%
+					Label: 健壮
+					Tooltip: 生命值提升 50%
 				}
 
 				Impenetrable: {
-					 Label: 坚固
-					 Tooltip: 穿透性射弹在击中时会被摧毁
+					Label: 坚固
+					Tooltip: 穿透性射弹在击中时会被摧毁
 				}
 
 				Light: {
-					 Label: 轻盈
-					 Tooltip: 承受更多击退并且重力降低
+					Label: 轻盈
+					Tooltip: 承受更多击退并且重力降低
 				}
 
 				Menacing: {
-					 Label: 险恶
-					 Tooltip: 伤害提升 50%
+					Label: 险恶
+					Tooltip: 伤害提升 50%
 				}
 
 				Orange: {
-					 Label: 橙色
-					 Tooltip: 染成橙色
+					Label: 橙色
+					Tooltip: 染成橙色
 				}
 
 				Purple: {
-					 Label: 紫色
-					 Tooltip: 染成紫色
+					Label: 紫色
+					Tooltip: 染成紫色
 				}
 
 				Rampaging: {
-					 Label: 暴怒
-					 Tooltip: 对你造成极高的击退
+					Label: 暴怒
+					Tooltip: 对你造成极高的击退
 				}
 
 				Red: {
-					 Label: 红色
-					 Tooltip: 染成红色
+					Label: 红色
+					Tooltip: 染成红色
 				}
 
 				Regenerating: {
-					 Label: 再生
-					 Tooltip: 每秒回复 2% 生命值
+					Label: 再生
+					Tooltip: 每秒回复 2% 生命值
 				}
 
 				Slow: {
-					 Label: 缓慢
-					 Tooltip: 速度降低 50%
+					Label: 缓慢
+					Tooltip: 速度降低 50%
 				}
 
 				Sluggish: {
-					 Label: 迟钝
-					 Tooltip: 所有行动速度减半
+					Label: 迟钝
+					Tooltip: 所有行动速度减半
 				}
 
 				Splitting: {
-					 Label: 分裂
-					 Tooltip: 死亡时生成 2-3 个小型分身
+					Label: 分裂
+					Tooltip: 死亡时生成 2-3 个小型分身
 				}
 
 				Swift: {
-					 Label: 迅捷
-					 Tooltip: 速度提升 50%
+					Label: 迅捷
+					Tooltip: 速度提升 50%
 				}
 
 				Unrelenting: {
-					 Label: 不屈
-					 Tooltip: 获得击退免疫
+					Label: 不屈
+					Tooltip: 获得击退免疫
 				}
 
 				Wealthy: {
-					 Label: 富裕
-					 Tooltip: 掉落 5 倍金币
+					Label: 富裕
+					Tooltip: 掉落 5 倍金币
 				}
 
 				Yellow: {
-					 Label: 黄色
-					 Tooltip: 染成黄色
+					Label: 黄色
+					Tooltip: 染成黄色
 				}
 
 				Stinky: {
-					 Label: 恶臭
-					 Tooltip: 自身散发恶臭，击中时施加恶臭效果。造成 25% 额外伤害
+					Label: 恶臭
+					Tooltip: 自身散发恶臭，击中时施加恶臭效果。造成 25% 额外伤害
 				}
 
 				Shiny: {
-					 Label: 闪亮
-					 Tooltip: 在黑暗中发光并掉落火把
+					Label: 闪亮
+					Tooltip: 在黑暗中发光并掉落火把
 				}
 
 				Lovestruck: {
-					 Label: 热恋
-					 Tooltip: 造成伤害降低 50%，生成心形粒子，掉落 2 倍战利品
+					Label: 热恋
+					Tooltip: 造成伤害降低 50%，生成心形粒子，掉落 2 倍战利品
 				}
 
 				Poor: {
-					 Label: 一毛不拔
-					 Tooltip: 没有战利品掉落，移动速度降低 25%，生命值降低 25%
+					Label: 一毛不拔
+					Tooltip: 没有战利品掉落，移动速度降低 25%，生命值降低 25%
 				}
 
 				Pink: {
-					 Label: 粉色
-					 Tooltip: 染成粉色
+					Label: 粉色
+					Tooltip: 染成粉色
 				}
 
 				Big: {
-					 Label: 大型
-					 Tooltip: 体型和生命值提升 25%，伤害提升 20%，速度降低 10%
+					Label: 大型
+					Tooltip: 体型和生命值提升 25%，伤害提升 20%，速度降低 10%
 				}
 
 				Small: {
-					 Label: 小型
-					 Tooltip: 体型、伤害和生命值降低 25%，速度提升 20%
+					Label: 小型
+					Tooltip: 体型、伤害和生命值降低 25%，速度提升 20%
 				}
 
 				Fishy: {
-					 Label: 鱼腥
-					 Tooltip: 掉落任务鱼并且呈湿漉状态
+					Label: 鱼腥
+					Tooltip: 掉落任务鱼并且呈湿漉状态
 				}
 
 				Accelerating: {
-					 Label: 加速
-					 Tooltip: 速度提升至正常速度的 4 倍。击中时重置
+					Label: 加速
+					Tooltip: 速度提升至正常速度的 4 倍。击中时重置
 				}
 
 				Bloodthirsty: {
-					 Label: 嗜血
-					 Tooltip: 每次击中你时伤害提升 25%
+					Label: 嗜血
+					Tooltip: 每次击中你时伤害提升 25%
 				}
 
 				Bulletproof: {
-					 Label: 防弹
-					 Tooltip: 获得 80% 远程伤害抗性
+					Label: 防弹
+					Tooltip: 获得 80% 远程伤害抗性
 				}
 
 				Flaming: {
-					 Label: 燃烧
-					 Tooltip: 生成时带着火减益，留下火焰路径，速度提升 50%
+					Label: 燃烧
+					Tooltip: 生成时带着火减益，留下火焰路径，速度提升 50%
 				}
 
 				Fortifying: {
-					 Label: 筑垒
-					 Tooltip: 获得一个光环，为其他敌人提供 50% 伤害减免
+					Label: 筑垒
+					Tooltip: 获得一个光环，为其他敌人提供 50% 伤害减免
 				}
 
 				Hexproof: {
-					 Label: 辟法
-					 Tooltip: 持续伤害效果对其无效
+					Label: 辟法
+					Tooltip: 持续伤害效果对其无效
 				}
 
 				Huge: {
-					 Label: 庞大
-					 Tooltip: 生命值、体型和伤害提升。速度降低
+					Label: 庞大
+					Tooltip: 生命值、体型和伤害提升。速度降低
 				}
 
 				Infested: {
-					 Label: 寄生
-					 Tooltip: 周期性生成幼蛛
+					Label: 寄生
+					Tooltip: 周期性生成幼蛛
 				}
 
 				Metallic: {
-					 Label: 金属
-					 Tooltip: 防御力提升 2 倍，承受较少击退，并掉落矿石
+					Label: 金属
+					Tooltip: 防御力提升 2 倍，承受较少击退，并掉落矿石
 				}
 
 				Miniature: {
-					 Label: 微型
-					 Tooltip: 生命值、体型和伤害降低。速度提升
+					Label: 微型
+					Tooltip: 生命值、体型和伤害降低。速度提升
 				}
 
 				Possessed: {
-					 Label: 附身
-					 Tooltip: 将其普通 AI 替换为幽灵 AI
+					Label: 附身
+					Tooltip: 将其普通 AI 替换为幽灵 AI
 				}
 
 				Rallying: {
-					 Label: 集结
-					 Tooltip: 获得一个光环，强化其他敌人的伤害和速度
+					Label: 集结
+					Tooltip: 获得一个光环，强化其他敌人的伤害和速度
 				}
 
 				Shielded: {
-					 Label: 护盾
-					 Tooltip: 获得 80% 近战伤害抗性
+					Label: 护盾
+					Tooltip: 获得 80% 近战伤害抗性
 				}
 
 				Stealthy: {
-					 Label: 潜行
-					 Tooltip: 缓慢变为近乎隐形，被击中时完全显形
+					Label: 潜行
+					Tooltip: 缓慢变为近乎隐形，被击中时完全显形
 				}
 
 				Vaccinated: {
-					 Label: 抗体
-					 Tooltip: 免疫所有减益
+					Label: 抗体
+					Tooltip: 免疫所有减益
 				}
 
 				Vampiric: {
-					 Label: 吸血
-					 Tooltip: 造成伤害时回复一定生命值
+					Label: 吸血
+					Tooltip: 造成伤害时回复一定生命值
 				}
 
 				Veiled: {
-					 Label: 法盾
-					 Tooltip: 获得 80% 魔法和召唤伤害抗性
+					Label: 法盾
+					Tooltip: 获得 80% 魔法和召唤伤害抗性
 				}
 
 				Reflective: {
-					 Label: 反射
-					 Tooltip: 偶尔反射射弹
+					Label: 反射
+					Tooltip: 偶尔反射射弹
 				}
 
 				Volatile: {
-					 Label: 易爆
-					 Tooltip: 死亡时爆炸
+					Label: 易爆
+					Tooltip: 死亡时爆炸
 				}
 
-
 				Frenzied: {
-					 Label: 狂乱
-					 Tooltip: 随着生命值下降，伤害和速度提升
+					Label: 狂乱
+					Tooltip: 随着生命值下降，伤害和速度提升
 				}
 
 				Scary: {
-					 Label: 恐怖
-					 Tooltip: 拥有一个造成混乱效果的光环
+					Label: 恐怖
+					Tooltip: 拥有一个造成混乱效果的光环
 				}
 
 				Sleepy: {
-					 Label: 困倦
-					 Tooltip: 10 秒未受伤害后进入睡眠
+					Label: 困倦
+					Tooltip: 10 秒未受伤害后进入睡眠
 				}
 
 				Polite: {
-					 Label: 礼貌
-					 Tooltip: 首次看到你时和死亡时会向你打招呼
+					Label: 礼貌
+					Tooltip: 首次看到你时和死亡时会向你打招呼
 				}
 
 				Smoky: {
-					 Label: 烟雾
-					 Tooltip: 产生烟雾
+					Label: 烟雾
+					Tooltip: 产生烟雾
 				}
 
 				Chained: {
-					 Label: 禁锢
-					 Tooltip: 被锁链拴在你身边，无法离开你周围一定半径
+					Label: 禁锢
+					Tooltip: 被锁链拴在你身边，无法离开你周围一定半径
 				}
 
 				Devouring: {
-					 Label: 吞噬
-					 Tooltip: 吞噬遇到的任何生命值低于或等于其自身的敌人
+					Label: 吞噬
+					Tooltip: 吞噬遇到的任何生命值低于或等于其自身的敌人
 				}
 
 				Hyper: {
-					 Label: 亢奋
-					 Tooltip: 所有行动速度翻倍
+					Label: 亢奋
+					Tooltip: 所有行动速度翻倍
 				}
 
 				Imaginery: {
-					 Label: 虚幻
-					 Tooltip: 呈半透明。接触后消失
+					Label: 虚幻
+					Tooltip: 呈半透明。接触后消失
 				}
 
 				Juggernaut: {
-					 Label: 主宰
-					 Tooltip: 属性提升。无击退。迟钝。掉落 2 倍战利品
+					Label: 主宰
+					Tooltip: 属性提升。无击退。迟钝。掉落 2 倍战利品
 				}
 
 				Merchant: {
-					 Label: 商人
-					 Tooltip: 友好。它会给你一件随机免费物品然后消失
+					Label: 商人
+					Tooltip: 友好。它会给你一件随机免费物品然后消失
 				}
 
 				Showman: {
-					 Label: 炫
-					 Tooltip: 死亡时爆炸成烟雾和鸟群
+					Label: 炫
+					Tooltip: 死亡时爆炸成烟雾和鸟群
 				}
 
 				Solidifed: {
-					 Label: 固化
-					 Tooltip: 无法再穿过物块
+					Label: 固化
+					Tooltip: 无法再穿过物块
 				}
 
 				Undying: {
-					 Label: 不死
-					 Tooltip: 死亡前在 5 点生命值状态下坚持 5 秒
+					Label: 不死
+					Tooltip: 死亡前在 5 点生命值状态下坚持 5 秒
 				}
 
 				Worm: {
-					 Label: 蠕虫
-					 Tooltip: 生成时带有数个滞后于头部的身体段
+					Label: 蠕虫
+					Tooltip: 生成时带有数个滞后于头部的身体段
 				}
 
 				Swarming: {
-					 Label: 集群
-					 Tooltip: 生成时创建数个自身的副本
+					Label: 集群
+					Tooltip: 生成时创建数个自身的副本
 				}
 
 				Aquarian: {
-					 Label: 公爵
-					 Tooltip: 偶尔会像猪龙鱼公爵一样冲刺
+					Label: 公爵
+					Tooltip: 偶尔会像猪龙鱼公爵一样冲刺
 				}
 
 				Flucuating: {
-					 Label: 波动
-					 Tooltip: 2倍生命值，体型随时间周期性变大变小
+					Label: 波动
+					Tooltip: 2倍生命值，体型随时间周期性变大变小
 				}
 
 				Skeletal: {
-					 Label: 骸骨
-					 Tooltip: 生成时带有 2 个骷髅王之手
+					Label: 骸骨
+					Tooltip: 生成时带有 2 个骷髅王之手
 				}
 
 				Disguised: {
-					 Label: 伪装
-					 Tooltip: 将其外观变为蓝色史莱姆
+					Label: 伪装
+					Tooltip: 将其外观变为蓝色史莱姆
 				}
 
 				Shimmering: {
-					 Label: 闪耀
-					 Tooltip: 周期性显现和消失，移动速度提升 25%，掉落 2 倍战利品
+					Label: 闪耀
+					Tooltip: 周期性显现和消失，移动速度提升 25%，掉落 2 倍战利品
 				}
 
 				Celebratory: {
-					 Label: 庆典
-					 Tooltip: 偶尔生成彩纸。死亡时爆炸成烟花
+					Label: 庆典
+					Tooltip: 偶尔生成彩纸。死亡时爆炸成烟花
 				}
 
 				Sticky: {
-					 Label: 粘性
-					 Tooltip: 留下一条蛛网轨迹
+					Label: 粘性
+					Tooltip: 留下一条蛛网轨迹
 				}
 
 				Medic: {
-					 Label: 医护
-					 Tooltip: 治疗一定半径内的所有其他敌人
+					Label: 医护
+					Tooltip: 治疗一定半径内的所有其他敌人
 				}
 
 				Sorcerous: {
-					 Label: 巫术
-					 Tooltip: 偶尔向玩家发射混乱球
+					Label: 巫术
+					Tooltip: 偶尔向玩家发射混乱球
 				}
 
 				Creepy: {
-					 Label: 恐怖
-					 Tooltip: 生成时带有 10 个爬行者
+					Label: 恐怖
+					Tooltip: 生成时带有 10 个爬行者
 				}
 
 				Shy: {
-					 Label: 害羞
-					 Tooltip: 停止移动，被注视时承受的伤害大幅降低
+					Label: 害羞
+					Tooltip: 停止移动，被注视时承受的伤害大幅降低
 				}
 
 				Dramatic: {
-					 Label: 戏剧
-					 Tooltip: 拥有独立的生成和击败消息
+					Label: 戏剧
+					Tooltip: 拥有独立的生成和击败消息
 				}
 
 				Buzzing: {
-					 Label: 蜂鸣
-					 Tooltip: 受到伤害时产生蜜蜂
+					Label: 蜂鸣
+					Tooltip: 受到伤害时产生蜜蜂
 				}
 
 				Royal: {
-					 Label: 贵族
-					 Tooltip: 属性提升。生成自身的小型版本
+					Label: 贵族
+					Tooltip: 属性提升。生成自身的小型版本
 				}
 
 				Rainbow: {
-					 Label: 彩虹
-					 Tooltip: 呈彩虹色，掉落物增加 5 倍
+					Label: 彩虹
+					Tooltip: 呈彩虹色，掉落物增加 5 倍
 				}
 
 				Modifying: {
-					 Label: 变异
-					 Tooltip: 每 10 秒添加一个新的修饰词，直到达到上限
+					Label: 变异
+					Tooltip: 每 10 秒添加一个新的修饰词，直到达到上限
 				}
 			}
 
 			EnemyModifiersClientConfig: {
-				 DisplayName: 客户端配置
-				 Headers.Announcements: 修饰词公告
+				DisplayName: 客户端配置
+				Headers.Announcements: 修饰词公告
 
 				announcementsEnabled: {
-					 Label: 修饰词显示
-					 Tooltip: 生物会在头顶显示其所拥有的修饰词
+					Label: 修饰词显示
+					Tooltip: 生物会在头顶显示其所拥有的修饰词
 				}
 
 				announcementsForever: {
-					 Label: 修饰词永久显示
-					 Tooltip: 修饰词名称将显示直到生物死亡
+					Label: 修饰词永久显示
+					Tooltip: 修饰词名称将显示直到生物死亡
 				}
 
 				announcementsDuration: {
-					 Label: 修饰词持续时间
-					 Tooltip: 修饰词将显示这么多秒
+					Label: 修饰词持续时间
+					Tooltip: 修饰词将显示这么多秒
 				}
 			}
 
 			ModifierPicker: {
-				 Tooltip: ""
+				Tooltip: ""
 
 				ModifierEnum: {
-					 Label: 修饰词枚举
-					 Tooltip: ""
+					Label: 修饰词枚举
+					Tooltip: ""
 				}
 			}
 
 			ConfigModifierID: {
-				 Tooltip: ""
-				 Armored.Label: 重甲
-				 Blue.Label: 蓝色
-				 Green.Label: 绿色
-				 Healthy.Label: 健壮
-				 Impenetrable.Label: 坚固
-				 Light.Label: 轻盈
-				 Menacing.Label: 险恶
-				 Orange.Label: 橙色
-				 Purple.Label: 紫色
-				 Rampaging.Label: 暴怒
-				 Red.Label: 红色
-				 Regenerating.Label: 再生
-				 Slow.Label: 缓慢
-				 Sluggish.Label: 迟钝
-				 Splitting.Label: 分裂
-				 Swift.Label: 迅捷
-				 Unrelenting.Label: 不屈
-				 Wealthy.Label: 富裕
-				 Yellow.Label: 黄色
-				 Shiny.Label: 闪亮
-				 Stinky.Label: 恶臭
-				 Lovestruck.Label: 热恋
-				 Poor.Label: 一毛不拔
-				 Pink.Label: 粉色
-				 Big.Label: 大型
-				 Small.Label: 小型
-				 Fishy.Label: 鱼腥
-				 Accelerating.Label: 加速
-				 Bloodthirsty.Label: 嗜血
-				 Bulletproof.Label: 防弹
-				 Flaming.Label: 燃烧
-				 Fortifying.Label: 筑垒
-				 Hexproof.Label: 辟法
-				 Huge.Label: 庞大
-				 Infested.Label: 寄生
-				 Metallic.Label: 金属
-				 Miniature.Label: 微型
-				 Possessed.Label: 附身
-				 Rallying.Label: 集结
-				 Shielded.Label: 护盾
-				 Stealthy.Label: 潜行
-				 Vaccinated.Label: 抗体
-				 Vampiric.Label: 吸血
-				 Veiled.Label: 法盾
-				 Reflective.Label: 反射
-				 Volatile.Label: 易爆
-				 Frenzied.Label: 狂乱
-				 Scary.Label: 恐怖
-				 Sleepy.Label: 困倦
-				 Polite.Label: 礼貌
-				 Smoky.Label: 烟雾
-				 Chained.Label: 禁锢
-				 Devouring.Label: 吞噬
-				 Hyper.Label: 亢奋
-				 Imaginary.Label: 虚幻
-				 Juggernaut.Label: 主宰
-				 Merchant.Label: 商人
-				 Rainbow.Label: 彩虹
-				 Showman.Label: 炫
-				 Solidified.Label: 固化
-				 Undying.Label: 不死
-				 Worm.Label: 蠕虫
-				 Swarming.Label: 集群
-				 Aquarian.Label: 公爵
-				 Fluctuating.Label: 波动
-				 Skeletal.Label: 骸骨
-				 Disguised.Label: 伪装
-				 Shimmering.Label: 闪耀
-				 Celebratory.Label: 庆典
-				 Sticky.Label: 粘性
-				 Medic.Label: 医护
-				 Sorcerous.Label: 巫术
-				 Creepy.Label: 恐怖
-				 Shy.Label: 害羞
-				 Dramatic.Label: 戏剧
-				 Buzzing.Label: 蜂鸣
-				 Royal.Label: 贵族
-				 Modifying.Label: 变异
-				 Warping.Label: 扭曲
-				 Delerious.Label: 不义
-				 Duke.Label: 公爵
-				 Pyro.Label: 燥热
-				 Solidifed.Label: 凝固
-				 Unstable.Label: 不稳定
-				 Nested.Label: 分身
-				 Lethal.Label: 致命
-				 Sentry.Label: 警惕
-				 Monumental.Label: 不朽
-			}
-
-			ModifierToggle: {
-				 Tooltip: ""
-
-				Enabled: {
-					 Label: 启用
-					 Tooltip: 此词缀是否会出现
-				}
-
-				 Headers.FirstHeader: 第一
-
-				Name: {
-					 Label: 名字
-					 Tooltip: ""
-				}
-
-				enumVal: {
-					 Label: 枚举值
-					 Tooltip: ""
-				}
+				Tooltip: ""
+				Armored.Label: 重甲
+				Blue.Label: 蓝色
+				Green.Label: 绿色
+				Healthy.Label: 健壮
+				Impenetrable.Label: 坚固
+				Light.Label: 轻盈
+				Menacing.Label: 险恶
+				Orange.Label: 橙色
+				Purple.Label: 紫色
+				Rampaging.Label: 暴怒
+				Red.Label: 红色
+				Regenerating.Label: 再生
+				Slow.Label: 缓慢
+				Sluggish.Label: 迟钝
+				Splitting.Label: 分裂
+				Swift.Label: 迅捷
+				Unrelenting.Label: 不屈
+				Wealthy.Label: 富裕
+				Yellow.Label: 黄色
+				Shiny.Label: 闪亮
+				Stinky.Label: 恶臭
+				Lovestruck.Label: 热恋
+				Poor.Label: 一毛不拔
+				Pink.Label: 粉色
+				Big.Label: 大型
+				Small.Label: 小型
+				Fishy.Label: 鱼腥
+				Accelerating.Label: 加速
+				Bloodthirsty.Label: 嗜血
+				Bulletproof.Label: 防弹
+				Flaming.Label: 燃烧
+				Fortifying.Label: 筑垒
+				Hexproof.Label: 辟法
+				Huge.Label: 庞大
+				Infested.Label: 寄生
+				Metallic.Label: 金属
+				Miniature.Label: 微型
+				Possessed.Label: 附身
+				Rallying.Label: 集结
+				Shielded.Label: 护盾
+				Stealthy.Label: 潜行
+				Vaccinated.Label: 抗体
+				Vampiric.Label: 吸血
+				Veiled.Label: 法盾
+				Reflective.Label: 反射
+				Volatile.Label: 易爆
+				Frenzied.Label: 狂乱
+				Scary.Label: 恐怖
+				Sleepy.Label: 困倦
+				Polite.Label: 礼貌
+				Smoky.Label: 烟雾
+				Chained.Label: 禁锢
+				Devouring.Label: 吞噬
+				Hyper.Label: 亢奋
+				Imaginary.Label: 虚幻
+				Juggernaut.Label: 主宰
+				Merchant.Label: 商人
+				Rainbow.Label: 彩虹
+				Showman.Label: 炫
+				Solidified.Label: 固化
+				Undying.Label: 不死
+				Worm.Label: 蠕虫
+				Swarming.Label: 集群
+				Aquarian.Label: 公爵
+				Fluctuating.Label: 波动
+				Skeletal.Label: 骸骨
+				Disguised.Label: 伪装
+				Shimmering.Label: 闪耀
+				Celebratory.Label: 庆典
+				Sticky.Label: 粘性
+				Medic.Label: 医护
+				Sorcerous.Label: 巫术
+				Creepy.Label: 恐怖
+				Shy.Label: 害羞
+				Dramatic.Label: 戏剧
+				Buzzing.Label: 蜂鸣
+				Royal.Label: 贵族
+				Modifying.Label: 变异
 			}
 		}
-
 
 		Modifiers: {
 			Armored: {
-				 DisplayName: 重甲
-				 Tooltip: 防御力提升 50%
+				DisplayName: 重甲
+				Tooltip: 防御力提升 50%
 			}
 
 			Blue: {
-				 DisplayName: 蓝色
-				 Tooltip: 蓝色
+				DisplayName: 蓝色
+				Tooltip: 蓝色
 			}
 
 			Green: {
-				 DisplayName: 绿色
-				 Tooltip: 绿色
+				DisplayName: 绿色
+				Tooltip: 绿色
 			}
 
 			Healthy: {
-				 DisplayName: 健壮
-				 Tooltip: 生命值提升 50%
+				DisplayName: 健壮
+				Tooltip: 生命值提升 50%
 			}
 
 			Impenetrable: {
-				 DisplayName: 坚固
-				 Tooltip: 穿透性射弹在击中时会被摧毁
+				DisplayName: 坚固
+				Tooltip: 穿透性射弹在击中时会被摧毁
 			}
 
 			Light: {
-				 DisplayName: 轻盈
-				 Tooltip: 承受更多击退并且重力降低
+				DisplayName: 轻盈
+				Tooltip: 承受更多击退并且重力降低
 			}
 
 			Menacing: {
-				 DisplayName: 险恶
-				 Tooltip: 伤害提升 50%
+				DisplayName: 险恶
+				Tooltip: 伤害提升 50%
 			}
 
 			Orange: {
-				 DisplayName: 橙色
-				 Tooltip: 橙色
+				DisplayName: 橙色
+				Tooltip: 橙色
 			}
 
 			Purple: {
-				 DisplayName: 紫色
-				 Tooltip: 紫色
+				DisplayName: 紫色
+				Tooltip: 紫色
 			}
 
 			Rampaging: {
-				 DisplayName: 暴怒
-				 Tooltip: 对你造成极高的击退
+				DisplayName: 暴怒
+				Tooltip: 对你造成极高的击退
 			}
 
 			Red: {
-				 DisplayName: 红色
-				 Tooltip: 红色
+				DisplayName: 红色
+				Tooltip: 红色
 			}
 
 			Regenerating: {
-				 DisplayName: 再生
-				 Tooltip: 每秒回复 2% 生命值
+				DisplayName: 再生
+				Tooltip: 每秒回复 2% 生命值
 			}
 
 			Slow: {
-				 DisplayName: 缓慢
-				 Tooltip: 速度降低 50%
+				DisplayName: 缓慢
+				Tooltip: 速度降低 50%
 			}
 
 			Sluggish: {
-				 DisplayName: 迟钝
-				 Tooltip: 所有行动速度减半
+				DisplayName: 迟钝
+				Tooltip: 所有行动速度减半
 			}
 
 			Splitting: {
-				 DisplayName: 分裂
-				 Tooltip: 死亡时生成 2-3 个属性降低的自身小型版本
+				DisplayName: 分裂
+				Tooltip: 死亡时生成 2-3 个属性降低的自身小型版本
 			}
 
 			Swift: {
-				 DisplayName: 迅捷
-				 Tooltip: 速度提升 50%
+				DisplayName: 迅捷
+				Tooltip: 速度提升 50%
 			}
 
 			Unrelenting: {
-				 DisplayName: 不屈
-				 Tooltip: 获得击退免疫
+				DisplayName: 不屈
+				Tooltip: 获得击退免疫
 			}
 
 			Wealthy: {
-				 DisplayName: 富裕
-				 Tooltip: 掉落 5 倍金币
+				DisplayName: 富裕
+				Tooltip: 掉落 5 倍金币
 			}
 
 			Yellow: {
-				 DisplayName: 黄色
-				 Tooltip: 黄色
+				DisplayName: 黄色
+				Tooltip: 黄色
 			}
 
 			Accelerating: {
-				 DisplayName: 加速
-				 Tooltip: 持续获得速度，最高可达正常速度的 4 倍。如果他们击中你或用近战攻击击中他们，则速度重置
+				DisplayName: 加速
+				Tooltip: 持续获得速度，最高可达正常速度的 4 倍。如果他们击中你或用近战攻击击中他们，则速度重置
 			}
 
 			Bloodthirsty: {
-				 DisplayName: 嗜血
-				 Tooltip: 每次击中你时伤害提升 25%
+				DisplayName: 嗜血
+				Tooltip: 每次击中你时伤害提升 25%
 			}
 
 			Bulletproof: {
-				 DisplayName: 防弹
-				 Tooltip: 获得 80% 远程伤害抗性
+				DisplayName: 防弹
+				Tooltip: 获得 80% 远程伤害抗性
 			}
 
 			Flaming: {
-				 DisplayName: 燃烧
-				 Tooltip: 生成时带有永久性的着火减益，留下伤害性火焰路径，速度提升 50%
+				DisplayName: 燃烧
+				Tooltip: 生成时带有永久性的着火减益，留下伤害性火焰路径，速度提升 50%
 			}
 
 			Fortifying: {
-				 DisplayName: 筑垒
-				 Tooltip: 防御力降低 50%。获得一个光环，为其他敌人提供 50% 伤害抗性
+				DisplayName: 筑垒
+				Tooltip: 防御力降低 50%。获得一个光环，为其他敌人提供 50% 伤害抗性
 			}
 
 			Hexproof: {
-				 DisplayName: 辟法
-				 Tooltip: 持续伤害效果对其无效
+				DisplayName: 辟法
+				Tooltip: 持续伤害效果对其无效
 			}
 
 			Huge: {
-				 DisplayName: 庞大
-				 Tooltip: 体型和伤害提升 40%，生命值提升 50%，速度降低 25%
+				DisplayName: 庞大
+				Tooltip: 体型和伤害提升 40%，生命值提升 50%，速度降低 25%
 			}
 
 			Infested: {
-				 DisplayName: 寄生
-				 Tooltip: 周期性生成幼蛛
+				DisplayName: 寄生
+				Tooltip: 周期性生成幼蛛
 			}
 
 			Metallic: {
-				 DisplayName: 金属
-				 Tooltip: 防御力提升，承受较少击退，并掉落矿石
+				DisplayName: 金属
+				Tooltip: 防御力提升，承受较少击退，并掉落矿石
 			}
 
 			Miniature: {
-				 DisplayName: 微型
-				 Tooltip: 体型和生命值降低 50%，伤害降低 25%，速度提升 50%
+				DisplayName: 微型
+				Tooltip: 体型和生命值降低 50%，伤害降低 25%，速度提升 50%
 			}
 
 			Possessed: {
-				 DisplayName: 附身
-				 Tooltip: 将其普通 AI 替换为幽灵 AI
+				DisplayName: 附身
+				Tooltip: 将其普通 AI 替换为幽灵 AI
 			}
 
 			Rallying: {
-				 DisplayName: 集结
-				 Tooltip: 获得一个光环，强化其他敌人：+25% 伤害和 +25% 速度
+				DisplayName: 集结
+				Tooltip: 获得一个光环，强化其他敌人：+25% 伤害和 +25% 速度
 			}
 
 			Shielded: {
-				 DisplayName: 护盾
-				 Tooltip: 获得 80% 近战伤害抗性
+				DisplayName: 护盾
+				Tooltip: 获得 80% 近战伤害抗性
 			}
 
 			Stealthy: {
-				 DisplayName: 潜行
-				 Tooltip: 缓慢变为近乎隐形，被击中时完全显形
+				DisplayName: 潜行
+				Tooltip: 缓慢变为近乎隐形，被击中时完全显形
 			}
 
 			Vaccinated: {
-				 DisplayName: 抗体
-				 Tooltip: 免疫所有减益
+				DisplayName: 抗体
+				Tooltip: 免疫所有减益
 			}
 
 			Vampiric: {
-				 DisplayName: 吸血
-				 Tooltip: 造成伤害时回复一定生命值
+				DisplayName: 吸血
+				Tooltip: 造成伤害时回复一定生命值
 			}
 
 			Veiled: {
-				 DisplayName: 法盾
-				 Tooltip: 获得 80% 魔法和召唤伤害抗性
+				DisplayName: 法盾
+				Tooltip: 获得 80% 魔法和召唤伤害抗性
 			}
 
 			Chained: {
-				 DisplayName: 禁锢
-				 Tooltip: 生成时被锁链拴在你身边，无法离开你周围一定半径
+				DisplayName: 禁锢
+				Tooltip: 生成时被锁链拴在你身边，无法离开你周围一定半径
 			}
 
 			Devouring: {
-				 DisplayName: 吞噬
-				 Tooltip: 吞噬遇到的任何生命值低于或等于其自身的敌人。吞噬时，会回复自身生命值并提升最大生命值和伤害
+				DisplayName: 吞噬
+				Tooltip: 吞噬遇到的任何生命值低于或等于其自身的敌人。吞噬时，会回复自身生命值并提升最大生命值和伤害
 			}
 
 			Hyper: {
-				 DisplayName: 亢奋
-				 Tooltip: 所有行动速度翻倍
+				DisplayName: 亢奋
+				Tooltip: 所有行动速度翻倍
 			}
 
 			Imaginary: {
-				 DisplayName: 虚幻
-				 Tooltip: 呈半透明。以任何方式接触后消失
+				DisplayName: 虚幻
+				Tooltip: 呈半透明。以任何方式接触后消失
 			}
 
 			Juggernaut: {
-				 DisplayName: 主宰
-				 Tooltip: 体型增大 60%。生命值提升 250%。伤害和防御力提升 50%。免疫击退，但内置迟钝效果（行动速度减半）。掉落 2 倍战利品
+				DisplayName: 主宰
+				Tooltip: 体型增大 60%。生命值提升 250%。伤害和防御力提升 50%。免疫击退，但内置迟钝效果（行动速度减半）。掉落 2 倍战利品
 			}
 
 			Merchant: {
-				 DisplayName: 商人
-				 Tooltip: 将其通常的 AI 替换为城镇 NPC AI。它会给你一件来自旅行商人当前商店的随机免费物品然后消失
-				 Interaction: 别告诉任何人，但收下这个。假装你从未见过我。
-				 AllIGot: 我给你的就这些了。
+				DisplayName: 商人
+				Tooltip: 将其通常的 AI 替换为城镇 NPC AI。它会给你一件来自旅行商人当前商店的随机免费物品然后消失
+				Interaction: 别告诉任何人，但收下这个。假装你从未见过我。
+				AllIGot: 我给你的就这些了。
 			}
 
 			Rainbow: {
-				 DisplayName: 彩虹
-				 Tooltip: 呈彩虹色，拥有 2 倍生命值，掉落物增加 10 倍
+				DisplayName: 彩虹
+				Tooltip: 呈彩虹色，拥有 2 倍生命值，掉落物增加 10 倍
 			}
 
 			Showman: {
-				 DisplayName: 炫
-				 Tooltip: 死亡时爆炸成烟雾和鸟群
+				DisplayName: 炫
+				Tooltip: 死亡时爆炸成烟雾和鸟群
 			}
 
 			Solidified: {
-				 DisplayName: 固化
-				 Tooltip: 无法再穿过物块
+				DisplayName: 固化
+				Tooltip: 无法再穿过物块
 			}
 
 			Undying: {
-				 DisplayName: 不死
-				 Tooltip: 死亡前在 5 点生命值状态下坚持 5 秒
+				DisplayName: 不死
+				Tooltip: 死亡前在 5 点生命值状态下坚持 5 秒
 			}
 
 			Warping: {
-				 DisplayName: 扭曲
-				 Tooltip: 当它们生命值降至一半时，你会与它们交换位置
+				DisplayName: 扭曲
+				Tooltip: 当它们生命值降至一半时，你会与它们交换位置
 			}
 
 			Worm: {
-				 DisplayName: 蠕虫
-				 Tooltip: 生成时带有数个滞后于头部的身体段。获得击退免疫和 2 倍生命值
+				DisplayName: 蠕虫
+				Tooltip: 生成时带有数个滞后于头部的身体段。获得击退免疫和 2 倍生命值
 			}
 
 			WormBody: {
-				 DisplayName: ""
-				 Tooltip: ""
+				DisplayName: ""
+				Tooltip: ""
 			}
 
 			Swarming: {
-				 DisplayName: 集群
-				 Tooltip: 生成时创建数个自身的副本。4 倍生命值，2 倍体型
+				DisplayName: 集群
+				Tooltip: 生成时创建数个自身的副本。4 倍生命值，2 倍体型
 			}
 
 			Delirious: {
-				 DisplayName: 不义
-				 Tooltip: 周期性改变其 AI，并在改变时喷射射弹
+				DisplayName: 不义
+				Tooltip: 周期性改变其 AI，并在改变时喷射射弹
 			}
 
 			Aquarian: {
-				 DisplayName: 公爵
-				 Tooltip: 偶尔会像猪龙鱼公爵一样冲刺
+				DisplayName: 公爵
+				Tooltip: 偶尔会像猪龙鱼公爵一样冲刺
 			}
 
 			Nested: {
-				 DisplayName: 分身
-				 Tooltip: 200% 生命值，200% 体型，60% 移动速度，免疫击退，受伤时偶尔会生成自身的小型版本
+				DisplayName: 分身
+				Tooltip: 200% 生命值，200% 体型，60% 移动速度，免疫击退，受伤时偶尔会生成自身的小型版本
 			}
 
 			Royal: {
-				 DisplayName: 贵族
-				 Tooltip: 200% 生命值，200% 体型，60% 移动速度，免疫击退，受伤时偶尔会生成自身的小型版本
+				DisplayName: 贵族
+				Tooltip: 200% 生命值，200% 体型，60% 移动速度，免疫击退，受伤时偶尔会生成自身的小型版本
 			}
 
 			Modifying: {
-				 DisplayName: 变异
-				 Tooltip: 每 10 秒添加一个新的修饰词，直到达到上限
+				DisplayName: 变异
+				Tooltip: 每 10 秒添加一个新的修饰词，直到达到上限
 			}
 
 			Reflective: {
-				 DisplayName: 反射
-				 Tooltip: 每 15 秒反射射弹 1.5 秒。反射时变为灰色，你有 0.5 秒时间反应
+				DisplayName: 反射
+				Tooltip: 每 15 秒反射射弹 1.5 秒。反射时变为灰色，你有 0.5 秒时间反应
 			}
 
 			Fluctuating: {
-				 DisplayName: 波动
-				 Tooltip: 2倍生命值，体型随时间周期性变大变小。防御力和伤害随体型变化。最大 2.5 倍伤害和防御力。最小 0.25 倍伤害和防御力
+				DisplayName: 波动
+				Tooltip: 2倍生命值，体型随时间周期性变大变小。防御力和伤害随体型变化。最大 2.5 倍伤害和防御力。最小 0.25 倍伤害和防御力
 			}
 
 			Shiny: {
-				 DisplayName: 闪亮
-				 Tooltip: 在黑暗中发光并掉落火把
+				DisplayName: 闪亮
+				Tooltip: 在黑暗中发光并掉落火把
 			}
 
 			Skeletal: {
-				 DisplayName: 骸骨
-				 Tooltip: 生成时带有 2 个骷髅王之手
+				DisplayName: 骸骨
+				Tooltip: 生成时带有 2 个骷髅王之手
 			}
 
 			Volatile: {
-				 DisplayName: 易爆
-				 Tooltip: 死亡时爆炸
+				DisplayName: 易爆
+				Tooltip: 死亡时爆炸
 			}
 
 			Disguised: {
-				 DisplayName: 伪装
-				 Tooltip: 将其外观变为蓝色史莱姆
+				DisplayName: 伪装
+				Tooltip: 将其外观变为蓝色史莱姆
 			}
 
 			Stinky: {
-				 DisplayName: 恶臭
-				 Tooltip: 自身散发恶臭，击中时施加恶臭效果。造成 25% 额外伤害
+				DisplayName: 恶臭
+				Tooltip: 自身散发恶臭，击中时施加恶臭效果。造成 25% 额外伤害
 			}
 
 			Lovestruck: {
-				 DisplayName: 热恋
-				 Tooltip: 造成伤害降低 50%，击中时和死亡时生成心形粒子。掉落 2 倍战利品
+				DisplayName: 热恋
+				Tooltip: 造成伤害降低 50%，击中时和死亡时生成心形粒子。掉落 2 倍战利品
 			}
 
 			Poor: {
-				 DisplayName: 一毛不拔
-				 Tooltip: 没有战利品掉落，移动速度降低 25%，生命值降低 25%
+				DisplayName: 一毛不拔
+				Tooltip: 没有战利品掉落，移动速度降低 25%，生命值降低 25%
 			}
 
 			Pink: {
-				 DisplayName: 粉色
-				 Tooltip: 染成粉色
+				DisplayName: 粉色
+				Tooltip: 染成粉色
 			}
 
 			Frenzied: {
-				 DisplayName: 狂乱
-				 Tooltip: 随着生命值下降，伤害和速度提升，最高可达双倍伤害和双倍速度。生命值低于 50% 时变为红色
+				DisplayName: 狂乱
+				Tooltip: 随着生命值下降，伤害和速度提升，最高可达双倍伤害和双倍速度。生命值低于 50% 时变为红色
 			}
 
 			Shimmering: {
-				 DisplayName: 闪耀
-				 Tooltip: 周期性显现和消失，移动速度提升 25%，掉落 2 倍战利品
+				DisplayName: 闪耀
+				Tooltip: 周期性显现和消失，移动速度提升 25%，掉落 2 倍战利品
 			}
 
 			Big: {
-				 DisplayName: 大型
-				 Tooltip: 体型和生命值提升 25%，伤害提升 20%，速度降低 10%
+				DisplayName: 大型
+				Tooltip: 体型和生命值提升 25%，伤害提升 20%，速度降低 10%
 			}
 
 			Small: {
-				 DisplayName: 小型
-				 Tooltip: 体型、伤害和生命值降低 25%，速度提升 20%
+				DisplayName: 小型
+				Tooltip: 体型、伤害和生命值降低 25%，速度提升 20%
 			}
 
 			Scary: {
-				 DisplayName: 恐怖
-				 Tooltip: 拥有一个造成混乱效果的光环
+				DisplayName: 恐怖
+				Tooltip: 拥有一个造成混乱效果的光环
 			}
 
 			Celebratory: {
-				 DisplayName: 庆典
-				 Tooltip: 偶尔生成彩纸。死亡时爆炸成烟花
+				DisplayName: 庆典
+				Tooltip: 偶尔生成彩纸。死亡时爆炸成烟花
 			}
 
 			Sleepy: {
-				 DisplayName: 困倦
-				 Tooltip: 10 秒未受伤害后进入睡眠。睡眠时被击中会受到额外伤害并醒来
+				DisplayName: 困倦
+				Tooltip: 10 秒未受伤害后进入睡眠。睡眠时被击中会受到额外伤害并醒来
 			}
 
 			Sticky: {
-				 DisplayName: 粘性
-				 Tooltip: 留下一条蛛网轨迹
+				DisplayName: 粘性
+				Tooltip: 留下一条蛛网轨迹
 			}
 
 			Medic: {
-				 DisplayName: 医护
-				 Tooltip: 治疗一定半径内的所有其他敌人。治疗效果等同于再生修饰词
+				DisplayName: 医护
+				Tooltip: 治疗一定半径内的所有其他敌人。治疗效果等同于再生修饰词
 			}
 
 			Sorcerous: {
-				 DisplayName: 巫术
-				 Tooltip: 偶尔向玩家发射混乱球（仅在哥布林入侵后出现）
+				DisplayName: 巫术
+				Tooltip: 偶尔向玩家发射混乱球（仅在哥布林入侵后出现）
 			}
 
 			Creepy: {
-				 DisplayName: 恐怖
-				 Tooltip: 生成时带有 10 个爬行者
+				DisplayName: 恐怖
+				Tooltip: 生成时带有 10 个爬行者
 			}
 
 			Shy: {
-				 DisplayName: 害羞
-				 Tooltip: 停止移动，被注视时承受的伤害大幅降低
+				DisplayName: 害羞
+				Tooltip: 停止移动，被注视时承受的伤害大幅降低
 			}
 
 			Polite: {
-				 DisplayName: 礼貌
-				 Tooltip: 首次看到你时和死亡时会向你打招呼
+				DisplayName: 礼貌
+				Tooltip: 首次看到你时和死亡时会向你打招呼
 			}
 
 			Fishy: {
-				 DisplayName: 鱼腥
-				 Tooltip: 掉落任务鱼并且呈湿漉状态
+				DisplayName: 鱼腥
+				Tooltip: 掉落任务鱼并且呈湿漉状态
 			}
 
 			Smoky: {
-				 DisplayName: 烟雾
-				 Tooltip: 产生烟雾
+				DisplayName: 烟雾
+				Tooltip: 产生烟雾
 			}
 
 			Dramatic: {
-				 DisplayName: 戏剧
-				 Tooltip: 拥有独立的生成和击败消息。仅适用于非 Boss 单位
+				DisplayName: 戏剧
+				Tooltip: 拥有独立的生成和击败消息。仅适用于非 Boss 单位
 			}
 
 			Buzzing: {
-				 DisplayName: 蜂鸣
-				 Tooltip: 受到伤害时产生蜜蜂。仅在世界吞噬者/克苏鲁之脑之后出现
+				DisplayName: 蜂鸣
+				Tooltip: 受到伤害时产生蜜蜂。仅在世界吞噬者/克苏鲁之脑之后出现
 			}
 		}
-		 Projectiles.Explosion.DisplayName: 爆炸
+
+		Projectiles.Explosion.DisplayName: 爆炸
 	}
 }
