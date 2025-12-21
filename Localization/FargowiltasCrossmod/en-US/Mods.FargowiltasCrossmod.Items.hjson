@@ -300,7 +300,7 @@ MarniteEnchant: {
 		'''
 		10% increased placement speed and +5 tile placement range
 		Lasers strike nearby enemies while not attacking, or while using tools
-		Effects of [i:CalamityMod/MarniteRepulsionShield] Marnite Repulsion Shield
+		[i:CalamityMod/MarniteRepulsionShield] Effects of Marnite Repulsion Shield
 		'''
 }
 
@@ -324,7 +324,7 @@ WulfrumEnchant: {
 		The drone scans enemies it collides with
 		Scanning enemies tells you their debuff weaknesses and resistances
 		Green means weakness, red means resistance
-		Scanned enemies also take extra damage over time when afflicted with any debuff
+		Scanned enemies also take extra flat damage over time when afflicted with any debuff
 		'''
 }
 
@@ -334,9 +334,9 @@ GaleForce: {
 		'''
 		Grants unlimited jumps in the air
 		Disables wings if this effect is enabled
-		[i:FargowiltasCrossmod/DesertProwlerEnchant] Hold W while jumping to launch upward quickly
-		[i:FargowiltasCrossmod/DesertProwlerEnchant] Hold S while jumping to dive downwards
-		[i:FargowiltasCrossmod/SnowRuffianEnchant] Hold W to slow fall
+		[i:FargowiltasCrossmod/DesertProwlerEnchant] Hold UP while jumping to launch upward quickly
+		[i:FargowiltasCrossmod/DesertProwlerEnchant] Hold DOWN while jumping to dive downwards
+		[i:FargowiltasCrossmod/SnowRuffianEnchant] Hold UP to slow fall
 		[i:FargowiltasCrossmod/VictideEnchant] Holding jump generates sharp spines attached to you
 		[i:FargowiltasCrossmod/VictideEnchant] Once 6 spines are spawned, the next jump launches them out to home onto targets
 		[i:FargowiltasCrossmod/SulphurEnchant] Spines inflict Sulphuric Poisoning
@@ -520,11 +520,6 @@ SeaKing: {
 Bandit: {
 	DisplayName: Bandit
 	Tooltip: "'Anything is a weapon if you throw it hard enough.'"
-}
-
-DrunkPrincess: {
-	DisplayName: Drunk Princess
-	Tooltip: Not gonna copy paste any of these quotes man
 }
 
 BrimstoneWitch: {
