@@ -1,0 +1,261 @@
+ChaosHeader: "{$Mods.SuperSoulsDLC.Items.ChaosForce.DisplayName}"
+TessellationHeader: "{$Mods.SuperSoulsDLC.Items.TessellationForce.DisplayName}"
+BalanceHeader: "{$Mods.SuperSoulsDLC.Items.BalanceForce.DisplayName}"
+EndingHeader: "{$Mods.SuperSoulsDLC.Items.ConclusionForce.DisplayName}"
+HighlandHeader: "{$Mods.SuperSoulsDLC.Items.HighlandForce.DisplayName}"
+AgeHeader: "{$Mods.SuperSoulsDLC.Items.AgeForce.DisplayName}"
+ComplexionHeader: "{$Mods.SuperSoulsDLC.Items.ComplexionForce.DisplayName}"
+DarknessHeader: "{$Mods.SuperSoulsDLC.Items.DarknessForce.DisplayName}"
+FabricationHeader: "{$Mods.SuperSoulsDLC.Items.FabricationForce.DisplayName}"
+MetallurgyHeader: "{$Mods.SuperSoulsDLC.Items.MetallurgyForce.DisplayName}"
+WorldHeader: "{$Mods.SuperSoulsDLC.Items.WorldForce.DisplayName}"
+WormwoodEffect: Blooming Hooks
+WormwoodDefenseEffect: Minion Defense
+FlowerCrownEffect: Flower Crown
+BotanicalSymbioteEffect: Botanical Symbiote
+LittleWoesEffect: Little Woes
+VoidspaceEffect: Voidspace Flames
+SubspaceLocketEffect: Subspace Locket
+VoidspaceEmblemEffect: Voidspace Emblem
+BagOfCharmsEffect: Bag of Charms
+VibrantEffect: Vibrant Pistol Boost
+HarvestersScytheEffect: Harvester's Scythe
+GuideToIlluminationEffect: Guide to Illumination
+MrGlorpEffect: Mr. Glorp
+IlluminantLanternEffect: Illuminant Lantern
+SafetySwitchEffect: Safety Switch
+RockingHorseEffect: Rocking Horse
+TwilightAssassinEffect: Holo Eye
+BladeNecklaceEffect: Blade Necklace
+BlinkPackEffect: Blink Pack
+GravityAnchorEffect: Gravity Anchor
+PatchLeatherEffect: Snake Minions
+SunlightAmuletEffect: Sunlight Amulet
+BandOfDoorEffect: Band of Door
+SteelerWheelerEffect: Steeler Wheeler
+FrostArtifactEffect: Polar Cannons
+FrigidHourglassEffect: Frigid Hourglass
+ShardGuardEffect: Shard Guard
+EndothermicAfterburnerEffect: Endothermic Afterburner
+FrigidEffect: Frigid Javelin Boost
+FrigidRobeEffect: Frigid Javelin Bounce
+ShatterShardChestplateEffect: Shatter Shards
+ShoeIceEffect: Shoe Ice
+MrEepyEffect: Mr. Eepy
+ElementalEffect: Elemental Blink
+FocusReticleEffect: Focus Reticle
+AcidicInjectionEffect: Overkill Injection
+VoidmageIncubatorEffect: Voidmage Incubator
+EarthenEffect: Melee Shred
+GreedierRingEffect: Greedier Ring
+RockCandyEffect: Rock Candy
+AutoClickerEffect: Auto Clicker
+CursedEffect: Ruby Monolith
+HeartInAJarEffect: Heart in a Jar
+CursedAppleEffect: Cursed Apple
+SyntheticLiverEffect: Synthetic Liver
+MrMcMillenEffect: Mr. McMillen
+SerpentSpineEffect: Serpent Spine
+HyperdriveEffect: Hyperdrive
+MidnightPrismEffect: Midnight Prism
+SupernovaEmblemEffect: Supernova Emblem
+AlchemistsCharmEffect: Alchemist's Charm
+PlasmaShrimpEffect: Plasma Shrimp
+WishingStarEffect: Wishing Star
+BlazingQuiverEffect: Blazing Quiver
+BackupBowEffect: Backup Bow
+BagOfAmmoGatheringEffect: Bag of Ammo Gathering
+InfinityPouchEffect: Infinity Pouch
+FortressGeneratorEffect: Fortress Generator
+WispInAJarEffect: Wisp in a Jar
+SandwichEffect: Sandwich
+BundleOfSnakesEffect: Bundle of Snakes
+CalculatorEffect: Calculator
+HydrokineticAntennaeEffect: Hydrokinetic Antennae
+PricklyPearShieldEffect: Prickly Pear Shield
+BulwarkOfTheAncientsEffect: Bulwark of the Ancients
+ChallengerRingEffect: Challenger's Ring
+RotHeartEffect: Rot Heart
+DrillHandEffect: Drill Arm
+EarthDriveEffect: Earth Drive
+LockpickEffect: Lockpick
+DrillforgeEffect: Missile Tail
+ExperimentalInjectionEffect: Experimental Injection
+TinyPlanetoidEffect: Tiny Planetoid
+SubspaceBoostersEffect: Subspace Boosters
+UltimatePolarizerEffect: Ultimate Polarizer
+GildedBladeWingsEffect: Gilded Blade Wings
+VisionAmuletEffect: Elemental Amulet
+WardingCharmEffect: Warding Charm
+SunbulbEffect: Sunbulb
+AuroraEffect: Aurora Slimes
+CommandersGaunletEffect: Gauntlet of the Commander
+ConstructionPDAEffect: Construction PDA
+BiologicalEffect: Gas Station
+TimeTurnerEffect: Time Turner
+KingBillEffect: King Bill
+MetalNozzleEffect: Metal Nozzle
+ChronoEffect: Time Borrowing
+JellyMushroomEffect: Jelly Mushroom
+SaviorsHeartEffect: Savior's Heart
+EquilibriumEffect: Release Fog
+GrandSpectralEffect: Grand Spectral
+SaintlyEyeballEffect: The Saint's Eyeball
+FiveStarGeneralEffect: Minion Slots
+LampreyScarfEffect: Lamprey Scarf
+CircuitChipEffect: Circuit Chip
+BumpAttackEffect: Bump Attack
+EnchantedAmberRingEffect: Enchanted Amber Ring
+ArmillarySphereEffect: Armillary Sphere
+LittlePuppetEffect: Little Puppet
+ForestEffect: Thorn Growth
+EdgewalkerEffect: Edgewalker
+WalnutOnFireEffect: Walnut on Fire
+ArrowCaseEffect: Arrow Case
+FungusEffect: Mushroom Sentry
+HoneyMushroomEffect: Honey Mushroom
+CounsellorsFanEffect: Counsellor's Fan
+IndividualCombatEffect: Enemy Target Boost
+CardiotachometerEffect: Cardiotachometer
+RobinHatEffect: Robin Hat
+BowTriggerEffect: Mechanical Trigger
+OnyxEffect: Onyx Protection
+AlloyCrossEffect: Alloy Cross
+ShadowShackleEffect: Shadow Shackle
+NegatamaEffect: Negatama
+ZeroPennyEffect: Zero Penny
+ReflectorEffect: Reflection Shield
+PersonInDreamEffect: Person in Dream
+HeartOfOceanEffect: Heart of Ocean
+NegashieldEffect: Negashield
+SunGodEffect: Solar Burnt Attacks
+DeadRingerEffect: Dead Ringer
+SolarPanelEffect: Solar Panel
+WatchmanEffect: Team Acceleration
+MapleMushroomEffect: Maple Mushroom
+HourHandEffect: Hour Hand
+DivineTouchEffect: Godly Touch
+ChampionBeltEffect: Champion Belt
+PhilosophersStoneEffect: Philosopher-King's Stone
+StarflowerEffect: Starflower
+FungusDeluxeEffect: Fungus Deluxe
+TheBatterEffect: The Batter
+TheHolyTrinityEffect: The Holy Trinity
+CrossbowScopeEffect: Crossbow Scope
+TrashBagEffect: Trash Bag
+DivineNecklaceEffect: Divine Hairpin
+VanguardBreastpieceEffect: Vanguard Breastpiece
+MasterShieldEffect: Master Shield
+AncientBlessingEffect: Ancient Blessing
+PrisonSearchlightEffect: Prison Searchlight
+GoblinVoodooDollEffect: Goblin Voodoo Doll
+AbyssCoreEffect: Abyss Core
+DarkHorseshoeBalloonEffect: Dark Horseshoe Balloon
+NerveFibreEffect: Nerve Fibre
+PureHeartEffect: Pure Heart
+SolarGauntletEffect: Solar Flare Gauntlet
+MasterYoyoSetEffect: Master Yoyo Set
+NebulaMagnetEffect: Nebula Magnet
+EmpowermentBloomEffect: Empowerment Bloom
+CursedFlowerEffect: Cursed Flower
+VortexScopeEffect: Vortex Scope
+DarkIceQuiverEffect: Dark Ice Quiver
+StardustScriptEffect: Stardust Script
+ProtectionEgisEffect: Protection Egis
+NationalDefenseEffect: National Defense
+ExplorationKitEffect: Exploration Kit
+SurvivalTrackerEffect: Survival Tracker
+SummonersTrackerEffect: Summoner's Tracker
+JournalEffect: Journal
+SparklingWellingtonsEffect: Sparkling Wellingtons
+TripletsShieldEffect: Triplet's Barrage Shield
+CeramicBalloonEffect: Ceramic Balloon
+AncientGarnetEffect: Inflict Wither
+GarnetCoreEffect: Cerise Stone
+FlintEffect: Flint
+AncientTantalumEffect: Electrified Immunity
+TurtleScentEffect: Turtle Scent
+SecurityGloveEffect: Security Glove
+AncientZincEffect: Fracture Immunity
+WhirlwindInABottleEffect: Whirlwind in a Bottle
+TantalumEffect: Tantalum Jump
+CharmOfLuckEffect: Charm of Luck
+WitherEffect: Wither Rage
+DemonCharmEffect: Demon Charm
+ScentKnucklesEffect: Scent Knuckles
+ZincEffect: Zinc Shield
+SanguineScrollEffect: Sanguine Scroll
+CalciumDoseEffect: Calcium Dose
+PooInABottleEffect: Poo in a Bottle
+BlueGlowingMushroomEffect: Blue Glowing Mushroom
+DynastyWoodEffect: Dynasty Gong
+MahoganyScrollEffect: Mahogany Scroll
+GreenGlowingMushroomEffect: Green Glowing Mushroom
+ExoticCactusEffect: Exotic Thorns
+ExoticPricklyPearEffect: Exotic Prickly Pear
+GuideToHealthRetributionEffect: Guide to Health Retribution
+ForestsEffect: Forest's Speed
+EngineerBeltEffect: Engineer Belt
+SpiralLeafEffect: Spiral Leaf
+SequenceRelicEffect: Sequence Relic
+BatScentEffect: Bat Scent
+ReptileEffect: Summon Rage
+ViciousCellsEffect: Vicious Cells
+ThornCrownEffect: Thorn Crown
+ExiledPrinceEffect: Exiled Dash
+ExiledGelEffect: Exiled Gel
+JungleHeartEffect: Jungle's Core
+HollowwoodEffect: Void Resistance
+ShadeCordsEffect: Shade Cords
+IgnitionStoneEffect: Ignition Stone
+OtherworldlyEffect: All Old One's Set Bonus
+SuperMedkitEffect: Super Medkit
+RainbowCurseEffect: Rainbow Curse
+TimeEffect: Time Dash
+TectonicEffect: Rock Ground Pound
+MagneticChargeEffect: Magnetic Charge
+VileCellsEffect: Vile Cells
+VoidEffect: Void Ground Pound
+RoyalDinnerServiceEffect: Royal Dinner Service
+TrenchSackEffect: Trench Sack
+ShuitherEffect: Shuither
+InkPotEffect: Ink Pot
+OrigamiEffect: Paper Cuts
+RealitySkullEffect: Reality Skull
+VoodooJetsEffect: Voodoo Jets
+PainterEffect: Additional Paint Drops
+RecycledEffect: Minion Commanding
+AlchemistsPouchEffect: Alchemist's Pouch
+SatelliteEffect: Satellite
+ToyEffect: Projectile Cursor Following
+ForbiddenBandanaEffect: Forbidden Bandana
+AncientCrystalEffect: On Hit Crystal Shards
+CrystalEffect: Crystal Shard Explosion
+CrystalGlovesEffect: Crystal Gloves
+ShimmerGlowingMushroomEffect: Gloopy Shimmering Mushroom
+FlashlightEffect: Flashlight
+RedGlowingMushroomEffect: Red Glowing Mushroom
+ExplosiveBoxEffect: Death Explosion
+ShuttlecocksEffect: Shuttlecocks
+TechnoboostEffect: Technoboost
+FakeFishyumEffect: Fishyum Minion
+CubeFolksBlessEffect: Cube Folk's Bless
+MagnesiumEffect: Magnesium Minion
+BelovezoarEffect: Belovezoar
+NoeticStoneEffect: Noetic Stone
+MercuryEffect: Mercury Dash
+SmokeInABottleEffect: Smoke in a Bottle
+CharcoalEffect: Charcoal Aim
+PaperWorksEffect: Paper Fireworks
+AmmoBeltEffect: Ammo Belt
+FireEffect: Yoyo Fire Waves
+EnchantedSheathEffect: Enchanted Sheath
+MagmaWatchEffect: Magma Watch
+IceCrystalEffect: 50% Mana Potion Save
+TundraNecklaceEffect: Tundra Necklace
+FrozenLilyBeeEffect: Frozen Lily Bee
+SandEffect: Desert Movement Speed
+BeastHandlerEffect: Beast Handler
+PygmyExtensionEffect: Pygmy Extension
+WaterEffect: Water Healing
+AquaWatchEffect: Aqua Watch

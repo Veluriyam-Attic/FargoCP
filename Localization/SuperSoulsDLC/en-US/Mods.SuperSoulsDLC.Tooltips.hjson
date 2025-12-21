@@ -1,0 +1,33 @@
+EnchantmentTooltips.ElementalEnchantment: "[i:SOTS/ElementalHelmet] Press {0} to teleport to your cursor, dealing 200% of your defense as damage to all enemies in your path"
+
+SOTSSoulTooltips: {
+	BerserkerSoul: Effects of the Serpent Spine, Hyperdrive, Midnight Prism, and Supernova Emblem
+	ArchWizardSoul: Effects of Alchemist's Charm, Plasma Shrimp, and Wishing Star
+	SniperSoul: Effects of Infinity Pouch, Blazing Quiver, Backup Bow, and Bag of Ammunition Gathering
+	ConjuristSoul: Effects of the Fortress Generator, Wisp in a Jar, Sandwich, Bundle of Snakes, Calculator, and Hydrokinetic Antennae
+	ColossusSoul: Effects of Bulwark of the Ancients, Challenger's Ring, and Ultimate Polarizer
+	WorldShaperSoul: Effects of Greedier Ring, Drill Arm, Earth Drive, and Lockpick
+	SupersonicSoul: Effects of Subspace Boosters
+	FlightMasterySoul: Effects of the Gilded Blade Wings
+}
+
+HJSoulTooltips: {
+	BerserkerSoul: Effects of Godly Touch, Champion Belt, and Philosopher-King's Stone
+	ArchWizardSoul: Effects of Starflower and Fungus Deluxe
+	SniperSoul: Effects of The Batter, The Holy Trinity, Crossbow Scope, and Trash Bag
+	ConjuristSoul: Effects of Divine Hairpin, Enchanted Amber Ring, Armillary Sphere, and Little Puppet
+	ColossusSoul: Effects of Vanguard Breastpiece, Master Shield, and Ancient Blessing
+	WorldShaperSoul: Effects of Prison Searchlight, Goblin Voodoo Doll, and Abyss Core
+	SupersonicSoul: Effects of Dark Horseshoe Balloon
+	TrawlerSoul: Effects of Nerve Fibre
+}
+
+MOSoulTooltips: {
+	BerserkerSoul: Effects of Solar Flare Gauntlet and Master Yoyo Set
+	ArchWizardSoul: Effects of Nebula Magnet, Empowerment Bloom, and Cursed Flower
+	SniperSoul: Effects of Vortex Scope and Dark Ice Quiver
+	ConjuristSoul: Effects of Stardust Script
+	ColossusSoul: Effects of Protection Egis and National Defense
+	WorldShaperSoul: Effects of Exploration Kit, Survival Tracker, Summoner's Tracker, and Journal
+	SupersonicSoul: Effects of Sparkling Wellingtons, Triplet's Barrage Shield, and Ceramic Balloon
+}
