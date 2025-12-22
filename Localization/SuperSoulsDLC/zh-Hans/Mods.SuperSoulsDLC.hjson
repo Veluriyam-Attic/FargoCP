@@ -68,7 +68,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:SOTS/FrostArtifactHelmet] Most melee and ranged attacks summon a handful of Polar Cannons that each deal 25% damage
-			[i:SuperSoulsDLC/FrigidEnchantment] Effects of Frigid Enchantment
+			[i:SuperSoulsDLC/FrigidEnchant] Effects of Frigid Enchantment
 			[i:SOTS/FrigidHourglass] Effects of Frigid Hourglass
 			[i:SOTS/ShardGuard] Effects of Shard Guard
 			[i:SOTS/EndothermicAfterburner] Effects of Endothermic Afterburner
@@ -79,7 +79,7 @@ Items: {
 		DisplayName: Patch Leather Enchantment
 		Tooltip:
 			'''
-			[i:SOTS/PatchLeatherHat] Summons 3 Flying Snakes to attack nearby enemies
+			[i:SOTS/PatchLeatherHat] Summons 3 flying snakes to attack nearby enemies
 			[i:SOTS/SunlightAmulet] Effects of Sunlight Amulet
 			[i:SOTS/BandOfDoor] Effects of Band of Door
 			[i:SOTS/SteelerWheeler] Effects of Steeler Wheeler
