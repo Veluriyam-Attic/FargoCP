@@ -1,4 +1,4 @@
-EnchantmentTooltips.ElementalEnchantment: "[i:SOTS/ElementalHelmet] Press {0} to teleport to your cursor, dealing 200% of your defense as damage to all enemies in your path"
+EnchantmentTooltips.ElementalEnchantment: "[i:SOTS/ElementalHelmet] 按下'{0}'键传送至鼠标处，对你路径上的所有敌人造成你防御值的200%点伤害"
 
 SOTSSoulTooltips: {
 	BerserkerSoul: Effects of the Serpent Spine, Hyperdrive, Midnight Prism, and Supernova Emblem
@@ -14,9 +14,9 @@ SOTSSoulTooltips: {
 HJSoulTooltips: {
 	BerserkerSoul: Effects of Godly Touch, Champion Belt, and Philosopher-King's Stone
 	ArchWizardSoul: Effects of Starflower and Fungus Deluxe
-	SniperSoul: Effects of The Batter, The Holy Trinity, Crossbow Scope, and Trash Bag
-	ConjuristSoul: Effects of Divine Hairpin, Enchanted Amber Ring, Armillary Sphere, and Little Puppet
-	ColossusSoul: Effects of Vanguard Breastpiece, Master Shield, and Ancient Blessing
+	SniperSoul: Effects of The Batter, Crossbow Scope, and Trash Bag
+	ConjuristSoul: Effects of Divine Hairpin, Enchanted Amber Ring, and Armillary Sphere
+	ColossusSoul: Effects of Vanguard Breastpiece, Master Shield, Ancient Blessing, and Eye of the Ocean
 	WorldShaperSoul: Effects of Prison Searchlight, Goblin Voodoo Doll, and Abyss Core
 	SupersonicSoul: Effects of Dark Horseshoe Balloon
 	TrawlerSoul: Effects of Nerve Fibre

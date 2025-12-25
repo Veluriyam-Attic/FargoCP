@@ -92,6 +92,7 @@ AuroraEffect: Aurora Slimes
 CommandersGaunletEffect: Gauntlet of the Commander
 ConstructionPDAEffect: Construction PDA
 BiologicalEffect: Gas Station
+FlareInABottleEffect: Flare in a Bottle
 TimeTurnerEffect: Time Turner
 KingBillEffect: King Bill
 MetalNozzleEffect: Metal Nozzle
@@ -120,13 +121,13 @@ CardiotachometerEffect: Cardiotachometer
 RobinHatEffect: Robin Hat
 BowTriggerEffect: Mechanical Trigger
 OnyxEffect: Onyx Protection
-AlloyCrossEffect: Alloy Cross
+DarkMagicMirrorEffect: Dark Magic Mirror
 ShadowShackleEffect: Shadow Shackle
 NegatamaEffect: Negatama
 ZeroPennyEffect: Zero Penny
 ReflectorEffect: Reflection Shield
 PersonInDreamEffect: Person in Dream
-HeartOfOceanEffect: Heart of Ocean
+HeartOfOceanEffect: Eye of the Ocean
 NegashieldEffect: Negashield
 SunGodEffect: Solar Burnt Attacks
 DeadRingerEffect: Dead Ringer

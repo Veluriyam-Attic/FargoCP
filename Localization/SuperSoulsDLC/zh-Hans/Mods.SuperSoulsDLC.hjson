@@ -1,308 +1,310 @@
 Items: {
 	CursedEnchant: {
-		DisplayName: Cursed Enchantment
+		DisplayName: 诅咒魔石
 		Tooltip:
 			'''
-			[i:SOTS/CursedHood] Summons a Ruby Monolith to your side
-			[i:SOTS/CursedHood] The closest enemy to you is afflicted with a curse
-			Upon taking damage, cursed enemies will Flare, taking 140% additional damage and dealing 140% damage to other nearby enemies
-			This effect has a 2 second cooldown
-			[i:SOTS/CursedApple] Effects of Cursed Apple
-			[i:SOTS/HeartInAJar] Effects of Heart in a Jar
-			[i:SOTS/PricklyPearShield] Effects of Prickly Pear Shield
-			[i:SOTS/RotHeart] Effects of Rot Heart
+			[i:SOTS/CursedHood] 召唤一块红玉石碑在你身边
+			[i:SOTS/CursedHood] 离最近的敌人将受到诅咒
+			   -被诅咒的敌人受到伤害时会被爆闪，并受到140%额外伤害，且会对附近敌人造成140%伤害
+			   -此效果有2秒冷却时间
+			[i:SOTS/CursedApple] 获得诅咒苹果的效果
+			[i:SOTS/HeartInAJar] 获得罐中之心的效果
+			[i:SOTS/PricklyPearShield] 获得刺梨盾的效果
+			[i:SOTS/RotHeart] 获得腐烂之心的效果
 			'''
 	}
 
 	DrillforgeEnchant: {
-		DisplayName: Drillforge Enchantment
+		DisplayName: 钻炉魔石
 		Tooltip:
 			'''
-			[i:SOTS/ExcavatorHelmet] Gain a Missile Launcher tail that attacks nearby enemies for 1 void
-			[i:SOTS/ExperimentalInjection] All effects of Experimental Injection
-			[i:SOTS/TinyPlanetoid] Effects of Tiny Planetoid
+			[i:SOTS/ExcavatorHelmet] 获得一条导弹发射器尾部，会消耗1点虚空值攻击附近敌人
+			[i:SOTS/ExperimentalInjection] 获得所有实验注射器的效果：
+			   -首次攻击会施加永久的出血，每秒造成5点伤害，并增加20点最大生命值
+			   -首次攻击会必定暴击，并增加20%暴击伤害
+			   -首次攻击会造成中毒debuff，并吸取生命值
+			   -增加5%伤害，攻击速度，移动速度
+			[i:SOTS/TinyPlanetoid] 获得微型小行星的效果
 			'''
 	}
 
 	EarthenEnchant: {
-		DisplayName: Earthen Enchantment
+		DisplayName: 陆地魔石
 		Tooltip:
 			'''
-			[i:SOTS/EarthenHelmet] Melee strikes have a chance to apply a stacking, permanent shred on enemies, making them take additional damage from all attacks
-			[i:SOTS/EarthenHelmet] Improves vision and provides light when worn
-			[i:SOTS/EarthenHelmet] Increases mining speed by 10%
-			[i:SOTS/RockCandy] Effects of Rock Candy
-			[i:SOTS/AutoClicker] Effects of Auto Clicker
+			[i:SOTS/EarthenHelmet] 近战攻击有概率对敌人施加一种可叠加的永久损伤，使敌人在所有攻击中受到额外的伤害
+			[i:SOTS/EarthenHelmet] 穿戴时会增强视线并提供光照
+			[i:SOTS/EarthenHelmet] 增加10%挖矿速度和移动速度
+			[i:SOTS/RockCandy] 获得岩石冰糖的效果
+			[i:SOTS/AutoClicker] 获得连点手套的效果
 			'''
 	}
 
 	ElementalEnchant: {
-		DisplayName: Elemental Enchantment
+		DisplayName: 元素魔石
 		Tooltip:
 			'''
-			[i:SOTS/ElementalHelmet] Press {0} to teleport to your cursor, dealing 200% of your defense as damage to all enemies in your path
-			[i:SOTS/ElementalHelmet] Increases max void by 100
-			[i:SOTS/ElementalHelmet] Increases void gain by 3
-			[i:SOTS/FocusReticle] Effects of Focus Reticle
-			[i:SOTS/AcidicInjection] Effects of Overkill Injection
-			[i:SOTS/VisionAmulet] All effects of Elemental Amulet
+			[i:SOTS/ElementalHelmet] 按下'{0}'键传送至鼠标处，对你路径上的所有敌人造成你防御值的200%点伤害
+			[i:SOTS/ElementalHelmet] 增加100点最大虚空值
+			[i:SOTS/ElementalHelmet] 增加3点虚空恢复量
+			[i:SOTS/FocusReticle] 获得聚焦十字镜的效果
+			[i:SOTS/AcidicInjection] 获得残杀注射器的效果
+			[i:SOTS/VisionAmulet] 获得所有元素护身符的效果
 			'''
 	}
 
 	FrigidEnchant: {
-		DisplayName: Frigid Enchantment
+		DisplayName: 极寒魔石
 		Tooltip:
 			'''
-			[i:SOTS/FrigidCrown] Effects of Ice Skates 
-			[i:SOTS/FrigidRobe] Frigid Javelin gains 3 additional bounces
-			[i:SOTS/FrigidRobe] Frigid Javelin no longer costs void
-			[i:SOTS/ShatterShardChestplate] Taking damage spawns 1-3 Shatter Shards
-			[i:SOTS/ShatterShardChestplate] Grants immunity to Chilled, Frozen, and Frostburn
-			[i:SOTS/ShoeIce] Effects of Shoe Ice
-			[i:SOTS/Sunbulb] Effects of Sunbulb
+			[i:SOTS/FrigidCrown] 获得溜冰鞋的效果
+			[i:SOTS/FrigidRobe] 极寒标枪获得额外3次弹跳机会
+			[i:SOTS/FrigidRobe] 极寒标枪不再消耗虚空值
+			[i:SOTS/ShatterShardChestplate] 受伤时会生成1-3块冰碎块围绕你
+			[i:SOTS/ShatterShardChestplate] 免疫冷冻，冰冻和霜冻debuff
+			[i:SOTS/ShoeIce] 获得冰鞋的效果
+			[i:SOTS/Sunbulb] 获得日光灯泡的效果
 			'''
 	}
 
 	FrostArtifactEnchant: {
-		DisplayName: Frost Artifact Enchantment
+		DisplayName: 霜遗魔石
 		Tooltip:
 			'''
-			[i:SOTS/FrostArtifactHelmet] Most melee and ranged attacks summon a handful of Polar Cannons that each deal 25% damage
-			[i:SuperSoulsDLC/FrigidEnchant] Effects of Frigid Enchantment
-			[i:SOTS/FrigidHourglass] Effects of Frigid Hourglass
-			[i:SOTS/ShardGuard] Effects of Shard Guard
-			[i:SOTS/EndothermicAfterburner] Effects of Endothermic Afterburner
+			[i:SOTS/FrostArtifactHelmet] 大多数近战和远程攻击都会召唤少量极地炮，每个极地炮造成25%伤害
+			[i:SuperSoulsDLC/FrigidEnchant] 获得极寒魔石的效果
+			[i:SOTS/FrigidHourglass] 获得极寒沙漏的效果
+			[i:SOTS/ShardGuard] 获得冰碎块护盾的效果
+			[i:SOTS/EndothermicAfterburner] 获得吸热后燃器的效果
 			'''
 	}
 
 	PatchLeatherEnchant: {
-		DisplayName: Patch Leather Enchantment
+		DisplayName: 皮衣魔石
 		Tooltip:
 			'''
-			[i:SOTS/PatchLeatherHat] Summons 3 flying snakes to attack nearby enemies
-			[i:SOTS/SunlightAmulet] Effects of Sunlight Amulet
-			[i:SOTS/BandOfDoor] Effects of Band of Door
-			[i:SOTS/SteelerWheeler] Effects of Steeler Wheeler
+			[i:SOTS/PatchLeatherHat] 召唤3只飞蛇协助战斗
+			[i:SOTS/SunlightAmulet] 获得日辉护身符的效果
+			[i:SOTS/BandOfDoor] 获得门之手环的效果
+			[i:SOTS/SteelerWheeler] 获得钢轮推车的效果
 			'''
 	}
 
 	TwilightAssassinEnchant: {
-		DisplayName: Twilight Assassin Enchantment
+		DisplayName: 薄光刺客魔石
 		Tooltip:
 			'''
-			[i:SOTS/TwilightAssassinsCirclet] Provides a Holo Eye minion to assist in combat
-			[i:SOTS/TwilightAssassinsCirclet] Increases max void by 50
-			[i:SOTS/TwilightAssassinsLeggings] Decreases Blink Pack cooldown by 20%
-			[i:SOTS/BladeNecklace] Effects of Blade Necklace
-			[i:SOTS/BlinkPack] Effects of Blink Pack
-			[i:SOTS/GravityAnchor] Effects of Gravity Anchor
+			[i:SOTS/TwilightAssassinsCirclet] 全息之眼现在会为你协助你战斗
+			[i:SOTS/TwilightAssassinsCirclet] 增加50点最大虚空值
+			[i:SOTS/TwilightAssassinsLeggings] 降低20%闪瞬包裹冷却时间
+			[i:SOTS/BladeNecklace] 获得剑刃项链的效果
+			[i:SOTS/BlinkPack] 获得闪瞬包裹的效果
+			[i:SOTS/GravityAnchor] 获得重力锚的效果
 			'''
 	}
 
 	VesperaEnchant: {
-		DisplayName: Vespera Enchantment
+		DisplayName: 薄暮魔石
 		Tooltip:
 			'''
-			[i:SOTS/VesperaMask] Increases max void by 50 and void gain by 50%
-			[i:SOTS/VesperaMask] Increases void gain by 1
-			[i:SOTS/IlluminantLantern] Effects of Illuminant Lantern
-			[i:SOTS/SafetySwitch] Effects of Safety Switch
-			[i:SOTS/RockingHorse] Effects of Rocking Horse
+			[i:SOTS/VesperaMask] 增加50点最大虚空值和50%虚空恢复量
+			[i:SOTS/VesperaMask] 增加1点虚空恢复量
+			[i:SOTS/IlluminantLantern] 获得辉光灯笼的效果
+			[i:SOTS/SafetySwitch] 获得安全开关的效果
+			[i:SOTS/RockingHorse] 获得摇摇马的效果
 			'''
 	}
 
 	VibrantEnchant: {
-		DisplayName: Vibrant Enchantment
+		DisplayName: 振荡魔石
 		Tooltip:
 			'''
-			[i:SOTS/VibrantHelmet] Vibrant Pistol fires three shots at once at the cost of accuracy
-			[i:SOTS/VibrantHelmet] Increases void gain by 2
-			[i:SOTS/HarvestersScythe] Effects of Harvester's Scythe
-			[i:SOTS/GuideToIllumination] Effects of Guide to Illumination
-			[i:SOTS/WardingCharm] Effects of Warding Charm
+			[i:SOTS/VibrantHelmet] 以射击精度为代价，使振荡手枪一次发射三发子弹
+			[i:SOTS/VibrantHelmet] 增加2点虚空恢复量
+			[i:SOTS/HarvestersScythe] 获得收割者之镰的效果
+			[i:SOTS/GuideToIllumination] 获得辉光指南的效果
+			[i:SOTS/WardingCharm] 获得守御护身符的效果
 			'''
 	}
 
 	VoidspaceRangerEnchant: {
-		DisplayName: Voidspace Ranger Enchantment
+		DisplayName: 虚游魔石
 		Tooltip:
 			'''
-			[i:SOTS/VoidspaceMask] Attacks permanently inflict the Subspace Flames debuff, which deals 10 damage per second
-			[i:SOTS/VoidspaceMask] When an enemy with Subspace Flames is killed, they deal damage to all other enemies equal to the cumulative damage they took from Subspace Flames
-			[i:SOTS/VoidspaceMask] Increases max void by 50
-			[i:SOTS/VoidspaceMask] Increases void gain by 4
-			[i:SOTS/VoidspaceBreastplate] When hurt, 15% of damage taken is converted into void
-			[i:SOTS/VoidspaceBreastplate] When using void, 15% of the void used is converted into life
-			[i:SOTS/SubspaceLocket] Effects of Subspace Locket
-			[i:SOTS/VoidspaceEmblem] Effects of Voidspace Emblem
-			[i:SOTS/BagOfCharms] Effects of Bag of Charms
+			[i:SOTS/VoidspaceMask] 攻击会永久造成亚空之焰debuff，每秒造成10点伤害
+			[i:SOTS/VoidspaceMask] 当一个拥有亚空之焰的敌人被杀死时，它们会对其他所有敌人造成伤害，伤害相当于从亚空之焰中累计受到的伤害
+			[i:SOTS/VoidspaceMask] 增加50点最大虚空值
+			[i:SOTS/VoidspaceMask] 增加4点虚空恢复量
+			[i:SOTS/VoidspaceBreastplate] 当受伤时，所受伤害的15%会转化为虚空值
+			[i:SOTS/VoidspaceBreastplate] 在使用虚空值时，使用的15%虚空值会转化为生命值
+			[i:SOTS/SubspaceLocket] 获得亚空间锁盒的效果
+			[i:SOTS/VoidspaceEmblem] 获得虚空间徽章的效果
+			[i:SOTS/BagOfCharms] 获得护身符袋的效果
 			'''
 	}
 
 	WormwoodEnchant: {
-		DisplayName: Wormwood Enchantment
+		DisplayName: 流胶木魔石
 		Tooltip:
 			'''
-			[i:SOTS/NatureWreath] Summons three Blooming Hooks to assist in combat
-			[i:SOTS/NatureWreath] Increases defense for every active minion
-			[i:SOTS/FlowerCrown] Effects of Flower Crown
-			[i:SOTS/BotanicalSymbiote] Effects of Botanical Symbiote
-			[i:SOTS/LittleWoes] Effects of Little Woes
+			[i:SOTS/NatureWreath] 召唤3个盛花钩协助战斗
+			[i:SOTS/NatureWreath] 每个生效的召唤物都会增加防御值
+			[i:SOTS/FlowerCrown] 获得繁花头冠的效果
+			[i:SOTS/BotanicalSymbiote] 获得植物共生体的效果
+			[i:SOTS/LittleWoes] 获得小哀灵的效果
 			'''
 	}
 
 	ChaosForce: {
-		DisplayName: Force of Chaos
+		DisplayName: 混沌之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/CursedEnchant] Effects of Cursed Enchantment
-			[i:SuperSoulsDLC/DrillforgeEnchant] Effects of Drillforge Enchantment
-			[i:SuperSoulsDLC/PatchLeatherEnchant] Effects of Patch Leather Enchantment
-			[i:SuperSoulsDLC/VesperaEnchant] Effects of Vespera Enchantment
-			[i:SuperSoulsDLC/VibrantEnchant] Effects of Vibrant Enchantment
-			[i:SuperSoulsDLC/WormwoodEnchant] Effects of Wormwood Enchantment
+			[i:SuperSoulsDLC/CursedEnchant] 获得诅咒魔石的效果
+			[i:SuperSoulsDLC/DrillforgeEnchant] 获得钻炉魔石的效果
+			[i:SuperSoulsDLC/PatchLeatherEnchant] 获得皮衣魔石的效果
+			[i:SuperSoulsDLC/VesperaEnchant] 获得薄暮魔石的效果
+			[i:SuperSoulsDLC/VibrantEnchant] 获得振荡魔石的效果
+			[i:SuperSoulsDLC/WormwoodEnchant] 获得流胶木魔石的效果
 			'''
 	}
 
 	TessellationForce: {
-		DisplayName: Force of Tessellation
+		DisplayName: 嵌形之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/EarthenEnchant] Effects of Earthen Enchantment
-			[i:SuperSoulsDLC/ElementalEnchant] Effects of Elemental Enchantment
-			[i:SuperSoulsDLC/FrostArtifactEnchant] Effects of Frost Artifact Enchantment
-			[i:SuperSoulsDLC/TwilightAssassinEnchant] Effects of Twilight Assassin Enchantment
-			[i:SuperSoulsDLC/VoidspaceRangerEnchant] Effects of Voidspace Ranger Enchantment
+			[i:SuperSoulsDLC/EarthenEnchant] 获得陆地魔石的效果
+			[i:SuperSoulsDLC/ElementalEnchant] 获得元素魔石的效果
+			[i:SuperSoulsDLC/FrostArtifactEnchant] 获得霜遗魔石的效果
+			[i:SuperSoulsDLC/TwilightAssassinEnchant] 获得薄光刺客魔石的效果
+			[i:SuperSoulsDLC/VoidspaceRangerEnchant] 获得虚游魔石的效果
 			'''
 	}
 
 	VoidlingEssence: {
-		DisplayName: Voidling's Essence
+		DisplayName: 虚渺精华
 		Tooltip:
 			'''
-			18% increased void damage
-			8% increased void crit chance
-			Increases max void by 50
-			'This is only the beginning...'
+			增加18%虚空伤害
+			增加8%虚空暴击率
+			增加50点最大虚空值
+			“这只是个开始……”
 			'''
 	}
 
 	VoidbearerSoul: {
-		DisplayName: Voidbearer's Soul
+		DisplayName: 载虚者之魂
 		Tooltip:
 			'''
-			22% increased void damage
-			10% increased void crit chance
-			Increases max void by 100
-			Effects of Synthetic Liver and Voidmage Incubator
-			Effects of Mr. Eepy, Mr. Glorp, and Mr. McMillen
-			'The call of the void grows ever louder...'
+			增加22%虚空伤害
+			增加10%虚空暴击率
+			增加100点最大虚空值
+			获得合成肝脏和虚空魔法孵化器的效果
+			获得困困先生、外星猫咪先生和麦克米伦先生的效果
+			“虚空的呼唤愈发响亮……”
 			'''
 	}
 
 	FungusEnchant: {
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/FungusHat] Double tap DOWN to place a fungus sentry
-			[i:ContinentOfJourney/HoneyMushroom] Effects of Honey Mushroom
-			[i:ContinentOfJourney/SimpleShield] Effects of Simple Shield
+			[i:ContinentOfJourney/FungusHat] 双击下键放置一只真菌哨兵
+			[i:ContinentOfJourney/LittlePuppet] 获得小小木偶的效果
+			[i:ContinentOfJourney/SimpleShield] 获得简易盾牌的效果
 			'''
-		DisplayName: Fungus Enchantment
+		DisplayName: 真菌魔石
 	}
 
 	AuroraEnchant: {
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/AuroraHeadwear] Aurora Slimes rotate around you, double tap DOWN to launch them
-			[i:ContinentOfJourney/CommandersGaunlet] Effects of Gaunlet of the Commander
-			[i:ContinentOfJourney/ConstructionPDA] Effects of Construction PDA
+			[i:ContinentOfJourney/AuroraHeadwear] 极光史莱姆围绕你旋转，双击下键将其发射出去
+			[i:ContinentOfJourney/CommandersGaunlet] 获得指挥官的手套的效果
+			[i:ContinentOfJourney/ConstructionPDA] 获得建造PDA的效果
 			'''
-		DisplayName: Aurora Enchantment
+		DisplayName: 极光魔石
 	}
 
 	BiologicEnchant: {
-		DisplayName: Biologic Enchantment
+		DisplayName: 生物学魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/BiologicalHelmet] Double tap DOWN to put down a gas station
-			[i:ContinentOfJourney/TimeTurner] Effects of Time Turner
-			[i:ContinentOfJourney/KingBill] Effects of King Bill
-			[i:ContinentOfJourney/MetalNozzle] Effects of Metal Nozzle
+			[i:ContinentOfJourney/BiologicalHelmet] 双击下键放置一座加油站
+			[i:ContinentOfJourney/FlareInABottle] 获得瓶中热焰的效果
+			[i:ContinentOfJourney/KingBill] 获得纸钞王的效果
+			[i:ContinentOfJourney/MetalNozzle] 获得金属喷头的效果
 			'''
 	}
 
 	ChronoEnchant: {
-		DisplayName: Chrono Enchantment
+		DisplayName: 钟盘魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/PerpetualHelmet] Double tap DOWN to borrow your team some time
-			[i:ContinentOfJourney/JellyMushroom] Effects of Jelly Mushroom
-			[i:ContinentOfJourney/SaviorsHeart] Effects of Savior's Heart
+			[i:ContinentOfJourney/PerpetualHelmet] 双击下键为你的队伍借一点时间
+			[i:ContinentOfJourney/Negatama] 获得负能量勾玉的效果
+			[i:ContinentOfJourney/SaviorsHeart] 获得救世主之心的效果
 			'''
 	}
 
 	EquilibriumEnchant: {
-		DisplayName: Equilibrium Enchantment
+		DisplayName: 衡态魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/EquilibriumMask] Releases fogs over time
-			[i:ContinentOfJourney/GrandSpectral] Effects of Grand Spectral
-			[i:ContinentOfJourney/SaintlyEyeball] Effects of The Saint's Eyeball
+			[i:ContinentOfJourney/EquilibriumMask] 定期释放白雾
+			[i:ContinentOfJourney/GrandSpectral] 获得大光谱的效果
+			[i:ContinentOfJourney/SaintlyEyeball] 获得圣人的眼球的效果
 			'''
 	}
 
 	FiveStarGeneralEnchant: {
-		DisplayName: Five-Star General Enchantment
+		DisplayName: 上将魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/HeliologyHelmet] Increases minion slots by 77%, but reduces base damage of minions by 38%
-			[i:ContinentOfJourney/LampreyScarf] Effects of Lamprey Scarf
-			[i:ContinentOfJourney/CircuitChip] Effects of Circuit Chip
-			[i:ContinentOfJourney/BumpAttack] Effects of Bump Attack
+			[i:ContinentOfJourney/HeliologyHelmet] 仆从上限提高77%，但是仆从基础伤害减少38%
+			[i:ContinentOfJourney/LampreyScarf] 获得七鳃鳗围巾的效果
+			[i:ContinentOfJourney/CircuitChip] 获得电路芯片的效果
 			'''
 	}
 
 	FlinxFurEnchant: {
-		DisplayName: Flinx Fur Enchantment
+		DisplayName: 雪怪魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/FlinxFurHat] Increases your max number of minions and sentries by 1
-			[i:ContinentOfJourney/FrameIron] Increases movement speed by 4% and acceleration by 6%
-			[i:ContinentOfJourney/CounsellorsFan] Effects of Counsellor's Fan
+			[i:ContinentOfJourney/FlinxFurHat] 增加1格最大哨兵数和最大仆从栏
+			[i:ContinentOfJourney/FrameIron] 提高4%移动速度与6%加速度
+			[i:ContinentOfJourney/CounsellorsFan] 获得军师的羽扇的效果
 			'''
 	}
 
 	ForestEnchant: {
-		DisplayName: Forest Enchantment
+		DisplayName: 森林魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/ForestHelmet] Grow thorns on hit enemies, release thorns when damaged
-			[i:ContinentOfJourney/Edgewalker] Effects of Edgewalker
-			[i:ContinentOfJourney/WalnutOnFire] Effects of Walnut on Fire
-			[i:ContinentOfJourney/ArrowCase] Effects of Arrow Case
+			[i:ContinentOfJourney/ForestHelmet] 击中敌人时生长荆棘，受到攻击时释放荆棘
+			[i:ContinentOfJourney/Edgewalker] 获得边行者的效果
+			[i:ContinentOfJourney/WalnutOnFire] 获得梨栗熟了的效果
+			[i:ContinentOfJourney/ArrowCase] 获得箭盒的效果
 			'''
 	}
 
 	IndividualCombatEnchant: {
-		DisplayName: Individual Combat Enchantment
+		DisplayName: 单兵魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/IndividualCombatHelmet] Reveals enemies and traps, hitting marked enemies gives a damage boost
-			[i:ContinentOfJourney/Cardiotachometer] Effects of Cardiotachometer
-			[i:ContinentOfJourney/RobinHat] Effects of Robin Hat
-			[i:ContinentOfJourney/BowTrigger] Effects of Mechanical Trigger
+			[i:ContinentOfJourney/IndividualCombatHelmet] 显示敌人与陷阱，击中被标记的敌人获得伤害加成
+			[i:ContinentOfJourney/Cardiotachometer] 获得心率仪的效果
+			[i:ContinentOfJourney/RobinHat] 获得罗宾汉之帽的效果
+			[i:ContinentOfJourney/BowTrigger] 获得机械扳机的效果
 			'''
 	}
 
 	OnyxEnchant: {
-		DisplayName: Onyx Enchantment
+		DisplayName: 玛瑙魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/DarkCrown] An onyx protects you
-			[i:ContinentOfJourney/AlloyCross] Effects of Alloy Cross
-			[i:ContinentOfJourney/ShadowShackle] Effects of Shadow Shackle
-			[i:ContinentOfJourney/Negatama] Effects of Negatama
-			[i:ContinentOfJourney/ZeroPenny] Effects of Zero Penny
+			[i:ContinentOfJourney/DarkCrown] 玛瑙石保护着你
+			[i:ContinentOfJourney/DarkMagicMirror] 获得黑魔镜的效果
+			[i:ContinentOfJourney/ShadowShackle] 获得影脚镣的效果
+			[i:ContinentOfJourney/ZeroPenny] 获得零元硬币的效果
 			'''
 	}
 
@@ -312,7 +314,6 @@ Items: {
 			'''
 			[i:ContinentOfJourney/ReflectorHelmet] Generates a shield that can reflect most hostile projectiles
 			[i:ContinentOfJourney/PersonInDream] Effects of Person in Dream
-			[i:ContinentOfJourney/HeartOfOcean] Effects of Heart of Ocean
 			[i:ContinentOfJourney/Negashield] Effects of Negashield
 			'''
 	}
@@ -322,8 +323,8 @@ Items: {
 		Tooltip:
 			'''
 			[i:ContinentOfJourney/SunlightHelmet] Ignites nearby enemies, attacks inflict Solar Burnt
-			[i:ContinentOfJourney/DeadRinger] Effects of Dead Ringer
 			[i:ContinentOfJourney/SolarPanel] Effects of Solar Panel
+			[i:ContinentOfJourney/TimeTurner] Effects of Time Turner
 			'''
 	}
 
@@ -332,7 +333,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:ContinentOfJourney/WatchmanHat] Accelerate your team upon hitting an enemy with a magic weapon
-			[i:ContinentOfJourney/MapleMushroom] Effects of Maple Mushroom
+			[i:ContinentOfJourney/DeadRinger] Effects of Dead Ringer
 			[i:ContinentOfJourney/HourHand] Effects of Hour Hand
 			'''
 	}
