@@ -204,7 +204,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:ContinentOfJourney/FungusHat] Double tap DOWN to place a fungus sentry
-			[i:ContinentOfJourney/HoneyMushroom] Effects of Honey Mushroom
+			[i:ContinentOfJourney/LittlePuppet] Effects of Little Puppet
 			[i:ContinentOfJourney/SimpleShield] Effects of Simple Shield
 			'''
 		DisplayName: Fungus Enchantment
@@ -225,7 +225,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:ContinentOfJourney/BiologicalHelmet] Double tap DOWN to put down a gas station
-			[i:ContinentOfJourney/TimeTurner] Effects of Time Turner
+			[i:ContinentOfJourney/FlareInABottle] Effects of Flare in a Bottle
 			[i:ContinentOfJourney/KingBill] Effects of King Bill
 			[i:ContinentOfJourney/MetalNozzle] Effects of Metal Nozzle
 			'''
@@ -236,7 +236,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:ContinentOfJourney/PerpetualHelmet] Double tap DOWN to borrow your team some time
-			[i:ContinentOfJourney/JellyMushroom] Effects of Jelly Mushroom
+			[i:ContinentOfJourney/Negatama] Effects of Negatama
 			[i:ContinentOfJourney/SaviorsHeart] Effects of Savior's Heart
 			'''
 	}
@@ -245,7 +245,7 @@ Items: {
 		DisplayName: Equilibrium Enchantment
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/EquilibriumMask] Releases fogs over time
+			[i:ContinentOfJourney/EquilibriumMask] Releases fog over time
 			[i:ContinentOfJourney/GrandSpectral] Effects of Grand Spectral
 			[i:ContinentOfJourney/SaintlyEyeball] Effects of The Saint's Eyeball
 			'''
@@ -258,7 +258,6 @@ Items: {
 			[i:ContinentOfJourney/HeliologyHelmet] Increases minion slots by 77%, but reduces base damage of minions by 38%
 			[i:ContinentOfJourney/LampreyScarf] Effects of Lamprey Scarf
 			[i:ContinentOfJourney/CircuitChip] Effects of Circuit Chip
-			[i:ContinentOfJourney/BumpAttack] Effects of Bump Attack
 			'''
 	}
 
@@ -299,9 +298,8 @@ Items: {
 		Tooltip:
 			'''
 			[i:ContinentOfJourney/DarkCrown] An onyx protects you
-			[i:ContinentOfJourney/AlloyCross] Effects of Alloy Cross
+			[i:ContinentOfJourney/DarkMagicMirror] Effects of Dark Magic Mirror
 			[i:ContinentOfJourney/ShadowShackle] Effects of Shadow Shackle
-			[i:ContinentOfJourney/Negatama] Effects of Negatama
 			[i:ContinentOfJourney/ZeroPenny] Effects of Zero Penny
 			'''
 	}
@@ -312,7 +310,6 @@ Items: {
 			'''
 			[i:ContinentOfJourney/ReflectorHelmet] Generates a shield that can reflect most hostile projectiles
 			[i:ContinentOfJourney/PersonInDream] Effects of Person in Dream
-			[i:ContinentOfJourney/HeartOfOcean] Effects of Heart of Ocean
 			[i:ContinentOfJourney/Negashield] Effects of Negashield
 			'''
 	}
@@ -322,8 +319,8 @@ Items: {
 		Tooltip:
 			'''
 			[i:ContinentOfJourney/SunlightHelmet] Ignites nearby enemies, attacks inflict Solar Burnt
-			[i:ContinentOfJourney/DeadRinger] Effects of Dead Ringer
 			[i:ContinentOfJourney/SolarPanel] Effects of Solar Panel
+			[i:ContinentOfJourney/TimeTurner] Effects of Time Turner
 			'''
 	}
 
@@ -332,7 +329,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:ContinentOfJourney/WatchmanHat] Accelerate your team upon hitting an enemy with a magic weapon
-			[i:ContinentOfJourney/MapleMushroom] Effects of Maple Mushroom
+			[i:ContinentOfJourney/DeadRinger] Effects of Dead Ringer
 			[i:ContinentOfJourney/HourHand] Effects of Hour Hand
 			'''
 	}
