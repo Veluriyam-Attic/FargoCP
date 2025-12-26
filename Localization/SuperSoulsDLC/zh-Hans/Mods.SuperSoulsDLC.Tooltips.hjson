@@ -1,33 +1,33 @@
 EnchantmentTooltips.ElementalEnchantment: "[i:SOTS/ElementalHelmet] 按下'{0}'键传送至鼠标处，对你路径上的所有敌人造成你防御值的200%点伤害"
 
 SOTSSoulTooltips: {
-	BerserkerSoul: Effects of the Serpent Spine, Hyperdrive, Midnight Prism, and Supernova Emblem
-	ArchWizardSoul: Effects of Alchemist's Charm, Plasma Shrimp, and Wishing Star
-	SniperSoul: Effects of Infinity Pouch, Blazing Quiver, Backup Bow, and Bag of Ammunition Gathering
-	ConjuristSoul: Effects of the Fortress Generator, Wisp in a Jar, Sandwich, Bundle of Snakes, Calculator, and Hydrokinetic Antennae
-	ColossusSoul: Effects of Bulwark of the Ancients, Challenger's Ring, and Ultimate Polarizer
-	WorldShaperSoul: Effects of Greedier Ring, Drill Arm, Earth Drive, and Lockpick
-	SupersonicSoul: Effects of Subspace Boosters
-	FlightMasterySoul: Effects of the Gilded Blade Wings
+	BerserkerSoul: 拥有骇蟒脊椎、超光速引擎、午夜棱镜和超新星徽章的效果
+	ArchWizardSoul: 拥有炼金术士护符、等离子虾和祈愿之星的效果
+	SniperSoul: 拥有无尽之袋、灼炎箭袋、后备弓和弹药集合袋的效果
+	ConjuristSoul: 拥有堡垒发生盾、罐中鬼火、三明治、双蛇捆束、计算器和流体动力触角的效果
+	ColossusSoul: 拥有远古壁垒、挑战者之戒和终极偏振器的效果
+	WorldShaperSoul: 拥有贪欲之戒、钻头手臂、陆地驱动器和开锁器的效果
+	SupersonicSoul: 拥有亚空助推靴的效果
+	FlightMasterySoul: 拥有耀刃之翼的效果
 }
 
 HJSoulTooltips: {
-	BerserkerSoul: Effects of Godly Touch, Champion Belt, and Philosopher-King's Stone
-	ArchWizardSoul: Effects of Starflower and Fungus Deluxe
-	SniperSoul: Effects of The Batter, Crossbow Scope, and Trash Bag
-	ConjuristSoul: Effects of Divine Hairpin, Enchanted Amber Ring, and Armillary Sphere
-	ColossusSoul: Effects of Vanguard Breastpiece, Master Shield, Ancient Blessing, and Eye of the Ocean
-	WorldShaperSoul: Effects of Prison Searchlight, Goblin Voodoo Doll, and Abyss Core
-	SupersonicSoul: Effects of Dark Horseshoe Balloon
-	TrawlerSoul: Effects of Nerve Fibre
+	BerserkerSoul: 拥有神之手、英灵腰带和哲人王之石的效果
+	ArchWizardSoul: 拥有星花和豪华蘑菇的效果
+	SniperSoul: 拥有击球手、弩镜和垃圾袋的效果
+	ConjuristSoul: 拥有圣洁发夹、附魔琥珀戒指和浑天仪的效果
+	ColossusSoul: 拥有冲锋胸牌、大师之盾、远古祝福妖和海洋之眼的效果
+	WorldShaperSoul: 拥有监狱探照灯、哥布林巫毒娃娃和深渊核心的效果
+	SupersonicSoul: 拥有黑马蹄气球的效果
+	TrawlerSoul: 拥有鱿鱼丝的效果
 }
 
 MOSoulTooltips: {
-	BerserkerSoul: Effects of Solar Flare Gauntlet and Master Yoyo Set
-	ArchWizardSoul: Effects of Nebula Magnet, Empowerment Bloom, and Cursed Flower
-	SniperSoul: Effects of Vortex Scope and Dark Ice Quiver
-	ConjuristSoul: Effects of Stardust Script
-	ColossusSoul: Effects of Protection Egis and National Defense
-	WorldShaperSoul: Effects of Exploration Kit, Survival Tracker, Summoner's Tracker, and Journal
-	SupersonicSoul: Effects of Sparkling Wellingtons, Triplet's Barrage Shield, and Ceramic Balloon
+	BerserkerSoul: 拥有耀斑手套和大师悠悠球装备的效果
+	ArchWizardSoul: 拥有星云磁石、赋能花和诅咒之花的效果
+	SniperSoul: 拥有星旋狙击镜和暗冰箭袋的效果
+	ConjuristSoul: 拥有星尘手稿的效果
+	ColossusSoul: 拥有庇护神盾和国之卫盾的效果
+	WorldShaperSoul: 拥有探险套件、生存监视器、召唤师监视器和日志的效果
+	SupersonicSoul: 拥有闪耀长筒靴、三重魔眼飞弹盾和陶瓷气球的效果
 }

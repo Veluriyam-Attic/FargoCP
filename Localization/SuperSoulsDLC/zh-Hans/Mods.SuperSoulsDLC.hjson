@@ -91,7 +91,7 @@ Items: {
 	}
 
 	TwilightAssassinEnchant: {
-		DisplayName: 薄光刺客魔石
+		DisplayName: 昏影魔石
 		Tooltip:
 			'''
 			[i:SOTS/TwilightAssassinsCirclet] 全息之眼现在会为你协助你战斗
@@ -207,9 +207,9 @@ Items: {
 	FungusEnchant: {
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/FungusHat] 双击下键放置一只真菌哨兵
+			哨兵会在周围召唤蘑菇孢子
+			召唤半径根据哨兵的伤害而变化
 			[i:ContinentOfJourney/LittlePuppet] 获得小小木偶的效果
-			[i:ContinentOfJourney/SimpleShield] 获得简易盾牌的效果
 			'''
 		DisplayName: 真菌魔石
 	}
@@ -217,7 +217,7 @@ Items: {
 	AuroraEnchant: {
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/AuroraHeadwear] 极光史莱姆围绕你旋转，双击下键将其发射出去
+			[i:ContinentOfJourney/AuroraHeadwear] 极光史莱姆围绕你旋转，双击{$Key.DOWN}键将其发射出去
 			[i:ContinentOfJourney/CommandersGaunlet] 获得指挥官的手套的效果
 			[i:ContinentOfJourney/ConstructionPDA] 获得建造PDA的效果
 			'''
@@ -228,7 +228,7 @@ Items: {
 		DisplayName: 生物学魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/BiologicalHelmet] 双击下键放置一座加油站
+			[i:ContinentOfJourney/BiologicalHelmet] 双击{$Key.DOWN}键放置一座加油站
 			[i:ContinentOfJourney/FlareInABottle] 获得瓶中热焰的效果
 			[i:ContinentOfJourney/KingBill] 获得纸钞王的效果
 			[i:ContinentOfJourney/MetalNozzle] 获得金属喷头的效果
@@ -239,7 +239,7 @@ Items: {
 		DisplayName: 钟盘魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/PerpetualHelmet] 双击下键为你的队伍借一点时间
+			[i:ContinentOfJourney/PerpetualHelmet] 双击{$Key.DOWN}键为你的队伍借一点时间
 			[i:ContinentOfJourney/Negatama] 获得负能量勾玉的效果
 			[i:ContinentOfJourney/SaviorsHeart] 获得救世主之心的效果
 			'''
@@ -276,7 +276,7 @@ Items: {
 	}
 
 	ForestEnchant: {
-		DisplayName: 森林魔石
+		DisplayName: 林海魔石
 		Tooltip:
 			'''
 			[i:ContinentOfJourney/ForestHelmet] 击中敌人时生长荆棘，受到攻击时释放荆棘
@@ -309,576 +309,583 @@ Items: {
 	}
 
 	ReflectorEnchant: {
-		DisplayName: Reflector Enchantment
+		DisplayName: 反射魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/ReflectorHelmet] Generates a shield that can reflect most hostile projectiles
-			[i:ContinentOfJourney/PersonInDream] Effects of Person in Dream
-			[i:ContinentOfJourney/Negashield] Effects of Negashield
+			[i:ContinentOfJourney/ReflectorHelmet] 生成一个可以反弹大部分敌对弹幕的盾牌
+			[i:ContinentOfJourney/PersonInDream] 获得梦中人的效果
+			[i:ContinentOfJourney/Negashield] 获得负衰减盾的效果
 			'''
 	}
 
 	SunGodEnchant: {
-		DisplayName: Sun God Enchantment
+		DisplayName: 太阳神魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/SunlightHelmet] Ignites nearby enemies, attacks inflict Solar Burnt
-			[i:ContinentOfJourney/SolarPanel] Effects of Solar Panel
-			[i:ContinentOfJourney/TimeTurner] Effects of Time Turner
+			[i:ContinentOfJourney/SunlightHelmet] 点燃附近的敌人，且攻击附加太阳熔毁减益
+			[i:ContinentOfJourney/SolarPanel] 获得太阳能电板的效果
+			[i:ContinentOfJourney/TimeTurner] 获得时转仪的效果
 			'''
 	}
 
 	WatchmanEnchant: {
-		DisplayName: Watchman Enchantment
+		DisplayName: 守钟魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/WatchmanHat] Accelerate your team upon hitting an enemy with a magic weapon
-			[i:ContinentOfJourney/DeadRinger] Effects of Dead Ringer
-			[i:ContinentOfJourney/HourHand] Effects of Hour Hand
+			[i:ContinentOfJourney/WatchmanHat] 用魔法武器击中敌人时，对你的队伍施加时间加速
+			[i:ContinentOfJourney/DeadRinger] 获得死亡之铃的效果
+			[i:ContinentOfJourney/HourHand] 获得时针的效果
 			'''
 	}
 
 	BalanceForce: {
-		DisplayName: Force of Balance
+		DisplayName: 均衡之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/BiologicEnchant] Effects of Biologic Enchantment
-			[i:SuperSoulsDLC/ChronoEnchant] Effects of Chrono Enchantment
-			[i:SuperSoulsDLC/EquilibriumEnchant] Effects of Equilibrium Enchantment
-			[i:SuperSoulsDLC/FiveStarGeneralEnchant] Effects of Five-Star General Enchantment
+			[i:SuperSoulsDLC/BiologicEnchant] 获得生物学魔石的效果
+			[i:SuperSoulsDLC/ChronoEnchant] 获得钟盘魔石的效果
+			[i:SuperSoulsDLC/EquilibriumEnchant] 获得衡态魔石的效果
+			[i:SuperSoulsDLC/FiveStarGeneralEnchant] 获得上将魔石的效果
 			'''
 	}
 
 	ConclusionForce: {
-		DisplayName: Force of Conclusion
+		DisplayName: 结局之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/AuroraEnchant] Effects of Aurora Enchantment
-			[i:SuperSoulsDLC/ForestEnchant] Effects of Forest Enchantment
-			[i:SuperSoulsDLC/ReflectorEnchant] Effects of Reflector Enchantment
-			[i:SuperSoulsDLC/WatchmanEnchant] Effects of Watchman Enchantment
+			[i:SuperSoulsDLC/AuroraEnchant] 获得极光魔石的效果
+			[i:SuperSoulsDLC/ForestEnchant] 获得森林魔石的效果
+			[i:SuperSoulsDLC/ReflectorEnchant] 获得反射魔石的效果
+			[i:SuperSoulsDLC/WatchmanEnchant] 获得守钟魔石的效果
 			'''
 	}
 
 	HighlandForce: {
-		DisplayName: Force of Highland
+		DisplayName: 高地之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/FungusEnchant] Effects of Fungus Enchantment
-			[i:SuperSoulsDLC/FlinxFurEnchant] Effects of Flinx Fur Enchantment
-			[i:SuperSoulsDLC/IndividualCombatEnchant] Effects of Individual Combat Enchantment
-			[i:SuperSoulsDLC/OnyxEnchant] Effects of Onyx Enchantment
-			[i:SuperSoulsDLC/SunGodEnchant] Effects of Sun God Enchantment
+			[i:SuperSoulsDLC/FungusEnchant] 获得真菌魔石的效果
+			[i:SuperSoulsDLC/FlinxFurEnchant] 获得雪怪魔石的效果
+			[i:SuperSoulsDLC/IndividualCombatEnchant] 获得单兵魔石的效果
+			[i:SuperSoulsDLC/OnyxEnchant] 获得玛瑙魔石的效果
+			[i:SuperSoulsDLC/SunGodEnchant] 获得太阳神魔石的效果
 			'''
 	}
 
 	AncientCrystalEnchant: {
-		DisplayName: Ancient Crystal Enchantment
+		DisplayName: 远古水晶魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/AncientCHead] Projectile attacks occasionally spawn crystal shards
-			[i:MartainsOrder/ShimmerGlowingMushroom] Effects of Gloopy Shimmering Mushroom
+			[i:MartainsOrder/AncientCHead] 弹幕攻击会偶尔生成水晶碎片
+			[i:MartainsOrder/ShimmerGlowingMushroom] 获得黏胶微光蘑菇的效果
 			'''
 	}
 
 	AncientGarnetEnchant: {
-		DisplayName: Ancient Garnet Enchantment
+		DisplayName: 远古石榴石魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/AncientGH1] All attacks inflict wither
-			[i:MartainsOrder/GarnetCore] Effects of Cerise Stone
+			[i:MartainsOrder/AncientGH1] 你的所有攻击会施加石榴石凋零减益
+			[i:MartainsOrder/GarnetCore] 获得樱桃石的效果
 			'''
 	}
 
 	AncientRockEnchant: {
-		DisplayName: Ancient Rock Enchantment
+		DisplayName: 远古岩石魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/AncientRH] Grants immunity to knockback
-			[i:MartainsOrder/Flint] Effects of Flint
+			[i:MartainsOrder/AncientRH] 使你免疫击退
+			[i:MartainsOrder/Flint] 获得燧石的效果
 			'''
 	}
 
 	AncientTantalumEnchant: {
-		DisplayName: Ancient Tantalum Enchantment
+		DisplayName: 远古钽魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/AncientTHead] Grants immunity to electrified
-			[i:MartainsOrder/TurtleScent] Effects of Turtle Scent
-			[i:MartainsOrder/SecurityGlove] Effects of Security Glove
+			[i:MartainsOrder/AncientTHead] 使你免疫带电减益
+			[i:MartainsOrder/TurtleScent] 获得陆龟香水的效果
+			[i:MartainsOrder/SecurityGlove] 获得安全手套的效果
 			'''
 	}
 
 	AncientZincEnchant: {
-		DisplayName: Ancient Zinc Enchantment
+		DisplayName: 远古锌魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/AncientZHead] Grants immunity to fracture
-			[i:MartainsOrder/WhirlwindInABottle] Effects of Whirlwind in a Bottle
+			[i:MartainsOrder/AncientZHead] 使你免疫骨折减益
+			[i:MartainsOrder/WhirlwindInABottle] 获得旋风瓶的效果
 			'''
 	}
 
 	BirchWoodEnchant: {
-		DisplayName: Birch Wood Enchantment
+		DisplayName: 白桦木魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/BirchWoodHelmet] 10% increased movement and attack speed
-			[i:MartainsOrder/PooInABottle] Effects of Poo in a Bottle
+			[i:MartainsOrder/BirchWoodHelmet] 增加10%移动速度和攻击速度
+			[i:MartainsOrder/PooInABottle] 获得便便瓶的效果
 			'''
 	}
 
 	CamoEnchant: {
-		DisplayName: Camo Enchantment
+		DisplayName: 迷彩魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/CamoHelmet] 20% decreased damage taken from projectiles
-			[i:MartainsOrder/CamoHelmet] Increases length of invincibility after taking damage
-			[i:MartainsOrder/TrenchSack] Effects of Trench Sack
-			[i:MartainsOrder/Shuither] Effects of Shuither
+			[i:MartainsOrder/CamoHelmet] 降低20%来自弹幕的伤害
+			[i:MartainsOrder/CamoHelmet] 延长受击后的无敌时间
+			[i:MartainsOrder/TrenchSack] 获得战壕麻袋的效果
+			[i:MartainsOrder/Shuither] 获得箭鞘的效果
 			'''
 	}
 
 	CharcoalEnchant: {
-		DisplayName: Charcoal Enchantment
+		DisplayName: 木炭魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/CharAH] Provides a charcoal reticle that follows the mouse
-			[i:MartainsOrder/PaperWorks] Effects of Paper Fireworks
-			[i:MartainsOrder/AmmoBelt] Effects of Ammo Belt
+			[i:MartainsOrder/CharAH] 使你获得一个跟随光标的木炭准星
+			[i:MartainsOrder/PaperWorks] 获得纸烟花的效果
+			[i:MartainsOrder/AmmoBelt] 获得弹药腰带的效果
 			'''
 	}
 
 	ClayArtisanEnchant: {
-		DisplayName: Clay Artisan Enchantment
+		DisplayName: 陶艺魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/ClayAH] +1 flat art damage
-			[i:MartainsOrder/InkPot] Effects of Ink Pot
+			[i:MartainsOrder/ClayAH] 增加1点艺术伤害
+			[i:MartainsOrder/InkPot] 获得墨水瓶的效果
 			'''
 	}
 
 	CrystalEnchant: {
-		DisplayName: Crystal Enchantment
+		DisplayName: 水晶魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/CrystalAH] Shoots crystal shards out when hit
-			[i:SuperSoulsDLC/AncientCrystalEnchant] Effects of Ancient Crystal Enchantment
-			[i:MartainsOrder/CrystalGloves] Effects of Crystal Gloves
+			[i:MartainsOrder/CrystalAH] 受伤时会射出水晶碎片
+			[i:SuperSoulsDLC/AncientCrystalEnchant] 获得远古水晶魔石的效果
+			[i:MartainsOrder/CrystalGloves] 获得水晶手套的效果
 			'''
 	}
 
 	DepthsMineEnchant: {
-		DisplayName: Depths Mine Enchantment
+		DisplayName: 深掘魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/MinerHelmet] 15% increased mining speed
-			[i:MartainsOrder/MinerHelmet] Provides light when worn
-			[i:MartainsOrder/Flashlight] Effects of Flashlight
-			[i:MartainsOrder/RedGlowingMushroom] Effects of Red Glowing Mushroom
+			[i:MartainsOrder/MinerHelmet] 增加15%挖掘速度
+			[i:MartainsOrder/MinerHelmet] 穿戴时提供适当照明
+			[i:MartainsOrder/Flashlight] 获得手电筒的效果
+			[i:MartainsOrder/RedGlowingMushroom] 获得红发光蘑菇的效果
 			'''
 	}
 
 	DesertWoodEnchant: {
-		DisplayName: Desert Wood Enchantment
+		DisplayName: 荒漠木魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/SwarmerWings] Effects of Swarmer Wings
-			[i:MartainsOrder/BlueGlowingMushroom] Effects of Blue Glowing Mushroom
+			[i:MartainsOrder/SwarmerWings] 获得蚁狮蜂之翼的效果
+			[i:MartainsOrder/BlueGlowingMushroom] 获得蓝发光蘑菇的效果
 			'''
 	}
 
 	DynastyWoodEnchant: {
-		DisplayName: Dynasty Wood Enchantment
+		DisplayName: 王朝木魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/DynastyWoodHelmet] Critical strikes create a gong explosion
-			[i:MartainsOrder/MahoganyScroll] Effects of Mahogany Scroll
-			[i:MartainsOrder/GreenGlowingMushroom] Effects of Green Glowing Mushroom
+			[i:MartainsOrder/DynastyWoodHelmet] 暴击造成响锣爆炸
+			[i:MartainsOrder/MahoganyScroll] 获得红木卷轴的效果
+			[i:MartainsOrder/GreenGlowingMushroom] 获得绿发光蘑菇的效果
 			'''
 	}
 
 	ExiledPrinceEnchant: {
-		DisplayName: Exiled Prince Enchantment
+		DisplayName: 放逐王子魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/ExiledPrinceHood] Grants an uninterruptible slime double dash
-			[i:MartainsOrder/ExiliedGel] Effects of Exiled Gel
-			[i:MartainsOrder/JungleHeart] Effects of Jungle's Core
+			[i:MartainsOrder/ExiledPrinceHood] 使你能够进行一次不会被打断的史莱姆闪避冲刺
+			[i:MartainsOrder/ExiliedGel] 获得放逐凝胶的效果
+			[i:MartainsOrder/JungleHeart] 获得丛林核心的效果
 			'''
 	}
 
 	ExoticCactusEnchant: {
-		DisplayName: Exotic Cactus Enchantment
+		DisplayName: 奇异仙人掌魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/CactusHead] Attackers take damage from enhanced cactus spines
-			[i:MartainsOrder/CactusCatExpertItem] Effects of Exotic Prickly Pear
-			[i:MartainsOrder/GuideToHealthRetribution] Effects of Guide to Health Retribution
+			[i:MartainsOrder/CactusHead] 攻击者会受到来自强化仙人掌的伤害
+			[i:MartainsOrder/CactusCatExpertItem] 获得奇异仙人掌果的效果
+			[i:MartainsOrder/GuideToHealthRetribution] 获得生命报应指南的效果
 			'''
 	}
 
 	ExplosiveBoxEnchant: {
-		DisplayName: Explosive Box Enchantment
+		DisplayName: 炸药魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/KMHead] You create a massive explosion on death
-			[i:MartainsOrder/Shuttlecocks] Effects of Shuttlecocks
-			[i:MartainsOrder/Technoboost] Effects of Technoboost
+			[i:MartainsOrder/KMHead] 在你死亡时会引发一场巨大爆炸
+			[i:MartainsOrder/Shuttlecocks] 获得羽毛球的效果
+			[i:MartainsOrder/Technoboost] 获得高科技增幅器的效果
 			'''
 	}
 
 	FakeFishyumEnchant: {
-		DisplayName: Fake Fishyum Enchantment
+		DisplayName: 赝疑魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/FishyumAH] Summons a fishyum guardian that bashes into enemies
-			[i:MartainsOrder/CubeFolksBless] Effects of Cube Folk's Bless
-			[i:MartainsOrder/StoneStone] Effects of Stone Stone
+			[i:MartainsOrder/FishyumAH] 召唤一个可疑守卫攻击敌人
+			[i:MartainsOrder/CubeFolksBless] 获得方块族之庇佑的效果
+			[i:MartainsOrder/StoneStone] 获得石之石的效果
 			'''
 	}
 
 	FireEnchant: {
-		DisplayName: Fire Enchantment
+		DisplayName: 火服魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/MagmaAH] Yoyos in movement will periodically emit fire waves
-			[i:MartainsOrder/EnchantedSheath] Effects of Enchanted Sheath
-			[i:MartainsOrder/MagmaWatch] Effects of Magma Watch
+			[i:MartainsOrder/MagmaAH] 悠悠球在移动时会定期发射出火焰波
+			[i:MartainsOrder/EnchantedSheath] 获得附魔剑鞘的效果
+			[i:MartainsOrder/MagmaWatch] 获得岩浆表的效果
 			'''
 	}
 
 	ForestsEnchant: {
-		DisplayName: Forest's Enchantment
+		DisplayName: 森林魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/SpiritH2] Increases summoning and throwing speed after taking damage
-			[i:MartainsOrder/EngineerBelt] Effects of Engineer Belt
-			[i:MartainsOrder/SpiralLeaf] Effects of Spiral Leaf
+			[i:MartainsOrder/SpiritH2] 受伤后会增加召唤速度和投掷速度
+			[i:MartainsOrder/EngineerBelt] 获得工程师腰带的效果
+			[i:MartainsOrder/SpiralLeaf] 获得螺旋叶片的效果
 			'''
 	}
 
 	HollowwoodEnchant: {
-		DisplayName: Hollowwood Enchantment
+		DisplayName: 空虚木魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/HollowwoodHelmet] Decreases the effects of the void biome
-			[i:MartainsOrder/ShadeCords] Effects of Shade Cords
-			[i:MartainsOrder/IgnitionStone] Effects of Ignition Stone
+			[i:MartainsOrder/HollowwoodHelmet] 降低虚空的影响
+			[i:MartainsOrder/ShadeCords] 获得暗影绳索的效果
+			[i:MartainsOrder/IgnitionStone] 获得灼焰石的效果
 			'''
 	}
 
 	IceCrystalEnchant: {
-		DisplayName: Ice Crystal Enchantment
+		DisplayName: 冰晶魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/IceCrystalHat] 50% chance to not consume mana potions
-			[i:MartainsOrder/TundraNecklace] Effects of Tundra Necklace
-			[i:MartainsOrder/FrozenLilyBee] Effects of Frozen Lily Bee
+			[i:MartainsOrder/IceCrystalHat] 有50%的概率不消耗魔力药水
+			[i:MartainsOrder/TundraNecklace] 获得雪原项链的效果
+			[i:MartainsOrder/FrozenLilyBee] 获得冰冻百合蜂的效果
 			'''
 	}
 
 	MagnesiumEnchant: {
-		DisplayName: Magnesium Enchantment
+		DisplayName: 镁魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/MagnesiumAH] Summons a leaf crystal to shoot at nearby enemies
-			[i:MartainsOrder/Belovezoar] Effects of Belovezoar
-			[i:MartainsOrder/NoeticStone] Effects of Noetic Stone
+			[i:MartainsOrder/MagnesiumAH] 召唤一颗叶之水晶向附近敌人射击
+			[i:MartainsOrder/Belovezoar] 获得爱之牛黄的效果
+			[i:MartainsOrder/NoeticStone] 获得理智石的效果
 			'''
 	}
 
 	MercuryEnchant: {
-		DisplayName: Mercury Enchantment
+		DisplayName: 水银魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/MercuryAH] Provides the player an uninterruptible quicksilver double dash
-			[i:MartainsOrder/SmokeInABottle] Effects of Smoke in a Bottle
+			[i:MartainsOrder/MercuryAH] 使玩家能够进行一次不会被打断的水银闪避冲刺
+			[i:MartainsOrder/SmokeInABottle] 获得烟雾瓶的效果
 			'''
 	}
 
 	NadirEnchant: {
-		DisplayName: Nadir Enchantment
+		DisplayName: 劣品魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/NadirAH] Basic improvements to all stats
-			[i:MartainsOrder/Relic] Effects of Sequence Relic
-			[i:MartainsOrder/BatScent] Effects of Bat Scent
+			[i:MartainsOrder/NadirAH] 提升所有基础属性：
+			   -增加1点防御
+			   -增加3%伤害
+			   -增加1%暴击率
+			   -增加0.25%召唤物击退
+			   -提升3%近战攻击速度
+			   -提升10%移动速度
+			   -提升3%挖掘速度
+			[i:MartainsOrder/Relic] 获得序列遗物的效果
+			[i:MartainsOrder/BatScent] 获得蝙蝠香水的效果
 			'''
 	}
 
 	OrigamiEnchant: {
-		DisplayName: Origami Enchantment
+		DisplayName: 折纸魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/OrigamiHat] Enemies that touch you are inflicted with bleeding and damaged
-			[i:MartainsOrder/RealitySkull] Effects of Reality Skull
-			[i:MartainsOrder/VoodooJets] Effects of Voodoo Jets
+			[i:MartainsOrder/OrigamiHat] 敌怪接触你会受到部分伤害并被施加流血减益
+			[i:MartainsOrder/RealitySkull] 获得真实颅骨的效果
+			[i:MartainsOrder/VoodooJets] 获得巫毒喷气机的效果
 			'''
 	}
 
 	OtherworldlyEnchant: {
-		DisplayName: Otherworldly Enchantment
+		DisplayName: 异界魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/DD2MegaMixHead] Grants every Old One's Army armor set bonus
-			[i:MartainsOrder/SuperLifeSupport] Effects of Super Medkit
-			[i:MartainsOrder/ExtraterrestialCurse] Effects of Rainbow Curse
+			[i:MartainsOrder/DD2MegaMixHead] 获得所有撒旦军队塔防盔甲的套装奖励
+			[i:MartainsOrder/SuperLifeSupport] 获得超级医疗包的效果
+			[i:MartainsOrder/ExtraterrestialCurse] 获得彩虹之咒的效果
 			'''
 	}
 
 	PainterEnchant: {
-		DisplayName: Painter Enchantment
+		DisplayName: 画家魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/PainterAH] Striking enemies will emit additional paint drops
-			[i:MartainsOrder/PainterAH] +2 flat art damage
+			[i:MartainsOrder/PainterAH] 命中敌人时会释放出额外的油漆液滴
+			[i:MartainsOrder/PainterAH] 增加2点艺术伤害
 			'''
 	}
 
 	RecycledEnchant: {
-		DisplayName: Recycled Enchantment
+		DisplayName: 回收魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/PlasticAH] Command minions to your cursor by double tapping down
-			[i:MartainsOrder/AlchemistsPouch] Effects of Alchemist's Pouch
-			[i:MartainsOrder/Satelite] Effects of Satellite 
+			[i:MartainsOrder/PlasticAH] 双击{$Key.DOWN}键/{$Key.UP}键可以命令你的召唤物到你的鼠标位置
+			[i:MartainsOrder/AlchemistsPouch] 获得炼金师袋的效果
+			[i:MartainsOrder/Satelite] 获得卫星的效果
 			'''
 	}
 
 	ReptileEnchant: {
-		DisplayName: Reptile Enchantment
+		DisplayName: 爬行动物魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/ReptileAH] Striking enemies boosts summon rage
-			[i:MartainsOrder/RedCells] Effects of Vicious Cells
-			[i:MartainsOrder/ThornCrown] Effects of Thorn Crown
+			[i:MartainsOrder/ReptileAH] 命中敌怪时会强化召唤物怒气
+			[i:MartainsOrder/RedCells] 获得凶残细胞的效果
+			[i:MartainsOrder/ThornCrown] 获得荆棘之冠的效果
 			'''
 	}
 
 	SandEnchant: {
-		DisplayName: Sand Enchantment
+		DisplayName: 沙衣魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/SandAH] 10% increased movement speed while in the desert
-			[i:MartainsOrder/BeastHandler] Effects of Beast Handler
-			[i:MartainsOrder/PygmyExtension] Effects of Pygmy Extension
+			[i:MartainsOrder/SandAH] 在沙漠时会增加10%移动速度
+			[i:MartainsOrder/BeastHandler] 获得野兽手套的效果
+			[i:MartainsOrder/PygmyExtension] 获得矮人延伸器的效果
 			'''
 	}
 
 	TantalumEnchant: {
-		DisplayName: Tantalum Enchantment
+		DisplayName: 钽魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/TantalumHeadgear] Grants a tantalum double jump
-			[i:MartainsOrder/CharmOfLuck] Effects of Charm of Luck
+			[i:MartainsOrder/TantalumHeadgear] 使你能进行一次钽之二段跳
+			[i:MartainsOrder/CharmOfLuck] 获得符咒护身符的效果
 			'''
 	}
 
 	TectonicEnchant: {
-		DisplayName: Tectonic Enchantment
+		DisplayName: 板块魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/RockAH] Grants a rock ground pound
-			[i:MartainsOrder/MagneticCharge] Effects of Magnetic Charge
-			[i:MartainsOrder/DeadCells] Effects of Vile Cells
+			[i:MartainsOrder/RockAH] 在空中长按{$Key.DOWN}键施展震地冲击
+			[i:MartainsOrder/MagneticCharge] 获得磁性充能器的效果
+			[i:MartainsOrder/DeadCells] 获得邪恶细胞的效果
 			'''
 	}
 
 	TimeEnchant: {
-		DisplayName: Time Enchantment
-		Tooltip: "[i:MartainsOrder/TimeAH] Grants a time skipping double dash"
+		DisplayName: 时间魔石
+		Tooltip: "[i:MartainsOrder/TimeAH] 使你能进行一次时间折跃闪避冲刺"
 	}
 
 	ToyEnchant: {
-		DisplayName: Toy Enchantment
+		DisplayName: 玩具魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/ToyHead] Projectiles follow your cursor while holding UP
-			[i:MartainsOrder/ForbiddenBandana] Effects of Forbidden Bandana
+			[i:MartainsOrder/ToyHead] 按住{$Key.UP}键时会让弹幕跟随鼠标移动
+			[i:MartainsOrder/ForbiddenBandana] 获得禁戒头巾的效果
 			'''
 	}
 
 	VoidEnchant: {
-		DisplayName: Void Enchantment
+		DisplayName: 虚空魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/VoidHMelee] Grants a void rock ground pound
-			[i:MartainsOrder/RoyalDinnerService] Effects of Royal Dinner Service
-			[i:SuperSoulsDLC/TectonicEnchant] Effects of Tectonic Enchantment
+			[i:MartainsOrder/VoidHMelee] 在空中长按{$Key.DOWN}键施展虚空冲击
+			[i:MartainsOrder/RoyalDinnerService] 获得皇家晚宴餐具的效果
+			[i:SuperSoulsDLC/TectonicEnchant] 获得板块魔石的效果
 			'''
 	}
 
 	WaterEnchant: {
-		DisplayName: Water Enchantment
+		DisplayName: 水装魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/AquaAH] Periodically heals nearby teammates while standing still
-			[i:MartainsOrder/AquaWatch] Effects of Aqua Watch
+			[i:MartainsOrder/AquaAH] 不移动时会定期治疗附近队友
+			[i:MartainsOrder/AquaWatch] 获得水之表的效果
 			'''
 	}
 
 	WitherEnchant: {
-		DisplayName: Wither Enchantment
+		DisplayName: 凋零魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/WitherAH] Become enraged after being struck or double tapping down
-			[i:MartainsOrder/DemonCharm] Effects of Demon Charm
-			[i:MartainsOrder/ScentKnuckles] Effects of Scent Knuckles
+			[i:MartainsOrder/WitherAH] 被敌人命中后，或双击{$Key.DOWN}键/{$Key.UP}键时会被激怒
+			[i:MartainsOrder/DemonCharm] 获得恶魔护身符的效果
+			[i:MartainsOrder/ScentKnuckles] 获得腐香指关节的效果
 			'''
 	}
 
 	ZincEnchant: {
-		DisplayName: Zinc Enchantment
+		DisplayName: 锌魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/ZincHead] Summons a protective zinc shield
-			[i:MartainsOrder/SanguineScroll] Effects of Sanguine Scroll
-			[i:MartainsOrder/CalciumDose] Effects of Calcium Dose
+			[i:MartainsOrder/ZincHead] 召唤一个保护玩家的锌盾
+			[i:MartainsOrder/SanguineScroll] 获得赤色卷轴的效果
+			[i:MartainsOrder/CalciumDose] 获得钙剂的效果
 			'''
 	}
 
 	CreativesEssence: {
-		DisplayName: Creative's Essence
+		DisplayName: 创意精华
 		Tooltip:
 			'''
-			18% increased art damage
-			10% increased art attack speed
-			8% increased art crit chance
-			'This is only the beginning...'
+			增加18%艺术伤害
+			增加10%艺术攻击速度
+			增加8%艺术暴击率
+			“这只是个开始……”
 			'''
 	}
 
 	HurlersEssence: {
-		DisplayName: Hurler's Essence
+		DisplayName: 投手精华
 		Tooltip:
 			'''
-			18% increased throwing damage
-			10% increased throwing velocity
-			8% increased throwing crit chance
-			'This is only the beginning...'
+			增加18%投掷伤害
+			增加10%投掷速度
+			增加8%投掷暴击率
+			“这只是个开始……”
 			'''
 	}
 
 	AgeForce: {
-		DisplayName: Force of Ages
+		DisplayName: 岁月之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/AncientGarnetEnchant] Effects of Ancient Garnet Enchantment
-			[i:SuperSoulsDLC/AncientRockEnchant] Effects of Ancient Rock Enchantment
-			[i:SuperSoulsDLC/AncientTantalumEnchant] Effects of Ancient Tantalum Enchantment
-			[i:SuperSoulsDLC/AncientZincEnchant] Effects of Ancient Zinc Enchantment
-			[i:SuperSoulsDLC/TantalumEnchant] Effects of Tantalum Enchantment
-			[i:SuperSoulsDLC/WitherEnchant] Effects of Wither Enchantment
-			[i:SuperSoulsDLC/ZincEnchant] Effects of Zinc Enchantment
+			[i:SuperSoulsDLC/AncientGarnetEnchant] 获得远古石榴石魔石的效果
+			[i:SuperSoulsDLC/AncientRockEnchant] 获得远古岩石魔石的效果
+			[i:SuperSoulsDLC/AncientTantalumEnchant] 获得远古钽魔石的效果
+			[i:SuperSoulsDLC/AncientZincEnchant] 获得远古锌魔石的效果
+			[i:SuperSoulsDLC/TantalumEnchant] 获得钽魔石的效果
+			[i:SuperSoulsDLC/WitherEnchant] 获得凋零魔石的效果
+			[i:SuperSoulsDLC/ZincEnchant] 获得锌魔石的效果
 			'''
 	}
 
 	ComplexionForce: {
-		DisplayName: Force of Complexion
+		DisplayName: 气色之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/BirchWoodEnchant] Effects of Birch Wood Enchantment
-			[i:SuperSoulsDLC/DesertWoodEnchant] Effects of Desert Wood Enchantment
-			[i:SuperSoulsDLC/DynastyWoodEnchant] Effects of Dynasty Wood Enchantment
-			[i:SuperSoulsDLC/ExoticCactusEnchant] Effects of Exotic Cactus Enchantment
-			[i:SuperSoulsDLC/ForestsEnchant] Effects of Forest's Enchantment
-			[i:SuperSoulsDLC/NadirEnchant] Effects of Nadir Enchantment
-			[i:SuperSoulsDLC/ReptileEnchant] Effects of Reptile Enchantment
+			[i:SuperSoulsDLC/BirchWoodEnchant] 获得白桦木魔石的效果 
+			[i:SuperSoulsDLC/DesertWoodEnchant] 获得荒漠木魔石的效果 
+			[i:SuperSoulsDLC/DynastyWoodEnchant] 获得王朝木魔石的效果 
+			[i:SuperSoulsDLC/ExoticCactusEnchant] 获得奇异仙人掌魔石的效果 
+			[i:SuperSoulsDLC/ForestsEnchant] 获得森林魔石的效果 
+			[i:SuperSoulsDLC/NadirEnchant] 获得劣品魔石的效果 
+			[i:SuperSoulsDLC/ReptileEnchant] 获得爬行动物魔石的效果 
 			'''
 	}
 
 	DarknessForce: {
-		DisplayName: Force of Darkness
+		DisplayName: 黑暗之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/ExiledPrinceEnchant] Effects of Exiled Prince Enchantment
-			[i:SuperSoulsDLC/HollowwoodEnchant] Effects of Hollowwood Enchantment
-			[i:SuperSoulsDLC/OtherworldlyEnchant] Effects of Otherworldly Enchantment
-			[i:SuperSoulsDLC/TimeEnchant] Effects of Time Enchantment
-			[i:SuperSoulsDLC/VoidEnchant] Effects of Void Enchantment
+			[i:SuperSoulsDLC/ExiledPrinceEnchant] 获得放逐王子魔石的效果
+			[i:SuperSoulsDLC/HollowwoodEnchant] 获得空虚木魔石的效果
+			[i:SuperSoulsDLC/OtherworldlyEnchant] 获得异界魔石的效果
+			[i:SuperSoulsDLC/TimeEnchant] 获得时间魔石的效果
+			[i:SuperSoulsDLC/VoidEnchant] 获得虚空魔石的效果
 			'''
 	}
 
 	FabricationForce: {
-		DisplayName: Force of Fabrication
+		DisplayName: 创造之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/CamoEnchant] Effects of Camo Enchantment
-			[i:SuperSoulsDLC/ClayArtisanEnchant] Effects of Clay Artisan Enchantment
-			[i:SuperSoulsDLC/OrigamiEnchant] Effects of Origami Enchantment
-			[i:SuperSoulsDLC/PainterEnchant] Effects of Painter Enchantment
-			[i:SuperSoulsDLC/RecycledEnchant] Effects of Recycled Enchantment
-			[i:SuperSoulsDLC/ToyEnchant] Effects of Toy Enchantment
+			[i:SuperSoulsDLC/CamoEnchant] 获得迷彩魔石的效果
+			[i:SuperSoulsDLC/ClayArtisanEnchant] 获得陶艺魔石的效果
+			[i:SuperSoulsDLC/OrigamiEnchant] 获得折纸魔石的效果
+			[i:SuperSoulsDLC/PainterEnchant] 获得画家魔石的效果
+			[i:SuperSoulsDLC/RecycledEnchant] 获得回收魔石的效果
+			[i:SuperSoulsDLC/ToyEnchant] 获得玩具魔石的效果
 			'''
 	}
 
 	MetallurgyForce: {
-		DisplayName: Force of Metallurgy
+		DisplayName: 冶金之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/CrystalEnchant] Effects of Crystal Enchantment
-			[i:SuperSoulsDLC/DepthsMineEnchant] Effects of Depths Mine Enchantment
-			[i:SuperSoulsDLC/ExplosiveBoxEnchant] Effects of Explosive Box Enchantment
-			[i:SuperSoulsDLC/FakeFishyumEnchant] Effects of Fake Fishyum Enchantment
-			[i:SuperSoulsDLC/MagnesiumEnchant] Effects of Magnesium Enchantment
-			[i:SuperSoulsDLC/MercuryEnchant] Effects of Mercury Enchantment
+			[i:SuperSoulsDLC/CrystalEnchant] 获得水晶魔石的效果
+			[i:SuperSoulsDLC/DepthsMineEnchant] 获得深掘魔石的效果
+			[i:SuperSoulsDLC/ExplosiveBoxEnchant] 获得炸药魔石的效果
+			[i:SuperSoulsDLC/FakeFishyumEnchant] 获得赝疑魔石的效果
+			[i:SuperSoulsDLC/MagnesiumEnchant] 获得镁魔石的效果
+			[i:SuperSoulsDLC/MercuryEnchant] 获得水银魔石的效果
 			'''
 	}
 
 	WorldForce: {
-		DisplayName: Force of Worlds
+		DisplayName: 万界之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/CharcoalEnchant] Effects of Charcoal Enchantment
-			[i:SuperSoulsDLC/FireEnchant] Effects of Fire Enchantment
-			[i:SuperSoulsDLC/IceCrystalEnchant] Effects of Ice Crystal Enchantment
-			[i:SuperSoulsDLC/SandEnchant] Effects of Sand Enchantment
-			[i:SuperSoulsDLC/WaterEnchant] Effects of Water Enchantment
+			[i:SuperSoulsDLC/CharcoalEnchant] 获得木炭魔石的效果
+			[i:SuperSoulsDLC/FireEnchant] 获得火衣魔石的效果
+			[i:SuperSoulsDLC/IceCrystalEnchant] 获得冰晶魔石的效果
+			[i:SuperSoulsDLC/SandEnchant] 获得沙衣魔石的效果
+			[i:SuperSoulsDLC/WaterEnchant] 获得水服魔石的效果
 			'''
 	}
 
 	IllustratorsSoul: {
-		DisplayName: Illustrator's Soul
+		DisplayName: 绘者之魂
 		Tooltip:
 			'''
-			22% increased art damage
-			20% increased art attack speed
-			10% increased art crit chance
-			'The world is your canvas...'
+			增加22%艺术伤害
+			增加20%艺术攻击速度
+			增加10%艺术暴击率
+			“世界既是你的画布……”
 			'''
 	}
 
 	OrderSoul: {
-		DisplayName: Soul of Order
+		DisplayName: 战律之魂
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/AgeForce] Effects of Force of Ages
-			[i:SuperSoulsDLC/ComplexionForce] Effects of Force of Complexion
-			[i:SuperSoulsDLC/DarknessForce] Effects of Force of Darkness
-			[i:SuperSoulsDLC/FabricationForce] Effects of Force of Fabrication
-			[i:SuperSoulsDLC/MetallurgyForce] Effects of Force of Metallurgy
-			[i:SuperSoulsDLC/WorldForce] Effects of Force of Worlds
+			[i:SuperSoulsDLC/AgeForce] 获得岁月之力的效果
+			[i:SuperSoulsDLC/ComplexionForce] 获得气色之力的效果
+			[i:SuperSoulsDLC/DarknessForce] 获得黑暗之力的效果
+			[i:SuperSoulsDLC/FabricationForce] 获得创造之力的效果
+			[i:SuperSoulsDLC/MetallurgyForce] 获得冶金之力的效果
+			[i:SuperSoulsDLC/WorldForce] 获得万界之力的效果
 			'''
 	}
 
 	PitchersSoul: {
-		DisplayName: Pitcher's Soul
+		DisplayName: 投者之魂
 		Tooltip:
 			'''
-			22% increased throwing damage
-			20% increased throwing velocity
-			10% increased throwing crit chance
-			Effects of Singular Time Cuff and Vandalism Props Bag
-			'Even small pebbles can be deadly with your prowess...'
+			增加22%投掷伤害
+			增加20%投掷速度
+			增加10%投掷暴击率
+			获得异时手铐和毁灭道具袋的效果
+			“即使是细小的石子，在你的力量下也变得致命……”'
 			'''
 	}
 }
 
-Projectiles.DynastyGongProjectile.DisplayName: Dynasty Gong
+Projectiles.DynastyGongProjectile.DisplayName: 王朝木响锣
 
 Buffs: {
 	BleedingBuff: {
-		DisplayName: Bleeding
-		Description: Losing life
+		DisplayName: 流血
+		Description: 流失生命
 	}
 }

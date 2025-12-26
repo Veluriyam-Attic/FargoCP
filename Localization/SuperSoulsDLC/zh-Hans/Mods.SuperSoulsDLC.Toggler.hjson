@@ -9,254 +9,254 @@ DarknessHeader: "{$Mods.SuperSoulsDLC.Items.DarknessForce.DisplayName}"
 FabricationHeader: "{$Mods.SuperSoulsDLC.Items.FabricationForce.DisplayName}"
 MetallurgyHeader: "{$Mods.SuperSoulsDLC.Items.MetallurgyForce.DisplayName}"
 WorldHeader: "{$Mods.SuperSoulsDLC.Items.WorldForce.DisplayName}"
-WormwoodEffect: Blooming Hooks
-WormwoodDefenseEffect: Minion Defense
-FlowerCrownEffect: Flower Crown
-BotanicalSymbioteEffect: Botanical Symbiote
-LittleWoesEffect: Little Woes
-VoidspaceEffect: Voidspace Flames
-SubspaceLocketEffect: Subspace Locket
-VoidspaceEmblemEffect: Voidspace Emblem
-BagOfCharmsEffect: Bag of Charms
-VibrantEffect: Vibrant Pistol Boost
-HarvestersScytheEffect: Harvester's Scythe
-GuideToIlluminationEffect: Guide to Illumination
-MrGlorpEffect: Mr. Glorp
-IlluminantLanternEffect: Illuminant Lantern
-SafetySwitchEffect: Safety Switch
-RockingHorseEffect: Rocking Horse
-TwilightAssassinEffect: Holo Eye
-BladeNecklaceEffect: Blade Necklace
-BlinkPackEffect: Blink Pack
-GravityAnchorEffect: Gravity Anchor
-PatchLeatherEffect: Snake Minions
-SunlightAmuletEffect: Sunlight Amulet
-BandOfDoorEffect: Band of Door
-SteelerWheelerEffect: Steeler Wheeler
-FrostArtifactEffect: Polar Cannons
-FrigidHourglassEffect: Frigid Hourglass
-ShardGuardEffect: Shard Guard
-EndothermicAfterburnerEffect: Endothermic Afterburner
-FrigidEffect: Frigid Javelin Boost
-FrigidRobeEffect: Frigid Javelin Bounce
-ShatterShardChestplateEffect: Shatter Shards
-ShoeIceEffect: Shoe Ice
-MrEepyEffect: Mr. Eepy
-ElementalEffect: Elemental Blink
-FocusReticleEffect: Focus Reticle
-AcidicInjectionEffect: Overkill Injection
-VoidmageIncubatorEffect: Voidmage Incubator
-EarthenEffect: Melee Shred
-GreedierRingEffect: Greedier Ring
-RockCandyEffect: Rock Candy
-AutoClickerEffect: Auto Clicker
-CursedEffect: Ruby Monolith
-HeartInAJarEffect: Heart in a Jar
-CursedAppleEffect: Cursed Apple
-SyntheticLiverEffect: Synthetic Liver
-MrMcMillenEffect: Mr. McMillen
-SerpentSpineEffect: Serpent Spine
-HyperdriveEffect: Hyperdrive
-MidnightPrismEffect: Midnight Prism
-SupernovaEmblemEffect: Supernova Emblem
-AlchemistsCharmEffect: Alchemist's Charm
-PlasmaShrimpEffect: Plasma Shrimp
-WishingStarEffect: Wishing Star
-BlazingQuiverEffect: Blazing Quiver
-BackupBowEffect: Backup Bow
-BagOfAmmoGatheringEffect: Bag of Ammo Gathering
-InfinityPouchEffect: Infinity Pouch
-FortressGeneratorEffect: Fortress Generator
-WispInAJarEffect: Wisp in a Jar
-SandwichEffect: Sandwich
-BundleOfSnakesEffect: Bundle of Snakes
-CalculatorEffect: Calculator
-HydrokineticAntennaeEffect: Hydrokinetic Antennae
-PricklyPearShieldEffect: Prickly Pear Shield
-BulwarkOfTheAncientsEffect: Bulwark of the Ancients
-ChallengerRingEffect: Challenger's Ring
-RotHeartEffect: Rot Heart
-DrillHandEffect: Drill Arm
-EarthDriveEffect: Earth Drive
-LockpickEffect: Lockpick
-DrillforgeEffect: Missile Tail
-ExperimentalInjectionEffect: Experimental Injection
-TinyPlanetoidEffect: Tiny Planetoid
-SubspaceBoostersEffect: Subspace Boosters
-UltimatePolarizerEffect: Ultimate Polarizer
-GildedBladeWingsEffect: Gilded Blade Wings
-VisionAmuletEffect: Elemental Amulet
-WardingCharmEffect: Warding Charm
-SunbulbEffect: Sunbulb
-AuroraEffect: Aurora Slimes
-CommandersGaunletEffect: Gauntlet of the Commander
-ConstructionPDAEffect: Construction PDA
-BiologicalEffect: Gas Station
-FlareInABottleEffect: Flare in a Bottle
-TimeTurnerEffect: Time Turner
-KingBillEffect: King Bill
-MetalNozzleEffect: Metal Nozzle
-ChronoEffect: Time Borrowing
-JellyMushroomEffect: Jelly Mushroom
-SaviorsHeartEffect: Savior's Heart
-EquilibriumEffect: Release Fog
-GrandSpectralEffect: Grand Spectral
-SaintlyEyeballEffect: The Saint's Eyeball
-FiveStarGeneralEffect: Minion Slots
-LampreyScarfEffect: Lamprey Scarf
-CircuitChipEffect: Circuit Chip
+WormwoodEffect: 流胶木 盛花钩
+WormwoodDefenseEffect: 流胶木 召唤增防
+FlowerCrownEffect: 流胶木 繁花头冠
+BotanicalSymbioteEffect: 流胶木 植物共生体
+LittleWoesEffect: 流胶木 小哀灵
+VoidspaceEffect: 虚游 亚空之焰
+SubspaceLocketEffect: 虚游 亚空间锁盒
+VoidspaceEmblemEffect: 虚游 虚空间徽章
+BagOfCharmsEffect: 虚游 护身符袋
+VibrantEffect: 振荡 振荡手枪强化
+HarvestersScytheEffect: 振荡 收割者之镰
+GuideToIlluminationEffect: 振荡 辉光指南
+MrGlorpEffect: 外星猫咪先生
+IlluminantLanternEffect: 薄暮 辉光灯笼
+SafetySwitchEffect: 薄暮 安全开关
+RockingHorseEffect: 薄暮 摇摇马
+TwilightAssassinEffect: 昏影 全息之眼
+BladeNecklaceEffect: 昏影 剑刃项链
+BlinkPackEffect: 昏影 闪瞬包裹
+GravityAnchorEffect: 昏影 重力锚
+PatchLeatherEffect: 皮衣 飞蛇仆从
+SunlightAmuletEffect: 皮衣 日辉护身符
+BandOfDoorEffect: 皮衣 门之手环
+SteelerWheelerEffect: 皮衣 钢轮推车
+FrostArtifactEffect: 霜遗 极地炮
+FrigidHourglassEffect: 霜遗 极寒沙漏
+ShardGuardEffect: 霜遗 冰碎块护盾
+EndothermicAfterburnerEffect: 霜遗 吸热后燃器
+FrigidEffect: 极寒 极寒标枪强化
+FrigidRobeEffect: 极寒 极寒标枪弹跳
+ShatterShardChestplateEffect: 极寒 冰碎块
+ShoeIceEffect: 极寒 冰鞋
+MrEepyEffect: 困困先生
+ElementalEffect: 元素 元素瞬闪
+FocusReticleEffect: 元素 聚焦十字镜
+AcidicInjectionEffect: 元素 残杀注射器
+VoidmageIncubatorEffect: 虚空魔法孵化器
+EarthenEffect: 陆地 近战损伤
+GreedierRingEffect: 贪欲之戒
+RockCandyEffect: 陆地 岩石冰糖
+AutoClickerEffect: 陆地 连点手套
+CursedEffect: 诅咒 红玉石碑
+HeartInAJarEffect: 诅咒 罐中心脏
+CursedAppleEffect: 诅咒 诅咒苹果
+SyntheticLiverEffect: 合成肝脏
+MrMcMillenEffect: 麦克米伦先生
+SerpentSpineEffect: 骇蟒脊椎
+HyperdriveEffect: 超光速引擎
+MidnightPrismEffect: 午夜棱镜
+SupernovaEmblemEffect: 超新星徽章
+AlchemistsCharmEffect: 炼金术士护符
+PlasmaShrimpEffect: 等离子虾
+WishingStarEffect: 祈愿之星
+BlazingQuiverEffect: 灼炎箭袋
+BackupBowEffect: 后备弓
+BagOfAmmoGatheringEffect: 弹药集合袋
+InfinityPouchEffect: 无尽之袋
+FortressGeneratorEffect: 堡垒发生盾
+WispInAJarEffect: 罐中鬼火
+SandwichEffect: 三明治
+BundleOfSnakesEffect: 双蛇捆束
+CalculatorEffect: 计算器
+HydrokineticAntennaeEffect: 流体动力触角
+PricklyPearShieldEffect: 诅咒 刺梨盾
+BulwarkOfTheAncientsEffect: 远古壁垒
+ChallengerRingEffect: 挑战者之戒
+RotHeartEffect: 诅咒 腐烂之心
+DrillHandEffect: 钻头手臂
+EarthDriveEffect: 陆地驱动器
+LockpickEffect: 开锁器
+DrillforgeEffect: 钻炉 导弹发射尾
+ExperimentalInjectionEffect: 钻炉 实验注射器
+TinyPlanetoidEffect: 钻炉 微型小行星
+SubspaceBoostersEffect: 亚空助推靴
+UltimatePolarizerEffect: 终极偏振器
+GildedBladeWingsEffect: 耀刃之翼
+VisionAmuletEffect: 元素 元素护身符
+WardingCharmEffect: 振荡 守御护身符
+SunbulbEffect: 极寒 日光灯泡
+AuroraEffect: 极光 极光史莱姆
+CommandersGaunletEffect: 极光 指挥官的手套
+ConstructionPDAEffect: 极光 建造PDA
+BiologicalEffect: 生物学 加油站
+FlareInABottleEffect: 生物学 瓶中热焰
+TimeTurnerEffect: 太阳神 时转仪
+KingBillEffect: 生物学 纸钞王
+MetalNozzleEffect: 生物学 金属喷头
+ChronoEffect: 钟盘 时间借款
+JellyMushroomEffect: 果冻蘑菇
+SaviorsHeartEffect: 钟盘 救世主之心
+EquilibriumEffect: 衡态 释放白雾
+GrandSpectralEffect: 衡态 大光谱
+SaintlyEyeballEffect: 衡态 圣人的眼球
+FiveStarGeneralEffect: 上将 仆从栏扩展
+LampreyScarfEffect: 上将 七鳃鳗围巾
+CircuitChipEffect: 上将 电路芯片
 BumpAttackEffect: Bump Attack
-EnchantedAmberRingEffect: Enchanted Amber Ring
-ArmillarySphereEffect: Armillary Sphere
-LittlePuppetEffect: Little Puppet
-ForestEffect: Thorn Growth
-EdgewalkerEffect: Edgewalker
-WalnutOnFireEffect: Walnut on Fire
-ArrowCaseEffect: Arrow Case
-FungusEffect: Mushroom Sentry
-HoneyMushroomEffect: Honey Mushroom
-CounsellorsFanEffect: Counsellor's Fan
-IndividualCombatEffect: Enemy Target Boost
-CardiotachometerEffect: Cardiotachometer
-RobinHatEffect: Robin Hat
-BowTriggerEffect: Mechanical Trigger
-OnyxEffect: Onyx Protection
-DarkMagicMirrorEffect: Dark Magic Mirror
-ShadowShackleEffect: Shadow Shackle
-NegatamaEffect: Negatama
-ZeroPennyEffect: Zero Penny
-ReflectorEffect: Reflection Shield
-PersonInDreamEffect: Person in Dream
-HeartOfOceanEffect: Eye of the Ocean
-NegashieldEffect: Negashield
-SunGodEffect: Solar Burnt Attacks
-DeadRingerEffect: Dead Ringer
-SolarPanelEffect: Solar Panel
-WatchmanEffect: Team Acceleration
-MapleMushroomEffect: Maple Mushroom
-HourHandEffect: Hour Hand
-DivineTouchEffect: Godly Touch
-ChampionBeltEffect: Champion Belt
-PhilosophersStoneEffect: Philosopher-King's Stone
-StarflowerEffect: Starflower
-FungusDeluxeEffect: Fungus Deluxe
-TheBatterEffect: The Batter
-TheHolyTrinityEffect: The Holy Trinity
-CrossbowScopeEffect: Crossbow Scope
-TrashBagEffect: Trash Bag
-DivineNecklaceEffect: Divine Hairpin
-VanguardBreastpieceEffect: Vanguard Breastpiece
-MasterShieldEffect: Master Shield
-AncientBlessingEffect: Ancient Blessing
-PrisonSearchlightEffect: Prison Searchlight
-GoblinVoodooDollEffect: Goblin Voodoo Doll
-AbyssCoreEffect: Abyss Core
-DarkHorseshoeBalloonEffect: Dark Horseshoe Balloon
-NerveFibreEffect: Nerve Fibre
-PureHeartEffect: Pure Heart
-SolarGauntletEffect: Solar Flare Gauntlet
-MasterYoyoSetEffect: Master Yoyo Set
-NebulaMagnetEffect: Nebula Magnet
-EmpowermentBloomEffect: Empowerment Bloom
-CursedFlowerEffect: Cursed Flower
-VortexScopeEffect: Vortex Scope
-DarkIceQuiverEffect: Dark Ice Quiver
-StardustScriptEffect: Stardust Script
-ProtectionEgisEffect: Protection Egis
-NationalDefenseEffect: National Defense
-ExplorationKitEffect: Exploration Kit
-SurvivalTrackerEffect: Survival Tracker
-SummonersTrackerEffect: Summoner's Tracker
-JournalEffect: Journal
-SparklingWellingtonsEffect: Sparkling Wellingtons
-TripletsShieldEffect: Triplet's Barrage Shield
-CeramicBalloonEffect: Ceramic Balloon
-AncientGarnetEffect: Inflict Wither
-GarnetCoreEffect: Cerise Stone
-FlintEffect: Flint
-AncientTantalumEffect: Electrified Immunity
-TurtleScentEffect: Turtle Scent
-SecurityGloveEffect: Security Glove
-AncientZincEffect: Fracture Immunity
-WhirlwindInABottleEffect: Whirlwind in a Bottle
-TantalumEffect: Tantalum Jump
-CharmOfLuckEffect: Charm of Luck
-WitherEffect: Wither Rage
-DemonCharmEffect: Demon Charm
-ScentKnucklesEffect: Scent Knuckles
-ZincEffect: Zinc Shield
-SanguineScrollEffect: Sanguine Scroll
-CalciumDoseEffect: Calcium Dose
-PooInABottleEffect: Poo in a Bottle
-BlueGlowingMushroomEffect: Blue Glowing Mushroom
-DynastyWoodEffect: Dynasty Gong
-MahoganyScrollEffect: Mahogany Scroll
-GreenGlowingMushroomEffect: Green Glowing Mushroom
-ExoticCactusEffect: Exotic Thorns
-ExoticPricklyPearEffect: Exotic Prickly Pear
-GuideToHealthRetributionEffect: Guide to Health Retribution
-ForestsEffect: Forest's Speed
-EngineerBeltEffect: Engineer Belt
-SpiralLeafEffect: Spiral Leaf
-SequenceRelicEffect: Sequence Relic
-BatScentEffect: Bat Scent
-ReptileEffect: Summon Rage
-ViciousCellsEffect: Vicious Cells
-ThornCrownEffect: Thorn Crown
-ExiledPrinceEffect: Exiled Dash
-ExiledGelEffect: Exiled Gel
-JungleHeartEffect: Jungle's Core
-HollowwoodEffect: Void Resistance
-ShadeCordsEffect: Shade Cords
-IgnitionStoneEffect: Ignition Stone
-OtherworldlyEffect: All Old One's Set Bonus
-SuperMedkitEffect: Super Medkit
-RainbowCurseEffect: Rainbow Curse
-TimeEffect: Time Dash
-TectonicEffect: Rock Ground Pound
-MagneticChargeEffect: Magnetic Charge
-VileCellsEffect: Vile Cells
-VoidEffect: Void Ground Pound
-RoyalDinnerServiceEffect: Royal Dinner Service
-TrenchSackEffect: Trench Sack
-ShuitherEffect: Shuither
-InkPotEffect: Ink Pot
-OrigamiEffect: Paper Cuts
-RealitySkullEffect: Reality Skull
-VoodooJetsEffect: Voodoo Jets
-PainterEffect: Additional Paint Drops
-RecycledEffect: Minion Commanding
-AlchemistsPouchEffect: Alchemist's Pouch
-SatelliteEffect: Satellite
-ToyEffect: Projectile Cursor Following
-ForbiddenBandanaEffect: Forbidden Bandana
-AncientCrystalEffect: On Hit Crystal Shards
-CrystalEffect: Crystal Shard Explosion
-CrystalGlovesEffect: Crystal Gloves
-ShimmerGlowingMushroomEffect: Gloopy Shimmering Mushroom
-FlashlightEffect: Flashlight
-RedGlowingMushroomEffect: Red Glowing Mushroom
-ExplosiveBoxEffect: Death Explosion
-ShuttlecocksEffect: Shuttlecocks
-TechnoboostEffect: Technoboost
-FakeFishyumEffect: Fishyum Minion
-CubeFolksBlessEffect: Cube Folk's Bless
-MagnesiumEffect: Magnesium Minion
-BelovezoarEffect: Belovezoar
-NoeticStoneEffect: Noetic Stone
-MercuryEffect: Mercury Dash
-SmokeInABottleEffect: Smoke in a Bottle
-CharcoalEffect: Charcoal Aim
-PaperWorksEffect: Paper Fireworks
-AmmoBeltEffect: Ammo Belt
-FireEffect: Yoyo Fire Waves
-EnchantedSheathEffect: Enchanted Sheath
-MagmaWatchEffect: Magma Watch
-IceCrystalEffect: 50% Mana Potion Save
-TundraNecklaceEffect: Tundra Necklace
-FrozenLilyBeeEffect: Frozen Lily Bee
+EnchantedAmberRingEffect: 附魔琥珀戒指
+ArmillarySphereEffect: 浑天仪
+LittlePuppetEffect: 真菌 小小木偶
+ForestEffect: 林海 荆棘生长
+EdgewalkerEffect: 林海 边行者
+WalnutOnFireEffect: 林海 梨栗熟了
+ArrowCaseEffect: 林海 箭盒
+FungusEffect: 真菌 哨兵蘑菇孢子
+HoneyMushroomEffect: 蜂蜜蘑菇
+CounsellorsFanEffect: 雪怪 军师的羽扇
+IndividualCombatEffect: 单兵 标记强化
+CardiotachometerEffect: 单兵 心率仪
+RobinHatEffect: 单兵 罗宾汉之帽
+BowTriggerEffect: 单兵 机械扳机
+OnyxEffect: 玛瑙 玛瑙石保护
+DarkMagicMirrorEffect: 玛瑙 黑魔镜
+ShadowShackleEffect: 玛瑙 影脚镣
+NegatamaEffect: 钟盘 负能量勾玉
+ZeroPennyEffect: 玛瑙 零元硬币
+ReflectorEffect: 反射 反弹盾
+PersonInDreamEffect: 反射 梦中人
+HeartOfOceanEffect: 海洋之眼
+NegashieldEffect: 反射 负衰减盾
+SunGodEffect: 太阳神 太阳熔毁
+DeadRingerEffect: 守钟 死亡之铃
+SolarPanelEffect: 太阳神 太阳能电板
+WatchmanEffect: 守钟 队伍加速
+MapleMushroomEffect: 枫糖浆蘑菇
+HourHandEffect: 守钟 时针
+DivineTouchEffect: 神之手
+ChampionBeltEffect: 英灵腰带
+PhilosophersStoneEffect: 哲人王之石
+StarflowerEffect: 星花
+FungusDeluxeEffect: 豪华蘑菇
+TheBatterEffect: 击球手
+TheHolyTrinityEffect: 圣三位一体
+CrossbowScopeEffect: 弩镜
+TrashBagEffect: 垃圾袋
+DivineNecklaceEffect: 圣洁发夹
+VanguardBreastpieceEffect: 冲锋胸牌
+MasterShieldEffect: 大师之盾
+AncientBlessingEffect: 远古祝福妖
+PrisonSearchlightEffect: 监狱探照灯
+GoblinVoodooDollEffect: 哥布林巫毒娃娃
+AbyssCoreEffect: 深渊核心
+DarkHorseshoeBalloonEffect: 黑马蹄气球
+NerveFibreEffect: 鱿鱼丝
+PureHeartEffect: 纯净之心
+SolarGauntletEffect: 耀斑手套
+MasterYoyoSetEffect: 大师悠悠球装备
+NebulaMagnetEffect: 星云磁石
+EmpowermentBloomEffect: 赋能花
+CursedFlowerEffect: 诅咒之花
+VortexScopeEffect: 星旋狙击镜
+DarkIceQuiverEffect: 暗冰箭袋
+StardustScriptEffect: 星尘手稿
+ProtectionEgisEffect: 庇护神盾
+NationalDefenseEffect: 国之卫盾
+ExplorationKitEffect: 探险套件
+SurvivalTrackerEffect: 生存监视器
+SummonersTrackerEffect: 召唤师监视器
+JournalEffect: 日志
+SparklingWellingtonsEffect: 闪耀长筒靴
+TripletsShieldEffect: 三重魔眼飞弹盾
+CeramicBalloonEffect: 陶瓷气球
+AncientGarnetEffect: 远古石榴石 石榴石凋零
+GarnetCoreEffect: 远古石榴石 樱桃石
+FlintEffect: 远古岩石 燧石
+AncientTantalumEffect: 远古钽 免疫带电
+TurtleScentEffect: 远古钽 陆龟香水
+SecurityGloveEffect: 远古钽 安全手套
+AncientZincEffect: 远古锌 免疫骨折
+WhirlwindInABottleEffect: 远古锌 旋风瓶
+TantalumEffect: 钽 钽二段跳
+CharmOfLuckEffect: 钽 符咒护身符
+WitherEffect: 凋零 凋零激怒
+DemonCharmEffect: 凋零 恶魔护身符
+ScentKnucklesEffect: 凋零 腐香指关节
+ZincEffect: 锌 锌盾
+SanguineScrollEffect: 锌 赤色卷轴
+CalciumDoseEffect: 锌 钙剂
+PooInABottleEffect: 白桦木 便便瓶
+BlueGlowingMushroomEffect: 荒漠 蓝发光蘑菇
+DynastyWoodEffect: 王朝木 王朝响锣
+MahoganyScrollEffect: 王朝木 红木卷轴
+GreenGlowingMushroomEffect: 王朝木 绿发光蘑菇
+ExoticCactusEffect: 奇异仙人掌 奇异荆棘
+ExoticPricklyPearEffect: 奇异仙人掌 奇异仙人掌果
+GuideToHealthRetributionEffect: 奇异仙人掌 生命报应指南
+ForestsEffect: 森林 森林提速
+EngineerBeltEffect: 森林 工程师腰带
+SpiralLeafEffect: 森林 螺旋叶片
+SequenceRelicEffect: 劣品 序列遗物
+BatScentEffect: 劣品 蝙蝠香水
+ReptileEffect: 爬行动物 召唤怒气
+ViciousCellsEffect: 爬行动物 凶残细胞
+ThornCrownEffect: 爬行动物 荆棘之冠
+ExiledPrinceEffect: 放逐王子 放逐冲刺
+ExiledGelEffect: 放逐王子 放逐凝胶
+JungleHeartEffect: 放逐王子 丛林核心
+HollowwoodEffect: 空虚木 虚空抵抗
+ShadeCordsEffect: 空虚木 暗影绳索
+IgnitionStoneEffect: 空虚木 灼焰石
+OtherworldlyEffect: 异界 塔防套装奖励
+SuperMedkitEffect: 异界 超级医疗包
+RainbowCurseEffect: 异界 彩虹之咒
+TimeEffect: 时间 时间冲刺
+TectonicEffect: 板块 震地冲击
+MagneticChargeEffect: 板块 磁性充能器
+VileCellsEffect: 板块 邪恶细胞
+VoidEffect: 虚空 虚空冲击
+RoyalDinnerServiceEffect: 虚空 皇家晚宴餐具
+TrenchSackEffect: 迷彩 战壕麻袋
+ShuitherEffect: 迷彩 箭鞘
+InkPotEffect: 陶艺 墨水瓶
+OrigamiEffect: 折纸 纸割伤
+RealitySkullEffect: 折纸 真实颅骨
+VoodooJetsEffect: 折纸 巫毒喷气机
+PainterEffect: 画家 额外油漆液滴
+RecycledEffect: 回收 仆从指挥
+AlchemistsPouchEffect: 回收 炼金师袋
+SatelliteEffect: 回收 卫星
+ToyEffect: 玩具 弹幕光标跟随
+ForbiddenBandanaEffect: 玩具 禁忌头巾
+AncientCrystalEffect: 远古水晶 水晶碎片
+CrystalEffect: 水晶 水晶碎片爆炸
+CrystalGlovesEffect: 水晶 水晶手套
+ShimmerGlowingMushroomEffect: 远古水晶 粘胶微光蘑菇
+FlashlightEffect: 深掘 手电筒
+RedGlowingMushroomEffect: 深掘 红发光蘑菇
+ExplosiveBoxEffect: 炸药 死亡爆炸
+ShuttlecocksEffect: 炸药 羽毛球
+TechnoboostEffect: 炸药 高科技增幅器
+FakeFishyumEffect: 赝疑 可疑守卫
+CubeFolksBlessEffect: 赝疑 方块族之庇护
+MagnesiumEffect: 镁 镁水晶
+BelovezoarEffect: 镁 爱之牛黄
+NoeticStoneEffect: 镁 理智石
+MercuryEffect: 水银 水银冲刺
+SmokeInABottleEffect: 水银 烟雾瓶
+CharcoalEffect: 木炭 木炭准星
+PaperWorksEffect: 木炭 纸烟花
+AmmoBeltEffect: 木炭 弹药腰带
+FireEffect: 火服 悠悠球火焰波
+EnchantedSheathEffect: 火服 附魔剑鞘
+MagmaWatchEffect: 火服 岩浆表
+IceCrystalEffect: 冰晶 魔力药水保留
+TundraNecklaceEffect: 冰晶 雪原项链
+FrozenLilyBeeEffect: 冰晶 冰冻百合蜂
 SandEffect: Desert Movement Speed
-BeastHandlerEffect: Beast Handler
-PygmyExtensionEffect: Pygmy Extension
-WaterEffect: Water Healing
-AquaWatchEffect: Aqua Watch
+BeastHandlerEffect: 沙衣 野兽手套
+PygmyExtensionEffect: 沙衣 矮人延伸器
+WaterEffect: 水装 水之治疗
+AquaWatchEffect: 水装 水之表
