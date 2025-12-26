@@ -1,5 +1,5 @@
 Fargo附属汉化合集(FargoCP) - Mod Version {ModVersion} - TML Version {tMLVersion}
 [#]===============更新细节===============[#]
--修复了Calamity - Fargo's Souls DLC的文本错误
+-增加 Super Souls DLC 汉化
 [#]=====================================[#]
 感谢：所有汉化作者和各位订阅者
