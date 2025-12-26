@@ -203,9 +203,9 @@ Items: {
 	FungusEnchant: {
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/FungusHat] Double tap DOWN to place a fungus sentry
+			Sentries summon mushroom spores around them
+			Summoning radius scales with sentry damage
 			[i:ContinentOfJourney/LittlePuppet] Effects of Little Puppet
-			[i:ContinentOfJourney/SimpleShield] Effects of Simple Shield
 			'''
 		DisplayName: Fungus Enchantment
 	}
