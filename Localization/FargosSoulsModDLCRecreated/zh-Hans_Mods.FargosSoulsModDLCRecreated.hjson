@@ -1919,12 +1919,12 @@ Items: {
 			'''
 	}
 
-	DragonEnchantConsolaria: {
+	ConsolariaDragonEnchant: {
 		DisplayName: 龙魔石
 		Tooltip: 受到伤害后造成火焰爆发
 	}
 
-	TitanEnchantConsolaria: {
+	ConsolariaTitanEnchant: {
 		DisplayName: 泰坦魔石
 		Tooltip: 充能完成后使用远程武器将引发爆炸并对玩家造成击退
 	}
