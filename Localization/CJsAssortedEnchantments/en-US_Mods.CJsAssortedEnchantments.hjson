@@ -9,8 +9,9 @@ Items: {
 		Tooltip:
 			'''
 			Slightly increases jump height
-			Increases damage reduction and gives a thorns effect while doing absolutely nothing
-			Plays a special sound when you die (works in vanity)
+			Increases damage reduction, gives a thorns effect, and makes you immune to knockback while doing absolutely nothing
+			Landing on an enemy deals melee damage and propels you upwards
+			Plays a special sound when you die (works from vanity as well)
 			'L is real 2401'
 			'''
 	}
@@ -19,21 +20,24 @@ Items: {
 		DisplayName: Lucky Enchantment
 		Tooltip:
 			'''
-			Increases luck by 0.5
-			You have a chance to survive any lethal attack that deals more than 50% of your max health in damage
-			Surviving an attack leaves you with 20 HP and cures all debuffs
-			The chance of surviving an attack is 5% multiplied by your current luck value + 1
+			Increases luck by 0.2
+			You have a chance to survive any lethal attack
+			Doing so leaves you with one heart, cures all debuffs, and prevents additional damage for 3 seconds
+			The chance of surviving an attack is 25% multiplied by your current luck value + 1
+			Surviving an attack cuts this number in half, and the chance resets on death
+			<CHANCE LINE>
 			'Lady Luck smiles upon thee'
 			'''
 	}
 
-	TastyEnchantment: {
-		DisplayName: Tasty Enchantment
+	ChefEnchantment: {
+		DisplayName: Chef Enchantment
 		Tooltip:
 			'''
-			Gives stat buffs 2 tiers higher than Exquisitely Stuffed
-			Does not stack with other food buffs
-			'An apple a day keeps the Moon Lord at bay!'
+			Cooked food items have a chance to gain a modifier, providing additional buffs when consumed
+			The strength of the buff and the time it lasts depend on the quality of the food item
+			Only one of these buffs can be active at a time
+			'Bone apple teeth!'
 			'''
 	}
 
@@ -42,7 +46,7 @@ Items: {
 		Tooltip:
 			'''
 			Spawns a King Slime Minion that scales with summon damage
-			Ranged projectiles have a 15% chance to bounce upon hitting a solid wall
+			Projectiles have a 15% chance to bounce upon hitting a solid wall
 			Makes all vanilla slimes friendly
 			'Slimy, yet satisfying'
 			'''
@@ -54,7 +58,7 @@ Items: {
 			'''
 			Grants immunity to Shimmer Phasing
 			Press the Shimmering hotkey to toggle Shimmering Mode
-			While in Shimmering Mode, you will pass through blocks and become immune to most types of damage
+			While in Shimmering Mode, you will pass through blocks and become immune to all non-boss damage
 			You can still move and use items, however vertical movement becomes more difficult, especially while inside blocks
 			'Ooh, sparkly!'
 			'''
@@ -153,9 +157,221 @@ Buffs: {
 		DisplayName: Shimmering Mode
 		Description: You've gone insubstantial!
 	}
+
+	FillingBuff: {
+		DisplayName: Filling Meal
+		Description: Grants an additional boost to all stats
+	}
+
+	EarthyBuffT1: {
+		DisplayName: Earthy Meal (Tier 1)
+		Description:
+			'''
+			Mining speed +10%
+			Tool range +1
+			'''
+	}
+
+	EarthyBuffT2: {
+		DisplayName: Earthy Meal (Tier 2)
+		Description:
+			'''
+			Mining speed +15%
+			Tool range +1
+			'''
+	}
+
+	EarthyBuffT3: {
+		DisplayName: Earthy Meal (Tier 3)
+		Description:
+			'''
+			Mining speed +20%
+			Tool range +2
+			'''
+	}
+
+	HeartyBuffT1: {
+		DisplayName: Hearty Meal (Tier 1)
+		Description:
+			'''
+			Max health +5%
+			Regen +1 HP/s
+			'''
+	}
+
+	HeartyBuffT2: {
+		DisplayName: Hearty Meal (Tier 2)
+		Description:
+			'''
+			Max health +10%
+			Regen +1.5 HP/s
+			'''
+	}
+
+	HeartyBuffT3: {
+		DisplayName: Hearty Meal (Tier 3)
+		Description:
+			'''
+			Max health +15%
+			Regen +2 HP/s
+			'''
+	}
+
+	MagicalBuffT1: {
+		DisplayName: Magical Meal (Tier 1)
+		Description:
+			'''
+			Max mana +5%
+			Mana regen +5 MP/s
+			'''
+	}
+
+	MagicalBuffT2: {
+		DisplayName: Magical Meal (Tier 2)
+		Description:
+			'''
+			Max mana +10%
+			Mana regen +7.5 MP/s
+			'''
+	}
+
+	MagicalBuffT3: {
+		DisplayName: Magical Meal (Tier 3)
+		Description:
+			'''
+			Max mana +15%
+			Mana regen +10 MP/s
+			'''
+	}
+
+	RichBuffT1: {
+		DisplayName: Rich Meal (Tier 1)
+		Description:
+			'''
+			Enemies drop 5% more coins
+			Luck +0.05
+			'''
+	}
+
+	RichBuffT2: {
+		DisplayName: Rich Meal (Tier 2)
+		Description:
+			'''
+			Enemies drop 10% more coins
+			Luck +0.1
+			'''
+	}
+
+	RichBuffT3: {
+		DisplayName: Rich Meal (Tier 3)
+		Description:
+			'''
+			Enemies drop 15% more coins
+			Luck +0.15
+			'''
+	}
+
+	SpicyBuffT1: {
+		DisplayName: Spicy Meal (Tier 1)
+		Description:
+			'''
+			Damage +6%
+			Crit chance +4%
+			'''
+	}
+
+	SpicyBuffT2: {
+		DisplayName: Spicy Meal (Tier 2)
+		Description:
+			'''
+			Damage +8%
+			Crit chance +6%
+			'''
+	}
+
+	SpicyBuffT3: {
+		DisplayName: Spicy Meal (Tier 3)
+		Description:
+			'''
+			Damage +10%
+			Crit chance +8%
+			'''
+	}
+
+	SweetBuffT1: {
+		DisplayName: Sweet Meal (Tier 1)
+		Description:
+			'''
+			Movement speed +10%
+			Attack speed +4%
+			'''
+	}
+
+	SweetBuffT2: {
+		DisplayName: Sweet Meal (Tier 2)
+		Description:
+			'''
+			Movement speed +10%
+			Attack speed +6%
+			'''
+	}
+
+	SweetBuffT3: {
+		DisplayName: Sweet Meal (Tier 3)
+		Description:
+			'''
+			Movement speed +20%
+			Attack speed +8%
+			'''
+	}
+
+	ToughBuffT1: {
+		DisplayName: Tough Meal (Tier 1)
+		Description:
+			'''
+			Defense +6
+			Damage reduction +4%
+			'''
+	}
+
+	ToughBuffT2: {
+		DisplayName: Tough Meal (Tier 2)
+		Description:
+			'''
+			Defense +8
+			Damage reduction +6%
+			'''
+	}
+
+	ToughBuffT3: {
+		DisplayName: Tough Meal (Tier 3)
+		Description:
+			'''
+			Defense +10
+			Damage reduction +8%
+			'''
+	}
+
+	LuckyBreakBuff: {
+		DisplayName: Lucky Break Buff
+		Description: Mods.CJsAssortedEnchantments.Buffs.LuckyBreakBuff.Description
+	}
 }
 
 Keybinds: {
 	Shimmering.DisplayName: Shimmering Mode
 	ActivateShimmering.DisplayName: Activate Shimmering Mode
 }
+
+Prefixes: {
+	Filling.DisplayName: Filling
+	Earthy.DisplayName: Earthy
+	Hearty.DisplayName: Hearty
+	Magical.DisplayName: Magical
+	Rich.DisplayName: Rich
+	Spicy.DisplayName: Spicy
+	Sweet.DisplayName: Sweet
+	Tough.DisplayName: Tough
+}
+
+DamageClasses.FoodDamageClass.DisplayName: Food Damage Class
