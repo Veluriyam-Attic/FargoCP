@@ -19,6 +19,7 @@ Toggler: {
 	FungalSymbioteEffects: Fungal Symbiote
 	ShellfishMinionEffect: Shellfish Minion
 	GiantPearlEffect: Giant Pearl
+	MolluskEffect: Mollusk Effects
 	PrismaticEffects: Prismatic Effects
 	DesertProwlerEffects: Desert Prowler Effects
 	TitanHeartEffects: Titan Heart Effects
@@ -260,11 +261,11 @@ Items: {
 	WulfrumEnchant: {
 		Tooltip:
 			'''
-			Not to be confused with Tungsten Enchant…'
+			Not to be confused with Tungsten Enchantment…'
 			+5 defense when below 50% life
 			Effects of Trinket of Chi, Rotten Dogtooth, and Wulfrum Acrobatics Pack
 			'''
-		DisplayName: Wulfrum Enchant
+		DisplayName: Wulfrum Enchantment
 	}
 
 	VictideEnchant: {
@@ -276,7 +277,7 @@ Items: {
 			Provides increased underwater mobility and slightly reduces breath loss in the abyss
 			Effects of Ocean Crest, Shield of the Ocean, and Luxors Gift
 			'''
-		DisplayName: Victide Enchant
+		DisplayName: Victide Enchantment
 	}
 
 	UmbraphileEnchant: {
@@ -612,7 +613,7 @@ Items: {
 	}
 
 	CrierEnchant: {
-		DisplayName: Crier Enchant
+		DisplayName: Crier Enchantment
 		Tooltip:
 			'''
 			Nothing to cry about
@@ -622,7 +623,7 @@ Items: {
 	}
 
 	NobleEnchant: {
-		DisplayName: Noble Enchant
+		DisplayName: Noble Enchantment
 		Tooltip:
 			'''
 			Rich with culture
@@ -687,7 +688,7 @@ Items: {
 	}
 
 	ShootingStarEnchant: {
-		DisplayName: Shooting Star Enchant
+		DisplayName: Shooting Star Enchantment
 		Tooltip:
 			'''
 			Echoes of the cosmic ballad dance in your head
@@ -1911,28 +1912,28 @@ Items: {
 			'''
 	}
 
-	DragonEnchantConsolaria: {
-		DisplayName: Dragon Enchant
+	ConsolariaDragonEnchant: {
+		DisplayName: Dragon Enchantment
 		Tooltip: Creates a burst of flames after taking damage
 	}
 
-	TitanEnchantConsolaria: {
-		DisplayName: Titan Enchant
+	ConsolariaTitanEnchant: {
+		DisplayName: Titan Enchantment
 		Tooltip: Using ranged weapons triggers a recoil blast
 	}
 
 	GemTechEnchant: {
 		Tooltip: ""
-		DisplayName: Gem Tech Enchant
+		DisplayName: Gem Tech Enchantment
 	}
 
 	PlaguebringerEnchant: {
-		DisplayName: Plaguebringer Enchant
+		DisplayName: Plaguebringer Enchantment
 		Tooltip: ""
 	}
 
 	DesertProwlerEnchant: {
-		DisplayName: Desert Prowler Enchant
+		DisplayName: Desert Prowler Enchantment
 		Tooltip:
 			'''
 			Ranged attacks deal an extra 1 flat damage
