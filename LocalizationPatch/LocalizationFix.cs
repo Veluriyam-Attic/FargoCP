@@ -7,9 +7,11 @@ using System.Threading.Tasks;
 using Terraria;
 using Terraria.Localization;
 using Terraria.ModLoader;
+using static FargoCP.LocalizationPatch.Utility;
 
 namespace FargoCP.LocalizationPatch
 {
+    [JITWhenModsEnabled("FargowiltasCrossmod", "CalamityBardHealer")]
     public class LocalizationFix:GlobalItem
     {
         private readonly List<string> CalEnchant = [
@@ -55,10 +57,18 @@ namespace FargoCP.LocalizationPatch
             else return null;
         }
 
+        //文本插入泰拉瑞亚自带文本前
+        public void InsertTooltips(List<TooltipLine> tooltips, TooltipLine tooltip,ref int index , bool firstline = false) 
+        {
+            if (firstline) index = tooltips.FindIndex(t => t.Name == "Tooltip0" && t.Mod == "Terraria");
+            tooltips.Insert(index, tooltip);
+            index++;
+        }
+
         public override void ModifyTooltips(Item item, List<TooltipLine> tooltips)
         {
-            //原版物品跳出判断，避免栈溢出
-            if (item.ModItem == null) return;
+            //原版物品和其他模组物品跳出判断，避免栈溢出
+            if (item.ModItem == null || item.ModItem.Mod.Name != "FargosSoulsModDLCRecreated") return;
 
 
             //删除原模组的文本
@@ -84,22 +94,26 @@ namespace FargoCP.LocalizationPatch
                 {
                     if (item.type == Utility.FSDLC.Item(target).Type) 
                     {
+                        
                         var calbardText = TooltipsPatch(target + ".Calbard", cal);
                         var tailText = TooltipsPatch(target + ".Tail", cal);
                         var fargoText = TooltipsPatch(target + ".FargoCross", cal);
 
-                        tooltips.Add(TooltipsPatch(target + ".Main", cal));
+                        
+                        int calindex = 0;
+
+                        InsertTooltips(tooltips, TooltipsPatch(target + ".Main", cal),ref calindex,true);
                         if (Utility.Calbard.Load && calbardText != null) 
                         {
-                            tooltips.Add(calbardText);
+                            InsertTooltips(tooltips, calbardText, ref calindex);
                         }
                         if (Utility.FargoCross.Load && fargoText != null)
                         {
-                            tooltips.Add(fargoText);
+                            InsertTooltips(tooltips, fargoText, ref calindex);
                         }
                         else if (tailText != null)
                         {
-                            tooltips.Add(tailText);
+                            InsertTooltips(tooltips, tailText, ref calindex);
                         }
                     }
                 }
@@ -111,14 +125,16 @@ namespace FargoCP.LocalizationPatch
                         var forceTailtext = TooltipsPatch(forces + target + ".Tail", cal);
                         var forceFargotext = TooltipsPatch(forces + target + ".FargoCross", cal);
 
-                        tooltips.Add(TooltipsPatch(forces + target + ".Main", cal));
+                        int calindex2 = 0;
+
+                        InsertTooltips(tooltips, TooltipsPatch(forces + target + ".Main", cal),ref calindex2,true);
                         if (Utility.FargoCross.Load && forceFargotext != null)
                         {
-                            tooltips.Add(forceFargotext);
+                            InsertTooltips(tooltips, forceFargotext, ref calindex2);
                         }
                         else if (forceTailtext != null)
                         {
-                            tooltips.Add(forceTailtext);
+                            InsertTooltips(tooltips, forceTailtext, ref calindex2);
                         }
                     }
                 }
@@ -126,31 +142,33 @@ namespace FargoCP.LocalizationPatch
                 //暴君之魂
                 if (item.type == Utility.FSDLC.Item("CalamitySoul").Type)
                 {
-                    tooltips.Add(TooltipsPatch(forces + "CalamitySoul" + ".Armor", cal));
+                    int calindex3 = 0;
+
+                    InsertTooltips(tooltips, TooltipsPatch(forces + "CalamitySoul" + ".Armor", cal),ref calindex3,true);
                     if (ModLoader.HasMod("CalamityEntropy") &&
                         ModLoader.HasMod("CalamityHunt") &&
                         ModLoader.HasMod("CatalystMod") &&
                         ModLoader.HasMod("Clamity"))
                     {
-                        tooltips.Add(TooltipsPatch(forces + "CalamitySoul" + ".AddonArmor", cal));
+                        InsertTooltips(tooltips, TooltipsPatch(forces + "CalamitySoul" + ".AddonArmor", cal), ref calindex3);
                     }
-                    tooltips.Add(TooltipsPatch(forces + "CalamitySoul" + ".Main", cal));
+                    InsertTooltips(tooltips, TooltipsPatch(forces + "CalamitySoul" + ".Main", cal), ref calindex3);
                     if (Utility.FargoCross.Load)
                     {
-                        tooltips.Add(TooltipsPatch(forces + "CalamitySoul" + ".FargoCross", cal));
+                        InsertTooltips(tooltips, TooltipsPatch(forces + "CalamitySoul" + ".FargoCross", cal), ref calindex3);
                     }
                     else
                     {
-                        tooltips.Add(TooltipsPatch(forces + "CalamitySoul" + ".NoFargoCross", cal));
+                        InsertTooltips(tooltips, TooltipsPatch(forces + "CalamitySoul" + ".NoFargoCross", cal), ref calindex3);
                     }
                     if (ModLoader.HasMod("CalamityEntropy") &&
                         ModLoader.HasMod("CalamityHunt") &&
                         ModLoader.HasMod("CatalystMod") &&
                         ModLoader.HasMod("Clamity"))
                     {
-                        tooltips.Add(TooltipsPatch(forces + "CalamitySoul" + ".AddonAccessory", cal));
+                        InsertTooltips(tooltips, TooltipsPatch(forces + "CalamitySoul" + ".AddonAccessory", cal), ref calindex3);
                     }
-                    tooltips.Add(TooltipsPatch(forces + "CalamitySoul" + ".Tail", cal));
+                    InsertTooltips(tooltips, TooltipsPatch(forces + "CalamitySoul" + ".Tail", cal), ref calindex3);
                 }
             }
 
@@ -187,7 +205,8 @@ namespace FargoCP.LocalizationPatch
                 //世界树之魂
                 if (item.type == Utility.FSDLC.Item("ThoriumSoul").Type)
                 {
-                    tooltips.Add(TooltipsPatch("ThoriumSoul" + ".Main", thor));
+                    int index = 0;
+                    InsertTooltips(tooltips, TooltipsPatch("ThoriumSoul" + ".Main", thor), ref index, true);
                 }
             }
             #endregion
@@ -200,7 +219,8 @@ namespace FargoCP.LocalizationPatch
                 string spi = "spi";
                 if (item.type == Utility.FSDLC.Item("SpiritSoul").Type)
                 {
-                    tooltips.Add(TooltipsPatch("SpiritSoul" + ".Main", spi));
+                    int index = 0;
+                    InsertTooltips(tooltips, TooltipsPatch("SpiritSoul" + ".Main", spi), ref index, true);
                 }
             }
             #endregion

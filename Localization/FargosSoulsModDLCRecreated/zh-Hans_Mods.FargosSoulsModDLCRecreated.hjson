@@ -1,250 +1,250 @@
 Toggler: {
 	MuspelheimForceHeader: 穆斯贝尔海姆之力
-	BulbEffect: 活力花瓣
+	BulbEffect: 绽花 活力花瓣
 	AnnihilationForceHeader: 湮灭之力
-	AerospecMinion: 天武神
-	GladiatorsLocketEffect: 角斗士金锁
-	UnstableGraniteCoreEffect: 不稳定花岗岩核心
+	AerospecMinion: 天蓝 天武神
+	GladiatorsLocketEffect: 天蓝 角斗士金锁
+	UnstableGraniteCoreEffect: 天蓝 不稳定花岗岩核心
 	DesolationForceHeader: 荒芜之力
 	DevastationForceHeader: 毁灭之力
 	ExaltationForceHeader: 升华之力
-	RadianceEffect: 辐辉
-	GravistarSabatonEffect: 引力靴
-	UrsaSergeantEffect: 大熊座雀鲷
-	AstralStarsEffect: 星幻落星
-	AtaxiaEffects: 渊泉套装效果
-	HallowedRuneEffects: 神圣符文
-	AtaxariaVentSpirit: 沸腾渊泉
-	EmpyreanEffects: 皇天套装效果
-	FungalSymbioteEffects: 真菌共生体
-	ShellfishMinionEffect: 沉沦之贝
+	RadianceEffect: 星幻 辐辉
+	GravistarSabatonEffect: 星幻 引力靴
+	UrsaSergeantEffect: 星幻 大熊座雀鲷
+	AstralStarsEffect: 星幻 星幻落星
+	AtaxiaEffects: 渊泉 套装效果
+	HallowedRuneEffects: 渊泉 神圣符文
+	AtaxariaVentSpirit: 渊泉 沸腾渊泉
+	EmpyreanEffects: 皇天 套装效果
+	FungalSymbioteEffects: 斯塔提斯 真菌共生体
+	ShellfishMinionEffect: 软壳 沉沦之贝
 	GiantPearlEffect: 大珍珠
-	MolluskEffect: 软壳套装效果
-	PrismaticEffects: 光棱套装效果
-	DesertProwlerEffects: 沙漠巡游者套装效果
-	TitanHeartEffects: 泰坦之心套装效果
-	LunicCorpsEffects: 雷神之锤套装效果
-	AquaticEmblemEffect: 海波纹章
-	DaedalusEffects: 代达罗斯套装效果
-	PlagueBringerEffects: 瘟疫使者套装效果
-	DaedalusMinionEffect: 代达罗斯水晶
-	GoldiePetEffect: 盗贼铸币
-	OmegaBlueTentaclesEffect: 蓝色欧米茄触手
-	AbyssalDivingSuitEffect: 深渊潜游服
-	RedDevilMinionEffect: 红恶魔
-	ProfanedSoulCrystalEffect: 渎神魂晶
-	ReaverEffects: 掠夺者套装效果
-	ReaverMinionEffects: 掠夺者宝珠
-	ToxicHeartEffects: 毒疫之心
-	PlagueFuelPackEffects: 瘟疫燃料背包
-	TheCamperEffects: 露营者
-	TarragonEffects: 龙蒿套装效果
-	BloodflareEffects: 血炎套装效果
-	IntergelacticOrbit: 异宇星凝套装效果
-	InfluxClusterEffects: 凝涌星核
-	PolterMinesEffect: 噬魂幽花地雷
-	LuxorsGiftEffect: 卢克索的礼物
-	GodSlayerEffects: 弑神者套装效果
-	NebulousCoreEffects: 星云之核
-	SilvaEffects: 始源林海套装效果
-	SilvaMinionEffects: 始源林海水晶
-	AmalgamEffects: 聚合之脑
-	AuricSoulArtifactEffects: 圣魂神物
-	YharimsGiftEffect: 寻神者之礼
+	MolluskEffect: 软壳 套装效果
+	PrismaticEffects: 光棱 套装效果
+	DesertProwlerEffects: 沙漠巡游者 套装效果
+	TitanHeartEffects: 泰坦之心 套装效果
+	LunicCorpsEffects: 雷神之锤 套装效果
+	AquaticEmblemEffect: 软壳 海波纹章
+	DaedalusEffects: 代达罗斯 套装效果
+	PlagueBringerEffects: 瘟疫使者 套装效果
+	DaedalusMinionEffect: 代达罗斯 召唤水晶
+	GoldiePetEffect: 日影 盗贼铸币
+	OmegaBlueTentaclesEffect: 蓝色欧米茄 触手
+	AbyssalDivingSuitEffect: 蓝色欧米茄 深渊潜游服
+	RedDevilMinionEffect: 魔影 红恶魔
+	ProfanedSoulCrystalEffect: 魔影 渎神魂晶
+	ReaverEffects: 掠夺者 套装效果
+	ReaverMinionEffects: 掠夺者 掠夺宝珠
+	ToxicHeartEffects: 瘟疫死神 毒疫之心
+	PlagueFuelPackEffects: 瘟疫死神 瘟疫燃料背包
+	TheCamperEffects: 瘟疫死神 露营者
+	TarragonEffects: 龙蒿 套装效果
+	BloodflareEffects: 血炎 套装效果
+	IntergelacticOrbit: 异宇星凝 套装效果
+	InfluxClusterEffects: 异宇星凝 凝涌星核
+	PolterMinesEffect: 血炎 噬魂幽花地雷
+	LuxorsGiftEffect: 胜潮 卢克索的礼物
+	GodSlayerEffects: 弑神者 套装效果
+	NebulousCoreEffects: 弑神者 星云之核
+	SilvaEffects: 始源林海 套装效果
+	SilvaMinionEffects: 始源林海 召唤水晶
+	AmalgamEffects: 始源林海 聚合之脑
+	AuricSoulArtifactEffects: 始源林海 圣魂神物
+	YharimsGiftEffect: 始源林海 寻神者之礼
 	AuricEffects: Auric Effects
-	HeartOfTheElementsEffects: 元灵之心
-	BerserkerEffect: 狂战士套装效果
-	BiotechEffect: 生物工程探测器
-	ConduitShield: 电容护盾
-	CyberPunkEffect: 赛博朋克套装效果
-	BeeBootiesEffect: 蜜蜂靴
-	DreadEffect: 恐惧套装效果
-	CrystalScorpionEffect: 水晶蝎
-	LodestoneEffect: 地脉套装效果
-	MetronomeEffect: 节拍器
-	SpringStepsEffect: 弹簧鞋
-	SlagStompersEffect: 熔渣重踏
-	MarchingBandEffect: 仪仗队套装效果
-	TideGlobules: 洪流逆潮者套装效果（王冠）
-	ValadiumEffects: 虚金套装效果
-	GemTechEffects: 天钻套装效果
+	HeartOfTheElementsEffects: 圣金源 元灵之心
+	BerserkerEffect: 狂战士 套装效果
+	BiotechEffect: 医疗 生物工程探测器
+	ConduitShield: 电容 电容护盾
+	CyberPunkEffect: 赛博 套装效果
+	BeeBootiesEffect: 绽生 蜜蜂靴
+	DreadEffect: 恐惧 套装效果
+	CrystalScorpionEffect: 晶体 水晶蝎
+	LodestoneEffect: 地脉 套装效果
+	MetronomeEffect: 大师 节拍器
+	SpringStepsEffect: 熔岩 弹簧鞋
+	SlagStompersEffect: 熔岩 熔渣重踏
+	MarchingBandEffect: 仪仗队 套装效果
+	TideGlobules: 洪流 套装效果（王冠）
+	ValadiumEffects: 虚金 套装效果
+	GemTechEffects: 天钻 套装效果
 	AlfheimForceHeader: 阿尔弗海姆之力
 	AsgardForceHeader: 阿斯加德之力
 	HelheimForceHeader: 赫尔海姆之力
 	MidgardForceHeader: 米德加德之力
 	NiflheimForceHeader: 尼福尔海姆之力
 	SvartalfheimForceHeader: 斯瓦特阿尔海姆之力
-	MixtapeEffects: 杂集磁带
-	VictideEffects: 胜潮套装效果
-	AerospecEffects: 天蓝套装效果
-	BrimflameEffects: 硫火套装效果
-	ScuttlersJewelEffect: 潜遁者宝石
-	SulphurousEffect: 硫磺套装效果
-	SandCloakEffects: 沙尘披风
-	SpectralVeilEffects: 幽灵披风
-	PlagueReaperEffects: 瘟疫死神套装效果
-	StatigelEffects: 斯塔提斯套装效果
-	BlazingCoreEffects: 渎火核心
-	CorrosiveSpineEffects: 腐蚀脊椎
-	NoviceClericOrbit: 牧师套装效果
-	KarmicHolderEffect: 业果之握
-	WarlockEffects: 术士套装效果
-	DemonTongueEffects: 恶魔之舌
-	DarkEffigyEffects: 鬼影塑像
-	IridescentEffects: 光耀套装效果
-	EqualizerEffects: 平等护符
-	LifeQuartzShieldEffects: 生命石英盾
-	AloeLeafEffects: 露水收集器
-	NirvanaStatuetteEffects: 涅槃雕像
-	MaskOfTheCrystalEyeEffects: 水晶之眼面具
-	FlawlessChrysalisEffects: 无暇之蛹
-	AbyssalShellEffects: 深渊贝壳
+	MixtapeEffects: 贵族 杂集磁带
+	VictideEffects: 胜潮 套装效果
+	AerospecEffects: 天蓝 套装效果
+	BrimflameEffects: 硫火 套装效果
+	ScuttlersJewelEffect: 雪境暴徒 潜遁者宝石
+	SulphurousEffect: 硫磺 套装效果
+	SandCloakEffects: 硫磺 沙尘披风
+	SpectralVeilEffects: 神惧 幽灵披风
+	PlagueReaperEffects: 瘟疫死神 套装效果
+	StatigelEffects: 斯塔提斯 套装效果
+	BlazingCoreEffects: 龙蒿 渎火核心
+	CorrosiveSpineEffects: 幻渊鱼群 腐蚀脊椎
+	NoviceClericOrbit: 牧师 套装效果
+	KarmicHolderEffect: 崇圣 业果之握
+	WarlockEffects: 术士 套装效果
+	DemonTongueEffects: 术士 恶魔之舌
+	DarkEffigyEffects: 术士 鬼影塑像
+	IridescentEffects: 光耀 套装效果
+	EqualizerEffects: 光耀 平等护符
+	LifeQuartzShieldEffects: 光耀 生命石英盾
+	AloeLeafEffects: 缚生 露水收集器
+	NirvanaStatuetteEffects: 堕骑 涅槃雕像
+	MaskOfTheCrystalEyeEffects: 泰坦 水晶之眼面具
+	FlawlessChrysalisEffects: 缚生 无暇之蛹
+	AbyssalShellEffects: 泰坦 深渊贝壳
 	SpiritBandEffects: Spirit Band
-	DarksteelEffects: 暗钢套装效果
-	OgreSandalEffects: 炽光疾行
-	BronzeEffects: 青铜套装效果
-	ChampionsRebuttalEffects: 英灵的反击之盾
-	OlympicTorchEffects: 奥林匹克圣火
-	SpartanSandalEffects: 斯巴达凉鞋
-	GraniteArmorEffects: 花岗岩套装效果
-	EyeOfTheStormEffects: 动能转换装置
-	LichEffects: 巫妖套装效果
-	PhylacteryEffects: 魂匣
-	WhiteDwarfEffects: 白矮星套装效果
-	CelestialEffects: 天界套装效果
-	JesterEffects: 弄臣套装效果
-	FanLetterEffects: 粉丝的信函
+	DarksteelEffects: 暗钢 套装效果
+	OgreSandalEffects: 耐钢 炽光疾行
+	BronzeEffects: 青铜 套装效果
+	ChampionsRebuttalEffects: 青铜 英灵的反击之盾
+	OlympicTorchEffects: 青铜 奥林匹克圣火
+	SpartanSandalEffects: 青铜 斯巴达凉鞋
+	GraniteArmorEffects: 花岗岩 套装效果
+	EyeOfTheStormEffects: 花岗岩 动能转换装置
+	LichEffects: 巫妖 套装效果
+	PhylacteryEffects: 巫妖 魂匣
+	WhiteDwarfEffects: 白矮星 套装效果
+	CelestialEffects: 天界 套装效果
+	JesterEffects: 弄臣 套装效果
+	FanLetterEffects: 弄臣 粉丝的信函
 	CrietzEffects: 精准项链
 	BandOfReplenishmentEffects: 恢复手环
-	TerrariumEffects: 元素之灵套装效果
-	TerrariumSurroundSoundEffects: 界元音箱
+	TerrariumEffects: 元灵 套装效果
+	TerrariumSurroundSoundEffects: 元灵 界元音箱
 	VanaheimForceHeader: 华纳海姆之力
-	ShadeMasterEffect: 暗影大师套装效果
-	ShinobiSigilEffect: 忍者魔符
-	IllumiteEffects: 荧光套装效果
-	FungalClumpEffects: 真菌块
-	MirrorOfTheBeholderEffects: 注视者之镜
-	GeodeEffects: 晶体套装效果
-	MagicLanternEffect: 魔法灯笼
-	DavyJonesLockboxEffect: 深海阎王之宝盒
-	AssassinEffects: 刺客套装效果
-	DartPouchEffects: 飞镖袋
-	DreamWeaverEffects: 梦境编织者套装效果
-	RhapsodistEffects: 狂音套装效果
-	PyromancerEffects: 炎法套装效果
-	PlasmaGeneratorEffects: 等离子护盾发生器
-	ConcertTicketsEffect: 音乐会门票
-	OrnateEffects: 华贵套装效果
-	MaestroEffects: 大师套装效果
-	SandstoneEffect: 砂石套装效果
-	NightShadeEffect: 影缀花
-	FabergeEggEffect: 皇家彩蛋
-	HeartOfTheJungleEffect: 丛林之心
-	LivingWoodMinion: 生命木橡子召唤
-	BloomingShieldEffect: 绽花盾
-	FragrantCorsageEffect: 芳香胸花
-	CoralEffects: 珊瑚套装效果
-	AnglerMinion: 宠物深海琵琶鱼
-	GoblinWarShieldEffect: 哥布林战盾
-	TideHunterEffects: 猎潮套装效果
-	AnglerBowlEffects: 琵琶鱼球碗
+	ShadeMasterEffect: 暗影大师 套装效果
+	ShinobiSigilEffect: 暗影大师 忍者魔符
+	IllumiteEffects: 荧光 套装效果
+	FungalClumpEffects: 斯塔提斯 真菌块
+	MirrorOfTheBeholderEffects: 虚金 注视者之镜
+	GeodeEffects: 晶体 套装效果
+	MagicLanternEffect: 晶体 魔法灯笼
+	DavyJonesLockboxEffect: 晶体 深海阎王之宝盒
+	AssassinEffects: 刺客 套装效果
+	DartPouchEffects: 刺客 飞镖袋
+	DreamWeaverEffects: 织梦 套装效果
+	RhapsodistEffects: 狂音 套装效果
+	PyromancerEffects: 炎法 套装效果
+	PlasmaGeneratorEffects: 炎法 等离子护盾发生器
+	ConcertTicketsEffect: 华贵 音乐会门票
+	OrnateEffects: 华贵 套装效果
+	MaestroEffects: 大师 套装效果
+	SandstoneEffect: 砂石 套装效果
+	NightShadeEffect: 危机 影缀花
+	FabergeEggEffect: 飞羽 皇家彩蛋
+	HeartOfTheJungleEffect: 绽生 丛林之心
+	LivingWoodMinion: 生命木 生命木橡子召唤
+	BloomingShieldEffect: 绽花 绽花盾
+	FragrantCorsageEffect: 绽花 芳香胸花
+	CoralEffects: 珊瑚 套装效果
+	AnglerMinion: 潜海 宠物深海琵琶鱼
+	GoblinWarShieldEffect: 紫衫木 哥布林战盾
+	TideHunterEffects: 猎潮 套装效果
+	AnglerBowlEffects: 猎潮 琵琶鱼球碗
 	OceanRetalitationEffect: 海潮之噬
-	NagaSkinEffect: 娜迦套装效果
-	IcyEffects: 碎冰套装效果
-	CryomancerEffect: 极寒巫师套装效果
-	SnowyOwlPet: 宠物迷失雪鸮
-	WhisperingEffects: 低语者套装效果
+	NagaSkinEffect: 娜迦 套装效果
+	IcyEffects: 碎冰 套装效果
+	CryomancerEffect: 极寒 套装效果
+	SnowyOwlPet: 极寒 宠物迷失雪鸮
+	WhisperingEffects: 低语 套装效果
 	JotunheimForceHeader: 约顿海姆之力
-	SpiritTrapperEffects: 猎魂者套装效果
-	InnerFlameEffects: 心灵之火
-	ScryingGlassEffects: 全知水晶球
-	ArtificersFocusEffects: 工匠的聚焦项链
-	ArtificersRocketeersEffects: 工匠的火箭靴
-	ArtificersShieldEffects: 工匠的护盾
-	WyvernPetEffect: 宠物小飞龙
-	DragonEffects: 绿龙套装效果
+	SpiritTrapperEffects: 猎魂 套装效果
+	InnerFlameEffects: 猎魂 心灵之火
+	ScryingGlassEffects: 猎魂 全知水晶球
+	ArtificersFocusEffects: 丝绸 工匠的聚焦项链
+	ArtificersRocketeersEffects: 巫毒 工匠的火箭靴
+	ArtificersShieldEffects: 巫毒 工匠的护盾
+	WyvernPetEffect: 绿龙 宠物小飞龙
+	DragonEffects: 绿龙 套装效果
 	DragonTallonNecklaceEffects: Dragon Talon Necklace
-	CursedFlailCoreEffects: 咒炎连枷核心
-	CrashBootsEffects: 震地靴
-	FleshEffects: 血肉套装效果
-	BliterPetEffects: 宠物飞行疱虫
-	DemonBloodEffect: 魔血套装效果
-	VileFlailCoreEffect: 邪恶连枷核心
-	MagmaEffects: 熔岩套装效果
-	WhiteKnightEffects: 白骑士套装效果
-	SmotheringBandEffects: 暗影催化剂
-	LilMogPetEffects: 宠物小猫
-	HarbingerEffects: 先兆套装效果
-	BlisterPetEffects: 宠物飞行疱虫
+	CursedFlailCoreEffects: 恐惧 咒炎连枷核心
+	CrashBootsEffects: 恐惧 震地靴
+	FleshEffects: 血肉 套装效果
+	BliterPetEffects: 血肉 宠物飞行疱虫
+	DemonBloodEffect: 魔血 套装效果
+	VileFlailCoreEffect: 魔血 邪恶连枷核心
+	MagmaEffects: 熔岩 套装效果
+	WhiteKnightEffects: 白骑士 套装效果
+	SmotheringBandEffects: 白骑士 暗影催化剂
+	LilMogPetEffects: 白骑士 宠物小猫
+	HarbingerEffects: 先兆 套装效果
+	BlisterPetEffects: 血肉 宠物飞行疱虫
 	ArtificersFocusEffect: 工匠的聚焦项链
-	SilkEffects: 丝绸套装效果
-	VoidFaquirEffects: 虚空行者套装效果
+	SilkEffects: 丝绸 套装效果
+	VoidFaquirEffects: 虚空行者 套装效果
 	CommunityForceHeader: 灾集之力
-	ShogunEffects: 神胶幕府套装效果
-	SplendorJamEffects: 异彩果酱
-	OceanRetaliationEffect: 海潮之噬
-	YewWoodEffect: 紫衫木套装效果
-	VampiricGlandEffects: 吸血鬼试剂
-	TideTurnerEffects: 洪流逆潮者套装效果
-	PlagueLordFlaskEffects: 瘟疫之主的药剂瓶
-	DissTrackEffect: Diss曲目
-	AngelicAllianceEffect: 圣天誓盟
-	VoidOfExtinctionEffects: 终结虚空
-	FrostFlareEffect: 霜冻之炎
-	TheAbsorberEffects: 阴阳吸星石
-	AfflictionEffects: 灾劫之尖啸
-	AmadiasPendantEffects: 阿米迪亚斯之垂饰
-	BloodflareCoreEffects: 血炎晶核
-	BloomStoneEffects: 绽花石
-	BlunderBoostEffect: 悖论增幅器
-	DynamoStemCellsEffect: 痴愚金龙干细胞
-	ChaosStoneEffects: 混乱石
-	VoidOfCalamityEffects: 灾劫虚空
-	FlameLickedShellEffects: 舐火甲壳
-	CryoStoneEffect: 冰川石
-	FrostBarrierEffect: 寒冰屏障
-	LeviathanAmbergrisEffects: 利维坦龙涎香
-	HideOfAstrumDeusEffect: 星神隐壳
-	PhantomicArtifactEffects: 幻魂神物
-	RegenatorEffects: 再生护符
-	DaawnlightSpiritOriginEffects: 曙旼始灵
-	OldDukeScalesEffect: 硫海遗爵之鳞
-	DeepDiverEffect: 深潜者
-	AlchemicalFlaskEffects: 冶金烧瓶
-	DragonScalesEffects: 浴火龙鳞
-	VenetratedLocketEffects: 敬天神盗盒
-	FleshTotemEffects: 血肉图腾
-	GloveOfRecklessnessEffects: 鲁莽手套
-	GloveOfPrecisionEffects: 精准手套
-	TheBeeEffects: 蜜蜂护符
-	HowlsHeartEffect: 哈尔之心
-	WulfrumAcrobaticsEffect: 钨钢杂技背包
-	RustyMedallionEffects: 锈蚀勋章
-	ShieldOfTheHighRulerEffects: 至高统治之盾
-	ShieldOfTheOceanEffects: 海之盾
-	SlagslitterPauldronEffects: 熔火碎矿肩甲
-	EtherealExtorterEffects: 虚空掠夺者
-	AquaticHeartEffects: 渊洋之心
-	BloodflareRitualistEffects: 血祭疗仪
-	SnowRuffianEffect: 雪境暴徒套装效果
-	LizhardTailEffect: 神庙蜥蜴之尾
-	SerpentShieldEffect: 蛇之盾
-	AirWalkersEffect: 履空靴
-	WeightedWingletsEffect: 举足轻重靴
-	BeholderGazeEffect: 注视者之凝
-	TheOmegaCoreEffects: 欧米伽核心
-	YumasPendantEffects: 游马的皇之键
-	ConcussiveWarheadEffects: 震荡弹头
-	GhastlyCarapanceEffects: 惊魂甲壳
-	GutWrenchersSheathEffects: 扳手拳套
-	JetBootsEffect: 喷气靴
-	JetBootsEffects: 喷气靴
-	PocketFusionGeneratorEffects: 小型聚变发生器
-	SandweaversTiaraEffect: 沙海穿梭者头冠
-	UpDownBalloonEffects: 紊流气球
-	HungeringBlossomEffects: 饮魔玫瑰
-	ProofOfAraviceEffects: 贪婪之证
-	ProofOfAvariceEffects: 贪婪之证
+	ShogunEffects: 神胶幕府 套装效果
+	SplendorJamEffects: 神胶幕府 异彩果酱
+	OceanRetaliationEffect: 娜迦 海潮之噬
+	YewWoodEffect: 紫衫木 套装效果
+	VampiricGlandEffects: 血肉 吸血鬼试剂
+	TideTurnerEffects: 洪流 套装效果
+	PlagueLordFlaskEffects: 洪流 瘟疫之主的药剂瓶
+	DissTrackEffect: 赛博 Diss曲目
+	AngelicAllianceEffect: 魔影 圣天誓盟
+	VoidOfExtinctionEffects: 硫火 终结虚空
+	FrostFlareEffect: 代达罗斯 霜冻之炎
+	TheAbsorberEffects: 皇天 阴阳吸星石
+	AfflictionEffects: 血炎 灾劫之尖啸
+	AmadiasPendantEffects: 硫磺 阿米迪亚斯之垂饰
+	BloodflareCoreEffects: 血炎 血炎晶核
+	BloomStoneEffects: 掠夺者 绽花石
+	BlunderBoostEffect: 始源林海 悖论增幅器
+	DynamoStemCellsEffect: 始源林海 痴愚金龙干细胞
+	ChaosStoneEffects: 硫火 混乱石
+	VoidOfCalamityEffects: 硫火 灾劫虚空
+	FlameLickedShellEffects: 硫火 舐火甲壳
+	CryoStoneEffect: 代达罗斯 冰川石
+	FrostBarrierEffect: 代达罗斯 寒冰屏障
+	LeviathanAmbergrisEffects: 幻渊鱼群 利维坦龙涎香
+	HideOfAstrumDeusEffect: 星幻 星神隐壳
+	PhantomicArtifactEffects: 血炎 幻魂神物
+	RegenatorEffects: 渊泉 再生护符
+	DaawnlightSpiritOriginEffects: 圣金源 曙旼始灵
+	OldDukeScalesEffect: 蓝色欧米茄 硫海遗爵之鳞
+	DeepDiverEffect: 软壳 深潜者
+	AlchemicalFlaskEffects: 瘟疫使者 冶金烧瓶
+	DragonScalesEffects: 圣金源 浴火龙鳞
+	VenetratedLocketEffects: 弑神者 敬天神盗盒
+	FleshTotemEffects: 渊泉 血肉图腾
+	GloveOfRecklessnessEffects: 掠夺者 鲁莽手套
+	GloveOfPrecisionEffects: 掠夺者 精准手套
+	TheBeeEffects: 掠夺者 蜜蜂护符
+	HowlsHeartEffect: 代达罗斯 哈尔之心
+	WulfrumAcrobaticsEffect: 钨钢 钨钢杂技背包
+	RustyMedallionEffects: 硫磺 锈蚀勋章
+	ShieldOfTheHighRulerEffects: 皇天 至高统治之盾
+	ShieldOfTheOceanEffects: 胜潮 海之盾
+	SlagslitterPauldronEffects: 硫火 熔火碎矿肩甲
+	EtherealExtorterEffects: 渊泉 虚空掠夺者
+	AquaticHeartEffects: 幻渊鱼群 渊洋之心
+	BloodflareRitualistEffects: 血炎 血祭疗仪
+	SnowRuffianEffect: 雪境暴徒 套装效果
+	LizhardTailEffect: 娜迦 神庙蜥蜴之尾
+	SerpentShieldEffect: 娜迦 蛇之盾
+	AirWalkersEffect: 飞羽 履空靴
+	WeightedWingletsEffect: 钢 举足轻重靴
+	BeholderGazeEffect: 狂战士 注视者之凝
+	TheOmegaCoreEffects: 织梦 欧米伽核心
+	YumasPendantEffects: 堕骑 游马的皇之键
+	ConcussiveWarheadEffects: 荧光 震荡弹头
+	GhastlyCarapanceEffects: 低语 惊魂甲壳
+	GutWrenchersSheathEffects: 低语 扳手拳套
+	JetBootsEffect: 电容 喷气靴
+	JetBootsEffects: 电容 喷气靴
+	PocketFusionGeneratorEffects: 炎法 小型聚变发生器
+	SandweaversTiaraEffect: 崇圣 沙海穿梭者头冠
+	UpDownBalloonEffects: 虚金 紊流气球
+	HungeringBlossomEffects: 疫医 饮魔玫瑰
+	ProofOfAraviceEffects: 巫妖 贪婪之证
+	ProofOfAvariceEffects: 巫妖 贪婪之证
 }
 
 Items: {
@@ -373,7 +373,7 @@ Items: {
 
 	FearmongerEnchant: {
 		Tooltip: ""
-		DisplayName: 神惧者魔石
+		DisplayName: 神惧魔石
 	}
 
 	FathomSwarmerEnchant: {
@@ -963,7 +963,7 @@ Items: {
 	}
 
 	TerrariumEnchant: {
-		DisplayName: 元素魔石
+		DisplayName: 元灵魔石
 		Tooltip:
 			'''
 			泰拉瑞亚的能量会追寻并保护着你
@@ -1894,7 +1894,7 @@ Items: {
 			击中敌人获取更多虚空能量
 			远程射弹的伤害随时间增加
 			潜伏攻击获得更多虚空能量
-			召唤一只虚空共生提协助战斗
+			召唤一只虚空共生体协助战斗
 			获得轮回证章和神谕卡组的效果
 			'''
 	}
