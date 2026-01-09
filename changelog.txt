@@ -1,5 +1,7 @@
 Fargo附属汉化合集(FargoCP) - Mod Version {ModVersion} - TML Version {tMLVersion}
 [#]===============更新细节===============[#]
--增加 Super Souls DLC 汉化
+-补上 Super Souls DLC 缺失汉化
+-优化 Fargo旧DLC 文本
+-更新 CJ的各样魔石 汉化
 [#]=====================================[#]
 感谢：所有汉化作者和各位订阅者
