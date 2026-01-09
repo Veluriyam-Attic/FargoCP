@@ -1,0 +1,339 @@
+CJsAssortedEnchantments: {
+	HandlePacket: {
+		1: {
+			// OldString: SendLuckyMessage
+			// NewString: SendLuckyMessage
+		}
+
+		2: {
+			// OldString: " survived a lethal attack!"
+			NewString: 在一次致命攻击中幸存下来！
+		}
+
+		3: {
+			// OldString: PlayWeegeeSound
+			// NewString: PlayWeegeeSound
+		}
+
+		4: {
+			// OldString: CJsAssortedEnchantments/Assets/Sounds/LuigiOhMyGod
+			// NewString: CJsAssortedEnchantments/Assets/Sounds/LuigiOhMyGod
+		}
+	}
+}
+
+Content: {
+	Items: {
+		Enchantments: {
+			ChefEnchantment: {
+				AddRecipes: {
+					1: {
+						// OldString: AnyT1Food
+						// NewString: AnyT1Food
+					}
+
+					2: {
+						// OldString: AnyT2Food
+						// NewString: AnyT2Food
+					}
+
+					3: {
+						// OldString: AnyT3Food
+						// NewString: AnyT3Food
+					}
+				}
+			}
+
+			LuckyEnchantment: {
+				SafeModifyTooltips: {
+					1: {
+						// OldString: "Your current survival chance is "
+						NewString: "你当前存活的几率为 "
+					}
+
+					2: {
+						// OldString: %
+						NewString: %
+					}
+				}
+			}
+
+			SynergyEnchant: {
+				wizardEffect: {
+					1: {
+						// OldString: Mods.
+						// NewString: Mods.
+					}
+
+					2: {
+						// OldString: .WizardEffect.
+						// NewString: .WizardEffect.
+					}
+
+					3: {
+						// OldString: Enchantment
+						// NewString: Enchantment
+					}
+
+					4: {
+						// OldString: ""
+						// NewString: ""
+					}
+
+					5: {
+						// OldString: Enchant
+						// NewString: Enchant
+					}
+
+					6: {
+						// OldString: Mods.FargowiltasSouls.WizardEffect.NoUpgrade
+						// NewString: Mods.FargowiltasSouls.WizardEffect.NoUpgrade
+					}
+				}
+
+				SafeModifyTooltips: {
+					1: {
+						// OldString: ItemName
+						// NewString: ItemName
+					}
+
+					2: {
+						// OldString: wizard
+						// NewString: wizard
+					}
+
+					3: {
+						// OldString: Mods.FargowiltasSouls.WizardEffect.Active
+						// NewString: Mods.FargowiltasSouls.WizardEffect.Active
+					}
+
+					4: {
+						// OldString: " [i:"
+						// NewString: " [i:"
+					}
+
+					5: {
+						// OldString: "]: "
+						// NewString: "]: "
+					}
+
+					6: {
+						// OldString: Mods.FargowiltasSouls.WizardEffect.Inactive
+						// NewString: Mods.FargowiltasSouls.WizardEffect.Inactive
+					}
+				}
+			}
+
+			ChefEnchantment+<>c: {
+				<AddRecipes>b__5_0: {
+					1: {
+						// OldString: Any Tier 1 Food
+						NewString: 任意1级食物
+					}
+				}
+
+				<AddRecipes>b__5_1: {
+					1: {
+						// OldString: Any Tier 2 Food
+						NewString: 任意2级食物
+					}
+				}
+
+				<AddRecipes>b__5_2: {
+					1: {
+						// OldString: Any Tier 3 Food
+						NewString: 任意3级食物
+					}
+				}
+			}
+
+			LuckyEnchantment+<>c: {
+				<SafeModifyTooltips>b__3_0: {
+					1: {
+						// OldString: <CHANCE LINE>
+						// NewString: <CHANCE LINE>
+					}
+				}
+			}
+		}
+	}
+}
+
+Properties: {
+	CJsKeybinds: {
+		Load: {
+			1: {
+				// OldString: ActivateShimmering
+				// NewString: ActivateShimmering
+			}
+
+			2: {
+				// OldString: P
+				// NewString: P
+			}
+		}
+	}
+}
+
+GlobalFiles: {
+	CJsGlobalItem: {
+		ModifyTooltips: {
+			1: {
+				// OldString: wizard
+				// NewString: wizard
+			}
+		}
+	}
+
+	GlobalFood: {
+		SaveData: {
+			1: {
+				// OldString: Modifier
+				// NewString: Modifier
+			}
+		}
+
+		LoadData: {
+			1: {
+				// OldString: Modifier
+				// NewString: Modifier
+			}
+		}
+
+		ModifyTooltips: {
+			1: {
+				// OldString: ""
+				// NewString: ""
+			}
+
+			2: {
+				// OldString: "Filling "
+				NewString: "饱腹 "
+			}
+
+			3: {
+				// OldString: Grants an additional level of food buffs
+				NewString: 获得额外等级的食物增益
+			}
+
+			4: {
+				// OldString: "Magical "
+				NewString: "蕴魔 "
+			}
+
+			5: {
+				// OldString: Increases max mana and mana regen
+				NewString: 增加最大魔力值和魔力恢复速度
+			}
+
+			6: {
+				// OldString: "Hearty "
+				NewString: "强心 "
+			}
+
+			7: {
+				// OldString: Increases max health and regen
+				NewString: 增加最大生命值和生命恢复速度
+			}
+
+			8: {
+				// OldString: "Sweet "
+				NewString: "甜口 "
+			}
+
+			9: {
+				// OldString: Increases movement and attack speed
+				NewString: 增加移动速度和攻击速度
+			}
+
+			10: {
+				// OldString: "Tough "
+				NewString: "坚韧 "
+			}
+
+			11: {
+				// OldString: Increases defense and damage reduction
+				NewString: 增加防御和伤害减免
+			}
+
+			12: {
+				// OldString: "Rich "
+				NewString: "奢华 "
+			}
+
+			13: {
+				// OldString: Increases luck and causes enemies to drop more coins
+				NewString: 增加幸运值并使敌怪掉落更多钱币
+			}
+
+			14: {
+				// OldString: "Spicy "
+				NewString: "辛辣 "
+			}
+
+			15: {
+				// OldString: Increases damage and crit chance
+				NewString: 伤害提升并增加暴击率
+			}
+
+			16: {
+				// OldString: "Earthy "
+				NewString: "掘地 "
+			}
+
+			17: {
+				// OldString: Increases mining speed and tool range
+				NewString: 提升挖掘速度和工具使用范围
+			}
+
+			18: {
+				// OldString: ChefTooltip
+				// NewString: ChefTooltip
+			}
+		}
+	}
+
+	GlobalFood+<>c: {
+		<ModifyTooltips>b__8_0: {
+			1: {
+				// OldString: improvements to all stats
+				NewString: 所有属性
+			}
+		}
+
+		<ModifyTooltips>b__8_1: {
+			1: {
+				// OldString: ItemName
+				// NewString: ItemName
+			}
+		}
+	}
+}
+
+CJsPlayer: {
+	CJsModPlayer: {
+		PreKill: {
+			1: {
+				// OldString: " survived a lethal attack!"
+				NewString: 在一次致命攻击中幸存下来！
+			}
+
+			2: {
+				// OldString: SendLuckyMessage
+				// NewString: SendLuckyMessage
+			}
+		}
+
+		Kill: {
+			1: {
+				// OldString: CJsAssortedEnchantments/Assets/Sounds/LuigiOhMyGod
+				// NewString: CJsAssortedEnchantments/Assets/Sounds/LuigiOhMyGod
+			}
+
+			2: {
+				// OldString: PlayWeegeeSound
+				// NewString: PlayWeegeeSound
+			}
+		}
+	}
+}

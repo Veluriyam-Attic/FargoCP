@@ -81,4 +81,15 @@ namespace FargoCP
                 TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargosSoulsModDLCRecreated", false);
         }
     }
+
+    public class CJsAssortedEnchantments : ModSystem
+    {
+        public override void PostSetupContent()
+        {
+            if (
+                    ModLoader.HasMod("CJsAssortedEnchantments")
+               )
+                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "CJsAssortedEnchantments", false);
+        }
+    }
 }

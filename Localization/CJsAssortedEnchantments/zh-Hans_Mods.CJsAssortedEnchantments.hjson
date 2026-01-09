@@ -20,20 +20,23 @@ Items: {
 		DisplayName: 幸运魔石
 		Tooltip:
 			'''
-			增加0.5点幸运值
-			你有概率受到在超过50%最大生命的伤害下存活
-			在受到伤害并存活后，你会剩余20点生命值并清除所有减益
-			存活概率 = （当前幸运值 + 1 ） * 5
+			增加0.2点幸运值
+			在受到致命攻击时你有几率存活
+			成功会保留1Hp，清除所有减益效果，并在3秒内免疫额外伤害
+			存活概率 = 25% × （当前幸运值 + 1）
+			成功存活后该数值减半，死亡时重置
+			<CHANCE LINE>
 			“幸运女神向你微笑”
 			'''
 	}
 
-	TastyEnchantment: {
-		DisplayName: 美味魔石
+	ChefEnchantment: {
+		DisplayName: 主厨魔石
 		Tooltip:
 			'''
-			提供高于酒足饭饱2级的属性增益
-			无法与其他食物增益叠加
+			烹饪食物有几率获得独特词缀，食用时会提供额外增益
+			增益的强度和持续时间取决于食物的品质
+			一次只能激活一个增益
 			“一天一苹果，月总远离我！”
 			'''
 	}
@@ -95,9 +98,9 @@ Items: {
 		DisplayName: F.O.R.C.E.
 		Tooltip:
 			'''
-			"The Fully Organizable Receptacle for Combining魔石s.
+			"The Fully Organizable Receptacle for Combining Enchantments.
 			Its core of pure, crystallized Fargonium stabilizes the chaotic
-			energies of opposing魔石s, allowing them to coexist."
+			energies of opposing Enchantments, allowing them to coexist."
 			'''
 	}
 
@@ -155,9 +158,221 @@ Buffs: {
 		DisplayName: 微光模式
 		Description: 你已经变得无形了！
 	}
+
+	FillingBuff: {
+		DisplayName: 饱餐一顿
+		Description: 大幅提升所有属性
+	}
+
+	EarthyBuffT1: {
+		DisplayName: 掘地餐 (1级)
+		Description:
+			'''
+			增加10%挖掘速度
+			工具范围 +1
+			'''
+	}
+
+	EarthyBuffT2: {
+		DisplayName: 掘地餐 (2级)
+		Description:
+			'''
+			增加15%挖掘速度
+			工具范围 +1
+			'''
+	}
+
+	EarthyBuffT3: {
+		DisplayName: 掘地餐 (3级)
+		Description:
+			'''
+			增加20%挖掘速度
+			工具范围 +2
+			'''
+	}
+
+	HeartyBuffT1: {
+		DisplayName: 强心餐 (1级)
+		Description:
+			'''
+			增加5%最大生命值
+			生命恢复 +1 HP/s
+			'''
+	}
+
+	HeartyBuffT2: {
+		DisplayName: 强心餐 (2级)
+		Description:
+			'''
+			增加10%最大生命值
+			生命恢复 +1.5 HP/s
+			'''
+	}
+
+	HeartyBuffT3: {
+		DisplayName: 强心餐 (3级)
+		Description:
+			'''
+			增加15%最大生命值
+			生命恢复 +2 HP/s
+			'''
+	}
+
+	MagicalBuffT1: {
+		DisplayName: 蕴魔餐 (1级)
+		Description:
+			'''
+			增加5%最大魔力值
+			魔力回复 +5 MP/s
+			'''
+	}
+
+	MagicalBuffT2: {
+		DisplayName: 蕴魔餐 (2级)
+		Description:
+			'''
+			增加10%最大魔力值
+			魔力回复 +7.5 MP/s
+			'''
+	}
+
+	MagicalBuffT3: {
+		DisplayName: 蕴魔餐 (3级)
+		Description:
+			'''
+			增加15%最大魔力值
+			魔力回复 +10 MP/s
+			'''
+	}
+
+	RichBuffT1: {
+		DisplayName: 奢华餐 (1级)
+		Description:
+			'''
+			敌怪额外掉落5%钱币
+			幸运值 +0.05
+			'''
+	}
+
+	RichBuffT2: {
+		DisplayName: 奢华餐 (2级)
+		Description:
+			'''
+			敌怪额外掉落10%钱币
+			幸运值 +0.1
+			'''
+	}
+
+	RichBuffT3: {
+		DisplayName: 奢华餐 (3级)
+		Description:
+			'''
+			敌怪额外掉落15%钱币
+			幸运值 +0.15
+			'''
+	}
+
+	SpicyBuffT1: {
+		DisplayName: 辛辣餐 (1级)
+		Description:
+			'''
+			增加6%伤害
+			增加4%暴击率
+			'''
+	}
+
+	SpicyBuffT2: {
+		DisplayName: 辛辣餐 (2级)
+		Description:
+			'''
+			增加8%伤害
+			增加6%暴击率
+			'''
+	}
+
+	SpicyBuffT3: {
+		DisplayName: 辛辣餐 (3级)
+		Description:
+			'''
+			增加10%伤害
+			增加8%暴击率
+			'''
+	}
+
+	SweetBuffT1: {
+		DisplayName: 甜口餐 (1级)
+		Description:
+			'''
+			增加10%移动速度
+			增加4%攻击速度
+			'''
+	}
+
+	SweetBuffT2: {
+		DisplayName: 甜口餐 (2级)
+		Description:
+			'''
+			增加10%移动速度
+			增加6%攻击速度
+			'''
+	}
+
+	SweetBuffT3: {
+		DisplayName: 甜口餐 (3级)
+		Description:
+			'''
+			增加20%移动速度
+			增加8%攻击速度
+			'''
+	}
+
+	ToughBuffT1: {
+		DisplayName: 坚韧餐 (1级)
+		Description:
+			'''
+			+6 防御力
+			增加4%伤害减免
+			'''
+	}
+
+	ToughBuffT2: {
+		DisplayName: 坚韧餐 (2级)
+		Description:
+			'''
+			+8 防御力
+			增加6%伤害减免
+			'''
+	}
+
+	ToughBuffT3: {
+		DisplayName: 坚韧餐 (3级)
+		Description:
+			'''
+			+10 防御力
+			增加8%伤害减免
+			'''
+	}
+
+	LuckyBreakBuff: {
+		DisplayName: Lucky Break Buff
+		Description: Mods.CJsAssortedEnchantments.Buffs.LuckyBreakBuff.Description
+	}
 }
 
 Keybinds: {
 	Shimmering.DisplayName: 微光模式
 	ActivateShimmering.DisplayName: 激活微光模式
 }
+
+Prefixes: {
+	Filling.DisplayName: 饱腹
+	Earthy.DisplayName: 掘地
+	Hearty.DisplayName: 强心
+	Magical.DisplayName: 蕴魔
+	Rich.DisplayName: 奢华
+	Spicy.DisplayName: 辛辣
+	Sweet.DisplayName: 甜口
+	Tough.DisplayName: 坚韧
+}
+
+DamageClasses.FoodDamageClass.DisplayName: Food Damage Class
