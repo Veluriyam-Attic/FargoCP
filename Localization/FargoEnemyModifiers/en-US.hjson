@@ -218,11 +218,6 @@ Mods: {
 					Tooltip: Gains speed up to 4x normal speed. Resets on hit
 				}
 
-				Bloodthirsty: {
-					Label: Bloodthirsty
-					Tooltip: Gains 25% damage every time they hit you
-				}
-
 				Bulletproof: {
 					Label: Bulletproof
 					Tooltip: Gains 80% resistance to ranged damage
@@ -290,7 +285,7 @@ Mods: {
 
 				Vampiric: {
 					Label: Vampiric
-					Tooltip: Heals some HP when they deal damage
+					Tooltip: Heals some HP and gains 25% more damage when they deal damage to you
 				}
 
 				Veiled: {
@@ -467,6 +462,21 @@ Mods: {
 					Label: Modifying
 					Tooltip: Adds a new modifier every 10 seconds up to the max allowed
 				}
+
+				Tricky: {
+					Label: Tricky
+					Tooltip: Spawns with Imaginery clones
+				}
+
+				Molten: {
+					Label: Molten
+					Tooltip: 150% damage, 50% damage resistance, takes heavy damage when wet
+				}
+
+				Festive: {
+					Tooltip: Fires present bombs, drops a Present
+					Label: Festive
+				}
 			}
 
 			EnemyModifiersClientConfig: {
@@ -500,84 +510,406 @@ Mods: {
 
 			ConfigModifierID: {
 				Tooltip: ""
-				Armored.Label: Armored
-				Blue.Label: Blue
-				Green.Label: Green
-				Healthy.Label: Healthy
-				Impenetrable.Label: Impenetrable
-				Light.Label: Light
-				Menacing.Label: Menacing
-				Orange.Label: Orange
-				Purple.Label: Purple
-				Rampaging.Label: Rampaging
-				Red.Label: Red
-				Regenerating.Label: Regenerating
-				Slow.Label: Slow
-				Sluggish.Label: Sluggish
-				Splitting.Label: Splitting
-				Swift.Label: Swift
-				Unrelenting.Label: Unrelenting
-				Wealthy.Label: Wealthy
-				Yellow.Label: Yellow
-				Shiny.Label: Shiny
-				Stinky.Label: Stinky
-				Lovestruck.Label: Lovestruck
-				Poor.Label: Poor
-				Pink.Label: Pink
-				Big.Label: Big
-				Small.Label: Small
-				Fishy.Label: Fishy
-				Accelerating.Label: Accelerating
-				Bloodthirsty.Label: Bloodthirsty
-				Bulletproof.Label: Bulletproof
-				Flaming.Label: Flaming
-				Fortifying.Label: Fortifying
-				Hexproof.Label: Hexproof
-				Huge.Label: Huge
-				Infested.Label: Infested
-				Metallic.Label: Metallic
-				Miniature.Label: Miniature
-				Possessed.Label: Possessed
-				Rallying.Label: Rallying
-				Shielded.Label: Shielded
-				Stealthy.Label: Stealthy
-				Vaccinated.Label: Vaccinated
-				Vampiric.Label: Vampiric
-				Veiled.Label: Veiled
-				Reflective.Label: Reflective
-				Volatile.Label: Volatile
-				Frenzied.Label: Frenzied
-				Scary.Label: Scary
-				Sleepy.Label: Sleepy
-				Polite.Label: Polite
-				Smoky.Label: Smoky
-				Chained.Label: Chained
-				Devouring.Label: Devouring
-				Hyper.Label: Hyper
-				Imaginary.Label: Imaginary
-				Juggernaut.Label: Juggernaut
-				Merchant.Label: Merchant
-				Rainbow.Label: Rainbow
-				Showman.Label: Showman
-				Solidified.Label: Solidified
-				Undying.Label: Undying
-				Worm.Label: Worm
-				Swarming.Label: Swarming
-				Aquarian.Label: Aquarian
-				Fluctuating.Label: Fluctuating
-				Skeletal.Label: Skeletal
-				Disguised.Label: Disguised
-				Shimmering.Label: Shimmering
-				Celebratory.Label: Celebratory
-				Sticky.Label: Sticky
-				Medic.Label: Medic
-				Sorcerous.Label: Sorcerous
-				Creepy.Label: Creepy
-				Shy.Label: Shy
-				Dramatic.Label: Dramatic
-				Buzzing.Label: Buzzing
-				Royal.Label: Royal
-				Modifying.Label: Modifying
+
+				Armored: {
+					Label: Armored
+					Tooltip: ""
+				}
+
+				Blue: {
+					Label: Blue
+					Tooltip: ""
+				}
+
+				Green: {
+					Label: Green
+					Tooltip: ""
+				}
+
+				Healthy: {
+					Label: Healthy
+					Tooltip: ""
+				}
+
+				Impenetrable: {
+					Label: Impenetrable
+					Tooltip: ""
+				}
+
+				Light: {
+					Label: Light
+					Tooltip: ""
+				}
+
+				Menacing: {
+					Label: Menacing
+					Tooltip: ""
+				}
+
+				Orange: {
+					Label: Orange
+					Tooltip: ""
+				}
+
+				Purple: {
+					Label: Purple
+					Tooltip: ""
+				}
+
+				Rampaging: {
+					Label: Rampaging
+					Tooltip: ""
+				}
+
+				Red: {
+					Label: Red
+					Tooltip: ""
+				}
+
+				Regenerating: {
+					Label: Regenerating
+					Tooltip: ""
+				}
+
+				Slow: {
+					Label: Slow
+					Tooltip: ""
+				}
+
+				Sluggish: {
+					Label: Sluggish
+					Tooltip: ""
+				}
+
+				Splitting: {
+					Label: Splitting
+					Tooltip: ""
+				}
+
+				Swift: {
+					Label: Swift
+					Tooltip: ""
+				}
+
+				Unrelenting: {
+					Label: Unrelenting
+					Tooltip: ""
+				}
+
+				Wealthy: {
+					Label: Wealthy
+					Tooltip: ""
+				}
+
+				Yellow: {
+					Label: Yellow
+					Tooltip: ""
+				}
+
+				Shiny: {
+					Label: Shiny
+					Tooltip: ""
+				}
+
+				Stinky: {
+					Label: Stinky
+					Tooltip: ""
+				}
+
+				Lovestruck: {
+					Label: Lovestruck
+					Tooltip: ""
+				}
+
+				Poor: {
+					Label: Poor
+					Tooltip: ""
+				}
+
+				Pink: {
+					Label: Pink
+					Tooltip: ""
+				}
+
+				Big: {
+					Label: Big
+					Tooltip: ""
+				}
+
+				Small: {
+					Label: Small
+					Tooltip: ""
+				}
+
+				Fishy: {
+					Label: Fishy
+					Tooltip: ""
+				}
+
+				Accelerating: {
+					Label: Accelerating
+					Tooltip: ""
+				}
+
+				Bulletproof: {
+					Label: Bulletproof
+					Tooltip: ""
+				}
+
+				Flaming: {
+					Label: Flaming
+					Tooltip: ""
+				}
+
+				Fortifying: {
+					Label: Fortifying
+					Tooltip: ""
+				}
+
+				Hexproof: {
+					Label: Hexproof
+					Tooltip: ""
+				}
+
+				Huge: {
+					Label: Huge
+					Tooltip: ""
+				}
+
+				Infested: {
+					Label: Infested
+					Tooltip: ""
+				}
+
+				Metallic: {
+					Label: Metallic
+					Tooltip: ""
+				}
+
+				Miniature: {
+					Label: Miniature
+					Tooltip: ""
+				}
+
+				Possessed: {
+					Label: Possessed
+					Tooltip: ""
+				}
+
+				Rallying: {
+					Label: Rallying
+					Tooltip: ""
+				}
+
+				Shielded: {
+					Label: Shielded
+					Tooltip: ""
+				}
+
+				Stealthy: {
+					Label: Stealthy
+					Tooltip: ""
+				}
+
+				Vaccinated: {
+					Label: Vaccinated
+					Tooltip: ""
+				}
+
+				Vampiric: {
+					Label: Vampiric
+					Tooltip: ""
+				}
+
+				Veiled: {
+					Label: Veiled
+					Tooltip: ""
+				}
+
+				Reflective: {
+					Label: Reflective
+					Tooltip: ""
+				}
+
+				Volatile: {
+					Label: Volatile
+					Tooltip: ""
+				}
+
+				Frenzied: {
+					Label: Frenzied
+					Tooltip: ""
+				}
+
+				Scary: {
+					Label: Scary
+					Tooltip: ""
+				}
+
+				Sleepy: {
+					Label: Sleepy
+					Tooltip: ""
+				}
+
+				Polite: {
+					Label: Polite
+					Tooltip: ""
+				}
+
+				Smoky: {
+					Label: Smoky
+					Tooltip: ""
+				}
+
+				Chained: {
+					Label: Chained
+					Tooltip: ""
+				}
+
+				Devouring: {
+					Label: Devouring
+					Tooltip: ""
+				}
+
+				Hyper: {
+					Label: Hyper
+					Tooltip: ""
+				}
+
+				Imaginary: {
+					Label: Imaginary
+					Tooltip: ""
+				}
+
+				Juggernaut: {
+					Label: Juggernaut
+					Tooltip: ""
+				}
+
+				Merchant: {
+					Label: Merchant
+					Tooltip: ""
+				}
+
+				Rainbow: {
+					Label: Rainbow
+					Tooltip: ""
+				}
+
+				Showman: {
+					Label: Showman
+					Tooltip: ""
+				}
+
+				Solidified: {
+					Label: Solidified
+					Tooltip: ""
+				}
+
+				Undying: {
+					Label: Undying
+					Tooltip: ""
+				}
+
+				Worm: {
+					Label: Worm
+					Tooltip: ""
+				}
+
+				Swarming: {
+					Label: Swarming
+					Tooltip: ""
+				}
+
+				Aquarian: {
+					Label: Aquarian
+					Tooltip: ""
+				}
+
+				Fluctuating: {
+					Label: Fluctuating
+					Tooltip: ""
+				}
+
+				Skeletal: {
+					Label: Skeletal
+					Tooltip: ""
+				}
+
+				Disguised: {
+					Label: Disguised
+					Tooltip: ""
+				}
+
+				Shimmering: {
+					Label: Shimmering
+					Tooltip: ""
+				}
+
+				Celebratory: {
+					Label: Celebratory
+					Tooltip: ""
+				}
+
+				Sticky: {
+					Label: Sticky
+					Tooltip: ""
+				}
+
+				Medic: {
+					Label: Medic
+					Tooltip: ""
+				}
+
+				Sorcerous: {
+					Label: Sorcerous
+					Tooltip: ""
+				}
+
+				Creepy: {
+					Label: Creepy
+					Tooltip: ""
+				}
+
+				Shy: {
+					Label: Shy
+					Tooltip: ""
+				}
+
+				Dramatic: {
+					Label: Dramatic
+					Tooltip: ""
+				}
+
+				Buzzing: {
+					Label: Buzzing
+					Tooltip: ""
+				}
+
+				Royal: {
+					Label: Royal
+					Tooltip: ""
+				}
+
+				Modifying: {
+					Label: Modifying
+					Tooltip: ""
+				}
+
+				Tricky: {
+					Label: Tricky
+					Tooltip: Spawns with Imaginery clones
+				}
+
+				Molten: {
+					Label: Molten
+					Tooltip: 150% damage, 50% damage resistance, takes heavy damage when wet
+				}
+
+				Festive: {
+					Label: Festive
+					Tooltip: Fires present bombs, drops a Present
+				}
 			}
 		}
 
@@ -682,11 +1014,6 @@ Mods: {
 				Tooltip: Constantly gains speed up to 4x normal speed. If they hit you or you hit them with a melee attack, their speed resets
 			}
 
-			Bloodthirsty: {
-				DisplayName: Bloodthirsty
-				Tooltip: Gains 25% damage every time they hit you
-			}
-
 			Bulletproof: {
 				DisplayName: Bulletproof
 				Tooltip: Gains 80% resistance to ranged damage
@@ -754,7 +1081,7 @@ Mods: {
 
 			Vampiric: {
 				DisplayName: Vampiric
-				Tooltip: Heals some HP when they deal damage
+				Tooltip: Heals some HP and gains 25% more damage when they deal damage to you
 			}
 
 			Veiled: {
@@ -992,6 +1319,16 @@ Mods: {
 			Buzzing: {
 				DisplayName: Buzzing
 				Tooltip: Creates bees when taking damage. Only appears post EoC
+			}
+
+			Molten: {
+				DisplayName: Molten
+				Tooltip: 150% damage, 50% damage resistance, takes heavy damage when wet
+			}
+
+			Festive: {
+				DisplayName: Festive
+				Tooltip: Fires present bombs, drops a Present
 			}
 		}
 
