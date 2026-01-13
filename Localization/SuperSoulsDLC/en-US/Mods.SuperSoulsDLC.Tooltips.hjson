@@ -1,13 +1,13 @@
 EnchantmentTooltips.ElementalEnchantment: "[i:SOTS/ElementalHelmet] Press {0} to teleport to your cursor, dealing 200% of your defense as damage to all enemies in your path"
 
 SOTSSoulTooltips: {
-	BerserkerSoul: Effects of the Serpent Spine, Hyperdrive, Midnight Prism, and Supernova Emblem
-	ArchWizardSoul: Effects of Alchemist's Charm, Plasma Shrimp, and Wishing Star
+	BerserkerSoul: Effects of the Serpent Spine, Hyperdrive, and Supernova Emblem
+	ArchWizardSoul: Effects of Plasma Shrimp and Wishing Star
 	SniperSoul: Effects of Infinity Pouch, Blazing Quiver, Backup Bow, and Bag of Ammunition Gathering
-	ConjuristSoul: Effects of the Fortress Generator, Wisp in a Jar, Sandwich, Bundle of Snakes, Calculator, and Hydrokinetic Antennae
-	ColossusSoul: Effects of Bulwark of the Ancients, Challenger's Ring, and Ultimate Polarizer
+	ConjuristSoul: Effects of the Fortress Generator, Calculator, and Hydrokinetic Antennae
+	ColossusSoul: Effects of Bulwark of the Ancients, Alchemist's Charm, and Ultimate Polarizer
 	WorldShaperSoul: Effects of Greedier Ring, Drill Arm, Earth Drive, and Lockpick
-	SupersonicSoul: Effects of Subspace Boosters
+	SupersonicSoul: Effects of Subspace Boosters and Band of Door
 	FlightMasterySoul: Effects of the Gilded Blade Wings
 }
 

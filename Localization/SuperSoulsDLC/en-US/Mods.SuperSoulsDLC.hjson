@@ -45,7 +45,7 @@ Items: {
 			[i:SOTS/ElementalHelmet] Increases void gain by 3
 			[i:SOTS/FocusReticle] Effects of Focus Reticle
 			[i:SOTS/AcidicInjection] Effects of Overkill Injection
-			[i:SOTS/VisionAmulet] All effects of Elemental Amulet
+			[i:SOTS/MidnightPrism] Effects of Midnight Prism
 			'''
 	}
 
@@ -59,7 +59,6 @@ Items: {
 			[i:SOTS/ShatterShardChestplate] Taking damage spawns 1-3 Shatter Shards
 			[i:SOTS/ShatterShardChestplate] Grants immunity to Chilled, Frozen, and Frostburn
 			[i:SOTS/ShoeIce] Effects of Shoe Ice
-			[i:SOTS/Sunbulb] Effects of Sunbulb
 			'''
 	}
 
@@ -81,7 +80,6 @@ Items: {
 			'''
 			[i:SOTS/PatchLeatherHat] Summons 3 flying snakes to attack nearby enemies
 			[i:SOTS/SunlightAmulet] Effects of Sunlight Amulet
-			[i:SOTS/BandOfDoor] Effects of Band of Door
 			[i:SOTS/SteelerWheeler] Effects of Steeler Wheeler
 			'''
 	}
@@ -94,7 +92,6 @@ Items: {
 			[i:SOTS/TwilightAssassinsCirclet] Increases max void by 50
 			[i:SOTS/TwilightAssassinsLeggings] Decreases Blink Pack cooldown by 20%
 			[i:SOTS/BladeNecklace] Effects of Blade Necklace
-			[i:SOTS/BlinkPack] Effects of Blink Pack
 			[i:SOTS/GravityAnchor] Effects of Gravity Anchor
 			'''
 	}
@@ -119,7 +116,6 @@ Items: {
 			[i:SOTS/VibrantHelmet] Increases void gain by 2
 			[i:SOTS/HarvestersScythe] Effects of Harvester's Scythe
 			[i:SOTS/GuideToIllumination] Effects of Guide to Illumination
-			[i:SOTS/WardingCharm] Effects of Warding Charm
 			'''
 	}
 
@@ -174,6 +170,11 @@ Items: {
 			[i:SuperSoulsDLC/TwilightAssassinEnchant] Effects of Twilight Assassin Enchantment
 			[i:SuperSoulsDLC/VoidspaceRangerEnchant] Effects of Voidspace Ranger Enchantment
 			'''
+	}
+
+	VoidEmblem: {
+		DisplayName: Void Emblem
+		Tooltip: 15% increased void damage
 	}
 
 	VoidlingEssence: {
@@ -682,7 +683,11 @@ Items: {
 
 	TimeEnchant: {
 		DisplayName: Time Enchantment
-		Tooltip: "[i:MartainsOrder/TimeAH] Grants a time skipping double dash"
+		Tooltip:
+			'''
+			Your damage steadily increases over the course of the day
+			Damage increase begins at +10% and resets every morning
+			'''
 	}
 
 	ToyEnchant: {
@@ -755,43 +760,26 @@ Items: {
 			'''
 	}
 
-	AgeForce: {
-		DisplayName: Force of Ages
+	BiotaForce: {
+		DisplayName: Force of Biota
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/AncientGarnetEnchant] Effects of Ancient Garnet Enchantment
-			[i:SuperSoulsDLC/AncientRockEnchant] Effects of Ancient Rock Enchantment
-			[i:SuperSoulsDLC/AncientTantalumEnchant] Effects of Ancient Tantalum Enchantment
-			[i:SuperSoulsDLC/AncientZincEnchant] Effects of Ancient Zinc Enchantment
-			[i:SuperSoulsDLC/TantalumEnchant] Effects of Tantalum Enchantment
-			[i:SuperSoulsDLC/WitherEnchant] Effects of Wither Enchantment
-			[i:SuperSoulsDLC/ZincEnchant] Effects of Zinc Enchantment
-			'''
-	}
-
-	ComplexionForce: {
-		DisplayName: Force of Complexion
-		Tooltip:
-			'''
-			[i:SuperSoulsDLC/BirchWoodEnchant] Effects of Birch Wood Enchantment
-			[i:SuperSoulsDLC/DesertWoodEnchant] Effects of Desert Wood Enchantment
-			[i:SuperSoulsDLC/DynastyWoodEnchant] Effects of Dynasty Wood Enchantment
+			[i:SuperSoulsDLC/FakeFishyumEnchant] Effects of Fake Fishyum Enchantment
 			[i:SuperSoulsDLC/ExoticCactusEnchant] Effects of Exotic Cactus Enchantment
-			[i:SuperSoulsDLC/ForestsEnchant] Effects of Forest's Enchantment
-			[i:SuperSoulsDLC/NadirEnchant] Effects of Nadir Enchantment
 			[i:SuperSoulsDLC/ReptileEnchant] Effects of Reptile Enchantment
+			[i:SuperSoulsDLC/ForestsEnchant] Effects of Forest's Enchantment
 			'''
 	}
 
-	DarknessForce: {
-		DisplayName: Force of Darkness
+	DarkForce: {
+		DisplayName: Force of the Dark
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/ExiledPrinceEnchant] Effects of Exiled Prince Enchantment
-			[i:SuperSoulsDLC/HollowwoodEnchant] Effects of Hollowwood Enchantment
 			[i:SuperSoulsDLC/OtherworldlyEnchant] Effects of Otherworldly Enchantment
-			[i:SuperSoulsDLC/TimeEnchant] Effects of Time Enchantment
 			[i:SuperSoulsDLC/VoidEnchant] Effects of Void Enchantment
+			[i:SuperSoulsDLC/WitherEnchant] Effects of Wither Enchantment
+			[i:SuperSoulsDLC/NadirEnchant] Effects of Nadir Enchantment
+			[i:SuperSoulsDLC/ExiledPrinceEnchant] Effects of Exiled Prince Enchantment
 			'''
 	}
 
@@ -800,36 +788,49 @@ Items: {
 		Tooltip:
 			'''
 			[i:SuperSoulsDLC/CamoEnchant] Effects of Camo Enchantment
-			[i:SuperSoulsDLC/ClayArtisanEnchant] Effects of Clay Artisan Enchantment
-			[i:SuperSoulsDLC/OrigamiEnchant] Effects of Origami Enchantment
-			[i:SuperSoulsDLC/PainterEnchant] Effects of Painter Enchantment
 			[i:SuperSoulsDLC/RecycledEnchant] Effects of Recycled Enchantment
 			[i:SuperSoulsDLC/ToyEnchant] Effects of Toy Enchantment
+			[i:SuperSoulsDLC/ExplosiveBoxEnchant] Effects of Explosive Box Enchantment
+			[i:SuperSoulsDLC/PainterEnchant] Effects of Painter Enchantment
+			[i:SuperSoulsDLC/DepthsMineEnchant] Effects of Depths Mine Enchantment
 			'''
 	}
 
-	MetallurgyForce: {
-		DisplayName: Force of Metallurgy
+	LumberForce: {
+		DisplayName: Force of Lumber
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/CrystalEnchant] Effects of Crystal Enchantment
-			[i:SuperSoulsDLC/DepthsMineEnchant] Effects of Depths Mine Enchantment
-			[i:SuperSoulsDLC/ExplosiveBoxEnchant] Effects of Explosive Box Enchantment
-			[i:SuperSoulsDLC/FakeFishyumEnchant] Effects of Fake Fishyum Enchantment
-			[i:SuperSoulsDLC/MagnesiumEnchant] Effects of Magnesium Enchantment
+			[i:SuperSoulsDLC/DesertWoodEnchant] Effects of Desert Wood Enchantment
+			[i:SuperSoulsDLC/BirchWoodEnchant] Effects of Birch Wood Enchantment
+			[i:SuperSoulsDLC/HollowwoodEnchant] Effects of Hollowwood Enchantment
+			[i:SuperSoulsDLC/DynastyWoodEnchant] Effects of Dynasty Wood Enchantment
+			[i:SuperSoulsDLC/OrigamiEnchant] Effects of Origami Enchantment
+			'''
+	}
+
+	StoneForce: {
+		DisplayName: Force of Stone
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/ZincEnchant] Effects of Zinc Enchantment
 			[i:SuperSoulsDLC/MercuryEnchant] Effects of Mercury Enchantment
+			[i:SuperSoulsDLC/MagnesiumEnchant] Effects of Magnesium Enchantment
+			[i:SuperSoulsDLC/TantalumEnchant] Effects of Tantalum Enchantment
+			[i:SuperSoulsDLC/CrystalEnchant] Effects of Crystal Enchantment
+			[i:SuperSoulsDLC/CharcoalEnchant] Effects of Charcoal Enchantment
 			'''
 	}
 
 	WorldForce: {
-		DisplayName: Force of Worlds
+		DisplayName: Force of the World
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/CharcoalEnchant] Effects of Charcoal Enchantment
 			[i:SuperSoulsDLC/FireEnchant] Effects of Fire Enchantment
 			[i:SuperSoulsDLC/IceCrystalEnchant] Effects of Ice Crystal Enchantment
-			[i:SuperSoulsDLC/SandEnchant] Effects of Sand Enchantment
 			[i:SuperSoulsDLC/WaterEnchant] Effects of Water Enchantment
+			[i:SuperSoulsDLC/SandEnchant] Effects of Sand Enchantment
+			[i:SuperSoulsDLC/TimeEnchant] Effects of Time Enchantment
+			[i:SuperSoulsDLC/ClayArtisanEnchant] Effects of Clay Artisan Enchantment
 			'''
 	}
 
@@ -848,12 +849,12 @@ Items: {
 		DisplayName: Soul of Order
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/AgeForce] Effects of Force of Ages
-			[i:SuperSoulsDLC/ComplexionForce] Effects of Force of Complexion
-			[i:SuperSoulsDLC/DarknessForce] Effects of Force of Darkness
+			[i:SuperSoulsDLC/BiotaForce] Effects of Force of Biota
+			[i:SuperSoulsDLC/DarkForce] Effects of Force of the Dark
 			[i:SuperSoulsDLC/FabricationForce] Effects of Force of Fabrication
-			[i:SuperSoulsDLC/MetallurgyForce] Effects of Force of Metallurgy
-			[i:SuperSoulsDLC/WorldForce] Effects of Force of Worlds
+			[i:SuperSoulsDLC/LumberForce] Effects of Force of Lumber
+			[i:SuperSoulsDLC/StoneForce] Effects of Force of Stone
+			[i:SuperSoulsDLC/WorldForce] Effects of Force of the World
 			'''
 	}
 
