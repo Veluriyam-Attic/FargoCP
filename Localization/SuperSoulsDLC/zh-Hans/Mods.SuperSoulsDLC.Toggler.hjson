@@ -3,11 +3,11 @@ TessellationHeader: "{$Mods.SuperSoulsDLC.Items.TessellationForce.DisplayName}"
 BalanceHeader: "{$Mods.SuperSoulsDLC.Items.BalanceForce.DisplayName}"
 EndingHeader: "{$Mods.SuperSoulsDLC.Items.ConclusionForce.DisplayName}"
 HighlandHeader: "{$Mods.SuperSoulsDLC.Items.HighlandForce.DisplayName}"
-AgeHeader: "{$Mods.SuperSoulsDLC.Items.AgeForce.DisplayName}"
-ComplexionHeader: "{$Mods.SuperSoulsDLC.Items.ComplexionForce.DisplayName}"
-DarknessHeader: "{$Mods.SuperSoulsDLC.Items.DarknessForce.DisplayName}"
+BiotaHeader: "{$Mods.SuperSoulsDLC.Items.BiotaForce.DisplayName}"
+DarkHeader: "{$Mods.SuperSoulsDLC.Items.DarkForce.DisplayName}"
 FabricationHeader: "{$Mods.SuperSoulsDLC.Items.FabricationForce.DisplayName}"
-MetallurgyHeader: "{$Mods.SuperSoulsDLC.Items.MetallurgyForce.DisplayName}"
+LumberHeader: "{$Mods.SuperSoulsDLC.Items.LumberForce.DisplayName}"
+StoneHeader: "{$Mods.SuperSoulsDLC.Items.StoneForce.DisplayName}"
 WorldHeader: "{$Mods.SuperSoulsDLC.Items.WorldForce.DisplayName}"
 WormwoodEffect: 流胶木 盛花钩
 WormwoodDefenseEffect: 流胶木 召唤增防
@@ -31,7 +31,7 @@ BlinkPackEffect: 昏影 闪瞬包裹
 GravityAnchorEffect: 昏影 重力锚
 PatchLeatherEffect: 皮衣 飞蛇仆从
 SunlightAmuletEffect: 皮衣 日辉护身符
-BandOfDoorEffect: 皮衣 门之手环
+BandOfDoorEffect: 门之手环
 SteelerWheelerEffect: 皮衣 钢轮推车
 FrostArtifactEffect: 霜遗 极地炮
 FrigidHourglassEffect: 霜遗 极寒沙漏
@@ -212,7 +212,7 @@ IgnitionStoneEffect: 空虚木 灼焰石
 OtherworldlyEffect: 异界 塔防套装奖励
 SuperMedkitEffect: 异界 超级医疗包
 RainbowCurseEffect: 异界 彩虹之咒
-TimeEffect: 时间 时间冲刺
+TimeEffect: 时间 武器强化
 TectonicEffect: 板块 震地冲击
 MagneticChargeEffect: 板块 磁性充能器
 VileCellsEffect: 板块 邪恶细胞

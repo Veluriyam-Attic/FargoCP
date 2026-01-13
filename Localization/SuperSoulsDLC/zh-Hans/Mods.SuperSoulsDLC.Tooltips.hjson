@@ -1,13 +1,13 @@
 EnchantmentTooltips.ElementalEnchantment: "[i:SOTS/ElementalHelmet] 按下'{0}'键传送至鼠标处，对你路径上的所有敌人造成你防御值的200%点伤害"
 
 SOTSSoulTooltips: {
-	BerserkerSoul: 拥有骇蟒脊椎、超光速引擎、午夜棱镜和超新星徽章的效果
-	ArchWizardSoul: 拥有炼金术士护符、等离子虾和祈愿之星的效果
+	BerserkerSoul: 拥有骇蟒脊椎、超光速引擎和超新星徽章的效果
+	ArchWizardSoul: 拥有等离子虾和祈愿之星的效果
 	SniperSoul: 拥有无尽之袋、灼炎箭袋、后备弓和弹药集合袋的效果
-	ConjuristSoul: 拥有堡垒发生盾、罐中鬼火、三明治、双蛇捆束、计算器和流体动力触角的效果
-	ColossusSoul: 拥有远古壁垒、挑战者之戒和终极偏振器的效果
+	ConjuristSoul: 拥有堡垒发生盾、计算器和流体动力触角的效果
+	ColossusSoul: 拥有远古壁垒、炼金术士护符和终极偏振器的效果
 	WorldShaperSoul: 拥有贪欲之戒、钻头手臂、陆地驱动器和开锁器的效果
-	SupersonicSoul: 拥有亚空助推靴的效果
+	SupersonicSoul: 拥有亚空助推靴和门之手环的效果
 	FlightMasterySoul: 拥有耀刃之翼的效果
 }
 

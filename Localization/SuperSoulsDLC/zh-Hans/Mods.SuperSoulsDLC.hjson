@@ -49,7 +49,7 @@ Items: {
 			[i:SOTS/ElementalHelmet] 增加3点虚空恢复量
 			[i:SOTS/FocusReticle] 获得聚焦十字镜的效果
 			[i:SOTS/AcidicInjection] 获得残杀注射器的效果
-			[i:SOTS/VisionAmulet] 获得所有元素护身符的效果
+			[i:SOTS/MidnightPrism] 获得午夜棱镜的效果
 			'''
 	}
 
@@ -63,7 +63,6 @@ Items: {
 			[i:SOTS/ShatterShardChestplate] 受伤时会生成1-3块冰碎块围绕你
 			[i:SOTS/ShatterShardChestplate] 免疫冷冻，冰冻和霜冻debuff
 			[i:SOTS/ShoeIce] 获得冰鞋的效果
-			[i:SOTS/Sunbulb] 获得日光灯泡的效果
 			'''
 	}
 
@@ -85,7 +84,6 @@ Items: {
 			'''
 			[i:SOTS/PatchLeatherHat] 召唤3只飞蛇协助战斗
 			[i:SOTS/SunlightAmulet] 获得日辉护身符的效果
-			[i:SOTS/BandOfDoor] 获得门之手环的效果
 			[i:SOTS/SteelerWheeler] 获得钢轮推车的效果
 			'''
 	}
@@ -123,7 +121,6 @@ Items: {
 			[i:SOTS/VibrantHelmet] 增加2点虚空恢复量
 			[i:SOTS/HarvestersScythe] 获得收割者之镰的效果
 			[i:SOTS/GuideToIllumination] 获得辉光指南的效果
-			[i:SOTS/WardingCharm] 获得守御护身符的效果
 			'''
 	}
 
@@ -178,6 +175,11 @@ Items: {
 			[i:SuperSoulsDLC/TwilightAssassinEnchant] 获得薄光刺客魔石的效果
 			[i:SuperSoulsDLC/VoidspaceRangerEnchant] 获得虚游魔石的效果
 			'''
+	}
+
+	VoidEmblem: {
+		DisplayName: 虚空徽章
+		Tooltip: 增加15%虚空伤害
 	}
 
 	VoidlingEssence: {
@@ -693,7 +695,11 @@ Items: {
 
 	TimeEnchant: {
 		DisplayName: 时间魔石
-		Tooltip: "[i:MartainsOrder/TimeAH] 使你能进行一次时间折跃闪避冲刺"
+		Tooltip: 
+			'''
+			你的武器伤害会随着时间推移稳定提升
+			伤害提升从10%开始，每天早上重置
+			'''
 	}
 
 	ToyEnchant: {
@@ -766,43 +772,26 @@ Items: {
 			'''
 	}
 
-	AgeForce: {
-		DisplayName: 岁月之力
+	BiotaForce: {
+		DisplayName: 生物之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/AncientGarnetEnchant] 获得远古石榴石魔石的效果
-			[i:SuperSoulsDLC/AncientRockEnchant] 获得远古岩石魔石的效果
-			[i:SuperSoulsDLC/AncientTantalumEnchant] 获得远古钽魔石的效果
-			[i:SuperSoulsDLC/AncientZincEnchant] 获得远古锌魔石的效果
-			[i:SuperSoulsDLC/TantalumEnchant] 获得钽魔石的效果
-			[i:SuperSoulsDLC/WitherEnchant] 获得凋零魔石的效果
-			[i:SuperSoulsDLC/ZincEnchant] 获得锌魔石的效果
-			'''
-	}
-
-	ComplexionForce: {
-		DisplayName: 气色之力
-		Tooltip:
-			'''
-			[i:SuperSoulsDLC/BirchWoodEnchant] 获得白桦木魔石的效果 
-			[i:SuperSoulsDLC/DesertWoodEnchant] 获得荒漠木魔石的效果 
-			[i:SuperSoulsDLC/DynastyWoodEnchant] 获得王朝木魔石的效果 
-			[i:SuperSoulsDLC/ExoticCactusEnchant] 获得奇异仙人掌魔石的效果 
-			[i:SuperSoulsDLC/ForestsEnchant] 获得森林魔石的效果 
-			[i:SuperSoulsDLC/NadirEnchant] 获得劣品魔石的效果 
+			[i:SuperSoulsDLC/FakeFishyumEnchant] 获得赝疑魔石的效果
+			[i:SuperSoulsDLC/ExoticCactusEnchant] 获得奇异仙人掌魔石的效果
 			[i:SuperSoulsDLC/ReptileEnchant] 获得爬行动物魔石的效果 
+			[i:SuperSoulsDLC/ForestsEnchant] 获得森林魔石的效果 
 			'''
 	}
 
-	DarknessForce: {
+	DarkForce: {
 		DisplayName: 黑暗之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/ExiledPrinceEnchant] 获得放逐王子魔石的效果
-			[i:SuperSoulsDLC/HollowwoodEnchant] 获得空虚木魔石的效果
 			[i:SuperSoulsDLC/OtherworldlyEnchant] 获得异界魔石的效果
-			[i:SuperSoulsDLC/TimeEnchant] 获得时间魔石的效果
 			[i:SuperSoulsDLC/VoidEnchant] 获得虚空魔石的效果
+			[i:SuperSoulsDLC/WitherEnchant] 获得凋零魔石的效果
+			[i:SuperSoulsDLC/NadirEnchant] 获得劣品魔石的效果 
+			[i:SuperSoulsDLC/ExiledPrinceEnchant] 获得放逐王子魔石的效果
 			'''
 	}
 
@@ -811,24 +800,36 @@ Items: {
 		Tooltip:
 			'''
 			[i:SuperSoulsDLC/CamoEnchant] 获得迷彩魔石的效果
-			[i:SuperSoulsDLC/ClayArtisanEnchant] 获得陶艺魔石的效果
-			[i:SuperSoulsDLC/OrigamiEnchant] 获得折纸魔石的效果
-			[i:SuperSoulsDLC/PainterEnchant] 获得画家魔石的效果
 			[i:SuperSoulsDLC/RecycledEnchant] 获得回收魔石的效果
 			[i:SuperSoulsDLC/ToyEnchant] 获得玩具魔石的效果
+			[i:SuperSoulsDLC/ExplosiveBoxEnchant] 获得炸药魔石的效果
+			[i:SuperSoulsDLC/PainterEnchant] 获得画家魔石的效果
+			[i:SuperSoulsDLC/DepthsMineEnchant] 获得深掘魔石的效果
 			'''
 	}
 
-	MetallurgyForce: {
-		DisplayName: 冶金之力
+	LumberForce: {
+		DisplayName: 木料之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/CrystalEnchant] 获得水晶魔石的效果
-			[i:SuperSoulsDLC/DepthsMineEnchant] 获得深掘魔石的效果
-			[i:SuperSoulsDLC/ExplosiveBoxEnchant] 获得炸药魔石的效果
-			[i:SuperSoulsDLC/FakeFishyumEnchant] 获得赝疑魔石的效果
-			[i:SuperSoulsDLC/MagnesiumEnchant] 获得镁魔石的效果
+			[i:SuperSoulsDLC/DesertWoodEnchant] 获得荒漠木魔石的效果 
+			[i:SuperSoulsDLC/BirchWoodEnchant] 获得白桦木魔石的效果 
+			[i:SuperSoulsDLC/HollowwoodEnchant] 获得空虚木魔石的效果
+			[i:SuperSoulsDLC/DynastyWoodEnchant] 获得王朝木魔石的效果
+			[i:SuperSoulsDLC/OrigamiEnchant] 获得折纸魔石的效果
+			'''
+	}
+
+	StoneForce: {
+		DisplayName: 坚石之力
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/ZincEnchant] 获得锌魔石的效果
 			[i:SuperSoulsDLC/MercuryEnchant] 获得水银魔石的效果
+			[i:SuperSoulsDLC/MagnesiumEnchant] 获得镁魔石的效果
+			[i:SuperSoulsDLC/TantalumEnchant] 获得钽魔石的效果
+			[i:SuperSoulsDLC/CrystalEnchant] 获得水晶魔石的效果
+			[i:SuperSoulsDLC/CharcoalEnchant] 获得木炭魔石的效果
 			'''
 	}
 
@@ -836,11 +837,12 @@ Items: {
 		DisplayName: 万界之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/CharcoalEnchant] 获得木炭魔石的效果
 			[i:SuperSoulsDLC/FireEnchant] 获得火衣魔石的效果
 			[i:SuperSoulsDLC/IceCrystalEnchant] 获得冰晶魔石的效果
-			[i:SuperSoulsDLC/SandEnchant] 获得沙衣魔石的效果
 			[i:SuperSoulsDLC/WaterEnchant] 获得水服魔石的效果
+			[i:SuperSoulsDLC/SandEnchant] 获得沙衣魔石的效果
+			[i:SuperSoulsDLC/TimeEnchant] 获得时间魔石的效果
+			[i:SuperSoulsDLC/ClayArtisanEnchant] 获得陶艺魔石的效果
 			'''
 	}
 
@@ -859,11 +861,11 @@ Items: {
 		DisplayName: 战律之魂
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/AgeForce] 获得岁月之力的效果
-			[i:SuperSoulsDLC/ComplexionForce] 获得气色之力的效果
-			[i:SuperSoulsDLC/DarknessForce] 获得黑暗之力的效果
+			[i:SuperSoulsDLC/BiotaForce] 获得生物之力的效果
+			[i:SuperSoulsDLC/DarkForce] 获得黑暗之力的效果
 			[i:SuperSoulsDLC/FabricationForce] 获得创造之力的效果
-			[i:SuperSoulsDLC/MetallurgyForce] 获得冶金之力的效果
+			[i:SuperSoulsDLC/LumberForce] 获得木料之力的效果
+			[i:SuperSoulsDLC/StoneForce] 获得坚石之力的效果
 			[i:SuperSoulsDLC/WorldForce] 获得万界之力的效果
 			'''
 	}
