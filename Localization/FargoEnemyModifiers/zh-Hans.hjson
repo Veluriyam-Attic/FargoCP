@@ -218,11 +218,6 @@ Mods: {
 					Tooltip: 速度提升至正常速度的 4 倍。击中时重置
 				}
 
-				Bloodthirsty: {
-					Label: 嗜血
-					Tooltip: 每次击中你时伤害提升 25%
-				}
-
 				Bulletproof: {
 					Label: 防弹
 					Tooltip: 获得 80% 远程伤害抗性
@@ -467,6 +462,21 @@ Mods: {
 					Label: 变异
 					Tooltip: 每 10 秒添加一个新的修饰词，直到达到上限
 				}
+
+				Tricky: {
+					Label: 诡计
+					Tooltip: 生成一个虚拟的克隆体
+				}
+
+				Molten: {
+					Label: 熔化
+					Tooltip: 150%伤害，50%伤害减免，在潮湿状态下受到更多伤害
+				}
+
+				Festive: {
+					Tooltip: 发射礼物炸弹，掉落一个礼物
+					Label: 喜庆
+				}
 			}
 
 			EnemyModifiersClientConfig: {
@@ -500,84 +510,406 @@ Mods: {
 
 			ConfigModifierID: {
 				Tooltip: ""
-				Armored.Label: 重甲
-				Blue.Label: 蓝色
-				Green.Label: 绿色
-				Healthy.Label: 健壮
-				Impenetrable.Label: 坚固
-				Light.Label: 轻盈
-				Menacing.Label: 险恶
-				Orange.Label: 橙色
-				Purple.Label: 紫色
-				Rampaging.Label: 暴怒
-				Red.Label: 红色
-				Regenerating.Label: 再生
-				Slow.Label: 缓慢
-				Sluggish.Label: 迟钝
-				Splitting.Label: 分裂
-				Swift.Label: 迅捷
-				Unrelenting.Label: 不屈
-				Wealthy.Label: 富裕
-				Yellow.Label: 黄色
-				Shiny.Label: 闪亮
-				Stinky.Label: 恶臭
-				Lovestruck.Label: 热恋
-				Poor.Label: 一毛不拔
-				Pink.Label: 粉色
-				Big.Label: 大型
-				Small.Label: 小型
-				Fishy.Label: 鱼腥
-				Accelerating.Label: 加速
-				Bloodthirsty.Label: 嗜血
-				Bulletproof.Label: 防弹
-				Flaming.Label: 燃烧
-				Fortifying.Label: 筑垒
-				Hexproof.Label: 辟法
-				Huge.Label: 庞大
-				Infested.Label: 寄生
-				Metallic.Label: 金属
-				Miniature.Label: 微型
-				Possessed.Label: 附身
-				Rallying.Label: 集结
-				Shielded.Label: 护盾
-				Stealthy.Label: 潜行
-				Vaccinated.Label: 抗体
-				Vampiric.Label: 吸血
-				Veiled.Label: 法盾
-				Reflective.Label: 反射
-				Volatile.Label: 易爆
-				Frenzied.Label: 狂乱
-				Scary.Label: 恐怖
-				Sleepy.Label: 困倦
-				Polite.Label: 礼貌
-				Smoky.Label: 烟雾
-				Chained.Label: 禁锢
-				Devouring.Label: 吞噬
-				Hyper.Label: 亢奋
-				Imaginary.Label: 虚幻
-				Juggernaut.Label: 主宰
-				Merchant.Label: 商人
-				Rainbow.Label: 彩虹
-				Showman.Label: 炫
-				Solidified.Label: 固化
-				Undying.Label: 不死
-				Worm.Label: 蠕虫
-				Swarming.Label: 集群
-				Aquarian.Label: 公爵
-				Fluctuating.Label: 波动
-				Skeletal.Label: 骸骨
-				Disguised.Label: 伪装
-				Shimmering.Label: 闪耀
-				Celebratory.Label: 庆典
-				Sticky.Label: 粘性
-				Medic.Label: 医护
-				Sorcerous.Label: 巫术
-				Creepy.Label: 恐怖
-				Shy.Label: 害羞
-				Dramatic.Label: 戏剧
-				Buzzing.Label: 蜂鸣
-				Royal.Label: 贵族
-				Modifying.Label: 变异
+
+				Armored: {
+					Label: 重甲
+					Tooltip: ""
+				}
+
+				Blue: {
+					Label: 蓝色
+					Tooltip: ""
+				}
+
+				Green: {
+					Label: 绿色
+					Tooltip: ""
+				}
+
+				Healthy: {
+					Label: 健壮
+					Tooltip: ""
+				}
+
+				Impenetrable: {
+					Label: 坚固
+					Tooltip: ""
+				}
+
+				Light: {
+					Label: 轻盈
+					Tooltip: ""
+				}
+
+				Menacing: {
+					Label: 险恶
+					Tooltip: ""
+				}
+
+				Orange: {
+					Label: 橙色
+					Tooltip: ""
+				}
+
+				Purple: {
+					Label: 紫色
+					Tooltip: ""
+				}
+
+				Rampaging: {
+					Label: 暴怒
+					Tooltip: ""
+				}
+
+				Red: {
+					Label: 红色
+					Tooltip: ""
+				}
+
+				Regenerating: {
+					Label: 再生
+					Tooltip: ""
+				}
+
+				Slow: {
+					Label: 缓慢
+					Tooltip: ""
+				}
+
+				Sluggish: {
+					Label: 迟钝
+					Tooltip: ""
+				}
+
+				Splitting: {
+					Label: 分裂
+					Tooltip: ""
+				}
+
+				Swift: {
+					Label: 迅捷
+					Tooltip: ""
+				}
+
+				Unrelenting: {
+					Label: 不屈
+					Tooltip: ""
+				}
+
+				Wealthy: {
+					Label: 富裕
+					Tooltip: ""
+				}
+
+				Yellow: {
+					Label: 黄色
+					Tooltip: ""
+				}
+
+				Shiny: {
+					Label: 闪亮
+					Tooltip: ""
+				}
+
+				Stinky: {
+					Label: 恶臭
+					Tooltip: ""
+				}
+
+				Lovestruck: {
+					Label: 热恋
+					Tooltip: ""
+				}
+
+				Poor: {
+					Label: 一毛不拔
+					Tooltip: ""
+				}
+
+				Pink: {
+					Label: 粉色
+					Tooltip: ""
+				}
+
+				Big: {
+					Label: 大型
+					Tooltip: ""
+				}
+
+				Small: {
+					Label: 小型
+					Tooltip: ""
+				}
+
+				Fishy: {
+					Label: 鱼腥
+					Tooltip: ""
+				}
+
+				Accelerating: {
+					Label: 加速
+					Tooltip: ""
+				}
+
+				Bulletproof: {
+					Label: 防弹
+					Tooltip: ""
+				}
+
+				Flaming: {
+					Label: 燃烧
+					Tooltip: ""
+				}
+
+				Fortifying: {
+					Label: 筑垒
+					Tooltip: ""
+				}
+
+				Hexproof: {
+					Label: 辟法
+					Tooltip: ""
+				}
+
+				Huge: {
+					Label: 庞大
+					Tooltip: ""
+				}
+
+				Infested: {
+					Label: 寄生
+					Tooltip: ""
+				}
+
+				Metallic: {
+					Label: 金属
+					Tooltip: ""
+				}
+
+				Miniature: {
+					Label: 微型
+					Tooltip: ""
+				}
+
+				Possessed: {
+					Label: 附身
+					Tooltip: ""
+				}
+
+				Rallying: {
+					Label: 集结
+					Tooltip: ""
+				}
+
+				Shielded: {
+					Label: 护盾
+					Tooltip: ""
+				}
+
+				Stealthy: {
+					Label: 潜行
+					Tooltip: ""
+				}
+
+				Vaccinated: {
+					Label: 抗体
+					Tooltip: ""
+				}
+
+				Vampiric: {
+					Label: 吸血
+					Tooltip: ""
+				}
+
+				Veiled: {
+					Label: 法盾
+					Tooltip: ""
+				}
+
+				Reflective: {
+					Label: 反射
+					Tooltip: ""
+				}
+
+				Volatile: {
+					Label: 易爆
+					Tooltip: ""
+				}
+
+				Frenzied: {
+					Label: 狂乱
+					Tooltip: ""
+				}
+
+				Scary: {
+					Label: 恐怖
+					Tooltip: ""
+				}
+
+				Sleepy: {
+					Label: 困倦
+					Tooltip: ""
+				}
+
+				Polite: {
+					Label: 礼貌
+					Tooltip: ""
+				}
+
+				Smoky: {
+					Label: 烟雾
+					Tooltip: ""
+				}
+
+				Chained: {
+					Label: 禁锢
+					Tooltip: ""
+				}
+
+				Devouring: {
+					Label: 吞噬
+					Tooltip: ""
+				}
+
+				Hyper: {
+					Label: 亢奋
+					Tooltip: ""
+				}
+
+				Imaginary: {
+					Label: 虚幻
+					Tooltip: ""
+				}
+
+				Juggernaut: {
+					Label: 主宰
+					Tooltip: ""
+				}
+
+				Merchant: {
+					Label: 商人
+					Tooltip: ""
+				}
+
+				Rainbow: {
+					Label: 彩虹
+					Tooltip: ""
+				}
+
+				Showman: {
+					Label: 炫
+					Tooltip: ""
+				}
+
+				Solidified: {
+					Label: 固化
+					Tooltip: ""
+				}
+
+				Undying: {
+					Label: 不死
+					Tooltip: ""
+				}
+
+				Worm: {
+					Label: 蠕虫
+					Tooltip: ""
+				}
+
+				Swarming: {
+					Label: 集群
+					Tooltip: ""
+				}
+
+				Aquarian: {
+					Label: 公爵
+					Tooltip: ""
+				}
+
+				Fluctuating: {
+					Label: 波动
+					Tooltip: ""
+				}
+
+				Skeletal: {
+					Label: 骸骨
+					Tooltip: ""
+				}
+
+				Disguised: {
+					Label: 伪装
+					Tooltip: ""
+				}
+
+				Shimmering: {
+					Label: 闪耀
+					Tooltip: ""
+				}
+
+				Celebratory: {
+					Label: 庆典
+					Tooltip: ""
+				}
+
+				Sticky: {
+					Label: 粘性
+					Tooltip: ""
+				}
+
+				Medic: {
+					Label: 医护
+					Tooltip: ""
+				}
+
+				Sorcerous: {
+					Label: 巫术
+					Tooltip: ""
+				}
+
+				Creepy: {
+					Label: 恐怖
+					Tooltip: ""
+				}
+
+				Shy: {
+					Label: 害羞
+					Tooltip: ""
+				}
+
+				Dramatic: {
+					Label: 戏剧
+					Tooltip: ""
+				}
+
+				Buzzing: {
+					Label: 蜂鸣
+					Tooltip: ""
+				}
+
+				Royal: {
+					Label: 贵族
+					Tooltip: ""
+				}
+
+				Modifying: {
+					Label: 变异
+					Tooltip: ""
+				}
+
+				Tricky: {
+					Label: 诡计
+					Tooltip: 生成一个虚拟的克隆体
+				}
+
+				Molten: {
+					Label: 熔化
+					Tooltip: 150%伤害，50%伤害减免，在潮湿状态下受到更多伤害
+				}
+
+				Festive: {
+					Label: 喜庆
+					Tooltip: 发射礼物炸弹，掉落一个礼物
+				}
 			}
 		}
 
@@ -682,11 +1014,6 @@ Mods: {
 				Tooltip: 持续获得速度，最高可达正常速度的 4 倍。如果他们击中你或用近战攻击击中他们，则速度重置
 			}
 
-			Bloodthirsty: {
-				DisplayName: 嗜血
-				Tooltip: 每次击中你时伤害提升 25%
-			}
-
 			Bulletproof: {
 				DisplayName: 防弹
 				Tooltip: 获得 80% 远程伤害抗性
@@ -754,7 +1081,7 @@ Mods: {
 
 			Vampiric: {
 				DisplayName: 吸血
-				Tooltip: 造成伤害时回复一定生命值
+				Tooltip: 造成伤害时回复一定生命值，并额外造成25%伤害
 			}
 
 			Veiled: {
@@ -992,6 +1319,16 @@ Mods: {
 			Buzzing: {
 				DisplayName: 蜂鸣
 				Tooltip: 受到伤害时产生蜜蜂。仅在世界吞噬者/克苏鲁之脑之后出现
+			}
+
+			Molten: {
+				DisplayName: 熔化
+				Tooltip: 150%伤害，50%伤害减免，在潮湿状态下受到更多伤害
+			}
+
+			Festive: {
+				DisplayName: 喜庆
+				Tooltip: 发射礼物炸弹，掉落一个礼物
 			}
 		}
 
