@@ -12,7 +12,6 @@ Fargo突变与魂石汉化补丁：https://steamcommunity.com/sharedfiles/filede
 本品为由玲珑汉化组、ROH和狐狸共同制作的汉化
 汉化进度：99%
 适配模组列表
-（标注*的为有硬编码内容还未解决，后续会更新）
     * More Fargo's Souls    更多Fargo魂石
     * Fargo's Enemy Modifiers    Fargo敌人前缀
     * Calamity - Fargo's Souls DLC    灾厄-Fargo DLC
