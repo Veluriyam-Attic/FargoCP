@@ -1,6 +1,7 @@
 Fargo附属汉化合集(FargoCP) - Mod Version {ModVersion} - TML Version {tMLVersion}
 [#]===============更新细节===============[#]
--更新 Super Souls DLC 汉化
--更新 Fargo的敌人前缀 汉化
+-优化 部分汉化
+-增加 Fargo Healer and Bard 汉化
+-现在支持模组配置界面，显示模组中文
 [#]=====================================[#]
 感谢：所有汉化作者和各位订阅者
