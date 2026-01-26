@@ -1,50 +1,72 @@
 Configs: {
 	ModSettings: {
-		UseCustomDraedonMusic: {
-			Label: 使用星流巨械替换主题曲 （默认：启用）
-			Tooltip: 替换为 UNDERTALE - Hopes And Dreams
+		DisplayName: 模组设置
+
+		Headers: {
+			MusicSettings: 音乐设置
+			ItemChanges: 物品&配方改动
+			EternityMode: 永恒模式设置
+			Miscellaneous: 杂项设置
 		}
 
 		UseCustomLifelightMusic: {
-			Tooltip: 替换为 DELTARUNE - From Now On
 			Label: 使用飘渺游光替换主题曲 （默认：启用）
+			Tooltip: 若启用，替换为 DELTARUNE - From Now On
 		}
 
-		DisplayName: 模组设置
+		UseCustomDraedonMusic: {
+			Label: 使用星流巨械替换主题曲 （默认：启用）
+			Tooltip: 若启用，替换为 UNDERTALE - Hopes And Dreams
+		}
 
 		UseCustomMarbleTheme: {
-			Label: 使用大理石洞穴主题音乐 (默认：启用)
-			Tooltip: ""
+			Label: 使用大理石洞穴主题音乐  （默认：启用）
+			Tooltip: 若启用，则增加大理石洞穴主题音乐
 		}
 
 		UseCustomGraniteTheme: {
-			Label: 使用花岗岩洞穴主题音乐 (默认：启用)
-			Tooltip: ""
+			Label: 使用花岗岩洞穴主题音乐  （默认：启用）
+			Tooltip: 若启用，则增加花岗岩洞穴主题音乐
 		}
 
 		RemoveSigilConfig: {
 			Label: 移除[i:FargowiltasSouls/SigilOfChampions]唤灵魔符配方 （默认：启用）
-			Tooltip: ""
+			Tooltip: 若启用，使唤灵魔符无法被合成
 		}
 
 		DisableEModeZenithNerf: {
 			Label: 禁用永恒模式 [i:4956] 天顶剑的削弱 （默认：启用）
-			Tooltip: ""
+			Tooltip: 若启用且处于永恒模式，回调天顶剑的伤害频率
 		}
 
 		DisableEModeStarCannonNerf: {
 			Label: 禁用永恒模式 [i:197] 星星炮的削弱 （默认：启用）
-			Tooltip: ""
+			Tooltip: 若启用且处于永恒模式，则回调40%伤害
 		}
 
 		DisableEModeStarShooterNerf: {
 			Label: 禁用永恒模式 [i:4060] 超级星星炮的削弱 （默认：启用）
-			Tooltip: ""
+			Tooltip: 若启用且处于永恒模式，增加无限穿透
+		}
+
+		DisableEModeBlizzardStaffNerf: {
+			Label: 禁用永恒模式 [i:1931] 暴雪法杖的削弱 （默认：启用）
+			Tooltip: 若启用且处于永恒模式，则回调30%伤害和攻击速度
 		}
 
 		MultiplyEterniaCrystalLife: {
-			Label: "[i:3828] 永恒水晶生命值乘以3倍（默认：启用）"
+			Label: "[i:3828] 永恒水晶生命值乘以3倍 （默认：启用）"
 			Tooltip: 撒旦军团事件的永恒水晶
+		}
+
+		DisableBossesEternity: {
+			Label: 禁用所有原版Boss的永恒模式AI （默认：启用）
+			Tooltip: 实际上无法做到100%禁用，但是降低Boss的攻击性
+		}
+
+		ModifyChampionsLoot: {
+			Label: 调整意志英灵、生命英灵和宇宙英灵掉落物 （默认：启用）
+			Tooltip: 若启用，则每个英灵都会掉落3个力
 		}
 	}
 }

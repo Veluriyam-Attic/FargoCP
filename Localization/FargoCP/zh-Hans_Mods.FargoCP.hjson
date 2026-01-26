@@ -1,0 +1,41 @@
+ModName: {
+	//官方魂系列
+	FargowiltasMusic: Fargo音乐
+	FargowiltasSouls: Fargo魂石
+	Fargowiltas: Fargo突变
+	FargowiltasSoulsDLC: Fargo魂石附加
+	//非官方魔石扩展
+	SuperSoulsDLC: 超级Fargo魂DLC
+	FargoSoulMore: 更多Fargo魂石
+	FargoMoreSoulsCompat: 非官方Fargo魂石联动扩展
+	CJsAssortedEnchantments: CJ的各样魔石
+	ssm: 社区魂石拓展
+	FargoThorium: Fargo瑟银扩展
+	//官方跨模组扩展
+	FargowiltasCrossmod: 灾厄-Fargo DLC
+	//非官方跨模组扩展
+	FargoClickers: Fargo点击者
+	FargoUnofficialPets: 非官方Fargo魂宠物
+	SoulsBossRushMod: Fargo Boss Rush
+	RadianceSouls: 非官方辐光&Fargo魂联动
+	CalamityBalancedItemsF: 灾厄-Fargo平衡调整
+	fargosoulstweaks: Fargo魂石实用扩展
+	//官方非魔石相关模组
+	FargoEnemyModifiers: Fargo敌人前缀
+	FishAnything: Fargo钓上一切
+	TooManySlots: Fargo背包装备生效
+	LootBonus: Fargo掉落物倍增
+	OmniWield: Fargo背包武器同步攻击
+	FargoSeeds: Fargo世界生成选项整合
+	BannerBoost: Fargo旗帜增益
+	RainbowMod: Fargo彩虹世界
+	PaperMarioBadgeMod: 纸片马里奥徽章
+	CraftingTreeGenerator: Fargo合成树生成器
+	StarHell: Fargo坠落之星
+	HyperMode: Fargo超级模式
+	GodMode: Fargo测试模组
+	FargosExpertModifs: Fargo专家模式调整
+	//官方音乐扩展
+	TerryMusicMod: Terry的Fargo音乐
+	FargoAltMusicMod: Javyz的Fargo音乐DLC
+}

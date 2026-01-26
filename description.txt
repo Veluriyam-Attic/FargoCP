@@ -43,6 +43,7 @@ Fargo突变与魂石汉化补丁：https://steamcommunity.com/sharedfiles/filede
     * CJ's Assorted Enchantments    CJ的多样魔石
     * Fargo Rush Mod    Fargo Boss Rush
     * Super Souls DLC    超级魂石DLC
+    * Fargo Healer and Bard    Fargo瑟银扩展
 
 †Ξ使用方法Ξ†
 1.同时订阅你想要游玩的Mod和本汉化Mod

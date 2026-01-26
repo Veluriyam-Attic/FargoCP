@@ -1,50 +1,72 @@
 Configs: {
 	ModSettings: {
-		UseCustomDraedonMusic: {
-			Label: Use Lifelight's alt theme (default: true)
-			Tooltip: ""
+		DisplayName: Mod Settings
+
+		Headers: {
+			MusicSettings: Music Configuration
+			ItemChanges: Item & Recipe Changes
+			EternityMode: Eternity Mode Settings
+			Miscellaneous: Miscellaneous Settings
 		}
 
 		UseCustomLifelightMusic: {
-			Tooltip: ""
-			Label: Use ExoMechs' alt theme (default: true)
+			Label: Use Lifelight's alt theme (default: true)
+			Tooltip: If activated, replace the Lifelight's theme
 		}
 
-		DisplayName: Mod Settings
+		UseCustomDraedonMusic: {
+			Label: Use ExoMechs' alt theme (default: true)
+			Tooltip: If activated, replace the ExoMechs' theme
+		}
 
 		UseCustomMarbleTheme: {
 			Label: Use Marble Caves biome theme (default: true)
-			Tooltip: ""
+			Tooltip: If activated, adds a theme for the Marble Caves
 		}
 
 		UseCustomGraniteTheme: {
 			Label: Use Granite Caves biome theme (default: true)
-			Tooltip: ""
+			Tooltip: If activated, adds a theme for the Granite Caves
 		}
 
 		RemoveSigilConfig: {
 			Label: Remove Sigil Of Champions recipe (default: true)
-			Tooltip: ""
+			Tooltip: If activated, makes the Sigil Of Champions impossible to get by crafting
 		}
 
 		DisableEModeZenithNerf: {
 			Label: Disable Zenith nerf in Eternity Mode (default: true)
-			Tooltip: ""
+			Tooltip: If activated and in Eternity Mode, restores Zenith base hit cooldown
 		}
 
 		DisableEModeStarCannonNerf: {
 			Label: Disable Star Cannon nerf in Eternity Mode (default: true)
-			Tooltip: ""
+			Tooltip: If activated and in Eternity Mode, restores 40% of the damage
 		}
 
 		DisableEModeStarShooterNerf: {
 			Label: Disable Super Star Shooter nerf in Eternity Mode (default: true)
-			Tooltip: ""
+			Tooltip: If activated and in Eternity Mode, adds infinite piercing
+		}
+
+		DisableEModeBlizzardStaffNerf: {
+			Label: Disable Blizzard Staff nerf in Eternity Mode (default: true)
+			Tooltip: If activated and in Eternity Mode, restores 30% of damage and speed
 		}
 
 		MultiplyEterniaCrystalLife: {
 			Label: Multiply Eternia Crystal life by 3x (default: true)
-			Tooltip: ""
+			Tooltip: If activated, will multiply it's defense too
+		}
+
+		DisableBossesEternity: {
+			Label: Disable the Eternity AI from all Vanilla bosses (default: true)
+			Tooltip: It actually doesn't deactivate 100%, but makes them way less agressive
+		}
+
+		ModifyChampionsLoot: {
+			Label: Modify the loot of the Champion of Will, Life & Cosmos (default: true)
+			Tooltip: If actvated, will make each one to drop 3 forces
 		}
 	}
 }

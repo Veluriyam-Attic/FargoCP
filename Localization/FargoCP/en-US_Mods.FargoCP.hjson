@@ -1,0 +1,41 @@
+ModName: {
+	//官方魂系列
+	FargowiltasMusic: Fargo's Music
+	FargowiltasSouls: Fargo's Souls Mod
+	Fargowiltas: Fargo's Mutant Mod
+	FargowiltasSoulsDLC: Fargo's Soul Mod Extras
+	//非官方魔石扩展
+	SuperSoulsDLC: Super Souls DLC
+	FargoSoulMore: More Fargo's Souls
+	FargoMoreSoulsCompat: Fargo's Souls More Cross-mod (Unofficial Addon)
+	CJsAssortedEnchantments: CJ's Assorted Enchantments
+	ssm: Community Souls Expansion
+	FargoThorium: Fargo Healer and Bard
+	//官方跨模组扩展
+	FargowiltasCrossmod: Calamity - Fargo's Souls DLC
+	//非官方跨模组扩展
+	FargoClickers: Fargo's Mod Clickers
+	FargoUnofficialPets: Unofficial Fargo's Souls Pets
+	SoulsBossRushMod: Fargo Rush Mod
+	RadianceSouls: Unofficial Radiance x Fargo's Souls
+	CalamityBalancedItemsF: Balanced Calamity-Fargo's Experience (BCFE)
+	fargosoulstweaks: Utilities for Fargo's Souls
+	//官方非魔石相关模组
+	FargoEnemyModifiers: Fargo's Enemy Modifiers
+	FishAnything: Fargo's Fish Anything
+	TooManySlots: Fargo's Equipable Inventory
+	LootBonus: Fargo's Loot Bonus
+	OmniWield: Fargo's OmniWield
+	FargoSeeds: Fargo's Best of Both Worlds
+	BannerBoost: Fargo's Banner Boost
+	RainbowMod: Fargo's Rainbow Mod
+	PaperMarioBadgeMod: Paper Mario Badges
+	CraftingTreeGenerator: Fargo's Crafting Tree Generator
+	StarHell: Fargo's Fallen Stars
+	HyperMode: Fargo's Hyper Mode
+	GodMode: Fargo's Testing Mod
+	FargosExpertModifs: Fargos Expert Modifications
+	//官方音乐扩展
+	TerryMusicMod: Terry's Fargo Music Mod
+	FargoAltMusicMod: Javyz' Fargo Music DLC
+}

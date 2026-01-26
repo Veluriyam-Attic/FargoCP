@@ -5,7 +5,7 @@ FargosSoulsUtilitiesConfig: {
 		Recipes: "[i:36] 合成配方 (需要重新加载)"
 		Buffs: "[i:298] Buff和修复 (需要重新加载)"
 		Debuffs: "[i:66] 禁用Buff (需要重新加载)"
-		AccessorySlots: "[i:75] 饰品栏 (reload not required)"
+		AccessorySlots: "[i:75] 饰品栏 (无需重新加载)"
 		EternityDrops: "[i:FargowiltasSouls/EternalEnergy] 永恒Boss掉落 (需要重新加载)"
 	}
 
