@@ -14,45 +14,45 @@
 [code] 
 [olist]
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3248054405] More Fargo's Souls [/url] 
-灾厄瑟银Fargo魂石拓展
+更多Fargo魂石
     [*][url=https://steamcommunity.com/workshop/filedetails/?id=2567580488] Fargo's Enemy Modifiers [/url]
-Fargo的敌人前缀
+Fargo敌人前缀
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3044249615] Calamity - Fargo's Souls DLC [/url] 
-Fargo灾厄DLC
+灾厄-Fargo DLC
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838767066] Utilities for Fargo's Souls [/url] 
-实用Fargo魂石配置
+Fargo魂石实用扩展
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2926396335] Javyz' Fargo Music DLC [/url] 
 Javyz的Fargo音乐DLC
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3061125617] Fargos Expert Modifications [/url] 
-Fargo的专家配置
+Fargo专家模式调整
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3326463997] Fargo's Souls More Cross-mod (Unofficial Addon) [/url] 
-非官方Fargo魂多开衔接模组（魂灵、救赎、Consolaria）
+非官方Fargo魂石联动扩展（魂灵、救赎、Consolaria）
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2565993369] Fargo's Testing Mod [/url] 
 Fargo测试模组
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567015462] Fargo's Hyper Mode [/url] 
 Fargo超级模式
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567016793] Fargo's OmniWield [/url] 
-Fargo背包物品生效
+Fargo背包武器同步攻击
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567018576] Fargo's Equipable Inventory [/url] 
-Fargo背包饰品生效
+Fargo背包装备生效
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567152289] Fargo's Fallen Stars [/url] 
-Fargo落星
+Fargo坠落之星
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567156295] Fargo's Fish Anything [/url] 
 Fargo钓上一切
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590054406] Fargo's Crafting Tree Generator [/url] 
-Fargo合成树导出
+Fargo合成树生成器
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590065264] Fargo's Banner Boost [/url] 
-Fargo针对性免疫
+Fargo旗帜增益
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2802867430] Fargo's Best of Both Worlds [/url] 
-Fargo最好的世界生成
+Fargo世界生成选项整合
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2823410160] Fargo's Rainbow Mod [/url] 
 Fargo彩虹世界
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2803697863] Fargo's Loot Bonus [/url] 
-Fargo掉落物修改
+Fargo掉落物倍增
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2906451681] Fargo's Soul Mod Extras [/url] 
-额外Fargo魂石
+Fargo魂石附加
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3015054070] Paper Mario Badges [/url] 
-Fargo马里奥物品
+纸片马里奥徽章
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3329620648] Community Souls Expansion [/url] 
 社区魂石拓展
     [*][url=https://steamcommunity.com/workshop/filedetails/?id=3464463610] Fargo's Mod Clickers [/url] 
@@ -62,7 +62,7 @@ Fargo点击者
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3514371462] Unofficial Radiance x Fargo's Souls [/url]
 非官方辐光&Fargo魂联动
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3437488846] Fargos Souls Mod Old DLC Recreation [/url]
-Fargo旧版DLC魔石扩展
+Fargo魔石旧版DLC复刻
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3556200919] Terry's Fargo Music Mod [/url]
 Terry的Fargo音乐
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3569694302] Toilet of Eternity [/url]
@@ -70,11 +70,11 @@ Terry的Fargo音乐
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3479412403] Balanced Calamity-Fargo's Experience (BCFE) [/url]
 灾厄-Fargo平衡调整
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3601106119] CJ's Assorted Enchantments [/url]
-CJ的各样魔石
+CJ的多样魔石
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3617791402] Fargo Rush Mod [/url]
 Fargo Boss Rush
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3627830881] Super Souls DLC [/url]
-超级Fargo魂DLC
+超级魂石DLC
 [/olist] 
 [/code] 
 
