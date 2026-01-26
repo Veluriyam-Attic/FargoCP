@@ -1,102 +1,61 @@
-[h1]This is a Chinese-translation Mod for Some Fargo's Mod [/h1]
+This is a Chinese-translation Mod for Some Fargowilta's Mods & Addons to Fargo's Souls
 
 唉，你们多开玩家
 汉化质量差，请多多来群里反馈骂我
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2847120725&searchtext=]Fargo突变与魂石汉化 [/url] 
-[url=https://github.com/Veluriyam-Attic/FargoCP]本汉化开源库[/url]
+Fargo突变与魂石汉化补丁：https://steamcommunity.com/sharedfiles/filedetails/?id=2847120725
+本汉化开源库：https://github.com/Veluriyam-Attic/FargoCP    
 
-[h1]†Ξ介绍Ξ†[/h1]
+†Ξ介绍Ξ†
 本品为由玲珑汉化组、ROH和狐狸共同制作的汉化
 汉化进度：99%
 适配模组列表
 （标注*的为有硬编码内容还未解决，后续会更新）
-[code] 
-[olist]
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3248054405] More Fargo's Souls [/url] 
-灾厄瑟银Fargo魂石拓展
-    [*][url=https://steamcommunity.com/workshop/filedetails/?id=2567580488] Fargo's Enemy Modifiers [/url]
-Fargo的敌人前缀
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3044249615] Calamity - Fargo's Souls DLC [/url] 
-Fargo灾厄DLC
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2838767066] Utilities for Fargo's Souls [/url] 
-实用Fargo魂石配置
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2926396335] Javyz' Fargo Music DLC [/url] 
-Javyz的Fargo音乐DLC
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3061125617] Fargos Expert Modifications [/url] 
-Fargo的专家配置
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3326463997] Fargo's Souls More Cross-mod (Unofficial Addon) [/url] 
-非官方Fargo魂多开衔接模组（魂灵、救赎、Consolaria）
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2565993369] Fargo's Testing Mod [/url] 
-Fargo测试模组
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567015462] Fargo's Hyper Mode [/url] 
-Fargo超级模式
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567016793] Fargo's OmniWield [/url] 
-Fargo背包物品生效
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567018576] Fargo's Equipable Inventory [/url] 
-Fargo背包饰品生效
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567152289] Fargo's Fallen Stars [/url] 
-Fargo落星
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2567156295] Fargo's Fish Anything [/url] 
-Fargo钓上一切
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590054406] Fargo's Crafting Tree Generator [/url] 
-Fargo合成树导出
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2590065264] Fargo's Banner Boost [/url] 
-Fargo针对性免疫
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2802867430] Fargo's Best of Both Worlds [/url] 
-Fargo最好的世界生成
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2823410160] Fargo's Rainbow Mod [/url] 
-Fargo彩虹世界
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2803697863] Fargo's Loot Bonus [/url] 
-Fargo掉落物修改
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2906451681] Fargo's Soul Mod Extras [/url] 
-额外Fargo魂石
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3015054070] Paper Mario Badges [/url] 
-Fargo马里奥物品
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3329620648] Community Souls Expansion [/url] 
-社区魂石拓展
-    [*][url=https://steamcommunity.com/workshop/filedetails/?id=3464463610] Fargo's Mod Clickers [/url] 
-Fargo点击者
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3485231803] Unofficial Fargo's Souls Pets [/url] 
-非官方Fargo魂宠物
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3514371462] Unofficial Radiance x Fargo's Souls [/url]
-非官方辐光&Fargo魂联动
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3437488846] Fargos Souls Mod Old DLC Recreation [/url]
-Fargo旧版DLC魔石扩展
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3556200919] Terry's Fargo Music Mod [/url]
-Terry的Fargo音乐
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3569694302] Toilet of Eternity [/url]
-永恒马桶
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3479412403] Balanced Calamity-Fargo's Experience (BCFE) [/url]
-灾厄-Fargo平衡调整
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3601106119] CJ's Assorted Enchantments [/url]
-CJ的各样魔石
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3617791402] Fargo Rush Mod [/url]
-Fargo Boss Rush
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3627830881] Super Souls DLC [/url]
-超级Fargo魂DLC
-[/olist] 
-[/code] 
+    [*] More Fargo's Souls    更多Fargo魂石
+    [*] Fargo's Enemy Modifiers    Fargo敌人前缀
+    [*] Calamity - Fargo's Souls DLC    灾厄-Fargo DLC
+    [*] Utilities for Fargo's Souls    Fargo魂石实用扩展
+    [*] Javyz' Fargo Music DLC    Javyz的Fargo音乐DLC
+    [*] Fargos Expert Modifications    Fargo专家模式调整
+    [*] Fargo's Souls More Cross-mod (Unofficial Addon)    非官方Fargo魂石联动扩展
+    [*] Fargo's Testing Mod    Fargo测试模组
+    [*] Fargo's Hyper Mode    Fargo超级模式
+    [*] Fargo's OmniWield    Fargo背包武器同步攻击
+    [*] Fargo's Equipable Inventory    Fargo背包装备生效
+    [*] Fargo's Fallen Stars    Fargo坠落之星
+    [*] Fargo's Fish Anything    Fargo钓上一切
+    [*] Fargo's Crafting Tree Generator    Fargo合成树生成器
+    [*] Fargo's Banner Boost    Fargo旗帜增益
+    [*] Fargo's Best of Both Worlds    Fargo世界生成选项整合
+    [*] Fargo's Rainbow Mod    Fargo彩虹世界
+    [*] Fargo's Loot Bonus    Fargo掉落物倍增
+    [*] Fargo's Soul Mod Extras    Fargo魂石附加
+    [*] Paper Mario Badges    纸片马里奥徽章
+    [*] Community Souls Expansion    社区魂石拓展
+    [*] Fargo's Mod Clickers    Fargo点击者
+    [*] Unofficial Fargo's Souls Pets    非官方Fargo魂宠物
+    [*] Unofficial Radiance x Fargo's Souls    非官方辐光&Fargo魂联动
+    [*] Fargos Souls Mod Old DLC Recreation    Fargo魔石旧版DLC复刻
+    [*] Terry's Fargo Music Mod    Terry的Fargo音乐
+    [*] Toilet of Eternity    永恒马桶
+    [*] Balanced Calamity-Fargo's Experience (BCFE)    灾厄-Fargo平衡调整
+    [*] CJ's Assorted Enchantments    CJ的多样魔石
+    [*] Fargo Rush Mod    Fargo Boss Rush
+    [*] Super Souls DLC    超级魂石DLC
 
 反馈群号：909428503
 贡献汉化：3412615165
 
-[h1]†Ξ使用方法Ξ†[/h1]
+†Ξ使用方法Ξ†
 1.同时订阅你想要游玩的Mod和本汉化Mod
 2.进入tModLoader，在模组管理中启用本汉化Mod
 3.重载模组
 
-[h1]†Ξ后续规划Ξ†[/h1]
-[code] 
-[olist]
-    [*]待制作汉化
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3139796298] Satanist Mode [/url] 
-撒旦模式（短期内不会制作）
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3138681141] Masochist Mode EX [/url] 
-受虐EX模式（短期内不会制做）
-    [*]纠正错误文本，增加新的Fargo系列翻译
-[/olist] 
-[/code] 
+†Ξ后续规划Ξ†
+待制作汉化
+    [*] Satanist Mode    撒旦模式（短期内不会制作）
+    [*] Masochist Mode EX    受虐EX模式（短期内不会制做）
+    [*] 纠正错误文本，增加新的Fargo系列翻译
 
-[quote=虞悖] 致谢：
-Fargo汉化人员&玲珑汉化组&狐狸&家庭电脑&三杯伍迪[/quote]
+†Ξ致谢Ξ†
+Fargo汉化人员&玲珑汉化组&狐狸&家庭电脑&三杯伍迪
