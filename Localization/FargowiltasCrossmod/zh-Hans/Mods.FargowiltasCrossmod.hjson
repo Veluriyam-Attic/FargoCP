@@ -1,6 +1,6 @@
 EternityRevDifficulty: {
 	Name: 永恒-复仇
-	ShortDescription: "[c/00FFFF:以Fargo的永恒模式为主并包含了部分][c/880808:复仇模式][c/00FFFF:更改的更具挑战性的难度]"
+	ShortDescription: "[c/00FFFF:预期的灾厄-魂之旅。只能在专家模式下开启。]"
 	ExpandedDescription:
 		'''
 		融合了[c/00FFFF:永恒模式]与[c/880808:复仇模式]，Boss会掉落大师模式专属物品
@@ -26,7 +26,7 @@ EternityRevDifficulty: {
 
 EternityDeathDifficulty: {
 	Name: 永恒-死亡
-	ShortDescription: "[c/00FFFF:以Fargo的永恒模式为主并包含了部分][c/800080:死亡模式][c/00FFFF:更改的更具挑战性的难度]"
+	ShortDescription: "[c/00FFFF:对有经验的，想更进一步的玩家的更难灾厄-魂之旅。只能在大师模式开启]"
 	ExpandedDescription:
 		'''
 		融合了[c/00FFFF:永恒模式]与[c/880808:死亡模式]，Boss会掉落大师模式专属物品
@@ -39,7 +39,7 @@ EternityDeathDifficulty: {
 		    -星流巨械
 		剩余Boss的永恒模式新AI仍在制作中!
 
-		默认[c/00FFFF:永恒模式]AI优先于[c/880808:死亡模式]，可在模组配置设定中更改
+		默认[c/00FFFF:受虐模式]AI优先于[c/880808:死亡模式]，可在模组配置设定中更改
 
 		[c/00FFFF:永恒模式]更改:
 		{$Mods.FargowiltasSouls.UI.ExpandedFeatures}
@@ -49,6 +49,7 @@ EternityDeathDifficulty: {
 		'''
 	Activation: 永恒-死亡模式已开启！
 	Deactivation: 永恒-死亡模式已关闭
+	FTWName: 受虐-恶意模式
 }
 
 UI: {
@@ -56,6 +57,10 @@ UI: {
 	HadesIconMessage: 哈迪斯，一条装备着厚重铠甲、搭载了无数机关炮的恐怖巨蟒
 	AresIconMessage: 阿瑞斯，一个搭载着四台可装卸超级星流武器的庞然巨物
 	ArtemisAndApolloIconMessage: 阿尔忒弥斯与阿波罗，一对能量储备十分不稳定的超敏捷自动机器
+	EternityPriority: 优先使用永恒模式的bossAI
+	CalamityPriority: 优先使用灾厄Mod的bossAI
+	EternityPriorityToggle: BossAI优先更改为永恒模式
+	CalamityPriorityToggle: BossAI优先更改为灾厄Mod
 }
 
 Buffs: {

@@ -456,7 +456,12 @@ VictideEnchant: {
 		'''
 }
 
-Lore.LoreDraedon.DisplayName: 嘉登
+Lore: {
+	LoreDraedon: {
+		DisplayName: 嘉登
+		Tooltip: ""
+	}
+}
 
 FathomSwarmerEnchant: {
 	DisplayName: 幻渊鱼群魔石
