@@ -9,7 +9,7 @@ Toggler: {
 	DevastationForceHeader: Devastation Force
 	ExaltationForceHeader: Exaltation Force
 	RadianceEffect: Radiance
-	GravistarSabatonEffect: Gravistar Sabaton
+	GravistarSabatonEffect: Interstellar Stompers
 	UrsaSergeantEffect: Ursa Sergeant
 	AstralStarsEffect: Astral Stars
 	AtaxiaEffects: Hydrothermic Effects
@@ -206,11 +206,11 @@ Toggler: {
 	LeviathanAmbergrisEffects: Leviathan Ambergris
 	HideOfAstrumDeusEffect: Hide of Astrum Deus
 	PhantomicArtifactEffects: Phantom Artifact
-	RegenatorEffects: Regenator
+	RegenatorEffects: Regenerator
 	DaawnlightSpiritOriginEffects: Daawnlight Spirit Origin
 	OldDukeScalesEffect: Old Duke Scales
 	DeepDiverEffect: Deep Diver
-	AlchemicalFlaskEffects: Alchemical Flask
+	AlchemicalFlaskEffects: Alchemical Decanter
 	DragonScalesEffects: Dragon Scales
 	VenetratedLocketEffects: Venetrated Locket
 	FleshTotemEffects: Flesh Totem
@@ -219,7 +219,7 @@ Toggler: {
 	TheBeeEffects: The Bee
 	HowlsHeartEffect: Howls Heart
 	WulfrumAcrobaticsEffect: Wulfrum Acrobatics Pack
-	RustyMedallionEffects: Rusty Medallion
+	RustyMedallionEffects: Scions Curio
 	ShieldOfTheHighRulerEffects: Shield of the High Ruler
 	ShieldOfTheOceanEffects: Shield of the Ocean
 	SlagslitterPauldronEffects: Slagsplitter Pauldron
@@ -310,6 +310,7 @@ Items: {
 		Tooltip:
 			'''
 			You can glide to negate fall damage
+			Rogue critical strikes inflic frostburn for 3 seconds
 			Effects of Scuttler's Jewel
 			'''
 		DisplayName: Snow Ruffian Enchantment
@@ -323,18 +324,15 @@ Items: {
 	ReaverEnchant: {
 		Tooltip:
 			'''
-			A thorny death awaits your enemies...
+			A quick death awaits your enemies...
 			Reduces the life regen lost from damage over time debuffs by 20%
-			All attacks steal life and speed up the rate of life regen
 			30% decreased movement speed and flight time
-			Enemy damage is reflected and summons a thorn spike
 			Reaver Rage activates when you are damaged
 			Grants immunity to fall damage and allows constant jumping
 			Reduces the cooldown of dashes
 			Highlights all treasure nearby
 			Increased item grab range and block placement range
-			Mining tiles restores breath while underwater
-			Summons a reaver orb to light up the area around you
+			You can now breathe underwater
 			Reduces enemy aggression, even in the abyss
 			Provides a small amount of light in the abyss
 			Effects of Bloom Stone and Necklace of Vexation
@@ -358,7 +356,7 @@ Items: {
 			'''
 			The world is your oyster
 			Two shellfishes aid you in combat
-			10% increased damage
+			10% increased damage reduction
 			Your horizontal movement is slowed
 			Effects of Giant Pearl, Shield of the Ocean, and Aquatic Emblem 
 			Effects of Ocean's Crest, Deep Diver and Luxor's Gift
@@ -394,7 +392,7 @@ Items: {
 			Shadowbeams and demon scythes will fire down when you are hit
 			A friendly red devil follows you around
 			Press Y to enrage nearby enemies with a dark magic spell for 10 seconds
-			This makes them take 2.25x total damage, but they will deal 1.25x damage to you
+			This makes them take 1.5x total damage, but they will deal 1.25x damage to you
 			Effects of Profaned Soul Crystal, Shattered Community, Cirrus Dress, and Angelic Alliance
 			'''
 		DisplayName: Demonshade Enchantment
@@ -1953,9 +1951,6 @@ Items: {
 			The shield starts recharging 5 seconds after being hit
 			Recharging from zero to full charge takes 2 seconds
 			Being hit again while recharging restarts the charge timer
-			10% increased bullet damage
-			10% increased specialist ranged damage
-			These are launchers, dartguns, or anything else that doesn't shoot arrows/bullets
 			20% increased jump speed
 			'Finish the Fight'
 			'''
@@ -1965,7 +1960,6 @@ Items: {
 		DisplayName: Prismatic Enchantment
 		Tooltip:
 			'''
-			+40 max mana and 15% reduced mana cost
 			Increased mana regeneration rate
 			Press Armor Set Bonus to unleash a barrage of death lasers at the cursor for the next 5 seconds
 			This has a 30 second cooldown
@@ -1976,7 +1970,7 @@ Items: {
 		DisplayName: Titan Heart Enchantment
 		Tooltip:
 			'''
-			5% increased rogue damage and knockback
+			5% increased rogue knockback
 			+100 maximum stealth
 			Stealth strikes deal double knockback and cause an astral explosion
 			Grants immunity to knockback
