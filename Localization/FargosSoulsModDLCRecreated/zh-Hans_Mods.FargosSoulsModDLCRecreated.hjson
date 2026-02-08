@@ -9,7 +9,7 @@ Toggler: {
 	DevastationForceHeader: 毁灭之力
 	ExaltationForceHeader: 升华之力
 	RadianceEffect: 星幻 辐辉
-	GravistarSabatonEffect: 星幻 引力靴
+	GravistarSabatonEffect: 星幻 踏星靴
 	UrsaSergeantEffect: 星幻 大熊座雀鲷
 	AstralStarsEffect: 星幻 星幻落星
 	AtaxiaEffects: 渊泉 套装效果
@@ -210,7 +210,7 @@ Toggler: {
 	DaawnlightSpiritOriginEffects: 圣金源 曙旼始灵
 	OldDukeScalesEffect: 蓝色欧米茄 硫海遗爵之鳞
 	DeepDiverEffect: 软壳 深潜者
-	AlchemicalFlaskEffects: 瘟疫使者 冶金烧瓶
+	AlchemicalFlaskEffects: 瘟疫使者 炼金饰瓶
 	DragonScalesEffects: 圣金源 浴火龙鳞
 	VenetratedLocketEffects: 弑神者 敬天神盗盒
 	FleshTotemEffects: 渊泉 血肉图腾
@@ -219,7 +219,7 @@ Toggler: {
 	TheBeeEffects: 掠夺者 蜜蜂护符
 	HowlsHeartEffect: 代达罗斯 哈尔之心
 	WulfrumAcrobaticsEffect: 钨钢 钨钢杂技背包
-	RustyMedallionEffects: 硫磺 锈蚀勋章
+	RustyMedallionEffects: 硫磺 硫海珍嗣
 	ShieldOfTheHighRulerEffects: 皇天 至高统治之盾
 	ShieldOfTheOceanEffects: 胜潮 海之盾
 	SlagslitterPauldronEffects: 硫火 熔火碎矿肩甲
@@ -310,6 +310,7 @@ Items: {
 		Tooltip:
 			'''
 			你可以缓降以消除坠落伤害
+			远程暴击施加敌人3秒[C/1CC6F4:霜冻]减益
 			获得潜遁者宝石的效果
 			'''
 		DisplayName: 雪境暴徒魔石
@@ -324,21 +325,18 @@ Items: {
 		Tooltip:
 			'''
 			受到持续性伤害减益时，降低20%生命恢复损失
-			所有攻击都能窃取生命值并提高生命恢复速度
 			降低30%移动速度和飞行时间
-			敌人会受到反伤效果，并在受伤时召唤一束荆棘
 			当你受伤时还会获得掠夺者之怒增益
 			免疫掉落伤害并允许自动跳跃
 			降低冲刺效果的冷却时间
 			高亮显示附近的所有宝藏
 			提升物品拾取距离和物块放置距离
-			在水下挖掘物块时恢复氧气
-			召唤一个掠夺者宝珠照亮周围区域
+			你现在可以在水下呼吸
 			即使在深渊之中，也能降低敌人的仇恨
 			在水下和深渊提供适量光照
 			获得绽花石和恼怒项链的效果
 			获得鲁莽手套、精确手套和蜜蜂护符的效果
-			“你的敌人将生不如死……”
+			“迅临之死正静候你的敌人……”
 			'''
 		DisplayName: 掠夺者魔石
 	}
@@ -357,7 +355,7 @@ Items: {
 		Tooltip:
 			'''
 			两只沉沦之贝会在战斗中助你一臂之力
-			增加10%伤害
+			增加10%伤害减免
 			水平移动速度降低
 			获得大珍珠、海之盾和海波纹章的效果
 			获得海波项链、深潜者和卢克索的礼物的效果
@@ -1960,9 +1958,6 @@ Items: {
 			盾牌会在被破坏后需要5秒充能
 			重新从0到充满需要花费2秒
 			重新充能期间被击中会重置充能计时器
-			增加10%子弹伤害
-			增加10%特殊远程伤害
-			这是指发射器、飞镖枪和其他一切不发射子弹或弓箭的武器
 			增加20%跳跃速度
 			“结束这场战争”
 			'''
@@ -1972,7 +1967,6 @@ Items: {
 		DisplayName: 光棱魔石
 		Tooltip:
 			'''
-			最大魔力值增加40，魔力消耗减少15%
 			提高魔力再生速度
 			按下 [{$Mods.CalamityMod.Keybinds.ArmorSetBonus.DisplayName}] 键在鼠标位置召唤一轮[C/FF6AF6:死亡][C/4ED9BE:激光]，持续5秒
 			技能有30秒冷却时间
@@ -1983,7 +1977,7 @@ Items: {
 		DisplayName: 泰坦之心魔石
 		Tooltip:
 			'''
-			增加15%盗贼伤害和击退
+			增加5%盗贼击退
 			增加100点潜行值
 			潜伏攻击会造成两倍的击退并产生幻星爆炸
 			免疫击退
