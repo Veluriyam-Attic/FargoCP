@@ -1,4 +1,4 @@
-EternityRevDifficulty: {
+﻿EternityRevDifficulty: {
 	Name: Eternity-Revengeance
 	ShortDescription: "[c/00FFFF:The intended Calamity-Souls experience. Can only be enabled in Expert Mode]"
 	ExpandedDescription:
@@ -31,7 +31,6 @@ MasoDeathDifficulty: {
 		By default, [c/00FFFF:Masochist Mode] behaviour takes priority. This can be changed in the configs.
 		{$Mods.FargowiltasSouls.UI.ExpandedFeatures}
 		[i:1612][c/00ff00:Recommended to use Fargo's Mutant Mod Debuff Display (in config)]
-
 		'''
 	Activation: Masochist-Death Mode has activated!
 	Deactivation: Masochist-Death Mode has deactivated.
@@ -47,6 +46,21 @@ UI: {
 	CalamityPriority: Prioritize Calamity boss AI over Eternity
 	EternityPriorityToggle: Boss priority set to Eternity
 	CalamityPriorityToggle: Boss priority set to Calamity
+	WarningFTW:
+		'''
+		WARNING: Fargo's Souls DLC does NOT support the For the worthy seed!
+		Either disable the seed, or expect several bugs, balance issues, and broken interactions!
+		'''
+	WarningInfernum:
+		'''
+		WARNING: Fargo's Souls DLC is NOT compatible with Infernum Mode!
+		Either disable Infernum Mode, or expect several bugs, balance issues, and broken interactions!
+		'''
+	WarningOverhaul:
+		'''
+		WARNING: Fargo's Souls DLC is NOT compatible with Calamity Overhaul!
+		Either disable Calamity Overhaul, or expect several bugs, balance issues, and broken interactions!
+		'''
 }
 
 Buffs: {
@@ -69,6 +83,8 @@ ExpandedTooltips: {
 RecipeGroups: {
 	GildedDagger: Gilded Dagger
 	EvilBar: Evil Bar
+	AcidFruit: Sulphurous Sea Fruit
+	AstralFruit: Astral Infection Fruit
 	VictideHelmet: Victide Headpiece
 	AerospecHelmet: Aerospec Headpiece
 	StatigelHelmet: Statigel Headpiece
