@@ -1,5 +1,4 @@
-
-EternityRevDifficulty: {
+﻿EternityRevDifficulty: {
 	Name: 永恒-复仇
 	ShortDescription: "[c/00FFFF:预期的灾厄-魂石之旅。只能在专家模式下开启。]"
 	ExpandedDescription:
@@ -44,7 +43,6 @@ MasoDeathDifficulty: {
 		{$Mods.FargowiltasSouls.UI.ExpandedFeatures}
 
 		[i:1612][c/00ff00:建议打开Fargo突变的头顶显示减益相关效果（在模组的客户端配置设定中）]
-
 		'''
 	Activation: 受虐-死亡模式已开启！
 	Deactivation: 受虐-死亡模式已关闭
@@ -60,6 +58,21 @@ UI: {
 	CalamityPriority: 优先使用灾厄Mod的Boss AI
 	EternityPriorityToggle: Boss AI更改为永恒模式
 	CalamityPriorityToggle: Boss AI更改为灾厄Mod
+	WarningFTW:
+		'''
+		-警-告-: Fargo's Souls DLC >>不<< 支持For the worthy种子!
+		禁用该种子, 或面对一些bugs, 平衡问题和交互故障!
+		'''
+	WarningInfernum:
+		'''
+		-警-告-: Fargo's Souls DLC >>不<< 兼容炼狱模式!
+		禁用炼狱模式, 或面对一些bugs, 平衡问题和交互故障!
+		'''
+	WarningOverhaul:
+		'''
+		-警-告-: Fargo's Souls DLC >>不<< 兼容灾厄大修!
+		禁用灾厄大修, 或面对一些bugs, 平衡问题和交互故障!
+		'''
 }
 
 Buffs: {
@@ -86,6 +99,8 @@ ExpandedTooltips: {
 RecipeGroups: {
 	GildedDagger: 闪亮匕首或镀金匕首
 	EvilBar: 魔矿/猩红锭
+	AcidFruit: 硫磺海水果
+	AstralFruit: 星辉瘟疫水果
 	VictideHelmet: 胜潮头部盔甲
 	AerospecHelmet: 天蓝头部盔甲
 	StatigelHelmet: 斯塔提斯头部盔甲
