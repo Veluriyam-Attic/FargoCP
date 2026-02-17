@@ -179,15 +179,6 @@ WormFoodofKos: {
 	Tooltip: 召唤风暴编织者
 }
 
-AbandonedRemote: {
-	DisplayName: 废弃遥控装置
-	Tooltip:
-		'''
-		召唤装甲掘地虫
-		只能在地下使用
-		'''
-}
-
 ClamPearl: {
 	DisplayName: 蛤蜊珍珠
 	Tooltip:
