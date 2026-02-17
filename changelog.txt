@@ -1,5 +1,5 @@
 Fargo附属汉化合集(FargoCP) - Mod Version {ModVersion} - TML Version {tMLVersion}
 [#]===============更新细节===============[#]
--更新 Fargo魔石旧版DLC复刻 汉化
+-更新 灾法DLC文本
 [#]=====================================[#]
 感谢：所有汉化作者和各位订阅者
