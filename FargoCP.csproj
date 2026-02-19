@@ -5,12 +5,18 @@
 
 	<!-- General -->
 	<PropertyGroup>
-		
+		<PublicizeAll>true</PublicizeAll>
 	</PropertyGroup>
 	<ItemGroup>
 	  <Reference Include="TigerForceLocalizationLib">
 	    <HintPath>lib\TigerForceLocalizationLib.dll</HintPath>
 	  </Reference>
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Include="Krafs.Publicizer" Version="2.3.0">
+	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	    <PrivateAssets>all</PrivateAssets>
+	  </PackageReference>
 	</ItemGroup>
 
 	<!-- References -->
