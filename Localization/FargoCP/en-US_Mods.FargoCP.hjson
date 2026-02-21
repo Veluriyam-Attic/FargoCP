@@ -1,27 +1,27 @@
 ModName: {
-	//官方魂系列
+	#官方魂系列
 	FargowiltasMusic: Fargo's Music
 	FargowiltasSouls: Fargo's Souls Mod
 	Fargowiltas: Fargo's Mutant Mod
 	FargowiltasSoulsDLC: Fargo's Soul Mod Extras
-	//非官方魔石扩展
+	#非官方魔石扩展
 	SuperSoulsDLC: Super Souls DLC
 	FargoSoulMore: More Fargo's Souls
 	FargoMoreSoulsCompat: Fargo's Souls More Cross-mod (Unofficial Addon)
 	CJsAssortedEnchantments: CJ's Assorted Enchantments
 	ssm: Community Souls Expansion
 	FargoThorium: Fargo Healer and Bard
-	//官方跨模组扩展
 	FargowiltasCrossmod: Calamity - Fargo's Souls DLC
-	//非官方跨模组扩展
+	#非官方跨模组扩展
 	FargoClickers: Fargo's Mod Clickers
 	FargoUnofficialPets: Unofficial Fargo's Souls Pets
 	SoulsBossRushMod: Fargo Rush Mod
 	RadianceSouls: Unofficial Radiance x Fargo's Souls
 	CalamityBalancedItemsF: Balanced Calamity-Fargo's Experience (BCFE)
 	fargosoulstweaks: Utilities for Fargo's Souls
-	//官方非魔石相关模组
+	fargosconfigslop: various calamity/fargos settings
 	FargoEnemyModifiers: Fargo's Enemy Modifiers
+	#官方非魔石相关模组
 	FishAnything: Fargo's Fish Anything
 	TooManySlots: Fargo's Equipable Inventory
 	LootBonus: Fargo's Loot Bonus
@@ -35,7 +35,7 @@ ModName: {
 	HyperMode: Fargo's Hyper Mode
 	GodMode: Fargo's Testing Mod
 	FargosExpertModifs: Fargos Expert Modifications
-	//官方音乐扩展
 	TerryMusicMod: Terry's Fargo Music Mod
+	#官方音乐扩展
 	FargoAltMusicMod: Javyz' Fargo Music DLC
 }

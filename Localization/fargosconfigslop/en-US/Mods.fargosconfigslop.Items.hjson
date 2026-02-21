@@ -1,0 +1,6 @@
+DisabledItemTooltip:
+	'''
+	Disabled, cannot be used
+	This item doesn't exist. Wake up.
+	'''
+UnderworldOnlyTooltip: Can only be used in the Underworld

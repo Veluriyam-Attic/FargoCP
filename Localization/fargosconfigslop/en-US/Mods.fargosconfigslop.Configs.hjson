@@ -1,0 +1,411 @@
+GiftFuryItem: {
+	Tooltip: ""
+
+	Null: {
+		Label: None
+		Tooltip: ""
+	}
+
+	EternitySoul: {
+		Label: "[i:FargowiltasSouls/EternitySoul] Soul of Eternity"
+		Tooltip: ""
+	}
+
+	Penetrator: {
+		Label: "[i:FargowiltasSouls/Penetrator] The Penetrator"
+		Tooltip: ""
+	}
+
+	EternalFlame: {
+		Label: "[i:FargowiltasSouls/MutantMask] Eternal Flame"
+		Tooltip: ""
+	}
+}
+
+QOLConsumables: Quality of Life Items
+PurityHeader: Biome Conversion Items
+
+ItemConfigs: {
+	DisplayName: Item Configs
+
+	graveBuster: {
+		Label: "[i:Fargowiltas/GraveBuster] Grave Buster"
+		Tooltip:
+			'''
+			Destroys tombstones in a large area
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	cityBuster: {
+		Label: "[i:Fargowiltas/CityBuster] City Buster"
+		Tooltip:
+			'''
+			Destroys an incredibly large area
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	galacticReformer: {
+		Label: "[i:FargowiltasSouls/GalacticReformer] Galactic Reformer"
+		Tooltip:
+			'''
+			Destroys an incredibly massive area
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	universalCollapse: {
+		Label: "[i:FargowiltasSouls/UniversalCollapse] Universal Collapse"
+		Tooltip:
+			'''
+			Destroys the Universe
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	altarExterminator: {
+		Label: "[i:Fargowiltas/AltarExterminator] Altar Exterminator"
+		Tooltip:
+			'''
+			Destroys all natural Demon Altars and Crimson Altars
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	instaLake: {
+		Label: "[i:Fargowiltas/InstaPond] Instalake"
+		Tooltip:
+			'''
+			Drops a bomb that creates a 150x50 body of water below it
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	instaHouse: {
+		Label: "[i:Fargowiltas/AutoHouse] InstaHouse"
+		Tooltip:
+			'''
+			Places an NPC house instantly
+			Disabling this setting makes this item uncraftable and unusable
+			This item is given with Deviantt's gift! Disabling this will give you a functionless brick!
+			'''
+	}
+
+	instavator: {
+		Label: "[i:Fargowiltas/Instavator] Instavator"
+		Tooltip:
+			'''
+			Creates a hellevator instantly
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	miniDirtInstaBridge: {
+		Label: "[i:Fargowiltas/MiniDirtInstaBridge] Mini Dirt Instabridge"
+		Tooltip:
+			'''
+			Creates a small bridge of dirt at the cursor
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	miniInstaBridge: {
+		Label: "[i:Fargowiltas/MiniInstaBridge] Mini Instabridge"
+		Tooltip:
+			'''
+			Creates a long bridge of platforms
+			Disabling this setting makes this item uncraftable and unusable
+			This item is given with Deviantt's gift! Disabling this will give you a functionless brick!
+			'''
+	}
+
+	instaBridge: {
+		Label: "[i:Fargowiltas/InstaBridge] Instabridge"
+		Tooltip:
+			'''
+			Creates a bridge of platforms across the whole world
+			Disabling this setting makes this item unusable.
+			Remains craftable for Bridgifiers.
+			'''
+	}
+
+	obsidianInstaBridge: {
+		Label: "[i:Fargowiltas/ObsidianInstaBridge] Obsidian Instabridge"
+		Tooltip:
+			'''
+			Creates a bridge of obsidian platforms instantly
+			0 - Default, craftable and usable
+			1 - Craftable, only usable in the Underworld
+			2 - Unusable. Uncraftable if Double Obsidian Instabridge is also disabled.
+			'''
+	}
+
+	doubleObsidianInstaBridge: {
+		Label: "[i:Fargowiltas/DoubleObsidianInstabridge] Double Obsidian Instabridge"
+		Tooltip:
+			'''
+			Creates 2 bridges of obsidian platforms instantly
+			0 - Default, craftable and usable
+			1 - Craftable, only usable in the Underworld
+			2 - Uncraftable and unusable
+			'''
+	}
+
+	instaTrack: {
+		Label: "[i:Fargowiltas/InstaTrack] Instatrack"
+		Tooltip:
+			'''
+			Creates a minecart track across the whole world
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	pylonCleaner: {
+		Label: "[i:Fargowiltas/PylonCleaner] Pylon Cleaner"
+		Tooltip:
+			'''
+			Purifies the area around every pylon
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	purityRenewal: {
+		Label: "[i:Fargowiltas/PurityRenewal] Purity Renewal"
+		Tooltip:
+			'''
+			Cleanses a large radius
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	evilRenewal: {
+		Label: "[i:Fargowiltas/CorruptRenewal] Evil Renewals"
+		Tooltip:
+			'''
+			Crimson/Corrupt/Hallows a large radius
+			Disabling this setting makes these items uncraftable and unusable
+			'''
+	}
+
+	mushroomRenewal: {
+		Label: "[i:Fargowiltas/MushroomRenewal] Mushroom Renewal"
+		Tooltip:
+			'''
+			Shroomifies a large radius
+			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	biomesRenewal: {
+		Label: "[i:Fargowiltas/DirtRenewal] Biome Renewals"
+		Tooltip:
+			'''
+			Dirt/Sand/Snows a large radius
+			Disabling this setting makes these items uncraftable and unusable
+			'''
+	}
+
+	purityRenewalSupreme: {
+		Label: "[i:Fargowiltas/PurityRenewalSupreme] Supreme Purity Renewal"
+		Tooltip:
+			'''
+			Cleanses the whole world
+			Disabling this setting or Purity Renewal makes this item uncraftable and unusable
+			'''
+	}
+
+	evilRenewalSupreme: {
+		Label: "[i:Fargowiltas/CorruptRenewalSupreme] Supreme Evil Renewals"
+		Tooltip:
+			'''
+			Crimson/Corrupt/Hallows the whole world
+			Disabling this setting or Evil Renewals makes these items uncraftable and unusable
+			'''
+	}
+
+	mushroomRenewalSupreme: {
+		Label: "[i:Fargowiltas/MushroomRenewalSupreme] Supreme Mushroom Renewal"
+		Tooltip:
+			'''
+			Shroomifies the whole world
+			Disabling this setting or Mushroom Renewal makes this item uncraftable and unusable
+			'''
+	}
+
+	biomesRenewalSupreme: {
+		Label: "[i:Fargowiltas/DirtRenewalSupreme] Supreme Biome Renewals"
+		Tooltip:
+			'''
+			Dirt/Sand/Snows the whole world
+			Disabling this setting or Biome Renewals makes these items uncraftable and unusable
+			'''
+	}
+}
+
+CalamityRecipeHeader: Calamity Crossmod Recipe Changes
+RemoveQOLRecipes: Quality of Life Recipe Changes
+
+RecipeConfigs: {
+	DisplayName: Recipe Configs
+
+	ShadowspecEternalEnergy: {
+		Tooltip: Removes Eternal Energy from Shadowspec Bars
+		Label: "[i:CalamityMod/ShadowspecBar] Shadowspec Bar Eternal Energy"
+	}
+
+	EternitySoulRock: {
+		Tooltip: Removes Rock from Soul of Eternity
+		Label: "[i:FargowiltasSouls/EternitySoul] Soul of Eternity rock"
+	}
+
+	SiblingWeaponsRock: {
+		Tooltip: Removes Rock from Sparkling Love, Styx Gazer and the Penetrator
+		Label: "[i:FargowiltasSouls/SparklingLove] Sibling Weapons rock"
+	}
+
+	EternalArmorRock: {
+		Tooltip: Removes Rock from Eternal Flame, Core and Leggings
+		Label: "[i:FargowiltasSouls/MutantMask] Eternal Armor rock"
+	}
+
+	FargoAmmoRock: {
+		Tooltip: Removes Rock from Amalgamated Arrow Quiver and Bullet Pouch
+		Label: "[i:FargowiltasSouls/FargoArrow] Amalgamated Ammo rock"
+	}
+
+	EarlyForces: {
+		Label: "[i:FargowiltasSouls/TimberForce] Early Forces"
+		Tooltip:
+			'''
+			Removes Divine Geode from Forces and makes them craftable by hand
+			Does not affect Force of Cosmos
+			'''
+	}
+
+	EarlyCosmoForce: {
+		Label: "[i:FargowiltasSouls/CosmoForce] Early Force of Cosmos"
+		Tooltip: Removes Eridanium and Cosmilite from Force of Cosmos and makes it craftable by hand
+	}
+
+	EarlySouls: {
+		Label: "[i:FargowiltasSouls/TerrariaSoul] Early Souls"
+		Tooltip: Removes Exo Prisms and Ashes of Annihilation from Souls
+	}
+
+	EarlierSouls: {
+		Label: "[i:FargowiltasSouls/MasochistSoul] Earlier Souls"
+		Tooltip:
+			'''
+			Removes Abominable Energy and crafting stations from Souls
+			Only applies to Universe, Dimension, Terraria, Master Souls and Brand of the Brimstone Witch if Early Souls is enabled
+			Does not affect Soul of Eternity
+			'''
+	}
+
+	WhereMutantGift: {
+		Tooltip: ""
+		Label: "[i:FargowiltasSouls/Masochist] Add Mutant's Gift to recipe"
+	}
+
+	WhereMutantFury: {
+		Tooltip: ""
+		Label: "[i:FargowiltasSouls/MutantsFury] Add Mutant's Fury to recipe"
+	}
+
+	RemoveTreasureBagRecipes: {
+		Label: "[i:3319] Treasure Bag Recipes"
+		Tooltip:
+			'''
+			Removes boss drop recipes using Treasure Bags
+			Also removes Relic of Deliverance, Resilience and Convergence recipes using Profaned Guardian Relic
+			'''
+	}
+
+	RemoveTrophyRecipes: {
+		Label: "[i:1360] Trophy Recipes"
+		Tooltip: Removes rare boss and event drop recipes using trophies
+	}
+
+	RemoveCrateRecipes: {
+		Label: "[i:2336] Crate Recipes"
+		Tooltip: Removes recipes using fishing crates
+	}
+
+	RemoveStatueRecipes: {
+		Label: "[i:52] Statue Recipes"
+		Tooltip:
+			'''
+			Removes Mutant Mod recipes for statues
+			Keeps King/Queen, Heart, Star and Bomb Statue recipes
+			(Mutant Statue recipe is only affected by NPC Recipes config)
+			'''
+	}
+
+	RemoveNPCRecipes: {
+		Label: "[i:763] Caught NPC Recipes"
+		Tooltip:
+			'''
+			Removes recipes using caught Town NPCs
+			includes Travelling Merchant, Skeleton Merchant and town pets
+			'''
+	}
+
+	RemoveCritterRecipes: {
+		Label: Critter Recipes
+		Tooltip: Removes recipes for Gem and Gold Critters
+	}
+}
+
+General: General Settings
+Recipes: Item Recipes
+Buffs: Remove Debuffs
+
+Utilities: {
+	DisplayName: Utilities
+
+	EternityBossItems: {
+		Label: "[i:FargowiltasSouls/HeartoftheMasochist] Eternity Boss Drops"
+		Tooltip:
+			'''
+			Bosses drop their Eternity Mode accessories in classic
+			Main bosses, Betsy and Dreadnautilus have a 10% drop chance
+			Pumpking, Ice Queen and the Martian Saucer have a 5% chance
+			'''
+	}
+
+	CraftSinisterIcon: {
+		Label: "[i:FargowiltasSouls/SinisterIcon] Sinister Icon"
+		Tooltip: ""
+	}
+
+	CraftParadoxWolfSoul: {
+		Label: "[i:FargowiltasSouls/ParadoxWolfSoul] Paradox Wolf Soul"
+		Tooltip: ""
+	}
+
+	guilty: {
+		Label: "[i:FargowiltasSouls/SqueakyToy] Guilty"
+		Tooltip: ""
+	}
+
+	abominablePresence: {
+		Label: "[i:Fargowiltas/AbominationnMask] Abominable Presence"
+		Tooltip: ""
+	}
+
+	mutantPresence: {
+		Label: "[i:Fargowiltas/MutantMask] Mutant Presence"
+		Tooltip: ""
+	}
+
+	calamitousPresence: {
+		Label: "[i:CalamityMod/CalamitasCloneMask] Calamitous Presence"
+		Tooltip: ""
+	}
+
+	EnemyDropsRecipes: {
+		Label: "[i:FargowiltasSouls/BionomicCluster] Rare Enemy Drops"
+		Tooltip: Recipes for Crystal Skull and all materials for Bionomic Cluster
+	}
+}

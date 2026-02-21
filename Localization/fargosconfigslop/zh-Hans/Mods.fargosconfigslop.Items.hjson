@@ -1,0 +1,6 @@
+DisabledItemTooltip:
+	'''
+	被禁用，无法使用
+	该物品并不存在
+	'''
+UnderworldOnlyTooltip: 只能在地狱使用

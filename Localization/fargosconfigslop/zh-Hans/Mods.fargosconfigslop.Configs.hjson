@@ -1,0 +1,415 @@
+GiftFuryItem: {
+	Tooltip: ""
+
+	Null: {
+		Label: 无
+		Tooltip: ""
+	}
+
+	EternitySoul: {
+		Label: "[i:FargowiltasSouls/EternitySoul] 永恒之魂"
+		Tooltip: ""
+	}
+
+	Penetrator: {
+		Label: "[i:FargowiltasSouls/Penetrator] 洞察者"
+		Tooltip: ""
+	}
+
+	EternalFlame: {
+		Label: "[i:FargowiltasSouls/MutantMask] 永恒怒焰"
+		Tooltip: ""
+	}
+}
+
+QOLConsumables: 体验优化物品
+PurityHeader: 环境转换物品
+
+ItemConfigs: {
+	DisplayName: 物品配置
+
+	graveBuster: {
+		Label: "[i:Fargowiltas/GraveBuster] 墓碑克星"
+		Tooltip:
+			'''
+			破坏大面积的墓碑
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	cityBuster: {
+		Label: "[i:Fargowiltas/CityBuster] 城市克星"
+		Tooltip:
+			'''
+			破坏大面积的物块
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	galacticReformer: {
+		Label: "[i:FargowiltasSouls/GalacticReformer] 银河重构器"
+		Tooltip:
+			'''
+			破坏一片难以置信的巨大区域
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	universalCollapse: {
+		Label: "[i:FargowiltasSouls/UniversalCollapse] 宇宙坍缩"
+		Tooltip:
+			'''
+			毁灭宇宙
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	altarExterminator: {
+		Label: "[i:Fargowiltas/AltarExterminator] 祭坛终结者"
+		Tooltip:
+			'''
+			破坏所有自然生成的恶魔祭坛和猩红祭坛
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	instaLake: {
+		Label: "[i:Fargowiltas/InstaPond] 快速湖泊"
+		Tooltip:
+			'''
+			投下一颗炸弹，在其下方形成一片150x50的的水体
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	instaHouse: {
+		Label: "[i:Fargowiltas/AutoHouse] 快速房屋"
+		Tooltip:
+			'''
+			快速建造一间NPC房屋
+			禁用该选项，该物品将无法制作且无法使用
+			黛薇安的礼物会给予该物品！禁用该选项会只会给你没用的砖头！
+			'''
+	}
+
+	instavator: {
+		Label: "[i:Fargowiltas/Instavator] 地狱直通车"
+		Tooltip:
+			'''
+			立刻建立一条地狱直通车
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	miniDirtInstaBridge: {
+		Label: "[i:Fargowiltas/MiniDirtInstaBridge] 迷你泥土平台"
+		Tooltip:
+			'''
+			在光标处建造一条小型泥土平台
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	miniInstaBridge: {
+		Label: "[i:Fargowiltas/MiniInstaBridge] 迷你速建平台"
+		Tooltip:
+			'''
+			建造一条长平台
+			禁用该选项，该物品将无法制作且无法使用
+			黛薇安的礼物会给予该物品！禁用该选项会只会给你没用的砖头！
+			'''
+	}
+
+	instaBridge: {
+		Label: "[i:Fargowiltas/InstaBridge] 速建平台"
+		Tooltip:
+			'''
+			建造一条横跨整个世界的平台
+			禁用该选项，该物品将无法使用
+			但会保留用于制作平台转换器
+			'''
+	}
+
+	obsidianInstaBridge: {
+		Label: "[i:Fargowiltas/ObsidianInstaBridge] 黑曜石速建平台"
+		Tooltip:
+			'''
+			立刻建造一条横跨整个世界的黑曜石平台
+			0 - 默认，能够制作和使用
+			1 - 能够制作，只能在地狱使用
+			2 - 无法使用，且如果双重黑曜石速建平台也被禁用则该物品也无法制作
+			'''
+	}
+
+	doubleObsidianInstaBridge: {
+		Label: "[i:Fargowiltas/DoubleObsidianInstabridge] 双重黑曜石速建平台"
+		Tooltip:
+			'''
+			立刻建造2条横跨整个世界的黑曜石平台
+			0 - 默认，能够制作和使用
+			1 - 能够制作，只能在地狱使用
+			2 - 无法制作且无法使用
+			'''
+	}
+
+	instaTrack: {
+		Label: "[i:Fargowiltas/InstaTrack] 速建轨道"
+		Tooltip:
+			'''
+			建造一条横跨整个世界的矿车轨道
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	pylonCleaner: {
+		Label: "[i:Fargowiltas/PylonCleaner] 洁晶灵"
+		Tooltip:
+			'''
+			净化所有晶塔周围的区域
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	purityRenewal: {
+		Label: "[i:Fargowiltas/PurityRenewal] 纯净领域"
+		Tooltip:
+			'''
+			净化一大片区域
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	evilRenewal: {
+		Label: "[i:Fargowiltas/CorruptRenewal] 邪恶领域"
+		Tooltip:
+			'''
+			使一大片区域变为腐化/猩红/神圣之地
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	mushroomRenewal: {
+		Label: "[i:Fargowiltas/MushroomRenewal] 发光蘑菇领域"
+		Tooltip:
+			'''
+			使一大片区域变为发光蘑菇地
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	biomesRenewal: {
+		Label: "[i:Fargowiltas/DirtRenewal] 环境领域"
+		Tooltip:
+			'''
+			使一大片区域变为森林/沙漠/雪原环境
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	purityRenewalSupreme: {
+		Label: "[i:Fargowiltas/PurityRenewalSupreme] 纯净维度"
+		Tooltip:
+			'''
+			净化整个世界
+			禁用该选项或[i:Fargowiltas/PurityRenewal] 纯净领域使得该物品无法制作且无法使用
+			'''
+	}
+
+	evilRenewalSupreme: {
+		Label: "[i:Fargowiltas/CorruptRenewalSupreme] 邪恶维度"
+		Tooltip:
+			'''
+			使整个世界变为腐化/猩红/神圣之地
+			禁用该选项或对应的[i:Fargowiltas/CorruptRenewal] 邪恶领域使得该物品无法制作且无法使用
+			'''
+	}
+
+	mushroomRenewalSupreme: {
+		Label: "[i:Fargowiltas/MushroomRenewalSupreme] 发光蘑菇维度"
+		Tooltip:
+			'''
+			使整个世界变为发光蘑菇地
+			禁用该选项或[i:Fargowiltas/MushroomRenewal] 发光蘑菇领域使得该物品无法制作且无法使用
+			'''
+	}
+
+	biomesRenewalSupreme: {
+		Label: "[i:Fargowiltas/DirtRenewalSupreme] 环境维度"
+		Tooltip:
+			'''
+			使整个世界变为森林/沙漠/雪原环境
+			禁用该选项或对应的[i:Fargowiltas/DirtRenewalSupreme] 环境维度邪恶领域使得该物品无法制作且无法使用
+			'''
+	}
+}
+
+CalamityRecipeHeader: 灾厄联动配方更改
+RemoveQOLRecipes: 体验优化配方更改
+
+RecipeConfigs: {
+	DisplayName: 配方配置
+
+	ShadowspecEternalEnergy: {
+		Tooltip: 移除魔影锭配方中的永恒能量
+		Label: "[i:CalamityMod/ShadowspecBar] 魔影锭移除永恒能量"
+	}
+
+	EternitySoulRock: {
+		Tooltip: 移除永恒之魂配方中的古恒石
+		Label: "[i:FargowiltasSouls/EternitySoul] 永恒之魂移除古恒石"
+	}
+
+	SiblingWeaponsRock: {
+		Tooltip: 移除 [i:FargowiltasSouls/SparklingLove]闪闪发光的爱、 [i:FargowiltasSouls/StyxGazer]冥河凝视 和 [i:FargowiltasSouls/Penetrator]洞察者配方中的古恒石
+		Label: "[i:FargowiltasSouls/SparklingLove] 突变体兄妹武器移除古恒石"
+	}
+
+	EternalArmorRock: {
+		Tooltip: 移除永恒怒焰、永恒核心和永恒护腿配方中的古恒石
+		Label: "[i:FargowiltasSouls/MutantMask] 永恒盔甲移除古恒石"
+	}
+
+	FargoAmmoRock: {
+		Tooltip: 移除混合箭袋和混合子弹袋配方中的古恒石
+		Label: "[i:FargowiltasSouls/FargoArrow] 混合弹药移除古恒石"
+	}
+
+	EarlyForces: {
+		Label: "[i:FargowiltasSouls/TimberForce] 力时期前移"
+		Tooltip:
+			'''
+			移除大部分力配方中的神圣晶石使它们能够轻松合成
+			不影响宇宙之力
+			'''
+	}
+
+	EarlyCosmoForce: {
+		Label: "[i:FargowiltasSouls/CosmoForce] 宇宙之力时期前移"
+		Tooltip: 移除宇宙之力配方中的波江水晶和宇宙锭使其能够轻松合成
+	}
+
+	EarlySouls: {
+		Label: "[i:FargowiltasSouls/TerrariaSoul] 魂时期前移"
+		Tooltip: 移除魂配方中的星流晶体和湮灭余烬
+	}
+
+	EarlierSouls: {
+		Label: "[i:FargowiltasSouls/MasochistSoul] 魂时期更近一步前移"
+		Tooltip:
+			'''
+			移除魂配方中的憎恶能量和所需制作站
+			如果启用“魂时期前移”选项，则只影响以下魂
+			-[i:FargowiltasSouls/UniverseSoul] 宇宙之魂
+			-[i:FargowiltasSouls/DimensionSoul] 维度之魂
+			-[i:FargowiltasSouls/TerrariaSoul] 泰拉之魂
+			-[i:FargowiltasSouls/MasochistSoul] 大师之魂
+			-[i:FargowiltasCrossmod/BrandoftheBrimstoneWitch] 硫火女巫的烙印
+			不影响永恒之魂
+			'''
+	}
+
+	WhereMutantGift: {
+		Tooltip: ""
+		Label: "[i:FargowiltasSouls/Masochist] 配方增加突变体的礼物"
+	}
+
+	WhereMutantFury: {
+		Tooltip: ""
+		Label: "[i:FargowiltasSouls/MutantsFury] 配方增加突变之狂怒"
+	}
+
+	RemoveTreasureBagRecipes: {
+		Label: "[i:3319] 宝藏袋配方"
+		Tooltip:
+			'''
+			移除Boss掉落物能够使用宝藏袋制作的配方
+			同样移除[i:CalamityMod/RelicOfDeliverance]渡魂圣物、 [i:CalamityMod/RelicOfResilience]塑魂圣物 和 [i:CalamityMod/RelicOfConvergence]聚魂圣物 可用亵渎守卫圣物制作的配方
+			'''
+	}
+
+	RemoveTrophyRecipes: {
+		Label: "[i:1360] 纪念章配方"
+		Tooltip: 移除稀有Boss和事件掉落物能够使用纪念章制作的配方
+	}
+
+	RemoveCrateRecipes: {
+		Label: "[i:2336] 宝匣配方"
+		Tooltip: 移除使用宝匣制作物品的配方
+	}
+
+	RemoveStatueRecipes: {
+		Label: "[i:52] 雕像配方"
+		Tooltip:
+			'''
+			移除Fargo突变中雕像的配方
+			保留国王雕像、女王雕像、心形雕像、星星雕像和炸弹雕像
+			（突变体雕像的配方只受到NPC配方配置的影响）
+			'''
+	}
+
+	RemoveNPCRecipes: {
+		Label: "[i:763] 捕获NPC配方"
+		Tooltip:
+			'''
+			移除使用捕获的城镇NPC制作物品的配方
+			包括旅商、骷髅商人和城镇宠物
+			'''
+	}
+
+	RemoveCritterRecipes: {
+		Label: 小动物配方
+		Tooltip: 移除宝石小动物和金小动物的配方
+	}
+}
+
+General: 常规设置
+Recipes: 物品设置
+Buffs: 移除减益
+
+Utilities: {
+	DisplayName: 实用配置
+
+	EternityBossItems: {
+		Label: "[i:FargowiltasSouls/HeartoftheMasochist] 永恒模式Boss掉落"
+		Tooltip:
+			'''
+			在经典难度下Boss仍会掉落永恒模式饰品
+			为避免复制，如果开启永恒模式则改选项无效
+			'''
+	}
+
+	CraftSinisterIcon: {
+		Label: "[i:FargowiltasSouls/SinisterIcon] 邪恶头骨"
+		Tooltip: 为邪恶头骨增加配方
+	}
+
+	CraftParadoxWolfSoul: {
+		Label: "[i:FargowiltasSouls/ParadoxWolfSoul] Paradox Wolf Soul"
+		Tooltip: 为悖论狼魂增加配方
+	}
+
+	guilty: {
+		Label: "[i:FargowiltasSouls/SqueakyToy] 内疚"
+		Tooltip: ""
+	}
+
+	abominablePresence: {
+		Label: "[i:Fargowiltas/AbominationnMask] 憎恶驾到"
+		Tooltip: ""
+	}
+
+	mutantPresence: {
+		Label: "[i:Fargowiltas/MutantMask] 突变驾到"
+		Tooltip: ""
+	}
+
+	calamitousPresence: {
+		Label: "[i:CalamityMod/CalamitasCloneMask] 灾厄驾到"
+		Tooltip: ""
+	}
+
+	EnemyDropsRecipes: {
+		Label: "[i:FargowiltasSouls/BionomicCluster] 稀有敌怪掉落"
+		Tooltip: 为水晶头骨以及所有作为生态球的材料的饰品增加配方
+	}
+}

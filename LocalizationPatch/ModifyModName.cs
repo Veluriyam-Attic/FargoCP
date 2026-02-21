@@ -38,6 +38,8 @@ namespace FargoCP.LocalizationPatch
             ["RadianceSouls"] = null,
             ["CalamityBalancedItemsF"] = null,
             ["fargosoulstweaks"] = null,
+            ["FargoThorium"] = null,
+            ["fargosconfigslop"] = null,
 
             //官方非魔石相关模组
             ["FargoEnemyModifiers"] = null,
