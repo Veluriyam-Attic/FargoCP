@@ -374,7 +374,39 @@ Utilities: {
 		Tooltip:
 			'''
 			在经典难度下Boss仍会掉落永恒模式饰品
-			为避免复制，如果开启永恒模式则改选项无效
+			迷你Boss、双足翼龙和恐惧鹦鹉螺有10%概率掉落
+			南瓜王、冰雪女王和火星飞碟有5%概率掉落
+			'''
+	}
+
+	ConsumableBossSummons: {
+		Label: "[i:CalamityMod/NecroplasmicBeacon] Boss召唤物可消耗"
+		Tooltip:
+			'''
+			使Boss召唤物变为可消耗且堆叠上限为9999
+			以下召唤物不受影响
+			-[i:CalamityMod/EidolonTablet] 幻海灵石
+			-[i:CalamityMod/ProfanedCore] 亵渎晶核
+			-[i:CalamityMod/MarkofProvidence] 普罗维登斯神印
+			-[i:FargowiltasSouls/SigilOfChampions] 唤灵魔符
+			-[i:CalamityMod/CeremonialUrn] 祭魂瓮
+			且只影响Fargo主要Boss召唤，不影响激怒召唤物、复制召唤物或机械融合体
+			'''
+	}
+
+	ConsumableCopySwarmSummons: {
+		Label: "[i:Fargowiltas/OverloadEye] 额外召唤物可消耗"
+		Tooltip: 使激怒召唤物、复制召唤物（除了唤灵魔符）和机械融合体变为可消耗
+	}
+
+	NoInfiniteSummons: {
+		Label: "[i:Fargowiltas/SuspiciousEye] 取消无限召唤物"
+		Tooltip:
+			'''
+			移除原版Fargo在击败Boss前，若生成Boss则会给予玩家额外的Boss召唤物的机制
+			启用该选项后，无论额外的Boss召唤物是否给予玩家，都会尝试移除存活且尚未被击败Boss所给予的额外的Boss召唤物
+			只要有任意Boss存活，且对应的召唤物所召唤的Boss尚未被击败时，就会运行此机制
+			通常来说这不会对游戏造成太大影响，但如果Boss召唤物通过其他方式掉落，仍会被删除
 			'''
 	}
 
@@ -383,8 +415,13 @@ Utilities: {
 		Tooltip: 为邪恶头骨增加配方
 	}
 
+	EnemyDropsRecipes: {
+		Label: "[i:FargowiltasSouls/BionomicCluster] 稀有敌怪掉落"
+		Tooltip: 为水晶头骨以及所有作为生态球的材料的饰品增加配方
+	}
+
 	CraftParadoxWolfSoul: {
-		Label: "[i:FargowiltasSouls/ParadoxWolfSoul] Paradox Wolf Soul"
+		Label: "[i:FargowiltasSouls/ParadoxWolfSoul] 悖论狼魂"
 		Tooltip: 为悖论狼魂增加配方
 	}
 
@@ -406,10 +443,5 @@ Utilities: {
 	calamitousPresence: {
 		Label: "[i:CalamityMod/CalamitasCloneMask] 灾厄驾到"
 		Tooltip: ""
-	}
-
-	EnemyDropsRecipes: {
-		Label: "[i:FargowiltasSouls/BionomicCluster] 稀有敌怪掉落"
-		Tooltip: 为水晶头骨以及所有作为生态球的材料的饰品增加配方
 	}
 }
