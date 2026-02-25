@@ -1,4 +1,4 @@
-CrossBalanceGeneric: "联动平衡调整:"
+CrossBalanceGeneric: 联动平衡调整:
 DamageUpGeneric: 伤害增加{0}%
 DamageDownGeneric: 伤害减少{0}%
 PickPowerDownGeneric: 镐力降低{0}%

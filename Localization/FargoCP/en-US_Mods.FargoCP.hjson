@@ -39,3 +39,11 @@ ModName: {
 	#官方音乐扩展
 	FargoAltMusicMod: Javyz' Fargo Music DLC
 }
+
+OnEnterWorldText:
+	'''
+	Thanks for using {0}
+	But this is a Chinese Localization Mod
+	It does not provided any possible help if you can not speak Chinese
+	Please disable this mod in Manage Mods
+	'''

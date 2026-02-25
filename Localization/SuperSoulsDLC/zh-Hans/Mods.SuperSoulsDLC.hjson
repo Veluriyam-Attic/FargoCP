@@ -695,7 +695,7 @@ Items: {
 
 	TimeEnchant: {
 		DisplayName: 时间魔石
-		Tooltip: 
+		Tooltip:
 			'''
 			你的武器伤害会随着时间推移稳定提升
 			伤害提升从10%开始，每天早上重置

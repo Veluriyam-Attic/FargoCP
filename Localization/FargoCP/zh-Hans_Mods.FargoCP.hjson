@@ -39,3 +39,9 @@ ModName: {
 	#官方音乐扩展
 	FargoAltMusicMod: Javyz的Fargo音乐DLC
 }
+
+OnEnterWorldText:
+	'''
+	感谢您使用{0},当前我们人手严重不足
+	如果您有兴趣参与汉化,请添加QQ:3412615165
+	'''
