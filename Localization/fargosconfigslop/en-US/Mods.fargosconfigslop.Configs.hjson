@@ -374,9 +374,40 @@ Utilities: {
 			'''
 	}
 
+	ConsumableBossSummons: {
+		Label: "[i:CalamityMod/NecroplasmicBeacon] Consumable Boss Summons"
+		Tooltip:
+			'''
+			Makes boss summon items consumable and stack to 9999
+			Does not apply to Eidolon Tablet, Starcore, Profaned Core, Mark of Providence, Sigil of Champions and Ceremonial Urn
+			Also only affects Fargo's main boss summons. Doesn't affect energized summons, duplicates or the Mechanical Amalgam
+			'''
+	}
+
+	ConsumableCopySwarmSummons: {
+		Label: "[i:Fargowiltas/OverloadEye] Consumable Extra Summons"
+		Tooltip: Makes energized summons, duplicates (except the Championy Sigil) and the Mechanical Amalgam consumable
+	}
+
+	NoInfiniteSummons: {
+		Label: "[i:Fargowiltas/SuspiciousEye] No Infinite Summons"
+		Tooltip:
+			'''
+			Removes the extra summons given when spawning a boss before having defeating it
+			This removes the items from the world when a boss is alive and hasn't been defeated yet, regardless of if the item was just given
+			Runs when ANY boss is alive, and the summon item's respective boss hasn't been defeated
+			This shouldn't affect gameplay too much, but if the item is dropped any other way, it will still be deleted
+			'''
+	}
+
 	CraftSinisterIcon: {
 		Label: "[i:FargowiltasSouls/SinisterIcon] Sinister Icon"
 		Tooltip: ""
+	}
+
+	EnemyDropsRecipes: {
+		Label: "[i:FargowiltasSouls/BionomicCluster] Rare Enemy Drops"
+		Tooltip: Recipes for Crystal Skull and all materials for Bionomic Cluster
 	}
 
 	CraftParadoxWolfSoul: {
@@ -402,10 +433,5 @@ Utilities: {
 	calamitousPresence: {
 		Label: "[i:CalamityMod/CalamitasCloneMask] Calamitous Presence"
 		Tooltip: ""
-	}
-
-	EnemyDropsRecipes: {
-		Label: "[i:FargowiltasSouls/BionomicCluster] Rare Enemy Drops"
-		Tooltip: Recipes for Crystal Skull and all materials for Bionomic Cluster
 	}
 }
