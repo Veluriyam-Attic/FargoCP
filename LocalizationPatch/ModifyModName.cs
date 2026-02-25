@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using Terraria.Localization;
@@ -82,8 +83,9 @@ namespace FargoCP.LocalizationPatch
                 if (Mods[name] is null)
                     continue;
                 else
-                { 
-                    Mods[name].DisplayName = Terraria.Localization.Language.GetTextValue($"Mods.FargoCP.ModName.{name}");
+                {
+                    var _name = Mods[name].GetType().GetProperty("DisplayName");
+                    _name.SetValue(Mods[name], Terraria.Localization.Language.GetText($"Mods.FargoCP.ModName.{name}").Value);
                 }
             }
         }
