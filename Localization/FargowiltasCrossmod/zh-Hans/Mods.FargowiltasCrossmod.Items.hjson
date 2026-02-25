@@ -2,12 +2,12 @@ AddedEffects: {
 	AngelTreads: 获得天使之靴的效果
 	AeolusBoots: 获得风神之靴的效果
 	CalamitySupersonic: 获得斯塔提斯的虚空饰带的效果
-	ThoriumSuperSonic: 获得履空靴，求生家之飞鞋和举足轻重靴的效果
-	CalamityColossus: 获得聚合之脑，阿斯加德之庇护和神之壁垒的效果
+	ThoriumSuperSonic: 获得履空靴,求生家之飞鞋和举足轻重靴的效果
+	CalamityColossus: 获得聚合之脑,阿斯加德之庇护和神之壁垒的效果
 	ThoriumColossus:
 		'''
-		获得甜蜜的复仇，黑曜石鳞片和界元之庇佑
-		魂匣，岩石之心和刺甲贝的效果
+		获得甜蜜的复仇,黑曜石鳞片和界元之庇佑
+		魂匣,岩石之心和刺甲贝的效果
 		'''
 	CalamityBerserker: 获得勇气勋章和元素之握的效果
 	ThoriumBerserker: 获得长剑徽章的效果
@@ -96,7 +96,7 @@ DefiledShard: {
 
 DragonEgg: {
 	DisplayName: 犽戎蛋
-	Tooltip: 召唤重生之龙，犽戎
+	Tooltip: 召唤重生之龙,犽戎
 }
 
 PortableCodebreaker: {
@@ -106,7 +106,7 @@ PortableCodebreaker: {
 
 EyeofExtinction: {
 	DisplayName: 灭世之眼
-	Tooltip: 召唤至尊女巫，灾厄
+	Tooltip: 召唤至尊女巫,灾厄
 }
 
 FriedDoll: {
@@ -289,7 +289,7 @@ MarniteEnchant: {
 	DisplayName: 合成岩魔石
 	Tooltip:
 		'''
-		增加10%放置速度，放置距离+5
+		增加10%放置速度,放置距离+5
 		未使用武器或使用工具时会产生激光攻击附近敌人
 		获得[i:CalamityMod/MarniteRepulsionShield]合成岩斥力盾的效果
 		'''
@@ -314,7 +314,7 @@ WulfrumEnchant: {
 		召唤一架跟随光标的钨钢无人机
 		无人机会扫描碰撞到的敌怪
 		扫描敌怪可得知敌怪对减益类型的易伤与抗性
-		绿色表示对该减益有易伤，红色表示对减益有抗性
+		绿色表示对该减益有易伤,红色表示对减益有抗性
 		被扫描的敌怪受到任意减益时随时间受到额外的固定伤害
 		'''
 }
@@ -339,7 +339,7 @@ SnowRuffianEnchant: {
 	DisplayName: 雪境暴徒魔石
 	Tooltip:
 		'''
-		如果没有翅膀，则获得滑翔能力
+		如果没有翅膀,则获得滑翔能力
 		在翅膀滑翔时获得加速度
 		滑翔时按住[上]键可获得向上的动量
 		滑翔时按住[下]可增加水平加速度
@@ -351,8 +351,8 @@ DaedalusEnchant: {
 	Tooltip:
 		'''
 		增加25%飞行时间
-		在空中飞行一秒后，攻击会伴随着从天而降的强大箭矢
-		落地或受到攻击时移除加成，且受到攻击时额外减少一半飞行时间
+		在空中飞行一秒后,攻击会伴随着从天而降的强大箭矢
+		落地或受到攻击时移除加成,且受到攻击时额外减少一半飞行时间
 		'''
 }
 
@@ -366,8 +366,8 @@ PlaguebringerEnchant: {
 	Tooltip:
 		'''
 		所有攻击造成瘟疫减益
-		生成一个疫染毒云跟随着你，在靠近感染瘟疫减益的敌人时成长
-		成长到最大尺寸时，疫染毒云会迅速膨胀并停止跟随你
+		生成一个疫染毒云跟随着你,在靠近感染瘟疫减益的敌人时成长
+		成长到最大尺寸时,疫染毒云会迅速膨胀并停止跟随你
 		而是在原地停留一些时间
 		'''
 }
@@ -382,10 +382,10 @@ HydrothermicEnchant: {
 	Tooltip:
 		'''
 		攻击会积聚热量
-		热量积聚满时，停止攻击来散失热量
-		同时最高增加30%伤害减免，并朝着光标方向发射混沌烈焰
+		热量积聚满时,停止攻击来散失热量
+		同时最高增加30%伤害减免,并朝着光标方向发射混沌烈焰
 		最多持续三秒
-		无论当前集聚多少热量如何，受到攻击也会散失热量
+		无论当前集聚多少热量如何,受到攻击也会散失热量
 		'''
 }
 
@@ -394,13 +394,13 @@ ElementsForce: {
 	Tooltip:
 		'''
 		[c/E03131:炎流模式:]
-		[i:FargowiltasCrossmod/HydrothermicEnchant] 攻击会积聚热量，热量积聚满时停止攻击或受到伤害会散失热量
-		[i:FargowiltasCrossmod/HydrothermicEnchant] 散失热量会给予掠夺者之怒，并召唤强大的混沌烈焰，最多持续3秒
+		[i:FargowiltasCrossmod/HydrothermicEnchant] 攻击会积聚热量,热量积聚满时停止攻击或受到伤害会散失热量
+		[i:FargowiltasCrossmod/HydrothermicEnchant] 散失热量会给予掠夺者之怒,并召唤强大的混沌烈焰,最多持续3秒
 		[i:FargowiltasCrossmod/ReaverEnchant] 提高30点防御, 根据存储的热量最高可增加30%伤害减免
 		[c/45A8EF:凛冰模式:]
 		[i:FargowiltasCrossmod/ReaverEnchant] 增加飞行时间、飞行速度、生命再生速度、钩爪速度并减少冲刺冷却
 		[i:FargowiltasCrossmod/AerospecEnchant] 持续停留在空中会增加至多50%的伤害
-		[i:FargowiltasCrossmod/DaedalusEnchant] 在空中飞行一秒后，攻击会伴随着从天而降的强大箭矢
+		[i:FargowiltasCrossmod/DaedalusEnchant] 在空中飞行一秒后,攻击会伴随着从天而降的强大箭矢
 		'''
 }
 
@@ -413,8 +413,8 @@ TitanHeartEnchant: {
 	DisplayName: 泰坦之心魔石
 	Tooltip:
 		'''
-		肾上腺素充能速度增加20%，落地时速度增加70%
-		在肾上腺素充能时根据肾上腺素的充能进度增加伤害减免，最多增加15%伤害减免
+		肾上腺素充能速度增加20%,落地时速度增加70%
+		在肾上腺素充能时根据肾上腺素的充能进度增加伤害减免,最多增加15%伤害减免
 		最大移动速度和加速度增加5%
 		'''
 }
@@ -424,7 +424,7 @@ StatigelEnchant: {
 	Tooltip:
 		'''
 		增加最大移动速度但大幅降低加速度
-		根据移动速度提升伤害，最多增加35%伤害
+		根据移动速度提升伤害,最多增加35%伤害
 		'''
 }
 
@@ -432,7 +432,7 @@ SulphurEnchant: {
 	DisplayName: 硫磺魔石
 	Tooltip:
 		'''
-		可以进行硫磺套装的额外跳跃，同时会生成一个硫磺泡泡
+		可以进行硫磺套装的额外跳跃,同时会生成一个硫磺泡泡
 		当你击破泡泡时会生成伤害性气体
 		'''
 }
@@ -441,9 +441,9 @@ VictideEnchant: {
 	DisplayName: 胜潮魔石
 	Tooltip:
 		'''
-		海胆尖刺会从玩家身体中伸出，伤害接触到的敌怪
+		海胆尖刺会从玩家身体中伸出,伤害接触到的敌怪
 		尖刺附着在你身上时增加四点防御力
-		攻击会为尖刺充能，充能完毕后停止攻击时尖刺会向外发射
+		攻击会为尖刺充能,充能完毕后停止攻击时尖刺会向外发射
 		'''
 }
 
@@ -507,17 +507,17 @@ EmpyreanEnchant: {
 
 Archmage: {
 	DisplayName: 大法师
-	Tooltip: “我看你骨骼惊奇，很有魔法天赋. 告诉我，你对冰魔法怎么看？”
+	Tooltip: “我看你骨骼惊奇,很有魔法天赋. 告诉我,你对冰魔法怎么看？”
 }
 
 SeaKing: {
 	DisplayName: 海王
-	Tooltip: “家园陷落，国民散轶……但我会帮助你去纪念他们”
+	Tooltip: “家园陷落,国民散轶……但我会帮助你去纪念他们”
 }
 
 Bandit: {
 	DisplayName: 强盗
-	Tooltip: “只要使劲扔，万物皆武器”
+	Tooltip: “只要使劲扔,万物皆武器”
 }
 
 BrimstoneWitch: {
