@@ -8,39 +8,25 @@ using Terraria.ID;
 using Terraria.Localization;
 using Terraria.Map;
 using Terraria.ModLoader;
+using Terraria.UI;
 using TigerForceLocalizationLib;
 using TigerForceLocalizationLib.Filters;
+using VeluriyamLibHjson.Destroyer;
 
 namespace FargoCP
 {
-    public class GodMode : ModSystem
+    public class TigerLibStuffs : ModSystem
     {
+        private readonly string[] _names = new string[] { "GodMode", "BannerBoost", "PaperMarioBadgeMod", "FargowiltasCrossmod", "FargosSoulsModDLCRecreated", "CJsAssortedEnchantments" };
+
         public override void PostSetupContent()
         {
-            if (
-                    ModLoader.HasMod("GodMode")
-               )
-                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "GodMode", false);
-        }
-    }
-    public class BannerBoost : ModSystem
-    {
-        public override void PostSetupContent()
-        {
-            if (
-                    ModLoader.HasMod("BannerBoost")
-               )
-                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "BannerBoost", false);
-        }
-    }
-    public class PaperMarioBadgeMod : ModSystem
-    {
-        public override void PostSetupContent()
-        {
-            if (
-                    ModLoader.HasMod("PaperMarioBadgeMod")
-               )
-                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "PaperMarioBadgeMod", false);
+            foreach (var item in _names)
+            {
+                if(!ModLoader.HasMod(item)) continue;
+                TigerForceLocalizationHelper.LocalizeAll("FargoCP", item, false);
+            }
+            
         }
     }
     // DLC传颂之物和血月天塔柱的修改
@@ -70,26 +56,8 @@ namespace FargoCP
                 });
         }
     }
-    
-    public class FargosSoulsModDLCRecreated : ModSystem
-    {
-        public override void PostSetupContent()
-        {
-            if (
-                    ModLoader.HasMod("FargosSoulsModDLCRecreated")
-               )
-                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "FargosSoulsModDLCRecreated", false);
-        }
-    }
 
-    public class CJsAssortedEnchantments : ModSystem
+    public class FargoCP : Mod
     {
-        public override void PostSetupContent()
-        {
-            if (
-                    ModLoader.HasMod("CJsAssortedEnchantments")
-               )
-                TigerForceLocalizationHelper.LocalizeAll("FargoCP", "CJsAssortedEnchantments", false);
-        }
     }
 }
