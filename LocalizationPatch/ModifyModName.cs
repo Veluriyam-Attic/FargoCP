@@ -1,13 +1,4 @@
-﻿using FargoCP.Systems;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
-using Terraria.Localization;
-using Terraria.ModLoader;
-using VeluriyamLibHjson.Destroyer;
+﻿using Terraria.ModLoader;
 using VeluriyamLibHjson.Core;
 
 namespace FargoCP.LocalizationPatch
@@ -71,18 +62,9 @@ namespace FargoCP.LocalizationPatch
             {
                 VeluriyamLibHjson.Destroyer.ModifyModName.ModifyConfigName(name, VeluriyamLanguage.SafeGetTextValue($"Mods.FargoCP.ModName.{name}"));
 
-
-                VeluriyamLibHjson.Destroyer.ModifyModName.ModifyManageModName(name, VeluriyamLanguage.SafeGetTextValue($"Mods.FargoCP.ModName.{name}"));
-
                 #warning 请记得把该处的反射替换为可以获取对应语言文本的办法
-                if (!ModLoader.HasMod(name))
-                    continue;
-                Mod m = ModLoader.GetMod(name);
-                FieldInfo n = m.GetType().GetField("DisplayName");
-                //VeluriyamLibHjson.Destroyer.ModifyModName.ModifyManageModName(n?.GetValue(m).ToString(), VeluriyamLanguage.SafeGetTextValue($"Mods.FargoCP.ModName.{name}"));
-
-                VeluriyamLibHjson.Destroyer.ModifyModName.ModifyManageModName("Fargo's Mutant Mod", VeluriyamLanguage.SafeGetTextValue($"Mods.FargoCP.ModName.{name}"));
             }
+            VeluriyamLibHjson.Destroyer.ModifyModName.ModifyManageModName("Fargo's Mutant Mod", VeluriyamLanguage.SafeGetTextValue($"Mods.FargoCP.ModName.Fargowiltas"));
         }
     }
 }

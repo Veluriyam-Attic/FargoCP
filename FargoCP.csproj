@@ -12,10 +12,6 @@
 	  <Reference Include="TigerForceLocalizationLib">
 	    <HintPath>lib\TigerForceLocalizationLib.dll</HintPath>
 	  </Reference>
-	</ItemGroup>
-	<ItemGroup>
-	</ItemGroup>
-	<ItemGroup>
 	  <ProjectReference Include="..\VeluriyamLibHjson\VeluriyamLibHjson.csproj" />
 	</ItemGroup>
 
