@@ -7,17 +7,17 @@ GiftFuryItem: {
 	}
 
 	EternitySoul: {
-		Label: "[i:FargowiltasSouls/EternitySoul] 永恒之魂"
+		Label: 永恒之魂
 		Tooltip: ""
 	}
 
 	Penetrator: {
-		Label: "[i:FargowiltasSouls/Penetrator] 洞察者"
+		Label: 洞察者
 		Tooltip: ""
 	}
 
 	EternalFlame: {
-		Label: "[i:FargowiltasSouls/MutantMask] 永恒怒焰"
+		Label: 永恒怒焰
 		Tooltip: ""
 	}
 }
@@ -126,7 +126,7 @@ ItemConfigs: {
 			'''
 			建造一条横跨整个世界的平台
 			禁用该选项，该物品将无法使用
-			但会保留用于制作平台转换器
+			若启用“增益站”配置选项，保留其制作配方
 			'''
 	}
 
@@ -157,6 +157,15 @@ ItemConfigs: {
 		Tooltip:
 			'''
 			建造一条横跨整个世界的矿车轨道
+			禁用该选项，该物品将无法制作且无法使用
+			'''
+	}
+
+	BuffStations: {
+		Label: "[i:Fargowiltas/SemiBridgifier] 增益站"
+		Tooltip:
+			'''
+			各种原版增益站的效果
 			禁用该选项，该物品将无法制作且无法使用
 			'''
 	}
@@ -396,7 +405,7 @@ Utilities: {
 
 	ConsumableCopySwarmSummons: {
 		Label: "[i:Fargowiltas/OverloadEye] 额外召唤物可消耗"
-		Tooltip: 使激怒召唤物、复制召唤物（除了唤灵魔符）和机械融合体变为可消耗
+		Tooltip: 0使激怒召唤物、复制召唤物和机械融合体变为可消耗
 	}
 
 	NoInfiniteSummons: {
@@ -407,6 +416,16 @@ Utilities: {
 			启用该选项后，无论额外的Boss召唤物是否给予玩家，都会尝试移除存活且尚未被击败Boss所给予的额外的Boss召唤物
 			只要有任意Boss存活，且对应的召唤物所召唤的Boss尚未被击败时，就会运行此机制
 			通常来说这不会对游戏造成太大影响，但如果Boss召唤物通过其他方式掉落，仍会被删除
+			'''
+	}
+
+	BundleOfBalloonsPuff: {
+		Label: "[i:FargowiltasSouls/PuffInABottle] 烟雾瓶加入气球束配方"
+		Tooltip:
+			'''
+			将烟雾瓶加入气球束的配方中
+			在没有原本的气球束情况下仍会影响马掌气球束的配方
+			不会增加额外跳跃
 			'''
 	}
 
