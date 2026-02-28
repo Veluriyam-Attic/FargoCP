@@ -7,17 +7,17 @@ GiftFuryItem: {
 	}
 
 	EternitySoul: {
-		Label: "[i:FargowiltasSouls/EternitySoul] Soul of Eternity"
+		Label: Soul of Eternity
 		Tooltip: ""
 	}
 
 	Penetrator: {
-		Label: "[i:FargowiltasSouls/Penetrator] The Penetrator"
+		Label: The Penetrator
 		Tooltip: ""
 	}
 
 	EternalFlame: {
-		Label: "[i:FargowiltasSouls/MutantMask] Eternal Flame"
+		Label: Eternal Armor
 		Tooltip: ""
 	}
 }
@@ -125,8 +125,8 @@ ItemConfigs: {
 		Tooltip:
 			'''
 			Creates a bridge of platforms across the whole world
-			Disabling this setting makes this item unusable.
-			Remains craftable for Bridgifiers.
+			Disabling this setting makes this item unusable
+			Remains craftable if Buff Stations are enabled
 			'''
 	}
 
@@ -158,6 +158,15 @@ ItemConfigs: {
 			'''
 			Creates a minecart track across the whole world
 			Disabling this setting makes this item uncraftable and unusable
+			'''
+	}
+
+	BuffStations: {
+		Label: "[i:Fargowiltas/SemiBridgifier] Buff Stations"
+		Tooltip:
+			'''
+			Effects of various vanilla buff stations
+			Disabling this setting makes these items uncraftable and unusable
 			'''
 	}
 
@@ -386,7 +395,7 @@ Utilities: {
 
 	ConsumableCopySwarmSummons: {
 		Label: "[i:Fargowiltas/OverloadEye] Consumable Extra Summons"
-		Tooltip: Makes energized summons, duplicates (except the Championy Sigil) and the Mechanical Amalgam consumable
+		Tooltip: Makes energized summons, duplicates and the Mechanical Amalgam consumable
 	}
 
 	NoInfiniteSummons: {
@@ -397,6 +406,16 @@ Utilities: {
 			This removes the items from the world when a boss is alive and hasn't been defeated yet, regardless of if the item was just given
 			Runs when ANY boss is alive, and the summon item's respective boss hasn't been defeated
 			This shouldn't affect gameplay too much, but if the item is dropped any other way, it will still be deleted
+			'''
+	}
+
+	BundleOfBalloonsPuff: {
+		Label: "[i:FargowiltasSouls/PuffInABottle] Puff in a Bottle in Bundle of Balloons"
+		Tooltip:
+			'''
+			Adds Puff in a Bottle to Bundle of Balloons recipe
+			Also affects Bundle of Horseshoe Balloons recipes without the original bundle
+			Does not add the extra jump
 			'''
 	}
 
