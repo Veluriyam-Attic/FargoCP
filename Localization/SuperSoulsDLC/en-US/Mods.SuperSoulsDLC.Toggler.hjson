@@ -1,10 +1,11 @@
 ChaosHeader: "{$Mods.SuperSoulsDLC.Items.ChaosForce.DisplayName}"
 TessellationHeader: "{$Mods.SuperSoulsDLC.Items.TessellationForce.DisplayName}"
 BalanceHeader: "{$Mods.SuperSoulsDLC.Items.BalanceForce.DisplayName}"
-EndingHeader: "{$Mods.SuperSoulsDLC.Items.ConclusionForce.DisplayName}"
+ConclusionHeader: "{$Mods.SuperSoulsDLC.Items.ConclusionForce.DisplayName}"
 HighlandHeader: "{$Mods.SuperSoulsDLC.Items.HighlandForce.DisplayName}"
 BiotaHeader: "{$Mods.SuperSoulsDLC.Items.BiotaForce.DisplayName}"
 DarkHeader: "{$Mods.SuperSoulsDLC.Items.DarkForce.DisplayName}"
+DeepHeader: "{$Mods.SuperSoulsDLC.Items.DeepForce.DisplayName}"
 FabricationHeader: "{$Mods.SuperSoulsDLC.Items.FabricationForce.DisplayName}"
 LumberHeader: "{$Mods.SuperSoulsDLC.Items.LumberForce.DisplayName}"
 StoneHeader: "{$Mods.SuperSoulsDLC.Items.StoneForce.DisplayName}"
@@ -89,47 +90,23 @@ VisionAmuletEffect: Elemental Amulet
 WardingCharmEffect: Warding Charm
 SunbulbEffect: Sunbulb
 AuroraEffect: Aurora Slimes
-CommandersGaunletEffect: Gauntlet of the Commander
-ConstructionPDAEffect: Construction PDA
 BiologicalEffect: Gas Station
-FlareInABottleEffect: Flare in a Bottle
-TimeTurnerEffect: Time Turner
-KingBillEffect: King Bill
-MetalNozzleEffect: Metal Nozzle
 ChronoEffect: Time Borrowing
-JellyMushroomEffect: Jelly Mushroom
-SaviorsHeartEffect: Savior's Heart
-EquilibriumEffect: Release Fog
-GrandSpectralEffect: Grand Spectral
-SaintlyEyeballEffect: The Saint's Eyeball
-FiveStarGeneralEffect: Minion Slots
-LampreyScarfEffect: Lamprey Scarf
-CircuitChipEffect: Circuit Chip
+EquilibriumEffect: Regenerative Fog
+FiveStarGeneralEffect: Minion Slot Boost
 BumpAttackEffect: Bump Attack
-EnchantedAmberRingEffect: Enchanted Amber Ring
+CommandersGauntletEffect: Gauntlet of the Commander
 ArmillarySphereEffect: Armillary Sphere
 LittlePuppetEffect: Little Puppet
 ForestEffect: Thorn Growth
-EdgewalkerEffect: Edgewalker
-WalnutOnFireEffect: Walnut on Fire
-ArrowCaseEffect: Arrow Case
 FungusEffect: Sentry Mushrooms
-HoneyMushroomEffect: Honey Mushroom
-CounsellorsFanEffect: Counsellor's Fan
-IndividualCombatEffect: Enemy Target Boost
-CardiotachometerEffect: Cardiotachometer
-RobinHatEffect: Robin Hat
-BowTriggerEffect: Mechanical Trigger
-OnyxEffect: Onyx Protection
-DarkMagicMirrorEffect: Dark Magic Mirror
-ShadowShackleEffect: Shadow Shackle
-NegatamaEffect: Negatama
-ZeroPennyEffect: Zero Penny
+FlinxFurEffect: Flinx Fur Patches
+IndividualCombatEffect: Damage Range Boost
+OnyxEffect: Onyx Crystal
 ReflectorEffect: Reflection Shield
-PersonInDreamEffect: Person in Dream
 HeartOfOceanEffect: Eye of the Ocean
 NegashieldEffect: Negashield
-SunGodEffect: Solar Burnt Attacks
+SunGodEffect: Sun Explosion
 DeadRingerEffect: Dead Ringer
 SolarPanelEffect: Solar Panel
 WatchmanEffect: Team Acceleration
@@ -137,12 +114,12 @@ MapleMushroomEffect: Maple Mushroom
 HourHandEffect: Hour Hand
 DivineTouchEffect: Godly Touch
 ChampionBeltEffect: Champion Belt
-PhilosophersStoneEffect: Philosopher-King's Stone
+PhilosopherKingsStoneEffect: Philosopher-King's Stone
 StarflowerEffect: Starflower
 FungusDeluxeEffect: Fungus Deluxe
 TheBatterEffect: The Batter
 TheHolyTrinityEffect: The Holy Trinity
-CrossbowScopeEffect: Crossbow Scope
+AirborneGogglesEffect: Airborne Goggles
 TrashBagEffect: Trash Bag
 DivineNecklaceEffect: Divine Hairpin
 VanguardBreastpieceEffect: Vanguard Breastpiece
@@ -195,10 +172,7 @@ GreenGlowingMushroomEffect: Green Glowing Mushroom
 ExoticCactusEffect: Exotic Thorns
 ExoticPricklyPearEffect: Exotic Prickly Pear
 GuideToHealthRetributionEffect: Guide to Health Retribution
-ForestsEffect: Forest's Speed
-EngineerBeltEffect: Engineer Belt
-SpiralLeafEffect: Spiral Leaf
-SequenceRelicEffect: Sequence Relic
+ForestsEffect: Forest's Boost
 BatScentEffect: Bat Scent
 ReptileEffect: Summon Rage
 ViciousCellsEffect: Vicious Cells
@@ -212,7 +186,7 @@ IgnitionStoneEffect: Ignition Stone
 OtherworldlyEffect: All Old One's Set Bonus
 SuperMedkitEffect: Super Medkit
 RainbowCurseEffect: Rainbow Curse
-TimeEffect: Time Dash
+TimeEffect: Time Lock
 TectonicEffect: Rock Ground Pound
 MagneticChargeEffect: Magnetic Charge
 VileCellsEffect: Vile Cells
@@ -226,8 +200,7 @@ RealitySkullEffect: Reality Skull
 VoodooJetsEffect: Voodoo Jets
 PainterEffect: Additional Paint Drops
 RecycledEffect: Minion Commanding
-AlchemistsPouchEffect: Alchemist's Pouch
-SatelliteEffect: Satellite
+ChemicalNeutralizerEffect: Chemical Neutralizer
 ToyEffect: Projectile Cursor Following
 ForbiddenBandanaEffect: Forbidden Bandana
 AncientCrystalEffect: On Hit Crystal Shards
@@ -253,10 +226,12 @@ FireEffect: Yoyo Fire Waves
 EnchantedSheathEffect: Enchanted Sheath
 MagmaWatchEffect: Magma Watch
 IceCrystalEffect: 50% Mana Potion Save
-TundraNecklaceEffect: Tundra Necklace
+TundraPillowEffect: Tundra Pillow
 FrozenLilyBeeEffect: Frozen Lily Bee
 SandEffect: Desert Movement Speed
 BeastHandlerEffect: Beast Handler
 PygmyExtensionEffect: Pygmy Extension
 WaterEffect: Water Healing
 AquaWatchEffect: Aqua Watch
+GravimeterEffect: Gravimeter
+DustTyphoonEffect: Dust Typhoon

@@ -206,122 +206,75 @@ Items: {
 			'''
 			Sentries summon mushroom spores around them
 			Summoning radius scales with sentry damage
-			[i:ContinentOfJourney/LittlePuppet] Effects of Little Puppet
 			'''
 		DisplayName: Fungus Enchantment
 	}
 
 	AuroraEnchant: {
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/AuroraHeadwear] Aurora Slimes rotate around you, double tap DOWN to launch them
-			[i:ContinentOfJourney/CommandersGaunlet] Effects of Gaunlet of the Commander
-			[i:ContinentOfJourney/ConstructionPDA] Effects of Construction PDA
-			'''
+		Tooltip: Summons 2 aurora Slimes to rotate around you, dealing summon damage
 		DisplayName: Aurora Enchantment
 	}
 
 	BiologicEnchant: {
 		DisplayName: Biologic Enchantment
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/BiologicalHelmet] Double tap DOWN to put down a gas station
-			[i:ContinentOfJourney/FlareInABottle] Effects of Flare in a Bottle
-			[i:ContinentOfJourney/KingBill] Effects of King Bill
-			[i:ContinentOfJourney/MetalNozzle] Effects of Metal Nozzle
-			'''
+		Tooltip: Grants the ability to summon a gas station to buff yourself
 	}
 
 	ChronoEnchant: {
 		DisplayName: Chrono Enchantment
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/PerpetualHelmet] Double tap DOWN to borrow your team some time
-			[i:ContinentOfJourney/Negatama] Effects of Negatama
-			[i:ContinentOfJourney/SaviorsHeart] Effects of Savior's Heart
-			'''
+		Tooltip: Grants the ability to delay death by 10 seconds when taking a fatal blow
 	}
 
 	EquilibriumEnchant: {
 		DisplayName: Equilibrium Enchantment
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/EquilibriumMask] Releases fog over time
-			[i:ContinentOfJourney/GrandSpectral] Effects of Grand Spectral
-			[i:ContinentOfJourney/SaintlyEyeball] Effects of The Saint's Eyeball
-			'''
+		Tooltip: Releases regenerating fog over time
 	}
 
 	FiveStarGeneralEnchant: {
 		DisplayName: Five-Star General Enchantment
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/HeliologyHelmet] Increases minion slots by 77%, but reduces base damage of minions by 38%
-			[i:ContinentOfJourney/LampreyScarf] Effects of Lamprey Scarf
-			[i:ContinentOfJourney/CircuitChip] Effects of Circuit Chip
-			'''
+		Tooltip: Increases minion slots by 77%, but reduces base damage of minions by 38%
 	}
 
 	FlinxFurEnchant: {
 		DisplayName: Flinx Fur Enchantment
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/FlinxFurHat] Increases your max number of minions and sentries by 1
-			[i:ContinentOfJourney/FrameIron] Increases movement speed by 4% and acceleration by 6%
-			[i:ContinentOfJourney/CounsellorsFan] Effects of Counsellor's Fan
+			Minions leave behind patches of flinx fur on the ground
+			Flinx fur patches stick to enemies and reduce their horizontal movement speed by 25%
 			'''
 	}
 
 	ForestEnchant: {
 		DisplayName: Forest Enchantment
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/ForestHelmet] Grow thorns on hit enemies, release thorns when damaged
-			[i:ContinentOfJourney/Edgewalker] Effects of Edgewalker
-			[i:ContinentOfJourney/WalnutOnFire] Effects of Walnut on Fire
-			[i:ContinentOfJourney/ArrowCase] Effects of Arrow Case
-			'''
+		Tooltip: Thorns grow from hit enemies, dealing ranged damage
 	}
 
 	IndividualCombatEnchant: {
 		DisplayName: Individual Combat Enchantment
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/IndividualCombatHelmet] Reveals enemies and traps, hitting marked enemies gives a damage boost
-			[i:ContinentOfJourney/Cardiotachometer] Effects of Cardiotachometer
-			[i:ContinentOfJourney/RobinHat] Effects of Robin Hat
-			[i:ContinentOfJourney/BowTrigger] Effects of Mechanical Trigger
-			'''
+		Tooltip: The farther away from enemies you are the more damage you do
 	}
 
 	OnyxEnchant: {
 		DisplayName: Onyx Enchantment
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/DarkCrown] An onyx protects you
-			[i:ContinentOfJourney/DarkMagicMirror] Effects of Dark Magic Mirror
-			[i:ContinentOfJourney/ShadowShackle] Effects of Shadow Shackle
-			[i:ContinentOfJourney/ZeroPenny] Effects of Zero Penny
+			Strike enemies to summon an onyx above them
+			Killing the onyx will drop shards onto the targeted enemy
 			'''
 	}
 
 	ReflectorEnchant: {
 		DisplayName: Reflector Enchantment
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/ReflectorHelmet] Generates a shield that can reflect most hostile projectiles
-			[i:ContinentOfJourney/PersonInDream] Effects of Person in Dream
-			[i:ContinentOfJourney/Negashield] Effects of Negashield
-			'''
+		Tooltip: Generates a shield that can reflect most hostile projectiles
 	}
 
 	SunGodEnchant: {
 		DisplayName: Sun God Enchantment
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/SunlightHelmet] Ignites nearby enemies, attacks inflict Solar Burnt
-			[i:ContinentOfJourney/SolarPanel] Effects of Solar Panel
-			[i:ContinentOfJourney/TimeTurner] Effects of Time Turner
+			The explosion deals 500 melee damage plus 2x your held weapon's damage
+			Inflicts Solar Burnt for 2 minutes
+			5 minute cooldown
 			'''
 	}
 
@@ -329,9 +282,13 @@ Items: {
 		DisplayName: Watchman Enchantment
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/WatchmanHat] Accelerate your team upon hitting an enemy with a magic weapon
-			[i:ContinentOfJourney/DeadRinger] Effects of Dead Ringer
-			[i:ContinentOfJourney/HourHand] Effects of Hour Hand
+			Grants you and your team the acceleration buff upon hitting an enemy
+			Acceleration grants:
+			+15 life and mana regeneration
+			25% increased movement speed
+			50% increased movement acceleration
+			20% increased melee speed
+			10% increased attack speed
 			'''
 	}
 
@@ -339,10 +296,10 @@ Items: {
 		DisplayName: Force of Balance
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/BiologicEnchant] Effects of Biologic Enchantment
-			[i:SuperSoulsDLC/ChronoEnchant] Effects of Chrono Enchantment
-			[i:SuperSoulsDLC/EquilibriumEnchant] Effects of Equilibrium Enchantment
-			[i:SuperSoulsDLC/FiveStarGeneralEnchant] Effects of Five-Star General Enchantment
+			[i:SuperSoulsDLC/BiologicEnchant] Grants the ability to summon a gas station to buff yourself
+			[i:SuperSoulsDLC/ChronoEnchant] Grants the ability to delay death by 10 seconds when taking a fatal blow
+			[i:SuperSoulsDLC/EquilibriumEnchant] Releases regenerating fog over time
+			[i:SuperSoulsDLC/FiveStarGeneralEnchant] Increases minion slots by 77%, but reduces base damage of minions by 38%
 			'''
 	}
 
@@ -350,10 +307,10 @@ Items: {
 		DisplayName: Force of Conclusion
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/AuroraEnchant] Effects of Aurora Enchantment
-			[i:SuperSoulsDLC/ForestEnchant] Effects of Forest Enchantment
-			[i:SuperSoulsDLC/ReflectorEnchant] Effects of Reflector Enchantment
-			[i:SuperSoulsDLC/WatchmanEnchant] Effects of Watchman Enchantment
+			[i:SuperSoulsDLC/AuroraEnchant] Summons 4 aurora Slimes to rotate around you, dealing summon damage
+			[i:SuperSoulsDLC/ForestEnchant] Thorns grow from hit enemies and when you are hit, dealing ranged damage
+			[i:SuperSoulsDLC/ReflectorEnchant] Generates a damaging shield that can reflect most hostile projectiles
+			[i:SuperSoulsDLC/WatchmanEnchant] Grants you and your team the acceleration buff upon hitting an enemy
 			'''
 	}
 
@@ -361,21 +318,29 @@ Items: {
 		DisplayName: Force of Highland
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/FungusEnchant] Effects of Fungus Enchantment
-			[i:SuperSoulsDLC/FlinxFurEnchant] Effects of Flinx Fur Enchantment
-			[i:SuperSoulsDLC/IndividualCombatEnchant] Effects of Individual Combat Enchantment
-			[i:SuperSoulsDLC/OnyxEnchant] Effects of Onyx Enchantment
-			[i:SuperSoulsDLC/SunGodEnchant] Effects of Sun God Enchantment
+			[i:SuperSoulsDLC/FungusEnchant] Sentries summon mushroom spores around them
+			[i:SuperSoulsDLC/FlinxFurEnchant] Minions leave behind patches of flinx fur on the ground
+			[i:SuperSoulsDLC/IndividualCombatEnchant] The farther away from enemies you are the more damage you do
+			[i:SuperSoulsDLC/OnyxEnchant] Strike enemies to summon an onyx above them
+			[i:SuperSoulsDLC/OnyxEnchant] Killing the onyx will drop shards onto the targeted enemy
+			[i:SuperSoulsDLC/SunGodEnchant] Grants a massive sun explosion
+			[i:SuperSoulsDLC/SunGodEnchant] The explosion deals 500 damage plus 4x your held weapon's damage
+			'''
+	}
+
+	JourneySoul: {
+		DisplayName: Soul of the Journey
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/BalanceForce] Effects of Force of Balance
+			[i:SuperSoulsDLC/ConclusionForce] Effects of Force of Conclusion
+			[i:SuperSoulsDLC/HighlandForce] Effects of Force of Highland
 			'''
 	}
 
 	AncientCrystalEnchant: {
 		DisplayName: Ancient Crystal Enchantment
-		Tooltip:
-			'''
-			[i:MartainsOrder/AncientCHead] Projectile attacks occasionally spawn crystal shards
-			[i:MartainsOrder/ShimmerGlowingMushroom] Effects of Gloopy Shimmering Mushroom
-			'''
+		Tooltip: Attacks occasionally spawn crystal shards on hit
 	}
 
 	AncientGarnetEnchant: {
@@ -389,11 +354,12 @@ Items: {
 
 	AncientRockEnchant: {
 		DisplayName: Ancient Rock Enchantment
-		Tooltip:
-			'''
-			[i:MartainsOrder/AncientRH] Grants immunity to knockback
-			[i:MartainsOrder/Flint] Effects of Flint
-			'''
+		Tooltip: While holding a tool you are immune to knockback and have 25% increased melee knockback
+	}
+
+	AncientSandEnchant: {
+		DisplayName: Ancient Sand Enchantment
+		Tooltip: Attacks will periodically be accompanied by several cactus spines, dealing throwing damage
 	}
 
 	AncientTantalumEnchant: {
@@ -458,9 +424,8 @@ Items: {
 		DisplayName: Crystal Enchantment
 		Tooltip:
 			'''
-			[i:MartainsOrder/CrystalAH] Shoots crystal shards out when hit
-			[i:SuperSoulsDLC/AncientCrystalEnchant] Effects of Ancient Crystal Enchantment
-			[i:MartainsOrder/CrystalGloves] Effects of Crystal Gloves
+			Shoots out crystal shards when you are hit
+			Attacks occasionally spawn crystal shards on hit
 			'''
 	}
 
@@ -479,8 +444,9 @@ Items: {
 		DisplayName: Desert Wood Enchantment
 		Tooltip:
 			'''
-			[i:MartainsOrder/SwarmerWings] Effects of Swarmer Wings
-			[i:MartainsOrder/BlueGlowingMushroom] Effects of Blue Glowing Mushroom
+			When standing still a sandstorm will grow around you
+			Moving too fast will dissipate the sandstorm
+			The sandstorm's damage scales with its size
 			'''
 	}
 
@@ -508,9 +474,12 @@ Items: {
 		DisplayName: Exotic Cactus Enchantment
 		Tooltip:
 			'''
-			[i:MartainsOrder/CactusHead] Attackers take damage from enhanced cactus spines
-			[i:MartainsOrder/CactusCatExpertItem] Effects of Exotic Prickly Pear
-			[i:MartainsOrder/GuideToHealthRetribution] Effects of Guide to Health Retribution
+			Attackers take damage from enhanced cactus spines
+			Grants a ground pound
+			Ground pound gives +20 defense, and immunity to knockback and fall damage
+			Ground pound sends you up a little and bounces you upon landing
+			Grants immunity to cactus damage in Eternity Mode
+			Immunity to cactus damage works in vanity and inventory slots
 			'''
 	}
 
@@ -526,32 +495,21 @@ Items: {
 
 	FakeFishyumEnchant: {
 		DisplayName: Fake Fishyum Enchantment
-		Tooltip:
-			'''
-			[i:MartainsOrder/FishyumAH] Summons a fishyum guardian that bashes into enemies
-			[i:MartainsOrder/CubeFolksBless] Effects of Cube Folk's Bless
-			[i:MartainsOrder/StoneStone] Effects of Stone Stone
-			'''
+		Tooltip: Summons a fishyum guardian that bashes into enemies
 	}
 
 	FireEnchant: {
 		DisplayName: Fire Enchantment
 		Tooltip:
 			'''
-			[i:MartainsOrder/MagmaAH] Yoyos in movement will periodically emit fire waves
-			[i:MartainsOrder/EnchantedSheath] Effects of Enchanted Sheath
-			[i:MartainsOrder/MagmaWatch] Effects of Magma Watch
+			Yoyos in movement will periodically emit fire waves, dealing melee damage
+			Fire waves deal 50% of your yoyo's damage
 			'''
 	}
 
 	ForestsEnchant: {
 		DisplayName: Forest's Enchantment
-		Tooltip:
-			'''
-			[i:MartainsOrder/SpiritH2] Increases summoning and throwing speed after taking damage
-			[i:MartainsOrder/EngineerBelt] Effects of Engineer Belt
-			[i:MartainsOrder/SpiralLeaf] Effects of Spiral Leaf
-			'''
+		Tooltip: Increases summoning and throwing speed by 25% after taking damage
 	}
 
 	HollowwoodEnchant: {
@@ -569,7 +527,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:MartainsOrder/IceCrystalHat] 50% chance to not consume mana potions
-			[i:MartainsOrder/TundraNecklace] Effects of Tundra Necklace
+			[i:MartainsOrder/TundraPillow] Effects of Tundra Pillow
 			[i:MartainsOrder/FrozenLilyBee] Effects of Frozen Lily Bee
 			'''
 	}
@@ -595,12 +553,7 @@ Items: {
 
 	NadirEnchant: {
 		DisplayName: Nadir Enchantment
-		Tooltip:
-			'''
-			[i:MartainsOrder/NadirAH] Basic improvements to all stats
-			[i:MartainsOrder/Relic] Effects of Sequence Relic
-			[i:MartainsOrder/BatScent] Effects of Bat Scent
-			'''
+		Tooltip: Basic improvements to all stats
 	}
 
 	OrigamiEnchant: {
@@ -637,8 +590,8 @@ Items: {
 		Tooltip:
 			'''
 			[i:MartainsOrder/PlasticAH] Command minions to your cursor by double tapping down
-			[i:MartainsOrder/AlchemistsPouch] Effects of Alchemist's Pouch
-			[i:MartainsOrder/Satelite] Effects of Satellite 
+			[i:MartainsOrder/AlchemistsPouch] Effects of Chemical Neutralizer
+			[i:MartainsOrder/MagneticCharge] Effects of Magnetic Charge 
 			'''
 	}
 
@@ -646,19 +599,9 @@ Items: {
 		DisplayName: Reptile Enchantment
 		Tooltip:
 			'''
-			[i:MartainsOrder/ReptileAH] Striking enemies boosts summon rage
-			[i:MartainsOrder/RedCells] Effects of Vicious Cells
-			[i:MartainsOrder/ThornCrown] Effects of Thorn Crown
-			'''
-	}
-
-	SandEnchant: {
-		DisplayName: Sand Enchantment
-		Tooltip:
-			'''
-			[i:MartainsOrder/SandAH] 10% increased movement speed while in the desert
-			[i:MartainsOrder/BeastHandler] Effects of Beast Handler
-			[i:MartainsOrder/PygmyExtension] Effects of Pygmy Extension
+			Hitting an enemy with a whip increases your summon damage by 1%
+			This bonus can stack up to 25%
+			However it slowly deteriorates over time
 			'''
 	}
 
@@ -667,6 +610,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:MartainsOrder/TantalumHeadgear] Grants a tantalum double jump
+			[i:SuperSoulsDLC/AncientTantalumEnchant] Effects of Ancient Tantalum Enchantment
 			[i:MartainsOrder/CharmOfLuck] Effects of Charm of Luck
 			'''
 	}
@@ -675,9 +619,8 @@ Items: {
 		DisplayName: Tectonic Enchantment
 		Tooltip:
 			'''
-			[i:MartainsOrder/RockAH] Grants a rock ground pound
-			[i:MartainsOrder/MagneticCharge] Effects of Magnetic Charge
-			[i:MartainsOrder/DeadCells] Effects of Vile Cells
+			While holding a tool you are immune to knockback and have 25% increased melee knockback
+			Grants a ground pound that launches up rocks
 			'''
 	}
 
@@ -685,8 +628,10 @@ Items: {
 		DisplayName: Time Enchantment
 		Tooltip:
 			'''
-			Your damage steadily increases over the course of the day
-			Damage increase begins at +10% and resets every morning
+			Repeated hits on enemies locks them in place
+			Amount of hits required scales with max health
+			Enemies are locked in place for 3 seconds, and cannot damage you
+			Has a 10 second cooldown between activations
 			'''
 	}
 
@@ -703,9 +648,8 @@ Items: {
 		DisplayName: Void Enchantment
 		Tooltip:
 			'''
-			[i:MartainsOrder/VoidHMelee] Grants a void rock ground pound
-			[i:MartainsOrder/RoyalDinnerService] Effects of Royal Dinner Service
-			[i:SuperSoulsDLC/TectonicEnchant] Effects of Tectonic Enchantment
+			Allows the user to summon a Null Zone sentry
+			Null zones pull enemies in and kill them
 			'''
 	}
 
@@ -723,8 +667,8 @@ Items: {
 		Tooltip:
 			'''
 			[i:MartainsOrder/WitherAH] Become enraged after being struck or double tapping down
+			[i:SuperSoulsDLC/AncientGarnetEnchant] Effects of Ancient Garnet Enchantment
 			[i:MartainsOrder/DemonCharm] Effects of Demon Charm
-			[i:MartainsOrder/ScentKnuckles] Effects of Scent Knuckles
 			'''
 	}
 
@@ -733,7 +677,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:MartainsOrder/ZincHead] Summons a protective zinc shield
-			[i:MartainsOrder/SanguineScroll] Effects of Sanguine Scroll
+			[i:SuperSoulsDLC/AncientZincEnchant] Effects of Ancient Zinc Enchantment
 			[i:MartainsOrder/CalciumDose] Effects of Calcium Dose
 			'''
 	}
@@ -764,10 +708,12 @@ Items: {
 		DisplayName: Force of Biota
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/FakeFishyumEnchant] Effects of Fake Fishyum Enchantment
-			[i:SuperSoulsDLC/ExoticCactusEnchant] Effects of Exotic Cactus Enchantment
-			[i:SuperSoulsDLC/ReptileEnchant] Effects of Reptile Enchantment
-			[i:SuperSoulsDLC/ForestsEnchant] Effects of Forest's Enchantment
+			[i:SuperSoulsDLC/FakeFishyumEnchant] Summons 2 fishyum guardians that bash into enemies
+			[i:SuperSoulsDLC/ExoticCactusEnchant] Grants a ground pound
+			[i:SuperSoulsDLC/ExoticCactusEnchant] Grants immunity to cactus damage in Eternity Mode
+			[i:SuperSoulsDLC/ReptileEnchant] Hitting an enemy with a whip increases your summon damage by 1%
+			[i:SuperSoulsDLC/ReptileEnchant] This bonus can stack up to 25%, However it slowly deteriorates over time
+			[i:SuperSoulsDLC/ForestsEnchant] Increases summoning and throwing speed by 25% after taking damage
 			'''
 	}
 
@@ -783,6 +729,17 @@ Items: {
 			'''
 	}
 
+	DeepForce: {
+		DisplayName: Force of the Deep
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/CrystalEnchant] Effects of Crystal Enchantment
+			[i:SuperSoulsDLC/DepthsMineEnchant] Effects of Depths Mine Enchantment
+			[i:SuperSoulsDLC/ExplosiveBoxEnchant] Effects of Explosive Box Enchantment
+			[i:SuperSoulsDLC/TectonicEnchant] Effects of Tectonic Enchantment
+			'''
+	}
+
 	FabricationForce: {
 		DisplayName: Force of Fabrication
 		Tooltip:
@@ -790,9 +747,7 @@ Items: {
 			[i:SuperSoulsDLC/CamoEnchant] Effects of Camo Enchantment
 			[i:SuperSoulsDLC/RecycledEnchant] Effects of Recycled Enchantment
 			[i:SuperSoulsDLC/ToyEnchant] Effects of Toy Enchantment
-			[i:SuperSoulsDLC/ExplosiveBoxEnchant] Effects of Explosive Box Enchantment
 			[i:SuperSoulsDLC/PainterEnchant] Effects of Painter Enchantment
-			[i:SuperSoulsDLC/DepthsMineEnchant] Effects of Depths Mine Enchantment
 			'''
 	}
 
@@ -816,7 +771,6 @@ Items: {
 			[i:SuperSoulsDLC/MercuryEnchant] Effects of Mercury Enchantment
 			[i:SuperSoulsDLC/MagnesiumEnchant] Effects of Magnesium Enchantment
 			[i:SuperSoulsDLC/TantalumEnchant] Effects of Tantalum Enchantment
-			[i:SuperSoulsDLC/CrystalEnchant] Effects of Crystal Enchantment
 			[i:SuperSoulsDLC/CharcoalEnchant] Effects of Charcoal Enchantment
 			'''
 	}
@@ -828,7 +782,7 @@ Items: {
 			[i:SuperSoulsDLC/FireEnchant] Effects of Fire Enchantment
 			[i:SuperSoulsDLC/IceCrystalEnchant] Effects of Ice Crystal Enchantment
 			[i:SuperSoulsDLC/WaterEnchant] Effects of Water Enchantment
-			[i:SuperSoulsDLC/SandEnchant] Effects of Sand Enchantment
+			[i:SuperSoulsDLC/AncientSandEnchant] Effects of Ancient Sand Enchantment
 			[i:SuperSoulsDLC/TimeEnchant] Effects of Time Enchantment
 			[i:SuperSoulsDLC/ClayArtisanEnchant] Effects of Clay Artisan Enchantment
 			'''
@@ -851,6 +805,7 @@ Items: {
 			'''
 			[i:SuperSoulsDLC/BiotaForce] Effects of Force of Biota
 			[i:SuperSoulsDLC/DarkForce] Effects of Force of the Dark
+			[i:SuperSoulsDLC/DeepForce] Effects of Force of the Deep
 			[i:SuperSoulsDLC/FabricationForce] Effects of Force of Fabrication
 			[i:SuperSoulsDLC/LumberForce] Effects of Force of Lumber
 			[i:SuperSoulsDLC/StoneForce] Effects of Force of Stone
@@ -871,11 +826,42 @@ Items: {
 	}
 }
 
-Projectiles.DynastyGongProjectile.DisplayName: Dynasty Gong
+Projectiles: {
+	DynastyGongProjectile.DisplayName: Dynasty Gong
+	FurPatchProjectile.DisplayName: Fur Patch
+	SunGodExplosionProjectile.DisplayName: Sun God Explosion
+	OnyxShardProjectile.DisplayName: Onyx Shard
+	SandstormProjectile.DisplayName: Sandstorm Projectile
+	NullZoneProjectile.DisplayName: Null Zone Projectile
+	NewReflectorProjectile.DisplayName: New Reflector Projectile
+	CactusThornProjectile.DisplayName: Cactus Thorn Projectile
+}
 
 Buffs: {
 	BleedingBuff: {
 		DisplayName: Bleeding
 		Description: Losing life
 	}
+
+	TimeLockBuff: {
+		DisplayName: Time Lock
+		Description: Locked in time!
+	}
+
+	SlowedBuff: {
+		Description: Your movement is slowed
+		DisplayName: Slowed
+	}
+
+	SunGodBuff: {
+		DisplayName: Sun Exploded
+		Description: You cannot explode the sun
+	}
+
+	SpiritBuff: {
+		DisplayName: Spirit Boost
+		Description: 25% increased summon and throwing speed
+	}
 }
+
+NPCs.OnyxGem.DisplayName: Onyx Gem

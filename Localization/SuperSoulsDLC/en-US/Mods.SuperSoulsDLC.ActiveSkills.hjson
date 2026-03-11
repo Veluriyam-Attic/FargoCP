@@ -1,0 +1,34 @@
+SunGodEffect: {
+	DisplayName: Sun Explosion
+	Tooltip: Releases a massive sun explosion
+}
+
+VoidEffect: {
+	DisplayName: Null Zone
+	Tooltip: Spawns an enemy deleting null zone
+}
+
+TectonicEffect: {
+	DisplayName: Rock Ground Pound
+	Tooltip: Slams you down onto the ground and launches up rocks
+}
+
+AuroraEffect: {
+	DisplayName: Launch Aurora Slimes
+	Tooltip: Launches your aurora slimes towards your cursor
+}
+
+BiologicEffect: {
+	DisplayName: Summon Gas Station
+	Tooltip: Spawns a gas station that increases damage and makes enemies less likely to target you
+}
+
+ChronoEffect: {
+	DisplayName: Borrow Time
+	Tooltip: Death is delayed by 10 seconds if you take a fatal blow
+}
+
+ExoticCactusEffect: {
+	DisplayName: Cactus Ground Pound
+	Tooltip: Slams you down onto the ground
+}
