@@ -324,7 +324,6 @@ Items: {
 			[i:SuperSoulsDLC/OnyxEnchant] Strike enemies to summon an onyx above them
 			[i:SuperSoulsDLC/OnyxEnchant] Killing the onyx will drop shards onto the targeted enemy
 			[i:SuperSoulsDLC/SunGodEnchant] Grants a massive sun explosion
-			[i:SuperSoulsDLC/SunGodEnchant] The explosion deals 500 damage plus 4x your held weapon's damage
 			'''
 	}
 

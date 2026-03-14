@@ -194,7 +194,7 @@ Items: {
 	}
 
 	VoidbearerSoul: {
-		DisplayName: 载虚者之魂
+		DisplayName: 负虚者之魂
 		Tooltip:
 			'''
 			增加22%虚空伤害
@@ -211,122 +211,75 @@ Items: {
 			'''
 			哨兵会在周围召唤蘑菇孢子
 			召唤半径根据哨兵的伤害而变化
-			[i:ContinentOfJourney/LittlePuppet] 获得小小木偶的效果
 			'''
 		DisplayName: 真菌魔石
 	}
 
 	AuroraEnchant: {
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/AuroraHeadwear] 极光史莱姆围绕你旋转，双击{$Key.DOWN}键将其发射出去
-			[i:ContinentOfJourney/CommandersGaunlet] 获得指挥官的手套的效果
-			[i:ContinentOfJourney/ConstructionPDA] 获得建造PDA的效果
-			'''
+		Tooltip: 召唤2只极光史莱姆围绕着你，并造成召唤伤害
 		DisplayName: 极光魔石
 	}
 
 	BiologicEnchant: {
 		DisplayName: 生物学魔石
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/BiologicalHelmet] 双击{$Key.DOWN}键放置一座加油站
-			[i:ContinentOfJourney/FlareInABottle] 获得瓶中热焰的效果
-			[i:ContinentOfJourney/KingBill] 获得纸钞王的效果
-			[i:ContinentOfJourney/MetalNozzle] 获得金属喷头的效果
-			'''
+		Tooltip: 获得召唤一座加油站来强化你的能力
 	}
 
 	ChronoEnchant: {
 		DisplayName: 钟盘魔石
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/PerpetualHelmet] 双击{$Key.DOWN}键为你的队伍借一点时间
-			[i:ContinentOfJourney/Negatama] 获得负能量勾玉的效果
-			[i:ContinentOfJourney/SaviorsHeart] 获得救世主之心的效果
-			'''
+		Tooltip: 获得受到致命伤害将死亡推迟10秒的能力
 	}
 
 	EquilibriumEnchant: {
 		DisplayName: 衡态魔石
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/EquilibriumMask] 定期释放白雾
-			[i:ContinentOfJourney/GrandSpectral] 获得大光谱的效果
-			[i:ContinentOfJourney/SaintlyEyeball] 获得圣人的眼球的效果
-			'''
+		Tooltip: 定期释放白雾
 	}
 
 	FiveStarGeneralEnchant: {
 		DisplayName: 上将魔石
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/HeliologyHelmet] 仆从上限提高77%，但是仆从基础伤害减少38%
-			[i:ContinentOfJourney/LampreyScarf] 获得七鳃鳗围巾的效果
-			[i:ContinentOfJourney/CircuitChip] 获得电路芯片的效果
-			'''
+		Tooltip: 仆从上限提高77%，但是仆从基础伤害减少38%
 	}
 
 	FlinxFurEnchant: {
 		DisplayName: 雪怪魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/FlinxFurHat] 增加1格最大哨兵数和最大仆从栏
-			[i:ContinentOfJourney/FrameIron] 提高4%移动速度与6%加速度
-			[i:ContinentOfJourney/CounsellorsFan] 获得军师的羽扇的效果
+			仆从会在地上留下雪怪毛皮碎块
+			雪怪毛皮碎块将会黏附敌怪并降低他们25%水平移动速度
 			'''
 	}
 
 	ForestEnchant: {
 		DisplayName: 林海魔石
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/ForestHelmet] 击中敌人时生长荆棘，受到攻击时释放荆棘
-			[i:ContinentOfJourney/Edgewalker] 获得边行者的效果
-			[i:ContinentOfJourney/WalnutOnFire] 获得梨栗熟了的效果
-			[i:ContinentOfJourney/ArrowCase] 获得箭盒的效果
-			'''
+		Tooltip: 击中敌怪时生长荆棘，并造成远程伤害
 	}
 
 	IndividualCombatEnchant: {
 		DisplayName: 单兵魔石
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/IndividualCombatHelmet] 显示敌人与陷阱，击中被标记的敌人获得伤害加成
-			[i:ContinentOfJourney/Cardiotachometer] 获得心率仪的效果
-			[i:ContinentOfJourney/RobinHat] 获得罗宾汉之帽的效果
-			[i:ContinentOfJourney/BowTrigger] 获得机械扳机的效果
-			'''
+		Tooltip: 离敌怪越远，你造成的伤害越高
 	}
 
 	OnyxEnchant: {
 		DisplayName: 玛瑙魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/DarkCrown] 玛瑙石保护着你
-			[i:ContinentOfJourney/DarkMagicMirror] 获得黑魔镜的效果
-			[i:ContinentOfJourney/ShadowShackle] 获得影脚镣的效果
-			[i:ContinentOfJourney/ZeroPenny] 获得零元硬币的效果
+			攻击敌怪在其头顶召唤玛瑙
+			击碎玛瑙会让碎片掉落在目标敌怪
 			'''
 	}
 
 	ReflectorEnchant: {
 		DisplayName: 反射魔石
-		Tooltip:
-			'''
-			[i:ContinentOfJourney/ReflectorHelmet] 生成一个可以反弹大部分敌对弹幕的盾牌
-			[i:ContinentOfJourney/PersonInDream] 获得梦中人的效果
-			[i:ContinentOfJourney/Negashield] 获得负衰减盾的效果
-			'''
+		Tooltip: 生成一个可以反弹大部分敌对弹幕的盾牌
 	}
 
 	SunGodEnchant: {
 		DisplayName: 太阳神魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/SunlightHelmet] 点燃附近的敌人，且攻击附加太阳熔毁减益
-			[i:ContinentOfJourney/SolarPanel] 获得太阳能电板的效果
-			[i:ContinentOfJourney/TimeTurner] 获得时转仪的效果
+			爆炸会造成500点近战伤害加上2倍你手持武器的伤害
+			并施加2分钟的太阳熔毁减益
+			此效果有5分钟的冷却时间
 			'''
 	}
 
@@ -334,9 +287,13 @@ Items: {
 		DisplayName: 守钟魔石
 		Tooltip:
 			'''
-			[i:ContinentOfJourney/WatchmanHat] 用魔法武器击中敌人时，对你的队伍施加时间加速
-			[i:ContinentOfJourney/DeadRinger] 获得死亡之铃的效果
-			[i:ContinentOfJourney/HourHand] 获得时针的效果
+			击中敌怪给予你和你的团队时间加速增益
+			时间加速提供：
+			-增加15生命和魔力再生
+			-提升25%移动速度
+			-提升50%移动加速度
+			-提升20%近战攻击速度
+			-提升10%攻击速度
 			'''
 	}
 
@@ -344,10 +301,10 @@ Items: {
 		DisplayName: 均衡之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/BiologicEnchant] 获得生物学魔石的效果
-			[i:SuperSoulsDLC/ChronoEnchant] 获得钟盘魔石的效果
-			[i:SuperSoulsDLC/EquilibriumEnchant] 获得衡态魔石的效果
-			[i:SuperSoulsDLC/FiveStarGeneralEnchant] 获得上将魔石的效果
+			[i:SuperSoulsDLC/BiologicEnchant] 获得召唤一座加油站来强化你的能力
+			[i:SuperSoulsDLC/ChronoEnchant] 获得受到致命伤害将死亡推迟10秒的能力
+			[i:SuperSoulsDLC/EquilibriumEnchant] 定期释放白雾
+			[i:SuperSoulsDLC/FiveStarGeneralEnchant] 仆从上限提高77%，但是仆从基础伤害减少38%
 			'''
 	}
 
@@ -355,10 +312,10 @@ Items: {
 		DisplayName: 结局之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/AuroraEnchant] 获得极光魔石的效果
-			[i:SuperSoulsDLC/ForestEnchant] 获得森林魔石的效果
-			[i:SuperSoulsDLC/ReflectorEnchant] 获得反射魔石的效果
-			[i:SuperSoulsDLC/WatchmanEnchant] 获得守钟魔石的效果
+			[i:SuperSoulsDLC/AuroraEnchant] 召唤4只极光史莱姆围绕着你，并造成召唤伤害
+			[i:SuperSoulsDLC/ForestEnchant] 击中敌怪或受到伤害时生长荆棘，并造成远程伤害
+			[i:SuperSoulsDLC/ReflectorEnchant] 生成一个造成伤害且可以反弹大部分敌对弹幕的盾牌
+			[i:SuperSoulsDLC/WatchmanEnchant] 击中敌怪给予你和你的团队时间加速增益
 			'''
 	}
 
@@ -366,21 +323,28 @@ Items: {
 		DisplayName: 高地之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/FungusEnchant] 获得真菌魔石的效果
-			[i:SuperSoulsDLC/FlinxFurEnchant] 获得雪怪魔石的效果
-			[i:SuperSoulsDLC/IndividualCombatEnchant] 获得单兵魔石的效果
-			[i:SuperSoulsDLC/OnyxEnchant] 获得玛瑙魔石的效果
-			[i:SuperSoulsDLC/SunGodEnchant] 获得太阳神魔石的效果
+			[i:SuperSoulsDLC/FungusEnchant] 哨兵会在周围召唤蘑菇孢子
+			[i:SuperSoulsDLC/FlinxFurEnchant] 仆从会在地上留下雪怪毛皮碎块
+			[i:SuperSoulsDLC/IndividualCombatEnchant] 离敌怪越远，你造成的伤害越高
+			[i:SuperSoulsDLC/OnyxEnchant] 攻击敌怪在其头顶召唤玛瑙
+			[i:SuperSoulsDLC/OnyxEnchant] 击碎玛瑙会让碎片掉落在目标敌怪
+			[i:SuperSoulsDLC/SunGodEnchant] 造成巨大的太阳爆炸
+			'''
+	}
+
+	JourneySoul: {
+		DisplayName: 旅人之魂
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/BalanceForce] 获得均衡之力的效果
+			[i:SuperSoulsDLC/ConclusionForce] 获得结局之力的效果
+			[i:SuperSoulsDLC/HighlandForce] 获得高地之力的效果
 			'''
 	}
 
 	AncientCrystalEnchant: {
 		DisplayName: 远古水晶魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/AncientCHead] 弹幕攻击会偶尔生成水晶碎片
-			[i:MartainsOrder/ShimmerGlowingMushroom] 获得黏胶微光蘑菇的效果
-			'''
+		Tooltip: 攻击命中会偶尔产生水晶碎片
 	}
 
 	AncientGarnetEnchant: {
@@ -394,11 +358,12 @@ Items: {
 
 	AncientRockEnchant: {
 		DisplayName: 远古岩石魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/AncientRH] 使你免疫击退
-			[i:MartainsOrder/Flint] 获得燧石的效果
-			'''
+		Tooltip: 当你手持工具时免疫击退，并增加25%近战击退
+	}
+
+	AncientSandEnchant: {
+		DisplayName: 远古沙衣魔石
+		Tooltip: 攻击会周期性地携带几根仙人掌刺，并造成投掷伤害
 	}
 
 	AncientTantalumEnchant: {
@@ -463,9 +428,8 @@ Items: {
 		DisplayName: 水晶魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/CrystalAH] 受伤时会射出水晶碎片
-			[i:SuperSoulsDLC/AncientCrystalEnchant] 获得远古水晶魔石的效果
-			[i:MartainsOrder/CrystalGloves] 获得水晶手套的效果
+			受伤时会射出水晶碎片
+			攻击命中会偶尔产生水晶碎片
 			'''
 	}
 
@@ -484,8 +448,9 @@ Items: {
 		DisplayName: 荒漠木魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/SwarmerWings] 获得蚁狮蜂之翼的效果
-			[i:MartainsOrder/BlueGlowingMushroom] 获得蓝发光蘑菇的效果
+			当你静止不动时，会在你周围逐渐形成沙尘暴
+			移动过快则会使沙尘暴消散
+			沙尘暴的伤害会随着其规模而提升
 			'''
 	}
 
@@ -513,9 +478,12 @@ Items: {
 		DisplayName: 奇异仙人掌魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/CactusHead] 攻击者会受到来自强化仙人掌的伤害
-			[i:MartainsOrder/CactusCatExpertItem] 获得奇异仙人掌果的效果
-			[i:MartainsOrder/GuideToHealthRetribution] 获得生命报应指南的效果
+			攻击者会受到强化的仙人掌刺伤害
+			使你能进行仙人掌震击
+			仙人掌震击增加20点防御，并免疫击退和摔落伤害
+			仙人掌震击会先使你略微上移，在落地时使你弹跳
+			在永恒模式下，使你免疫仙人掌造成的伤害
+			放在时装栏和物品栏时该效果生效
 			'''
 	}
 
@@ -531,32 +499,21 @@ Items: {
 
 	FakeFishyumEnchant: {
 		DisplayName: 赝疑魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/FishyumAH] 召唤一个可疑守卫攻击敌人
-			[i:MartainsOrder/CubeFolksBless] 获得方块族之庇佑的效果
-			[i:MartainsOrder/StoneStone] 获得石之石的效果
-			'''
+		Tooltip: 召唤一个可疑守卫攻击敌怪
 	}
 
 	FireEnchant: {
 		DisplayName: 火服魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/MagmaAH] 悠悠球在移动时会定期发射出火焰波
-			[i:MartainsOrder/EnchantedSheath] 获得附魔剑鞘的效果
-			[i:MartainsOrder/MagmaWatch] 获得岩浆表的效果
+			悠悠球在移动时会定期发射出火焰波，并造成近战伤害
+			火焰波造成悠悠球50%的伤害
 			'''
 	}
 
 	ForestsEnchant: {
 		DisplayName: 森林魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/SpiritH2] 受伤后会增加召唤速度和投掷速度
-			[i:MartainsOrder/EngineerBelt] 获得工程师腰带的效果
-			[i:MartainsOrder/SpiralLeaf] 获得螺旋叶片的效果
-			'''
+		Tooltip: 受伤后增加25%召唤速度和投掷速度
 	}
 
 	HollowwoodEnchant: {
@@ -574,7 +531,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:MartainsOrder/IceCrystalHat] 有50%的概率不消耗魔力药水
-			[i:MartainsOrder/TundraNecklace] 获得雪原项链的效果
+			[i:MartainsOrder/TundraPillow] 获得雪原枕头的效果
 			[i:MartainsOrder/FrozenLilyBee] 获得冰冻百合蜂的效果
 			'''
 	}
@@ -600,18 +557,16 @@ Items: {
 
 	NadirEnchant: {
 		DisplayName: 劣品魔石
-		Tooltip:
+		Tooltip: 
 			'''
-			[i:MartainsOrder/NadirAH] 提升所有基础属性：
-			   -增加1点防御
-			   -增加3%伤害
-			   -增加1%暴击率
-			   -增加0.25%召唤物击退
-			   -提升3%近战攻击速度
-			   -提升10%移动速度
-			   -提升3%挖掘速度
-			[i:MartainsOrder/Relic] 获得序列遗物的效果
-			[i:MartainsOrder/BatScent] 获得蝙蝠香水的效果
+			提升所有基础属性：
+			-增加1点防御
+			-增加3%伤害
+			-增加1%暴击率
+			-增加0.25%召唤物击退
+			-提升3%近战攻击速度
+			-提升10%移动速度
+			-提升3%挖掘速度
 			'''
 	}
 
@@ -650,7 +605,7 @@ Items: {
 			'''
 			[i:MartainsOrder/PlasticAH] 双击{$Key.DOWN}键/{$Key.UP}键可以命令你的召唤物到你的鼠标位置
 			[i:MartainsOrder/AlchemistsPouch] 获得炼金师袋的效果
-			[i:MartainsOrder/Satelite] 获得卫星的效果
+			[i:MartainsOrder/MagneticCharge] 获得磁性充能器的效果
 			'''
 	}
 
@@ -658,19 +613,9 @@ Items: {
 		DisplayName: 爬行动物魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/ReptileAH] 命中敌怪时会强化召唤物怒气
-			[i:MartainsOrder/RedCells] 获得凶残细胞的效果
-			[i:MartainsOrder/ThornCrown] 获得荆棘之冠的效果
-			'''
-	}
-
-	SandEnchant: {
-		DisplayName: 沙衣魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/SandAH] 在沙漠时会增加10%移动速度
-			[i:MartainsOrder/BeastHandler] 获得野兽手套的效果
-			[i:MartainsOrder/PygmyExtension] 获得矮人延伸器的效果
+			使用鞭子攻击敌怪能够增加1%召唤伤害
+			伤害提升最高堆叠至25%
+			但是会随时间的推移而降低
 			'''
 	}
 
@@ -679,6 +624,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:MartainsOrder/TantalumHeadgear] 使你能进行一次钽之二段跳
+			[i:SuperSoulsDLC/AncientTantalumEnchant] 获得远古钽魔石的效果
 			[i:MartainsOrder/CharmOfLuck] 获得符咒护身符的效果
 			'''
 	}
@@ -687,9 +633,8 @@ Items: {
 		DisplayName: 板块魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/RockAH] 在空中长按{$Key.DOWN}键施展震地冲击
-			[i:MartainsOrder/MagneticCharge] 获得磁性充能器的效果
-			[i:MartainsOrder/DeadCells] 获得邪恶细胞的效果
+			当你手持工具时免疫击退，并增加25%近战击退
+			使你能进行震地冲击并射出岩石
 			'''
 	}
 
@@ -697,8 +642,10 @@ Items: {
 		DisplayName: 时间魔石
 		Tooltip:
 			'''
-			你的武器伤害会随着时间推移稳定提升
-			伤害提升从10%开始，每天早上重置
+			重复击中敌怪能施加时间禁锢
+			击中所需次数根据最大血量而变化
+			敌怪被施加时间禁锢3秒，期间将无法移动且不会对你造成伤害
+			此效果有10秒冷却时间
 			'''
 	}
 
@@ -715,9 +662,8 @@ Items: {
 		DisplayName: 虚空魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/VoidHMelee] 在空中长按{$Key.DOWN}键施展虚空冲击
-			[i:MartainsOrder/RoyalDinnerService] 获得皇家晚宴餐具的效果
-			[i:SuperSoulsDLC/TectonicEnchant] 获得板块魔石的效果
+			允许玩家召唤空域
+			空域将吸引敌怪并杀死他们
 			'''
 	}
 
@@ -734,9 +680,9 @@ Items: {
 		DisplayName: 凋零魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/WitherAH] 被敌人命中后，或双击{$Key.DOWN}键/{$Key.UP}键时会被激怒
+			[i:MartainsOrder/WitherAH] 双击{$Key.DOWN}键/{$Key.UP}键或被敌人命中后会获得凋零狂暴
+			[i:SuperSoulsDLC/AncientGarnetEnchant] 获得远古石榴石魔石的效果
 			[i:MartainsOrder/DemonCharm] 获得恶魔护身符的效果
-			[i:MartainsOrder/ScentKnuckles] 获得腐香指关节的效果
 			'''
 	}
 
@@ -745,7 +691,7 @@ Items: {
 		Tooltip:
 			'''
 			[i:MartainsOrder/ZincHead] 召唤一个保护玩家的锌盾
-			[i:MartainsOrder/SanguineScroll] 获得赤色卷轴的效果
+			[i:SuperSoulsDLC/AncientZincEnchant] 获得远古锌魔石的效果
 			[i:MartainsOrder/CalciumDose] 获得钙剂的效果
 			'''
 	}
@@ -776,9 +722,11 @@ Items: {
 		DisplayName: 生物之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/FakeFishyumEnchant] 获得赝疑魔石的效果
-			[i:SuperSoulsDLC/ExoticCactusEnchant] 获得奇异仙人掌魔石的效果
-			[i:SuperSoulsDLC/ReptileEnchant] 获得爬行动物魔石的效果 
+			[i:SuperSoulsDLC/FakeFishyumEnchant] 召唤2个可疑守卫攻击敌怪
+			[i:SuperSoulsDLC/ExoticCactusEnchant] 使你能进行仙人掌震击
+			[i:SuperSoulsDLC/ExoticCactusEnchant] 在永恒模式下，使你免疫仙人掌造成的伤害
+			[i:SuperSoulsDLC/ReptileEnchant] 使用鞭子攻击敌怪能够增加1%召唤伤害
+			[i:SuperSoulsDLC/ReptileEnchant] 伤害提升最高堆叠至25%，但是会随时间的推移而降低
 			[i:SuperSoulsDLC/ForestsEnchant] 获得森林魔石的效果 
 			'''
 	}
@@ -795,6 +743,17 @@ Items: {
 			'''
 	}
 
+	DeepForce: {
+		DisplayName: 深穴之力
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/CrystalEnchant] 获得水晶魔石的效果
+			[i:SuperSoulsDLC/DepthsMineEnchant] 获得深掘魔石的效果
+			[i:SuperSoulsDLC/ExplosiveBoxEnchant] 获得炸药魔石的效果
+			[i:SuperSoulsDLC/TectonicEnchant] 获得板块魔石的效果
+			'''
+	}
+
 	FabricationForce: {
 		DisplayName: 创造之力
 		Tooltip:
@@ -802,9 +761,7 @@ Items: {
 			[i:SuperSoulsDLC/CamoEnchant] 获得迷彩魔石的效果
 			[i:SuperSoulsDLC/RecycledEnchant] 获得回收魔石的效果
 			[i:SuperSoulsDLC/ToyEnchant] 获得玩具魔石的效果
-			[i:SuperSoulsDLC/ExplosiveBoxEnchant] 获得炸药魔石的效果
 			[i:SuperSoulsDLC/PainterEnchant] 获得画家魔石的效果
-			[i:SuperSoulsDLC/DepthsMineEnchant] 获得深掘魔石的效果
 			'''
 	}
 
@@ -828,7 +785,6 @@ Items: {
 			[i:SuperSoulsDLC/MercuryEnchant] 获得水银魔石的效果
 			[i:SuperSoulsDLC/MagnesiumEnchant] 获得镁魔石的效果
 			[i:SuperSoulsDLC/TantalumEnchant] 获得钽魔石的效果
-			[i:SuperSoulsDLC/CrystalEnchant] 获得水晶魔石的效果
 			[i:SuperSoulsDLC/CharcoalEnchant] 获得木炭魔石的效果
 			'''
 	}
@@ -840,7 +796,7 @@ Items: {
 			[i:SuperSoulsDLC/FireEnchant] 获得火衣魔石的效果
 			[i:SuperSoulsDLC/IceCrystalEnchant] 获得冰晶魔石的效果
 			[i:SuperSoulsDLC/WaterEnchant] 获得水服魔石的效果
-			[i:SuperSoulsDLC/SandEnchant] 获得沙衣魔石的效果
+			[i:SuperSoulsDLC/AncientSandEnchant] 获得远古沙衣魔石的效果
 			[i:SuperSoulsDLC/TimeEnchant] 获得时间魔石的效果
 			[i:SuperSoulsDLC/ClayArtisanEnchant] 获得陶艺魔石的效果
 			'''
@@ -863,6 +819,7 @@ Items: {
 			'''
 			[i:SuperSoulsDLC/BiotaForce] 获得生物之力的效果
 			[i:SuperSoulsDLC/DarkForce] 获得黑暗之力的效果
+			[i:SuperSoulsDLC/DeepForce] 获得深穴之力的效果
 			[i:SuperSoulsDLC/FabricationForce] 获得创造之力的效果
 			[i:SuperSoulsDLC/LumberForce] 获得木料之力的效果
 			[i:SuperSoulsDLC/StoneForce] 获得坚石之力的效果
@@ -883,11 +840,42 @@ Items: {
 	}
 }
 
-Projectiles.DynastyGongProjectile.DisplayName: 王朝木响锣
+Projectiles: {
+	DynastyGongProjectile.DisplayName: 王朝木响锣
+	FurPatchProjectile.DisplayName: 毛皮碎块
+	SunGodExplosionProjectile.DisplayName: 太阳神爆炸
+	OnyxShardProjectile.DisplayName: 玛瑙碎片
+	SandstormProjectile.DisplayName: 沙尘暴
+	NullZoneProjectile.DisplayName: 空域
+	NewReflectorProjectile.DisplayName: 反射盾
+	CactusThornProjectile.DisplayName: 仙人掌荆棘
+}
 
 Buffs: {
 	BleedingBuff: {
 		DisplayName: 流血
 		Description: 流失生命
 	}
+
+	TimeLockBuff: {
+		DisplayName: 时间禁锢
+		Description: 被时间禁锢！
+	}
+
+	SlowedBuff: {
+		Description: 你的移动速度被降低
+		DisplayName: 缓步
+	}
+
+	SunGodBuff: {
+		DisplayName: 太阳已爆炸
+		Description: 你没法再次引爆太阳
+	}
+
+	SpiritBuff: {
+		DisplayName: 灵魂提速
+		Description: 增加25%召唤速度和投掷速度
+	}
 }
+
+NPCs.OnyxGem.DisplayName: 玛瑙大宝石

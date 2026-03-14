@@ -1,10 +1,11 @@
 ChaosHeader: "{$Mods.SuperSoulsDLC.Items.ChaosForce.DisplayName}"
 TessellationHeader: "{$Mods.SuperSoulsDLC.Items.TessellationForce.DisplayName}"
 BalanceHeader: "{$Mods.SuperSoulsDLC.Items.BalanceForce.DisplayName}"
-EndingHeader: "{$Mods.SuperSoulsDLC.Items.ConclusionForce.DisplayName}"
+ConclusionHeader: "{$Mods.SuperSoulsDLC.Items.ConclusionForce.DisplayName}"
 HighlandHeader: "{$Mods.SuperSoulsDLC.Items.HighlandForce.DisplayName}"
 BiotaHeader: "{$Mods.SuperSoulsDLC.Items.BiotaForce.DisplayName}"
 DarkHeader: "{$Mods.SuperSoulsDLC.Items.DarkForce.DisplayName}"
+DeepHeader: "{$Mods.SuperSoulsDLC.Items.DeepForce.DisplayName}"
 FabricationHeader: "{$Mods.SuperSoulsDLC.Items.FabricationForce.DisplayName}"
 LumberHeader: "{$Mods.SuperSoulsDLC.Items.LumberForce.DisplayName}"
 StoneHeader: "{$Mods.SuperSoulsDLC.Items.StoneForce.DisplayName}"
@@ -89,47 +90,23 @@ VisionAmuletEffect: 元素 元素护身符
 WardingCharmEffect: 振荡 守御护身符
 SunbulbEffect: 极寒 日光灯泡
 AuroraEffect: 极光 极光史莱姆
-CommandersGaunletEffect: 极光 指挥官的手套
-ConstructionPDAEffect: 极光 建造PDA
 BiologicalEffect: 生物学 加油站
-FlareInABottleEffect: 生物学 瓶中热焰
-TimeTurnerEffect: 太阳神 时转仪
-KingBillEffect: 生物学 纸钞王
-MetalNozzleEffect: 生物学 金属喷头
 ChronoEffect: 钟盘 时间借款
-JellyMushroomEffect: 果冻蘑菇
-SaviorsHeartEffect: 钟盘 救世主之心
 EquilibriumEffect: 衡态 释放白雾
-GrandSpectralEffect: 衡态 大光谱
-SaintlyEyeballEffect: 衡态 圣人的眼球
 FiveStarGeneralEffect: 上将 仆从栏扩展
-LampreyScarfEffect: 上将 七鳃鳗围巾
-CircuitChipEffect: 上将 电路芯片
 BumpAttackEffect: 冲撞攻击
-EnchantedAmberRingEffect: 附魔琥珀戒指
+CommandersGauntletEffect: 指挥官的手套
 ArmillarySphereEffect: 浑天仪
 LittlePuppetEffect: 真菌 小小木偶
 ForestEffect: 林海 荆棘生长
-EdgewalkerEffect: 林海 边行者
-WalnutOnFireEffect: 林海 梨栗熟了
-ArrowCaseEffect: 林海 箭盒
 FungusEffect: 真菌 哨兵蘑菇孢子
-HoneyMushroomEffect: 蜂蜜蘑菇
-CounsellorsFanEffect: 雪怪 军师的羽扇
-IndividualCombatEffect: 单兵 标记强化
-CardiotachometerEffect: 单兵 心率仪
-RobinHatEffect: 单兵 罗宾汉之帽
-BowTriggerEffect: 单兵 机械扳机
-OnyxEffect: 玛瑙 玛瑙石保护
-DarkMagicMirrorEffect: 玛瑙 黑魔镜
-ShadowShackleEffect: 玛瑙 影脚镣
-NegatamaEffect: 钟盘 负能量勾玉
-ZeroPennyEffect: 玛瑙 零元硬币
+FlinxFurEffect: 雪怪 毛皮碎块
+IndividualCombatEffect: 单兵 距离强化
+OnyxEffect: 玛瑙 玛瑙水晶
 ReflectorEffect: 反射 反弹盾
-PersonInDreamEffect: 反射 梦中人
 HeartOfOceanEffect: 海洋之眼
 NegashieldEffect: 反射 负衰减盾
-SunGodEffect: 太阳神 太阳熔毁
+SunGodEffect: 太阳神 太阳爆炸
 DeadRingerEffect: 守钟 死亡之铃
 SolarPanelEffect: 太阳神 太阳能电板
 WatchmanEffect: 守钟 队伍加速
@@ -137,12 +114,12 @@ MapleMushroomEffect: 枫糖浆蘑菇
 HourHandEffect: 守钟 时针
 DivineTouchEffect: 神之手
 ChampionBeltEffect: 英灵腰带
-PhilosophersStoneEffect: 哲人王之石
+PhilosopherKingsStoneEffect: 哲人王之石
 StarflowerEffect: 星花
 FungusDeluxeEffect: 豪华蘑菇
 TheBatterEffect: 击球手
 TheHolyTrinityEffect: 圣三位一体
-CrossbowScopeEffect: 弩镜
+AirborneGogglesEffect: 空军目镜
 TrashBagEffect: 垃圾袋
 DivineNecklaceEffect: 圣洁发夹
 VanguardBreastpieceEffect: 冲锋胸牌
@@ -196,9 +173,6 @@ ExoticCactusEffect: 奇异仙人掌 奇异荆棘
 ExoticPricklyPearEffect: 奇异仙人掌 奇异仙人掌果
 GuideToHealthRetributionEffect: 奇异仙人掌 生命报应指南
 ForestsEffect: 森林 森林提速
-EngineerBeltEffect: 森林 工程师腰带
-SpiralLeafEffect: 森林 螺旋叶片
-SequenceRelicEffect: 劣品 序列遗物
 BatScentEffect: 劣品 蝙蝠香水
 ReptileEffect: 爬行动物 召唤怒气
 ViciousCellsEffect: 爬行动物 凶残细胞
@@ -212,7 +186,7 @@ IgnitionStoneEffect: 空虚木 灼焰石
 OtherworldlyEffect: 异界 塔防套装奖励
 SuperMedkitEffect: 异界 超级医疗包
 RainbowCurseEffect: 异界 彩虹之咒
-TimeEffect: 时间 武器强化
+TimeEffect: 时间 时间禁锢
 TectonicEffect: 板块 震地冲击
 MagneticChargeEffect: 板块 磁性充能器
 VileCellsEffect: 板块 邪恶细胞
@@ -226,8 +200,7 @@ RealitySkullEffect: 折纸 真实颅骨
 VoodooJetsEffect: 折纸 巫毒喷气机
 PainterEffect: 画家 额外油漆液滴
 RecycledEffect: 回收 仆从指挥
-AlchemistsPouchEffect: 回收 炼金师袋
-SatelliteEffect: 回收 卫星
+ChemicalNeutralizerEffect: 回收 化学中和器
 ToyEffect: 玩具 弹幕光标跟随
 ForbiddenBandanaEffect: 玩具 禁忌头巾
 AncientCrystalEffect: 远古水晶 水晶碎片
@@ -253,10 +226,12 @@ FireEffect: 火服 悠悠球火焰波
 EnchantedSheathEffect: 火服 附魔剑鞘
 MagmaWatchEffect: 火服 岩浆表
 IceCrystalEffect: 冰晶 魔力药水保留
-TundraNecklaceEffect: 冰晶 雪原项链
+TundraPillowEffect: 冰晶 雪原枕头
 FrozenLilyBeeEffect: 冰晶 冰冻百合蜂
 SandEffect: Desert Movement Speed
 BeastHandlerEffect: 沙衣 野兽手套
 PygmyExtensionEffect: 沙衣 矮人延伸器
 WaterEffect: 水装 水之治疗
 AquaWatchEffect: 水装 水之表
+GravimeterEffect: 魔法重力仪
+DustTyphoonEffect: 尘埃台风

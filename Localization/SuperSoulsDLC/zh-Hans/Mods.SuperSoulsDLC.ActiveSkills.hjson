@@ -1,0 +1,34 @@
+SunGodEffect: {
+	DisplayName: 太阳爆炸
+	Tooltip: 释放巨大的太阳爆炸
+}
+
+VoidEffect: {
+	DisplayName: 空域
+	Tooltip: 生成一个删除敌怪的空域
+}
+
+TectonicEffect: {
+	DisplayName: 震地冲击
+	Tooltip: 使你猛击落地并射出岩石
+}
+
+AuroraEffect: {
+	DisplayName: 发射极光史莱姆
+	Tooltip: 向你光标处发射极光光史莱姆
+}
+
+BiologicEffect: {
+	DisplayName: 召唤加油站
+	Tooltip: 生成一座加油站增加伤害并使敌怪不太可能以你为目标
+}
+
+ChronoEffect: {
+	DisplayName: 接了点时间
+	Tooltip: 如果你受到致命伤害，死亡将被推迟10秒
+}
+
+ExoticCactusEffect: {
+	DisplayName: 仙人掌震击
+	Tooltip: 使你猛击落地
+}
