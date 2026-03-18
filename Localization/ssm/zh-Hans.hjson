@@ -1,5 +1,28 @@
 Mods: {
 	ssm: {
+		CommonTooltips: {
+			MutantsCurse: {
+				OldString1: “你可真是个坏东西”
+				OldString2: “至少不需要用娃娃了”
+			}
+		}
+
+		RecipeGroups: {
+			JesterMask: " 弄臣面具"
+			JesterShirt: " 弄臣服"
+			JesterLeggings: " 弄臣护腿"
+			EvilWoodTambourine: " 邪恶木铃鼓"
+			FanLetter: " 粉丝的信函"
+			BugleHorn: " 军号"
+			TitanHeadgear: " 泰坦头盔"
+			Gem: " 瑟银宝石"
+			RhapsodistHelmet: " 狂想头盔"
+			AssassinHelmet: " 刺客头盔"
+			DreamWeaversHelmet: " 梦境编织者头盔"
+			TideTurnerHelmet: " 洪流逆潮者头盔"
+			PyromancerHelmet: " 炎法头盔"
+		}
+
 		Aeolus: Effects of Aeolus Boots
 		ModIcon.Name: Community Souls Expansion
 
@@ -184,6 +207,21 @@ Mods: {
 				DisplayName: 异辉毒云
 				Tooltips: 在玩家周围释放剧毒气体，造成沸腾酸液
 			}
+
+			IllumiteEffect: {
+				DisplayName: 荧光导弹WIP
+				Tooltip: 发射一枚追踪导弹，命中时爆炸并释放荧光碎片
+			}
+
+			AssassinEffect: {
+				DisplayName: 刺客之影WIP
+				Tooltip: 进入隐身状态并提升移动速度和暴击率
+			}
+
+			PyroEffect: {
+				DisplayName: 炎法烧灼WIP
+				Tooltip: 释放炽热火焰环绕你，燃烧附近敌人
+			}
 		}
 
 		SetBonus: {
@@ -215,26 +253,31 @@ Mods: {
 				MonstrosityLore: {
 					Lore: What a calamity
 					DisplayName: 魔神
+					// Tooltip: ""
 				}
 
 				EchLore: {
 					Lore: What a calamity
 					DisplayName: 触之即死
+					// Tooltip: ""
 				}
 
 				GunteraLore: {
 					Lore: What a calamity
 					DisplayName: 世纪枪花
+					// Tooltip: ""
 				}
 
 				DukeEXLore: {
 					Lore: What a calamity
 					DisplayName: 猪龙鱼公爵EX
+					// Tooltip: ""
 				}
 
 				CeilingLore: {
 					Lore: What a calamity
 					DisplayName: 月亮穹顶
+					// Tooltip: ""
 				}
 
 				DivergenttLore: {
@@ -248,6 +291,7 @@ Mods: {
 						I will watch his career with great interest. 
 						'''
 					DisplayName: Lore - Divergentt
+					// Tooltip: ""
 				}
 
 				AbomLore: {
@@ -259,6 +303,7 @@ Mods: {
 						幸好他不选择使用任何天界攻击，否则你绝无获胜的可能。
 						'''
 					DisplayName: 憎恶
+					// Tooltip: ""
 				}
 
 				MutantLore: {
@@ -273,11 +318,13 @@ Mods: {
 						而他看来已经找到了他要找的那个人。
 						'''
 					DisplayName: 突变体
+					// Tooltip: ""
 				}
 
 				AmalgamLore: {
 					Lore: What a calamity
 					DisplayName: Amalgam Lore
+					// Tooltip: ""
 				}
 
 				DeviLore: {
@@ -290,6 +337,7 @@ Mods: {
 						尽管你在战斗中击败了她，但她似乎并不惧怕死亡，而这是我第一次目睹她在战斗中全力以赴。
 						'''
 					DisplayName: 戴薇安
+					// Tooltip: ""
 				}
 			}
 
@@ -1348,14 +1396,14 @@ Mods: {
 			}
 
 			SlingerEssence: {
-				// DisplayName: Slinger's Essence
-				/* Tooltip:
+				DisplayName: 投手精华
+				Tooltip:
 					'''
-					18% increased thrower damage
-					5% increased thrower and throwing speed
-					5% increased thrower critical strike chance
-					'This is only the beginning..'
-					''' */
+					增加18%投掷伤害
+					增加5%投掷速度和投掷物速度
+					增加5%投掷暴击率
+					“这只是个开始……”
+					'''
 			}
 
 			BardSoul: {
@@ -1400,7 +1448,7 @@ Mods: {
 				DisplayName: 医疗魔石
 				Tooltip:
 					'''
-					光辉伤害有20%概率施加切解减益，使敌人在移动时受到伤害
+					光辉伤害有20%概率施加切割减益，使敌人在移动时受到伤害
 					“使用这个可能会被剥夺行医资格证”
 					'''
 			}
@@ -1493,6 +1541,7 @@ Mods: {
 				DisplayName: 魔血魔石
 				Tooltip:
 					'''
+					增加100点最大生命值
 					受伤时会使你积蓄“鲜血充能”
 					充能满时会使你的下一次攻击伤害翻倍，并且获得20%该次伤害值的治疗
 					受伤时伤害敌怪有概率掉落肉，收集肉会恢复生命并获得伤害加成
@@ -1843,7 +1892,7 @@ Mods: {
 					治疗药水治疗量增加50%
 					每5秒你会生成至多3个神圣十字架
 					在使用治疗法术时会消耗1个十字架而不是魔力
-					获得业果之握的效果	
+					获得业果之握的效果
 					“闪烁着令人舒适的力量”
 					'''
 			}
@@ -1921,7 +1970,7 @@ Mods: {
 			}
 
 			TerrariumEnchant: {
-				DisplayName: 元素魔石
+				DisplayName: 元灵魔石
 				Tooltip:
 					'''
 					泰拉瑞亚的能量会追寻并保护着你
@@ -2585,7 +2634,7 @@ Mods: {
 			CyclonicFin: {
 				Tooltip:
 					'''
-					是你免疫月之诅咒和海洋重击
+					使你免疫月之诅咒和海洋重击
 					你的攻击会造成月之诅咒和海洋重击
 					幽灵猪鲨短暂现身造成伤害，提升你的暴击效果
 					幽灵猪鲨还会造成突变啃啄，禁止敌人恢复
@@ -3644,7 +3693,7 @@ Mods: {
 
 			MutantsCurseEX: {
 				DisplayName: 突变体的挑战
-				Tooltip: （现在缺SoA的汉化）
+				Tooltip: ""
 				Mayo1: 突变体的最大生命值和伤害根据目前安装的所支持的mod决定
 				Mayo21: 目前最大生命：
 				Mayo22: ， 目前伤害：
@@ -3862,8 +3911,8 @@ Mods: {
 			}
 
 			CryDebuff: {
-				DisplayName: Cry Debuff
-				Description: Mods.ssm.Buffs.CryDebuff.Description
+				DisplayName: 哭泣
+				Description: 敌人造成伤害减少10%
 			}
 
 			CutOpen: {
@@ -3972,49 +4021,65 @@ Mods: {
 
 		Toggler: {
 			//thorium
-			FlightEffect: 飞羽效果
+			FlightEffect: 飞羽 羽毛攻击WIP
 			DefenderEffect: 界元之庇护
 			LifeQuartzEffect: 生命石英盾
+			SilkEffect: 丝绸 魔力存储
+			CoralEffect: 珊瑚 处于水中
+			CryomancerEffect: 极寒 冻结魔法
+			ThiefsWalletEffect: 海盗的钱袋子
+			SteelEffect: 钢 WIP
+			DurasteelEffect: 耐钢 WIP
+			DurasteelEffectOres: 耐钢 双倍矿物WIP
 			EbonEffect: Ebon Tiles Conversion
-			GeodeEffect: 双倍矿物
-			NobbleEffect: Rich Buff When Picking Coins
-			YewWoodEffect: 邪恶箭矢
-			BronzeEffect: 青铜剑雨
-			CrierEffect: 攻击施加哭恼
+			GeodeEffect: 双倍矿物WIP
+			YewWoodEffect: 紫衫木 邪恶箭矢
+			BronzeEffect: 青铜 飞行剑雨
+			CrierEffect: 传讯 哭恼攻击
 			PiratesPurseEffect: 海盗的钱袋子
-			GraniteEffect: 动能转换器
+			GraniteEffect: 花岗岩 动能转换器
+			JesterEffect: 弄臣 响钟
 			BlastShieldEffect: 爆炸盾
 			CrashEffect: 震地靴
 			CairoEffect: Eternal Oasis
 			MotDEHeader: 噬梦之兆
-			PlagueEffect: 瘟疫气云
-			LichEffect: 灵魂碎片
-			DragonEffect: 龙焰爆炸
-			ConduitEffect: 能量泡泡
-			MarchingBandEffect: 交响音符
-			MetronomeEffect: 节拍器
-			SandstoneEffect: 二段跳
+			PlagueEffect: 疫医 瘟疫气云
+			LichEffect: 巫妖 灵魂碎片
+			DragonEffect: 绿龙 龙焰爆炸
+			WhiteDwarfEffect: 白矮星 象牙火焰
+			FungusEffect: 真菌 真菌针对WIP
+			ConduitEffect: 电容 能量泡泡
+			AstroEffect: 宇航 飞船召唤
+			MarchingBandEffect: 仪仗队 交响音符
+			MetronomeEffect: 大师 节拍器
+			SandstoneEffect: 砂石 二段跳
 			PlasmaEffect: 等离子护盾发生器
-			VampireGlandEffect: 吸血鬼试剂
-			FleshMaskEffect: 攻击掉落肉块
-			ValadiumEffect: 虚金重力（有bug）
-			CrietzEffect: 精准项链火花
-			TerrariumEffect: 泰拉能量
+			VampireGlandEffect: 血肉 吸血鬼试剂
+			FleshMaskEffect: 血肉 掉落肉块
+			NobleEffect: 贵族 钱币增益
+			DemonBloodEffect: 魔血 生命强化WIP
+			ValadiumEffect: 虚金 重力逆转
+			PlasmaGeneratorEffect: 炎法 等离子护盾发生器
+			MirroroftheBeholderEffect: 虚金 注视者之镜
+			CrietzEffect: 瑟银 精准项链火花
+			TerrariumEffect: 元灵 泰拉能量
 			NuclearOptionEffect: 核弹头配件
-			IllumiteEffect: 荧光导弹
-			TideHunterEffect: 泡沫飞溅
-			DepthDiverEffect: 沉没的金币
+			IllumiteEffect: 荧光 导弹WIP
+			TideHunterEffect: 猎潮 泡沫飞溅
+			DepthDiverEffect: 潜海 沉没的金币
 			ArtificersEffect: 工匠的火箭靴
-			LivingWoodEffect: 生命木幼苗（有bug）
-			BiotechEffect: 生物工程探测器
+			LivingWoodEffect: 生命木 橡子召唤
+			BiotechEffect: 医疗 切割伤口
+			IridescentEffect: 光耀 生命护盾WIP
+			LifeBinderEffect: 缚生 强化生命护盾WIP
 			EntropicEffect: Illusions
-			TendrilsEffect: 光标卷须（有bug）
+			TendrilsEffect: 神胶幕府 缠绕光标
 			InfernoLordsFocusEffect: 地狱领主的聚焦项链
 			LihzahrdTailEffect: 神庙蜥蜴之尾
 			PocketFusionGeneratorEffect: 小型聚变发生器
 			SerpentShieldEffect: 蛇之盾
 			MotDEEffect: 噬梦之兆
-			GuardianEffect: 医疗包效果
+			GuardianEffect: 医疗包
 			AsgardForceHeader: 阿斯加德之力
 			AlfheimForceHeader: 阿尔弗海姆之力
 			HelheimForceHeader: 赫尔海姆之力
@@ -4024,21 +4089,24 @@ Mods: {
 			JotunheimForceHeader: 约顿海姆之力
 			SvartalfheimForceHeader: 斯瓦特阿尔海姆之力
 			VanaheimForceHeader: 华纳海姆之力
-			SacredEffect: 业果之握
-			IcyEffect: 冰精灵
-			NoviceClericEffect: 神圣十字架
-			TideTurnerEffect: 洪流泡泡盾
-			DreadEffect: 增加移动速度
-			WhisperingEffect: 低语者触手
-			LodestoneEffect: 沙海穿梭者头冠巨石
-			BulbEffect: 活力花瓣
-			LifeBloomEffect: 丛林之心
-			CyberPunkEffect: 赛博朋克切换形态
+			SacredEffect: 崇圣 业果之握
+			IcyEffect: 碎冰 冰冻光环
+			NoviceClericEffect: 牧师 神圣十字架
+			CelestiaEffect: 天界 神圣光环
+			RhapsodistEffect: 狂音 奏明启迪
+			TideTurnerEffect: 洪流 泡泡盾
+			TideTurnerEffect2: 洪流 海潮飞刀
+			DreadEffect: 恐惧 移速强化
+			WhisperingEffect: 低语 深渊触手
+			LodestoneEffect: 地脉 沙海穿梭者头冠
+			BulbEffect: 绽花 活力花瓣
+			LifeBloomEffect: 绽生 丛林之心
+			CyberPunkEffect: 赛博 科技球召唤WIP
 			CapeoftheSurvivorEffect: 生存者披风
 			CrystalScorpionEffect: 水晶蝎
 			PyroEffect: 炎法烧灼
-			PlagueLordEffect: 瘟疫之主的药剂瓶
-			LodestoneEffect2: 地脉护盾
+			PlagueLordEffect: 洪流 瘟疫之主的药剂瓶
+			LodestoneEffect2: 地脉 减伤护盾
 			TheOmegaCoreEffect: 欧米伽核心
 			ThrowerSoulEffect: 移除疲劳值
 			//soa
@@ -4081,16 +4149,19 @@ Mods: {
 			//cal
 			CalamitySoulHeader: 寻神者之魂
 			ShatteredCommunityEffect: 幻灭心元石
-			ClamitasEffect: 召唤硫磺夹贝
-			RedDevil: 红恶魔
-			SoulCrystal: 渎神魂晶
-			PyrogenEffect: 极炎之魄
-			IntergelacticEffect: 星环
+			ClamitasEffect: 灾蛤 硫磺夹贝
+			RedDevil: 魔影 红恶魔
+			SoulCrystal: 魔影 渎神魂晶
+			PyrogenEffect: 灾蛤 极炎之魄
+			IntergelacticEffect: 异宇星凝 星环
 			AddonsForceHeader: 灾集之力
-			ShogunEffect: 神胶幕府将军之翼
+			ShogunEffect: 神胶幕府 将军之翼
 			VoidFaquirEffect: 虚空充能
-			SplendorEffect: 异彩果酱
-			DivineEffect: 光之维度 (有bug)
+			SplendorEffect: 神胶幕府 异彩果酱
+			SolynsSigilHeader: 索林魔符
+			DeificEffect: 索林 神化之触
+			DivineEffect: 索林 无限飞行时间
+			SkirtEffect: 索林 传送门裙子
 			ChaosStoneEffect: 混乱石
 			CryoStoneEffect: 冰川石
 			BloomStoneEffect: 绽花石

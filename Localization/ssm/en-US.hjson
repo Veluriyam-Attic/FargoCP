@@ -1,5 +1,28 @@
 Mods: {
 	ssm: {
+		CommonTooltips: {
+			MutantsCurse: {
+				OldString1: "'You are a terrible person'"
+				OldString2: At least this way, you don't need that doll
+			}
+		}
+
+		RecipeGroups: {
+			JesterMask: Jester Mask
+			JesterShirt: Jester Shirt
+			JesterLeggings: Jester Leggings
+			EvilWoodTambourine: Evil Wood Tambourine
+			FanLetter: Fan Letter
+			BugleHorn: Bugle Horn
+			TitanHeadgear: Titan Headgear
+			Gem: Gem
+			RhapsodistHelmet: Rhapsodist's Helmet
+			AssassinHelmet: Assassin's Helmet
+			DreamWeaversHelmet: Dream Weaver's Helmet
+			TideTurnerHelmet: Tide Turner's Helmet
+			PyromancerHelmet: Pyromancer's Helmet
+		}
+
 		Aeolus: Effects of Aeolus Boots
 		ModIcon.Name: Community Souls Expansion
 
@@ -184,6 +207,21 @@ Mods: {
 				DisplayName: Xenomite Clouds
 				Tooltips: Unleash toxic gas in a radius around the player, inflicting Burning Acid
 			}
+
+			IllumiteEffect: {
+				DisplayName: 荧光导弹
+				Tooltip: 发射一枚追踪导弹，命中时爆炸并释放荧光碎片
+			}
+
+			AssassinEffect: {
+				DisplayName: 刺客之影
+				Tooltip: 进入隐身状态并提升移动速度和暴击率
+			}
+
+			PyroEffect: {
+				DisplayName: 炎法烧灼
+				Tooltip: 释放炽热火焰环绕你，燃烧附近敌人
+			}
 		}
 
 		SetBonus: {
@@ -215,26 +253,31 @@ Mods: {
 				MonstrosityLore: {
 					Lore: What a calamity
 					DisplayName: Lore - Monstrosity
+					Tooltip: ""
 				}
 
 				EchLore: {
 					Lore: What a calamity
 					DisplayName: Lore - Echdeath
+					Tooltip: ""
 				}
 
 				GunteraLore: {
 					Lore: What a calamity
 					DisplayName: Lore - Guntera
+					Tooltip: ""
 				}
 
 				DukeEXLore: {
 					Lore: What a calamity
 					DisplayName: Lore - Duke Fishron EX
+					Tooltip: ""
 				}
 
 				CeilingLore: {
 					Lore: What a calamity
 					DisplayName: Lore - Ceiling of Moonlord
+					Tooltip: ""
 				}
 
 				DivergenttLore: {
@@ -248,6 +291,7 @@ Mods: {
 						I will watch his career with great interest. 
 						'''
 					DisplayName: Lore - Divergentt
+					Tooltip: ""
 				}
 
 				AbomLore: {
@@ -259,6 +303,7 @@ Mods: {
 						Good thing for you he choose not to use any celestial attacks, or else your victory might have not been possible.
 						'''
 					DisplayName: Lore - Abominationn
+					Tooltip: ""
 				}
 
 				MutantLore: {
@@ -272,11 +317,13 @@ Mods: {
 						Looks like he found the person he was looking for. 
 						'''
 					DisplayName: Lore - Mutant
+					Tooltip: ""
 				}
 
 				AmalgamLore: {
 					Lore: What a calamity
 					DisplayName: Amalgam Lore
+					Tooltip: ""
 				}
 
 				DeviLore: {
@@ -289,6 +336,7 @@ Mods: {
 						Even though you bested her in combat, she seems to not fear death, and this is the first time I have ever seen her go all out in a fight.
 						'''
 					DisplayName: Lore - Deviantt
+					Tooltip: ""
 				}
 			}
 
@@ -3961,14 +4009,21 @@ Mods: {
 			FlightEffect: Feathers
 			DefenderEffect: Terrarium Defender
 			LifeQuartzEffect: Life Quartz Shield
+			SilkEffect: Mage Power
+			CoralEffect: Be In Water
+			CryomancerEffect: Freezing Magic
+			ThiefsWalletEffect: Pirates Purse
+			SteelEffect: 钢 WIP
+			DurasteelEffect: 耐钢 WIP
+			DurasteelEffectOres: 耐钢 双倍矿物WIP
 			EbonEffect: Ebon Tiles Conversion
 			GeodeEffect: Double Ore
-			NobbleEffect: Rich Buff When Picking Coins
 			YewWoodEffect: Vile Arrow support
 			BronzeEffect: Bronze Blades
 			CrierEffect: Crying on hit
 			PiratesPurseEffect: Pirate's Purse
 			GraniteEffect: Shock Absorber
+			JesterEffect: Bell Minion
 			BlastShieldEffect: Blast Shield
 			CrashEffect: Crash Boots
 			CairoEffect: Eternal Oasis
@@ -3976,14 +4031,21 @@ Mods: {
 			PlagueEffect: Plague Gases
 			LichEffect: Soul Fragments
 			DragonEffect: Dragon's Flame
+			WhiteDwarfEffect: Ivory Flares
+			FungusEffect: Mycelium Infected
 			ConduitEffect: Bubble of Energy
+			AstroEffect: Spaceship Minion
 			MarchingBandEffect: Symphonic Symbols
 			MetronomeEffect: Metronome
 			SandstoneEffect: Double Jump
 			PlasmaEffect: Plasma Generator
 			VampireGlandEffect: Vampire Gland
 			FleshMaskEffect: Attacks Drop Flesh
+			NobleEffect: Rich Buff When Picking Coins
+			DemonBloodEffect: Demon Blood
 			ValadiumEffect: Valadium Gravity
+			PlasmaGeneratorEffect: Plasma Generator
+			MirroroftheBeholderEffect: Mirror of the Beholder
 			CrietzEffect: Crietz Brusts
 			TerrariumEffect: Terrarium Energies
 			NuclearOptionEffect: Nuclear Option
@@ -3993,6 +4055,8 @@ Mods: {
 			ArtificersEffect: Artificer's Rocketeers
 			LivingWoodEffect: Living Wood Sapling
 			BiotechEffect: Cut Open on hit
+			IridescentEffect: Life Shield
+			LifeBinderEffect: Enhanced Life Shield
 			EntropicEffect: Illusions
 			TendrilsEffect: Tendrils Attachment
 			InfernoLordsFocusEffect: Inferno Lord Focus
@@ -4013,7 +4077,10 @@ Mods: {
 			SacredEffect: Karma Holder
 			IcyEffect: Icy Aura
 			NoviceClericEffect: Holy Crosses
+			CelestiaEffect: Holy Aura
+			RhapsodistEffect: Rhapsodist's Lute
 			TideTurnerEffect: Tide Defense
+			TideTurnerEffect2: Tide Darts
 			DreadEffect: Increased Inertia
 			WhisperingEffect: Eldrich Tentacles
 			LodestoneEffect: Sandweaver's Tiara
@@ -4076,7 +4143,10 @@ Mods: {
 			ShogunEffect: Slippery Shogun Wings
 			VoidFaquirEffect: Void Bar
 			SplendorEffect: Splendor Jam
-			DivineEffect: Light Dimension Cursor
+			SolynsSigilHeader: Solyn's Sigil
+			DeificEffect: Light Dimension Cursor
+			DivineEffect: 光之维度 (有bug)
+			SkirtEffect: Portal Skirt
 			ChaosStoneEffect: Chaos Stone
 			CryoStoneEffect: Cryo Stone
 			BloomStoneEffect: Bloom Stone
