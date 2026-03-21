@@ -4,3 +4,70 @@ DisabledItemTooltip:
 	This item doesn't exist. Wake up.
 	'''
 UnderworldOnlyTooltip: Can only be used in the Underworld
+NekomiTooltip:
+	'''
+	Grants immunity to Lovestruck and Fake Hearts
+	Graze attacks to gain up to x1.25 increased damage
+	Damage bonus decreases over time and is fully lost on hit
+	Your attacks periodically summon life-draining hearts, dealing magic damage
+	Graze attacks to temporarily charge energy
+	Increases life regeneration when damaged at the cost of some energy
+	Double tap {0} to release energy as life-draining hearts
+	Wield a demon axe of love and justice when fully charged, becomes stronger in hardmode
+	7% increased damage and critical strike chance for your current weapon class
+	Increase max number of minions by 1
+	'''
+EridanusTooltipOn:
+	'''
+	Your critical strikes can critically strike
+	The chance of this is equal to half of your critical strike chance (only counts up to 100%)
+	These supercrits deal 4x damage and inflict Flames of the Cosmos
+	Eridanus' blessing empowers a weapon class
+	The empowered class changes every 12.5 seconds
+	Eridanus fights alongside you when you use the empowered class
+	70% increased damage for the empowered class
+	30% increased critical strike chance for the empowered class
+	30% increased attack speed for the empowered class
+	Increases your max number of minions by 3
+	Your summon weapons can crit with summoner empowerment
+	Double tap {0} to deactivate Eridanus' blessing
+	'''
+EridanusTooltipOff:
+	'''
+	Your critical strikes can critically strike
+	The chance of this is equal to half of your critical strike chance (only counts up to 100%)
+	These supercrits deal 4x damage and inflict Flames of the Cosmos
+	15% increased damage for your current weapon class
+	10% increased critical strike chance for your current weapon class
+	Increases your max number of minions by 3
+	Double tap {0} to activate Eridanus' blessing
+	'''
+StyxTooltip:
+	'''
+	Grants immunity to Abominable Fang and Abominable Presence
+	20% increased damage for your current weapon class
+	Sparkling Adoration graze builds twice as fast, and halves heart cooldown
+	20% increased graze bonus damage cap
+	Spectral Abominationn periodically manifests to support your critical hits
+	You can endure any attack and survive with 1 life
+	Endurance recovers when you reach full life again
+	Attack enemies or graze to charge energy
+	Reduces damage taken at the cost of some energy
+	Double tap {0} to release energy as homing shots
+	Brandish a blade of infernal magic when fully charged
+	'''
+TrueMutantTooltip:
+	'''
+	Grants immunity to Mutant Fang
+	Phantasmal Spheres shoot deathrays at nearby enemies
+	Abominationn's Visage fights alongside you
+	Your attacks inflict God Eater and Hellfire
+	You erupt into a massive deathray whenever revived
+	20% increased weapon use speed
+	25% increased graze bonus damage cap
+	Upgrades Sparkling Adoration hearts to love rays
+	Increases damage gained per graze
+	Increases Spectral Abominationn respawn rate and damage
+	Graze Bomb unleashes a wave of spheres and destroy most hostile projectiles
+	Graze Bomb has a 60 second cooldown
+	'''

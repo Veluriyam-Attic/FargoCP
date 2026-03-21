@@ -373,6 +373,15 @@ Buffs: Remove Debuffs
 Utilities: {
 	DisplayName: Utilities
 
+	BetterEternityForce: {
+		Label: "[i:FargowiltasSouls/EternalEnergy] Force of Eternity Changes"
+		Tooltip:
+			'''
+			Alters the recipes and effects for Fargo's Soul Mod Extras' Eternity Force and Enchantments
+			Adds the sibling's Eternity accessories and Universe Core to Nekomi, Styx, True Mutant and Eridanus Enchantments
+			'''
+	}
+
 	EternityBossItems: {
 		Label: "[i:FargowiltasSouls/HeartoftheMasochist] Eternity Boss Drops"
 		Tooltip:
@@ -409,6 +418,16 @@ Utilities: {
 			'''
 	}
 
+	NoDespawn: {
+		Label: "[i:CalamityMod/CharredIdol] No Boss Despawn/Enrage"
+		Tooltip:
+			'''
+			You are always considered in a boss' biome (only affects some, should be most biome bosses)
+			Some bosses already have this effect in Eternity Mode
+			Doesn't affect underground/underworld bosses like Queen Bee or Plantera
+			'''
+	}
+
 	BundleOfBalloonsPuff: {
 		Label: "[i:FargowiltasSouls/PuffInABottle] Puff in a Bottle in Bundle of Balloons"
 		Tooltip:
@@ -439,6 +458,11 @@ Utilities: {
 		Tooltip: ""
 	}
 
+	rotting: {
+		Label: "[i:FargowiltasSouls/DarkenedHeart] Rotting"
+		Tooltip: eternity revengeance eow was pissing me off this was added out of spite
+	}
+
 	abominablePresence: {
 		Label: "[i:Fargowiltas/AbominationnMask] Abominable Presence"
 		Tooltip: ""
@@ -451,6 +475,11 @@ Utilities: {
 
 	calamitousPresence: {
 		Label: "[i:CalamityMod/CalamitasCloneMask] Calamitous Presence"
+		Tooltip: ""
+	}
+
+	SummonAnywhere: {
+		Label: Summon Anywhere
 		Tooltip: ""
 	}
 }
