@@ -1330,6 +1330,11 @@ Mods: {
 				DisplayName: Festive
 				Tooltip: Fires present bombs, drops a Present
 			}
+
+			Tricky: {
+				DisplayName: Tricky
+				Tooltip: Spawns with Imaginery clones
+			}
 		}
 
 		Projectiles.Explosion.DisplayName: Explosion

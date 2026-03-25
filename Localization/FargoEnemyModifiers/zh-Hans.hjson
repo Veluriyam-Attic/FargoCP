@@ -1330,6 +1330,11 @@ Mods: {
 				DisplayName: 喜庆
 				Tooltip: 发射礼物炸弹，掉落一个礼物
 			}
+
+			Tricky: {
+				DisplayName: 诡计
+				Tooltip: 生成一个虚拟的克隆体
+			}
 		}
 
 		Projectiles.Explosion.DisplayName: 爆炸
