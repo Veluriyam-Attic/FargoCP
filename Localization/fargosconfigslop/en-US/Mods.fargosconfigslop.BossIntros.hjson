@@ -1,0 +1,110 @@
+TrojanSquirrel: {
+	Name: Trojan Squirrel
+	Title: The Challenger of Timber
+	Music: Nuts And Bolts
+}
+
+CursedCoffin: {
+	Name: Cursed Coffin
+	Title: The Challenger of Spirit
+	Music: Shifting Sands
+}
+
+Deviantt: {
+	Name: The Deviantt
+	Title: The show of love!!!
+	Music: Sparkly Strawberry Sunrise
+}
+
+BanishedBaron: {
+	Name: The Banished Baron
+	Title: Vile Exile
+	Music: Will of the Waves
+}
+
+Lifelight: {
+	Name: Lifelight
+	Title: The Challenger of Life
+	Music: Illustrious Illuminescence
+}
+
+TimberChampion: {
+	Name: Squeaks
+	Title: The Champion of Timber
+	Music: Ordeal
+}
+
+Eridanus: {
+	Name: Eridanus
+	Title: The Champion of Cosmos
+	Music: Platinum Star
+}
+
+Abominationn: {
+	Name: The Abominationn
+	Title: The Laevateinn
+	Music: Laevateinn
+}
+
+Mutant1: {
+	Name: The Mutant
+	Title: God Eater
+	Music: Steel Red
+}
+
+Mutant2: {
+	Name: Mutant
+	Title: The Eternal
+	Music: rePrologue
+	Music2: rePrologue / Irondust
+}
+
+YharimFake: {
+	Name: Yharim
+	Title: The Godseeker
+	Music: Steel Red
+}
+
+YharimReal: {
+	Name: Yharim
+	Title: The Golden Heretic
+	Music: rePrologue
+	Music2: rePrologue / Irondust
+}
+
+Permafrost: {
+	Name: Permafrost
+	Title: Supreme Archmage
+	Music: Niflheimr
+}
+
+Musics: {
+	NutsAndBolts: Nuts And Bolts
+	ShiftingSands: Shifting Sands
+	SparklyStrawberrySunrise: Sparkly Strawberry Sunrise
+	WilloftheWaves: Will of the Waves
+	IllustriousIlluminescence: Illustrious Illuminescence
+	Ordeal: Ordeal
+	PlatinumStar: Platinum Star
+	Laevateinn: Laevateinn
+	SteelRed: Steel Red
+	RePrologue: rePrologue
+	Niflheimr: Niflheimr
+	Irondust: rePrologue / Irondust
+
+	Composers: {
+		ProduceVGM: ProduceVGM
+		Azathoth: Azathoth
+		YuriO: Yuri O
+		Sakuzyo: Sakuzyo
+		Xi: XI
+	}
+}
+
+Composers: {
+	ProduceVGM: ProduceVGM
+	Azathoth: Azathoth
+	YuriO: Yuri O
+	Sakuzyo: Sakuzyo
+	Xi: XI
+}

@@ -71,3 +71,25 @@ TrueMutantTooltip:
 	Graze Bomb unleashes a wave of spheres and destroy most hostile projectiles
 	Graze Bomb has a 60 second cooldown
 	'''
+EternityForce:
+	'''
+	Grants immunity to [i:FargowiltasSoulsDLC/NekomiEnchantment] Lovestruck, Fake Hearts, [i:FargowiltasSoulsDLC/StyxEnchantment] Abominable Fang, Abominable Presence and [i:FargowiltasSoulsDLC/TrueMutantEnchantment] Mutant Fang
+	[i:FargowiltasSoulsDLC/NekomiEnchantment] Graze attacks to gain up to x1.36 increased damage and temporarily charge [i:FargowiltasSoulsDLC/NekomiEnchantment] Nekomi and [i:FargowiltasSoulsDLC/StyxEnchantment] Styx energy
+	[i:FargowiltasSoulsDLC/StyxEnchantment] Styx energy can also be charged by attacking enemies
+	Damage bonus decreases over time and is fully lost on hit
+	[i:FargowiltasSoulsDLC/NekomiEnchantment] Your attacks periodically summon life-draining love rays, dealing magic damage
+	[i:FargowiltasSoulsDLC/StyxEnchantment] Reduces damage taken and [i:FargowiltasSoulsDLC/NekomiEnchantment] increases life regeneration at the cost of some energy
+	Abominationn's Visage [i:FargowiltasSoulsDLC/TrueMutantEnchantment] fights alongside you and [i:FargowiltasSoulsDLC/StyxEnchantment] periodically supports your critical hits
+	[i:FargowiltasSoulsDLC/TrueMutantEnchantment] Phantasmal Spheres shoot deathrays at nearby enemies
+	[i:FargowiltasSoulsDLC/TrueMutantEnchantment] Your attacks inflict God Eater and Hellfire
+	[i:FargowiltasSoulsDLC/StyxEnchantment] You can endure any attack, [i:FargowiltasSoulsDLC/TrueMutantEnchantment] erupting into a massive deathray
+	Endurance has a two minute cooldown
+	[i:FargowiltasSoulsDLC/EridanusEnchantment] Your critical strikes can critically strike
+	The chance of this is equal to half of your critical strike chance (only counts up to 100%)
+	These supercrits deal 4x damage and inflict Flames of the Cosmos
+	Double tap {0} to:
+	   [i:FargowiltasSoulsDLC/NekomiEnchantment] [c/FF309A:release Nekomi energy as life-draining hearts] [c/FFA9F0:(or wield a demon axe of love and justice when fully charged)],
+	   [i:FargowiltasSoulsDLC/StyxEnchantment] [c/FFAA0C:release Styx energy as homing shots] [c/D245CB:(or brandish a blade of infernal magic when fully charged)],
+	   [i:FargowiltasSoulsDLC/GaiaEnchantment] [c/008000:toggle Gaia's blessing, increasing offensive stats but reducing defensive stats],
+	   [i:FargowiltasSoulsDLC/EridanusEnchantment] and [c/800080:Eridanus' blessing, which empowers a weapon class, switching every 12.5 seconds]
+	'''
