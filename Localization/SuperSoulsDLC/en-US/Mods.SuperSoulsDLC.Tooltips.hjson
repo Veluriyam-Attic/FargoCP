@@ -1,5 +1,3 @@
-EnchantmentTooltips.ElementalEnchantment: "[i:SOTS/ElementalHelmet] Press {0} to teleport to your cursor, dealing 200% of your defense as damage to all enemies in your path"
-
 SOTSSoulTooltips: {
 	BerserkerSoul: Effects of the Serpent Spine, Hyperdrive, and Supernova Emblem
 	ArchWizardSoul: Effects of Plasma Shrimp and Wishing Star
@@ -16,18 +14,18 @@ HJSoulTooltips: {
 	ArchWizardSoul: Effects of Starflower and Fungus Deluxe
 	SniperSoul: Effects of The Batter, Crossbow Scope, and Trash Bag
 	ConjuristSoul: Effects of Divine Hairpin, Gauntlet of the Commander, and Armillary Sphere
-	ColossusSoul: Effects of Vanguard Breastpiece, Master Shield, Ancient Blessing, and Eye of the Ocean
+	ColossusSoul: Effects of Vanguard Breastpiece, Master Shield, and Ancient Blessing
 	WorldShaperSoul: Effects of Prison Searchlight, Goblin Voodoo Doll, and Abyss Core
 	SupersonicSoul: Effects of Dark Horseshoe Balloon
 	TrawlerSoul: Effects of Nerve Fibre
 }
 
 MOSoulTooltips: {
-	BerserkerSoul: Effects of Solar Flare Gauntlet and Master Yoyo Set
+	BerserkerSoul: Effects of Solar Flare Gauntlet, Master Yoyo Set, and Rainbow Curse
 	ArchWizardSoul: Effects of Nebula Magnet, Empowerment Bloom, and Cursed Flower
 	SniperSoul: Effects of Vortex Scope and Dark Ice Quiver
 	ConjuristSoul: Effects of Stardust Script
-	ColossusSoul: Effects of Protection Egis and National Defense
+	ColossusSoul: Effects of Protection Egis, National Defense, Ignition Stone, and Super Medkit
 	WorldShaperSoul: Effects of Traveller's Skydiving Kit, Survival Tracker, Summoner's Tracker, and Journal
-	SupersonicSoul: Effects of Sparkling Wellingtons, Triplet's Barrage Shield, and Ceramic Balloon
+	SupersonicSoul: Effects of Sparkling Wellingtons, Triplet's Barrage Shield, Ceramic Balloon, and Charm of Charms
 }

@@ -16,11 +16,47 @@ Biologic: Gas Station buff also increases life regeneration
 Chrono: Cooldown reduced by 30 seconds
 Equilibrium: Fog spawn rate doubled
 FiveStarGeneral: Damage nerf improved to 28%
-AncientSand: Fires more cactus spines more often
+AncientSand: Sandstorm damage increased, has a higher dissipate threshold
 AncientCrystal: Spawns more shards on hit
 Crystal: Spawns more shards on hit
 Fire: Fire waves deal 75% damage
 Forests: Buff duration doubled
 FakeFishyum: Summons 2 fishyum guardians with increased damage
-ExoticCactus: Ground pound grants an additional 20 defense
+ExoticCactus: Fires more cactus spines more often
 Reptile: Damage bonus deteriorates slower
+Water: Water pulses can heal more
+IceCrystal: Ice spike cooldown halved
+DesertWood: Burning Sand lasts longer
+DepthsMine: More valuables are dropped
+ExplosiveBox: Explosion deals more damage
+Otherworldly: Grants every tier 2 and 3 Old One's Army armor set bonus
+BirchWood: Movement speeds further increased
+DynastyWood: The gong explosion deals more damage
+Camo: Reduces incoming projectile damage by 20%
+Origami: Paper cut bleeding lasts longer
+Painter: Paint bonuses are stronger
+Wither: Enrage duration is longer
+AncientTantalum: Additionally grants immunity to distorted and obstructed
+AncientZinc: More dust is thrown out
+Magnesium: The crystal deals more damage
+Mercury: Mercury poisoning lasts longer
+Zinc: The zinc shield deals more damage
+AncientGarnet: Wither lasts longer
+Renaissance: Slowed lasts longer
+Shimmer: Sparkle lasts longer
+ClayArtisan: Life regen further increased on soils
+Astral: More orbitals can spawn
+AncientSnow: More icicles fall
+Charcoal: Enemies under the reticle will take 10% more damage
+ExiledPrince: Immune time increased to 2 seconds
+Chroma: Crystal damage increased
+Frigid: Shard damage increased
+Drillforge: Missile tail attacks faster
+Earthen: Attack shred stacks twice as fast
+Elemental: Enemies hit by the teleport are frozen, teleport damage range increased by 50%, teleport cooldown reduced to 6 seconds
+FrostArtifact: More cannons are summoned
+PatchLeather: 5 Snakes are summoned
+TwilightAssassin: Up to 9 swords can be active
+Vespera: Increases max void by 100 and void gain by 2
+Vibrant: 2 bolts are fired
+Wormwood: Up to 5 hooks are summoned

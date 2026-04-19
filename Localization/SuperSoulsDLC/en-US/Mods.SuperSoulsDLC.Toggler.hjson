@@ -4,29 +4,22 @@ BalanceHeader: "{$Mods.SuperSoulsDLC.Items.BalanceForce.DisplayName}"
 ConclusionHeader: "{$Mods.SuperSoulsDLC.Items.ConclusionForce.DisplayName}"
 HighlandHeader: "{$Mods.SuperSoulsDLC.Items.HighlandForce.DisplayName}"
 BiotaHeader: "{$Mods.SuperSoulsDLC.Items.BiotaForce.DisplayName}"
-DarkHeader: "{$Mods.SuperSoulsDLC.Items.DarkForce.DisplayName}"
-DeepHeader: "{$Mods.SuperSoulsDLC.Items.DeepForce.DisplayName}"
-FabricationHeader: "{$Mods.SuperSoulsDLC.Items.FabricationForce.DisplayName}"
-LumberHeader: "{$Mods.SuperSoulsDLC.Items.LumberForce.DisplayName}"
-StoneHeader: "{$Mods.SuperSoulsDLC.Items.StoneForce.DisplayName}"
+CapitalHeader: "{$Mods.SuperSoulsDLC.Items.CapitalForce.DisplayName}"
+DoomHeader: "{$Mods.SuperSoulsDLC.Items.DoomForce.DisplayName}"
+HardwareHeader: "{$Mods.SuperSoulsDLC.Items.HardwareForce.DisplayName}"
+MysticismHeader: "{$Mods.SuperSoulsDLC.Items.MysticismForce.DisplayName}"
+StarsHeader: "{$Mods.SuperSoulsDLC.Items.StarsForce.DisplayName}"
 WorldHeader: "{$Mods.SuperSoulsDLC.Items.WorldForce.DisplayName}"
 WormwoodEffect: Blooming Hooks
-WormwoodDefenseEffect: Minion Defense
-FlowerCrownEffect: Flower Crown
-BotanicalSymbioteEffect: Botanical Symbiote
-LittleWoesEffect: Little Woes
 VoidspaceEffect: Voidspace Flames
-SubspaceLocketEffect: Subspace Locket
 VoidspaceEmblemEffect: Voidspace Emblem
 BagOfCharmsEffect: Bag of Charms
-VibrantEffect: Vibrant Pistol Boost
+VibrantEffect: Vibrant Bolts
 HarvestersScytheEffect: Harvester's Scythe
 GuideToIlluminationEffect: Guide to Illumination
 MrGlorpEffect: Mr. Glorp
 IlluminantLanternEffect: Illuminant Lantern
-SafetySwitchEffect: Safety Switch
-RockingHorseEffect: Rocking Horse
-TwilightAssassinEffect: Holo Eye
+TwilightAssassinEffect: Holo Blades
 BladeNecklaceEffect: Blade Necklace
 BlinkPackEffect: Blink Pack
 GravityAnchorEffect: Gravity Anchor
@@ -38,7 +31,7 @@ FrostArtifactEffect: Polar Cannons
 FrigidHourglassEffect: Frigid Hourglass
 ShardGuardEffect: Shard Guard
 EndothermicAfterburnerEffect: Endothermic Afterburner
-FrigidEffect: Frigid Javelin Boost
+FrigidEffect: Shatter Shards
 FrigidRobeEffect: Frigid Javelin Bounce
 ShatterShardChestplateEffect: Shatter Shards
 ShoeIceEffect: Shoe Ice
@@ -47,11 +40,11 @@ ElementalEffect: Elemental Blink
 FocusReticleEffect: Focus Reticle
 AcidicInjectionEffect: Overkill Injection
 VoidmageIncubatorEffect: Voidmage Incubator
-EarthenEffect: Melee Shred
+EarthenEffect: Attack Shred
 GreedierRingEffect: Greedier Ring
 RockCandyEffect: Rock Candy
 AutoClickerEffect: Auto Clicker
-CursedEffect: Ruby Monolith
+CursedEffect: Curse Vision
 HeartInAJarEffect: Heart in a Jar
 CursedAppleEffect: Cursed Apple
 SyntheticLiverEffect: Synthetic Liver
@@ -131,107 +124,49 @@ AbyssCoreEffect: Abyss Core
 DarkHorseshoeBalloonEffect: Dark Horseshoe Balloon
 NerveFibreEffect: Nerve Fibre
 PureHeartEffect: Pure Heart
-SolarGauntletEffect: Solar Flare Gauntlet
-MasterYoyoSetEffect: Master Yoyo Set
-NebulaMagnetEffect: Nebula Magnet
-EmpowermentBloomEffect: Empowerment Bloom
+BlastShieldEffect: Blast Shield
+RainbowCurseEffect: Hide Transformation Visuals
 CursedFlowerEffect: Cursed Flower
-VortexScopeEffect: Vortex Scope
-DarkIceQuiverEffect: Dark Ice Quiver
-StardustScriptEffect: Stardust Script
-ProtectionEgisEffect: Protection Egis
-NationalDefenseEffect: National Defense
-ExplorationKitEffect: Exploration Kit
-SurvivalTrackerEffect: Survival Tracker
-SummonersTrackerEffect: Summoner's Tracker
-JournalEffect: Journal
-SparklingWellingtonsEffect: Sparkling Wellingtons
-TripletsShieldEffect: Triplet's Barrage Shield
-CeramicBalloonEffect: Ceramic Balloon
-AncientGarnetEffect: Inflict Wither
-GarnetCoreEffect: Cerise Stone
-FlintEffect: Flint
-AncientTantalumEffect: Electrified Immunity
-TurtleScentEffect: Turtle Scent
-SecurityGloveEffect: Security Glove
-AncientZincEffect: Fracture Immunity
-WhirlwindInABottleEffect: Whirlwind in a Bottle
-TantalumEffect: Tantalum Jump
-CharmOfLuckEffect: Charm of Luck
-WitherEffect: Wither Rage
-DemonCharmEffect: Demon Charm
-ScentKnucklesEffect: Scent Knuckles
-ZincEffect: Zinc Shield
-SanguineScrollEffect: Sanguine Scroll
-CalciumDoseEffect: Calcium Dose
-PooInABottleEffect: Poo in a Bottle
-BlueGlowingMushroomEffect: Blue Glowing Mushroom
-DynastyWoodEffect: Dynasty Gong
-MahoganyScrollEffect: Mahogany Scroll
-GreenGlowingMushroomEffect: Green Glowing Mushroom
-ExoticCactusEffect: Exotic Thorns
-ExoticPricklyPearEffect: Exotic Prickly Pear
-GuideToHealthRetributionEffect: Guide to Health Retribution
-ForestsEffect: Forest's Boost
-BatScentEffect: Bat Scent
-ReptileEffect: Summon Rage
-ViciousCellsEffect: Vicious Cells
-ThornCrownEffect: Thorn Crown
-ExiledPrinceEffect: Exiled Dash
-ExiledGelEffect: Exiled Gel
-JungleHeartEffect: Jungle's Core
-HollowwoodEffect: Void Resistance
-ShadeCordsEffect: Shade Cords
-IgnitionStoneEffect: Ignition Stone
-OtherworldlyEffect: All Old One's Set Bonus
-SuperMedkitEffect: Super Medkit
-RainbowCurseEffect: Rainbow Curse
-TimeEffect: Time Lock
-TectonicEffect: Rock Ground Pound
-MagneticChargeEffect: Magnetic Charge
-VileCellsEffect: Vile Cells
-VoidEffect: Void Ground Pound
-RoyalDinnerServiceEffect: Royal Dinner Service
-TrenchSackEffect: Trench Sack
-ShuitherEffect: Shuither
-InkPotEffect: Ink Pot
-OrigamiEffect: Paper Cuts
-RealitySkullEffect: Reality Skull
-VoodooJetsEffect: Voodoo Jets
-PainterEffect: Additional Paint Drops
-RecycledEffect: Minion Commanding
-ChemicalNeutralizerEffect: Chemical Neutralizer
-ToyEffect: Projectile Cursor Following
-ForbiddenBandanaEffect: Forbidden Bandana
-AncientCrystalEffect: On Hit Crystal Shards
-CrystalEffect: Crystal Shard Explosion
-CrystalGlovesEffect: Crystal Gloves
-ShimmerGlowingMushroomEffect: Gloopy Shimmering Mushroom
-FlashlightEffect: Flashlight
-RedGlowingMushroomEffect: Red Glowing Mushroom
-ExplosiveBoxEffect: Death Explosion
-ShuttlecocksEffect: Shuttlecocks
-TechnoboostEffect: Technoboost
-FakeFishyumEffect: Fishyum Minion
-CubeFolksBlessEffect: Cube Folk's Bless
-MagnesiumEffect: Magnesium Minion
-BelovezoarEffect: Belovezoar
-NoeticStoneEffect: Noetic Stone
-MercuryEffect: Mercury Dash
-SmokeInABottleEffect: Smoke in a Bottle
-CharcoalEffect: Charcoal Aim
-PaperWorksEffect: Paper Fireworks
-AmmoBeltEffect: Ammo Belt
-FireEffect: Yoyo Fire Waves
-EnchantedSheathEffect: Enchanted Sheath
-MagmaWatchEffect: Magma Watch
-IceCrystalEffect: 50% Mana Potion Save
-TundraPillowEffect: Tundra Pillow
-FrozenLilyBeeEffect: Frozen Lily Bee
-SandEffect: Desert Movement Speed
-BeastHandlerEffect: Beast Handler
-PygmyExtensionEffect: Pygmy Extension
-WaterEffect: Water Healing
-AquaWatchEffect: Aqua Watch
+HomingStringSightEffect: Homing String Sight
+ManaTankEffect: Mana Sharing
 GravimeterEffect: Gravimeter
 DustTyphoonEffect: Dust Typhoon
+CharmOfCharmsEffect: Ice Double Dash
+AncientCrystalEffect: On Hit Crystal Shards
+AncientGarnetEffect: Withered Attacks
+AncientRockEffect: Tool Boost
+AncientSandEffect: Sandstorm
+AncientSnowEffect: Icicle Rain
+AncientTantalumEffect: Various Debuff Immunity
+AncientZincEffect: Zinc Dust
+AstralEffect: Astral Orbitals
+BirchWoodEffect: Wind Movement Boost
+CamoEffect: Incoming Projectile Damage Reduced
+CharcoalEffect: Charcoal Reticle
+ChromaEffect: Chroma Crystal
+ClayArtisanEffect: Soil Regen
+CrystalEffect: Crystal Shard Explosion
+DepthsMineEffect: Extra Stone Drops
+FlashlightEffect: Flashlight
+DesertWoodEffect: Burning Sand Debuff
+DynastyWoodEffect: Dynasty Gong Explosion
+ExiledPrinceEffect: Grappling Immunity
+ExoticCactusEffect: Cactus Spine Attack
+ExplosiveBoxEffect: Death Explosion
+FakeFishyumEffect: Fishyum Guardian
+FireEffect: Yoyo Fire Waves
+ForestsEffect: Spirit Buff
+HollowwoodEffect: Decreased Void Effects
+IceCrystalEffect: Ice Spikes
+MagnesiumEffect: Magnesium Minion
+MercuryEffect: Mercury Poisoning
+OrigamiEffect: Paper Cuts
+OtherworldlyEffect: Old One's Army Bonuses
+PainterEffect: Paint Boosts
+RenaissanceEffect: Slow Enemies
+ReptileEffect: Rage Damage Boost
+ShimmerEffect: Sparkle Enemies
+TantalumEffect: Tantalum Jump
+TimeEffect: Time Lock
+WaterEffect: Water Healing
+ZincEffect: Zinc Shield

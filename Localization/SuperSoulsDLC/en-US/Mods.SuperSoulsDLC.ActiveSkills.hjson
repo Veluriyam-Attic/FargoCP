@@ -28,7 +28,32 @@ ChronoEffect: {
 	Tooltip: Death is delayed by 10 seconds if you take a fatal blow
 }
 
-ExoticCactusEffect: {
-	DisplayName: Cactus Ground Pound
-	Tooltip: Slams you down onto the ground
+ExplosiveEffect: {
+	DisplayName: Create Dynamite
+	Tooltip: Create a stick of dynamite to blow up tiles
+}
+
+RecycledEffect: {
+	DisplayName: Command Minions
+	Tooltip: Command your minions to the mouse position
+}
+
+ToyEffect: {
+	DisplayName: Projectiles Follow Cursor
+	Tooltip: Hold to have projectiles follow the cursor
+}
+
+WitherEffect: {
+	DisplayName: Wither Enrage
+	Tooltip: Go berserk and increase all stats, however you take wither damage
+}
+
+CurseSwapEffect: {
+	DisplayName: Curse Swap
+	Tooltip: Switches the curse into offensive mode, decreasing Curse Vision's Flare cooldown by 80%, increasing void drain by 6, and void damage by 10%
+}
+
+ElementalEffect: {
+	DisplayName: Elemental Blink
+	Tooltip: Teleports the player to the cursor, dealing damage along its path equal to 200% of the player's defense
 }
