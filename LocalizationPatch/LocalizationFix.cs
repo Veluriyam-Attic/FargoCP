@@ -68,8 +68,8 @@ namespace FargoCP.LocalizationPatch
         public override void ModifyTooltips(Item item, List<TooltipLine> tooltips)
         {
             //原版物品和其他模组物品跳出判断，避免栈溢出
-            if (item.ModItem == null || item.ModItem.Mod.Name != "FargosSoulsModDLCRecreated") return;
-
+            if (item.ModItem == null) 
+                return;
 
             //删除原模组的文本
             if (item.ModItem.Mod.Name == "FargosSoulsModDLCRecreated" && item.ModItem !=null)
@@ -227,8 +227,9 @@ namespace FargoCP.LocalizationPatch
 
             #region Fargo魂
 
-            //删除Fargo魂里的原模组文本
-            if (item.ModItem.Mod.Name == "FargowiltasSouls" && item.ModItem != null && ModLoader.HasMod("FargowiltasSouls"))
+            //删除修改Fargo魂的模组文本
+            if (item.ModItem.Mod.Name == "FargowiltasSouls" && 
+                item.ModItem != null)
             {
                 foreach (TooltipLine tooltip in tooltips)
                 {
