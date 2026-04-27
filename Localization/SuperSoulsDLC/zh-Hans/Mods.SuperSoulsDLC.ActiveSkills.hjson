@@ -24,11 +24,44 @@ BiologicEffect: {
 }
 
 ChronoEffect: {
-	DisplayName: 接了点时间
+	DisplayName: 借了点时间
 	Tooltip: 如果你受到致命伤害，死亡将被推迟10秒
 }
 
-ExoticCactusEffect: {
-	DisplayName: 仙人掌震击
-	Tooltip: 使你猛击落地
+ExplosiveEffect: {
+	DisplayName: 放置炸药
+	Tooltip: 在你的位置放置一个炸药炸开物块
+}
+
+RecycledEffect: {
+	DisplayName: 指挥仆从
+	Tooltip: 指挥你的仆从到你的光标位置
+}
+
+ToyEffect: {
+	DisplayName: 弹幕跟随光标
+	Tooltip: 按住热键使弹幕跟随光标
+}
+
+WitherEffect: {
+	DisplayName: 凋零狂暴
+	Tooltip: 进入狂暴状态并提升所有属性，但会受到凋零伤害
+}
+
+CurseSwapEffect: {
+	DisplayName: 诅咒切换
+	Tooltip: 
+		'''
+		红玉石碑变为进攻姿态
+		进攻姿态时会降低80%诅咒爆闪冷却时间，增加6点虚空流失速度和10%虚空伤害
+		'''
+}
+
+ElementalEffect: {
+	DisplayName: 元素瞬闪
+	Tooltip: 
+		'''
+		将你传送至光标位置
+		传送途中造成等于玩家防御值200%的伤害
+		'''
 }

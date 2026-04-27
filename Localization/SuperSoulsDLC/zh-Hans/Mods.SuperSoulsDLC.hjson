@@ -3,66 +3,33 @@ Items: {
 		DisplayName: 诅咒魔石
 		Tooltip:
 			'''
-			[i:SOTS/CursedHood] 召唤一块红玉石碑在你身边
-			[i:SOTS/CursedHood] 离最近的敌人将受到诅咒
-			   -被诅咒的敌人受到伤害时会被爆闪，并受到140%额外伤害，且会对附近敌人造成140%伤害
-			   -此效果有2秒冷却时间
-			[i:SOTS/CursedApple] 获得诅咒苹果的效果
-			[i:SOTS/HeartInAJar] 获得罐中之心的效果
-			[i:SOTS/PricklyPearShield] 获得刺梨盾的效果
-			[i:SOTS/RotHeart] 获得腐烂之心的效果
+			离最近的敌人将受到诅咒
+			被诅咒的敌人受到伤害时会被爆闪，并受到140%额外伤害，且会对附近敌人造成140%伤害
+			此效果有2秒冷却时间
 			'''
 	}
 
 	DrillforgeEnchant: {
 		DisplayName: 钻炉魔石
-		Tooltip:
-			'''
-			[i:SOTS/ExcavatorHelmet] 获得一条导弹发射器尾部，会消耗1点虚空值攻击附近敌人
-			[i:SOTS/ExperimentalInjection] 获得所有实验注射器的效果：
-			   -首次攻击会施加永久的出血，每秒造成5点伤害，并增加20点最大生命值
-			   -首次攻击会必定暴击，并增加20%暴击伤害
-			   -首次攻击会造成中毒debuff，并吸取生命值
-			   -增加5%伤害，攻击速度，移动速度
-			[i:SOTS/TinyPlanetoid] 获得微型小行星的效果
-			'''
+		Tooltip: 获得一条导弹发射器尾部，会消耗1点虚空值攻击附近敌人
 	}
 
 	EarthenEnchant: {
 		DisplayName: 陆地魔石
-		Tooltip:
-			'''
-			[i:SOTS/EarthenHelmet] 近战攻击有概率对敌人施加一种可叠加的永久损伤，使敌人在所有攻击中受到额外的伤害
-			[i:SOTS/EarthenHelmet] 穿戴时会增强视线并提供光照
-			[i:SOTS/EarthenHelmet] 增加10%挖矿速度和移动速度
-			[i:SOTS/RockCandy] 获得岩石冰糖的效果
-			[i:SOTS/AutoClicker] 获得连点手套的效果
-			'''
+		Tooltip: 近战攻击有概率对敌人施加一种可叠加的永久损伤，使敌人在所有攻击中受到额外的伤害
 	}
 
 	ElementalEnchant: {
 		DisplayName: 元素魔石
-		Tooltip:
-			'''
-			[i:SOTS/ElementalHelmet] 按下'{0}'键传送至鼠标处，对你路径上的所有敌人造成你防御值的200%点伤害
-			[i:SOTS/ElementalHelmet] 增加100点最大虚空值
-			[i:SOTS/ElementalHelmet] 增加3点虚空恢复量
-			[i:SOTS/FocusReticle] 获得聚焦十字镜的效果
-			[i:SOTS/AcidicInjection] 获得残杀注射器的效果
-			[i:SOTS/MidnightPrism] 获得午夜棱镜的效果
-			'''
+		Tooltip: 允许你传送至你的光标位置
 	}
 
 	FrigidEnchant: {
 		DisplayName: 极寒魔石
 		Tooltip:
 			'''
-			[i:SOTS/FrigidCrown] 获得溜冰鞋的效果
-			[i:SOTS/FrigidRobe] 极寒标枪获得额外3次弹跳机会
-			[i:SOTS/FrigidRobe] 极寒标枪不再消耗虚空值
-			[i:SOTS/ShatterShardChestplate] 受伤时会生成1-3块冰碎块围绕你
-			[i:SOTS/ShatterShardChestplate] 免疫冷冻，冰冻和霜冻debuff
-			[i:SOTS/ShoeIce] 获得冰鞋的效果
+			受伤时会生成1-3块冰碎块围绕你
+			免疫冷冻，冰冻和霜冻减益
 			'''
 	}
 
@@ -70,98 +37,59 @@ Items: {
 		DisplayName: 霜遗魔石
 		Tooltip:
 			'''
-			[i:SOTS/FrostArtifactHelmet] 大多数近战和远程攻击都会召唤少量极地炮，每个极地炮造成25%伤害
+			攻击会召唤大量极地炮，每个极地炮造成25%伤害
 			[i:SuperSoulsDLC/FrigidEnchant] 获得极寒魔石的效果
-			[i:SOTS/FrigidHourglass] 获得极寒沙漏的效果
-			[i:SOTS/ShardGuard] 获得冰碎块护盾的效果
-			[i:SOTS/EndothermicAfterburner] 获得吸热后燃器的效果
 			'''
 	}
 
 	PatchLeatherEnchant: {
 		DisplayName: 皮衣魔石
-		Tooltip:
-			'''
-			[i:SOTS/PatchLeatherHat] 召唤3只飞蛇协助战斗
-			[i:SOTS/SunlightAmulet] 获得日辉护身符的效果
-			[i:SOTS/SteelerWheeler] 获得钢轮推车的效果
-			'''
+		Tooltip: 召唤3只飞蛇协助战斗
 	}
 
 	TwilightAssassinEnchant: {
 		DisplayName: 昏影魔石
 		Tooltip:
 			'''
-			[i:SOTS/TwilightAssassinsCirclet] 全息之眼现在会为你协助你战斗
-			[i:SOTS/TwilightAssassinsCirclet] 增加50点最大虚空值
-			[i:SOTS/TwilightAssassinsLeggings] 降低20%闪瞬包裹冷却时间
-			[i:SOTS/BladeNecklace] 获得剑刃项链的效果
-			[i:SOTS/BlinkPack] 获得闪瞬包裹的效果
-			[i:SOTS/GravityAnchor] 获得重力锚的效果
+			定期积攒最多5把围绕你旋转的全息剑
+			每10次攻击都会向鼠标处发射剑刃，造成近战伤害
 			'''
 	}
 
 	VesperaEnchant: {
 		DisplayName: 薄暮魔石
-		Tooltip:
-			'''
-			[i:SOTS/VesperaMask] 增加50点最大虚空值和50%虚空恢复量
-			[i:SOTS/VesperaMask] 增加1点虚空恢复量
-			[i:SOTS/IlluminantLantern] 获得辉光灯笼的效果
-			[i:SOTS/SafetySwitch] 获得安全开关的效果
-			[i:SOTS/RockingHorse] 获得摇摇马的效果
-			'''
+		Tooltip: 增加50点最大虚空值和1点虚空恢复量
 	}
 
 	VibrantEnchant: {
 		DisplayName: 振荡魔石
-		Tooltip:
-			'''
-			[i:SOTS/VibrantHelmet] 以射击精度为代价，使振荡手枪一次发射三发子弹
-			[i:SOTS/VibrantHelmet] 增加2点虚空恢复量
-			[i:SOTS/HarvestersScythe] 获得收割者之镰的效果
-			[i:SOTS/GuideToIllumination] 获得辉光指南的效果
-			'''
+		Tooltip: 虚空武器会额外射出振荡闪电
 	}
 
 	VoidspaceRangerEnchant: {
 		DisplayName: 虚游魔石
 		Tooltip:
 			'''
-			[i:SOTS/VoidspaceMask] 攻击会永久造成亚空之焰debuff，每秒造成10点伤害
-			[i:SOTS/VoidspaceMask] 当一个拥有亚空之焰的敌人被杀死时，它们会对其他所有敌人造成伤害，伤害相当于从亚空之焰中累计受到的伤害
-			[i:SOTS/VoidspaceMask] 增加50点最大虚空值
-			[i:SOTS/VoidspaceMask] 增加4点虚空恢复量
-			[i:SOTS/VoidspaceBreastplate] 当受伤时，所受伤害的15%会转化为虚空值
-			[i:SOTS/VoidspaceBreastplate] 在使用虚空值时，使用的15%虚空值会转化为生命值
-			[i:SOTS/SubspaceLocket] 获得亚空间锁盒的效果
-			[i:SOTS/VoidspaceEmblem] 获得虚空间徽章的效果
-			[i:SOTS/BagOfCharms] 获得护身符袋的效果
+			攻击会永久造成亚空之焰减益，每秒造成10点伤害
+			当一个拥有亚空之焰的敌人被杀死时，它们会对其他所有敌人造成伤害，伤害相当于从亚空之焰中累计受到的伤害
 			'''
 	}
 
 	WormwoodEnchant: {
 		DisplayName: 流胶木魔石
-		Tooltip:
-			'''
-			[i:SOTS/NatureWreath] 召唤3个盛花钩协助战斗
-			[i:SOTS/NatureWreath] 每个生效的召唤物都会增加防御值
-			[i:SOTS/FlowerCrown] 获得繁花头冠的效果
-			[i:SOTS/BotanicalSymbiote] 获得植物共生体的效果
-			[i:SOTS/LittleWoes] 获得小哀灵的效果
-			'''
+		Tooltip: 召唤3个盛花钩协助战斗
 	}
 
 	ChaosForce: {
 		DisplayName: 混沌之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/CursedEnchant] 获得诅咒魔石的效果
-			[i:SuperSoulsDLC/DrillforgeEnchant] 获得钻炉魔石的效果
-			[i:SuperSoulsDLC/PatchLeatherEnchant] 获得皮衣魔石的效果
-			[i:SuperSoulsDLC/VesperaEnchant] 获得薄暮魔石的效果
-			[i:SuperSoulsDLC/VibrantEnchant] 获得振荡魔石的效果
-			[i:SuperSoulsDLC/WormwoodEnchant] 获得流胶木魔石的效果
+			[i:SuperSoulsDLC/CursedEnchant] 离最近的敌人将受到诅咒
+			[i:SuperSoulsDLC/DrillforgeEnchant] 获得一条导弹发射器尾部，会消耗1点虚空值攻击附近敌人
+			[i:SuperSoulsDLC/PatchLeatherEnchant] 召唤5只飞蛇协助战斗
+			[i:SuperSoulsDLC/VesperaEnchant] 增加100点最大虚空值和2点虚空恢复量
+			[i:SuperSoulsDLC/VibrantEnchant] 虚空武器会额外射出振荡闪电
+			[i:SuperSoulsDLC/WormwoodEnchant] 召唤5个盛花钩协助战斗
 			'''
 	}
 
@@ -169,11 +97,12 @@ Items: {
 		DisplayName: 嵌形之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/EarthenEnchant] 获得陆地魔石的效果
-			[i:SuperSoulsDLC/ElementalEnchant] 获得元素魔石的效果
-			[i:SuperSoulsDLC/FrostArtifactEnchant] 获得霜遗魔石的效果
-			[i:SuperSoulsDLC/TwilightAssassinEnchant] 获得薄光刺客魔石的效果
-			[i:SuperSoulsDLC/VoidspaceRangerEnchant] 获得虚游魔石的效果
+			[i:SuperSoulsDLC/EarthenEnchant] 近战攻击有概率对敌人施加一种可叠加的永久损伤，使敌人在所有攻击中受到额外的伤害
+			[i:SuperSoulsDLC/ElementalEnchant] 允许你传送至你的光标位置
+			[i:SuperSoulsDLC/FrostArtifactEnchant] 攻击会召唤大量极地炮，每个极地炮造成25%伤害
+			[i:SuperSoulsDLC/TwilightAssassinEnchant] 定期积攒最多9把围绕你旋转的全息剑
+			[i:SuperSoulsDLC/TwilightAssassinEnchant] 每10次攻击都会向鼠标处发射剑刃，造成近战伤害
+			[i:SuperSoulsDLC/VoidspaceRangerEnchant] 攻击会永久造成亚空之焰减益，每秒造成10点伤害
 			'''
 	}
 
@@ -277,7 +206,7 @@ Items: {
 		DisplayName: 太阳神魔石
 		Tooltip:
 			'''
-			爆炸会造成500点近战伤害加上2倍你手持武器的伤害
+			爆炸会造成500点近战伤害加上你手持武器的2倍伤害
 			并施加2分钟的太阳熔毁减益
 			此效果有5分钟的冷却时间
 			'''
@@ -329,6 +258,7 @@ Items: {
 			[i:SuperSoulsDLC/OnyxEnchant] 攻击敌怪在其头顶召唤玛瑙
 			[i:SuperSoulsDLC/OnyxEnchant] 击碎玛瑙会让碎片掉落在目标敌怪
 			[i:SuperSoulsDLC/SunGodEnchant] 造成巨大的太阳爆炸
+			[i:SuperSoulsDLC/SunGodEnchant] 爆炸会造成500点近战伤害加上你手持武器的4倍伤害
 			'''
 	}
 
@@ -349,11 +279,7 @@ Items: {
 
 	AncientGarnetEnchant: {
 		DisplayName: 远古石榴石魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/AncientGH1] 你的所有攻击会施加石榴石凋零减益
-			[i:MartainsOrder/GarnetCore] 获得樱桃石的效果
-			'''
+		Tooltip: 你的所有攻击会施加石榴石凋零减益
 	}
 
 	AncientRockEnchant: {
@@ -363,89 +289,6 @@ Items: {
 
 	AncientSandEnchant: {
 		DisplayName: 远古沙衣魔石
-		Tooltip: 攻击会周期性地携带几根仙人掌刺，并造成投掷伤害
-	}
-
-	AncientTantalumEnchant: {
-		DisplayName: 远古钽魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/AncientTHead] 使你免疫带电减益
-			[i:MartainsOrder/TurtleScent] 获得陆龟香水的效果
-			[i:MartainsOrder/SecurityGlove] 获得安全手套的效果
-			'''
-	}
-
-	AncientZincEnchant: {
-		DisplayName: 远古锌魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/AncientZHead] 使你免疫骨折减益
-			[i:MartainsOrder/WhirlwindInABottle] 获得旋风瓶的效果
-			'''
-	}
-
-	BirchWoodEnchant: {
-		DisplayName: 白桦木魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/BirchWoodHelmet] 增加10%移动速度和攻击速度
-			[i:MartainsOrder/PooInABottle] 获得便便瓶的效果
-			'''
-	}
-
-	CamoEnchant: {
-		DisplayName: 迷彩魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/CamoHelmet] 降低20%来自弹幕的伤害
-			[i:MartainsOrder/CamoHelmet] 延长受击后的无敌时间
-			[i:MartainsOrder/TrenchSack] 获得战壕麻袋的效果
-			[i:MartainsOrder/Shuither] 获得箭鞘的效果
-			'''
-	}
-
-	CharcoalEnchant: {
-		DisplayName: 木炭魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/CharAH] 使你获得一个跟随光标的木炭准星
-			[i:MartainsOrder/PaperWorks] 获得纸烟花的效果
-			[i:MartainsOrder/AmmoBelt] 获得弹药腰带的效果
-			'''
-	}
-
-	ClayArtisanEnchant: {
-		DisplayName: 陶艺魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/ClayAH] 增加1点艺术伤害
-			[i:MartainsOrder/InkPot] 获得墨水瓶的效果
-			'''
-	}
-
-	CrystalEnchant: {
-		DisplayName: 水晶魔石
-		Tooltip:
-			'''
-			受伤时会射出水晶碎片
-			攻击命中会偶尔产生水晶碎片
-			'''
-	}
-
-	DepthsMineEnchant: {
-		DisplayName: 深掘魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/MinerHelmet] 增加15%挖掘速度
-			[i:MartainsOrder/MinerHelmet] 穿戴时提供适当照明
-			[i:MartainsOrder/Flashlight] 获得手电筒的效果
-			[i:MartainsOrder/RedGlowingMushroom] 获得红发光蘑菇的效果
-			'''
-	}
-
-	DesertWoodEnchant: {
-		DisplayName: 荒漠木魔石
 		Tooltip:
 			'''
 			当你静止不动时，会在你周围逐渐形成沙尘暴
@@ -454,23 +297,94 @@ Items: {
 			'''
 	}
 
-	DynastyWoodEnchant: {
-		DisplayName: 王朝木魔石
+	AncientSnowEnchant: {
+		DisplayName: 远古雪甲魔石
+		Tooltip: 击中敌怪会降下冰柱攻击，造成魔法伤害
+	}
+
+	AncientTantalumEnchant: {
+		DisplayName: 远古钽魔石
+		Tooltip: 使你免疫眩晕、困惑和带电减益
+	}
+
+	AncientZincEnchant: {
+		DisplayName: 远古锌魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/DynastyWoodHelmet] 暴击造成响锣爆炸
-			[i:MartainsOrder/MahoganyScroll] 获得红木卷轴的效果
-			[i:MartainsOrder/GreenGlowingMushroom] 获得绿发光蘑菇的效果
+			使你免疫骨折减益
+			攻击时会释放锌尘，造成魔法伤害
 			'''
+	}
+
+	AstralEnchant: {
+		DisplayName: 繁星魔石
+		Tooltip:
+			'''
+			击中敌怪生成轨道球
+			每个轨道球增加5点防御值
+			'''
+	}
+
+	BirchWoodEnchant: {
+		DisplayName: 白桦木魔石
+		Tooltip: 根据风速提升5%-10%的移动速度
+	}
+
+	CamoEnchant: {
+		DisplayName: 迷彩魔石
+		Tooltip: 降低10%来自弹幕的伤害
+	}
+
+	CharcoalEnchant: {
+		DisplayName: 木炭魔石
+		Tooltip: 使你获得一个跟随光标的木炭准星
+	}
+
+	ChromaEnchant: {
+		DisplayName: 色彩魔石
+		Tooltip:
+			'''
+			召唤一个色彩水晶射击附近的敌怪
+			使用你上次使用的颜料
+			'''
+	}
+
+	ClayArtisanEnchant: {
+		DisplayName: 陶艺魔石
+		Tooltip: 站在土块上提升生命再生速度
+	}
+
+	CrystalEnchant: {
+		DisplayName: 水晶魔石
+		Tooltip: 受伤时会射出水晶碎片
+	}
+
+	DepthsMineEnchant: {
+		DisplayName: 深掘魔石
+		Tooltip:
+			'''
+			增加15%挖掘速度
+			挖掘石块时偶尔掉落矿物和其他高价值的物品
+			[i:MartainsOrder/Flashlight] 获得手电筒的效果
+			'''
+	}
+
+	DesertWoodEnchant: {
+		DisplayName: 荒漠木魔石
+		Tooltip: 击中敌怪施加灼烧之沙减益，该减益会翻倍所有随时间造成伤害减益的伤害
+	}
+
+	DynastyWoodEnchant: {
+		DisplayName: 王朝木魔石
+		Tooltip: 暴击造成响锣爆炸
 	}
 
 	ExiledPrinceEnchant: {
 		DisplayName: 放逐王子魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/ExiledPrinceHood] 使你能够进行一次不会被打断的史莱姆闪避冲刺
-			[i:MartainsOrder/ExiliedGel] 获得放逐凝胶的效果
-			[i:MartainsOrder/JungleHeart] 获得丛林核心的效果
+			大幅增加钩爪速度
+			钩住物块牵引玩家这一过程时无敌
 			'''
 	}
 
@@ -478,10 +392,7 @@ Items: {
 		DisplayName: 奇异仙人掌魔石
 		Tooltip:
 			'''
-			攻击者会受到强化的仙人掌刺伤害
-			使你能进行仙人掌震击
-			仙人掌震击增加20点防御，并免疫击退和摔落伤害
-			仙人掌震击会先使你略微上移，在落地时使你弹跳
+			攻击会定期射出仙人掌刺，造成投掷伤害
 			在永恒模式下，使你免疫仙人掌造成的伤害
 			放在时装栏和物品栏时该效果生效
 			'''
@@ -491,15 +402,15 @@ Items: {
 		DisplayName: 炸药魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/KMHead] 在你死亡时会引发一场巨大爆炸
-			[i:MartainsOrder/Shuttlecocks] 获得羽毛球的效果
-			[i:MartainsOrder/Technoboost] 获得高科技增幅器的效果
+			在你死亡时会引发一场巨大爆炸
+			允许你放置挖掘炸药
+			放置炸药有2秒冷却时间
 			'''
 	}
 
 	FakeFishyumEnchant: {
 		DisplayName: 赝疑魔石
-		Tooltip: 召唤一个可疑守卫攻击敌怪
+		Tooltip: 召唤一个可疑守卫猛冲攻击敌怪
 	}
 
 	FireEnchant: {
@@ -513,51 +424,36 @@ Items: {
 
 	ForestsEnchant: {
 		DisplayName: 森林魔石
-		Tooltip: 受伤后增加25%召唤速度和投掷速度
+		Tooltip: 受伤后增加25%攻击速度
 	}
 
 	HollowwoodEnchant: {
 		DisplayName: 空虚木魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/HollowwoodHelmet] 降低虚空的影响
-			[i:MartainsOrder/ShadeCords] 获得暗影绳索的效果
-			[i:MartainsOrder/IgnitionStone] 获得灼焰石的效果
-			'''
+		Tooltip: 降低虚空环境的影响
 	}
 
 	IceCrystalEnchant: {
 		DisplayName: 冰晶魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/IceCrystalHat] 有50%的概率不消耗魔力药水
-			[i:MartainsOrder/TundraPillow] 获得雪原枕头的效果
-			[i:MartainsOrder/FrozenLilyBee] 获得冰冻百合蜂的效果
+			产生冰刺强化你的攻击
+			冰刺生成有1秒冷却时间
 			'''
 	}
 
 	MagnesiumEnchant: {
 		DisplayName: 镁魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/MagnesiumAH] 召唤一颗叶之水晶向附近敌人射击
-			[i:MartainsOrder/Belovezoar] 获得爱之牛黄的效果
-			[i:MartainsOrder/NoeticStone] 获得理智石的效果
-			'''
+		Tooltip: 召唤一颗镁水晶向附近敌人射击
 	}
 
 	MercuryEnchant: {
 		DisplayName: 水银魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/MercuryAH] 使玩家能够进行一次不会被打断的水银闪避冲刺
-			[i:MartainsOrder/SmokeInABottle] 获得烟雾瓶的效果
-			'''
+		Tooltip: 所有攻击被水银中毒强化
 	}
 
 	NadirEnchant: {
 		DisplayName: 劣品魔石
-		Tooltip: 
+		Tooltip:
 			'''
 			提升所有基础属性：
 			-增加1点防御
@@ -572,40 +468,37 @@ Items: {
 
 	OrigamiEnchant: {
 		DisplayName: 折纸魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/OrigamiHat] 敌怪接触你会受到部分伤害并被施加流血减益
-			[i:MartainsOrder/RealitySkull] 获得真实颅骨的效果
-			[i:MartainsOrder/VoodooJets] 获得巫毒喷气机的效果
-			'''
+		Tooltip: 接触你的敌怪会受到伤害并被施加流血减益
 	}
 
 	OtherworldlyEnchant: {
 		DisplayName: 异界魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/DD2MegaMixHead] 获得所有撒旦军队塔防盔甲的套装奖励
-			[i:MartainsOrder/SuperLifeSupport] 获得超级医疗包的效果
-			[i:MartainsOrder/ExtraterrestialCurse] 获得彩虹之咒的效果
-			'''
+		Tooltip: 获得所有撒旦军队T2塔防盔甲的套装奖励
 	}
 
 	PainterEnchant: {
 		DisplayName: 画家魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/PainterAH] 命中敌人时会释放出额外的油漆液滴
-			[i:MartainsOrder/PainterAH] 增加2点艺术伤害
+			当基础油漆在你的物品栏中时，会提供你不同的加成
+			[i:1073]红油漆：增加10%伤害
+			[i:1081]蓝油漆：增加10%暴击率
+			[i:1075]黄油漆：提升10%移动速度
+			[i:1077]绿油漆：增加2点生命再生速度
 			'''
 	}
 
 	RecycledEnchant: {
 		DisplayName: 回收魔石
+		Tooltip: 获得命令召唤物到你的光标位置的能力
+	}
+
+	RenaissanceEnchant: {
+		DisplayName: 文艺复兴魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/PlasticAH] 双击{$Key.DOWN}键/{$Key.UP}键可以命令你的召唤物到你的鼠标位置
-			[i:MartainsOrder/AlchemistsPouch] 获得炼金师袋的效果
-			[i:MartainsOrder/MagneticCharge] 获得磁性充能器的效果
+			降低击中敌怪的移动速度
+			被减速的敌怪必定造成暴击
 			'''
 	}
 
@@ -613,20 +506,24 @@ Items: {
 		DisplayName: 爬行动物魔石
 		Tooltip:
 			'''
-			使用鞭子攻击敌怪能够增加1%召唤伤害
+			击中敌怪能够增加1%伤害
 			伤害提升最高堆叠至25%
 			但是会随时间的推移而降低
 			'''
 	}
 
-	TantalumEnchant: {
-		DisplayName: 钽魔石
+	ShimmerEnchant: {
+		DisplayName: 微光魔石
 		Tooltip:
 			'''
-			[i:MartainsOrder/TantalumHeadgear] 使你能进行一次钽之二段跳
-			[i:SuperSoulsDLC/AncientTantalumEnchant] 获得远古钽魔石的效果
-			[i:MartainsOrder/CharmOfLuck] 获得符咒护身符的效果
+			使你免疫微光闪烁
+			击中敌怪使其闪烁且随时间造成伤害
 			'''
+	}
+
+	TantalumEnchant: {
+		DisplayName: 钽魔石
+		Tooltip: 使你能进行一次钽之二段跳
 	}
 
 	TectonicEnchant: {
@@ -651,11 +548,7 @@ Items: {
 
 	ToyEnchant: {
 		DisplayName: 玩具魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/ToyHead] 按住{$Key.UP}键时会让弹幕跟随鼠标移动
-			[i:MartainsOrder/ForbiddenBandana] 获得禁戒头巾的效果
-			'''
+		Tooltip: 弹幕会跟随光标移动
 	}
 
 	VoidEnchant: {
@@ -668,32 +561,18 @@ Items: {
 	}
 
 	WaterEnchant: {
-		DisplayName: 水装魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/AquaAH] 不移动时会定期治疗附近队友
-			[i:MartainsOrder/AquaWatch] 获得水之表的效果
-			'''
+		DisplayName: 水铠魔石
+		Tooltip: 静止不动时会定期治疗你和附近的队友
 	}
 
 	WitherEnchant: {
 		DisplayName: 凋零魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/WitherAH] 双击{$Key.DOWN}键/{$Key.UP}键或被敌人命中后会获得凋零狂暴
-			[i:SuperSoulsDLC/AncientGarnetEnchant] 获得远古石榴石魔石的效果
-			[i:MartainsOrder/DemonCharm] 获得恶魔护身符的效果
-			'''
+		Tooltip: 使你获得凋零狂暴
 	}
 
 	ZincEnchant: {
 		DisplayName: 锌魔石
-		Tooltip:
-			'''
-			[i:MartainsOrder/ZincHead] 召唤一个保护玩家的锌盾
-			[i:SuperSoulsDLC/AncientZincEnchant] 获得远古锌魔石的效果
-			[i:MartainsOrder/CalciumDose] 获得钙剂的效果
-			'''
+		Tooltip: 召唤一个保护玩家的锌盾
 	}
 
 	CreativesEssence: {
@@ -722,70 +601,78 @@ Items: {
 		DisplayName: 生物之力
 		Tooltip:
 			'''
+			[i:SuperSoulsDLC/DesertWoodEnchant] 击中敌怪施加灼烧之沙减益，该减益会翻倍所有随时间造成伤害减益的伤害
+			[i:SuperSoulsDLC/BirchWoodEnchant] 根据风速提升5%-10%的移动速度
 			[i:SuperSoulsDLC/FakeFishyumEnchant] 召唤2个可疑守卫攻击敌怪
-			[i:SuperSoulsDLC/ExoticCactusEnchant] 使你能进行仙人掌震击
+			[i:SuperSoulsDLC/ExoticCactusEnchant] 攻击会定期射出大量仙人掌刺
 			[i:SuperSoulsDLC/ExoticCactusEnchant] 在永恒模式下，使你免疫仙人掌造成的伤害
-			[i:SuperSoulsDLC/ReptileEnchant] 使用鞭子攻击敌怪能够增加1%召唤伤害
+			[i:SuperSoulsDLC/ReptileEnchant] 攻击敌怪增加1%伤害
 			[i:SuperSoulsDLC/ReptileEnchant] 伤害提升最高堆叠至25%，但是会随时间的推移而降低
-			[i:SuperSoulsDLC/ForestsEnchant] 获得森林魔石的效果 
+			[i:SuperSoulsDLC/ForestsEnchant] 受伤后增加25%攻击速度
 			'''
 	}
 
-	DarkForce: {
-		DisplayName: 黑暗之力
+	CapitalForce: {
+		DisplayName: 资本之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/OtherworldlyEnchant] 获得异界魔石的效果
-			[i:SuperSoulsDLC/VoidEnchant] 获得虚空魔石的效果
-			[i:SuperSoulsDLC/WitherEnchant] 获得凋零魔石的效果
-			[i:SuperSoulsDLC/NadirEnchant] 获得劣品魔石的效果 
-			[i:SuperSoulsDLC/ExiledPrinceEnchant] 获得放逐王子魔石的效果
+			[i:SuperSoulsDLC/CamoEnchant] 降低20%来自弹幕的伤害
+			[i:SuperSoulsDLC/DynastyWoodEnchant] 暴击造成响锣爆炸
+			[i:SuperSoulsDLC/ExplosiveBoxEnchant]在你死亡时会引发一场巨大爆炸
+			[i:SuperSoulsDLC/ExplosiveBoxEnchant] 允许你放置挖掘炸药，有2秒冷却时间
+			[i:SuperSoulsDLC/OrigamiEnchant] 接触你的敌怪会受到伤害并被施加流血减益
+			[i:SuperSoulsDLC/PainterEnchant] 当基础油漆在你的物品栏中时，会提供你不同的加成
+			[i:SuperSoulsDLC/RecycledEnchant] 获得命令召唤物到你的光标位置的能力
+			[i:SuperSoulsDLC/ToyEnchant] 弹幕会跟随光标移动
 			'''
 	}
 
-	DeepForce: {
-		DisplayName: 深穴之力
+	DoomForce: {
+		DisplayName: 毁灭之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/CrystalEnchant] 获得水晶魔石的效果
-			[i:SuperSoulsDLC/DepthsMineEnchant] 获得深掘魔石的效果
-			[i:SuperSoulsDLC/ExplosiveBoxEnchant] 获得炸药魔石的效果
-			[i:SuperSoulsDLC/TectonicEnchant] 获得板块魔石的效果
+			[i:SuperSoulsDLC/ExiledPrinceEnchant] 大幅增加钩爪速度，且使你在牵引过程中无敌
+			[i:SuperSoulsDLC/HollowwoodEnchant] 降低虚空环境的影响
+			[i:SuperSoulsDLC/NadirEnchant] 大幅提升所有属性
+			[i:SuperSoulsDLC/OtherworldlyEnchant] 获得所有撒旦军队T2和T3塔防盔甲的套装奖励
+			[i:SuperSoulsDLC/VoidEnchant] 允许玩家召唤空域
+			[i:SuperSoulsDLC/WitherEnchant] 使你获得凋零狂暴
 			'''
 	}
 
-	FabricationForce: {
-		DisplayName: 创造之力
+	HardwareForce: {
+		DisplayName: 硬件之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/CamoEnchant] 获得迷彩魔石的效果
-			[i:SuperSoulsDLC/RecycledEnchant] 获得回收魔石的效果
-			[i:SuperSoulsDLC/ToyEnchant] 获得玩具魔石的效果
-			[i:SuperSoulsDLC/PainterEnchant] 获得画家魔石的效果
+			[i:SuperSoulsDLC/AncientTantalumEnchant] 使你免疫眩晕、困惑、骨折、遮挡、扭曲和带电减益
+			[i:SuperSoulsDLC/AncientZincEnchant] 攻击时会挥洒锌尘，造成魔法伤害
+			[i:SuperSoulsDLC/MagnesiumEnchant] 召唤一颗镁水晶向附近敌人射击
+			[i:SuperSoulsDLC/MercuryEnchant] 所有攻击被水银中毒强化
+			[i:SuperSoulsDLC/TantalumEnchant] 使你能进行一次钽之二段跳
+			[i:SuperSoulsDLC/ZincEnchant] 召唤一个保护玩家的锌盾
 			'''
 	}
 
-	LumberForce: {
-		DisplayName: 木料之力
+	MysticismForce: {
+		DisplayName: 神秘之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/DesertWoodEnchant] 获得荒漠木魔石的效果 
-			[i:SuperSoulsDLC/BirchWoodEnchant] 获得白桦木魔石的效果 
-			[i:SuperSoulsDLC/HollowwoodEnchant] 获得空虚木魔石的效果
-			[i:SuperSoulsDLC/DynastyWoodEnchant] 获得王朝木魔石的效果
-			[i:SuperSoulsDLC/OrigamiEnchant] 获得折纸魔石的效果
+			[i:SuperSoulsDLC/AncientGarnetEnchant] 击中敌怪使其凋零
+			[i:SuperSoulsDLC/AncientCrystalEnchant] 攻击命中会偶尔产生水晶碎片
+			[i:SuperSoulsDLC/CrystalEnchant] 受伤时会射出水晶碎片
+			[i:SuperSoulsDLC/IceCrystalEnchant] 产生冰刺强化你的攻击
+			[i:SuperSoulsDLC/RenaissanceEnchant] 击中敌怪降低其移动速度
+			[i:SuperSoulsDLC/ShimmerEnchant] 击中敌怪使其闪烁
 			'''
 	}
 
-	StoneForce: {
-		DisplayName: 坚石之力
+	StarsForce: {
+		DisplayName: 众星之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/ZincEnchant] 获得锌魔石的效果
-			[i:SuperSoulsDLC/MercuryEnchant] 获得水银魔石的效果
-			[i:SuperSoulsDLC/MagnesiumEnchant] 获得镁魔石的效果
-			[i:SuperSoulsDLC/TantalumEnchant] 获得钽魔石的效果
-			[i:SuperSoulsDLC/CharcoalEnchant] 获得木炭魔石的效果
+			[i:SuperSoulsDLC/AstralEnchant] 每击中敌怪生成一个增加5点防御值的轨道球
+			[i:SuperSoulsDLC/ChromaEnchant] 召唤一个色彩水晶射击附近的敌怪
+			[i:SuperSoulsDLC/TimeEnchant] 重复击中敌怪能施加时间禁锢
 			'''
 	}
 
@@ -793,12 +680,13 @@ Items: {
 		DisplayName: 万界之力
 		Tooltip:
 			'''
-			[i:SuperSoulsDLC/FireEnchant] 获得火衣魔石的效果
-			[i:SuperSoulsDLC/IceCrystalEnchant] 获得冰晶魔石的效果
-			[i:SuperSoulsDLC/WaterEnchant] 获得水服魔石的效果
-			[i:SuperSoulsDLC/AncientSandEnchant] 获得远古沙衣魔石的效果
-			[i:SuperSoulsDLC/TimeEnchant] 获得时间魔石的效果
-			[i:SuperSoulsDLC/ClayArtisanEnchant] 获得陶艺魔石的效果
+			[i:SuperSoulsDLC/AncientSandEnchant] 静止不动时会在你周围逐渐形成沙尘暴
+			[i:SuperSoulsDLC/AncientSnowEnchant] 击中敌怪会降下冰柱攻击，造成魔法伤害
+			[i:SuperSoulsDLC/CharcoalEnchant] 提供一个跟随光标的木炭准星
+			[i:SuperSoulsDLC/ClayArtisanEnchant] 站在土块上提升生命再生速度
+			[i:SuperSoulsDLC/FireEnchant] 悠悠球在移动时会定期发射出火焰波，并造成近战伤害
+			[i:SuperSoulsDLC/TectonicEnchant] 当你手持工具时免疫击退，并增加50%近战击退
+			[i:SuperSoulsDLC/WaterEnchant] 静止不动时会定期治疗你和附近的队友
 			'''
 	}
 
@@ -818,11 +706,11 @@ Items: {
 		Tooltip:
 			'''
 			[i:SuperSoulsDLC/BiotaForce] 获得生物之力的效果
-			[i:SuperSoulsDLC/DarkForce] 获得黑暗之力的效果
-			[i:SuperSoulsDLC/DeepForce] 获得深穴之力的效果
-			[i:SuperSoulsDLC/FabricationForce] 获得创造之力的效果
-			[i:SuperSoulsDLC/LumberForce] 获得木料之力的效果
-			[i:SuperSoulsDLC/StoneForce] 获得坚石之力的效果
+			[i:SuperSoulsDLC/CapitalForce] 获得资本之力的效果
+			[i:SuperSoulsDLC/DoomForce] 获得毁灭之力的效果
+			[i:SuperSoulsDLC/HardwareForce] 获得硬件之力的效果
+			[i:SuperSoulsDLC/MysticismForce] 获得神秘之力的效果
+			[i:SuperSoulsDLC/StarsForce] 获得众星之力的效果
 			[i:SuperSoulsDLC/WorldForce] 获得万界之力的效果
 			'''
 	}
@@ -874,7 +762,27 @@ Buffs: {
 
 	SpiritBuff: {
 		DisplayName: 灵魂提速
-		Description: 增加25%召唤速度和投掷速度
+		Description: 提升25%攻击速度
+	}
+
+	BurningSandBuff: {
+		DisplayName: 灼烧之沙
+		Description: 增加随时间造成的伤害
+	}
+
+	MercuryPoisonBuff: {
+		Description: 流失生命
+		DisplayName: 水银中毒
+	}
+
+	SparkleBuff: {
+		DisplayName: 闪烁
+		Description: 流失生命
+	}
+
+	FlinxSlowedBuff: {
+		DisplayName: 雪怪减速
+		Description: 你的移动速度被降低
 	}
 }
 
