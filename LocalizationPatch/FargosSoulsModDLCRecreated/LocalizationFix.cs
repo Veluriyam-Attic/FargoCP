@@ -9,18 +9,39 @@ using Terraria.Localization;
 using Terraria.ModLoader;
 using static FargoCP.LocalizationPatch.Utility;
 
-namespace FargoCP.LocalizationPatch
+namespace FargoCP.LocalizationPatch.FargosSoulsModDLCRecreated
 {
     [JITWhenModsEnabled("FargowiltasCrossmod", "CalamityBardHealer")]
     public class LocalizationFix:GlobalItem
     {
-        private readonly List<string> CalEnchant = [
-            "AstralEnchant","AtaxiaEnchant","AuricEnchant","BloodflareEnchant","DaedalusEnchant",
-            "EmpyreanEnchant","FathomSwarmerEnchant","FearmongerEnchant","GemTechEnchant","GodSlayerEnchant",
-            "OmegaBlueEnchant","PlaguebringerEnchant","PlagueReaperEnchant","SilvaEnchant","StatigelEnchant",
-            "SulphurousEnchant","TarragonEnchant"];
+        private readonly string[] CalEnchant = 
+        [
+            "AstralEnchant",
+            "AtaxiaEnchant",
+            "AuricEnchant",
+            "BloodflareEnchant",
+            "DaedalusEnchant",
+            "EmpyreanEnchant",
+            "FathomSwarmerEnchant",
+            "FearmongerEnchant",
+            "GemTechEnchant",
+            "GodSlayerEnchant",
+            "OmegaBlueEnchant",
+            "PlaguebringerEnchant",
+            "PlagueReaperEnchant",
+            "SilvaEnchant",
+            "StatigelEnchant",
+            "SulphurousEnchant",
+            "TarragonEnchant"
+        ];
 
-        private readonly List<string> CalForce = ["AnnihilationForce", "DesolationForce", "DevastationForce", "ExaltationForce"];
+        private readonly string[] CalForce = 
+        [
+            "AnnihilationForce", 
+            "DesolationForce", 
+            "DevastationForce", 
+            "ExaltationForce"
+        ];
 
         public override bool InstancePerEntity => true;
 
