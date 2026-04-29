@@ -22,11 +22,56 @@ GiftFuryItemSummonsGiftFuryItem: {
 	}
 }
 
-QOLConsumables: 体验优化物品
-PurityHeader: 环境转换物品
+QOLConfigs: {
+	DisplayName: 体验优化配置
+	Recipes: 配方
+	Items: 常规物品
+	Purity: 环境转换物品
 
-ItemConfigs: {
-	DisplayName: 物品配置
+	TreasureBagRecipes: {
+		Label: "[i:3319] 宝藏袋配方"
+		Tooltip:
+			'''
+			切换启用Boss掉落物能够使用宝藏袋制作的配方
+			注意：如果你是从旧版本过来的
+			这些配方在设置被禁用时会被移除！
+			保持启用这些设置即可保留这些配方！
+			'''
+	}
+
+	TrophyRecipes: {
+		Label: "[i:1360] 纪念章配方"
+		Tooltip: 切换启用稀有Boss和事件掉落物能够使用纪念章制作的配方
+	}
+
+	CrateRecipes: {
+		Label: "[i:2336] 宝匣配方"
+		Tooltip: 切换启用使用宝匣制作物品的配方
+	}
+
+	StatueRecipes: {
+		Label: "[i:52] 雕像配方"
+		Tooltip:
+			'''
+			切换启用 Fargo突变 中雕像的配方
+			保留国王雕像、女王雕像、心形雕像、星星雕像和炸弹雕像
+			（突变体雕像的配方只受到NPC配方配置的影响）
+			'''
+	}
+
+	NPCRecipes: {
+		Label: "[i:763] 捕获NPC配方"
+		Tooltip:
+			'''
+			切换启用使用捕获的城镇NPC制作物品的配方
+			包括旅商、骷髅商人和城镇宠物
+			'''
+	}
+
+	CritterRecipes: {
+		Label: 小动物配方
+		Tooltip: 切换启用宝石小动物和金小动物的配方
+	}
 
 	graveBuster: {
 		Label: "[i:Fargowiltas/GraveBuster] 墓碑克星"
@@ -166,7 +211,9 @@ ItemConfigs: {
 		Tooltip:
 			'''
 			各种原版增益站的效果
-			禁用该选项，该物品将无法制作且无法使用
+			0 - 默认，能够制作和使用 
+			1 - 增益站能够使用，禁用与
+			2 - 两者均禁用
 			'''
 	}
 
@@ -188,11 +235,11 @@ ItemConfigs: {
 			'''
 	}
 
-	evilRenewal: {
+	evilRenewals: {
 		Label: "[i:Fargowiltas/CorruptRenewal] 邪恶领域"
 		Tooltip:
 			'''
-			使一大片区域变为腐化/猩红/神圣之地
+			使一大片区域变为猩红/腐化/神圣之地
 			禁用该选项，该物品将无法制作且无法使用
 			'''
 	}
@@ -206,7 +253,7 @@ ItemConfigs: {
 			'''
 	}
 
-	biomesRenewal: {
+	biomeRenewals: {
 		Label: "[i:Fargowiltas/DirtRenewal] 环境领域"
 		Tooltip:
 			'''
@@ -215,208 +262,64 @@ ItemConfigs: {
 			'''
 	}
 
-	purityRenewalSupreme: {
-		Label: "[i:Fargowiltas/PurityRenewalSupreme] 纯净维度"
+	supremeRenewals: {
+		Label: "[i:Fargowiltas/PurityRenewalSupreme] 溶液维度"
 		Tooltip:
 			'''
-			净化整个世界
-			禁用该选项或[i:Fargowiltas/PurityRenewal] 纯净领域使得该物品无法制作且无法使用
-			'''
-	}
-
-	evilRenewalSupreme: {
-		Label: "[i:Fargowiltas/CorruptRenewalSupreme] 邪恶维度"
-		Tooltip:
-			'''
-			使整个世界变为腐化/猩红/神圣之地
-			禁用该选项或对应的[i:Fargowiltas/CorruptRenewal] 邪恶领域使得该物品无法制作且无法使用
-			'''
-	}
-
-	mushroomRenewalSupreme: {
-		Label: "[i:Fargowiltas/MushroomRenewalSupreme] 发光蘑菇维度"
-		Tooltip:
-			'''
-			使整个世界变为发光蘑菇地
-			禁用该选项或[i:Fargowiltas/MushroomRenewal] 发光蘑菇领域使得该物品无法制作且无法使用
-			'''
-	}
-
-	biomesRenewalSupreme: {
-		Label: "[i:Fargowiltas/DirtRenewalSupreme] 环境维度"
-		Tooltip:
-			'''
-			使整个世界变为森林/沙漠/雪原环境
-			禁用该选项或对应的[i:Fargowiltas/DirtRenewalSupreme] 环境维度邪恶领域使得该物品无法制作且无法使用
+			转换整个世界
+			只能在启用该设置和对应溶液领域的才能使用溶液维度
 			'''
 	}
 }
 
-CalamityRecipeHeader: 灾厄联动配方更改
-RemoveQOLRecipes: 体验优化配方更改
-
-RecipeConfigs: {
-	DisplayName: 配方配置
-
-	ShadowspecEternalEnergy: {
-		Tooltip: 移除魔影锭配方中的永恒能量
-		Label: "[i:CalamityMod/ShadowspecBar] 魔影锭移除永恒能量"
-	}
-
-	EternitySoulRock: {
-		Tooltip: 移除永恒之魂配方中的古恒石
-		Label: "[i:FargowiltasSouls/EternitySoul] 永恒之魂移除古恒石"
-	}
-
-	SiblingWeaponsRock: {
-		Tooltip: 移除 [i:FargowiltasSouls/SparklingLove]闪闪发光的爱、 [i:FargowiltasSouls/StyxGazer]冥河凝视 和 [i:FargowiltasSouls/Penetrator]洞察者配方中的古恒石
-		Label: "[i:FargowiltasSouls/SparklingLove] 突变体兄妹武器移除古恒石"
-	}
-
-	EternalArmorRock: {
-		Tooltip: 移除永恒怒焰、永恒核心和永恒护腿配方中的古恒石
-		Label: "[i:FargowiltasSouls/MutantMask] 永恒盔甲移除古恒石"
-	}
-
-	FargoAmmoRock: {
-		Tooltip: 移除混合箭袋和混合子弹袋配方中的古恒石
-		Label: "[i:FargowiltasSouls/FargoArrow] 混合弹药移除古恒石"
-	}
-
-	EarlyForces: {
-		Label: "[i:FargowiltasSouls/TimberForce] 力时期前移"
-		Tooltip:
-			'''
-			移除大部分力配方中的神圣晶石使它们能够轻松合成
-			不影响宇宙之力
-			'''
-	}
-
-	EarlyCosmoForce: {
-		Label: "[i:FargowiltasSouls/CosmoForce] 宇宙之力时期前移"
-		Tooltip: 移除宇宙之力配方中的波江水晶和宇宙锭使其能够轻松合成
-	}
-
-	EarlySouls: {
-		Label: "[i:FargowiltasSouls/TerrariaSoul] 魂时期前移"
-		Tooltip: 移除魂配方中的星流晶体和湮灭余烬
-	}
-
-	EarlierSouls: {
-		Label: "[i:FargowiltasSouls/MasochistSoul] 魂时期更近一步前移"
-		Tooltip:
-			'''
-			移除魂配方中的憎恶能量和所需制作站
-			如果启用“魂时期前移”选项，则只影响以下魂
-			-[i:FargowiltasSouls/UniverseSoul] 宇宙之魂
-			-[i:FargowiltasSouls/DimensionSoul] 维度之魂
-			-[i:FargowiltasSouls/TerrariaSoul] 泰拉之魂
-			-[i:FargowiltasSouls/MasochistSoul] 大师之魂
-			-[i:FargowiltasCrossmod/BrandoftheBrimstoneWitch] 硫火女巫的烙印
-			不影响永恒之魂
-			'''
-	}
-
-	WhereMutantGift: {
-		Tooltip: ""
-		Label: "[i:FargowiltasSouls/Masochist] 配方增加突变体的礼物"
-	}
-
-	WhereMutantFury: {
-		Tooltip: ""
-		Label: "[i:FargowiltasSouls/MutantsFury] 配方增加突变之狂怒"
-	}
-
-	RemoveTreasureBagRecipes: {
-		Label: "[i:3319] 宝藏袋配方"
-		Tooltip:
-			'''
-			移除Boss掉落物能够使用宝藏袋制作的配方
-			同样移除[i:CalamityMod/RelicOfDeliverance]渡魂圣物、 [i:CalamityMod/RelicOfResilience]塑魂圣物 和 [i:CalamityMod/RelicOfConvergence]聚魂圣物 可用亵渎守卫圣物制作的配方
-			'''
-	}
-
-	RemoveTrophyRecipes: {
-		Label: "[i:1360] 纪念章配方"
-		Tooltip: 移除稀有Boss和事件掉落物能够使用纪念章制作的配方
-	}
-
-	RemoveCrateRecipes: {
-		Label: "[i:2336] 宝匣配方"
-		Tooltip: 移除使用宝匣制作物品的配方
-	}
-
-	RemoveStatueRecipes: {
-		Label: "[i:52] 雕像配方"
-		Tooltip:
-			'''
-			移除Fargo突变中雕像的配方
-			保留国王雕像、女王雕像、心形雕像、星星雕像和炸弹雕像
-			（突变体雕像的配方只受到NPC配方配置的影响）
-			'''
-	}
-
-	RemoveNPCRecipes: {
-		Label: "[i:763] 捕获NPC配方"
-		Tooltip:
-			'''
-			移除使用捕获的城镇NPC制作物品的配方
-			包括旅商、骷髅商人和城镇宠物
-			'''
-	}
-
-	RemoveCritterRecipes: {
-		Label: 小动物配方
-		Tooltip: 移除宝石小动物和金小动物的配方
-	}
-}
-
-General: 常规设置
-Recipes: 物品设置
-Buffs: 移除减益
-
-Utilities: {
-	DisplayName: 实用配置
+GeneralConfigs: {
+	DisplayName: 常规配置
+	General: 常规设置
+	Recipes: 物品配方
+	Buffs: 移除减益
+	Summons: 消耗召唤物
+	AutoEffects: 自动饰品效果
 
 	EternityBossItems: {
 		Label: "[i:FargowiltasSouls/HeartoftheMasochist] 永恒模式Boss掉落"
 		Tooltip:
 			'''
 			在经典难度下Boss仍会掉落永恒模式饰品
-			迷你Boss、双足翼龙和恐惧鹦鹉螺有10%概率掉落
+			主要Boss、双足翼龙和恐惧鹦鹉螺有10%概率掉落
 			南瓜王、冰雪女王和火星飞碟有5%概率掉落
 			'''
-	}
-
-	ConsumableBossSummons: {
-		Label: "[i:CalamityMod/NecroplasmicBeacon] Boss召唤物可消耗"
-		Tooltip:
-			'''
-			使Boss召唤物变为可消耗且堆叠上限为9999
-			以下召唤物不受影响
-			-[i:CalamityMod/EidolonTablet] 幻海灵石
-			-[i:CalamityMod/ProfanedCore] 亵渎晶核
-			-[i:CalamityMod/MarkofProvidence] 普罗维登斯神印
-			-[i:FargowiltasSouls/SigilOfChampions] 唤灵魔符
-			-[i:CalamityMod/CeremonialUrn] 祭魂瓮
-			且只影响Fargo主要Boss召唤，不影响激怒召唤物、复制召唤物或机械融合体
-			'''
-	}
-
-	ConsumableCopySwarmSummons: {
-		Label: "[i:Fargowiltas/OverloadEye] 额外召唤物可消耗"
-		Tooltip: 0使激怒召唤物、复制召唤物和机械融合体变为可消耗
 	}
 
 	NoInfiniteSummons: {
 		Label: "[i:Fargowiltas/SuspiciousEye] 取消无限召唤物"
 		Tooltip:
 			'''
-			移除原版Fargo在击败Boss前，若生成Boss则会给予玩家额外的Boss召唤物的机制
+			移除原版Fargo在击败Boss前，生成Boss时会给予玩家额外的Boss召唤物的机制
 			启用该选项后，无论额外的Boss召唤物是否给予玩家，都会尝试移除存活且尚未被击败Boss所给予的额外的Boss召唤物
-			只要有任意Boss存活，且对应的召唤物所召唤的Boss尚未被击败时，就会运行此机制
 			通常来说这不会对游戏造成太大影响，但如果Boss召唤物通过其他方式掉落，仍会被删除
+			（目前还没有兼容《灾厄》，因此无法测试；Boss召唤物无论如何都不会出现）
 			'''
+	}
+
+	NoDespawn: {
+		Label: "[i:Fargowiltas/SuspiciousSkull] Boss不再消失和狂暴"
+		Tooltip:
+			'''
+			你永远被判定处于Boss战对应环境（只影响部分，大部分为环境Boss）
+			在永恒模式下，部分Boss已经有这个效果
+			不影响需要洞穴/地狱环境的Boss，如蜂王或世纪之花
+			[C/959595:未实装，无对应源码]
+			'''
+	}
+
+	EModeBalanceTooltips: {
+		Tooltip: ""
+		Label: "[i:149] 隐藏平衡文本"
+	}
+
+	MeleeWhipSpeed: {
+		Tooltip: ""
+		Label: 近战鞭子攻速
 	}
 
 	BundleOfBalloonsPuff: {
@@ -444,9 +347,57 @@ Utilities: {
 		Tooltip: 为悖论狼魂增加配方
 	}
 
+	CraftMutantCurse: {
+		Label: "[i:FargowiltasSouls/MutantsCurse] 突变体的诅咒"
+		Tooltip: 为突变体的诅咒增加配方
+	}
+
+	EarlyForces: {
+		Label: "[i:FargowiltasSouls/TimberForce] 力时期前移"
+		Tooltip:
+			'''
+			力配方所需制作站改为困难模式砧
+			（宇宙之力的配方所需制作站改为远古操纵仪）
+			'''
+	}
+
+	EarlyCosmos: {
+		Label: "[i:FargowiltasSouls/CosmoForce] 宇宙之力时期前移"
+		Tooltip: 移除宇宙之力配方中的波江水晶
+	}
+
+	EarlySouls: {
+		Label: "[i:FargowiltasSouls/SupersonicSoul] 魂时期前移"
+		Tooltip:
+			'''
+			移除大部分魂配方中的憎恶能量
+			（除了寰宇之魂、维度之魂、泰拉之魂、大师之魂或永恒之魂）
+			'''
+	}
+
+	WhereMutantGift: {
+		Tooltip: 为这些物品的配方增加突变体的礼物作为材料
+		Label: "[i:FargowiltasSouls/Masochist] 为配方增加突变体的礼物"
+	}
+
+	WhereMutantFury: {
+		Tooltip: 为这些物品的配方增加突变之狂怒作为材料
+		Label: "[i:FargowiltasSouls/MutantsFury] 为配方增加突变之狂怒"
+	}
+
 	guilty: {
 		Label: "[i:FargowiltasSouls/SqueakyToy] 内疚"
 		Tooltip: ""
+	}
+
+	rotting: {
+		Label: "[i:FargowiltasSouls/DarkenedHeart] 腐败"
+		Tooltip: 来自 世界吞噬者
+	}
+
+	curseoftheMoon: {
+		Tooltip: 来自 月球领主
+		Label: "[i:FargowiltasSouls/GalacticGlobe] 月之诅咒"
 	}
 
 	abominablePresence: {
@@ -457,6 +408,158 @@ Utilities: {
 	mutantPresence: {
 		Label: "[i:Fargowiltas/MutantMask] 突变驾到"
 		Tooltip: ""
+	}
+
+	ConsumableBossSummons: {
+		Label: "[i:SuspiciousLookingEye] Boss召唤物"
+		Tooltip: 启用后变为可消耗物品
+	}
+
+	ConsumableSwarmSummons: {
+		Label: "[i:Fargowiltas/OverloadEye] 过载Boss召唤物"
+		Tooltip: 启用后变为可消耗物品
+	}
+
+	ConsumableCopySummons: {
+		Label: "[i:Fargowiltas/SuspiciousEye] 复制Boss召唤物"
+		Tooltip: 启用后变为可消耗物品
+	}
+
+	TempConsumableCopySummons: {
+		Label: "[i:Fargowiltas/SuspiciousEye] 复制Boss召唤物（部分可消耗）"
+		Tooltip:
+			'''
+			使得复制Boss召唤物在击败Boss前不消耗
+			（由于复制Boss召唤物可以在任何地方使用，这可能会让在Boss尚未进入突变体商店前的再战变得更容易）
+			[C/959595:未实装，无对应源码]
+			'''
+	}
+
+	ConsumableEventStarters: {
+		Label: "[i:GoblinBattleStandard] 事件召唤物"
+		Tooltip: 启用后变为可消耗物品
+	}
+
+	ConsumableOverloadEventStarters: {
+		Label: "[i:Fargowiltas/OverloadGoblins] 过载事件召唤物"
+		Tooltip: 启用后变为可消耗物品
+	}
+
+	ConsumableEventSummons: {
+		Label: "[i:Fargowiltas/BetsyEgg] 事件Boss召唤物"
+		Tooltip: 启用后变为可消耗物品
+	}
+
+	ConsumableRareSummons: {
+		Label: "[i:Fargowiltas/PinkSlimeCrown] 稀有敌怪召唤物"
+		Tooltip: 启用后变为可消耗物品
+	}
+
+	MagicalCleanse: {
+		Label: "[i:FargowiltasSouls/MagicalBulb] 魔法净化"
+		Tooltip:
+			'''
+			来自 魔法球茎，冷却时间到会自动释放
+			需要将其设置为主动技能后才能自动释放
+			'''
+	}
+
+	GrazeBomb: {
+		Label: "[i:FargowiltasSouls/IceQueensCrown] 炸弹"
+		Tooltip:
+			'''
+			来自 冰雪女王的皇冠和突变之眼，冷却时间到会自动释放
+			需要将其设置为主动技能后才能自动释放
+			'''
+	}
+
+	StardustStasis: {
+		Label: "[i:3459] 星尘静滞"
+		Tooltip:
+			'''
+			来自 星尘魔石，冷却时间到会自动释放
+			需要将其设置为主动技能后才能自动释放
+			'''
+	}
+}
+
+CrossmodConfigs: {
+	DisplayName: 跨模组配置
+	General: 常规设置
+	Recipes: 灾厄配方
+	Buffs: 移除减益
+
+	EternityForceRework: {
+		Label: "[i:FargowiltasSouls/EternalEnergy] 永恒之力重制"
+		Tooltip:
+			'''
+			替换《Fargo魂石附加》的永恒之力以及魔石的配方和效果
+			将突变体兄妹的永恒饰品和宇宙之核加入猫猫睡衣、冥河、真突变体和波江魔石配方中
+			'''
+	}
+
+	BossIntros: {
+		Label: "[i:Fargowiltas/SuspiciousSkull] Boss进场动画"
+		Tooltip:
+			'''
+			0 - 禁用
+			1 - 《灾厄寓言》
+			2 - 也是《灾厄寓言》（《炼狱》的太难解决了）
+			'''
+	}
+
+	CrossmodBalanceTooltips: {
+		Label: "[i:CombatBook] 隐藏跨模组平衡文本"
+		Tooltip: ""
+	}
+
+	ShadowspecEternalEnergy: {
+		Tooltip: 移除魔影锭配方中所需的永恒能量
+		Label: "[i:CalamityMod/ShadowspecBar] 魔影锭移除永恒能量"
+	}
+
+	EternitySoulRock: {
+		Tooltip: 移除永恒之魂配方中所需的古恒石
+		Label: "[i:FargowiltasSouls/EternitySoul] 永恒之魂移除古恒石"
+	}
+
+	SiblingWeaponsRock: {
+		Tooltip: 移除 [i:FargowiltasSouls/SparklingLove]闪闪发光的爱、 [i:FargowiltasSouls/StyxGazer]冥河凝视 和 [i:FargowiltasSouls/Penetrator]洞察者配方中的古恒石
+		Label: "[i:FargowiltasSouls/SparklingLove] 突变体兄妹武器移除古恒石"
+	}
+
+	EternalArmorRock: {
+		Tooltip: 移除永恒怒焰、永恒核心和永恒护腿配方中的古恒石
+		Label: "[i:FargowiltasSouls/MutantMask] 永恒盔甲移除古恒石"
+	}
+
+	FargoAmmoRock: {
+		Tooltip: 移除混合箭袋和混合子弹袋配方中的古恒石
+		Label: "[i:FargowiltasSouls/FargoArrow] 混合弹药移除古恒石"
+	}
+
+	EarlyForces2: {
+		Label: "[i:FargowiltasSouls/EarthForce] 跨模组力时期前移"
+		Tooltip:
+			'''
+			移除大部分力配方中的神圣晶石
+			（宇宙之力移除宇宙锭）
+			'''
+	}
+
+	EarlySouls2: {
+		Label: "[i:FargowiltasSouls/TerrariaSoul] 跨模组魂时期前移"
+		Tooltip: 移除魂配方中的星流晶体和湮灭余烬
+	}
+
+	nightWither: {
+		Label: "[i:FargowiltasSouls/GalacticGlobe] 夜魇"
+		Tooltip:
+			'''
+			来自 月亮领主
+			注意：请不要将其与“月之诅咒”设置叠加使用
+			永恒模式的月亮领主是基于至少有一个随时间造成伤害减益进行平衡的
+			'''
 	}
 
 	calamitousPresence: {

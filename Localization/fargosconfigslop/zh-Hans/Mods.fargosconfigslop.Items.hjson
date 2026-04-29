@@ -4,3 +4,92 @@ DisabledItemTooltip:
 	该物品并不存在
 	'''
 UnderworldOnlyTooltip: 只能在地狱使用
+NekomiTooltip:
+	'''
+	免疫热恋减益和假心伤害
+	擦弹（擦过弹幕和敌怪本体）能提高伤害，最高可增加25%
+	伤害加成会随时间流逝而减少，被击中时清零
+	你的攻击会周期性地生成能吸血的红心，造成魔法伤害
+	擦弹以暂时积蓄能量
+	受伤时消耗能量，增加生命恢复速度
+	双击{0}键以消耗能量，释放吸血爱心
+	能量蓄满时会挥舞象征着爱与正义的恶魔之斧，恶魔之斧在困难模式中加强
+	增加7%手持武器职业伤害和该职业暴击率
+	增加1个最大仆从栏位
+	'''
+EridanusTooltipOn:
+	'''
+	你的暴击有概率造成致命一击
+	造成致命一击的概率是暴击率的1/3（至多计算100%暴击率）
+	致命一击会造成4倍伤害并施加宇宙之焰减益
+	宇宙英灵的护佑会增强一个职业
+	每12.5秒切换增强的职业
+	当你使用对应职业的武器时，宇宙英灵会与你一同作战
+	增强的职业增加70%伤害
+	增强的职业增加30%暴击率
+	增强的职业增加30%攻击速度
+	增加3个最大仆从栏位
+	召唤增强会使你的召唤武器暴击
+	双击{0}键关闭宇宙英灵的护佑
+	'''
+EridanusTooltipOff:
+	'''
+	你的暴击有概率造成致命一击
+	造成致命一击的概率是暴击率的1/3（至多计算100%暴击率）
+	致命一击会造成4倍伤害并施加宇宙之焰减益
+	增加15%手持武器职业伤害
+	增加10%手持武器职业暴击率
+	增加3个最大仆从栏位
+	双击{0}键开启宇宙英灵的护佑
+	'''
+StyxTooltip:
+	'''
+	免疫憎恶毒牙和憎恶驾到减益
+	增加20%手持武器职业的伤害
+	翻倍闪烁崇心的擦弹充能效率，红心发射冷却减半
+	增加20%擦弹伤害加成上限
+	暴击时偶尔会召唤幽灵憎恶
+	受到致命伤害时，保留1点生命值并避免死亡
+	你再次恢复到满生命值后，免死效果才能再被激活
+	攻击敌怪或擦弹以积蓄冥河能量
+	受伤时消耗冥河能量，减免一部分伤害
+	双击{0}键以消耗能量，释放追踪镰刀
+	能量蓄满时会释放出冥狱魔剑
+	'''
+TrueMutantTooltip:
+	'''
+	免疫突变毒牙减益
+	召唤会向周围的敌怪发射死亡激光的幻影球
+	召唤幽灵憎恶与你一同战斗
+	攻击会施加狱火和噬神者减益
+	你复活时会爆发出巨大的幻影死亡射线
+	增加20%武器使用速度
+	增加25%闪烁崇心擦弹伤害加成上限
+	将闪烁崇心的心攻击加强为爱之射线
+	增加闪烁崇心的擦弹伤害加成
+	提升幽灵憎恶的出现频率和攻击力
+	炸弹会施放一圈幻影眼球，摧毁大多数敌对弹幕
+	炸弹有60秒的冷却时间
+	'''
+EternityForce:
+	'''
+	免疫 [i:FargowiltasSoulsDLC/NekomiEnchantment] 热恋减益、假心伤害，[i:FargowiltasSoulsDLC/StyxEnchantment] 憎恶毒牙、憎恶驾到减益 和 [i:FargowiltasSoulsDLC/TrueMutantEnchantment] 突变毒牙减益
+	[i:FargowiltasSoulsDLC/NekomiEnchantment] 擦弹最高获得1.36倍伤害加成并暂时积蓄 [i:FargowiltasSoulsDLC/NekomiEnchantment] 猫猫睡衣和 [i:FargowiltasSoulsDLC/StyxEnchantment] 冥河能量
+	[i:FargowiltasSoulsDLC/StyxEnchantment] 冥河能量也可通过攻击敌怪积蓄
+	伤害加成会随时间流逝而减少，被击中时清零
+	[i:FargowiltasSoulsDLC/NekomiEnchantment] 你的攻击会周期性地发射能吸血的爱之射线，造成魔法伤害
+	受伤时消耗能量， [i:FargowiltasSoulsDLC/StyxEnchantment] 减免一部分伤害并 [i:FargowiltasSoulsDLC/NekomiEnchantment] 增加生命恢复速度
+	幽灵憎恶 [i:FargowiltasSoulsDLC/TrueMutantEnchantment] 会与你一同战斗并在 [i:FargowiltasSoulsDLC/StyxEnchantment] 暴击时偶尔召唤协助攻击
+	[i:FargowiltasSoulsDLC/TrueMutantEnchantment] 召唤会向周围的敌怪发射死亡激光的幻影球
+	[i:FargowiltasSoulsDLC/TrueMutantEnchantment] 攻击会施加狱火和噬神者减益
+	[i:FargowiltasSoulsDLC/StyxEnchantment] 你可以在任意攻击下复活， [i:FargowiltasSoulsDLC/TrueMutantEnchantment] 复活时会爆发出巨大的幻影死亡射线
+	复活有2分钟冷却时间
+	[i:FargowiltasSoulsDLC/EridanusEnchantment] 你的暴击有概率造成致命一击
+	造成致命一击的概率是暴击率的1/3（至多计算100%暴击率）
+	致命一击会造成4倍伤害并施加宇宙之焰减益
+	双击{0}键：
+	   [i:FargowiltasSoulsDLC/NekomiEnchantment] [c/FF309A:释放猫猫睡衣能量生成吸血爱心] [c/FFA9F0:（或者在能量蓄满时挥舞象征着爱与正义的恶魔之斧）]，
+	   [i:FargowiltasSoulsDLC/StyxEnchantment] [c/FFAA0C:释放冥河能量发射追踪镰刀] [c/D245CB:（或者能量蓄满时释放出冥狱魔剑）]，
+	   [i:FargowiltasSoulsDLC/GaiaEnchantment] [c/008000:切换盖亚进攻模式，增加攻击类属性但减少防御类属性]，
+	   [i:FargowiltasSoulsDLC/EridanusEnchantment] [c/800080:宇宙英灵的护佑会增强一个职业，每12.5秒切换增强的职业]
+	'''
