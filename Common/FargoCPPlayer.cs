@@ -14,7 +14,7 @@ namespace FargoCP.Common
         public override void OnEnterWorld()
         {
             //Main.NewText(Language.GetTextValue("Mods.FargoCP.OnEnterWorldText",this.Mod.DisplayName));
-            InGameNotificationsTracker.AddNotification(new EnterWorldNotification());
+            //InGameNotificationsTracker.AddNotification(new EnterWorldNotification());
         }
     }
 }
