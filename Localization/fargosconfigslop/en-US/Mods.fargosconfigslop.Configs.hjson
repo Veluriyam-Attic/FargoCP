@@ -243,7 +243,6 @@ GeneralConfigs: {
 			Removes the extra summons given when spawning a boss before having defeating it
 			This removes the items from the world when this boss is alive and hasn't been defeated yet, regardless of if the item was just given
 			This shouldn't affect gameplay too much, but if the item is dropped any other way, it will still be deleted
-			(Not attached to Calamity yet. Couldn't test it the items just straight up would not appear regardless ?????)
 			'''
 	}
 
@@ -294,7 +293,7 @@ GeneralConfigs: {
 
 	CraftMutantCurse: {
 		Label: "[i:FargowiltasSouls/MutantsCurse] Mutant's Curse"
-		Tooltip: ""
+		Tooltip: Adds a pre-Mutant recipe for Mutant's Curse
 	}
 
 	EarlyForces: {
@@ -436,13 +435,18 @@ CrossmodConfigs: {
 			'''
 			0 - Disabled
 			1 - Calamity Fables
-			2 - also Calamity Fables (infernum is hard to figure out :/)
+			2 - Infernum
 			'''
 	}
 
 	CrossmodBalanceTooltips: {
-		Label: "[i:CombatBook] Hide Crossmod Balance Tooltips"
+		Label: "[i:CombatBook] Hide Calamity Crossmod Balance Tooltips"
 		Tooltip: ""
+	}
+
+	RogueWeaponsReal: {
+		Tooltip: Twinrangs, Gemini Glaives and Fish Stick deal rogue damage instead
+		Label: "[i:Shuriken] Rogue Weapons"
 	}
 
 	ShadowspecEternalEnergy: {
