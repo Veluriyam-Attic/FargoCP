@@ -8,7 +8,7 @@ Items: {
 			Maximum life increased by 50
 			Maximum mana increased by 100
 			Healing spells will heal an additional 15 life
-			Effects of the Saving grace and Support sash
+			Effects of the Saving grace and Karmic Holder
 			'A strong divine energy emanates from it'
 			'''
 		DisplayName: Bishop's Soul
@@ -54,6 +54,8 @@ Items: {
 		Tooltip:
 			'''
 			Effects of all Music Players
+			Significantly increases the chance of Inspiration Note drops
+			Your attacks have a low chance to generate Inspiration Notes on hit
 			'I want to break free'
 			'''
 		DisplayName: Music Player Enchant
@@ -103,7 +105,10 @@ Items: {
 		DisplayName: Echo Enchant
 		Tooltip:
 			'''
-			Attacks can trigger an echo wave that deals 300% of projectile damage
+			Attacks may trigger a random Echo Wave.
+			Damage Wave: Deals 500% damage to a single target.
+			Healing Wave: Deals 100% damage to a single target and heals you for 10 HP.
+			Area Wave: Deals 300% damage and cleaves through enemies.
 			'W'
 			'''
 	}
@@ -174,6 +179,15 @@ Items: {
 			The Bubble Shield damages enemies and pops upon taking damage
 			'''
 	}
+
+	Angeleyes: {
+		Tooltip:
+			'''
+			An old book that calls upon "him" for help in battle.
+			The first page reads,"Fear not"
+			'''
+		DisplayName: Angeleyes
+	}
 }
 
 Buffs: {
@@ -234,4 +248,9 @@ Projectiles: {
 	BardTracheaPro.DisplayName: Bard Trachea Pro
 	BubbleStaffPro.DisplayName: Bubble Staff Pro
 	BubbleDefPro.DisplayName: Bubble Def Pro
+	Angeleyes_Body.DisplayName: Angeleyes_ Body
+	Angeleyes_Eye.DisplayName: Angeleyes_ Eye
+	Angeleyes_EyeBall.DisplayName: Angeleyes_ Eye Ball
+	Angeleyes_HandL.DisplayName: Angeleyes_ Hand L
+	Angeleyes_HandR.DisplayName: Angeleyes_ Hand R
 }
