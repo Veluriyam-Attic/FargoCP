@@ -716,6 +716,95 @@ Items: {
 			'Even small pebbles can be deadly with your prowess'
 			'''
 	}
+
+	NexusForce: {
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/FrostbiteEnchant] Grants a snowball aura that damages enemies
+			[i:SuperSoulsDLC/GravekeeperEnchant] Killing enemies sometimes drops tombstones that can be killed
+			[i:SuperSoulsDLC/PossessedEnchant] Killed enemies have a 25% chance to become a short-lived ghost minion
+			[i:SuperSoulsDLC/RimebreakerEnchant] Attacks summon a glacial echo to slice enemies
+			[i:SuperSoulsDLC/StargazerEnchant] Moving creates damaging stardust
+			[i:SuperSoulsDLC/StarRangerEnchant] Attacks are accompanied by falling stars
+			'''
+		DisplayName: Force of the Nexus
+	}
+
+	DomainForce: {
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/ContraptionistEnchant] Summons a Helical Turret to fight for you
+			[i:SuperSoulsDLC/CrabEnchant] Block melee attacks and reduce projectile damage from behind
+			[i:SuperSoulsDLC/JellyEnchant] Summons Gellita Jr. to fight for you
+			[i:SuperSoulsDLC/STectonicEnchant] Killing enemies drops cinnabar bombs at their position
+			[i:SuperSoulsDLC/WarlochEnchant] You can reel in and devour aquatic creatures with your whip for a defensive boost
+			'''
+		DisplayName: Force of the Domain
+	}
+
+	ContraptionistEnchant: {
+		Tooltip: Summons a Helical Turret to fight for you
+		DisplayName: Contraptionist Enchantment
+	}
+
+	CrabEnchant: {
+		Tooltip: Block melee attacks and reduce projectile damage from behind
+		DisplayName: Crab Enchantment
+	}
+
+	FrostbiteEnchant: {
+		Tooltip:
+			'''
+			Grants a snowball aura that damages enemies
+			Snowballs disappear when hitting an enemy
+			Snowballs will regenerate after 6 seconds after all are used up
+			'''
+		DisplayName: Frostbite Enchantment
+	}
+
+	GravekeeperEnchant: {
+		Tooltip:
+			'''
+			Killing enemies sometimes drops tombstones
+			Tombstones erupt into souls when killed by players
+			'''
+		DisplayName: Gravekeeper Enchantment
+	}
+
+	JellyEnchant: {
+		Tooltip: Summons Gellita Jr. to hold out the area for you
+		DisplayName: Jelly Enchantment
+	}
+
+	PossessedEnchant: {
+		Tooltip: Killed enemies have a 25% chance to become a short-lived ghost minion
+		DisplayName: Possessed Enchantment
+	}
+
+	RimebreakerEnchant: {
+		Tooltip: Attacks summon a glacial echo to slice enemies
+		DisplayName: Rimebreaker Enchantment
+	}
+
+	StargazerEnchant: {
+		Tooltip: Moving creates damaging stardust
+		DisplayName: Stargazer Enchantment
+	}
+
+	StarRangerEnchant: {
+		Tooltip: Attacks are accompanied by falling stars
+		DisplayName: Star Ranger Enchantment
+	}
+
+	STectonicEnchant: {
+		Tooltip: Killing enemies drops cinnabar bombs at their position
+		DisplayName: Tectonic Enchantment
+	}
+
+	WarlochEnchant: {
+		Tooltip: You can reel in and devour aquatic creatures with your whip for a defensive boost
+		DisplayName: Warloch Enchantment
+	}
 }
 
 Projectiles: {
@@ -725,8 +814,12 @@ Projectiles: {
 	OnyxShardProjectile.DisplayName: Onyx Shard
 	SandstormProjectile.DisplayName: Sandstorm
 	NullZoneProjectile.DisplayName: Null Zone
-	NewReflectorProjectile.DisplayName: New Reflector
+	NewReflectorProjectile.DisplayName: Reflector
 	CactusThornProjectile.DisplayName: Cactus Thorn
+	NewMorgensternGreenPro.DisplayName: Terra Morgenstern
+	NewHelicalContraption.DisplayName: Helical Contraption
+	SnowballProjectile.DisplayName: Snowball
+	GhostProjectile.DisplayName: Ghost
 }
 
 Buffs: {
@@ -756,7 +849,7 @@ Buffs: {
 	}
 
 	BurningSandBuff: {
-		DisplayName: Burning Sand Buff
+		DisplayName: Burning Sand
 		Description: Increased damage over time
 	}
 
@@ -776,4 +869,7 @@ Buffs: {
 	}
 }
 
-NPCs.OnyxGem.DisplayName: Onyx Gem
+NPCs: {
+	OnyxGem.DisplayName: Onyx Gem
+	TombstoneNPC.DisplayName: Tombstone
+}

@@ -1,8 +1,8 @@
 SOTSSoulTooltips: {
-	BerserkerSoul: Effects of the Serpent Spine, Hyperdrive, and Supernova Emblem
+	BerserkerSoul: Effects of Hyperdrive and Supernova Emblem
 	ArchWizardSoul: Effects of Plasma Shrimp and Wishing Star
-	SniperSoul: Effects of Infinity Pouch, Blazing Quiver, Backup Bow, and Bag of Ammunition Gathering
-	ConjuristSoul: Effects of the Fortress Generator, Calculator, and Hydrokinetic Antennae
+	SniperSoul: Effects of Blazing Quiver, Infinity Pouch, and Bag of Ammunition Gathering
+	ConjuristSoul: Effects of Fortress Generator and Serpent Spine
 	ColossusSoul: Effects of Bulwark of the Ancients, Alchemist's Charm, and Ultimate Polarizer
 	WorldShaperSoul: Effects of Greedier Ring, Drill Arm, Earth Drive, and Lockpick
 	SupersonicSoul: Effects of Subspace Boosters and Band of Door
@@ -12,7 +12,7 @@ SOTSSoulTooltips: {
 HJSoulTooltips: {
 	BerserkerSoul: Effects of Godly Touch, Champion Belt, and Philosopher-King's Stone
 	ArchWizardSoul: Effects of Starflower and Fungus Deluxe
-	SniperSoul: Effects of The Batter, Crossbow Scope, and Trash Bag
+	SniperSoul: Effects of The Batter and Crossbow Scope
 	ConjuristSoul: Effects of Divine Hairpin, Gauntlet of the Commander, and Armillary Sphere
 	ColossusSoul: Effects of Vanguard Breastpiece, Master Shield, and Ancient Blessing
 	WorldShaperSoul: Effects of Prison Searchlight, Goblin Voodoo Doll, and Abyss Core
@@ -28,4 +28,14 @@ MOSoulTooltips: {
 	ColossusSoul: Effects of Protection Egis, National Defense, Ignition Stone, and Super Medkit
 	WorldShaperSoul: Effects of Traveller's Skydiving Kit, Survival Tracker, Summoner's Tracker, and Journal
 	SupersonicSoul: Effects of Sparkling Wellingtons, Triplet's Barrage Shield, Ceramic Balloon, and Charm of Charms
+}
+
+SplitSoulTooltips: {
+	BerserkerSoul: Effects of Sports Bag and Mimento Vivere
+	ArchWizardSoul: Effects of Celestial Globe
+	SniperSoul: Effects of Mystic Pack
+	ConjuristSoul: Effects of Malachite Box and Mycelium Fortress
+	ColossusSoul: Effects of Knight Shield, Terror Shield, and 7th Element
+	WorldShaperSoul: Effects of Yellow Obsidian Skull and Stone of Guardian
+	SupersonicSoul: Effects of Painmaker
 }

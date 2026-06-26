@@ -57,3 +57,13 @@ ElementalEffect: {
 	DisplayName: Elemental Blink
 	Tooltip: Teleports the player to the cursor, dealing damage along its path equal to 200% of the player's defense
 }
+
+ContraptionistToggleEffect: {
+	DisplayName: Contraption Mode Switch
+	Tooltip: Switches your Helical Contraption's mode
+}
+
+JellyEffect: {
+	DisplayName: Summon Gellita Jr.
+	Tooltip: Summons Gellita Jr. near you
+}

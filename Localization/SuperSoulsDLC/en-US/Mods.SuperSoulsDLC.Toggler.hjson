@@ -10,78 +10,33 @@ HardwareHeader: "{$Mods.SuperSoulsDLC.Items.HardwareForce.DisplayName}"
 MysticismHeader: "{$Mods.SuperSoulsDLC.Items.MysticismForce.DisplayName}"
 StarsHeader: "{$Mods.SuperSoulsDLC.Items.StarsForce.DisplayName}"
 WorldHeader: "{$Mods.SuperSoulsDLC.Items.WorldForce.DisplayName}"
-WormwoodEffect: Blooming Hooks
-VoidspaceEffect: Voidspace Flames
-VoidspaceEmblemEffect: Voidspace Emblem
-BagOfCharmsEffect: Bag of Charms
-VibrantEffect: Vibrant Bolts
-HarvestersScytheEffect: Harvester's Scythe
-GuideToIlluminationEffect: Guide to Illumination
-MrGlorpEffect: Mr. Glorp
-IlluminantLanternEffect: Illuminant Lantern
-TwilightAssassinEffect: Holo Blades
-BladeNecklaceEffect: Blade Necklace
-BlinkPackEffect: Blink Pack
-GravityAnchorEffect: Gravity Anchor
-PatchLeatherEffect: Snake Minions
-SunlightAmuletEffect: Sunlight Amulet
-BandOfDoorEffect: Band of Door
-SteelerWheelerEffect: Steeler Wheeler
-FrostArtifactEffect: Polar Cannons
-FrigidHourglassEffect: Frigid Hourglass
-ShardGuardEffect: Shard Guard
-EndothermicAfterburnerEffect: Endothermic Afterburner
-FrigidEffect: Shatter Shards
-FrigidRobeEffect: Frigid Javelin Bounce
-ShatterShardChestplateEffect: Shatter Shards
-ShoeIceEffect: Shoe Ice
-MrEepyEffect: Mr. Eepy
-ElementalEffect: Elemental Blink
-FocusReticleEffect: Focus Reticle
-AcidicInjectionEffect: Overkill Injection
-VoidmageIncubatorEffect: Voidmage Incubator
-EarthenEffect: Attack Shred
-GreedierRingEffect: Greedier Ring
-RockCandyEffect: Rock Candy
-AutoClickerEffect: Auto Clicker
+DomainHeader: "{$Mods.SuperSoulsDLC.Items.DomainForce.DisplayName}"
+NexusHeader: "{$Mods.SuperSoulsDLC.Items.NexusForce.DisplayName}"
 CursedEffect: Curse Vision
-HeartInAJarEffect: Heart in a Jar
-CursedAppleEffect: Cursed Apple
-SyntheticLiverEffect: Synthetic Liver
-MrMcMillenEffect: Mr. McMillen
-SerpentSpineEffect: Serpent Spine
-HyperdriveEffect: Hyperdrive
-MidnightPrismEffect: Midnight Prism
+DrillforgeEffect: Missile Tail
+EarthenEffect: Attack Shred
+ElementalEffect: Elemental Blink
+FrigidEffect: Shatter Shards
+FrostArtifactEffect: Polar Cannons
+PatchLeatherEffect: Snake Minions
+TwilightAssassinEffect: Holo Blades
+VibrantEffect: Vibrant Bolts
+VoidspaceEffect: Voidspace Flames
+WormwoodEffect: Blooming Hooks
 SupernovaEmblemEffect: Supernova Emblem
-AlchemistsCharmEffect: Alchemist's Charm
-PlasmaShrimpEffect: Plasma Shrimp
-WishingStarEffect: Wishing Star
 BlazingQuiverEffect: Blazing Quiver
-BackupBowEffect: Backup Bow
 BagOfAmmoGatheringEffect: Bag of Ammo Gathering
 InfinityPouchEffect: Infinity Pouch
+PlasmaShrimpEffect: Plasma Shrimp
+WishingStarEffect: Wishing Star
 FortressGeneratorEffect: Fortress Generator
-WispInAJarEffect: Wisp in a Jar
-SandwichEffect: Sandwich
-BundleOfSnakesEffect: Bundle of Snakes
-CalculatorEffect: Calculator
-HydrokineticAntennaeEffect: Hydrokinetic Antennae
-PricklyPearShieldEffect: Prickly Pear Shield
+SerpentSpineEffect: Serpent Spine
+VoidmageIncubatorEffect: Voidmage Incubator
 BulwarkOfTheAncientsEffect: Bulwark of the Ancients
-ChallengerRingEffect: Challenger's Ring
-RotHeartEffect: Rot Heart
 DrillHandEffect: Drill Arm
 EarthDriveEffect: Earth Drive
-LockpickEffect: Lockpick
-DrillforgeEffect: Missile Tail
-ExperimentalInjectionEffect: Experimental Injection
-TinyPlanetoidEffect: Tiny Planetoid
+BandOfDoorEffect: Band of Door
 SubspaceBoostersEffect: Subspace Boosters
-UltimatePolarizerEffect: Ultimate Polarizer
-GildedBladeWingsEffect: Gilded Blade Wings
-VisionAmuletEffect: Elemental Amulet
-WardingCharmEffect: Warding Charm
-SunbulbEffect: Sunbulb
 AuroraEffect: Aurora Slimes
 BiologicalEffect: Gas Station
 ChronoEffect: Time Borrowing
@@ -113,7 +68,6 @@ FungusDeluxeEffect: Fungus Deluxe
 TheBatterEffect: The Batter
 TheHolyTrinityEffect: The Holy Trinity
 AirborneGogglesEffect: Airborne Goggles
-TrashBagEffect: Trash Bag
 DivineNecklaceEffect: Divine Hairpin
 VanguardBreastpieceEffect: Vanguard Breastpiece
 MasterShieldEffect: Master Shield
@@ -170,3 +124,19 @@ TantalumEffect: Tantalum Jump
 TimeEffect: Time Lock
 WaterEffect: Water Healing
 ZincEffect: Zinc Shield
+MementoVivereEffect: Memento Vivere
+MagnetQuiverEffect: Magnet Quiver
+StarshroomEffect: Starshroom
+PalladiumShieldEffect: Palladium Shield
+EonOfCaptivityEffect: Eon of Captivity
+MorgensternEffect: Morgenstern
+ContraptionistEffect: Helical Contraption
+CrabEffect: Behind Protection
+FrostbiteEffect: Snowball Aura
+GravekeeperEffect: Enemy Tombstones
+PossessedEffect: Ghost Minions
+RimebreakerEffect: Echo Slash
+StargazerEffect: Stardust Trail
+StarRangerEffect: Star Attacks
+STectonicEffect: Cinnabar Bombs
+WarlochEffect: Seafood Whip Defense
