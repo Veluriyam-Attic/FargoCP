@@ -1,4 +1,4 @@
-GiftFuryItemSummonsGiftFuryItem: {
+GiftFuryItem: {
 	Tooltip: ""
 
 	Null: {
@@ -17,7 +17,7 @@ GiftFuryItemSummonsGiftFuryItem: {
 	}
 
 	EternalFlame: {
-		Label: 永恒怒焰
+		Label: 永恒盔甲
 		Tooltip: ""
 	}
 }
@@ -504,13 +504,18 @@ CrossmodConfigs: {
 			'''
 			0 - 禁用
 			1 - 《灾厄寓言》
-			2 - 也是《灾厄寓言》（《炼狱》的太难解决了）
+			2 - 《炼狱》
 			'''
 	}
 
 	CrossmodBalanceTooltips: {
-		Label: "[i:CombatBook] 隐藏跨模组平衡文本"
+		Label: "[i:CombatBook] 隐藏灾厄跨模组平衡文本"
 		Tooltip: ""
+	}
+
+	RogueWeaponsReal: {
+		Tooltip: 双子、双生旋刃和Drakovi小姐的钓竿造成盗贼伤害
+		Label: "[i:Shuriken] 盗贼武器"
 	}
 
 	ShadowspecEternalEnergy: {

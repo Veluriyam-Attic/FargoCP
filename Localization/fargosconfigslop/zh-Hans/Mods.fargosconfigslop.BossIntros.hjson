@@ -1,60 +1,110 @@
 TrojanSquirrel: {
 	Name: 特洛伊松鼠
 	Title: 森林挑战者
+	InferName:
+		'''
+		森林挑战者
+		特洛伊松鼠
+		'''
 	Music: Nuts And Bolts
 }
 
 CursedCoffin: {
 	Name: 咒缚灵棺
 	Title: 心灵挑战者
+	InferName:
+		'''
+		心灵挑战者
+		咒缚灵棺
+		'''
 	Music: Shifting Sands
 }
 
 Deviantt: {
 	Name: 黛薇安
-	Title: 展示爱意！！！
+	Title: 爱意展现！！！
+	InferName:
+		'''
+		爱意展现
+		黛薇安
+		'''
 	Music: Sparkly Strawberry Sunrise
 }
 
 BanishedBaron: {
 	Name: 放逐遗爵
 	Title: 邪恶放逐者
+	InferName:
+		'''
+		邪恶放逐者
+		放逐遗爵
+		'''
 	Music: Will of the Waves
 }
 
 Lifelight: {
 	Name: 飘渺游光
 	Title: 生命挑战者
+	InferName:
+		'''
+		生命挑战者
+		飘渺游光
+		'''
 	Music: Illustrious Illuminescence
 }
 
 TimberChampion: {
 	Name: 吱吱
 	Title: 森林英灵
+	InferName:
+		'''
+		森林英灵
+		吱吱
+		'''
 	Music: Ordeal
 }
 
 Eridanus: {
 	Name: 厄里达诺斯
 	Title: 宇宙英灵
+	InferName:
+		'''
+		宇宙英灵
+		厄里达诺斯
+		'''
 	Music: Platinum Star
 }
 
 Abominationn: {
 	Name: 憎恶
 	Title: 莱瓦汀
+	InferName:
+		'''
+		虚空圣葬者
+		憎恶
+		'''
 	Music: Laevateinn
 }
 
 Mutant1: {
 	Name: 突变体
 	Title: 噬神者
+	InferName:
+		'''
+		噬神者
+		突变体
+		'''
 	Music: Steel Red
 }
 
 Mutant2: {
 	Name: 突变体
 	Title: 永恒
+	InferName:
+		'''
+		永恒
+		突变体
+		'''
 	Music: rePrologue
 	Music2: rePrologue / Irondust
 }
@@ -62,12 +112,22 @@ Mutant2: {
 YharimFake: {
 	Name: 亚利姆
 	Title: 寻神者
+	InferName:
+		'''
+		寻神者
+		亚利姆
+		'''
 	Music: Steel Red
 }
 
 YharimReal: {
 	Name: 亚利姆
 	Title: 金辉异端
+	InferName:
+		'''
+		寻神者
+		亚利姆
+		'''
 	Music: rePrologue
 	Music2: rePrologue / Irondust
 }
@@ -75,23 +135,15 @@ YharimReal: {
 Permafrost: {
 	Name: 永冻
 	Title: 至尊大法师
+	InferName:
+		'''
+		至尊大法师
+		永冻
+		'''
 	Music: Niflheimr
 }
 
 Musics: {
-	NutsAndBolts: Nuts And Bolts
-	ShiftingSands: Shifting Sands
-	SparklyStrawberrySunrise: Sparkly Strawberry Sunrise
-	WilloftheWaves: Will of the Waves
-	IllustriousIlluminescence: Illustrious Illuminescence
-	Ordeal: Ordeal
-	PlatinumStar: Platinum Star
-	Laevateinn: Laevateinn
-	SteelRed: Steel Red
-	RePrologue: rePrologue
-	Niflheimr: Niflheimr
-	Irondust: rePrologue / Irondust
-
 	Composers: {
 		ProduceVGM: ProduceVGM
 		Azathoth: Azathoth
