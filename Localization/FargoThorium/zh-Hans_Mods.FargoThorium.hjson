@@ -8,7 +8,7 @@ Items: {
 			增加50点最大生命值
 			增加100点最大魔力值
 			治疗法术额外治疗15点生命值
-			获得支援腰带和救世恩典的效果
+			获得业果之握和救世恩典的效果
 			“神圣能量从其涌现”
 			'''
 		DisplayName: 主教之魂
@@ -54,6 +54,8 @@ Items: {
 		Tooltip:
 			'''
 			获得所有音乐播放器的效果
+			显著提升灵感音符的掉落概率
+			你的攻击在命中时有小概率生成灵感音符
 			“我想要挣脱束缚”
 			[C/959595:（出自 Queen - I Want to Break Free）]
 			'''
@@ -104,7 +106,10 @@ Items: {
 		DisplayName: 回音魔石
 		Tooltip:
 			'''
-			攻击能触发回音声波，造成的伤害为原武器伤害的300%
+			攻击会触发随机的回音声波
+			攻击声波：对单个目标造成500%的伤害
+			治疗声波：对单个目标造成100%的伤害并治疗你10点生命值
+			音域声波：造成300%的伤害并穿透敌怪
 			“W”
 			'''
 	}
@@ -175,6 +180,15 @@ Items: {
 			泡泡护盾会对敌人造成伤害，并在受到伤害时破裂
 			'''
 	}
+
+	Angeleyes: {
+		Tooltip:
+			'''
+			一本古老的书籍，在战斗中寻求“祂”的帮助
+			第一页写着：“勿惧”
+			'''
+		DisplayName: 天使之瞳
+	}
 }
 
 Buffs: {
@@ -235,4 +249,9 @@ Projectiles: {
 	BardTracheaPro.DisplayName: 血肉气管弹幕
 	BubbleStaffPro.DisplayName: 泡泡法杖弹幕
 	BubbleDefPro.DisplayName: 泡泡护盾弹幕
+	Angeleyes_Body.DisplayName: 天使之瞳身体
+	Angeleyes_Eye.DisplayName: 天使之瞳眼睛
+	Angeleyes_EyeBall.DisplayName: 天使之瞳球
+	Angeleyes_HandL.DisplayName: 天使之瞳左手
+	Angeleyes_HandR.DisplayName: 天使之瞳右手
 }
