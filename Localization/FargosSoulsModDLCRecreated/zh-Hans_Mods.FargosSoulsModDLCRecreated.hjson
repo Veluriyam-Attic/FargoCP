@@ -94,7 +94,6 @@ Toggler: {
 	IridescentEffects: 光耀 套装效果
 	EqualizerEffects: 光耀 平等护符
 	LifeQuartzShieldEffects: 光耀 生命石英盾
-	AloeLeafEffects: 缚生 露水收集器
 	NirvanaStatuetteEffects: 堕骑 涅槃雕像
 	MaskOfTheCrystalEyeEffects: 泰坦 水晶之眼面具
 	FlawlessChrysalisEffects: 缚生 无暇之蛹
@@ -119,6 +118,11 @@ Toggler: {
 	TerrariumEffects: 元灵 套装效果
 	TerrariumSurroundSoundEffects: 元灵 界元音箱
 	VanaheimForceHeader: 华纳海姆之力
+	CorruptionForceHeader: 腐败之力
+	ElementsForceHeader: 元素之力
+	FrostForceHeader: 冰寒之力
+	MachineForceHeader: 机械之力
+	VoidForceHeader: 虚空之力
 	ShadeMasterEffect: 暗影大师 套装效果
 	ShinobiSigilEffect: 暗影大师 忍者魔符
 	IllumiteEffects: 荧光 套装效果
@@ -245,6 +249,9 @@ Toggler: {
 	HungeringBlossomEffects: 疫医 饮魔玫瑰
 	ProofOfAraviceEffects: 巫妖 贪婪之证
 	ProofOfAvariceEffects: 巫妖 贪婪之证
+	SunnyMinion: 构岩 宠物太阳先生
+	PurpleBalloonMinion: 诅咒 宠物幸运紫气球
+	DrillArm: 钻头熔炉 钻头手臂
 }
 
 Items: {
@@ -336,7 +343,7 @@ Items: {
 			在水下和深渊提供适量光照
 			获得绽花石和恼怒项链的效果
 			获得鲁莽手套、精确手套和蜜蜂护符的效果
-			“迅临之死正静候你的敌人……”
+			“迫近的死亡正静候你的敌人……”
 			'''
 		DisplayName: 掠夺者魔石
 	}
@@ -1982,6 +1989,284 @@ Items: {
 			潜伏攻击会造成两倍的击退并产生幻星爆炸
 			免疫击退
 			'''
+	}
+
+	VesperaEnchant: {
+		DisplayName: 薄暮魔石
+		Tooltip:
+			'''
+			增加25点最大虚空值和50%虚空恢复量
+			获得花岗岩护盾的效果
+			'''
+	}
+
+	CursedEnchant: {
+		DisplayName: 诅咒魔石
+		Tooltip:
+			'''
+			按下 [{$Mods.SOTS.Keybinds.ArmorSet.DisplayName}] 键将红玉石碑变为进攻姿态
+			在进攻姿态时会降低80%诅咒爆闪的冷却时间
+			但是会增加6点虚空流失速度，而非增加10%虚空恢复速度
+			获得罐中心脏的效果
+			召唤幸运紫气球宠物
+			'''
+	}
+
+	VibrantEnchant: {
+		DisplayName: 振荡魔石
+		Tooltip:
+			'''
+			增加2点虚空恢复速度
+			以射击精度为代价，使振荡手枪一次发射三发子弹
+			获得收割者之镰的效果
+			'''
+	}
+
+	WormwoodEnchant: {
+		DisplayName: 流胶木魔石
+		Tooltip:
+			'''
+			召唤3个盛花钩协助战斗
+			获得刺梨盾的效果
+			'''
+	}
+
+	FrigidEnchantSOTS: {
+		DisplayName: 极寒魔石
+		Tooltip:
+			'''
+			极寒标枪将不消耗虚空值
+			降低15%虚空伤害
+			增加2点生命恢复速度
+			免疫[C/99D9EA:冷冻]、[C/00A2E8:冰冻]、[C/1CC6F4:霜冻]减益
+			'''
+	}
+
+	TwilightAssassinEnchant: {
+		DisplayName: 薄光刺客魔石
+		Tooltip:
+			'''
+			全息之眼现在会自动为你进行攻击
+			自动攻击有25%的概率对敌人造成不稳定化，但不稳定化的等级越高，施加的概率就越低
+			获得计算器的效果
+			'''
+	}
+
+	VoidForce: {
+		DisplayName: 虚空之力
+		Tooltip:
+			'''
+			拥有薄暮和振荡盔甲的套装奖励
+			拥有诅咒和薄光刺客盔甲的套装奖励
+			获得花岗岩护盾和收割者之镰的效果
+			获得罐中心脏和计算器的效果
+			召唤幸运紫气球宠物
+			'''
+	}
+
+	EarthenEnchant: {
+		DisplayName: 陆地魔石
+		Tooltip:
+			'''
+			近战攻击有概率对敌人施加一种可叠加的永久损伤，使敌人在所有攻击中受到额外的伤害
+			增加20%攻击速度
+			获得开锁器和元素护身符的效果
+			'''
+	}
+
+	ElementalEnchant: {
+	DisplayName: 元素魔石
+		Tooltip:
+			'''
+			被传送命中的敌人将被暂时冻结时间
+			传送的冷却时间被降低至6秒，并且使传送对敌人造成伤害的范围增加50%
+			传送伤害随虚空伤害加成而提升
+			获得护身符袋和终极偏振器的效果
+			'''
+	}
+
+	ElementsForce: {
+		DisplayName: 元素之力
+		Tooltip:
+			'''
+			拥有极寒和流胶木盔甲的套装奖励
+			拥有陆地和元素盔甲的套装奖励
+			获得开锁器和元素护身符的效果
+			获得刺梨盾、护身符袋和终极偏振器的效果
+			'''
+	}
+
+	DrillforgeEnchant: {
+		DisplayName: 钻头熔炉魔石
+		Tooltip:
+			'''
+			增加50%导弹发射器尾部的攻击速度
+			增加30%虚空恢复速度
+			获得钻头手臂的效果
+			'''
+	}
+
+	FrostArtifactEnchant: {
+		DisplayName: 霜冻遗物魔石
+		Tooltip:
+			'''
+			大多数近战和远程攻击都会召唤少量极地炮，每个极地炮造成25%伤害
+			获得冰碎块护盾的效果
+			'''
+	}
+
+	PatchLeatherEnchant: {
+		DisplayName: 补丁皮魔石
+		Tooltip: 召唤一群飞蛇协助战斗
+	}
+
+	VoidspaceRangerEnchant: {
+		DisplayName: 虚空游侠魔石
+		Tooltip:
+			'''
+			攻击会永久造成[C/84CC87:亚空之焰]减益，每秒造成10点伤害
+			当一个拥有[C/84CC87:亚空之焰]的敌人被杀死时，它们会对其他所有敌人造成伤害，伤害相当于从[C/84CC87:亚空之焰]中累计受到的伤害
+			以这种方式受到伤害的敌人也会受到[C/84CC87:亚空之焰]的影响
+			获得亚空间锁盒、虚空间徽章和聚焦十字镜的效果
+			'''
+	}
+
+	MachineForce: {
+		DisplayName: 机械之力
+		Tooltip:
+			'''
+			拥有钻头熔炉和霜冻遗物盔甲的套装奖励
+			拥有补丁皮和虚空间游侠盔甲的套装奖励
+			获得钻头手臂和冰碎块护盾的效果
+			获得亚空间锁盒、虚空间徽章和聚焦十字镜的效果
+			'''
+	}
+
+	PossessedEnchant: {
+		DisplayName: 附灵魔石
+		Tooltip:
+			'''
+			当[fx/eb:灵界契约]被激活时会增加生命恢复速度
+			双击W键可变身为一颗疾冲颅骨
+			'''
+	}
+
+	JellyEnchant: {
+		Tooltip:
+			'''
+			双击W键可召唤[c/CE861A:小胶莉塔]来为你驻守这片区域!
+			双击W键可召回[c/CE861A:小胶莉塔]
+			'''
+		DisplayName: 果冻胶魔石
+	}
+
+	GravekeeperEnchant: {
+		Tooltip:
+			'''
+			增加1个最大仆从栏
+			双击上键可以变身为缥缈飞蛾
+			召唤物在造成伤害时会随时间推移再次充能
+			获得巫毒之心的效果
+			'''
+		DisplayName: 守墓人魔石
+	}
+
+	CrabEnchant: {
+		Tooltip: 格挡近战攻击，并降低来自身后的弹幕对你造成的伤害
+		DisplayName: 蟹壳魔石
+	}
+
+	TectonicEnchant: {
+		DisplayName: 构岩魔石
+		Tooltip:
+			'''
+			击杀敌人时将掉落会爆炸的朱砂炸弹
+			获得火柴盒和痛苦源晶
+			召唤太阳先生宠物
+			'''
+	}
+
+	WarlochEnchant: {
+		DisplayName: 巫妖术士魔石
+		Tooltip:
+			'''
+			你能够使用鞭子将水生动物卷走并吞食
+			吞食后会获得伤害和防御增益
+			你的猎物会被红色高亮标出
+			获得紫泪石戒指的效果
+			'''
+	}
+
+	CorruptionForce: {
+		DisplayName: 腐败之力
+		Tooltip:
+			'''
+			拥有附灵、守墓人和巫妖术士盔甲的套装奖励
+			拥有构岩、果冻胶和蟹壳盔甲的套装奖励
+			获得巫毒之心和火柴盒的效果
+			获得痛苦源晶和紫泪石戒指的效果
+			'''
+	}
+
+	FrostForce: {
+		Tooltip:
+			'''
+			拥有霜晶破碎者、星辰游侠和观星者盔甲的套装奖励
+			拥有冰噬和奇械师盔甲的套装奖励
+			获得奥秘包裹、冻结冰峰和孔雀石宝盒的效果
+			获得寒冷催化物和菌丝壁垒的效果
+			'''
+		DisplayName: 冰寒之力
+	}
+
+	StarRangerEnchant: {
+		Tooltip:
+			'''
+			远程武器在造成伤害时会逐渐将碎裂之星复原
+			在完全复原后，使用魔法武器就能变得[fx/mov:银河级强悍]!
+			获得奥秘包裹的效果
+			'''
+		DisplayName: 星辰游侠魔石
+	}
+
+	StargazerEnchant: {
+		Tooltip:
+			'''
+			你优雅的动作散发出了壮丽的星尘，让附近的敌人头晕目眩
+			在[fx/mov:魔力过载]期间，你的弹幕也会散发出星尘
+			'''
+		DisplayName: 观星者魔石
+	}
+
+	RimebreakerEnchant: {
+		Tooltip:
+			'''
+			在你攻击时会召唤一道[c/7AE5FF:冰川回响]，他会驱使寒冰之剑刺向敌人!
+			每当他对敌人造成伤害时，你都会获得一层[c/7AE5FF:破冰]
+			获得冻结冰峰和孔雀石宝盒的效果
+			'''
+		DisplayName: 霜晶破碎者魔石
+	}
+
+	FrostbiteEnchant: {
+		Tooltip:
+			'''
+			对寒冷系的减益免疫
+			获得寒冷催化物的效果
+			'''
+		DisplayName: 冰噬魔石
+	}
+
+	ContraptionistEnchant: {
+		Tooltip:
+			'''
+			增加1个最大仆从栏
+			召唤一台螺旋奇械炮塔，摧毁被锁定的敌人
+			在击杀敌人以及对Boss造成伤害时会掉落弹药
+			双击上键可以切换炮塔
+			获得菌丝壁垒的效果
+			'''
+		DisplayName: 奇械师魔石
 	}
 }
 
