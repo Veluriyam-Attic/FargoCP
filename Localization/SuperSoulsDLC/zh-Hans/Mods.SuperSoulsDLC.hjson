@@ -726,6 +726,95 @@ Items: {
 			“即使是细小的石子，在你的力量下也变得致命……”'
 			'''
 	}
+
+	NexusForce: {
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/FrostbiteEnchant] 生成雪球光环攻击敌怪
+			[i:SuperSoulsDLC/GravekeeperEnchant] 击杀地怪偶尔会掉落墓碑
+			[i:SuperSoulsDLC/PossessedEnchant] 被击杀敌怪有25%概率成为短暂存活的幽灵仆从
+			[i:SuperSoulsDLC/RimebreakerEnchant] 攻击会召唤[c/7AE5FF:冰川回响]来斩切敌怪
+			[i:SuperSoulsDLC/StargazerEnchant] 移动时留下造成伤害的星尘
+			[i:SuperSoulsDLC/StarRangerEnchant] 星辰会伴随攻击落下
+			'''
+		DisplayName: 联结之力
+	}
+
+	DomainForce: {
+		Tooltip:
+			'''
+			[i:SuperSoulsDLC/ContraptionistEnchant] 召唤螺旋奇械炮塔为你而战
+			[i:SuperSoulsDLC/CrabEnchant] 格挡近战伤害，并降低来自身后弹幕对你造成的伤害
+			[i:SuperSoulsDLC/JellyEnchant] 召唤小胶莉塔为你而战
+			[i:SuperSoulsDLC/STectonicEnchant] 击杀敌怪会在对应位置掉落朱砂炸弹
+			[i:SuperSoulsDLC/WarlochEnchant] 你能够实用鞭子将水生动物卷走来获得大量增幅
+			'''
+		DisplayName: 统域之力
+	}
+
+	ContraptionistEnchant: {
+		Tooltip: 召唤螺旋奇械炮塔为你而战
+		DisplayName: 奇械魔石
+	}
+
+	CrabEnchant: {
+		Tooltip: 格挡近战伤害，并降低来自身后弹幕对你造成的伤害
+		DisplayName: 蟹壳魔石
+	}
+
+	FrostbiteEnchant: {
+		Tooltip:
+			'''
+			生成雪球光环攻击敌怪
+			在击中敌怪后雪球会消失
+			雪球会在全部用完6秒后生成
+			'''
+		DisplayName: 冰噬魔石
+	}
+
+	GravekeeperEnchant: {
+		Tooltip:
+			'''
+			击杀地怪偶尔会掉落墓碑
+			被玩家击碎的墓碑会产生追踪敌怪的灵魂
+			'''
+		DisplayName: 守墓魔石
+	}
+
+	JellyEnchant: {
+		Tooltip: 召唤小胶莉塔守护你的周围
+		DisplayName: 果胶魔石
+	}
+
+	PossessedEnchant: {
+		Tooltip: 被击杀敌怪有25%概率成为短暂存活的幽灵仆从
+		DisplayName: 附灵魔石
+	}
+
+	RimebreakerEnchant: {
+		Tooltip: 攻击会召唤[c/7AE5FF:冰川回响]来斩切敌怪
+		DisplayName: 霜碎魔石
+	}
+
+	StargazerEnchant: {
+		Tooltip: 移动时留下造成伤害的星尘
+		DisplayName: 观星魔石
+	}
+
+	StarRangerEnchant: {
+		Tooltip: 星辰会伴随攻击落下
+		DisplayName: 星游魔石
+	}
+
+	STectonicEnchant: {
+		Tooltip: 击杀敌怪会在对应位置掉落朱砂炸弹
+		DisplayName: 构岩魔石
+	}
+
+	WarlochEnchant: {
+		Tooltip: 你能够实用鞭子将水生动物卷走来获得大量增幅
+		DisplayName: 巫术魔石
+	}
 }
 
 Projectiles: {
@@ -737,6 +826,10 @@ Projectiles: {
 	NullZoneProjectile.DisplayName: 空域
 	NewReflectorProjectile.DisplayName: 反射盾
 	CactusThornProjectile.DisplayName: 仙人掌荆棘
+	NewMorgensternGreenPro.DisplayName: 泰拉晨星
+	NewHelicalContraption.DisplayName: 螺旋奇械炮塔
+	SnowballProjectile.DisplayName: 雪球
+	GhostProjectile.DisplayName: 幽灵
 }
 
 Buffs: {
@@ -786,4 +879,7 @@ Buffs: {
 	}
 }
 
-NPCs.OnyxGem.DisplayName: 玛瑙大宝石
+NPCs: {
+	OnyxGem.DisplayName: 玛瑙大宝石
+	TombstoneNPC.DisplayName: 墓碑
+}

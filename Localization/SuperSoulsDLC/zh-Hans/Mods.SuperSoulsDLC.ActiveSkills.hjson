@@ -50,7 +50,7 @@ WitherEffect: {
 
 CurseSwapEffect: {
 	DisplayName: 诅咒切换
-	Tooltip: 
+	Tooltip:
 		'''
 		红玉石碑变为进攻姿态
 		进攻姿态时会降低80%诅咒爆闪冷却时间，增加6点虚空流失速度和10%虚空伤害
@@ -59,9 +59,19 @@ CurseSwapEffect: {
 
 ElementalEffect: {
 	DisplayName: 元素瞬闪
-	Tooltip: 
+	Tooltip:
 		'''
 		将你传送至光标位置
 		传送途中造成等于玩家防御值200%的伤害
 		'''
+}
+
+ContraptionistToggleEffect: {
+	DisplayName: 奇械炮塔模式切换
+	Tooltip: 切换螺旋奇械炮塔的模式
+}
+
+JellyEffect: {
+	DisplayName: 召唤小胶莉塔
+	Tooltip: 在你周围召唤小胶莉塔
 }

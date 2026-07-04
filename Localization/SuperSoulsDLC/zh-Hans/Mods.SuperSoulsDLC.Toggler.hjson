@@ -10,78 +10,33 @@ HardwareHeader: "{$Mods.SuperSoulsDLC.Items.HardwareForce.DisplayName}"
 MysticismHeader: "{$Mods.SuperSoulsDLC.Items.MysticismForce.DisplayName}"
 StarsHeader: "{$Mods.SuperSoulsDLC.Items.StarsForce.DisplayName}"
 WorldHeader: "{$Mods.SuperSoulsDLC.Items.WorldForce.DisplayName}"
-WormwoodEffect: 流胶木 盛花钩
-VoidspaceEffect: 虚游 亚空之焰
-VoidspaceEmblemEffect: 虚游 虚空间徽章
-BagOfCharmsEffect: 虚游 护身符袋
-VibrantEffect: 振荡 振荡闪电
-HarvestersScytheEffect: 振荡 收割者之镰
-GuideToIlluminationEffect: 振荡 辉光指南
-MrGlorpEffect: 外星猫咪先生
-IlluminantLanternEffect: 薄暮 辉光灯笼
-TwilightAssassinEffect: 昏影 全息剑刃
-BladeNecklaceEffect: 昏影 剑刃项链
-BlinkPackEffect: 昏影 闪瞬包裹
-GravityAnchorEffect: 昏影 重力锚
-PatchLeatherEffect: 皮衣 飞蛇仆从
-SunlightAmuletEffect: 皮衣 日辉护身符
-BandOfDoorEffect: 门之手环
-SteelerWheelerEffect: 皮衣 钢轮推车
-FrostArtifactEffect: 霜遗 极地炮
-FrigidHourglassEffect: 霜遗 极寒沙漏
-ShardGuardEffect: 霜遗 冰碎块护盾
-EndothermicAfterburnerEffect: 霜遗 吸热后燃器
-FrigidEffect: 极寒 冰碎块
-FrigidRobeEffect: 极寒 极寒标枪弹跳
-ShatterShardChestplateEffect: 极寒 冰碎块
-ShoeIceEffect: 极寒 冰鞋
-MrEepyEffect: 困困先生
-ElementalEffect: 元素 元素瞬闪
-FocusReticleEffect: 元素 聚焦十字镜
-AcidicInjectionEffect: 元素 残杀注射器
-VoidmageIncubatorEffect: 虚空魔法孵化器
-EarthenEffect: 陆地 攻击损伤
-GreedierRingEffect: 贪欲之戒
-RockCandyEffect: 陆地 岩石冰糖
-AutoClickerEffect: 陆地 连点手套
+DomainHeader: "{$Mods.SuperSoulsDLC.Items.DomainForce.DisplayName}"
+NexusHeader: "{$Mods.SuperSoulsDLC.Items.NexusForce.DisplayName}"
 CursedEffect: 诅咒 诅咒视域
-HeartInAJarEffect: 诅咒 罐中心脏
-CursedAppleEffect: 诅咒 诅咒苹果
-SyntheticLiverEffect: 合成肝脏
-MrMcMillenEffect: 麦克米伦先生
-SerpentSpineEffect: 骇蟒脊椎
-HyperdriveEffect: 超光速引擎
-MidnightPrismEffect: 午夜棱镜
+DrillforgeEffect: 钻炉 导弹发射尾
+EarthenEffect: 陆地 攻击损伤
+ElementalEffect: 元素 元素瞬闪
+FrigidEffect: 极寒 冰碎块
+FrostArtifactEffect: 霜遗 极地炮
+PatchLeatherEffect: 皮衣 飞蛇仆从
+TwilightAssassinEffect: 昏影 全息剑刃
+VibrantEffect: 振荡 振荡闪电
+VoidspaceEffect: 虚游 亚空之焰
+WormwoodEffect: 流胶木 盛花钩
 SupernovaEmblemEffect: 超新星徽章
-AlchemistsCharmEffect: 炼金术士护符
-PlasmaShrimpEffect: 等离子虾
-WishingStarEffect: 祈愿之星
 BlazingQuiverEffect: 灼炎箭袋
-BackupBowEffect: 后备弓
 BagOfAmmoGatheringEffect: 弹药集合袋
 InfinityPouchEffect: 无尽之袋
+PlasmaShrimpEffect: 等离子虾
+WishingStarEffect: 祈愿之星
 FortressGeneratorEffect: 堡垒发生盾
-WispInAJarEffect: 罐中鬼火
-SandwichEffect: 三明治
-BundleOfSnakesEffect: 双蛇捆束
-CalculatorEffect: 计算器
-HydrokineticAntennaeEffect: 流体动力触角
-PricklyPearShieldEffect: 诅咒 刺梨盾
+SerpentSpineEffect: 骇蟒脊椎
+VoidmageIncubatorEffect: 虚空魔法孵化器
 BulwarkOfTheAncientsEffect: 远古壁垒
-ChallengerRingEffect: 挑战者之戒
-RotHeartEffect: 诅咒 腐烂之心
 DrillHandEffect: 钻头手臂
 EarthDriveEffect: 陆地驱动器
-LockpickEffect: 开锁器
-DrillforgeEffect: 钻炉 导弹发射尾
-ExperimentalInjectionEffect: 钻炉 实验注射器
-TinyPlanetoidEffect: 钻炉 微型小行星
+BandOfDoorEffect: 门之手环
 SubspaceBoostersEffect: 亚空助推靴
-UltimatePolarizerEffect: 终极偏振器
-GildedBladeWingsEffect: 耀刃之翼
-VisionAmuletEffect: 元素 元素护身符
-WardingCharmEffect: 振荡 守御护身符
-SunbulbEffect: 极寒 日光灯泡
 AuroraEffect: 极光 极光史莱姆
 BiologicalEffect: 生物学 加油站
 ChronoEffect: 钟盘 时间借款
@@ -113,7 +68,6 @@ FungusDeluxeEffect: 豪华蘑菇
 TheBatterEffect: 击球手
 TheHolyTrinityEffect: 圣三位一体
 AirborneGogglesEffect: 空军目镜
-TrashBagEffect: 垃圾袋
 DivineNecklaceEffect: 圣洁发夹
 VanguardBreastpieceEffect: 冲锋胸牌
 MasterShieldEffect: 大师之盾
@@ -156,7 +110,7 @@ ExplosiveBoxEffect: 炸药 死亡爆炸
 FakeFishyumEffect: 赝疑 可疑守卫
 FireEffect: 火服 悠悠球火焰波
 ForestsEffect: 森林 森林提速
-HollowwoodEffect: 空虚木 虚空减免 
+HollowwoodEffect: 空虚木 虚空减免
 IceCrystalEffect: 冰晶 冰刺
 MagnesiumEffect: 镁 镁水晶
 MercuryEffect: 水银 水银中毒
@@ -170,3 +124,19 @@ TantalumEffect: 钽 钽二段跳
 TimeEffect: 时间 时间禁锢
 WaterEffect: 水铠 水之治疗
 ZincEffect: 锌 锌盾
+MementoVivereEffect: 生念之剑
+MagnetQuiverEffect: 磁铁箭袋
+StarshroomEffect: 星辰菇
+PalladiumShieldEffect: 钯金盾
+EonOfCaptivityEffect: 万古囚牢
+MorgensternEffect: 晨星锤
+ContraptionistEffect: Helical Contraption
+CrabEffect: Behind Protection
+FrostbiteEffect: Snowball Aura
+GravekeeperEffect: Enemy Tombstones
+PossessedEffect: Ghost Minions
+RimebreakerEffect: Echo Slash
+StargazerEffect: Stardust Trail
+StarRangerEffect: Star Attacks
+STectonicEffect: Cinnabar Bombs
+WarlochEffect: Seafood Whip Defense
