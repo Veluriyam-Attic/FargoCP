@@ -1,0 +1,80 @@
+ModSettings: {
+	DisplayName: Mod Settings
+
+	Headers: {
+		MusicSettings: Music Configuration
+		ItemChanges: Item & Recipe Changes
+		EternityMode: Eternity Mode Settings
+		Miscellaneous: Miscellaneous Settings
+	}
+
+	UseCustomLifelightMusic: {
+		Label: Use Lifelight's alt theme (default: true)
+		Tooltip: If activated, replace the Lifelight's theme
+	}
+
+	UseCustomDraedonMusic: {
+		Label: Use ExoMechs' alt theme (default: true)
+		Tooltip: If activated, replace the ExoMechs' theme
+	}
+
+	UseCustomMarbleTheme: {
+		Label: Use Marble Caves biome theme (default: true)
+		Tooltip: If activated, adds a theme for the Marble Caves
+	}
+
+	UseCustomGraniteTheme: {
+		Label: Use Granite Caves biome theme (default: true)
+		Tooltip: If activated, adds a theme for the Granite Caves
+	}
+
+	UseBossNewMusics: {
+		Label: Use the new 1.4.5 themes for some bosses (default: true)
+		Tooltip: If activated, changes the themes of Twins, Skeletron(Prime), Destroyer, EaterOfWorlds, LunaticCultist, QueenBee & TorchGod
+	}
+
+	RemoveSigilConfig: {
+		Label: Remove Sigil Of Champions recipe (default: true)
+		Tooltip: If activated, makes the Sigil Of Champions impossible to get by crafting
+	}
+
+	DisableEModeZenithNerf: {
+		Label: Disable Zenith nerf in Eternity Mode (default: true)
+		Tooltip: If activated and in Eternity Mode, restores Zenith base hit cooldown
+	}
+
+	DisableEModeStarCannonNerf: {
+		Label: Disable Star Cannon nerf in Eternity Mode (default: true)
+		Tooltip: If activated and in Eternity Mode, restores 40% of the damage
+	}
+
+	DisableEModeStarShooterNerf: {
+		Label: Disable Super Star Shooter nerf in Eternity Mode (default: true)
+		Tooltip: If activated and in Eternity Mode, adds infinite piercing
+	}
+
+	DisableEModeBlizzardStaffNerf: {
+		Label: Disable Blizzard Staff nerf in Eternity Mode (default: true)
+		Tooltip: If activated and in Eternity Mode, restores 30% of damage and speed
+	}
+
+	ChangeGlobalAI: {
+		Label: Change the AI from almost all entities (default: true)
+		Tooltip: Disables the Eternity AI from all Vanilla bosses and entities; multiplies their HP and damage, etc.
+	}
+
+	MultiplyEterniaCrystalLife: {
+		Label: Multiply Eternia Crystal life by 3x (default: true)
+		Tooltip: If activated, will multiply its defense too
+	}
+
+	ModifyChampionsLoot: {
+		Label: Modify the loot of the Champion of Will, Life & Cosmos (default: true)
+		Tooltip: If activated, will make each one drop 3 forces
+	}
+
+	UseDifferentProgression: {
+		Label: Modify Fargo's Progression
+		Tooltip: If activated, will unable Mutant's Curse in Expert/Eternity and Master Mode until Eridanus is defeated
+	}
+}
