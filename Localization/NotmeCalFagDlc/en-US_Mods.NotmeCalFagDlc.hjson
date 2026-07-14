@@ -1,0 +1,1124 @@
+Items: {
+	EmpyreanEnchantment: {
+		Tooltip:
+			'''
+			The Rogue's attacks leave a trail of fine Meld plasma particles behind them.
+			         Hits inflict the 'Shadow Entropy' debuff for 5 seconds.
+			         Shadow Entropy deals massive damage over time, but increases the target's damage by 25%.
+			         The Rogue's Stealth builds 20% faster.
+			'''
+		DisplayName: Empyrean Enchantment
+	}
+
+	StyxEnchantment: {
+		Tooltip:
+			'''
+			Every 3 seconds, fires 8 Death Scythes in all directions, dealing 700 damage.
+			         If you are wearing a full set of Styx Armor, grants +15 Defense and +10% Movement Speed.  
+			'''
+		DisplayName: Styx enchantment
+	}
+
+	NekomiEnchantment: {
+		Tooltip:
+			'''
+			If you have at least one minion, you gain health regeneration.
+			         Regeneration increases by 0.1 health per second for each minion summoned.  
+			'''
+		DisplayName: Enchantment Nekomi
+	}
+
+	MutantEnchantment: {
+		Tooltip:
+			'''
+			Increases damage resistance by 20% (+35% with the full Eternity/Mutant set)
+			         Grants immunity to the 'Mutant Bite' debuff
+			         Upon detecting nearby enemies, summons 10 homing Phantasmatic Eyes (1000 damage)
+			         Set Synergy: Your projectiles explode with a Phantasmatic Blast on impact
+			'''
+		DisplayName: Mutant Enchantment
+	}
+
+	GaiaEnchantment: {
+		Tooltip:
+			'''
+			Melee attacks grant a Bug Armor attack speed buff for 10 seconds
+			         Ranged attacks increase critical damage by 15% for 10 seconds
+			         Magic attacks heal you for 2 health
+			         Whip attack speed increased by 10%
+			'''
+		DisplayName: Gaia Enchantment
+	}
+
+	EridanusEnchantment: {
+		Tooltip:
+			'''
+			Increases damage and attack speed for all classes by 15%
+			         Press the mod's custom key to activate ZA WARUDO!
+			         Freezes time around you for 10 seconds (1-minute cooldown)
+			'''
+		DisplayName: Eridanus Enchantment
+	}
+
+	MutantArtifact: {
+		Tooltip:
+			'''
+			Combines the great power of five enchantments:
+			         • Grants health regeneration from your minions (Nekomi)
+			         • Grants class buffs on attacks and increases whip speed by 10% (Gaia)
+			         • Allows you to stop time with the [ZA WARUDO!] key (Eridanus)
+			         • Releases death scythes every 3 seconds and buffs Styx's armor (Styx)
+			         • Grants +20% defense, spawns eyes, and detonates projectiles in the Eternity set (Mutant)
+			'''
+		DisplayName: Force of the mutant
+	}
+
+	FargosSoul: {
+		Tooltip:
+			'''
+			True Fusion of Eternity.
+			         Combines absolutely all the effects of Cupid's Cursed Heart and Mutant Artifact
+			         Passively grants the true set bonuses of five armor sets (even when not equipped):
+			         • Activates the accumulation and ultimate of Reaper's Scythe charges (Stix Bonus)
+			         • Summons the Visage of Abomination, a ring of spheres, and Death Lasers (Eternity Bonus)
+			         • Transforms all your attacks into super mode with the God Eater debuff
+			         • Applies all passive effects of the Nekomi, Gaia, and Eridanus sets
+			'''
+		DisplayName: Fargo's Soul
+	}
+
+	CursedHeartOfCupid: {
+		Tooltip:
+			'''
+			Combines the effects of Sparkling Adoration, Vile Wand, and Mutant Eye:
+			         • Grants immunity to Love, False Hearts, Vile Fang/Presence, and Mutant Bite
+			         • Activates a Graze aura: Dodging projectiles increases damage (limit increased by 25%)
+			         • Your attacks periodically create life-sucking beams of love
+			         • Spectral Abomination periodically sustains your critical hits
+			         • Allows you to survive any fatal blow with 1 HP (recovers at full health)
+			         • Press the Mutant Bomb button to destroy projectiles with a wave of spheres (60-second cooldown)
+			         • Styx's armor stores energy at maximum Graze
+			'''
+		DisplayName: Cursed Heart Of Cupid
+	}
+
+	WaffleBoots: {
+		Tooltip:
+			'''
+			The wearer can run super fast
+			Reduces damage from touching lava, fire, and fiery attacks
+			Increases movement speed by 10% and acceleration by 15%
+			'''
+		DisplayName: Waffle Boots
+	}
+
+	SturdyBoots: {
+		Tooltip:
+			'''
+			Reinforced with underground crystals.
+			Increases movement speed by 5%
+			Grants 2 defense
+			'''
+		DisplayName: Sturdy Boots
+	}
+
+	SparklingSole: {
+		Tooltip:
+			'''
+			Gives a bright spark to your movement.
+			Increases movement speed by 7%
+			'''
+		DisplayName: Sparkling Sole
+	}
+
+	ReinforcedSturdyBoots: {
+		Tooltip:
+			'''
+			Infused with unholy brimstone energy.
+			The wearer can run super fast
+			Increases movement speed by 13%
+			Grants 5 defense
+			'''
+		DisplayName: Reinforced Sturdy Boots
+	}
+
+	PreciousSole: {
+		Tooltip:
+			'''
+			Steps paved with wealth and speed.
+			Increases movement speed by 10%
+			'''
+		DisplayName: Precious Sole
+	}
+
+	PlainBoots: {
+		Tooltip: Just a boots.
+		DisplayName: Boots
+	}
+
+	NatureBoots: {
+		Tooltip:
+			'''
+			Combines the power of amphibians, desert winds, and forest fey
+			Allows flight and super fast running
+			Significantly increases running speed on sand
+			Increases jump speed, jump height, and movement mobility
+			Spawns flowers and grass at your feet as you walk
+			'''
+		DisplayName: Nature Boots
+	}
+
+	MetalSole: {
+		Tooltip:
+			'''
+			Improves your steps.
+			Increases movement speed by 4%
+			'''
+		DisplayName: Metal Sole
+	}
+
+	MagmaSole: {
+		Tooltip:
+			'''
+			Forged in the depths of the Underworld.
+			Increases movement speed by 10%
+			Increases acceleration by 15%
+			Reduces fire and lava damage taken by 50%
+			'''
+		DisplayName: Magma Sole
+	}
+
+	ImprovedSturdyBoots: {
+		Tooltip:
+			'''
+			Infused with standard hardmode essence.
+			The wearer can run super fast
+			Increases movement speed by 8%
+			Grants 3 defense
+			'''
+		DisplayName: Improved Sturdy Boots
+	}
+
+	GlintingSole: {
+		Tooltip:
+			'''
+			Slightly increases movement speed.
+			Increases movement speed by 2%
+			'''
+		DisplayName: Glinting Sole
+	}
+
+	DarkSole: {
+		Tooltip:
+			'''
+			Infused with shadow energy.
+			Increases movement speed by 10%
+			Increases acceleration by 10%
+			'''
+		DisplayName: Dark Sole
+	}
+
+	AstralEnchantment: {
+		Tooltip:
+			'''
+			         Magical and ranged attacks inflict Astral Contagion on enemies.
+			         Permanently grants the 'Omniscience' and 'Astral Thrust' buffs.
+			'''
+		DisplayName: Astral Enchantment
+	}
+
+	PrismaticEnchantment: {
+		Tooltip:
+			'''
+			         Increases maximum health by 25% of your maximum mana
+			Increases defense by ~6.6% of your maximum mana
+			+15% to whip attack size
+			+50 to maximum rogue stealth
+			'''
+		DisplayName: Prismatic Enchantment
+	}
+
+	OmegaBlueEnchantment: {
+		Tooltip:
+			'''
+			True Melee gains armor penetration equal to 20% of your defense.
+			Increases the maximum number of tentacles in the Omega Blue armor set by 5.
+			'''
+		DisplayName: Omega Blue Enchantment
+	}
+
+	FearmongerEnchantment: {
+		Tooltip:
+			'''
+			Grants the effects of the Ego-Crushing trinket
+			The size of your summoned minions is increased by 50%
+			Maximum mana is increased by 50 for each active minion
+			'''
+		DisplayName: Fearmonger Enchantment
+	}
+
+	GodSlayerEnchantment: {
+		Tooltip:
+			'''
+			Grants absolute immunity to the 'Godslayer Inferno' debuff
+			Any dashes performed ignite nearby enemies with Godslayer Inferno
+			Wearing a full Godslayer armor set grants:
+			-> +15 defense
+			-> +10% damage
+			-> +10% movement speed
+			'''
+		DisplayName: God Slayer Enchantment
+	}
+
+	MolluskEnchantment: {
+		Tooltip:
+			'''
+			While you stand still, your stats change every second:
+			-> Defense increases by +3 per second (up to +30)
+			-> Damage decreases by -5% per second (up to -50%)
+			Any movement instantly resets the accumulated bonus
+			Staying in water increases defense by 10, but reduces speed by 10%
+			'''
+		DisplayName: Mollusk Enchantment
+	}
+
+	FathomSwarmerEnchantment: {
+		DisplayName: Fathom Swarmer Enchantment
+		Tooltip:
+			'''
+			You are constantly aglow with the 'Wet' effect and emit a soft blue light.
+			Significantly improves underwater visibility.
+			While in water, the following bonuses are activated:
+			-> +1 to maximum number of minions.
+			-> +3 to maximum number of guards (turrets).
+			-> +10% health regeneration.
+			-> Reduces damage resistance by 10%.
+			'''
+	}
+
+	PlaguebringerEnchantment: {
+		DisplayName: Plaguebringer Enchantment
+		Tooltip:
+			'''
+			Your summoned minions inflict Plague on enemies for 10 seconds
+			When you take damage, you release 5 to 10 Plague Bees
+			When your health drops below 100, a powerful Plague explosion occurs around you
+			dealing 300 damage to the summoner (30-second cooldown)
+			'''
+	}
+
+	PlagueReaperEnchantment: {
+		Tooltip:
+			'''
+			Cursed Fire deals damage twice as fast, and Ichor reduces enemy defenses by half.
+			Ranged attacks inflict Plague for 10 seconds.
+			Flamethrowers additionally poison targets with Acidic Poison for 5 seconds
+			If your health drops below 20%, a powerful Plague explosion occurs.
+			for 200 ranged damage (30-second cooldown).
+			'''
+		DisplayName: Plague Reaper Enchantment
+	}
+
+	LunicCorpsEnchantment: {
+		DisplayName: Lunic Corps Enchantment
+		Tooltip:
+			'''
+			Creates a visible energy shield that has a 5% chance to reflect enemy projectiles.
+			Bullet attacks have a 15% chance to cause a shooting star to fall on the enemy (100 damage).
+			The chance to save ammo increases the lower your ammo count.
+			'''
+	}
+
+	TarragonEnchantment: {
+		DisplayName: Tarragon Enchantment
+		Tooltip:
+			'''
+			Permanently grants the 'Tarragon Life' buff
+			Increases critical strike chance for all classes by 10%
+			Increases knockback for all weapons by 2x
+			When wearing a full set of Tarragon Armor, increases attack speed for all classes by 10%
+			'''
+	}
+
+	SilvaEnchantment: {
+		DisplayName: Silva Enchantment
+		Tooltip:
+			'''
+			Increases maximum mana by 100
+			+10% to whip attack size
+			Taking any damage grants the 'Silva's Immortality' buff for 5 seconds
+			'''
+	}
+
+	UmbraEnchantment: {
+		Tooltip:
+			'''
+			Rogue projectiles constantly accelerate in flight
+			Grants a 10% chance to not consume Stealth when performing a Rogue attack
+			+10% movement speed
+			'''
+		DisplayName: Umbra Enchantment
+	}
+
+	BrimstoneEnchantment: {
+		DisplayName: Brimstone Enchantment
+		Tooltip:
+			'''
+			All your attacks burn enemies with Brimstone Flame for 10 seconds.
+			Permanently grants the 'Brittlefire Fury' buff.
+			Reduces mana consumption by 15%.
+			When you have full mana, your magic damage is increased by 10%.
+			While your health is below 30, your defense is doubled.
+			'''
+	}
+
+	BloodflareEnchantment: {
+		Tooltip:
+			'''
+			Permanently grants the Blood Rage buff
+			Increases maximum health by 10%
+			Increases all damage dealt by 5%
+			Heroic enemies heal you for 1-3 health
+			'''
+		DisplayName: Bloodflare Enchantment
+	}
+
+	AuricEnchantment: {
+		DisplayName: Auric Enchantment
+		Tooltip:
+			'''
+			Surrounds you with a noticeable protective shield (deals 700 damage, knocks back)
+			Press [KEY] to launch 4 huge Aurite bombs (700 damage with a splash and paralysis for 10 seconds).
+			Cooldown: 30 seconds.
+			'''
+	}
+
+	ExoEnchantment: {
+		Tooltip:
+			'''
+			Attacks apply the Miracle Blight debuff to enemies.
+			Increases damage for all classes by 15%, critical strike by 10%, and attack speed by 10%.
+			Increases melee armor penetration by 10 and true melee armor penetration by 20.
+			Increases chance to not consume projectiles by 15%
+			Decreases mana cost by 15% and increases mana regeneration by 10%.
+			Increases the number of minion and turret slots by 2.
+			+100 Rogue Stealth
+			+15% health regeneration, +10 defense, +10% damage resistance.
+
+			When wearing a full set of Tech Armor, all bonuses from this enchantment are increased by 25%.
+			'''
+		DisplayName: Exo Enchantment
+	}
+
+	ShadowPhaseEnchantment: {
+		DisplayName: Shadowspec Enchantment
+		Tooltip:
+			'''
+			Grants the Enraged buff while the accessory is equipped.
+			Increases damage, defense, max health, and minion slots by 10%
+			Reduces incoming damage by 5%
+			Doubles acceleration.
+			Call upon the force of heaven to empower your attacks and minions.
+			Courage, Enlightenment, Bliss. United in Judgment
+			+2 max minions, 15% increased summon damage, and 8% increased damage to all other classes
+			+2 HP/s life regen while flight time is partially or fully expanded
+			Press Angelic Alliance Blessing to grace yourself with the Divine Bless.png Divine Bless buff for 15 seconds
+			While active, an archangel is summoned for every minion you have
+			Archangels vaporize foes with heavenly light and each restore 2 HP upon spawning
+			Minion attacks inflict Banishing Fire.png Banishing Fire, and you gain a flat 4 HP/s regen
+			This effect has a cooldown of 1 minute
+			'''
+	}
+
+	OuterCosmosArtifact: {
+		DisplayName: Force of Outer Cosmos
+		Tooltip:
+			'''
+			The Rogue's attacks leave a trail of fine Meld plasma particles behind them.
+			Hits inflict the 'Shadow Entropy' debuff for 5 seconds, which deals massive damage over time but increases the target's damage by 25%.
+			Magical and ranged attacks inflict Astral Contagion on enemies, while True Melee attacks gain armor penetration equal to 20% of your defense.
+			Any dashes performed ignite nearby enemies with Godslayer Inferno.
+			The Rogue's Stealth builds 20% faster, and their maximum rogue stealth is increased by 50.
+			The character permanently gains absolute immunity to the 'Godslayer Inferno' debuff, as well as the 'Omniscience' and 'Astral Thrust' buffs, and the effects of the Ego-Crushing trinket.
+			Additionally, maximum health is increased by 25% of maximum mana, defense is increased by ~6.6% of maximum mana
+			Whip attack size is increased by 15%
+			The size of your summoned minions is increased by 50%
+			Maximum mana is increased by 50 for each active minion, and the maximum number of tentacles in the Omega Blue armor set is increased by 5.
+			Wearing a full Godslayer armor set grants +15 defense, +10% damage, and +10% movement speed.
+			'''
+	}
+
+	ObscurantismArtifact: {
+		DisplayName: Obscurantism Artifact
+		Tooltip:
+			'''
+			While you stand still, your stats change every second: Defense increases by +3 per second (up to +30), but damage decreases by -5% per second (up to -50%). Any movement instantly resets the accumulated bonus.
+			Passive: You are constantly aglow with the 'Wet' effect, emit a soft blue light, and significantly improve underwater visibility.
+			While staying in water: Increases defense by 10, reduces speed by 10%, activates +1 to maximum number of minions, activates +3 to maximum number of guards (turrets), increases health regeneration by 10%, and reduces damage resistance by 10%.
+			All Classes: Increases critical strike chance by 10% and increases knockback for all weapons by 2x.
+			Summoner & Whips: Your summoned minions inflict Plague on enemies for 10 seconds, and whip attack size is increased by 10%.
+			Ranged & Ammo: Ranged attacks inflict Plague for 10 seconds. Bullet attacks have a 15% chance to cause a shooting star to fall on the enemy (dealing 100 damage). 
+			Flamethrowers additionally poison targets with Acidic Poison for 5 seconds. 
+			The chance to save ammo increases the lower your ammo count.
+			Magic: Increases maximum mana by 100.
+			Debuffs: Cursed Fire deals damage twice as fast, and Ichor reduces enemy defenses by half.
+			Energy Shield: A visible energy shield has a 5% chance to reflect enemy projectiles.
+			Set Bonus: When wearing a full set of Tarragon Armor, attack speed increases for all classes by 10%.
+			Buffs: Permanently grants the 'Tarragon Life' buff.
+			Taking any damage grants the 'Silva's Immortality' buff for 5 seconds.
+			Bees: When you take damage, you release 5 to 10 Plague Bees.
+			Plague Explosions: When your health drops below 100, a powerful Plague explosion occurs around you dealing 300 damage to the summoner.
+			If your health drops below 20%, another powerful Plague explosion triggers for 200 ranged damage.
+			Both explosions share a 30-second cooldown.
+			'''
+	}
+
+	CataclysmArtifact: {
+		DisplayName: Cataclysm Artifact
+		Tooltip:
+			'''
+			Rogue projectiles constantly accelerate in flight
+			Grants a 10% chance to not consume Stealth when performing a Rogue attack
+			+10% movement speed
+			All your attacks burn enemies with Brimstone Flame for 10 secondsPermanently grants the 'Brittlefire Fury' buff
+			Reduces mana consumption by 30%
+			When you have full mana, your magic damage is increased by 10%
+			While your health is below 30, your defense is doubled
+			Permanently grants the Blood Rage buff
+			Increases maximum health by 20%
+			Increases all damage dealt by 15%
+			Heroic enemies heal you for 1-3 health
+			Surrounds you with a noticeable protective shield (deals 700 damage, knocks back)
+			Press [KEY] to launch 4 huge Aurite bombs (700 damage with a splash and paralysis for 10 seconds)
+			Cooldown: 30 seconds
+			Attacks apply the Miracle Blight debuff to enemies
+			Increases damage for all classes by 15%, critical strike by 10%, and attack speed by 10%
+			Increases melee armor penetration by 10 and true melee armor penetration by 20
+			Increases chance to not consume projectiles by 15%
+			Increases mana regeneration by 10%
+			Increases the number of minion slots by 4 and turret slots by 2
+			+100 Rogue Stealth+
+			15% health regeneration
+			+20 defense
+			+10% damage resistance
+			When wearing a full set of Tech Armor, all bonuses from this enchantment are increased by 25%
+			Grants the Enraged buff while the accessory is equipped
+			Reduces incoming damage by 5%Doubles acceleration
+			Call upon the force of heaven to empower your attacks and minions
+			Courage, Enlightenment, Bliss. United in Judgment
+			15% increased summon damage, and 8% increased damage to all other classes+
+			2 HP/s life regen while flight time is partially or fully expanded
+			Press Angelic Alliance Blessing to grace yourself with the Divine Bless buff for 15 seconds
+			While active, an archangel is summoned for every minion you haveArchangels vaporize foes with heavenly light and each restore 2 HP upon spawning
+			Minion attacks inflict Banishing Fire, and you gain a flat 4 HP/s regen
+			This effect has a cooldown of 1 minute
+			'''
+	}
+
+	SoulOfCalamitas: {
+		DisplayName: Soul Of Calamitas
+		Tooltip:
+			'''
+			Rogue's attacks leave a trail of fine Meld plasma particles
+			Rogue projectiles constantly accelerate in flight (doubles acceleration)
+			Hits inflict 'Shadow Entropy' debuff for 5 seconds (deals massive DoT, increases target's damage by 25%)
+			Magical and ranged attacks inflict Astral Contagion
+			True Melee attacks gain armor penetration equal to 20% of defense
+			+20 Melee armor penetration and +20 true melee armor penetration
+			Dashes ignite nearby enemies with Godslayer Inferno
+			All attacks burn enemies with Brimstone Flame for 10 seconds
+			Attacks apply Miracle Blight debuff to enemies
+			Minion attacks inflict Banishing Fire
+			+20% Rogue Stealth generation speed
+			+150 Maximum rogue stealth
+			10% Chance to not consume Stealth when performing a Rogue attack
+			Permanent immunity to 'Godslayer Inferno' debuff
+			Permanent 'Omniscience', 'Astral Thrust', 'Tarragon Life', 'Brittlefire Fury', 'Blood Rage' and 'Enraged' buffs
+			Permanent effects of the Ego-Crushing trinket
+			Call upon the force of heaven to empower attacks and minions (Courage, Enlightenment, Bliss)
+			Press Angelic Alliance Blessing for 'Divine Bless' buff for 15 seconds (summons an archangel for every minion
+			Archangels deal light damage and restore 2 HP upon spawning) [1 min cooldown]
+			Maximum health increased by 25% of maximum mana
+			+20% Maximum health
+			Defense increased by ~6.6% of maximum mana
+			While health is below 30, defense is doubled
+			+35 Defense (increases by +30 in Magma Mode)
+			While standing still: defense increases by +3/sec (up to +30), damage decreases by -5%/sec (up to -50%) [movement resets bonus]
+			+35% Damage for all classes (+50% for Summoner, +23% for all other classes if summoner bonus triggers, +10% magic damage when mana is full)
+			+20% Critical strike chance for all classes
+			+20% Attack speed for all classes
+			+60% Maximum movement speed (increases by an additional +30% in Blizzard Mode)
+			-10% Running acceleration
+			-50% Running deceleration
+			Damage increases based on movement speed (up to 40%)
+			Upgraded charged jump (boosts horizontal speed when grounded) and powerful downward dive (both push enemies away and deal 200 damage scaling with highest multiplier)
+			Flight ability (wing stats of Starlight Wings) with great acceleration during slow fall (momentum can be directed upward/faster with movement keys)
+			Urchin spikes launch outward when charged by attacking (deal 250 damage, inflict Sulphuric Poisoning)
+			+25% Flight time
+			+25% Whip attack size
+			+50% Summoned minions size
+			+5 Active minion slots
+			+5 Active turret/guard slots
+			+50 Maximum mana for each active minion
+			+100 Maximum mana-30% Mana consumption
+			+10% Mana regeneration
+			+5 Maximum tentacles in the Omega Blue armor set
+			Constantly aglow with 'Wet' effect, emits blue light, improves underwater visibility
+			While in water: +10 defense, -10% speed, +1 max minions, +3 max guards, +10% health regeneration, -10% damage resistance
+			2x Knockback for all weapons
+			Minions inflict Plague on enemies for 10 seconds
+			Ranged attacks inflict Plague for 10 seconds
+			Bullet attacks have 15% chance to summon a shooting star (100 damage)
+			Flamethrowers inflict Acidic Poison for 5 seconds
+			15% Chance to not consume projectiles
+			Ammo save chance increases the lower your ammo count
+			Cursed Fire deals damage 2x faster
+			Ichor reduces enemy defenses by half
+			Energy Shield: 5% chance to reflect enemy projectiles
+			Protective Shield: surrounds you, deals 700 damage and knocks back enemies
+			Press [KEY] to launch 4 huge Aurite bombs (700 damage, splash, paralyzes for 10 seconds) [30s cooldown]
+			Taking damage grants 'Silva's Immortality' buff for 5 secondsTaking damage releases 5 to 10 Plague Bees
+			Plague Explosion (health < 100): deals 300 damage to summoner [30s cooldown shared]
+			Plague Explosion (health < 20%): deals 200 ranged damage [30s cooldown shared]
+			Heroic enemies heal you for 1-3 health upon defeat
+			+15% Health regeneration (plus flat 4 HP/s regen, and extra 2 HP/s regen while flight time is expended)
+			-15% Incoming damage (-5% baseline reduction, +10% damage resistance)
+			Ability to switch between Magma and Blizzard Mode (both modes grant offensive buffs)
+			Magma Mode: +30 defense, +30% damage reduction, grants upgraded Hydrothermic ability
+			Magma Mode (active): attacking builds heat; venting heat grants Reaver Rage (+10% damage, +5% melee speed, +5 defense for 3 seconds) and fires Chaos flares (inflict Hellfire and Brimstone Flames)
+			Blizzard Mode: +15 regeneration, +30% movement speed, increased hook velocity, reduced dash cooldown
+			Blizzard Mode (active): after 1s in air, attacks spawn arrows from the sky (120 base damage, scales with highest damage multiplier) until landing or getting hit
+			Blizzard Mode (active): jumping/double jumping grants +10% critical strike and minion damage (max +60% crit) until reset or riding a mount; damage increases by up to 50% based on airtime
+			When wearing full Tech Armor, all bonuses from this enchantment are increased by 25%
+			'''
+	}
+
+	CrookedFossilizedTooth: {
+		DisplayName: Crooked Fossilized Tooth
+		Tooltip:
+			'''
+			Falling from a height of 35+ blocks releases 9 water projectiles in all directions
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	MoldyPincer: {
+		DisplayName: Moldy Pincer
+		Tooltip:
+			'''
+			Summons floating truffle spores around you to attack enemies
+			Spore count is doubled while in the Jungle or Glowing Mushroom biome
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	LostPearl: {
+		DisplayName: Lost Pearl
+		Tooltip:
+			'''
+			Increases movement speed by 7% while underwater
+			Increases defense by 7 and damage reduction by 5% if standing still underwater
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	VileGyrus: {
+		Tooltip:
+			'''
+			Summons hive orbs that circle around you, damaging enemies and absorbing enemy projectiles
+			Triggers a massive cursed explosion if all orbs are destroyed
+			[c/00ff87:Eternity]
+			'''
+		DisplayName: Vile Gyrus
+	}
+
+	BloodyBlister: {
+		DisplayName: Bloody Blister
+		Tooltip:
+			'''
+			Your attacks have a 10% chance to inflict Ichor for 15 seconds
+			Your attacks have a separate 10% chance to land a guaranteed critical strike instead of applying Ichor
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	PestilentRim: {
+		DisplayName: Pestilent Rim
+		Tooltip:
+			'''
+			Summons a split aura around you:
+			Left side (Ebon): Enemies take 150 damage and get knocked away
+			Right side (Crimson): Your projectiles speed up by 25%, enemy projectiles slow down by 25%
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	Cryochamber: {
+		Tooltip:
+			'''
+			The further away an enemy is from you, the less damage they inflict (up to 1.25x reduction)
+			The closer an enemy is to you, the higher the chance your attacks inflict Frostburn
+			[c/00ff87:Eternity]
+			'''
+		DisplayName: Cryochamber
+	}
+
+	OxidizedScale: {
+		DisplayName: Oxidized Scale
+		Tooltip:
+			'''
+			Attacking generates sulfur bubbles that split into smaller damaging bubbles
+			Attacks have a 5% chance to duplicate shot projectiles
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	AsafureOrganicBooster: {
+		DisplayName: Asafure Organic Booster
+		Tooltip:
+			'''
+			Grants immunity to lava and doubles movement speed while submerged in lava
+			Taking damage in lava triggers a brimstone explosion and disables this effect for 1 minute
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	BrimstoneLens: {
+		DisplayName: Brimstone Lens
+		Tooltip:
+			'''
+			Your projectiles inflict Brimstone Flames for 10 seconds
+			While flying, you take 10% more damage but gain 1.5/s health and mana regeneration
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	LeviathanToothNecklace: {
+		Tooltip:
+			'''
+			Summons Anahita's musical notes to circle around you and damage enemies
+			Standing still for 5 seconds grants total invisibility until you move
+			[c/00ff87:Eternity]
+			'''
+		DisplayName: Leviathan Tooth Necklace
+	}
+
+	AstralVertebrae: {
+		DisplayName: Astral Vertebrae
+		Tooltip:
+			'''
+			Grants immunity to Astral Infection and increases jump height by 5%
+			Spawns 5 auroradical stars upon landing
+			While on the ground, hold the 'Astral Phase Key' for 3 seconds to clip downwards into open air
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	PlagueGasMask: {
+		Tooltip:
+			'''
+			Grants immunity to Plague, Poisoned, and Acid Venom debuffs
+			Your attacks inflict Plague
+			Summons massive plague clouds that float around you and heavily damage nearby enemies
+			[c/00ff87:Eternity]
+			'''
+		DisplayName: Plague Gas Mask
+	}
+
+	HeapOfBones: {
+		DisplayName: Heap of Bones
+		Tooltip:
+			'''
+			Ignores any incoming damage below 5 units (excluding debuffs)
+			Taking more than 300 damage grants 30 defense for 10 seconds
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	AstralCore: {
+		Tooltip:
+			'''
+			Taking more than 50 damage increases movement speed by 10% for 5 seconds
+			While below 50% health, you deal 10% less damage, gain 5s of flight time, and take 10% less damage
+			Damage reduction is increased to 15% instead while inside the Astral Infection biome
+			[c/00ff87:Eternity]
+			'''
+		DisplayName: Astral Core
+	}
+
+	WhimsicalRoach: {
+		DisplayName: Whimsical Roach
+		Tooltip:
+			'''
+			Attacking releases 9 homing dragonfolly feathers every 3 seconds
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	ProfanedDefenseObject: {
+		DisplayName: Profaned Defense Object
+		Tooltip:
+			'''
+			Grants immunity to Holy Flames
+			Increases health regeneration by 25% while you are not attacking
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	CrystalOfProfanity: {
+		Tooltip:
+			'''
+			Your attacks inflict Holy Flames
+			Dash cooldown recovers 1.5x faster
+			Increases health regeneration by 5% during the day
+			Increases damage reduction by 5% during the night
+			[c/00ff87:Eternity]
+			'''
+		DisplayName: Crystal of Profanity
+	}
+
+	NearSpaceLightningRod: {
+		DisplayName: Near-Space Lightning Rod
+		Tooltip:
+			'''
+			Strikes nearby enemies with lightning bolts every 5 seconds
+			Your piercing attacks inflict the Electrified debuff
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	VoidMirrorOfDarkness: {
+		DisplayName: Void Mirror of Darkness
+		Tooltip:
+			'''
+			Increases flight duration by 10%
+			Your flight leaves a damaging void trail that lasts for 5 seconds
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	EldritchHoodOfShadow: {
+		Tooltip:
+			'''
+			Halves the duration of Chaos State from Rod of Discord
+			Rogue attacks deal 1.2x more damage
+			Increases maximum rogue stealth by 200
+			10% increased ranged and rogue attack speed
+			[c/00ff87:Eternity]
+			'''
+		DisplayName: Eldritch Hood of Shadow
+	}
+
+	EctoSkullOfSorrow: {
+		DisplayName: Ecto-Skull of Sorrow
+		Tooltip:
+			'''
+			Attacks have a 25% chance to spawn a homing Pink Soul dealing 50% weapon damage
+			Losing more than 15% of max HP in a single hit triggers a protective ring of 5 phantom bolts
+			Phantom bolts knock back enemies and destroy enemy projectiles
+			Emits a bright pink light that reveals traps and enemies through walls
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	HeartOfTheAncientTyphoon: {
+		DisplayName: Heart of the Ancient Typhoon
+		Tooltip:
+			'''
+			Provides deep sea vision and infinite breath underwater
+			Increases movement speed in water by 20%
+			20% increased magic and summon critical strike chance
+			Dashing heals for 2 HP (increases to 5 HP while submerged in water)
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	CosmicPocketDimension: {
+		DisplayName: Cosmic Pocket Dimension
+		Tooltip:
+			'''
+			Every 12 seconds, flashes a grid of purple lasers that deal 10000 damage and inflict Godslayer Inferno
+			Grants +10 defense, and an additional +5 defense during boss fights
+			Provides +10% true melee damage while positioned in Space
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	AuricNugget: {
+		Tooltip:
+			'''
+			Increases flight duration by 20%
+			Increases maximum health by 5%
+			Increases weapon size by 15%
+			Increases damage by 5% while afflicted by any debuff
+			Explodes for 20000 damage in a huge radius upon death
+			'This is my master to my message...'
+			[c/00ff87:Eternity]
+			'''
+		DisplayName: Overcooked Auric Nugget
+	}
+
+	CyberneticCore: {
+		DisplayName: Cybernetic Core of the Calculator
+		Tooltip:
+			'''
+			Draedon's Heart nanometer gauge charges 2x faster
+			Increases invincibility time after taking damage
+			If your health falls below 15%, you gain 100% damage resistance for 10 seconds
+			[c/ff4545:All your attacks create short exo-explosions]
+			[c/48ff45:Projectile speed is increased by 25%]
+			[c/4596ff:Increases whip size and speed by 10%]
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	EyeOfBloodyRetribution: {
+		DisplayName: Eye of Bloody Retribution
+		Tooltip:
+			'''
+			10% increased critical strike chance
+			Provides 0.3 seconds of invincibility during a dash
+			Grants Supreme Calamitas Aura: Slows down incoming enemy projectiles by 30%
+			15% increased true melee damage
+			You take 1.2x more damage, but deal 1.5x more damage from all sources
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	EyeOfPrimordialAbyss: {
+		DisplayName: Eye of the Primordial Abyss
+		Tooltip:
+			'''
+			During invincibility, all enemies and projectiles on screen are slowed by 90%
+			Periodically releases a fan of homing Abyssal electric discharges dealing massive magic damage
+			Increases movement speed by 50% and damage by 15% while inside the Ocean or Calamity's Abyss
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	HeartOfTheGrave: {
+		DisplayName: Heart of the Grave
+		Tooltip:
+			'''
+			Increases max health and max mana by 150
+			20% increased critical strike chance
+			Gives +20 max health for each summoned minion slot occupied
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	SandSharkMask: {
+		DisplayName: Sand Shark Mask
+		Tooltip:
+			'''
+			Double tap DOWN to summon a sand tornado at the cursor's position
+			While standing on sand, damage is increased by 25% but movement speed is reduced by 20%
+			Sand cascades from your character
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	AncientRuneTablet: {
+		DisplayName: Ancient Rune Tablet
+		Tooltip:
+			'''
+			Falling from 35+ blocks releases 9 water projectiles in all directions
+			Summons floating truffle spores around you to attack enemies (spore count doubled in Jungle or Glowing Mushroom biome)
+			+7% movement speed while underwater
+			+7 defense and +5% damage reduction if standing still underwater
+			Summons hive orbs that circle around you to damage enemies and absorb projectiles
+			(triggers massive cursed explosion if all orbs are destroyed)
+			Attacks have a 10% chance to inflict Ichor for 15 seconds, and a separate 10% chance to land a guaranteed critical strike instead
+			Summons a split aura: Left side (Ebon) deals 150 damage and knocks back enemies;
+			Right side (Crimson) grants +25% projectile speed and slows enemy projectiles by 25%
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	BrimstoneMonolithicStar: {
+		DisplayName: Brimstone Monolithic Star
+		Tooltip:
+			'''
+			Grants immunity to lava
+			Doubles movement speed while submerged in lava
+			Taking damage in lava triggers a brimstone explosion and disables the speed bonus for 1 minute
+			Your projectiles inflict Brimstone Flames for 10 seconds
+			While flying, you take 10% more damage but gain 1.5/s health and mana regeneration
+			Grants immunity to Astral Infection
+			Increases jump height by 5%
+			Spawns 5 auroradical stars upon landing
+			Wealing for more than 170 health grants an additional 25 health
+			Ignores incoming damage below 5 units (excluding debuffs)
+			Taking over 300 damage grants 30 defense for 10 seconds
+			Taking over 50 damage increases movement speed by 10% for 5 seconds
+			While below 50% health, you deal 10% less damage, gain 5s of flight time, and take 10% less damage
+			Damage reduction is increased to 15% instead while inside the Astral Infection biome
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	WorldPollutionObject: {
+		DisplayName: World Pollution Object
+		Tooltip:
+			'''
+			The further away an enemy is, the less damage they inflict (up to 1.25x reduction)
+			The closer an enemy is, the higher the chance your attacks inflict Frostburn
+			Attacking generates sulfur bubbles that split into smaller damaging bubbles
+			Attacks have a 5% chance to duplicate shot projectiles
+			Summons Anahita's musical notes to circle around you and damage enemies
+			Standing still for 5 seconds grants total invisibility until you move
+			Grants immunity to Plague, Poisoned, and Acid Venom debuffs
+			Your attacks inflict Plague
+			Summons massive plague clouds that float around you and heavily damage nearby enemies
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	CoreOfProfanedChaosDestruction: {
+		DisplayName: Core of Profaned Chaos Destruction
+		Tooltip:
+			'''
+			Releases 9 homing dragonfolly feathers every 3 seconds while attacking
+			Grants immunity to Holy Flames
+			Increases health regeneration by 25% while you are not attacking
+			Your attacks inflict Holy Flames
+			Dash cooldown recovers 1.5x faster
+			Increases health regeneration by 5% during the day
+			Increases damage reduction by 5% during the night
+			Provides deep sea vision and infinite breath underwater
+			Increases movement speed in water by 20%
+			20% increased magic and summon critical strike chance
+			Dashing heals for 2 HP (increases to 5 HP while submerged in water)
+			Increases flight duration by 20%
+			Increases maximum health by 5%
+			Increases weapon size by 15%
+			Increases damage by 5% while afflicted by any debuff
+			Explodes for 20000 damage in a huge radius upon death
+			Double tap DOWN to summon a sand tornado at the cursor's position
+			While standing on sand, damage is increased by 25% but movement speed is reduced by 20%
+			Sand cascades from your character
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	PrismOfCosmicGloom: {
+		DisplayName: Prism of Cosmic Gloom
+		Tooltip:
+			'''
+			Strikes nearby enemies with lightning bolts every 5 seconds
+			Your piercing attacks inflict the Electrified debuff
+			Increases flight duration by 10%
+			Your flight leaves a damaging void trail that lasts for 5 seconds
+			Halves the duration of Chaos State from Rod of Discord
+			Rogue attacks deal 1.2x more damage
+			Increases maximum rogue stealth by 200
+			10% increased ranged and rogue attack speed
+			Attacks have a 25% chance to spawn a homing Pink Soul dealing 50% weapon damage
+			Losing more than 15% of max HP in a single hit triggers a protective ring of 5 phantom bolts
+			Phantom bolts knock back enemies and destroy enemy projectiles
+			Emits a bright pink light that reveals traps and enemies through walls
+			Every 12 seconds, flashes a grid of purple lasers that deal 10000 damage and inflict Godslayer Inferno
+			+10 defense (+15 defense during boss fights)
+			+10% true melee damage while positioned in Space
+			During invincibility, all enemies and projectiles on screen are slowed by 90%
+			Periodically releases a fan of homing Abyssal electric discharges dealing massive magic damage
+			Increases movement speed by 50% and damage by 15% while inside the Ocean or Calamity's Abyss
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	HeartOfBloodyCyborg: {
+		DisplayName: Heart of the Bloody Cyborg
+		Tooltip:
+			'''
+			Draedon's Heart nanometer gauge charges 2x faster
+			Increases invincibility time after taking damage
+			If your health falls below 15%, you gain 100% damage resistance for 10 seconds
+			All your attacks create short exo-explosions
+			Projectile speed is increased by 25%
+			Increases whip size and speed by 10%
+			30% increased critical strike chance
+			Provides 0.3 seconds of invincibility during a dash
+			Grants Supreme Calamitas Aura: Slows down incoming enemy projectiles by 30%
+			15% increased true melee damage
+			You take 1.2x more damage, but deal 1.5x more damage from all sources
+			Increases max health and max mana by 150
+			Gives +20 max health for each summoned minion slot occupied
+			[c/00ff87:Eternity]
+			'''
+	}
+
+	SoulOfCalamity: {
+		DisplayName: Soul of Calamity
+		Tooltip:
+			'''
+			Combines the effects Soul of Yharim and Soul of Calamitas
+
+			It burns...
+			'''
+	}
+
+	SoulOfYharim: {
+		DisplayName: Soul of Yharim
+		Tooltip:
+			'''
+			Combines the effects:
+			Ancient Rune Tablet
+			Brimstone Monolithic Star
+			World Pollution Object
+			Core of Profaned Chaos Destruction
+			Prism of Cosmic Gloom
+			Heart of the Bloody Cyborg.
+
+			The absolute culmination of the Tyrant's undying wrath
+			[c/00ff87:Eternity]
+			'''
+	}
+}
+
+Buffs: {
+	ShadowEntropyDebuff: {
+		Description: Mods.NotmeCalFagDlc.Buffs.ShadowEntropyDebuff.Description
+		DisplayName: Shadow Entropy Debuff
+	}
+
+	AuricElectrificationDebuff: {
+		DisplayName: Auric Electrification Debuff
+		Description: Mods.NotmeCalFagDlc.Buffs.AuricElectrificationDebuff.Description
+	}
+
+	BrimstoneExhaustionBuff: {
+		DisplayName: Brimstone Exhaustion
+		Description: Asafure Organic Booster functions are disabled
+	}
+
+	BoneShieldBuff: {
+		DisplayName: Bone Shield
+		Description: Your defense is increased by 30
+	}
+
+	BoneShieldCooldownBuff: {
+		DisplayName: Bone Shield Cooldown
+		Description: Your bones cannot fortify yet
+	}
+}
+
+Keybinds: {
+	"Eridanus Time Stop.DisplayName": Eridanus Time Stop
+	"Auric Ability.DisplayName": Auric Ability
+	"Astral Phase Key.DisplayName": Astral  Phase  Key
+}
+
+Projectiles: {
+	FriendlyMutantEye.DisplayName: Friendly Mutant Eye
+	AuricBombProjectile.DisplayName: Auric Bomb Projectile
+	HiveOrbProjectile.DisplayName: Hive Orb Projectile
+	PestilentAuraProjectile.DisplayName: Pestilent Aura Projectile
+	SmallSulfurBubble.DisplayName: Small Sulfur Bubble
+	SulfurBubble.DisplayName: Sulfur Bubble
+	AnahitaNoteProjectile.DisplayName: Anahita Note Projectile
+	PlagueCloudProjectile.DisplayName: Plague Cloud Projectile
+	CeaselessTrailProjectile.DisplayName: Ceaseless Trail Projectile
+	PhantomBoltProjectile.DisplayName: Phantom Bolt Projectile
+	PinkSoulProjectile.DisplayName: Pink Soul Projectile
+}
