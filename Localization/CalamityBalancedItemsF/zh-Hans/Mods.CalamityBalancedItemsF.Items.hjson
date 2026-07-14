@@ -1,57 +1,57 @@
 ShadowCloak: {
-	DisplayName: Shadow Cloak
+	DisplayName: 暗影披风
 	Tooltip:
 		'''
-		Allows you to ram dash through enemies or projectiles without taking damage
-		Grants the ability to grab and climb walls
-		Gives a 10% chance to dodge attacks
-		'The shadow seems to bond in you...'
+		允许你在不受伤害的情况下穿过敌人或弹幕
+		使你获得爬墙的能力
+		有10%概率闪避攻击
+		“暗影似乎与你建立了某种连接……”
 		'''
 }
 
 DormantGoldGear: {
-	Tooltip: "'A blank container... Maybe could be filled with some kind of energy...'"
-	DisplayName: Dormant Gold Gear
+	Tooltip: “一个空容器……或许能被某种能量所填满……”
+	DisplayName: 沉眠金齿轮
 }
 
 PhantasmalEnergy: {
-	Tooltip: "'Just a fragment of the real power...'"
-	DisplayName: Phantasmal Energy
+	Tooltip: “这只是真正力量的一小部分……”
+	DisplayName: 幻象能量
 }
 
 ShadeSoul: {
-	Tooltip: "'You barely can look at it...'"
-	DisplayName: Shade Soul
+	Tooltip: “你几乎看不见它……”
+	DisplayName: 暗影之魂
 }
 
 CosmicHat: {
 	Tooltip:
 		'''
-		Summons Eridanus, Champion of Cosmos when used in the Space biome
-		When defeated, unlocks the Eternity Mutant
-		Not Consumable
-		'This hat exudes immeasurable power...'
+		在太空使用召唤厄里达诺斯，宇宙英灵
+		击败后解锁永恒突变体
+		不消耗
+		“这顶帽子散发着无法估量的力量……”
 		'''
-	DisplayName: Cosmic Hat
+	DisplayName: 宇宙之帽
 }
 
 LifeSigil: {
 	Tooltip:
 		'''
-		Summons Champion of Life when used in day time
-		Cannot be used when it's in an eclipse nor raining
-		Not Consumable
-		'It doesn't seems so friendly...'
+		在白天使用召唤生命英灵
+		不能在日食或下雨时使用
+		不消耗
+		“它似乎不太友善……”
 		'''
-	DisplayName: Life Sigil
+	DisplayName: 生命符文
 }
 
 WillingGear: {
 	Tooltip:
 		'''
-		Summons the Champion of Will when used in the Ocean biome
-		Not Consumable
-		'A gear forged with determination. It turns not by force, but by will itself...'
+		在海洋使用召唤意志英灵
+		不消耗
+		“这个齿轮散发着意志能量……如此精妙的造物，甚至能够引起“它”的注意……”
 		'''
-	DisplayName: Willing Gear
+	DisplayName: 意志齿轮
 }

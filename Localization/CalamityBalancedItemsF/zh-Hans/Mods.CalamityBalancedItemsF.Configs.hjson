@@ -1,80 +1,83 @@
 ModSettings: {
 	DisplayName: Mod Settings
 
-	Headers: {
-		MusicSettings: Music Configuration
-		ItemChanges: Item & Recipe Changes
-		EternityMode: Eternity Mode Settings
-		Miscellaneous: Miscellaneous Settings
-	}
+	ModSettings: {
+		DisplayName: 模组设置
 
-	UseCustomLifelightMusic: {
-		Label: Use Lifelight's alt theme (default: true)
-		Tooltip: If activated, replace the Lifelight's theme
-	}
+		Headers: {
+			MusicSettings: 音乐设置
+			ItemChanges: 物品和配方改动
+			EternityMode: 永恒模式设置
+			Miscellaneous: 杂项设置
+		}
 
-	UseCustomDraedonMusic: {
-		Label: Use ExoMechs' alt theme (default: true)
-		Tooltip: If activated, replace the ExoMechs' theme
-	}
+		UseCustomLifelightMusic: {
+			Label: 使用飘渺游光替换主题曲 （默认：启用）
+			Tooltip: 若启用，替换为 DELTARUNE - From Now On
+		}
 
-	UseCustomMarbleTheme: {
-		Label: Use Marble Caves biome theme (default: true)
-		Tooltip: If activated, adds a theme for the Marble Caves
-	}
+		UseCustomDraedonMusic: {
+			Label: 使用星流巨械替换主题曲 （默认：启用）
+			Tooltip: 若启用，替换为 UNDERTALE - Hopes And Dreams
+		}
 
-	UseCustomGraniteTheme: {
-		Label: Use Granite Caves biome theme (default: true)
-		Tooltip: If activated, adds a theme for the Granite Caves
-	}
+		UseCustomMarbleTheme: {
+			Label: 使用大理石洞穴主题音乐 （默认：启用）
+			Tooltip: 若启用，则增加大理石洞穴主题音乐
+		}
 
-	UseBossNewMusics: {
-		Label: Use the new 1.4.5 themes for some bosses (default: true)
-		Tooltip: If activated, changes the themes of Twins, Skeletron(Prime), Destroyer, EaterOfWorlds, LunaticCultist, QueenBee & TorchGod
-	}
+		UseCustomGraniteTheme: {
+			Label: 使用花岗岩洞穴主题音乐 （默认：启用）
+			Tooltip: 若启用，则增加花岗岩洞穴主题音乐
+		}
+		UseBossNewMusics: {
+			Label: 使用1.4.5部分Boss新的主题曲  （默认：启用）
+			Tooltip: 若启用，将改变双子魔眼、机械骷髅王、毁灭者、世界吞噬怪、拜月教邪教徒、蜂王和火把神的主题曲
+		}
 
-	RemoveSigilConfig: {
-		Label: Remove Sigil Of Champions recipe (default: true)
-		Tooltip: If activated, makes the Sigil Of Champions impossible to get by crafting
-	}
+		RemoveSigilConfig: {
+			Label: 移除[i:FargowiltasSouls/SigilOfChampions]唤灵魔符配方 （默认：启用）
+			Tooltip: 若启用，使唤灵魔符无法被合成
+		}
 
-	DisableEModeZenithNerf: {
-		Label: Disable Zenith nerf in Eternity Mode (default: true)
-		Tooltip: If activated and in Eternity Mode, restores Zenith base hit cooldown
-	}
+		DisableEModeZenithNerf: {
+			Label: 禁用永恒模式 [i:4956] 天顶剑的削弱 （默认：启用）
+			Tooltip: 若启用且处于永恒模式，回调天顶剑的伤害频率
+		}
 
-	DisableEModeStarCannonNerf: {
-		Label: Disable Star Cannon nerf in Eternity Mode (default: true)
-		Tooltip: If activated and in Eternity Mode, restores 40% of the damage
-	}
+		DisableEModeStarCannonNerf: {
+			Label: 禁用永恒模式 [i:197] 星星炮的削弱 （默认：启用）
+			Tooltip: 若启用且处于永恒模式，则回调40%伤害
+		}
 
-	DisableEModeStarShooterNerf: {
-		Label: Disable Super Star Shooter nerf in Eternity Mode (default: true)
-		Tooltip: If activated and in Eternity Mode, adds infinite piercing
-	}
+		DisableEModeStarShooterNerf: {
+			Label: 禁用永恒模式 [i:4060] 超级星星炮的削弱 （默认：启用）
+			Tooltip: 若启用且处于永恒模式，增加无限穿透
+		}
 
-	DisableEModeBlizzardStaffNerf: {
-		Label: Disable Blizzard Staff nerf in Eternity Mode (default: true)
-		Tooltip: If activated and in Eternity Mode, restores 30% of damage and speed
-	}
+		DisableEModeBlizzardStaffNerf: {
+			Label: 禁用永恒模式 [i:1931] 暴雪法杖的削弱 （默认：启用）
+			Tooltip: 若启用且处于永恒模式，则回调30%伤害和攻击速度
+		}
 
-	ChangeGlobalAI: {
-		Label: Change the AI from almost all entities (default: true)
-		Tooltip: Disables the Eternity AI from all Vanilla bosses and entities; multiplies their HP and damage, etc.
-	}
+		ChangeGlobalAI: {
+			Label: 修改几乎所有生物的AI （默认：启用）
+			Tooltip: 若启用，将会禁用所有原版Boss和敌怪在永恒模式下的AI，并且成倍提升它们的生命值和伤害等属性
+		}
 
-	MultiplyEterniaCrystalLife: {
-		Label: Multiply Eternia Crystal life by 3x (default: true)
-		Tooltip: If activated, will multiply its defense too
-	}
+		MultiplyEterniaCrystalLife: {
+			Label: "[i:3828] 永恒水晶生命值乘以3倍 （默认：启用）"
+			Tooltip: 若启用，同样也会提升其防御力
+		}
 
-	ModifyChampionsLoot: {
-		Label: Modify the loot of the Champion of Will, Life & Cosmos (default: true)
-		Tooltip: If activated, will make each one drop 3 forces
-	}
+		ModifyChampionsLoot: {
+			Label: 调整意志英灵、生命英灵和宇宙英灵掉落物 （默认：启用）
+			Tooltip: 若启用，则每个英灵都会掉落3个力
+		}
 
-	UseDifferentProgression: {
-		Label: Modify Fargo's Progression
-		Tooltip: If activated, will unable Mutant's Curse in Expert/Eternity and Master Mode until Eridanus is defeated
+		UseDifferentProgression: {
+			Label: 修改Fargo游戏进度
+			Tooltip: 若启用，则会在专家/永恒模式与大师模式中禁用突变体的诅咒，直到厄里达诺斯，宇宙英灵被击败
+		}
 	}
 }
