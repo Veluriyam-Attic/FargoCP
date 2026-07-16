@@ -1,0 +1,1011 @@
+Items: {
+	EmpyreanEnchantment: {
+		Tooltip:
+			'''
+			提升20%盗贼攻击速度
+			盗贼攻击会在弹幕后留下熔融等离子轨迹
+			熔融等离子会施加暗影熵变，持续5秒
+			暗影熵变会造成大量伤害，并使目标受到的伤害增加25%
+			'''
+		DisplayName: 皇天魔石
+	}
+
+	StyxEnchantment: {
+		Tooltip:
+			'''
+			每3秒向四周发射8道死亡之镰，造成700伤害
+			[i:FargowiltasSouls/StyxCrown]套装协同：增加15点防御和10%移动速度
+			'''
+		DisplayName: 冥河魔石
+	}
+
+	NekomiEnchantment: {
+		Tooltip:
+			'''
+			如果你至少有一个仆从，则提升你的生命再生速度
+			-每有一个仆从被召唤，提升0.1点生命再生速度
+			'''
+		DisplayName: 猫猫睡衣魔石
+	}
+
+	MutantEnchantment: {
+		Tooltip:
+			'''
+			增加20%伤害减免
+			使你免疫突变啃啄减益
+			当附近有敌人时，会生成10个自动跟踪的幻影之眼，每个造成1000伤害
+			[i:FargowiltasSouls/MutantMask]套装协同：提供的伤害减免提升至35%，你的弹幕在命中时会引发幻影爆炸
+			'''
+		DisplayName: 突变体魔石
+	}
+
+	GaiaEnchantment: {
+		Tooltip:
+			'''
+			近战伤害使玩家获得甲虫力量增益，持续10秒
+			提升15%远程暴击伤害，持续10秒
+			提升10%鞭子攻击速度
+			魔法攻击治疗你2点生命值
+			'''
+		DisplayName: 盖亚魔石
+	}
+
+	EridanusEnchantment: {
+		Tooltip:
+			'''
+			增加15%全职业伤害和攻击速度
+			按下 [厄里达诺斯时停] 键激活时停
+			你周围冻结时间10秒
+			有1分钟冷却时间
+			'''
+		DisplayName: 波江魔石
+	}
+
+	MutantArtifact: {
+		Tooltip:
+			'''
+			[i:NotmeCalFagDlc/NekomiEnchantment] 每有一个仆从获得生命再生
+			[i:NotmeCalFagDlc/GaiaEnchantment] 攻击时获得职业增益并提升10%鞭子攻击速度
+			[i:NotmeCalFagDlc/EridanusEnchantment] 允许你按下 [厄里达诺斯时停] 键进行时停
+			[i:NotmeCalFagDlc/StyxEnchantment] 每3秒释放死亡之镰并强化冥河盔甲
+			[i:NotmeCalFagDlc/MutantEnchantment] 获得20%伤害减免、生成幻影之眼并在穿戴永恒套时使弹幕爆炸
+			'''
+		DisplayName: 突变之力
+	}
+
+	FargosSoul: {
+		Tooltip:
+			'''
+			[i:NotmeCalFagDlc/MutantArtifact][i:NotmeCalFagDlc/CursedHeartOfCupid] 获得突变之力和被诅咒的丘比特之心的所有效果
+			提供五套护甲的真实套装加成：
+			[i:FargowiltasSouls/MutantMask] 召唤幽灵憎恶、一圈幻影眼球和死亡激光
+			[i:FargowiltasSouls/MutantMask] 将你的所有攻击转化为超级模式，并附加噬神者减益
+			[i:FargowiltasSouls/StyxCrown] 激活冥河能量积蓄和冥狱魔剑充能
+			[i:FargowiltasSouls/NekomiHood][i:FargowiltasSouls/GaiaHelmet][i:FargowiltasSouls/EridanusHat] 获得猫猫睡衣、盖亚和波江盔甲的套装奖励
+			[c/00FFD1:永恒的真正合一]
+			'''
+		DisplayName: Fargo之魂 
+	}
+
+	CursedHeartOfCupid: {
+		Tooltip:
+			'''
+			[i:FargowiltasSouls/SparklingAdoration][i:FargowiltasSouls/AbominableWand][i:FargowiltasSouls/MutantEye] 使你免疫假心、热恋、憎恶毒牙、憎恶降临和突变毒牙减益
+			[i:FargowiltasSouls/SparklingAdoration][i:FargowiltasSouls/AbominableWand] 激活擦弹：擦过弹幕或敌怪可增加伤害，最高提升25%
+			[i:FargowiltasSouls/SparklingAdoration][i:FargowiltasSouls/MutantEye] 你的攻击会周期性地生成能吸血的爱之射线
+			[i:FargowiltasSouls/SparklingAdoration][i:FargowiltasSouls/AbominableWand] 装备冥河盔甲时，擦弹也能增加冥河能量
+			[i:FargowiltasSouls/AbominableWand] 暴击时会偶尔召唤幽灵憎恶
+			[i:FargowiltasSouls/AbominableWand] 允许你在受到致命伤，保留1点生命值复活（需再次满血重置复活）
+			[i:FargowiltasSouls/MutantEye] 按下 [炸弹] 键释放一圈幻影眼球并摧毁弹幕（60秒冷却时间）
+			'''
+		DisplayName: 被诅咒的丘比特之心
+	}
+
+	WaffleBoots: {
+		Tooltip:
+			'''
+			穿戴者能够以极快的速度奔跑
+			增加10%移动速度和15%加速度
+			减少来自熔岩、火焰以及火焰攻击的伤害
+			'''
+		DisplayName: 华夫靴
+	}
+
+	SturdyBoots: {
+		Tooltip:
+			'''
+			增加2点防御
+			增加5%移动速度
+			“由地下魔晶加固”
+			'''
+		DisplayName: 坚固靴
+	}
+
+	SparklingSole: {
+		Tooltip:
+			'''
+			增加7%移动速度
+			“为你的步伐注入明亮的火花”
+			'''
+		DisplayName: 闪亮鞋底
+	}
+
+	ReinforcedSturdyBoots: {
+		Tooltip:
+			'''
+			增加5点防御
+			增加13%移动速度
+			穿戴者能够以极快的速度奔跑
+			“注入了不洁的硫磺能量”
+			'''
+		DisplayName: 强化坚固靴
+	}
+
+	PreciousSole: {
+		Tooltip:
+			'''
+			增加10%移动速度
+			“脚下闪耀着财富与迅捷”
+			'''
+		DisplayName: 珍贵鞋底
+	}
+
+	PlainBoots: {
+		Tooltip: 只是个靴子
+		DisplayName: 靴子
+	}
+
+	NatureBoots: {
+		Tooltip:
+			'''
+			融合了两栖生物、沙漠之风与森林精灵的力量
+			允许飞行和极速奔跑
+			大幅提升在沙子上的奔跑速度
+			增加跳跃速度、跳跃高度和移动灵活性
+			行走时会在脚下生长出花和草
+			'''
+		DisplayName: 自然靴
+	}
+
+	MetalSole: {
+		Tooltip:
+			'''
+			增加4%移动速度
+			“加快你的步伐”
+			'''
+		DisplayName: 金属鞋底
+	}
+
+	MagmaSole: {
+		Tooltip:
+			'''
+			增加10%移动速度
+			增加15%加速度
+			减少50%火焰与熔岩的伤害
+			“于地狱深处锻造而成”
+			'''
+		DisplayName: 岩浆鞋底
+	}
+
+	ImprovedSturdyBoots: {
+		Tooltip:
+			'''
+			增加3点防御
+			增加8%移动速度
+			穿戴者能够以极快的速度奔跑
+			“注入了标准的困难模式精华”
+			'''
+		DisplayName: 改良坚固之靴
+	}
+
+	GlintingSole: {
+		Tooltip:
+			'''
+			增加2%移动速度
+			“略微提升移动速度”
+			'''
+		DisplayName: 闪光鞋底
+	}
+
+	DarkSole: {
+		Tooltip:
+			'''
+			增加10%移动速度
+			增加10%加速度
+			“注入暗影能量”
+			'''
+		DisplayName: 黑暗鞋底
+	}
+
+	AstralEnchantment: {
+		Tooltip:
+			'''
+			魔法与远程攻击会对敌人施加[cbuff:CalamityMod/AstralInfectionDebuff]减益
+			永久获得[cbuff:CalamityMod/Omniscience]和[cbuff:CalamityMod/AstralInjectionBuff]增益
+			'''
+		DisplayName: 星幻魔石
+	}
+
+	PrismaticEnchantment: {
+		Tooltip:
+			'''
+			根据最大魔力值的25%提升最大生命值
+			根据最大魔力值的6.6%增加防御
+			增加15%鞭子攻击范围
+			增加50点最大潜行值
+			[C/959595:译者补充：实际加5000点最大潜行值，疑似代码错误]
+			'''
+		DisplayName: 光棱魔石
+	}
+
+	OmegaBlueEnchantment: {
+		Tooltip:
+			'''
+			真近战获得等同于你防御20%的护甲穿透
+			蓝色欧米伽套装的触手上限增加5个
+			[C/959595:译者补充：触手上限效果未实装]
+			'''
+		DisplayName: 蓝色欧米茄魔石
+	}
+
+	FearmongerEnchantment: {
+		Tooltip:
+			'''
+			增加50%仆从的大小
+			每有一个仆从提升50点最大魔力值
+			获得[C/DE1CED:噬宇之傲]的效果
+			'''
+		DisplayName: 神惧者魔石
+	}
+
+	GodSlayerEnchantment: {
+		Tooltip:
+			'''
+			使你免疫[cbuff:CalamityMod/GodSlayerInferno]减益
+			你的任意冲刺都会施加附近的敌怪[cbuff:CalamityMod/GodSlayerInferno]减益
+			[i:CalamityMod/GodSlayerHeadRanged]套装协同：
+			- 增加15点防御
+			- 增加10%伤害
+			- 增加10%移动速度
+			'''
+		DisplayName: 弑神者魔石
+	}
+
+	MolluskEnchantment: {
+		Tooltip:
+			'''
+			当你保持静止时，你的属性将每秒变化：
+			- 每秒增加3点防御，最高30点
+			- 每秒增加5%伤害减免，最高50%
+			任意移动都会立刻重置累积的加成
+			在水中静止时，额外增加10点防御，但降低10%移动速度
+			'''
+		DisplayName: 软壳魔石
+	}
+
+	FathomSwarmerEnchantment: {
+		DisplayName: 幻渊鱼群魔石
+		Tooltip:
+			'''
+			你始终获得[cbuff:Wet]，并发出发柔和的蓝光
+			显著提升水下视野
+			处于水中时，激活以下加成：
+			- 增加1个最大仆从栏
+			- 增加3个最大哨兵栏
+			- 增加10%生命再生速度
+			- 增加10%伤害减免
+			'''
+	}
+
+	PlaguebringerEnchantment: {
+		DisplayName: 瘟疫使者魔石
+		Tooltip:
+			'''
+			你召唤的仆从会对敌人施加[cbuff:CalamityMod/Plague]减益，持续10秒
+			当你受到伤害时，会释放5-10只瘟疫蜜蜂
+			当你的生命值低于100时，会在你周围引发一次强力的瘟疫爆炸
+			瘟疫爆炸造成300点召唤伤害，有30秒冷却时间
+			'''
+	}
+
+	PlagueReaperEnchantment: {
+		Tooltip:
+			'''
+			[cbuff:CursedInferno]造成伤害的速度加倍，[cbuff:Ichor]减益能使敌人防御减半
+			远程攻击会施加[cbuff:CalamityMod/Plague]减益，持续10秒
+			喷火器额外施加目标[cbuff:Venom]减益，持续5秒
+			如果你的生命值低于20%，会触发一次强力的瘟疫爆炸
+			瘟疫爆炸造成200点远程伤害，有30秒冷却时间
+			'''
+		DisplayName: 瘟疫死神魔石
+	}
+
+	LunicCorpsEnchantment: {
+		DisplayName: 雷神之锤魔石
+		Tooltip:
+			'''
+			生成一个可见的能量护盾，有5%概率反射敌怪的弹幕
+			箭矢、子弹、高速子弹击中敌怪有15%概率召唤一颗落星攻击敌怪，造成100点伤害
+			弹药越少，减少弹药消耗的概率越高
+			'''
+	}
+
+	TarragonEnchantment: {
+		DisplayName: 龙蒿魔石
+		Tooltip:
+			'''
+			永久获得[cbuff:CalamityMod/TarraLifeRegen]增益
+			增加10%暴击率
+			全职业击退翻倍
+			[i:CalamityMod/TarragonHeadMelee]套装协同：增加10%攻击速度
+			[C/959595:译者补充：提供增益未实装，代码未写]
+			'''
+	}
+
+	SilvaEnchantment: {
+		DisplayName: 始源林海魔石
+		Tooltip:
+			'''
+			增加100点最大魔力值
+			增加10%鞭子攻击范围
+			受到任意攻击获得[cbuff:CalamityMod/SilvaRevival]增益，持续5秒
+			[C/959595:译者补充：提供增益未实装，代码错误]
+			'''
+	}
+
+	UmbraEnchantment: {
+		Tooltip:
+			'''
+			增加10%移动速度
+			盗贼弹幕在飞行过程中会不断加速
+			盗贼攻击有10%概率不消耗潜行值
+			[C/959595:译者补充：不消耗潜行值未实装]
+			'''
+		DisplayName: 日影魔石
+	}
+
+	BrimstoneEnchantment: {
+		DisplayName: 硫火魔石
+		Tooltip:
+			'''
+			你的所有攻击会施加敌怪[cbuff:CalamityMod/BrimstoneFlames]减益，持续10秒
+			永久获得[cbuff:CalamityMod/BrimflameFrenzyBuff]增益
+			减少15%魔力消耗
+			当魔力值满时，增加10%魔法伤害
+			当你的生命值低于30，你的防御将会被翻倍
+			[C/959595:译者补充：硫火狂怒因灾厄代码有内置CD所以无法永续]
+			'''
+	}
+
+	BloodflareEnchantment: {
+		Tooltip:
+			'''
+			永久获得[cbuff:CalamityMod/BloodflareBloodFrenzy]增益
+			增加10%最大生命值
+			增加5%伤害
+			击中敌怪治疗玩家1-3点生命值
+			[C/959595:译者补充：鲜血狂怒未实装，代码错误]
+			'''
+		DisplayName: 血炎魔石
+	}
+
+	AuricEnchantment: {
+		DisplayName: 圣金源魔石
+		Tooltip:
+			'''
+			环绕着显著的护盾，造成700点伤害并击退敌人
+			按下 [圣金源能力] 键发射4枚巨大的圣金源炸弹，
+			每个造成700点伤害，附带范围爆炸并施加10秒圣金源带电减益
+			有30秒冷却时间
+			'''
+	}
+
+	ExoEnchantment: {
+		Tooltip:
+			'''
+			攻击施加[cbuff:CalamityMod/MiracleBlight]减益
+			增加15%全职业伤害、10%暴击和10%攻击速度
+			增加15%生命再生速度、10点防御和10%伤害减免
+			增加10点近战护甲穿透和20点真近战护甲穿透
+			增加100点最大潜行值
+			增加2个最大仆从栏和最大哨兵栏
+			减少15%魔力消耗并增加10%魔力再生速度
+			15%概率不消耗弹药
+			[i:CalamityMod/GemTechHeadgear]套装协同：所有魔石提供的加成提升25%
+			'''
+		DisplayName: 星流魔石
+	}
+
+	ShadowPhaseEnchantment: {
+		DisplayName: 魔影魔石
+		Tooltip:
+			'''
+			永久获得[cbuff:CalamityMod/Enraged]增益
+			增加10%伤害、防御、最大生命值和最大仆从栏
+			增加5%伤害减免
+			移动加速度翻倍
+			获得[C/F9F243:圣天誓盟]的效果
+			'''
+	}
+
+	OuterCosmosArtifact: {
+		DisplayName: 外宇之力
+		Tooltip:
+			'''
+			[i:NotmeCalFagDlc/EmpyreanEnchantment] 盗贼弹幕留下熔融等离子轨迹，施加5秒暗影熵变
+			[i:NotmeCalFagDlc/AstralEnchantment] 魔法和远程攻击施加[cbuff:CalamityMod/AstralInfectionDebuff]减益，永久获得[cbuff:CalamityMod/Omniscience]和[cbuff:CalamityMod/AstralInjectionBuff]增益
+			[i:NotmeCalFagDlc/PrismaticEnchantment] 根据防御增加真近战护甲穿透
+			[i:NotmeCalFagDlc/OmegaBlueEnchantment] 真近战获得等同于你防御20%的护甲穿透
+			[i:NotmeCalFagDlc/FearmongerEnchantment] 增加仆从大小，最大魔力值随仆从数提升，获得[C/DE1CED:噬宇之傲]的效果
+			[i:NotmeCalFagDlc/GodSlayerEnchantment] 任意冲刺会施加[cbuff:CalamityMod/GodSlayerInferno]减益
+			'''
+	}
+
+	ObscurantismArtifact: {
+		DisplayName: 蒙昧之力
+		Tooltip:
+			'''
+			[i:NotmeCalFagDlc/MolluskEnchantment] 保持静止时提升防御和伤害减免，在水中时强化防御
+			[i:NotmeCalFagDlc/FathomSwarmerEnchantment] 始终获得[cbuff:Wet]，在水中时强化属性
+			[i:NotmeCalFagDlc/PlaguebringerEnchantment] 仆从施加[cbuff:CalamityMod/Plague]减益，受伤释放瘟疫蜜蜂，生命值过低释放瘟疫爆炸
+			[i:NotmeCalFagDlc/PlagueReaperEnchantment] 强化[cbuff:CursedInferno]和[cbuff:Ichor]减益，远程攻击施加[cbuff:CalamityMod/Plague]减益，喷火器施加[cbuff:Venom]减益，生命值过低释放瘟疫爆炸
+			[i:NotmeCalFagDlc/LunicCorpsEnchantment] 生成有概率反弹弹幕的能量护盾，部分弹药击中敌怪降下落星
+			[i:NotmeCalFagDlc/TarragonEnchantment] 全职业击退翻倍
+			[i:NotmeCalFagDlc/SilvaEnchantment] 提升鞭子攻击范围
+			'''
+	}
+
+	CataclysmArtifact: {
+		DisplayName: 灾变之力
+		Tooltip:
+			'''
+			[i:NotmeCalFagDlc/UmbraEnchantment] 盗贼弹幕在飞行过程不断加速
+			[i:NotmeCalFagDlc/BrimstoneEnchantment] 所有攻击施加[cbuff:CalamityMod/BrimstoneFlames]减益
+			[i:NotmeCalFagDlc/BloodflareEnchantment] 击中敌怪治疗玩家1-3点生命值
+			[i:NotmeCalFagDlc/AuricEnchantment] 生成攻击护盾，按下 [圣金源能力] 键发射圣金源炸弹
+			[i:NotmeCalFagDlc/ExoEnchantment] 所有攻击施加[cbuff:CalamityMod/MiracleBlight]减益，玩家全属性强化
+			[i:NotmeCalFagDlc/ShadowPhaseEnchantment] 永久获得[cbuff:CalamityMod/Enraged]增益，获得[C/F9F243:圣天誓盟]的效果
+			'''
+	}
+
+	SoulOfCalamitas: {
+		DisplayName: 灾难之魂
+		Tooltip:
+			'''
+			[i:NotmeCalFagDlc/OuterCosmosArtifact] 获得外宇之力的效果
+			[i:NotmeCalFagDlc/ObscurantismArtifact] 获得蒙昧之力的效果
+			[i:NotmeCalFagDlc/CataclysmArtifact] 获得灾变之力的效果
+			[i:FargowiltasCrossmod/ElementsForce] 获得元灵之力的效果
+			[i:FargowiltasCrossmod/GaleForce] 获得风涛之力的效果
+			'''
+	}
+
+	CrookedFossilizedTooth: {
+		DisplayName: Crooked Fossilized Tooth
+		Tooltip:
+			'''
+			Falling from a height of 35+ blocks releases 9 water projectiles in all directions
+			[c/00ff87:永恒]
+			'''
+	}
+
+	MoldyPincer: {
+		DisplayName: Moldy Pincer
+		Tooltip:
+			'''
+			Summons floating truffle spores around you to attack enemies
+			Spore count is doubled while in the Jungle or Glowing Mushroom biome
+			[c/00ff87:永恒]
+			'''
+	}
+
+	LostPearl: {
+		DisplayName: Lost Pearl
+		Tooltip:
+			'''
+			Increases movement speed by 7% while underwater
+			Increases defense by 7 and damage reduction by 5% if standing still underwater
+			[c/00ff87:永恒]
+			'''
+	}
+
+	VileGyrus: {
+		Tooltip:
+			'''
+			Summons hive orbs that circle around you, damaging enemies and absorbing enemy projectiles
+			Triggers a massive cursed explosion if all orbs are destroyed
+			[c/00ff87:永恒]
+			'''
+		DisplayName: Vile Gyrus
+	}
+
+	BloodyBlister: {
+		DisplayName: Bloody Blister
+		Tooltip:
+			'''
+			Your attacks have a 10% chance to inflict Ichor for 15 seconds
+			Your attacks have a separate 10% chance to land a guaranteed critical strike instead of applying Ichor
+			[c/00ff87:永恒]
+			'''
+	}
+
+	PestilentRim: {
+		DisplayName: Pestilent Rim
+		Tooltip:
+			'''
+			Summons a split aura around you:
+			Left side (Ebon): Enemies take 150 damage and get knocked away
+			Right side (Crimson): Your projectiles speed up by 25%, enemy projectiles slow down by 25%
+			[c/00ff87:永恒]
+			'''
+	}
+
+	Cryochamber: {
+		Tooltip:
+			'''
+			The further away an enemy is from you, the less damage they inflict (up to 1.25x reduction)
+			The closer an enemy is to you, the higher the chance your attacks inflict Frostburn
+			[c/00ff87:永恒]
+			'''
+		DisplayName: Cryochamber
+	}
+
+	OxidizedScale: {
+		DisplayName: Oxidized Scale
+		Tooltip:
+			'''
+			Attacking generates sulfur bubbles that split into smaller damaging bubbles
+			Attacks have a 5% chance to duplicate shot projectiles
+			[c/00ff87:永恒]
+			'''
+	}
+
+	AsafureOrganicBooster: {
+		DisplayName: Asafure Organic Booster
+		Tooltip:
+			'''
+			Grants immunity to lava and doubles movement speed while submerged in lava
+			Taking damage in lava triggers a brimstone explosion and disables this effect for 1 minute
+			[c/00ff87:永恒]
+			'''
+	}
+
+	BrimstoneLens: {
+		DisplayName: Brimstone Lens
+		Tooltip:
+			'''
+			Your projectiles inflict Brimstone Flames for 10 seconds
+			While flying, you take 10% more damage but gain 1.5/s health and mana regeneration
+			[c/00ff87:永恒]
+			'''
+	}
+
+	LeviathanToothNecklace: {
+		Tooltip:
+			'''
+			Summons Anahita's musical notes to circle around you and damage enemies
+			Standing still for 5 seconds grants total invisibility until you move
+			[c/00ff87:永恒]
+			'''
+		DisplayName: Leviathan Tooth Necklace
+	}
+
+	AstralVertebrae: {
+		DisplayName: Astral Vertebrae
+		Tooltip:
+			'''
+			Grants immunity to Astral Infection and increases jump height by 5%
+			Spawns 5 auroradical stars upon landing
+			While on the ground, hold the 'Astral Phase Key' for 3 seconds to clip downwards into open air
+			[c/00ff87:永恒]
+			'''
+	}
+
+	PlagueGasMask: {
+		Tooltip:
+			'''
+			Grants immunity to Plague, Poisoned, and Acid Venom debuffs
+			Your attacks inflict Plague
+			Summons massive plague clouds that float around you and heavily damage nearby enemies
+			[c/00ff87:永恒]
+			'''
+		DisplayName: Plague Gas Mask
+	}
+
+	HeapOfBones: {
+		DisplayName: Heap of Bones
+		Tooltip:
+			'''
+			Ignores any incoming damage below 5 units (excluding debuffs)
+			Taking more than 300 damage grants 30 defense for 10 seconds
+			[c/00ff87:永恒]
+			'''
+	}
+
+	AstralCore: {
+		Tooltip:
+			'''
+			Taking more than 50 damage increases movement speed by 10% for 5 seconds
+			While below 50% health, you deal 10% less damage, gain 5s of flight time, and take 10% less damage
+			Damage reduction is increased to 15% instead while inside the Astral Infection biome
+			[c/00ff87:永恒]
+			'''
+		DisplayName: Astral Core
+	}
+
+	WhimsicalRoach: {
+		DisplayName: Whimsical Roach
+		Tooltip:
+			'''
+			Attacking releases 9 homing dragonfolly feathers every 3 seconds
+			[c/00ff87:永恒]
+			'''
+	}
+
+	ProfanedDefenseObject: {
+		DisplayName: Profaned Defense Object
+		Tooltip:
+			'''
+			Grants immunity to Holy Flames
+			Increases health regeneration by 25% while you are not attacking
+			[c/00ff87:永恒]
+			'''
+	}
+
+	CrystalOfProfanity: {
+		Tooltip:
+			'''
+			Your attacks inflict Holy Flames
+			Dash cooldown recovers 1.5x faster
+			Increases health regeneration by 5% during the day
+			Increases damage reduction by 5% during the night
+			[c/00ff87:永恒]
+			'''
+		DisplayName: Crystal of Profanity
+	}
+
+	NearSpaceLightningRod: {
+		DisplayName: Near-Space Lightning Rod
+		Tooltip:
+			'''
+			Strikes nearby enemies with lightning bolts every 5 seconds
+			Your piercing attacks inflict the Electrified debuff
+			[c/00ff87:永恒]
+			'''
+	}
+
+	VoidMirrorOfDarkness: {
+		DisplayName: Void Mirror of Darkness
+		Tooltip:
+			'''
+			Increases flight duration by 10%
+			Your flight leaves a damaging void trail that lasts for 5 seconds
+			[c/00ff87:永恒]
+			'''
+	}
+
+	EldritchHoodOfShadow: {
+		Tooltip:
+			'''
+			Halves the duration of Chaos State from Rod of Discord
+			Rogue attacks deal 1.2x more damage
+			Increases maximum rogue stealth by 200
+			10% increased ranged and rogue attack speed
+			[c/00ff87:永恒]
+			'''
+		DisplayName: Eldritch Hood of Shadow
+	}
+
+	EctoSkullOfSorrow: {
+		DisplayName: Ecto-Skull of Sorrow
+		Tooltip:
+			'''
+			Attacks have a 25% chance to spawn a homing Pink Soul dealing 50% weapon damage
+			Losing more than 15% of max HP in a single hit triggers a protective ring of 5 phantom bolts
+			Phantom bolts knock back enemies and destroy enemy projectiles
+			Emits a bright pink light that reveals traps and enemies through walls
+			[c/00ff87:永恒]
+			'''
+	}
+
+	HeartOfTheAncientTyphoon: {
+		DisplayName: Heart of the Ancient Typhoon
+		Tooltip:
+			'''
+			Provides deep sea vision and infinite breath underwater
+			Increases movement speed in water by 20%
+			20% increased magic and summon critical strike chance
+			Dashing heals for 2 HP (increases to 5 HP while submerged in water)
+			[c/00ff87:永恒]
+			'''
+	}
+
+	CosmicPocketDimension: {
+		DisplayName: Cosmic Pocket Dimension
+		Tooltip:
+			'''
+			Every 12 seconds, flashes a grid of purple lasers that deal 10000 damage and inflict Godslayer Inferno
+			Grants +10 defense, and an additional +5 defense during boss fights
+			Provides +10% true melee damage while positioned in Space
+			[c/00ff87:永恒]
+			'''
+	}
+
+	AuricNugget: {
+		Tooltip:
+			'''
+			Increases flight duration by 20%
+			Increases maximum health by 5%
+			Increases weapon size by 15%
+			Increases damage by 5% while afflicted by any debuff
+			Explodes for 20000 damage in a huge radius upon death
+			'This is my master to my message...'
+			[c/00ff87:永恒]
+			'''
+		DisplayName: Overcooked Auric Nugget
+	}
+
+	CyberneticCore: {
+		DisplayName: Cybernetic Core of the Calculator
+		Tooltip:
+			'''
+			Draedon's Heart nanometer gauge charges 2x faster
+			Increases invincibility time after taking damage
+			If your health falls below 15%, you gain 100% damage resistance for 10 seconds
+			[c/ff4545:All your attacks create short exo-explosions]
+			[c/48ff45:Projectile speed is increased by 25%]
+			[c/4596ff:Increases whip size and speed by 10%]
+			[c/00ff87:永恒]
+			'''
+	}
+
+	EyeOfBloodyRetribution: {
+		DisplayName: Eye of Bloody Retribution
+		Tooltip:
+			'''
+			10% increased critical strike chance
+			Provides 0.3 seconds of invincibility during a dash
+			Grants Supreme Calamitas Aura: Slows down incoming enemy projectiles by 30%
+			15% increased true melee damage
+			You take 1.2x more damage, but deal 1.5x more damage from all sources
+			[c/00ff87:永恒]
+			'''
+	}
+
+	EyeOfPrimordialAbyss: {
+		DisplayName: Eye of the Primordial Abyss
+		Tooltip:
+			'''
+			During invincibility, all enemies and projectiles on screen are slowed by 90%
+			Periodically releases a fan of homing Abyssal electric discharges dealing massive magic damage
+			Increases movement speed by 50% and damage by 15% while inside the Ocean or Calamity's Abyss
+			[c/00ff87:永恒]
+			'''
+	}
+
+	HeartOfTheGrave: {
+		DisplayName: Heart of the Grave
+		Tooltip:
+			'''
+			Increases max health and max mana by 150
+			20% increased critical strike chance
+			Gives +20 max health for each summoned minion slot occupied
+			[c/00ff87:永恒]
+			'''
+	}
+
+	SandSharkMask: {
+		DisplayName: Sand Shark Mask
+		Tooltip:
+			'''
+			Double tap DOWN to summon a sand tornado at the cursor's position
+			While standing on sand, damage is increased by 25% but movement speed is reduced by 20%
+			Sand cascades from your character
+			[c/00ff87:永恒]
+			'''
+	}
+
+	AncientRuneTablet: {
+		DisplayName: Ancient Rune Tablet
+		Tooltip:
+			'''
+			Falling from 35+ blocks releases 9 water projectiles in all directions
+			Summons floating truffle spores around you to attack enemies (spore count doubled in Jungle or Glowing Mushroom biome)
+			+7% movement speed while underwater
+			+7 defense and +5% damage reduction if standing still underwater
+			Summons hive orbs that circle around you to damage enemies and absorb projectiles
+			(triggers massive cursed explosion if all orbs are destroyed)
+			Attacks have a 10% chance to inflict Ichor for 15 seconds, and a separate 10% chance to land a guaranteed critical strike instead
+			Summons a split aura: Left side (Ebon) deals 150 damage and knocks back enemies;
+			Right side (Crimson) grants +25% projectile speed and slows enemy projectiles by 25%
+			[c/00ff87:永恒]
+			'''
+	}
+
+	BrimstoneMonolithicStar: {
+		DisplayName: Brimstone Monolithic Star
+		Tooltip:
+			'''
+			Grants immunity to lava
+			Doubles movement speed while submerged in lava
+			Taking damage in lava triggers a brimstone explosion and disables the speed bonus for 1 minute
+			Your projectiles inflict Brimstone Flames for 10 seconds
+			While flying, you take 10% more damage but gain 1.5/s health and mana regeneration
+			Grants immunity to Astral Infection
+			Increases jump height by 5%
+			Spawns 5 auroradical stars upon landing
+			Wealing for more than 170 health grants an additional 25 health
+			Ignores incoming damage below 5 units (excluding debuffs)
+			Taking over 300 damage grants 30 defense for 10 seconds
+			Taking over 50 damage increases movement speed by 10% for 5 seconds
+			While below 50% health, you deal 10% less damage, gain 5s of flight time, and take 10% less damage
+			Damage reduction is increased to 15% instead while inside the Astral Infection biome
+			[c/00ff87:永恒]
+			'''
+	}
+
+	WorldPollutionObject: {
+		DisplayName: World Pollution Object
+		Tooltip:
+			'''
+			The further away an enemy is, the less damage they inflict (up to 1.25x reduction)
+			The closer an enemy is, the higher the chance your attacks inflict Frostburn
+			Attacking generates sulfur bubbles that split into smaller damaging bubbles
+			Attacks have a 5% chance to duplicate shot projectiles
+			Summons Anahita's musical notes to circle around you and damage enemies
+			Standing still for 5 seconds grants total invisibility until you move
+			Grants immunity to Plague, Poisoned, and Acid Venom debuffs
+			Your attacks inflict Plague
+			Summons massive plague clouds that float around you and heavily damage nearby enemies
+			[c/00ff87:永恒]
+			'''
+	}
+
+	CoreOfProfanedChaosDestruction: {
+		DisplayName: Core of Profaned Chaos Destruction
+		Tooltip:
+			'''
+			Releases 9 homing dragonfolly feathers every 3 seconds while attacking
+			Grants immunity to Holy Flames
+			Increases health regeneration by 25% while you are not attacking
+			Your attacks inflict Holy Flames
+			Dash cooldown recovers 1.5x faster
+			Increases health regeneration by 5% during the day
+			Increases damage reduction by 5% during the night
+			Provides deep sea vision and infinite breath underwater
+			Increases movement speed in water by 20%
+			20% increased magic and summon critical strike chance
+			Dashing heals for 2 HP (increases to 5 HP while submerged in water)
+			Increases flight duration by 20%
+			Increases maximum health by 5%
+			Increases weapon size by 15%
+			Increases damage by 5% while afflicted by any debuff
+			Explodes for 20000 damage in a huge radius upon death
+			Double tap DOWN to summon a sand tornado at the cursor's position
+			While standing on sand, damage is increased by 25% but movement speed is reduced by 20%
+			Sand cascades from your character
+			[c/00ff87:永恒]
+			'''
+	}
+
+	PrismOfCosmicGloom: {
+		DisplayName: Prism of Cosmic Gloom
+		Tooltip:
+			'''
+			Strikes nearby enemies with lightning bolts every 5 seconds
+			Your piercing attacks inflict the Electrified debuff
+			Increases flight duration by 10%
+			Your flight leaves a damaging void trail that lasts for 5 seconds
+			Halves the duration of Chaos State from Rod of Discord
+			Rogue attacks deal 1.2x more damage
+			Increases maximum rogue stealth by 200
+			10% increased ranged and rogue attack speed
+			Attacks have a 25% chance to spawn a homing Pink Soul dealing 50% weapon damage
+			Losing more than 15% of max HP in a single hit triggers a protective ring of 5 phantom bolts
+			Phantom bolts knock back enemies and destroy enemy projectiles
+			Emits a bright pink light that reveals traps and enemies through walls
+			Every 12 seconds, flashes a grid of purple lasers that deal 10000 damage and inflict Godslayer Inferno
+			+10 defense (+15 defense during boss fights)
+			+10% true melee damage while positioned in Space
+			During invincibility, all enemies and projectiles on screen are slowed by 90%
+			Periodically releases a fan of homing Abyssal electric discharges dealing massive magic damage
+			Increases movement speed by 50% and damage by 15% while inside the Ocean or Calamity's Abyss
+			[c/00ff87:永恒]
+			'''
+	}
+
+	HeartOfBloodyCyborg: {
+		DisplayName: Heart of the Bloody Cyborg
+		Tooltip:
+			'''
+			Draedon's Heart nanometer gauge charges 2x faster
+			Increases invincibility time after taking damage
+			If your health falls below 15%, you gain 100% damage resistance for 10 seconds
+			All your attacks create short exo-explosions
+			Projectile speed is increased by 25%
+			Increases whip size and speed by 10%
+			30% increased critical strike chance
+			Provides 0.3 seconds of invincibility during a dash
+			Grants Supreme Calamitas Aura: Slows down incoming enemy projectiles by 30%
+			15% increased true melee damage
+			You take 1.2x more damage, but deal 1.5x more damage from all sources
+			Increases max health and max mana by 150
+			Gives +20 max health for each summoned minion slot occupied
+			[c/00ff87:永恒]
+			'''
+	}
+
+	SoulOfCalamity: {
+		DisplayName: 灾厄之魂
+		Tooltip:
+			'''
+			Combines the effects Soul of Yharim and Soul of Calamitas
+
+			It burns...
+			'''
+	}
+
+	SoulOfYharim: {
+		DisplayName: 亚利姆之魂
+		Tooltip:
+			'''
+			Combines the effects:
+			Ancient Rune Tablet
+			Brimstone Monolithic Star
+			World Pollution Object
+			Core of Profaned Chaos Destruction
+			Prism of Cosmic Gloom
+			Heart of the Bloody Cyborg.
+
+			The absolute culmination of the Tyrant's undying wrath
+			[c/00ff87:永恒]
+			'''
+	}
+}
+
+Buffs: {
+	ShadowEntropyDebuff: {
+		Description: Mods.NotmeCalFagDlc.Buffs.ShadowEntropyDebuff.Description
+		DisplayName: Shadow Entropy Debuff
+	}
+
+	AuricElectrificationDebuff: {
+		DisplayName: 圣金源带电
+		Description: Mods.NotmeCalFagDlc.Buffs.AuricElectrificationDebuff.Description
+	}
+
+	BrimstoneExhaustionBuff: {
+		DisplayName: Brimstone Exhaustion
+		Description: Asafure Organic Booster functions are disabled
+	}
+
+	BoneShieldBuff: {
+		DisplayName: Bone Shield
+		Description: Your defense is increased by 30
+	}
+
+	BoneShieldCooldownBuff: {
+		DisplayName: Bone Shield Cooldown
+		Description: Your bones cannot fortify yet
+	}
+}
+
+Keybinds: {
+	"Eridanus Time Stop.DisplayName": 厄里达诺斯时停
+	"Auric Ability.DisplayName": 圣金源能力
+	"Astral Phase Key.DisplayName": Astral  Phase  Key
+}
+
+Projectiles: {
+	FriendlyMutantEye.DisplayName: Friendly Mutant Eye
+	AuricBombProjectile.DisplayName: Auric Bomb Projectile
+	HiveOrbProjectile.DisplayName: Hive Orb Projectile
+	PestilentAuraProjectile.DisplayName: Pestilent Aura Projectile
+	SmallSulfurBubble.DisplayName: Small Sulfur Bubble
+	SulfurBubble.DisplayName: Sulfur Bubble
+	AnahitaNoteProjectile.DisplayName: Anahita Note Projectile
+	PlagueCloudProjectile.DisplayName: Plague Cloud Projectile
+	CeaselessTrailProjectile.DisplayName: Ceaseless Trail Projectile
+	PhantomBoltProjectile.DisplayName: Phantom Bolt Projectile
+	PinkSoulProjectile.DisplayName: Pink Soul Projectile
+}
