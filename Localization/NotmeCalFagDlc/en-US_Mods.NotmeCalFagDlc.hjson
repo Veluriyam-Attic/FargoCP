@@ -445,6 +445,9 @@ Items: {
 			The size of your summoned minions is increased by 50%
 			Maximum mana is increased by 50 for each active minion, and the maximum number of tentacles in the Omega Blue armor set is increased by 5.
 			Wearing a full Godslayer armor set grants +15 defense, +10% damage, and +10% movement speed.
+			Adrenaline charges 20% faster, increased to 70% while grounded
+			While adrenaline is partially charged, receive up to 15% damage reduction
+			Increases your max movement speed and acceleration by 5%
 			'''
 	}
 
@@ -512,6 +515,11 @@ Items: {
 			While active, an archangel is summoned for every minion you haveArchangels vaporize foes with heavenly light and each restore 2 HP upon spawning
 			Minion attacks inflict Banishing Fire, and you gain a flat 4 HP/s regen
 			This effect has a cooldown of 1 minute
+			Summons a wulfrum drone that follows your cursor
+			The drone scans enemies it collides with
+			Scanning enemies tells you their debuff weaknesses and resistances
+			Green means weakness, red means resistance
+			Scanned enemies also take extra flat damage over time when afflicted with any debuff
 			'''
 	}
 
@@ -519,77 +527,8 @@ Items: {
 		DisplayName: Soul Of Calamitas
 		Tooltip:
 			'''
-			Rogue's attacks leave a trail of fine Meld plasma particles
-			Rogue projectiles constantly accelerate in flight (doubles acceleration)
-			Hits inflict 'Shadow Entropy' debuff for 5 seconds (deals massive DoT, increases target's damage by 25%)
-			Magical and ranged attacks inflict Astral Contagion
-			True Melee attacks gain armor penetration equal to 20% of defense
-			+20 Melee armor penetration and +20 true melee armor penetration
-			Dashes ignite nearby enemies with Godslayer Inferno
-			All attacks burn enemies with Brimstone Flame for 10 seconds
-			Attacks apply Miracle Blight debuff to enemies
-			Minion attacks inflict Banishing Fire
-			+20% Rogue Stealth generation speed
-			+150 Maximum rogue stealth
-			10% Chance to not consume Stealth when performing a Rogue attack
-			Permanent immunity to 'Godslayer Inferno' debuff
-			Permanent 'Omniscience', 'Astral Thrust', 'Tarragon Life', 'Brittlefire Fury', 'Blood Rage' and 'Enraged' buffs
-			Permanent effects of the Ego-Crushing trinket
-			Call upon the force of heaven to empower attacks and minions (Courage, Enlightenment, Bliss)
-			Press Angelic Alliance Blessing for 'Divine Bless' buff for 15 seconds (summons an archangel for every minion
-			Archangels deal light damage and restore 2 HP upon spawning) [1 min cooldown]
-			Maximum health increased by 25% of maximum mana
-			+20% Maximum health
-			Defense increased by ~6.6% of maximum mana
-			While health is below 30, defense is doubled
-			+35 Defense (increases by +30 in Magma Mode)
-			While standing still: defense increases by +3/sec (up to +30), damage decreases by -5%/sec (up to -50%) [movement resets bonus]
-			+35% Damage for all classes (+50% for Summoner, +23% for all other classes if summoner bonus triggers, +10% magic damage when mana is full)
-			+20% Critical strike chance for all classes
-			+20% Attack speed for all classes
-			+60% Maximum movement speed (increases by an additional +30% in Blizzard Mode)
-			-10% Running acceleration
-			-50% Running deceleration
-			Damage increases based on movement speed (up to 40%)
-			Upgraded charged jump (boosts horizontal speed when grounded) and powerful downward dive (both push enemies away and deal 200 damage scaling with highest multiplier)
-			Flight ability (wing stats of Starlight Wings) with great acceleration during slow fall (momentum can be directed upward/faster with movement keys)
-			Urchin spikes launch outward when charged by attacking (deal 250 damage, inflict Sulphuric Poisoning)
-			+25% Flight time
-			+25% Whip attack size
-			+50% Summoned minions size
-			+5 Active minion slots
-			+5 Active turret/guard slots
-			+50 Maximum mana for each active minion
-			+100 Maximum mana-30% Mana consumption
-			+10% Mana regeneration
-			+5 Maximum tentacles in the Omega Blue armor set
-			Constantly aglow with 'Wet' effect, emits blue light, improves underwater visibility
-			While in water: +10 defense, -10% speed, +1 max minions, +3 max guards, +10% health regeneration, -10% damage resistance
-			2x Knockback for all weapons
-			Minions inflict Plague on enemies for 10 seconds
-			Ranged attacks inflict Plague for 10 seconds
-			Bullet attacks have 15% chance to summon a shooting star (100 damage)
-			Flamethrowers inflict Acidic Poison for 5 seconds
-			15% Chance to not consume projectiles
-			Ammo save chance increases the lower your ammo count
-			Cursed Fire deals damage 2x faster
-			Ichor reduces enemy defenses by half
-			Energy Shield: 5% chance to reflect enemy projectiles
-			Protective Shield: surrounds you, deals 700 damage and knocks back enemies
-			Press [KEY] to launch 4 huge Aurite bombs (700 damage, splash, paralyzes for 10 seconds) [30s cooldown]
-			Taking damage grants 'Silva's Immortality' buff for 5 secondsTaking damage releases 5 to 10 Plague Bees
-			Plague Explosion (health < 100): deals 300 damage to summoner [30s cooldown shared]
-			Plague Explosion (health < 20%): deals 200 ranged damage [30s cooldown shared]
-			Heroic enemies heal you for 1-3 health upon defeat
-			+15% Health regeneration (plus flat 4 HP/s regen, and extra 2 HP/s regen while flight time is expended)
-			-15% Incoming damage (-5% baseline reduction, +10% damage resistance)
-			Ability to switch between Magma and Blizzard Mode (both modes grant offensive buffs)
-			Magma Mode: +30 defense, +30% damage reduction, grants upgraded Hydrothermic ability
-			Magma Mode (active): attacking builds heat; venting heat grants Reaver Rage (+10% damage, +5% melee speed, +5 defense for 3 seconds) and fires Chaos flares (inflict Hellfire and Brimstone Flames)
-			Blizzard Mode: +15 regeneration, +30% movement speed, increased hook velocity, reduced dash cooldown
-			Blizzard Mode (active): after 1s in air, attacks spawn arrows from the sky (120 base damage, scales with highest damage multiplier) until landing or getting hit
-			Blizzard Mode (active): jumping/double jumping grants +10% critical strike and minion damage (max +60% crit) until reset or riding a mount; damage increases by up to 50% based on airtime
-			When wearing full Tech Armor, all bonuses from this enchantment are increased by 25%
+			Combines the effects of gale, elements, outer cosmos, obscurantism, and cataclysm.
+			"Strong, but how strong?"
 			'''
 	}
 
