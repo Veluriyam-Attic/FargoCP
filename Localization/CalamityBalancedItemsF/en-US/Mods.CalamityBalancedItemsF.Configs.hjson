@@ -38,29 +38,14 @@ ModSettings: {
 		Tooltip: If activated, makes the Sigil Of Champions impossible to get by crafting
 	}
 
-	DisableEModeZenithNerf: {
-		Label: Disable Zenith nerf in Eternity Mode (default: true)
-		Tooltip: If activated and in Eternity Mode, restores Zenith base hit cooldown
-	}
-
-	DisableEModeStarCannonNerf: {
-		Label: Disable Star Cannon nerf in Eternity Mode (default: true)
-		Tooltip: If activated and in Eternity Mode, restores 40% of the damage
-	}
-
-	DisableEModeStarShooterNerf: {
-		Label: Disable Super Star Shooter nerf in Eternity Mode (default: true)
-		Tooltip: If activated and in Eternity Mode, adds infinite piercing
-	}
-
-	DisableEModeBlizzardStaffNerf: {
-		Label: Disable Blizzard Staff nerf in Eternity Mode (default: true)
-		Tooltip: If activated and in Eternity Mode, restores 30% of damage and speed
-	}
-
 	ChangeGlobalAI: {
 		Label: Change the AI from almost all entities (default: true)
 		Tooltip: Disables the Eternity AI from all Vanilla bosses and entities; multiplies their HP and damage, etc.
+	}
+
+	DisableEternityPenalties: {
+		Label: Disable Eternity Mode environmental and item penalties (default: true)
+		Tooltip: If activated, will disable a lot of Eternity penalties (including debuffs and nerfs on items)
 	}
 
 	MultiplyEterniaCrystalLife: {
