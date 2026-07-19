@@ -27,6 +27,7 @@ ModSettings: {
 		Label: 使用花岗岩洞穴主题音乐 （默认：启用）
 		Tooltip: 若启用，则增加花岗岩洞穴主题音乐
 	}
+
 	UseBossNewMusics: {
 		Label: 使用1.4.5部分Boss新的主题曲  （默认：启用）
 		Tooltip: 若启用，将改变双子魔眼、机械骷髅王、毁灭者、世界吞噬怪、拜月教邪教徒、蜂王和火把神的主题曲
@@ -37,29 +38,14 @@ ModSettings: {
 		Tooltip: 若启用，使唤灵魔符无法被合成
 	}
 
-	DisableEModeZenithNerf: {
-		Label: 禁用永恒模式 [i:4956] 天顶剑的削弱 （默认：启用）
-		Tooltip: 若启用且处于永恒模式，回调天顶剑的伤害频率
-	}
-
-	DisableEModeStarCannonNerf: {
-		Label: 禁用永恒模式 [i:197] 星星炮的削弱 （默认：启用）
-		Tooltip: 若启用且处于永恒模式，则回调40%伤害
-	}
-
-	DisableEModeStarShooterNerf: {
-		Label: 禁用永恒模式 [i:4060] 超级星星炮的削弱 （默认：启用）
-		Tooltip: 若启用且处于永恒模式，增加无限穿透
-	}
-
-	DisableEModeBlizzardStaffNerf: {
-		Label: 禁用永恒模式 [i:1931] 暴雪法杖的削弱 （默认：启用）
-		Tooltip: 若启用且处于永恒模式，则回调30%伤害和攻击速度
-	}
-
 	ChangeGlobalAI: {
 		Label: 修改几乎所有生物的AI （默认：启用）
 		Tooltip: 若启用，将会禁用所有原版Boss和敌怪在永恒模式下的AI，并且成倍提升它们的生命值和伤害等属性
+	}
+
+	DisableEternityPenalties: {
+		Label: 禁用永恒模式对环境与物品惩罚 （默认：启用）
+		Tooltip: 若启用，将会禁用大量永恒模式的惩罚（包括减益和对物品的削弱）
 	}
 
 	MultiplyEterniaCrystalLife: {
