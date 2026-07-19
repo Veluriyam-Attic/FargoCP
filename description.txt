@@ -45,6 +45,7 @@ Fargo突变与魂石汉化补丁：https://steamcommunity.com/sharedfiles/filede
     * Super Souls DLC    超级魂石DLC
     * Fargo Healer and Bard    Fargo瑟银扩展
     * various calamity/fargos settings    多种灾厄/Fargo设置
+    * Notme229 Calamity-Fargo Souls DLC   Notme229的灾厄-Fargo魂DLC
 
 †Ξ使用方法Ξ†
 1.同时订阅你想要游玩的Mod和本汉化Mod
