@@ -1,5 +1,5 @@
 ClientSide: {
-	DisplayName: 客户端设置
+	DisplayName: 客户端配置
 
 	Headers: {
 		MusicBoss: Boss音乐
