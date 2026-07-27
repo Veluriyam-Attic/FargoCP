@@ -1,21 +1,24 @@
-ModSettings: {
-	DisplayName: Mod Settings
+ClientSide: {
+	DisplayName: Client Config
 
 	Headers: {
-		MusicSettings: Music Configuration
-		ItemChanges: Item & Recipe Changes
-		EternityMode: Eternity Mode Settings
-		Miscellaneous: Miscellaneous Settings
+		MusicBoss: Boss Music
+		MusicAmbient: Ambient Music
 	}
 
 	UseCustomLifelightMusic: {
-		Label: Use Lifelight's alt theme (default: true)
+		Label: Use Lifelight's alt theme (default: false)
 		Tooltip: If activated, replace the Lifelight's theme
 	}
 
 	UseCustomDraedonMusic: {
-		Label: Use ExoMechs' alt theme (default: true)
+		Label: Use ExoMechs' alt theme (default: false)
 		Tooltip: If activated, replace the ExoMechs' theme
+	}
+
+	UseBossNewMusics: {
+		Label: Use the new 1.4.5 themes for some bosses (default: true)
+		Tooltip: If activated, changes the themes of Twins, Skeletron(Prime), Destroyer, EaterOfWorlds, LunaticCultist, QueenBee & TorchGod
 	}
 
 	UseCustomMarbleTheme: {
@@ -27,20 +30,19 @@ ModSettings: {
 		Label: Use Granite Caves biome theme (default: true)
 		Tooltip: If activated, adds a theme for the Granite Caves
 	}
+}
 
-	UseBossNewMusics: {
-		Label: Use the new 1.4.5 themes for some bosses (default: true)
-		Tooltip: If activated, changes the themes of Twins, Skeletron(Prime), Destroyer, EaterOfWorlds, LunaticCultist, QueenBee & TorchGod
-	}
+ServerSide: {
+	DisplayName: Server Config
 
-	RemoveSigilConfig: {
-		Label: Remove Sigil Of Champions recipe (default: true)
-		Tooltip: If activated, makes the Sigil Of Champions impossible to get by crafting
+	Headers: {
+		EternityMode: Eternity Mode Tweaks
+		Progression: Progression Change
 	}
 
 	ChangeGlobalAI: {
-		Label: Change the AI from almost all entities (default: true)
-		Tooltip: Disables the Eternity AI from all Vanilla bosses and entities; multiplies their HP and damage, etc.
+		Label: Change the AI from entities (default: true)
+		Tooltip: Disables the Eternity AI from all Vanilla bosses and NPCs; apply Eternity Mode effects in other mod's NPCs
 	}
 
 	DisableEternityPenalties: {
@@ -48,18 +50,18 @@ ModSettings: {
 		Tooltip: If activated, will disable a lot of Eternity penalties (including debuffs and nerfs on items)
 	}
 
+	BalanceWeaponsEMode: {
+		Label: Balance overpowered weapons (and Zenith) stats in Eternity Mode (default: false)
+		Tooltip: If activated, prevents of a lot of cross-modded weapons, from being buffed by any player effect and contributing for a better progression
+	}
+
 	MultiplyEterniaCrystalLife: {
 		Label: Multiply Eternia Crystal life by 3x (default: true)
 		Tooltip: If activated, will multiply its defense too
 	}
 
-	ModifyChampionsLoot: {
-		Label: Modify the loot of the Champion of Will, Life & Cosmos (default: true)
-		Tooltip: If activated, will make each one drop 3 forces
-	}
-
 	UseDifferentProgression: {
-		Label: Modify Fargo's Progression
-		Tooltip: If activated, will unable Mutant's Curse in Expert/Eternity and Master Mode until Eridanus is defeated
+		Label: Modify Fargo's Progression (default: true)
+		Tooltip: Will affect items recipes and stats in general, NPCs will more likely have a different AI too (Use this with AI Changer)
 	}
 }

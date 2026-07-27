@@ -28,9 +28,8 @@ CosmicHat: {
 	Tooltip:
 		'''
 		Summons Eridanus, Champion of Cosmos when used in the Space biome
-		When defeated, unlocks the Eternity Mutant
 		Not Consumable
-		'This hat exudes immeasurable power...'
+		[c/841cbc:'A being with immensurable power... Prove your worth to Mutant by defeating it.']
 		'''
 	DisplayName: Cosmic Hat
 }
@@ -39,7 +38,7 @@ LifeSigil: {
 	Tooltip:
 		'''
 		Summons Champion of Life when used in day time
-		Cannot be used when it's in an eclipse nor raining
+		Cannot be used when it's raining nor in an eclipse
 		Not Consumable
 		'It doesn't seems so friendly...'
 		'''
