@@ -1,2 +1,3 @@
-MutantsCurseTooltip: 击败厄里达诺斯，宇宙英灵向突变体证明你的价值
-MutantHoldingBack: 突变体（克制）
+MutantsCurseTooltip: 你必须向突变体证明你的价值，这样它才会全力以赴
+MutantHoldingBack: 突变体（未施全力）
+EternityBuffImmune: "[c/FF0000:永恒模式：] 无法被施加任意伤害减益"
