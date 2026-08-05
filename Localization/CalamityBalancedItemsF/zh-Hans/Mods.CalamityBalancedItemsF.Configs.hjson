@@ -22,13 +22,23 @@ ClientSide: {
 	}
 
 	UseCustomMarbleTheme: {
-		Label: 使用大理石洞穴主题音乐 （默认：启用）
-		Tooltip: 若启用，则增加大理石洞穴主题音乐
+		Label: 使用大理石洞穴主题曲 （默认：启用）
+		Tooltip: 若启用，则增加大理石洞穴主题曲
 	}
 
 	UseCustomGraniteTheme: {
-		Label: 使用花岗岩洞穴主题音乐 （默认：启用）
-		Tooltip: 若启用，则增加花岗岩洞穴主题音乐
+		Label: 使用花岗岩洞穴主题曲 （默认：启用）
+		Tooltip: 若启用，则增加花岗岩洞穴主题曲
+	}
+
+	UseCustomPyramidTheme: {
+		Label: 使用古迹残存（Remnants）的金字塔主题曲 （默认：禁用）
+		Tooltip: 若启用，则增加来自古迹残存的金字塔环境专属主题曲
+	}
+
+	UseAltAerialGardenTheme: {
+		Label: 使用古迹残存（Remnants）空中花园（Aerial Garden）的替换主题曲 （默认：禁用）
+		Tooltip: 若启用，将替换古迹残存原本空中花园的主题曲，换为有白天与夜晚变奏的新主题曲
 	}
 }
 
