@@ -1,6 +1,9 @@
 Toggler: {
 	MuspelheimForceHeader: 穆斯贝尔海姆之力
 	BulbEffect: 绽花 活力花瓣
+	GreedyGobletEffects: 巫妖 贪婪之证
+	PiratesPurseEffects: 巫妖 海盗的钱袋子
+	InfernoLordsFocusEffects: 炎法 地狱领主的聚焦项链
 	AnnihilationForceHeader: 湮灭之力
 	AerospecMinion: 天蓝 天武神
 	GladiatorsLocketEffect: 天蓝 角斗士金锁
@@ -56,7 +59,7 @@ Toggler: {
 	BerserkerEffect: 狂战士 套装效果
 	BiotechEffect: 医疗 生物工程探测器
 	ConduitShield: 电容 电容护盾
-	CyberPunkEffect: 赛博 套装效果
+	CyberPunkEffect: 赛博 套装效果（可能导致人物无法移动）
 	BeeBootiesEffect: 绽生 蜜蜂靴
 	DreadEffect: 恐惧 套装效果
 	CrystalScorpionEffect: 晶体 水晶蝎
@@ -2075,7 +2078,7 @@ Items: {
 	}
 
 	ElementalEnchant: {
-	DisplayName: 元素魔石
+		DisplayName: 元素魔石
 		Tooltip:
 			'''
 			被传送命中的敌人将被暂时冻结时间
@@ -2268,6 +2271,66 @@ Items: {
 			'''
 		DisplayName: 奇械师魔石
 	}
+
+	SecretsSoul: {
+		DisplayName: 暗影之魂
+		Tooltip:
+			'''
+			拥有极寒和流胶木盔甲的套装奖励
+			拥有陆地和元素盔甲的套装奖励
+			拥有钻头熔炉和霜冻遗物盔甲的套装奖励
+			拥有补丁皮和虚空间游侠盔甲的套装奖励
+			拥有薄暮和振荡盔甲的套装奖励
+			拥有诅咒和薄光刺客盔甲的套装奖励
+			召唤幸运紫气球宠物
+			获得开锁器和元素护身符的效果
+			获得刺梨盾、护身符袋和终极偏振器的效果
+			获得钻头手臂和冰碎块护盾的效果
+			获得亚空间锁盒、虚空间徽章和聚焦十字镜的效果
+			获得花岗岩护盾和收割者之镰的效果
+			获得罐中心脏和计算器的效果
+			'''
+	}
+
+	SplitSoul: {
+		DisplayName: 永冻之魂
+		Tooltip:
+			'''
+			拥有附灵、守墓人和巫妖盔甲的套装奖励
+			拥有构岩、果冻胶和蟹壳盔甲的套装奖励
+			拥有霜晶破碎者、星辰游侠和观星者盔甲的套装奖励
+			拥有冰噬和奇械师盔甲的套装奖励
+			获得巫毒之心和火柴盒的效果
+			获得痛苦源晶和紫泪石戒指的效果
+			获得奥秘包裹、冻结冰峰和孔雀石宝盒的效果
+			获得寒冷催化物和菌丝壁垒的效果
+			'''
+	}
+
+	VoidSoul: {
+		DisplayName: 深渊之魂
+		Tooltip:
+			'''
+			增加30%虚空伤害
+			增加15%虚空暴击率
+			减少15%虚空消耗
+			增加8点虚空恢复量和150点最大虚空值
+			获得麦克米伦先生和远古壁垒的效果
+			获得超光速引擎、虚空魔法孵化器和剑刃项链的效果
+			'''
+	}
+
+	VoidEssence: {
+		DisplayName: 虚空精华
+		Tooltip:
+			'''
+			增加18%虚空伤害
+			增加5%虚空暴击率
+			减少8%虚空消耗
+			增加4点虚空恢复量和50点最大虚空值
+			获得麦克米伦先生的效果
+			'''
+	}
 }
 
 Buffs: {
@@ -2280,7 +2343,11 @@ Buffs: {
 Configs: {
 	Config: {
 		DisplayName: 设置
-		Headers.Modes: 模组
+
+		Headers: {
+			Modes: 模组
+			ContentMods: 内容模组
+		}
 
 		AddFargosDLCRecipeChangesWhenDisabled: {
 			Label: 禁止增添Fargo DLC配方
@@ -2296,6 +2363,71 @@ Configs: {
 			Label: 禁用官方Fargo DLC魔石
 			Tooltip: ""
 		}
+
+		EnableCalamity: {
+			Label: 启用[C/AB1B1B:灾厄]内容
+			Tooltip: 启用对[C/AB1B1B:灾厄]的跨模组兼容
+		}
+
+		EnableThorium: {
+			Label: 启用[C/00E5FF:瑟银]内容
+			Tooltip: 启用对[C/00E5FF:瑟银]的跨模组兼容 
+		}
+
+		EnableConsolaria: {
+			Label: 启用Consolaria内容
+			Tooltip: 启用对Consolaria的跨模组兼容
+		}
+
+		EnableDBZ: {
+			Label: 启用[C/F7DC46:龙珠]内容
+			Tooltip: 启用对[C/F7DC46:龙珠]的跨模组兼容
+		}
+
+		EnableSpirit: {
+			Label: 启用[C/60EDE9:魂灵]内容
+			Tooltip: 启用对[C/60EDE9:魂灵]的跨模组兼容
+		}
+
+		EnableSOTS: {
+			Label: 启用[C/c694e8:暗影奥秘]内容
+			Tooltip: 启用对[C/c694e8:暗影奥秘]的跨模组兼容
+		}
+
+		EnableSplit: {
+			Label: 启用[C/50EA9D:裂痕]内容
+			Tooltip: 启用对[C/50EA9D:裂痕]的跨模组兼容
+		}
+
+		EnableClamity: {
+			Label: 启用[C/DB852D:灾蛤]内容
+			Tooltip: 启用对[C/DB852D:灾蛤]的跨模组兼容
+		}
+
+		EnableCatalyst: {
+			Label: 启用[C/3B399E:灾劫]内容
+			Tooltip: 启用对[C/3B399E:灾劫]的跨模组兼容
+		}
+
+		EnableCalamityHunt: {
+			Label: 启用[C/8177BD:旧神之猎]内容
+			Tooltip: 启用对[C/8177BD:旧神之猎]的跨模组兼容
+		}
+
+		EnableCalamityEntropy: {
+			Label: 启用[C/4C00D1:灾熵]内容
+			Tooltip: 启用对[C/4C00D1:灾熵]的跨模组兼容
+		}
+
+		EnableCalamityBardHealer: {
+			Label: 启用[C/AB1B1B:非官方灾厄吟游诗人和牧师]内容
+			Tooltip: 启用对[C/AB1B1B:非官方灾厄吟游诗人和牧师]的跨模组兼容
+		}
+
+		EnableSpiritBardHealer: {
+			Label: 启用[C/60EDE9:非官方魂灵吟游诗人和牧师]内容
+			Tooltip: 启用对[C/60EDE9:非官方魂灵吟游诗人和牧师]的跨模组兼容
+		}
 	}
 }
 
@@ -2307,7 +2439,7 @@ NPCs: {
 		DisplayName: Squirrel Chat Bridge
 
 		TownNPCMood: {
-			Content: I am content.
+			Content: I am内容.
 			NoHome: I hate not having a home.
 			FarFromHome: I am too far from home.
 			LoveSpace: I love having so much space.
