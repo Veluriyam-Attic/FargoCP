@@ -1,6 +1,9 @@
 Toggler: {
 	MuspelheimForceHeader: Muspelheim Force
 	BulbEffect: Kick Petal
+	GreedyGobletEffects: Greedy Goblet
+	PiratesPurseEffects: Pirate's Purse
+	InfernoLordsFocusEffects: Inferno Lord's Focus
 	AnnihilationForceHeader: Annihilation Force
 	AerospecMinion: Valkyrie Minion
 	GladiatorsLocketEffect: Gladiators Locket
@@ -2262,6 +2265,66 @@ Items: {
 			'''
 		DisplayName: Contraptionist Enchant
 	}
+
+	SecretsSoul: {
+		DisplayName: Soul of the Shadows
+		Tooltip:
+			'''
+			All armor bonuses from Frigid and Wormwood
+			All armor bonuses from Earthen and Elemental
+			All armor bonuses from Drillforge and Frost Artifact
+			All armor bonuses from Patch Leather and Voidspace Ranger
+			All armor bonuses from Vespera and Vibrant
+			All armor bonuses from Cursed and Twilight Assassin
+			Summons a Lucky Purpe Balloon pet
+			Effects of Lockpick and Elemental Amulet
+			Effects of Bag of Charms, Ultimate Polarizer, and Wormwood
+			Effects of Drill Arm and Shard Guard
+			Effects of Supspace Locket, Voidspace Emblem, and Focus Reticle
+			Effects of Prickly Pear Shield, Granite Protector, and Harvester's Scythe
+			Effects of Heart in a Jar and Calculator
+			'''
+	}
+
+	SplitSoul: {
+		DisplayName: Permafrost Soul
+		Tooltip:
+			'''
+			All armor bonuses from Possessed, Gravekeeper, and Warloch
+			All armor bonuses from Tectonic, Jelly, and Crab
+			All armor bonuses from Rimebreaker, Star Ranger, and Stargazer
+			All armor bonuses from Frostbite and Contraptionist
+			Effects of Voodoo Heart and Matchbook
+			Effects of Painmaker and Purple Tearstone Ring
+			Effects of Mystic Pack, The Iceberg, and Malachite Box
+			Effects of Chilling Catalyst and Mycelium Fortress
+			'''
+	}
+
+	VoidSoul: {
+		DisplayName: Abyssal Soul
+		Tooltip:
+			'''
+			30% increased void damage
+			15% increased void critical strike chance
+			Reduces void cost by 15%
+			Increases void gain by 8 and max void by 150
+			Effects of Mr. McMillen and Bulwark of the Ancients
+			Effects of Hyperdrive, Voidmage Incubator, and Blade Necklace
+			'''
+	}
+
+	VoidEssence: {
+		DisplayName: Void Essence
+		Tooltip:
+			'''
+			18% increased void damage
+			5% increased void critical strike chance
+			Reduces void cost by 8%
+			Increases void gain by 4 and max void by 50
+			Effects of Mr. McMillen
+			'''
+	}
 }
 
 Buffs: {
@@ -2274,7 +2337,11 @@ Buffs: {
 Configs: {
 	Config: {
 		DisplayName: Config
-		Headers.Modes: Modes Header
+
+		Headers: {
+			Modes: Modes Header
+			ContentMods: Content Mods
+		}
 
 		AddFargosDLCRecipeChangesWhenDisabled: {
 			Label: Add Fargos D L C Recipe Changes When Disabled
@@ -2289,6 +2356,71 @@ Configs: {
 		DisableOfficialFargoDLCEnchantments: {
 			Label: Disable Official Fargo D L C Enchantments
 			Tooltip: ""
+		}
+
+		EnableCalamity: {
+			Label: Enable Calamity Content
+			Tooltip: Enable crossmod compatibility with Calamity
+		}
+
+		EnableThorium: {
+			Label: Enable Thorium Content
+			Tooltip: Enable crossmod compatibility with Thorium
+		}
+
+		EnableConsolaria: {
+			Label: Enable Consolaria Content
+			Tooltip: Enable crossmod compatibility with Consolaria
+		}
+
+		EnableDBZ: {
+			Label: Enable DBZ Content
+			Tooltip: Enable crossmod compatibility with DBZ
+		}
+
+		EnableSpirit: {
+			Label: Enable Spirit Content
+			Tooltip: Enable crossmod compatibility with Spirit
+		}
+
+		EnableSOTS: {
+			Label: Enable Secrets of the Shadows Content
+			Tooltip: Enable crossmod compatibility with Secrets of the Shadows
+		}
+
+		EnableSplit: {
+			Label: Enable Split Content
+			Tooltip: Enable crossmod compatibility with Split
+		}
+
+		EnableClamity: {
+			Label: Enable Clamity Content
+			Tooltip: Enable crossmod compatibility with Clamity
+		}
+
+		EnableCatalyst: {
+			Label: Enable Catalyst Content
+			Tooltip: Enable crossmod compatibility with Catalyst
+		}
+
+		EnableCalamityHunt: {
+			Label: Enable Calamity Hunt Content
+			Tooltip: Enable crossmod compatibility with Calamity Hunt
+		}
+
+		EnableCalamityEntropy: {
+			Label: Enable Calamity Entropy Content
+			Tooltip: Enable crossmod compatibility with Calamity Entropy
+		}
+
+		EnableCalamityBardHealer: {
+			Label: Enable Calamity Bard Healer Content
+			Tooltip: Enable crossmod compatibility with Calamity Bard Healer
+		}
+
+		EnableSpiritBardHealer: {
+			Label: Enable Spirit Bard Healer Content
+			Tooltip: Enable crossmod compatibility with Spirit Bard Healer
 		}
 	}
 }
