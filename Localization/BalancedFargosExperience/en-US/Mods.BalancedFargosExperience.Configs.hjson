@@ -1,0 +1,77 @@
+ClientSide: {
+	DisplayName: Client Config
+
+	Headers: {
+		MusicBoss: Boss Music
+		MusicAmbient: Ambient Music
+	}
+
+	UseCustomLifelightMusic: {
+		Label: Use Lifelight's alt theme (default: false)
+		Tooltip: If activated, replace the Lifelight's theme
+	}
+
+	UseCustomDraedonMusic: {
+		Label: Use ExoMechs' alt theme (default: false)
+		Tooltip: If activated, replace the ExoMechs' theme
+	}
+
+	UseBossNewMusics: {
+		Label: Use the new 1.4.5 themes for some bosses (default: true)
+		Tooltip: If activated, changes the themes of Twins, Skeletron(Prime), Destroyer, EaterOfWorlds, LunaticCultist, QueenBee & TorchGod
+	}
+
+	UseCustomMarbleTheme: {
+		Label: Use Marble Caves biome theme (default: true)
+		Tooltip: If activated, adds a custom theme for the Marble Caves
+	}
+
+	UseCustomGraniteTheme: {
+		Label: Use Granite Caves biome theme (default: true)
+		Tooltip: If activated, adds a custom theme for the Granite Caves
+	}
+
+	UseCustomPyramidTheme: {
+		Label: Use Remnants Pyramid theme (default: false)
+		Tooltip: If activated, adds a custom theme for the Pyramid "biome" from Remnants
+	}
+
+	UseAltAerialGardenTheme: {
+		Label: Use Remnants Aerial Garden biome alt theme (default: false)
+		Tooltip: If activated, will replace Remnants original Aerial Garden theme with a custom one, with day and night variation
+	}
+}
+
+ServerSide: {
+	DisplayName: Server Config
+
+	Headers: {
+		EternityMode: Eternity Mode Tweaks
+		Progression: Progression Change
+	}
+
+	ChangeGlobalAI: {
+		Label: Change the AI from entities (default: true)
+		Tooltip: Disables the Eternity and Revengeance AI from all Vanilla bosses and NPCs; apply Eternity Mode effects in other mod's NPCs
+	}
+
+	DisableEternityPenalties: {
+		Label: Disable Eternity Mode environmental and item penalties (default: true)
+		Tooltip: If activated, will disable a lot of Eternity penalties (including debuffs and nerfs on items)
+	}
+
+	BalanceWeaponsEMode: {
+		Label: Balance overpowered weapons (and Zenith) stats in Eternity Mode (default: false)
+		Tooltip: If activated, prevents of a lot of cross-modded weapons, from being buffed by any player effect and contributing for a better progression
+	}
+
+	MultiplyEterniaCrystalLife: {
+		Label: Multiply Eternia Crystal life by 3x (default: true)
+		Tooltip: If activated, will multiply its defense too
+	}
+
+	UseDifferentProgression: {
+		Label: Modify Fargo's Progression (default: true)
+		Tooltip: Will affect items recipes and stats in general, NPCs will more likely have a different AI too (Use this with AI Changer)
+	}
+}
