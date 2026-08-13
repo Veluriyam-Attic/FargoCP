@@ -11,7 +11,9 @@ Toggler: {
 	RadianceEffect: Radiance
 	GravistarSabatonEffect: Interstellar Stompers
 	UrsaSergeantEffect: Ursa Sergeant
-	AstralStarsEffect: Astral Stars
+	AstralStarsEffect: Astral Effects
+	CrushingEgoEffects: Crushing Ego
+	TheTransformerEffects: The Transformer
 	ArcFlashRingEffects: Arc Flash Ring
 	EvasionScarfEffects: Evasion Scarf
 	AtaxiaEffects: Hydrothermic Effects
@@ -22,6 +24,8 @@ Toggler: {
 	GreedyGobletEffects: Greedy Goblet
 	PiratesPurseEffects: Pirate's Purse
 	InfernoLordsFocusEffects: Inferno Lord's Focus
+	IronBootsEffect: Iron Boots
+	TeslasAmuletEffect: Tesla's Amulet
 	ShellfishMinionEffect: Shellfish Minion
 	GiantPearlEffect: Giant Pearl
 	ManaPolarizerEffects: Mana Polarizer
@@ -260,6 +264,37 @@ Toggler: {
 	SunnyMinion: Sunny Pet
 	PurpleBalloonMinion: Purple Balloon Minion
 	DrillArm: Drill Arm
+	ApostleEffects: Apostle Effects
+	AstraliteEffects: Astralite Effects
+	HighGravBootsEffects: High-Grav Boots
+	BismiteEffects: Bismite Effects
+	BismiteShieldEffects: Noxious Targe
+	BloodcourtEffects: Bloodcourt Effects
+	SanguineWardEffects: Sanguine Ward
+	ForswornPendantEffects: Forsworn Pendant
+	BotanistEffects: Botanist Effects
+	ChitinEffects: Chitin Dash
+	CryoliteEffects: Cryolite Aura
+	FourOfAKindEffects: Four of a Kind
+	DuskEffects: Dusk Effects
+	ElectricGuitarEffects: Electric Guitar
+	FrigidEffects: Frigid Effects
+	GraniteChunkEffects: Granite Effects
+	GildedEffects: Gilded Effects
+	DartboardEffects: Dartboard
+	MagnifyingGlassEffects: Magnifying Glass
+	PainMongerEffects: Pain Monger
+	FieryMawEffects: Fiery Maw
+	RogueCrestEffects: Rogue Crest
+	SwiftnessRuneEffects: Swiftness Rune
+	RuneWizardScrollEffects: Rune Wizard's Scroll
+	SeraphimBulwarkEffects: Seraphim Bulwark
+	SlagTyrantEffects: Slag Tyrant Effects
+	CimmerianScepterEffects: Cimmerian Scepter
+	ShadowSingedFangEffects: Shadow-Singed Fang
+	StreamSurferEffects: Stream Surfer
+	DriftwoodEffects: Driftwood Effects
+	RunicEffects: Runic Effects
 }
 
 Items: {
@@ -300,7 +335,7 @@ Items: {
 			'''
 			Effects of Aquatic Emblem, Shield of the Ocean, and Giant Pearl
 			Effects of Ocean's Crest, Deep Diver and Luxor's Gift
-			Effects of Corrosive Spine, Diamond of the Deep, Amadias Pendant, and Leviathan Ambergris
+			Effects of Corrosive Spine, Iron Boots, Diamond of the Deep, Amadias Pendant, and Leviathan Ambergris
 			'''
 		Tooltip_NoCrossmod_3: Effects of Sand Cloak, Old Die, Scions Curio, Aquatic Heart and Alluring Bait
 		Tooltip_Crossmod_3: Effects of Sand Cloak, Old Die, Scions Curio, and Aquatic Heart
@@ -314,7 +349,7 @@ Items: {
 			All armor bonuses from Aerospec, Statigel, and Hydrothermic
 			All armor bonuses from Empyrean, Desert Prowler, and Fearmonger
 			Effects of Gladiator's Locket, Aero Stone and Unstable Granite Core
-			Effects of Fungal Clump, Mana Polarizer and Fungal Symbiote
+			Effects of Fungal Clump, Tesla's Amulet, Mana Polarizer and Fungal Symbiote
 			'''
 		Tooltip_NoCrossmod:
 			'''
@@ -396,8 +431,8 @@ Items: {
 			Attacking and being attacked by enemies inflicts Poisoned for 1 second
 			Reduces the severity of the sulphuric waters
 			'''
-		Tooltip_NoCrossmod: Effects of Sand Cloak, Old Die, Scions Curio, Amadias Pendant, and Alluring Bait
-		Tooltip_Crossmod: Effects of Sand Cloak, Old Die, Scions Curio, and Amadias Pendant
+		Tooltip_NoCrossmod: Effects of Sand Cloak, Old Die, Scions Curio, Iron Boots, Amadias Pendant, and Alluring Bait
+		Tooltip_Crossmod: Effects of Sand Cloak, Old Die, Scions Curio, Iron Boots, and Amadias Pendant
 	}
 
 	StatigelEnchant: {
@@ -795,7 +830,7 @@ Items: {
 			'''
 			+5 defense when below 50% life
 			Effects of Gladiator's Locket, Aero Stone and Unstable Granite Core
-			Effects of Fungal Clump, Mana Polarizer and Fungal Symbiote
+			Effects of Fungal Clump, Tesla's Amulet, Mana Polarizer and Fungal Symbiote
 			'''
 		Tooltip_NoCrossmod1:
 			'''
@@ -821,7 +856,7 @@ Items: {
 			'''
 			Effects of Aquatic Emblem, Shield of the Ocean and Giant Pearl
 			Effects of Ocean's Crest, Deep Diver, and Luxor's Gift
-			Effects of Corrosive Spine, Diamond of the Deep, and Leviathan Ambergris
+			Effects of Corrosive Spine, Iron Boots, Diamond of the Deep, and Leviathan Ambergris
 			'''
 		Tooltip_NoCrossmod4: Effects of Sand Cloak, Old Die, Aquatic Heart, Scions Curio, Amadias Pendant, and Alluring Bait
 		Tooltip_Crossmod4: Effects of Sand Cloak, Old Die, Aquatic Heart, Scions Curio, and Amadias Pendant
@@ -1979,20 +2014,24 @@ Items: {
 		DisplayName: Botanist Enchantment
 		Tooltip:
 			'''
-			Increases the amount of Herbs the player can yield
-			Herbs glow in dark places
-			Increased vision in Briar at night or underground
+			You gain increased rewards from herbs of all kinds
+			You have a powerful eye for spotting herbs
+			Effects of Forsworn Pendant
 			'''
 	}
 
 	ElderbarkEnchant: {
 		DisplayName: Elderbark Enchantment
-		Tooltip: Increases all item damage by 2
+		Tooltip: Increases all item damage by 1
 	}
 
 	DriftwoodEnchant: {
 		DisplayName: Driftwood Enchantment
-		Tooltip: Increased fishing power, chance of fishing up crate and defense when in ocean biome
+		Tooltip:
+			'''
+			Allows the wearer to float on water
+			Increased fishing power
+			'''
 	}
 
 	FloranEnchant: {
@@ -2000,7 +2039,7 @@ Items: {
 		Tooltip:
 			'''
 			Killing enemies may drop raw meat, restoring health and granting 'Well Fed'
-			5% increased melee speed and slightly increases life regeneration while standing on grass
+			Effects of Floran Hunting Charm
 			'''
 	}
 
@@ -2013,9 +2052,11 @@ Items: {
 		DisplayName: Wayfarer Enchantment
 		Tooltip:
 			'''
-			Killing enemies, breaking pots, mining ore grants stacking buffs. All buffs stack up to 4 times.
-			Effect of Explorer's Treads
-			Effect of Metal Band
+			Killing enemies grants a stacking damage buff
+			Breaking pots grants a stacking movement speed buff
+			Mining ore grants a stacking mining speed buff
+			All buffs stack up to 4 times
+			Effects of Explorer's Treads and Metal Band
 			'''
 	}
 
@@ -2023,7 +2064,7 @@ Items: {
 		DisplayName: Apostle Enchantment
 		Tooltip:
 			'''
-			Wind Spirits guide you, granting you double jumps
+			Wind Spirits guide you, granting an additional jump
 			Magic and ranged attacks occasionally spawn feathers to attack foes
 			'''
 	}
@@ -2034,6 +2075,7 @@ Items: {
 			'''
 			Double tap 'Down' to deploy an energy field at the cursor position
 			This field lasts for five seconds and supercharges all ranged projectiles that pass through it
+			1 second cooldown
 			Effects of High-Grav Boots
 			'''
 	}
@@ -2043,7 +2085,7 @@ Items: {
 		Tooltip:
 			'''
 			Double tap in a direction to dash and envelop yourself in a tornado
-			Provides immunity to the Mighty Wind debuff during Sandstorms
+			Effects of Ancient Slab
 			'''
 	}
 
@@ -2051,14 +2093,19 @@ Items: {
 		DisplayName: Rogue Enchantment
 		Tooltip:
 			'''
-			Getting hit grants four seconds of invisibility and 100% increased damage. 25 second cooldown
+			Getting hit grants four seconds of invisibility and 100% increased damage
+			25 second cooldown	
 			Effects of Rogue's Crest and Swiftness Rune
 			'''
 	}
 
 	MarbleChunkEnchant: {
-		DisplayName: Ancient Marble Enchantment
-		Tooltip: Press 'Up' to grant 'Divine Winds', allowing for limited flight. 5 second cooldown
+		DisplayName: Gilded Enchantment
+		Tooltip:
+			'''
+			Press 'Up' to grant 'Divine Winds', allowing for limited flight
+			10 second cooldown
+			'''
 	}
 
 	RunicEnchant: {
@@ -2074,7 +2121,8 @@ Items: {
 		DisplayName: Seraph Enchantment
 		Tooltip:
 			'''
-			Being near enemies increases life regen, increases melee speed and reduces mana cost by 6% per enemy
+			Being near enemies increases life regen, increases mana regen, increases melee speed and reduces mana cost by 6% per enemy
+			This effect stacks three times
 			Effects of Angelic Sigil and Seraphim Bulwark
 			'''
 	}
@@ -2084,8 +2132,11 @@ Items: {
 		Tooltip:
 			'''
 			Not getting hit builds up stacks of Virulence
+			Virulence charges up every 10 seconds
 			Striking while Virulence is charged releases a toxic explosion
+			Getting hit depletes Virulence entirely
 			Being struck by an enemy inflicts them with festering wounds debuff
+			Effects of Noxious Targe
 			'''
 	}
 
@@ -2093,14 +2144,13 @@ Items: {
 		DisplayName: Cascade Enchantment
 		Tooltip:
 			'''
-			Dealing damage to enemies builds up a bubble shield
-			The bubble at full size grants heavy damage resistance against the next attack
-			Double tap 'Down' to gain unhindered movement underwater for a short time
+			Dealing damage to enemies builds up a bubble shield which at full size grants heavy damage resistance against the next attack damaging and knocking back nearby enemies.
+			Effects of Pendant of the Ocean
 			'''
 	}
 
 	GraniteChunkEnchant: {
-		DisplayName: Granite Chunk Enchantment
+		DisplayName: Granite Enchantment
 		Tooltip:
 			'''
 			Double tap 'Down' while falling to stomp downward
@@ -2113,7 +2163,8 @@ Items: {
 		DisplayName: Primalstone Enchantment
 		Tooltip:
 			'''
-			Melee and magic hits on enemies trigger Unstable Affliction
+			Melee and magic attacks inflict Unstable Affliction
+			10% reduced movement speed
 			Effect of Titanbound Bulwark
 			'''
 	}
@@ -2123,6 +2174,10 @@ Items: {
 		Tooltip:
 			'''
 			Spirits grant you various buffs based on your health
+			Increases damage by 8% when below 400 health
+			Increases defense by 6 when below 200 Health
+			Increases life regen when below 100 Health
+			Increases invincibility frames when below 50 Health
 			Effect of Shadow-Singed Fang
 			'''
 	}
@@ -2132,7 +2187,8 @@ Items: {
 		Tooltip:
 			'''
 			Double tap 'Down' to create a ridable waterspout that damages enemies
-			Increases jump height and descent speed
+			7 second cooldown
+			Effects of Flying Fish Fin
 			'''
 	}
 
@@ -2140,7 +2196,8 @@ Items: {
 		DisplayName: Bloodcourt Enchantment
 		Tooltip:
 			'''
-			Double tap 'Down' to sacrifice 8% of your maximum health and launch a bolt of Dark Anima dealing damage in a radius
+			Double tap 'Down' to sacrifice 8% of your maximum health and launch a bolt of Dark Anima dealing high damage in a radius
+			This bolt siphons 10 additional health over 5 seconds
 			Effects of Grisly Tongue and Sanguine Ward
 			'''
 	}
@@ -2159,10 +2216,10 @@ Items: {
 		DisplayName: Dusk Enchantment
 		Tooltip:
 			'''
-			Magic attacks inflict Shadowflame
 			8% Increased Magic and Ranged Damage at Night
-			Nearby enemies and enemies hit by attacks may be hit by a chain of lightning
-			'Andrew Hulshult'
+			You are surrounded by a rune that guides the way
+			Magic attacks inflict Shadowflame
+			Effects of Electric Guitar
 			'''
 	}
 
@@ -2170,7 +2227,8 @@ Items: {
 		DisplayName: Frigid Enchantment
 		Tooltip:
 			'''
-			Double tap 'Down' to create an icy wall at the cursor position, effect has 8 second cooldown
+			Double tap 'Down' to create an icy wall at the cursor position
+			8 second cooldown
 			Effects of Frigid Wraps
 			'''
 	}
@@ -2179,10 +2237,10 @@ Items: {
 		DisplayName: Marksman Enchantment
 		Tooltip:
 			'''
-			4% increased critical strike chance
 			Wearing Marksman's Armor builds up concentration
 			While concentrated, your next strike is a critical strike and deals more damage
 			Concentration is disrupted when hurt, but charges faster while standing still
+			Effects of Dartboard and Magnifying Glass
 			'''
 	}
 
@@ -2191,8 +2249,9 @@ Items: {
 		Tooltip:
 			'''
 			When under 25% health, defense is decreased by 4, but Infernal Guardians surround you
-			Infernal Guardians vastly increase magic damage and reduce mana cost
-			Magic attacks shoot out fiery spit that explode upon hitting enemies
+			Infernal Guardians vastly increase summon damage
+			Getting hurt may spawn multiple exploding Infernal Embers
+			Effects of Fiery Maw
 			'''
 	}
 
@@ -2200,9 +2259,9 @@ Items: {
 		DisplayName: Slag Tyrant Enchantment
 		Tooltip:
 			'''
-			Double tap 'Down' to cause all sentries to release a burst of fireballs, 8 second cooldown
+			Double tap 'Down' to cause all sentries to release a burst of fireballs
+			8 second cooldown
 			Summons a magic scepter to fight for you
-			This scepter does not take up minion slots
 			'''
 	}
 
@@ -2210,9 +2269,9 @@ Items: {
 		DisplayName: Adventurer Force
 		Tooltip:
 			'''
-			All armor bonuses from Driftwood, Botanist, and Floran
-			All armor bonuses from Wayfarers and Sunflower
-			Effects of Metal Band, Explorer Treads, Reach Brooch, and Floran Charm
+			All armor bonuses from Elderbark, Driftwood, and Botanist
+			All armor bonuses from Floran, Wayfarer and Sunflower
+			Effects of Forsworn Pendant, Floran Hunting Charm, Explorer's Treads, and Metal Band
 			'''
 	}
 
@@ -2220,10 +2279,10 @@ Items: {
 		DisplayName: Force of Hurricane
 		Tooltip:
 			'''
-			All armor bonuses from Rogue, Chitin, Apostle, and Marble Chunk
+			All armor bonuses from Rogue, Chitin, Apostle, and Gilded
 			All armor bonuses from Astralite, Seraph, and Runic
-			Effects of Rogue Crest, Swift Rune, and High Gravity Boots
-			Effects of Seraphim Bulwark, Fallen Angel, and Rune Wizard Scroll
+			Effects of Rogue's Crest, Swiftness Rune, Ancient Slab, and High-Grav Boots
+			Effects of Angelic Sigil, Seraphim Bulwark, and Rune Wizard's Scroll
 			'''
 	}
 
@@ -2231,10 +2290,10 @@ Items: {
 		DisplayName: Atlantis Force
 		Tooltip:
 			'''
-			All armor bonuses from Bismite, Cascade, and Granite Chunk
+			All armor bonuses from Bismite, Cascade, and Granite
 			All armor bonuses from Stream Surfer, Spirit, and Primalstone
-			Effects of Bismuth Shield, Pendant Of The Ocean, Tech Boots, and Shrunken Launcher
-			Effects of Flying Fish Fin, Shadow Singe Fang, and Titanbound Bulwark
+			Effects of Noxious Targe, Pendant of the Ocean, Heartbeat Cleats, and Sharpshooter's Glove
+			Effects of Flying Fish Fin, Shadow-Singed Fang, and Titanbound Bulwark
 			'''
 	}
 
@@ -2243,9 +2302,10 @@ Items: {
 		Tooltip:
 			'''
 			All armor bonuses from Bloodcourt, Cryolite, Dusk, and Frigid
-			All armor bonuses from Marksman, Painmomnger, and Slag Tyrant
-			Effects of Bloody Ward, Grisly Tongue, Winter Hat, and Four Of A Kind
-			Effects of Electric Guitar, Frigid Gloves, Hell Eater, and Cimmerian Scepter
+			All armor bonuses from Marksman, Pain Monger, and Slag Tyrant
+			Effects of Grisly Tongue, Sanguine Ward, Winter Hat, and Four of a Kind
+			Effects of Electric Guitar, Frigid Wraps, Dartboard, Magnifying Glass, and Fiery Maw
+			Summons a magic scepter to fight for you
 			'''
 	}
 
@@ -2253,21 +2313,22 @@ Items: {
 		DisplayName: Soul of the Phantom
 		Tooltip:
 			'''
-			All armor bonuses from Driftwood, Botanist, and Floran
-			All armor bonuses from Wayfarers and Sunflower
-			All armor bonuses from Rogue, Chitin, Apostle, and Marble Chunk
-			All armor bonuses from Astralite, Seraph, and Runic
-			All armor bonuses from Bismite, Cascade, and Granite Chunk
+			All armor bonuses from Elderbark, Driftwood, and Botanist
+			All armor bonuses from Floran, Wayfarer and Sunflower
+			All armor bonuses from Bismite, Cascade, and Granite
 			All armor bonuses from Stream Surfer, Spirit, and Primalstone
+			All armor bonuses from Rogue, Chitin, Apostle, and Gilded
+			All armor bonuses from Astralite, Seraph, and Runic
 			All armor bonuses from Bloodcourt, Cryolite, Dusk, and Frigid
-			All armor bonuses from Marksman, Painmonger, and Slag Tyrant
-			Effects of Metal Band, Explorer Treads, Reach Brooch, and Floran Charm
-			Effects of Rogue Crest, Swift Rune, and High Gravity Boots
-			Effects of Seraphim Bulwark, Fallen Angel, and Rune Wizard Scroll
-			Effects of Bismuth Shield, Pendant Of The Ocean, Tech Boots, and Shrunken Launcher
-			Effects of Flying Fish Fin, Shadow Singe Fang, and Titanbound Bulwark
-			Effects of Bloody Ward, Grisly Tongue, Winter Hat, and Four Of A Kind
-			Effects of Electric Guitar, Frigid Gloves, Hell Eater, and Cimmerian Scepter
+			All armor bonuses from Marksman, Pain Monger, and Slag Tyrant
+			Effects of Forsworn Pendant, Floran Hunting Charm, Explorer's Treads, and Metal Band
+			Effects of Noxious Targe, Pendant of the Ocean, Heartbeat Cleats, and Sharpshooter's Glove
+			Effects of Flying Fish Fin, Shadow-Singed Fang, and Titanbound Bulwark
+			Effects of Rogue's Crest, Swiftness Rune, Ancient Slab, and High-Grav Boots
+			Effects of Angelic Sigil, Seraphim Bulwark, and Rune Wizard's Scroll
+			Effects of Grisly Tongue, Sanguine Ward, Winter Hat, and Four of a Kind
+			Effects of Electric Guitar, Frigid Wraps, Dartboard, Magnifying Glass, and Fiery Maw
+			Summons a magic scepter to fight for you
 			'''
 	}
 
@@ -2427,6 +2488,7 @@ Items: {
 			Using a ranged weapon instantly dispels the sand cloak, but guarantees a supercrit for 200% damage
 			The super crit applies only as long as the resulting hit wouldn't exceed 100 damage
 			Landing the killing blow on an enemy with this shot shortens the ability's cooldown to 1.5 seconds
+			Effects of Tesla's Amulet
 			'''
 	}
 
