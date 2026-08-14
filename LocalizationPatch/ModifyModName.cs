@@ -28,6 +28,7 @@ namespace FargoCP.LocalizationPatch
             ["FargoMoreSoulsCompat"] = null,
             ["ssm"] = null,
             ["FargoThorium"] = null,
+            ["NotmeCalFagDlc"] = null,
 
             //官方跨模组扩展
             ["FargowiltasCrossmod"] = null,
@@ -41,6 +42,7 @@ namespace FargoCP.LocalizationPatch
             ["fargosoulstweaks"] = null,
             ["FargoThorium"] = null,
             ["fargosconfigslop"] = null,
+            ["BalancedFargosExperience"] = null,
 
             //官方非魔石相关模组
             ["FargoEnemyModifiers"] = null,

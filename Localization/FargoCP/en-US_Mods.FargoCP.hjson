@@ -12,6 +12,7 @@ ModName: {
 	ssm: Community Souls Expansion
 	FargoThorium: Fargo Healer and Bard
 	FargowiltasCrossmod: Calamity - Fargo's Souls DLC
+	NotmeCalFagDlc:  Notme229 Calamity-Fargo Souls DLC
 	#非官方跨模组扩展
 	FargoClickers: Fargo's Mod Clickers
 	FargoUnofficialPets: Unofficial Fargo's Souls Pets
@@ -21,6 +22,7 @@ ModName: {
 	fargosoulstweaks: Utilities for Fargo's Souls
 	fargosconfigslop: various calamity/fargos settings
 	FargoEnemyModifiers: Fargo's Enemy Modifiers
+	BalancedFargosExperience: Balanced Fargo's Experience
 	#官方非魔石相关模组
 	FishAnything: Fargo's Fish Anything
 	TooManySlots: Fargo's Equipable Inventory
