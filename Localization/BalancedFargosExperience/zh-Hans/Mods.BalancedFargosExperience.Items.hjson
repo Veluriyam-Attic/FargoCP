@@ -1,0 +1,56 @@
+ShadowCloak: {
+	DisplayName: 暗影披风
+	Tooltip:
+		'''
+		允许你在不受伤害的情况下穿过敌人或弹幕
+		使你获得爬墙的能力
+		有10%概率闪避攻击
+		“暗影似乎与你建立了某种连接……”
+		'''
+}
+
+DormantGoldGear: {
+	Tooltip: “一个空容器……或许能被某种能量所填满……”
+	DisplayName: 沉眠金齿轮
+}
+
+PhantasmalEnergy: {
+	Tooltip: “这只是真正力量的一小部分……”
+	DisplayName: 幻象能量
+}
+
+ShadeSoul: {
+	Tooltip: “你几乎看不见它……”
+	DisplayName: 暗影之魂
+}
+
+CosmicHat: {
+	Tooltip:
+		'''
+		在太空使用召唤厄里达诺斯，宇宙英灵
+		不消耗
+		[c/841cbc:“拥有无法估量力量的存在……击败它向突变体证明你的价值”]
+		'''
+	DisplayName: 宇宙之帽
+}
+
+LifeSigil: {
+	Tooltip:
+		'''
+		在白天使用召唤生命英灵
+		不能在日食或下雨时使用
+		不消耗
+		“它似乎不太友善……”
+		'''
+	DisplayName: 生命符文
+}
+
+WillingGear: {
+	Tooltip:
+		'''
+		在海洋使用召唤意志英灵
+		不消耗
+		“这个齿轮散发着意志能量……如此精妙的造物，甚至能够引起“它”的注意……”
+		'''
+	DisplayName: 意志齿轮
+}

@@ -1,0 +1,77 @@
+ClientSide: {
+	DisplayName: 客户端配置
+
+	Headers: {
+		MusicBoss: Boss音乐
+		MusicAmbient: 环境音乐
+	}
+
+	UseCustomLifelightMusic: {
+		Label: 使用飘渺游光替换主题曲 （默认：禁用）
+		Tooltip: 若启用，替换为 DELTARUNE - From Now On
+	}
+
+	UseCustomDraedonMusic: {
+		Label: 使用星流巨械替换主题曲 （默认：禁用）
+		Tooltip: 若启用，替换为 UNDERTALE - Hopes And Dreams
+	}
+
+	UseBossNewMusics: {
+		Label: 使用1.4.5部分Boss新的主题曲  （默认：启用）
+		Tooltip: 若启用，将改变双子魔眼、机械骷髅王、毁灭者、世界吞噬怪、拜月教邪教徒、蜂王和火把神的主题曲
+	}
+
+	UseCustomMarbleTheme: {
+		Label: 使用大理石洞穴主题音乐 （默认：启用）
+		Tooltip: 若启用，则增加大理石洞穴主题音乐
+	}
+
+	UseCustomGraniteTheme: {
+		Label: 使用花岗岩洞穴主题音乐 （默认：启用）
+		Tooltip: 若启用，则增加花岗岩洞穴主题音乐
+	}
+
+	UseCustomPyramidTheme: {
+		Label: 使用古迹残存（Remnants）的金字塔主题曲 （默认：禁用）
+		Tooltip: 若启用，则增加来自古迹残存的金字塔环境专属主题曲
+	}
+
+	UseAltAerialGardenTheme: {
+		Label: 使用古迹残存（Remnants）空中花园（Aerial Garden）的替换主题曲 （默认：禁用）
+		Tooltip: 若启用，则增加来自古迹残存的金字塔环境专属主题曲
+	}
+}
+
+ServerSide: {
+	DisplayName: 服务器配置
+
+	Headers: {
+		EternityMode: 永恒模式调整
+		Progression: 流程改动
+	}
+
+	ChangeGlobalAI: {
+		Label: 修改生物的AI （默认：启用）
+		Tooltip: 若启用，将会禁用所有原版Boss和NPC在永恒模式下的AI，且将永恒模式的效果应用于其他模组的NPC
+	}
+
+	DisableEternityPenalties: {
+		Label: 禁用永恒模式对环境与物品惩罚 （默认：启用）
+		Tooltip: 若启用，将会禁用大量永恒模式的惩罚（包括减益和对物品的削弱）
+	}
+
+	BalanceWeaponsEMode: {
+		Label: 平衡永恒模式下超模武器（包括天顶剑）的属性 （默认：禁用）
+		Tooltip: 若启用，会防止跨模组武器被玩家增益效果强化，从而有利于更合理的游戏流程
+	}
+
+	MultiplyEterniaCrystalLife: {
+		Label: "[i:3828] 永恒水晶生命值乘以3倍 （默认：启用）"
+		Tooltip: 若启用，同样也会提升其防御力
+	}
+
+	UseDifferentProgression: {
+		Label: 修改Fargo游戏进度 （默认：启用）
+		Tooltip: 若启用，将影响物品的配方与整体属性，NPC也更有可能拥有不同的AI（建议与AI改变一同使用）
+	}
+}
