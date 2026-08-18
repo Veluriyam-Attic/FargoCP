@@ -48,11 +48,12 @@ ServerSide: {
 	Headers: {
 		EternityMode: Eternity Mode Tweaks
 		Progression: Progression Change
+		Misc: Miscellaneous
 	}
 
 	ChangeGlobalAI: {
 		Label: Change the AI from entities (default: true)
-		Tooltip: Disables the Eternity and Revengeance AI from all Vanilla bosses and NPCs; apply Eternity Mode effects in other mod's NPCs
+		Tooltip: If activated, will disable the Eternity and Revengeance AI from all Vanilla bosses and NPCs and apply Eternity Mode effects in other mod's NPCs
 	}
 
 	DisableEternityPenalties: {
@@ -72,6 +73,11 @@ ServerSide: {
 
 	UseDifferentProgression: {
 		Label: Modify Fargo's Progression (default: true)
-		Tooltip: Will affect items recipes and stats in general, NPCs will more likely have a different AI too (Use this with AI Changer)
+		Tooltip: If activated, will affect items recipes and stats in general, NPCs will more likely have a different AI too (Use this with AI Changer)
+	}
+
+	UseCoinNotifier: {
+		Label: Notify coins after player's death (default: true)
+		Tooltip: If activated, a message will be sent when the player dies, stating how many coins they dropped
 	}
 }
