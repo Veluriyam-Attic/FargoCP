@@ -1,0 +1,29 @@
+MolluskEffect1: {
+	DisplayName: Clam Slam
+	Tooltip:
+		'''
+		Perform a testaceous downwards slam
+		Hitting an enemy with the slam deals massive damage and gives you immunity frames
+		Only goes on cooldown on enemy hits
+		'''
+}
+
+UmbraphileEffect1: {
+	DisplayName: Bat Swarm Transformation
+	Tooltip:
+		'''
+		Temporarily become a swarm of bats
+		While in this form, you are immune to damage, have +30% increased movement speed, and infinite flight
+		The bat swarm deals damage and steals life on hit
+		'''
+}
+
+BrimflameEffect1: {
+	DisplayName: Brimflame Install
+	Tooltip: Consume all of your defense and release a wave of brimstone flames in all directions
+}
+
+AuricTeslaEffect: {
+	DisplayName: Divine Retribution
+	Tooltip: Fires various projectiles
+}

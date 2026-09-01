@@ -1,0 +1,19 @@
+ClamSlam1: {
+	$parentVal: Clam Slam
+	DisplayName: Clam Slam
+}
+
+BatMode1.DisplayName: Bat Mode
+FathomAngler1.DisplayName: Fathom Angler
+PlagueCloud1.DisplayName: Plague Cloud
+AstralTrailStar1.DisplayName: Astral Trail Star
+Prism.DisplayName: Prism
+RefractedLightDeathray.DisplayName: Refracted Light Deathray
+OmegaBlueEnchantTentacle.DisplayName: Omega Blue Enchant Tentacle
+GemTechEnchantGem.DisplayName: Gem Tech Enchant Gem
+AstralRocks.DisplayName: Astral Rocks
+SlipperyShogunTendril.DisplayName: Slippery Shogun Tendril
+GeothermicDebris.DisplayName: Geothermic Debris
+AcropolisSteam.DisplayName: Acropolis Steam
+AcropolisDebris.DisplayName: Acropolis Debris
+FaquirWraith.DisplayName: Faquir Wraith

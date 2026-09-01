@@ -1,0 +1,14 @@
+TarragonImmunity: {
+	DisplayName: Tarragon Immunity
+	Description: You are immune
+}
+
+BloodflareGodslayerCooldown: {
+	Description: I'd argue this is your divine retribution...
+	DisplayName: Divine Retribution Cooldown
+}
+
+SignathionEnchantBuff: {
+	DisplayName: Royal Steed
+	Description: This phantom still wears the distinct regalia of the Sea Kingdom
+}

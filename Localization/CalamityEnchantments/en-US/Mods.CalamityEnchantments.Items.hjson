@@ -1,0 +1,466 @@
+PlagueReaperEnchant1: {
+	DisplayName: Plague Reaper Enchantment
+	Tooltip:
+		'''
+		All debuffs spread between enemies
+		Slain enemies may drop a pile of bones
+		Touch a pile of bones to spawn a friendly Dungeon Guardian
+		Damage scales solely with the defeated enemy's max HP and is capped at 10000
+		Bosses will drop bones every 10% of their HP lost
+		'''
+}
+
+PlaguebringerEnchant1: {
+	DisplayName: Plaguebringer Enchantment
+	Tooltip:
+		'''
+		All attacks inflict plague for a short time
+		A plague cloud follows you, growing when nearby plagued enemies.
+		At maximum size, the cloud expands rapidly and stops following you, lingering in place for a while.
+		While flying, leave behind flowers that take 4 seconds to form petals
+		Touching fully formed flowers gives you the Honey buff and creates a swarm of bees
+		Enemies touching the flowers also trigger the bee swarm
+		[i:HiveBackpack] Friendly bees are stronger and inflict [cbuff:CalamityMod/Plague]
+		'''
+}
+
+UmbraphileEnchant1: {
+	DisplayName: Umbraphile Enchantment
+	Tooltip: ""
+}
+
+FathomSwarmerEnchant1: {
+	DisplayName: Fathom Swarmer Enchantment
+	Tooltip:
+		'''
+		Summons an Anglerfish familiar that follows your mouse
+		The anglerfish's light slows down enemies and their projectiles
+		'''
+}
+
+AstralEnchant1: {
+	DisplayName: Astral Enchantment
+	Tooltip:
+		'''
+		You are followed by a trail of damaging astral stars
+		'The Astral Infection has consumed you...'
+		'''
+}
+
+BrimflameEnchant1: {
+	DisplayName: Brimflame Enchantment
+	Tooltip:
+		'''
+		Brimflame Install becomes stronger the more defense is consumed
+		Your defense will regenerate over time
+		Can only be used when at maximum defense
+		'''
+	DefenseDown: -{0} defense
+	DefenseUp: +{0} defense
+}
+
+MolluskEnchant1: {
+	DisplayName: Mollusk Enchantment
+	Tooltip: "'The world is your oyster'"
+}
+
+EmpyreanEnchant1: {
+	DisplayName: Empyrean Enchantment
+	Tooltip:
+		'''
+		Moving slowly or standing still for 2 seconds empowers your next hit
+		Empowered hits deal double damage, heal 40 HP, fills up rage, and create homing empyrean stars on collision
+		This effect has a 12 to 4 second cooldown, becoming shorter the more rage you have
+		'The power of an ancient god at your command…'
+		'''
+}
+
+LunicCorpsEnchant: {
+	DisplayName: Lunic Corps Enchantment
+	Tooltip:
+		'''
+		Summons an energy shield that absorbs up to 75 damage
+		The shield starts recharging 5 seconds after being hit
+		Recharging from zero to full charge takes 2 seconds
+		Being hit again while recharging restarts the charge timer
+		'''
+}
+
+TarragonEnchant: {
+	DisplayName: Tarragon Enchantment
+	Tooltip:
+		'''
+		After every 50 critical hits you will gain 2.5 seconds of damage immunity
+		This effect has a cooldown of 25 seconds
+		'Braelor's undying might flows through you...'
+		'''
+}
+
+PrismaticEnchant: {
+	DisplayName: Prismatic Enchantment
+	Tooltip:
+		'''
+		Taking damage from light-based projectiles reflects them back towards your cursor
+		This effect has a 5 second cooldown
+		'''
+}
+
+BloodflareEnchant: {
+	DisplayName: Bloodflare Enchantment
+	Tooltip:
+		'''
+		Divine Retribution releases 16 Bloodflare Souls which deal 300 damage
+		[i:CalamityMod/FragmentsOfAnotherWorld] Effects of Fragments of Another World
+		'The souls of the fallen are at your disposal...'
+		'''
+}
+
+OmegaBlueEnchant: {
+	DisplayName: Omega Blue Enchantment
+	Tooltip:
+		'''
+		Six tentacles heal you by stealing enemy life
+		[i:CalamityMod/ReaperToothNecklace] Effects of Reaper Tooth Necklace
+		'The darkness of the Abyss has overwhelmed you...'
+		'''
+}
+
+GodSlayerEnchant: {
+	DisplayName: God Slayer Enchantment
+	Tooltip:
+		'''
+		Divine Retribution releases 8 God Slayer Darts which deal 350 damage
+		[i:CalamityMod/CrushingEgo] Effects of Crushing Ego
+		'The power to slay gods resides within you...'
+		'''
+}
+
+FearmongerEnchant: {
+	DisplayName: Fearmonger Enchantment
+	Tooltip:
+		'''
+		Minions no longer deal less damage while wielding non-summoner weapons
+		Minion attacks grant +2.5 HP/s life regen and massively accelerate life regen
+		All of your minions gain an extra scythe attack
+		'''
+}
+
+SilvaEnchant: {
+	DisplayName: Silva Enchantment
+	Tooltip:
+		'''
+		Taking fatal damage will revive you and make you invulnerable to all damage for 5 seconds
+		This effect has a 5 minute cooldown, which does not decrement if any bosses or events are active
+		'Boundless life energy cascades from you...'
+		'''
+}
+
+AuricTeslaEnchant: {
+	DisplayName: Auric Tesla Enchantment
+	Tooltip:
+		'''
+		Divine Retribution periodically zaps enemies with arcing energy
+		The arcing energy ignores a substantial amount of enemy defense
+		[i:CalamityMod/FadedIdolatry] Effects of Faded Idolatry
+		'Your strength rivals that of the Jungle Tyrant...'
+		'''
+}
+
+GemTechEnchant: {
+	DisplayName: Gem Tech Enchantment
+	Tooltip:
+		'''
+		Six gem fragments idly orbit you; one for each class, and a base gem
+		Each active gem provides a bonus for its respective class, while the defensive gem grants defensive boosts
+		A gem is lost when you take more than 100 damage in a single hit
+		The type of game lost is the same as the class of the most recently used weapon
+		If said gem has already been lost, the base gem is lost instead
+		When a gem is lost, it breaks off and homes towards the nearest enemy or boss, dealing a base of 40000 damage
+		Gems have a 30 second delay before they appear again
+		'Tableus of progress etched in lattices of steel.'
+		'''
+}
+
+DemonshadeEnchant: {
+	DisplayName: Demonshade Enchantment
+	Tooltip:
+		'''
+		2 red devils follow you, firing shadowbeams and demon scythes at nearby enemies
+		Devils have 150 health, and their deaths enrages all nearby enemies with a dark magic spell for 10 seconds
+		This makes them take 1.5x total damage, but they will deal 1.25x damage to you
+		Devils only recover after this enrage is gone, but the nurse can bring them back early
+		[i:CalamityMod/ShatteredCommunity] Effects of the Shattered Community
+		'Demonic power emanates from you…'
+		'''
+}
+
+GloomForce: {
+	DisplayName: Force of Gloom
+	Tooltip:
+		'''
+		[i:CalamityEnchantments/UmbraphileEnchant1] Bat swarm kills red devils, instantly enraging you
+		[i:CalamityEnchantments/FathomSwarmerEnchant1] Summons an Anglerfish familiar that follows your mouse
+		[i:CalamityEnchantments/FathomSwarmerEnchant1] The anglerfish's light slows down enemies and their projectiles
+		[i:CalamityEnchantments/OmegaBlueEnchant] Six tentacles heal you by stealing enemy life
+		[i:CalamityEnchantments/DemonshadeEnchant] Three red devils follow you, firing shadowbeams and demon scythes at nearby enemies
+		[i:CalamityEnchantments/DemonshadeEnchant] Devils have 300 health, and their deaths enrages all nearby enemies with a dark magic spell for 10 seconds
+		Effects of the Shattered Community and Reaper Tooth Necklace
+		'Is this the right path that you've taken?'
+		'''
+}
+
+HeavensForce: {
+	DisplayName: Force of the Heavens
+	Tooltip:
+		'''
+		[i:FargowiltasCrossmod/TitanHeartEnchant] Adrenaline charges 20% faster, increased to 70% while grounded
+		[i:FargowiltasCrossmod/TitanHeartEnchant] While adrenaline is partially charged, receive up to 15% damage reduction
+		[i:FargowiltasCrossmod/TitanHeartEnchant] Increases your max movement speed and acceleration by 5%
+		[i:CalamityEnchantments/AstralEnchant1] You are followed by a trail of damaging astral stars
+		[i:CalamityEnchantments/EmpyreanEnchant1] Moving slowly or standing still for 2 seconds empowers your next hit
+		[i:CalamityEnchantments/EmpyreanEnchant1] Empowered hits deal double damage, heal 40 HP, fills up rage, and create homing empyrean stars on collision
+		[i:CalamityEnchantments/PrismaticEnchant] Taking damage from light-based projectiles reflects them back towards your cursor
+		'Petrichor-stained destiny, epicenter of entropy'
+		'''
+}
+
+SynthesisForce: {
+	DisplayName: Force of Synthesis
+	Tooltip:
+		'''
+		[i:FargowiltasCrossmod/WulfrumEnchant] Summons a wulfrum drone that follows your cursor
+		[i:FargowiltasCrossmod/WulfrumEnchant] The drone scans enemies, telling you their debuff weaknesses and resistances
+		[i:FargowiltasCrossmod/WulfrumEnchant] Scanned enemies also take extra flat damage over time when afflicted with any debuff
+		[i:CalamityEnchantments/MolluskEnchant1] Clam Slam deals massive damage and gives you immunity frames, only going on cooldown on enemy hits
+		[i:CalamityEnchantments/BrimflameEnchant1] Brimflame Install becomes stronger the more defense is consumed
+		[i:CalamityEnchantments/LunicCorpsEnchant] Summons an energy shield that absorbs up to 150 damage
+		[i:CalamityEnchantments/LunicCorpsEnchant] The shield starts recharging 5 seconds after being hit
+		[i:CalamityEnchantments/GemTechEnchant] Six gem fragments idly orbit you; one for each class, and a base gem
+		[i:CalamityEnchantments/GemTechEnchant] Each active gem provides a bonus for its respective class, while the defensive gem grants defensive boosts
+		[i:CalamityEnchantments/GemTechEnchant] A gem is lost when you take more than 100 damage in a single hit, breaking off and homing towards the nearest enemy or boss, dealing a base of 40000 damage
+		[i:CalamityEnchantments/GemTechEnchant] Gems have a 30 second delay before they appear again
+		'To experiment is to fail. To fail is to learn. To learn is to advance.'
+		'''
+}
+
+ExaltationForce: {
+	DisplayName: Force of Exaltation
+	Tooltip:
+		'''
+		[i:CalamityEnchantments/BloodflareEnchant][i:CalamityEnchantments/GodSlayerEnchant] Divine Retribution switches between 20 Bloodflare Souls and 12 God Slayer Darts
+		[i:CalamityEnchantments/AuricTeslaEnchant] Both are accompanied by arcing electricity
+		[i:CalamityEnchantments/TarragonEnchant] After every 40 critical hits you will gain 5 seconds of damage immunity
+		[i:CalamityEnchantments/SilvaEnchant] Taking fatal damage will revive you and make you invulnerable to all damage for 5 seconds
+		Effects of Fragments of Another World, Crushing Ego and Faded Idolatry
+		'You cast them aside, and stuck to your pride.'
+		'''
+}
+
+TyrantSoul: {
+	DisplayName: Soul of the Tyrant
+	Tooltip:
+		'''
+		[i:FargowiltasCrossmod/GaleForce] Grants unlimited jumps in the air
+		[i:FargowiltasCrossmod/GaleForce] Hold UP to jump faster and fall slower, hold DOWN to fall faster
+		[i:FargowiltasCrossmod/GaleForce] Holding jump generates sharp spines attached to you
+		[i:FargowiltasCrossmod/GaleForce] Increased damage based on how fast you move, up to +40%
+		[i:FargowiltasCrossmod/ElementsForce] [c/E03131:Attacking builds up heat, stop attacking at full heat or get hit to vent it]
+		[i:FargowiltasCrossmod/ElementsForce] [c/E03131:Venting heat grants Reaver Rage and summons powerful chaos flares for up to 3 seconds]
+		[i:FargowiltasCrossmod/ElementsForce] [c/45A8EF:Increased flight time and speed, life regen, hook velocity and reduced dash cooldown]
+		[i:FargowiltasCrossmod/ElementsForce] [c/45A8EF:After a second in the air without getting hit, attacks are accompanied by powerful arrows from the sky]
+		[i:CalamityEnchantments/HeavensForce] Adrenaline charges 20% faster, increased to 70% while grounded
+		[i:CalamityEnchantments/HeavensForce] You are followed by a trail of damaging astral stars
+		[i:CalamityEnchantments/HeavensForce] Moving slowly or standing still for 2 seconds empowers your next hit
+		[i:CalamityEnchantments/HeavensForce] Taking damage from light-based projectiles reflects them back towards your cursor
+		[i:CalamityEnchantments/SynthesisForce] Clam Slam deals massive damage and gives you immunity frames, only going on cooldown on enemy hits
+		[i:CalamityEnchantments/SynthesisForce] Brimflame Install becomes stronger the more defense is consumed
+		[i:CalamityEnchantments/SynthesisForce] Summons an energy shield that absorbs up to 150 damage
+		[i:CalamityEnchantments/ExaltationForce] Divine Retribution switches between 20 Bloodflare Souls and 12 God Slayer Darts
+		[i:CalamityEnchantments/ExaltationForce] Both are accompanied by arcing electricity
+		[i:CalamityEnchantments/ExaltationForce] After every 40 critical hits you will gain 5 seconds of damage immunity
+		[i:CalamityEnchantments/ExaltationForce] Taking fatal damage will revive you and make you invulnerable to all damage for 5 seconds
+		Summons [i:CalamityEnchantments/GloomForce] an anglerfish, six tentacles, three red devils, [i:CalamityEnchantments/SynthesisForce] a wulfrum drone and six gem fragments
+		Effects of Fragments of Another World, Crushing Ego, Faded Idolatry, the Shattered Community and Reaper Tooth Necklace
+		'And the land grew quiet once more...'
+		'''
+}
+
+EnchantmentNewText: {
+	//	DesertProwler: ""
+	//	SnowRuffian: ""
+	Statigel: "'Statis’ mystical power surrounds you…'"
+	//	Sulphurous: ""
+	Victide: "'The former seas have energized you…'"
+	Aerospec: "'The sky comes to your aid…'"
+	Daedalus: "'Icy magic envelopes you...'"
+	Reaver: "'A thorny death awaits your enemies...'"
+	//	Hydrothermic: ""
+	Wulfrum: "'Not to be confused with Tungsten Enchantment…'"
+}
+
+ForceNewText: {
+	DeathFearmonger: "[i:CalamityEnchantments/FearmongerEnchant] Minion attacks grant +2.5 HP/s life regen and massively accelerate life regen"
+	DeathPlagueReaper: "[i:CalamityEnchantments/PlagueReaperEnchant1] All debuffs spread between enemies"
+	LifePlaguebringer:
+		'''
+		[i:CalamityEnchantments/PlaguebringerEnchant1] All attacks inflict plague for a short time
+		[i:CalamityEnchantments/PlaguebringerEnchant1] A plague cloud follows you, growing when nearby plagued enemies.
+		'''
+	ExaltationIntergelactic:
+		'''
+		[i:CalamityEnchantments/IntergelacticEnchant] Four rings of asteroids orbit you
+		[i:CalamityEnchantments/IntergelacticEnchant] Divine Retribution launches these outwards
+		'''
+	HeavensSlipperyShogun: "[i:CalamityEnchantments/SlipperyShogunEnchant] Glooby tendrils fire towards your cursor or nearby enemies as you attack"
+	HeavensEntropicFaquir: "[i:CalamityEnchantments/EntropicFaquirEnchant] With enough built up void charge, a wraith will fight for you"
+	SynthesisAcropolis:
+		'''
+		[i:CalamityEnchantments/AcropolisEnchant] Attacking builds up vapor and occasionally launches mining debris
+		[i:CalamityEnchantments/AcropolisEnchant] Replaces adrenaline with the durability bar
+		'''
+	GloomMarivinium: "[i:CalamityEnchantments/MariviniumEnchant] Adds 3 shields that increase damage for 10 seconds when broken"
+	GloomMariviniumEffects: Effects of the Shattered Community and Wyrm Tooth Necklace
+	GloomAnarchalNihilplasmic:
+		'''
+		[i:CalamityEnchantments/AnarchalEnchant] Releases chaos cells on taking damage
+		[i:CalamityEnchantments/NihilplasmicEnchant] Project a shield that can withstand 160 damage
+		[i:CalamityEnchantments/AnarchalEnchant][i:CalamityEnchantments/NihilplasmicEnchant] All attacks inflict Void Virus
+		'''
+	TyrantSoulMariviniumEffects: Effects of Fragments of Another World, Crushing Ego, Faded Idolatry, the Shattered Community and Wyrm Tooth Necklace
+	NatureSmoldering: "[i:CalamityEnchantments/SmolderingEnchant] Gain a demonic tail that attacks nearby enemies"
+	GaleSailfish: "[i:CalamityEnchantments/SailfishEnchant] All damage is buffed while mounted"
+}
+
+TyrantSoulFlavorCheck: "'And the land grew quiet once more...'"
+TyrantSoulEffectsCheck: Effects of Fragments of Another World, Crushing Ego, Faded Idolatry, the Shattered Community and Reaper Tooth Necklace
+OmegaBlueEffectsCheck: "[i:CalamityMod/ReaperToothNecklace] Effects of Reaper Tooth Necklace"
+GloomForceEffectsCheck: Effects of the Shattered Community and Reaper Tooth Necklace
+
+IntergelacticEnchant: {
+	DisplayName: Intergelactic Enchantment
+	Tooltip:
+		'''
+		Surrounds you with two rings of asteroids whose damages scale with your stats
+		Divine Retribution sends these rings outwards
+		'The destruction of this creature will not prevent the spread of the disease.'
+		'''
+}
+
+SlipperyShogunEnchant: {
+	DisplayName: Slippery Shogun Enchantment
+	Tooltip:
+		'''
+		Goopy tendrils fire towards your cursor or nearby enemies as you attack
+		The longer you attack, the more the Enchantment charges, increasing damage and fire rate
+		With higher charge, Tendrils zero in on targets
+		Minion attacks also fire tendrils, but this charge is based on minion slots and tags enemies
+		(20+ slots act as full charge, and minion-summoned tendrils have a seperate cooldown)
+		[i:CalamityHunt/GunkHeart] Effects of Gunk Heart
+		'''
+}
+
+GeothermicEnchant: {
+	DisplayName: Geothermic Enchantment
+	Tooltip:
+		'''
+		Attacks occasionally launch mining debris
+		All azafure equipment receive enhancements to thier abilities
+		'''
+}
+
+SteamKnightEnchant: {
+	DisplayName: Steam Knight Enchantment
+	Tooltip:
+		'''
+		Attacking builds up vapor
+		While fully charged, stop attacking to release burning steam in all directions
+		While not attacking, vapor depletes faster than it charges
+		All azafure equipment receive enhancements to thier abilities
+		'''
+}
+
+AcropolisEnchant: {
+	DisplayName: Acropolis Enchantment
+	Tooltip:
+		'''
+		Replaces adrenaline with the durability bar
+		The durability bar provides up to 36 defense and 24% damage reduction
+		Durability is consumed based on damage taken when hit
+		Durability slowly regenerates 5 seconds after taking damage
+		When the durability bar is depleted, it becomes inactive and requires time to restore functionality
+		Attacking builds up vapor and occasionally launches mining debris
+		All azafure equipment receive enhancements to thier abilities
+		'''
+}
+
+MariviniumEnchant: {
+	DisplayName: Marivinium Enchantment
+	Tooltip:
+		'''
+		Obtain 2 layers of shields, which will take 36 seconds to recover after being shattered
+		After shields shatter, consume 100 life for 50% increased damage for 10 seconds
+		Six tentacles heal you by stealing enemy life
+		[i:CalamityEntropy/WyrmToothNecklace] Effects of Wyrm Tooth Necklace
+		'''
+}
+
+AnarchalEnchant: {
+	DisplayName: Anarchal Enchantment
+	Tooltip:
+		'''
+		When taking more than 30 damage, releases three chaos cells
+		Adds another cell for every 30 damage past the first
+		Cells will chase and attack enemies before returning and healing you
+		'''
+}
+
+NihilplasmicEnchant: {
+	DisplayName: Nihilplasmic Enchantment
+	Tooltip:
+		'''
+		Project a shield that can withstand 80 damage
+		The nihility shield needs ten seconds to recover once broken
+		Increases life regeneration while the shield is broken
+		'''
+}
+
+EntropyTwinsTooltips: {
+	Active: Active
+	Inactive: Inactive
+	Anarchal1: With the Nihilplasmic Enchantment, all attacks inflict Void Virus
+	Anarchal2: If you or another player on your team have the Nihilplasmic Enchantment, all of your team's attacks inflict Void Virus
+	Nihilplasmic1: With the Anarchal Enchantment, all attacks inflict Void Virus
+	Nihilplasmic2: If you or another player on your team have the Anarchal Enchantment, all of your team's attacks inflict Void Virus
+}
+
+SmolderingEnchant: {
+	DisplayName: Smoldering Enchantment
+	Tooltip:
+		'''
+		You are surrounded by an inferno ring
+		Gain a demonic tail that attacks nearby enemies and inflicts [cbuff:OnFire3]
+		'''
+}
+
+EntropicFaquirEnchant: {
+	DisplayName: Entropic Faquir Enchantment
+	Tooltip:
+		'''
+		Gain a void charge bar
+		Damaging enemies will fill the void charge bar
+		With 10% void, summons a wraith
+		When hurt, the wraith violently releases void
+		Wraith damage and the duration of void release and cooldown increase with void charge
+		Increases movement and flight speed based on the amount of void charge in the bar
+		'''
+}
+
+SailfishEnchant: {
+	DisplayName: Sailfish Enchantment
+	Tooltip:
+		'''
+		All damage is buffed while mounted
+		With no other mounts equipped, summons a royal jousting Velocicampus instead
+		[i:CalamityFables/WarriorsAmphora] Effects of Warrior's Amphora
+		'''
+}
