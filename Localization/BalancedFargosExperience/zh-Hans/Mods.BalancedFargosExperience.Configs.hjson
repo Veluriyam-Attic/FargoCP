@@ -48,11 +48,13 @@ ServerSide: {
 	Headers: {
 		EternityMode: 永恒模式调整
 		Progression: 流程改动
+		Misc: 杂项
+		DLC: Fargo魂石DLC
 	}
 
 	ChangeGlobalAI: {
 		Label: 修改生物的AI （默认：启用）
-		Tooltip: 若启用，将会禁用所有原版Boss和NPC在永恒模式下的AI，且将永恒模式的效果应用于其他模组的NPC
+		Tooltip: 若启用，将改变大多数NPC的AI，并将永恒模式的效果应用于其他模组的NPC
 	}
 
 	DisableEternityPenalties: {
@@ -72,6 +74,21 @@ ServerSide: {
 
 	UseDifferentProgression: {
 		Label: 修改Fargo游戏进度 （默认：启用）
-		Tooltip: 若启用，将影响物品的配方与整体属性，NPC也更有可能拥有不同的AI（建议与AI改变一同使用）
+		Tooltip: 若启用，将影响物品的配方与整体属性（建议与AI改变一同使用）
+	}
+
+	UseCoinNotifier: {
+		Label: 提示玩家死亡后掉落钱币 （默认：启用）
+		Tooltip: 若启用，会在玩家死亡时发送一条消息，说明他们掉落了多少钱币
+	}
+
+	DLCPriority: {
+		Label: 强制永恒AI优先 （默认：启用）
+		Tooltip: 若启用，将强制永恒AI在所有Boss中始终作为优先AI
+	}
+
+	IrondustRePrologueMusic: {
+		Label: 使用《RePrologue》替代《IrondustRePrologue》 （默认：关闭）
+		Tooltip: 若启用，将禁用突变体的主题曲——《IrondustRePrologue》，仅播放普通的《IrondustRePrologue》
 	}
 }
