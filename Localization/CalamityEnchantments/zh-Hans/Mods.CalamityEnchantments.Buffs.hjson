@@ -1,14 +1,14 @@
 TarragonImmunity: {
-	DisplayName: Tarragon Immunity
-	Description: You are immune
+	DisplayName: 龙蒿免疫
+	Description: 你现在免疫一切伤害
 }
 
 BloodflareGodslayerCooldown: {
-	Description: I'd argue this is your divine retribution...
-	DisplayName: Divine Retribution Cooldown
+	Description: 我主张，这就是你的神罚……
+	DisplayName: 神罚冷却
 }
 
 SignathionEnchantBuff: {
-	DisplayName: Royal Steed
-	Description: This phantom still wears the distinct regalia of the Sea Kingdom
+	DisplayName: 皇家战马
+	Description: 这道幻影仍然穿着海洋王国的独特服饰
 }

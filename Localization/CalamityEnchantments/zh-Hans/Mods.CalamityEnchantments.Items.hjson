@@ -1,466 +1,468 @@
 PlagueReaperEnchant1: {
-	DisplayName: Plague Reaper Enchantment
+	DisplayName: 瘟疫死神魔石
 	Tooltip:
 		'''
-		All debuffs spread between enemies
-		Slain enemies may drop a pile of bones
-		Touch a pile of bones to spawn a friendly Dungeon Guardian
-		Damage scales solely with the defeated enemy's max HP and is capped at 10000
-		Bosses will drop bones every 10% of their HP lost
+		所有的减益会在敌怪之间传播
+		击杀敌人时有几率爆出一个骨堆
+		玩家接触骨堆时会生成一个友好的地牢守卫
+		地牢守卫的伤害仅与敌人的最大生命值呈正比，上限为10000
+		Boss每损失10%生命值便会掉落骨堆
 		'''
 }
 
 PlaguebringerEnchant1: {
-	DisplayName: Plaguebringer Enchantment
+	DisplayName: 瘟疫使者魔石
 	Tooltip:
 		'''
-		All attacks inflict plague for a short time
-		A plague cloud follows you, growing when nearby plagued enemies.
-		At maximum size, the cloud expands rapidly and stops following you, lingering in place for a while.
-		While flying, leave behind flowers that take 4 seconds to form petals
-		Touching fully formed flowers gives you the Honey buff and creates a swarm of bees
-		Enemies touching the flowers also trigger the bee swarm
-		[i:HiveBackpack] Friendly bees are stronger and inflict [cbuff:CalamityMod/Plague]
+		所有攻击会施加[cbuff:CalamityMod/Plague]减益
+		瘟疫毒云会跟随你，当附近有敌怪受到[cbuff:CalamityMod/Plague]减益时，毒云会变大
+		毒云达到最大时，会迅速扩散并不再跟随你，停留在原地一段时间
+		飞行时会留下花朵，花朵4秒后会开花
+		接触开花的花朵可提供[cbuff:Honey]增益，并产生一群蜜蜂
+		花朵被敌怪接触也会产生一群蜜蜂
+		[i:HiveBackpack] 友好蜜蜂得到强化且能够施加[cbuff:CalamityMod/Plague]减益
 		'''
 }
 
 UmbraphileEnchant1: {
-	DisplayName: Umbraphile Enchantment
+	DisplayName: 日影魔石
 	Tooltip: ""
 }
 
 FathomSwarmerEnchant1: {
-	DisplayName: Fathom Swarmer Enchantment
+	DisplayName: 幻渊鱼群魔石
 	Tooltip:
 		'''
-		Summons an Anglerfish familiar that follows your mouse
-		The anglerfish's light slows down enemies and their projectiles
+		召唤一条鮟鱇鱼伙伴，它会跟随你的光标
+		鮟鱇鱼的光芒会降低敌怪和弹幕的速度
 		'''
 }
 
 AstralEnchant1: {
-	DisplayName: Astral Enchantment
+	DisplayName: 星幻魔石
 	Tooltip:
 		'''
-		You are followed by a trail of damaging astral stars
-		'The Astral Infection has consumed you...'
+		一串能造成伤害的星幻星辰会跟随在你身后
+		“幻星感染感染已经吞噬了你……”
 		'''
 }
 
 BrimflameEnchant1: {
-	DisplayName: Brimflame Enchantment
+	DisplayName: 硫火魔石
 	Tooltip:
 		'''
-		Brimflame Install becomes stronger the more defense is consumed
-		Your defense will regenerate over time
-		Can only be used when at maximum defense
+		消耗的防御越多，释放的硫火怒张越强
+		你的防御会随时间回复
+		只能在满防御时释放
 		'''
-	DefenseDown: -{0} defense
-	DefenseUp: +{0} defense
+	DefenseDown: -{0}防御
+	DefenseUp: +{0}防御
 }
 
 MolluskEnchant1: {
-	DisplayName: Mollusk Enchantment
-	Tooltip: "'The world is your oyster'"
+	DisplayName: 软壳魔石
+	Tooltip: “世界是你的掌中珠”
 }
 
 EmpyreanEnchant1: {
-	DisplayName: Empyrean Enchantment
+	DisplayName: 皇天魔石
 	Tooltip:
 		'''
-		Moving slowly or standing still for 2 seconds empowers your next hit
-		Empowered hits deal double damage, heal 40 HP, fills up rage, and create homing empyrean stars on collision
-		This effect has a 12 to 4 second cooldown, becoming shorter the more rage you have
-		'The power of an ancient god at your command…'
+		缓慢移动或静止2秒后会强化你的下一次攻击
+		强化攻击造成双倍伤害，回复40点生命，积攒怒气，并在碰撞时生成追踪的皇天星源
+		该效果有4到12秒的冷却时间，冷却时间会随怒气的增加而缩短
+		“远古之神的力量由你号召”
 		'''
 }
 
 LunicCorpsEnchant: {
-	DisplayName: Lunic Corps Enchantment
+	DisplayName: 雷神之锤魔石
 	Tooltip:
 		'''
-		Summons an energy shield that absorbs up to 75 damage
-		The shield starts recharging 5 seconds after being hit
-		Recharging from zero to full charge takes 2 seconds
-		Being hit again while recharging restarts the charge timer
+		生成能量护盾吸收最多75点伤害
+		护盾会在受到攻击后5秒开始充能
+		完全充满需要2秒
+		在充能过程中再次受到攻击会重置充能计时
 		'''
 }
 
 TarragonEnchant: {
-	DisplayName: Tarragon Enchantment
+	DisplayName: 龙蒿魔石
 	Tooltip:
 		'''
-		After every 50 critical hits you will gain 2.5 seconds of damage immunity
-		This effect has a cooldown of 25 seconds
-		'Braelor's undying might flows through you...'
+		每造成50次暴击，你将获得2.5秒的伤害免疫
+		该效果有25秒的冷却时间
+		“布瑞莱尔的不朽之力在你体内流淌……”
 		'''
 }
 
 PrismaticEnchant: {
-	DisplayName: Prismatic Enchantment
+	DisplayName: 光棱魔石
 	Tooltip:
 		'''
-		Taking damage from light-based projectiles reflects them back towards your cursor
-		This effect has a 5 second cooldown
+		受到光属性弹幕伤害时，会将其反弹回光标的方向
+		该效果有5秒的冷却时间
+		[C/959595:译者补充：反弹弹幕的代码是判断该弹幕名是否有 light 等单词，因此有些无法生效]
 		'''
 }
 
 BloodflareEnchant: {
-	DisplayName: Bloodflare Enchantment
+	DisplayName: 血炎魔石
 	Tooltip:
 		'''
-		Divine Retribution releases 16 Bloodflare Souls which deal 300 damage
-		[i:CalamityMod/FragmentsOfAnotherWorld] Effects of Fragments of Another World
-		'The souls of the fallen are at your disposal...'
+		神罚会释放16个血炎之魂，每个造成300点伤害
+		[i:CalamityMod/FragmentsOfAnotherWorld] 获得异世裂片的效果
+		“堕落者的灵魂由你处置……”
 		'''
 }
 
 OmegaBlueEnchant: {
-	DisplayName: Omega Blue Enchantment
+	DisplayName:  蓝色欧米茄魔石
 	Tooltip:
 		'''
-		Six tentacles heal you by stealing enemy life
-		[i:CalamityMod/ReaperToothNecklace] Effects of Reaper Tooth Necklace
-		'The darkness of the Abyss has overwhelmed you...'
+		六只触手会窃取敌怪生命值来治疗你
+		[i:CalamityMod/ReaperToothNecklace] 获得猎魂鲨齿项链的效果
+		“深渊的黑暗笼罩着你……”
 		'''
 }
 
 GodSlayerEnchant: {
-	DisplayName: God Slayer Enchantment
+	DisplayName: 弑神魔石
 	Tooltip:
 		'''
-		Divine Retribution releases 8 God Slayer Darts which deal 350 damage
-		[i:CalamityMod/CrushingEgo] Effects of Crushing Ego
-		'The power to slay gods resides within you...'
+		神罚会释放8个弑神飞镖，每个造成350点伤害
+		[i:CalamityMod/CrushingEgo] 获得噬宇之傲的效果
+		“弑神之力流淌于你体内……”
 		'''
 }
 
 FearmongerEnchant: {
-	DisplayName: Fearmonger Enchantment
+	DisplayName: 神惧魔石
 	Tooltip:
 		'''
-		Minions no longer deal less damage while wielding non-summoner weapons
-		Minion attacks grant +2.5 HP/s life regen and massively accelerate life regen
-		All of your minions gain an extra scythe attack
+		手持非召唤武器时仆从造成的伤害不再降低
+		仆从攻击会提供+2.5HP/s生命再生并大幅加速生命再生
+		你的所有仆从造成额外镰刀攻击
 		'''
 }
 
 SilvaEnchant: {
-	DisplayName: Silva Enchantment
+	DisplayName: 始源林海魔石
 	Tooltip:
 		'''
-		Taking fatal damage will revive you and make you invulnerable to all damage for 5 seconds
-		This effect has a 5 minute cooldown, which does not decrement if any bosses or events are active
-		'Boundless life energy cascades from you...'
+		受到致命伤害会将你复活并使你5秒内免疫所有伤害
+		这个效果有5分钟冷却时间，冷却时间不会在Boss存在或事件期间计时
+		“无尽的生命能量于你身上喷涌而出……”
 		'''
 }
 
 AuricTeslaEnchant: {
-	DisplayName: Auric Tesla Enchantment
+	DisplayName: 圣金源魔石
 	Tooltip:
 		'''
-		Divine Retribution periodically zaps enemies with arcing energy
-		The arcing energy ignores a substantial amount of enemy defense
-		[i:CalamityMod/FadedIdolatry] Effects of Faded Idolatry
-		'Your strength rivals that of the Jungle Tyrant...'
+		神罚会周期性地释放电弧能量电击敌怪
+		电弧能量会无视敌人大量防御
+		[i:CalamityMod/FadedIdolatry] 获得圣魂归寂的效果
+		“你的力量已堪比丛林暴君……”
 		'''
 }
 
 GemTechEnchant: {
-	DisplayName: Gem Tech Enchantment
+	DisplayName: 天钻魔石
 	Tooltip:
 		'''
-		Six gem fragments idly orbit you; one for each class, and a base gem
-		Each active gem provides a bonus for its respective class, while the defensive gem grants defensive boosts
-		A gem is lost when you take more than 100 damage in a single hit
-		The type of game lost is the same as the class of the most recently used weapon
-		If said gem has already been lost, the base gem is lost instead
-		When a gem is lost, it breaks off and homes towards the nearest enemy or boss, dealing a base of 40000 damage
-		Gems have a 30 second delay before they appear again
-		'Tableus of progress etched in lattices of steel.'
+		六个宝石碎片缓缓绕着你旋转；其中五个对应五个职业，还有一个基础宝石
+		每一个激活的宝石都会给对应职业极大的加成，防御宝石则提供对防御的提升
+		如果一次受到超过100的伤害，你会损失一个宝石
+		失去的宝石与你最近一次使用的武器职业相对应
+		如果你已经损失了那个宝石，那么这次失去的将会是基础宝石
+		宝石在损失时会破碎，并向最近的敌人或boss飞去，造成40000基础伤害
+		破碎的宝石需要30秒来重新凝聚
+		“于钢骨经纬间铭刻进步的碑文”
 		'''
 }
 
 DemonshadeEnchant: {
-	DisplayName: Demonshade Enchantment
+	DisplayName: 魔影魔石
 	Tooltip:
 		'''
-		2 red devils follow you, firing shadowbeams and demon scythes at nearby enemies
-		Devils have 150 health, and their deaths enrages all nearby enemies with a dark magic spell for 10 seconds
-		This makes them take 1.5x total damage, but they will deal 1.25x damage to you
-		Devils only recover after this enrage is gone, but the nurse can bring them back early
-		[i:CalamityMod/ShatteredCommunity] Effects of the Shattered Community
-		'Demonic power emanates from you…'
+		2只红恶魔跟随你，向附近敌怪发射暗影光束与恶魔镰刀
+		红恶魔拥有150点生命值，它们的死亡会使附近所有敌怪被黑魔法[cbuff:CalamityMod/Enraged]10秒
+		这道咒语使它们受到1.5倍的伤害，同时它们对你造成1.25倍伤害
+		红恶魔只会在[cbuff:CalamityMod/Enraged]效果结束后复活，但护士可以提前将它们复活
+		[i:CalamityMod/ShatteredCommunity] 获得幻灭心元石的效果
+		“恶魔之力于你身上显形……”
 		'''
 }
 
 GloomForce: {
-	DisplayName: Force of Gloom
+	DisplayName: 昏冥之力
 	Tooltip:
 		'''
-		[i:CalamityEnchantments/UmbraphileEnchant1] Bat swarm kills red devils, instantly enraging you
-		[i:CalamityEnchantments/FathomSwarmerEnchant1] Summons an Anglerfish familiar that follows your mouse
-		[i:CalamityEnchantments/FathomSwarmerEnchant1] The anglerfish's light slows down enemies and their projectiles
-		[i:CalamityEnchantments/OmegaBlueEnchant] Six tentacles heal you by stealing enemy life
-		[i:CalamityEnchantments/DemonshadeEnchant] Three red devils follow you, firing shadowbeams and demon scythes at nearby enemies
-		[i:CalamityEnchantments/DemonshadeEnchant] Devils have 300 health, and their deaths enrages all nearby enemies with a dark magic spell for 10 seconds
-		Effects of the Shattered Community and Reaper Tooth Necklace
-		'Is this the right path that you've taken?'
+		[i:CalamityEnchantments/UmbraphileEnchant1] 蝙蝠群将杀死红恶魔，会立刻激怒你
+		[i:CalamityEnchantments/FathomSwarmerEnchant1] 召唤一条鮟鱇鱼伙伴，它会跟随你的光标
+		[i:CalamityEnchantments/FathomSwarmerEnchant1] 鮟鱇鱼的光芒会降低敌怪和弹幕的速度
+		[i:CalamityEnchantments/OmegaBlueEnchant] 六只触手会窃取敌怪生命值来治疗你
+		[i:CalamityEnchantments/DemonshadeEnchant] 3只红恶魔跟随你，向附近敌怪发射暗影光束与恶魔镰刀
+		[i:CalamityEnchantments/DemonshadeEnchant] 红恶魔拥有300点生命值，它们的死亡会使附近所有敌怪被黑魔法[cbuff:CalamityMod/Enraged]10秒
+		获得获得幻灭心元石和猎魂鲨齿项链的效果
+		“这是你所选择的正确道路吗？”
 		'''
 }
 
 HeavensForce: {
-	DisplayName: Force of the Heavens
+	DisplayName: 天国之力
 	Tooltip:
 		'''
-		[i:FargowiltasCrossmod/TitanHeartEnchant] Adrenaline charges 20% faster, increased to 70% while grounded
-		[i:FargowiltasCrossmod/TitanHeartEnchant] While adrenaline is partially charged, receive up to 15% damage reduction
-		[i:FargowiltasCrossmod/TitanHeartEnchant] Increases your max movement speed and acceleration by 5%
-		[i:CalamityEnchantments/AstralEnchant1] You are followed by a trail of damaging astral stars
-		[i:CalamityEnchantments/EmpyreanEnchant1] Moving slowly or standing still for 2 seconds empowers your next hit
-		[i:CalamityEnchantments/EmpyreanEnchant1] Empowered hits deal double damage, heal 40 HP, fills up rage, and create homing empyrean stars on collision
-		[i:CalamityEnchantments/PrismaticEnchant] Taking damage from light-based projectiles reflects them back towards your cursor
-		'Petrichor-stained destiny, epicenter of entropy'
+		[i:FargowiltasCrossmod/TitanHeartEnchant] 肾上腺素充能速度增加20%，处于地面时速度增加70%
+		[i:FargowiltasCrossmod/TitanHeartEnchant] 随着肾上腺素的充能进度增加伤害减免，最多增加15%伤害减免
+		[i:FargowiltasCrossmod/TitanHeartEnchant] 增加5%最大移动速度和加速度
+		[i:CalamityEnchantments/AstralEnchant1] 一串能造成伤害的星幻星辰会跟随在你身后
+		[i:CalamityEnchantments/EmpyreanEnchant1] 缓慢移动或静止2秒后会强化你的下一次攻击
+		[i:CalamityEnchantments/EmpyreanEnchant1] 强化攻击造成双倍伤害，回复40点生命，积攒怒气，并在碰撞时生成追踪的皇天星源
+		[i:CalamityEnchantments/PrismaticEnchant] 受到光属性弹幕伤害时，会将其反弹回光标的方向
+		“雨后土壤熏染的宿命，崩乱混沌的震央”
 		'''
 }
 
 SynthesisForce: {
-	DisplayName: Force of Synthesis
+	DisplayName: 构成之力
 	Tooltip:
 		'''
-		[i:FargowiltasCrossmod/WulfrumEnchant] Summons a wulfrum drone that follows your cursor
-		[i:FargowiltasCrossmod/WulfrumEnchant] The drone scans enemies, telling you their debuff weaknesses and resistances
-		[i:FargowiltasCrossmod/WulfrumEnchant] Scanned enemies also take extra flat damage over time when afflicted with any debuff
-		[i:CalamityEnchantments/MolluskEnchant1] Clam Slam deals massive damage and gives you immunity frames, only going on cooldown on enemy hits
-		[i:CalamityEnchantments/BrimflameEnchant1] Brimflame Install becomes stronger the more defense is consumed
-		[i:CalamityEnchantments/LunicCorpsEnchant] Summons an energy shield that absorbs up to 150 damage
-		[i:CalamityEnchantments/LunicCorpsEnchant] The shield starts recharging 5 seconds after being hit
-		[i:CalamityEnchantments/GemTechEnchant] Six gem fragments idly orbit you; one for each class, and a base gem
-		[i:CalamityEnchantments/GemTechEnchant] Each active gem provides a bonus for its respective class, while the defensive gem grants defensive boosts
-		[i:CalamityEnchantments/GemTechEnchant] A gem is lost when you take more than 100 damage in a single hit, breaking off and homing towards the nearest enemy or boss, dealing a base of 40000 damage
-		[i:CalamityEnchantments/GemTechEnchant] Gems have a 30 second delay before they appear again
-		'To experiment is to fail. To fail is to learn. To learn is to advance.'
+		[i:FargowiltasCrossmod/WulfrumEnchant] 召唤一架跟随光标的钨钢无人机
+		[i:FargowiltasCrossmod/WulfrumEnchant] 无人机会扫描敌怪， 显示其对减益类型的易伤与抗性
+		[i:FargowiltasCrossmod/WulfrumEnchant] 被扫描的敌怪受到任意减益时随时间受到额外的固定伤害
+		[i:CalamityEnchantments/MolluskEnchant1] 猛冲击中敌怪造成大量伤害并提供你短暂的无敌帧，仅在击中敌怪后进入冷却
+		[i:CalamityEnchantments/BrimflameEnchant1] 消耗的防御越多，释放的硫火怒张越强
+		[i:CalamityEnchantments/LunicCorpsEnchant] 生成能量护盾吸收最多150点伤害
+		[i:CalamityEnchantments/LunicCorpsEnchant] 护盾会在受到攻击后5秒开始充能
+		[i:CalamityEnchantments/GemTechEnchant] 六个宝石碎片缓缓绕着你旋转；其中五个对应五个职业，还有一个基础宝石
+		[i:CalamityEnchantments/GemTechEnchant] 每一个激活的宝石都会给对应职业极大的加成，防御宝石则提供对防御的提升
+		[i:CalamityEnchantments/GemTechEnchant] 宝石在你受到超过100点伤害时损失并破碎 ，并向最近的敌人或boss飞去，造成40000基础伤害
+		[i:CalamityEnchantments/GemTechEnchant] 破碎的宝石需要30秒来重新凝聚
+		“实验->失败；失败->学习；学习->进步”
 		'''
 }
 
 ExaltationForce: {
-	DisplayName: Force of Exaltation
+	DisplayName: 凌悦之力
 	Tooltip:
 		'''
-		[i:CalamityEnchantments/BloodflareEnchant][i:CalamityEnchantments/GodSlayerEnchant] Divine Retribution switches between 20 Bloodflare Souls and 12 God Slayer Darts
-		[i:CalamityEnchantments/AuricTeslaEnchant] Both are accompanied by arcing electricity
-		[i:CalamityEnchantments/TarragonEnchant] After every 40 critical hits you will gain 5 seconds of damage immunity
-		[i:CalamityEnchantments/SilvaEnchant] Taking fatal damage will revive you and make you invulnerable to all damage for 5 seconds
-		Effects of Fragments of Another World, Crushing Ego and Faded Idolatry
-		'You cast them aside, and stuck to your pride.'
+		[i:CalamityEnchantments/BloodflareEnchant][i:CalamityEnchantments/GodSlayerEnchant] 神罚会交替释放20个血炎之魂和12个弑神飞镖
+		[i:CalamityEnchantments/AuricTeslaEnchant] 释放弹幕的同时伴随电弧能量电击敌怪
+		[i:CalamityEnchantments/TarragonEnchant] 造成40次暴击后你将获得5秒的伤害免疫
+		[i:CalamityEnchantments/SilvaEnchant] 受到致命伤害会将你复活并使你5秒内免疫所有伤害
+		获得异世裂片、噬宇之傲和圣魂归寂的效果
+		“你抛弃了他们，只执着于你的骄傲”
 		'''
 }
 
 TyrantSoul: {
-	DisplayName: Soul of the Tyrant
+	DisplayName: 暴君之魂
 	Tooltip:
 		'''
-		[i:FargowiltasCrossmod/GaleForce] Grants unlimited jumps in the air
-		[i:FargowiltasCrossmod/GaleForce] Hold UP to jump faster and fall slower, hold DOWN to fall faster
-		[i:FargowiltasCrossmod/GaleForce] Holding jump generates sharp spines attached to you
-		[i:FargowiltasCrossmod/GaleForce] Increased damage based on how fast you move, up to +40%
-		[i:FargowiltasCrossmod/ElementsForce] [c/E03131:Attacking builds up heat, stop attacking at full heat or get hit to vent it]
-		[i:FargowiltasCrossmod/ElementsForce] [c/E03131:Venting heat grants Reaver Rage and summons powerful chaos flares for up to 3 seconds]
-		[i:FargowiltasCrossmod/ElementsForce] [c/45A8EF:Increased flight time and speed, life regen, hook velocity and reduced dash cooldown]
-		[i:FargowiltasCrossmod/ElementsForce] [c/45A8EF:After a second in the air without getting hit, attacks are accompanied by powerful arrows from the sky]
-		[i:CalamityEnchantments/HeavensForce] Adrenaline charges 20% faster, increased to 70% while grounded
-		[i:CalamityEnchantments/HeavensForce] You are followed by a trail of damaging astral stars
-		[i:CalamityEnchantments/HeavensForce] Moving slowly or standing still for 2 seconds empowers your next hit
-		[i:CalamityEnchantments/HeavensForce] Taking damage from light-based projectiles reflects them back towards your cursor
-		[i:CalamityEnchantments/SynthesisForce] Clam Slam deals massive damage and gives you immunity frames, only going on cooldown on enemy hits
-		[i:CalamityEnchantments/SynthesisForce] Brimflame Install becomes stronger the more defense is consumed
-		[i:CalamityEnchantments/SynthesisForce] Summons an energy shield that absorbs up to 150 damage
-		[i:CalamityEnchantments/ExaltationForce] Divine Retribution switches between 20 Bloodflare Souls and 12 God Slayer Darts
-		[i:CalamityEnchantments/ExaltationForce] Both are accompanied by arcing electricity
-		[i:CalamityEnchantments/ExaltationForce] After every 40 critical hits you will gain 5 seconds of damage immunity
-		[i:CalamityEnchantments/ExaltationForce] Taking fatal damage will revive you and make you invulnerable to all damage for 5 seconds
-		Summons [i:CalamityEnchantments/GloomForce] an anglerfish, six tentacles, three red devils, [i:CalamityEnchantments/SynthesisForce] a wulfrum drone and six gem fragments
-		Effects of Fragments of Another World, Crushing Ego, Faded Idolatry, the Shattered Community and Reaper Tooth Necklace
-		'And the land grew quiet once more...'
+		[i:FargowiltasCrossmod/GaleForce] 允许在空中无限跳跃，效果生效时禁用翅膀
+		[i:FargowiltasCrossmod/GaleForce] 跳跃时按住[上]以快速跃起或缓慢坠落，按住[下]以进行俯冲
+		[i:FargowiltasCrossmod/GaleForce] 按住[跳]会伸出海胆尖刺
+		[i:FargowiltasCrossmod/GaleForce] 根据你的移动速度增加伤害，最多增加40%
+		[i:FargowiltasCrossmod/ElementsForce] [c/E03131:攻击会积聚热量，热量积聚满时停止攻击或受到伤害会散失热量]
+		[i:FargowiltasCrossmod/ElementsForce] [c/E03131:散失热量会给予掠夺者之怒，并召唤强大的混沌烈焰，最多持续3秒]
+		[i:FargowiltasCrossmod/ElementsForce] [c/45A8EF:增加飞行时间、飞行速度、生命再生速度、钩爪速度并减少冲刺冷却]
+		[i:FargowiltasCrossmod/ElementsForce] [c/45A8EF:在空中飞行一秒后，攻击会伴随着从天而降的强大箭矢]
+		[i:CalamityEnchantments/HeavensForce] 肾上腺素充能速度增加20%，处于地面时速度增加70%
+		[i:CalamityEnchantments/HeavensForce] 一串能造成伤害的星幻星辰会跟随在你身后
+		[i:CalamityEnchantments/HeavensForce] 缓慢移动或静止2秒后会强化你的下一次攻击
+		[i:CalamityEnchantments/HeavensForce] 受到光属性弹幕伤害时，会将其反弹回光标的方向
+		[i:CalamityEnchantments/SynthesisForce] 猛冲击中敌怪造成大量伤害并提供你短暂的无敌帧，仅在击中敌怪后进入冷却
+		[i:CalamityEnchantments/SynthesisForce] 消耗的防御越多，释放的硫火怒张越强
+		[i:CalamityEnchantments/SynthesisForce] 生成能量护盾吸收最多150点伤害
+		[i:CalamityEnchantments/ExaltationForce] 神罚会交替释放20个血炎之魂和12个弑神飞镖
+		[i:CalamityEnchantments/ExaltationForce] 释放弹幕的同时伴随电弧能量电击敌怪
+		[i:CalamityEnchantments/ExaltationForce] 造成40次暴击后你将获得5秒的伤害免疫
+		[i:CalamityEnchantments/ExaltationForce] 受到致命伤害会将你复活并使你5秒内免疫所有伤害
+		召唤[i:CalamityEnchantments/GloomForce] 鮟鱇、六只触手和三只红恶魔， [i:CalamityEnchantments/SynthesisForce] 钨钢无人机和六个宝石碎片
+		获得异世裂片、噬宇之傲、圣魂归寂、幻灭心元石和猎魂鲨齿项链的效果
+		“于是最后这片大地再次归于沉寂……”
 		'''
 }
 
 EnchantmentNewText: {
-	//	DesertProwler: ""
-	//	SnowRuffian: ""
+	DesertProwler: ""
+	SnowRuffian: ""
 	Statigel: "'Statis’ mystical power surrounds you…'"
-	//	Sulphurous: ""
+	Sulphurous: ""
 	Victide: "'The former seas have energized you…'"
 	Aerospec: "'The sky comes to your aid…'"
 	Daedalus: "'Icy magic envelopes you...'"
 	Reaver: "'A thorny death awaits your enemies...'"
-	//	Hydrothermic: ""
-	Wulfrum: "'Not to be confused with Tungsten Enchantment…'"
+	Hydrothermic: ""
+	Wulfrum: "'Not to be confused with Tungsten魔石…'"
 }
 
 ForceNewText: {
-	DeathFearmonger: "[i:CalamityEnchantments/FearmongerEnchant] Minion attacks grant +2.5 HP/s life regen and massively accelerate life regen"
-	DeathPlagueReaper: "[i:CalamityEnchantments/PlagueReaperEnchant1] All debuffs spread between enemies"
+	DeathFearmonger: "[i:CalamityEnchantments/FearmongerEnchant] 仆从攻击会提供+2.5HP/s生命再生并大幅加速生命再生"
+	DeathPlagueReaper: "[i:CalamityEnchantments/PlagueReaperEnchant1] 所有的减益会在敌怪之间传播"
 	LifePlaguebringer:
 		'''
-		[i:CalamityEnchantments/PlaguebringerEnchant1] All attacks inflict plague for a short time
-		[i:CalamityEnchantments/PlaguebringerEnchant1] A plague cloud follows you, growing when nearby plagued enemies.
+		[i:CalamityEnchantments/PlaguebringerEnchant1] 所有攻击会施加[cbuff:CalamityMod/Plague]减益
+		[i:CalamityEnchantments/PlaguebringerEnchant1] 瘟疫毒云会跟随你，并当附近有敌怪受到[cbuff:CalamityMod/Plague]减益时变大
 		'''
 	ExaltationIntergelactic:
 		'''
-		[i:CalamityEnchantments/IntergelacticEnchant] Four rings of asteroids orbit you
-		[i:CalamityEnchantments/IntergelacticEnchant] Divine Retribution launches these outwards
+		[i:CalamityEnchantments/IntergelacticEnchant] 四个由小行星组成的星环围绕着你
+		[i:CalamityEnchantments/IntergelacticEnchant] 神罚会将星环发射出去
 		'''
-	HeavensSlipperyShogun: "[i:CalamityEnchantments/SlipperyShogunEnchant] Glooby tendrils fire towards your cursor or nearby enemies as you attack"
-	HeavensEntropicFaquir: "[i:CalamityEnchantments/EntropicFaquirEnchant] With enough built up void charge, a wraith will fight for you"
+	HeavensSlipperyShogun: "[i:CalamityEnchantments/SlipperyShogunEnchant] 攻击时会向光标或附近敌怪发射黏液触须"
+	HeavensEntropicFaquir: "[i:CalamityEnchantments/EntropicFaquirEnchant] 积攒足够虚空能量，召唤幻影协助战斗"
 	SynthesisAcropolis:
 		'''
-		[i:CalamityEnchantments/AcropolisEnchant] Attacking builds up vapor and occasionally launches mining debris
-		[i:CalamityEnchantments/AcropolisEnchant] Replaces adrenaline with the durability bar
+		[i:CalamityEnchantments/AcropolisEnchant] 攻击会积累蒸汽并偶尔发射挖掘碎屑
+		[i:CalamityEnchantments/AcropolisEnchant] 将肾上腺素条替换为耐力条
 		'''
-	GloomMarivinium: "[i:CalamityEnchantments/MariviniumEnchant] Adds 3 shields that increase damage for 10 seconds when broken"
-	GloomMariviniumEffects: Effects of the Shattered Community and Wyrm Tooth Necklace
+	GloomMarivinium: "[i:CalamityEnchantments/MariviniumEnchant] 获得3层渊海护盾并在碎掉后提供持续10秒的伤害加成"
+	GloomMariviniumEffects: 获得幻灭心元石和幻妖龙牙项链的效果
 	GloomAnarchalNihilplasmic:
 		'''
-		[i:CalamityEnchantments/AnarchalEnchant] Releases chaos cells on taking damage
-		[i:CalamityEnchantments/NihilplasmicEnchant] Project a shield that can withstand 160 damage
-		[i:CalamityEnchantments/AnarchalEnchant][i:CalamityEnchantments/NihilplasmicEnchant] All attacks inflict Void Virus
+		[i:CalamityEnchantments/AnarchalEnchant] 受到伤害时释放混沌细胞
+		[i:CalamityEnchantments/NihilplasmicEnchant] 投射一个承受160点伤害的护盾
+		[i:CalamityEnchantments/AnarchalEnchant][i:CalamityEnchantments/NihilplasmicEnchant] 所有攻击施加[cbuff:CalamityEntropy/VoidVirus]减益
 		'''
-	TyrantSoulMariviniumEffects: Effects of Fragments of Another World, Crushing Ego, Faded Idolatry, the Shattered Community and Wyrm Tooth Necklace
-	NatureSmoldering: "[i:CalamityEnchantments/SmolderingEnchant] Gain a demonic tail that attacks nearby enemies"
-	GaleSailfish: "[i:CalamityEnchantments/SailfishEnchant] All damage is buffed while mounted"
+	TyrantSoulMariviniumEffects: 获得异世裂片、噬宇之傲、圣魂归寂、幻灭心元石和幻妖龙牙项链的效果
+	NatureSmoldering: "[i:CalamityEnchantments/SmolderingEnchant] 召唤一条灼烬之尾攻击附近敌怪并施加[cbuff:OnFire3]减益"
+	GaleSailfish: "[i:CalamityEnchantments/SailfishEnchant] 骑乘时增加所有伤害"
 }
 
-TyrantSoulFlavorCheck: "'And the land grew quiet once more...'"
-TyrantSoulEffectsCheck: Effects of Fragments of Another World, Crushing Ego, Faded Idolatry, the Shattered Community and Reaper Tooth Necklace
-OmegaBlueEffectsCheck: "[i:CalamityMod/ReaperToothNecklace] Effects of Reaper Tooth Necklace"
-GloomForceEffectsCheck: Effects of the Shattered Community and Reaper Tooth Necklace
+TyrantSoulFlavorCheck: "“于是最后这片大地再次归于沉寂……”"
+TyrantSoulEffectsCheck: 获得异世裂片、噬宇之傲、圣魂归寂、幻灭心元石和猎魂鲨齿项链的效果
+OmegaBlueEffectsCheck: "[i:CalamityMod/ReaperToothNecklace] 获得猎魂鲨齿项链的效果"
+GloomForceEffectsCheck: 获得获得幻灭心元石和猎魂鲨齿项链的效果
 
 IntergelacticEnchant: {
-	DisplayName: Intergelactic Enchantment
+	DisplayName: 异宇星凝魔石
 	Tooltip:
 		'''
-		Surrounds you with two rings of asteroids whose damages scale with your stats
-		Divine Retribution sends these rings outwards
-		'The destruction of this creature will not prevent the spread of the disease.'
+		两个由小行星组成的星环围绕着你，星环的伤害取决于你的伤害加成
+		神罚会将星环发射出去
+		“消灭这只生物并不能阻止星辉瘟疫的扩散”
 		'''
 }
 
 SlipperyShogunEnchant: {
-	DisplayName: Slippery Shogun Enchantment
+	DisplayName: 神胶幕府魔石
 	Tooltip:
 		'''
-		Goopy tendrils fire towards your cursor or nearby enemies as you attack
-		The longer you attack, the more the Enchantment charges, increasing damage and fire rate
-		With higher charge, Tendrils zero in on targets
-		Minion attacks also fire tendrils, but this charge is based on minion slots and tags enemies
-		(20+ slots act as full charge, and minion-summoned tendrils have a seperate cooldown)
-		[i:CalamityHunt/GunkHeart] Effects of Gunk Heart
+		攻击时会向光标或附近敌怪发射黏液触须
+		攻击时间越长，魔石充能越多，造成的伤害与射速提高
+		高充能时，触须会精准锁定目标
+		仆从攻击也会发射触须，但其充能基于仆从栏位，且会标记敌人
+		（20及以上仆从栏为满充能，仆从触须有独立冷却）
+		[i:CalamityHunt/GunkHeart] 获得污泥之心的效果
 		'''
 }
 
 GeothermicEnchant: {
-	DisplayName: Geothermic Enchantment
+	DisplayName: 地热魔石
 	Tooltip:
 		'''
-		Attacks occasionally launch mining debris
-		All azafure equipment receive enhancements to thier abilities
+		攻击时偶尔会发射挖掘碎屑
+		所有阿萨福勒装备将获得部分强化
 		'''
 }
 
 SteamKnightEnchant: {
-	DisplayName: Steam Knight Enchantment
+	DisplayName: 蒸汽骑士魔石
 	Tooltip:
 		'''
-		Attacking builds up vapor
-		While fully charged, stop attacking to release burning steam in all directions
-		While not attacking, vapor depletes faster than it charges
-		All azafure equipment receive enhancements to thier abilities
+		攻击会积累蒸汽
+		当完全充能时，停止攻击即可向四周释放灼热蒸汽
+		未攻击时，蒸汽消耗速度比积累速度更快
+		所有阿萨福勒装备将获得部分强化
 		'''
 }
 
 AcropolisEnchant: {
-	DisplayName: Acropolis Enchantment
+	DisplayName: 卫城魔石
 	Tooltip:
 		'''
-		Replaces adrenaline with the durability bar
-		The durability bar provides up to 36 defense and 24% damage reduction
-		Durability is consumed based on damage taken when hit
-		Durability slowly regenerates 5 seconds after taking damage
-		When the durability bar is depleted, it becomes inactive and requires time to restore functionality
-		Attacking builds up vapor and occasionally launches mining debris
-		All azafure equipment receive enhancements to thier abilities
+		将肾上腺素条替换为耐力条
+		耐力条会为你提供至多36点护甲与24%伤害减免
+		在受到伤害时会根据伤害值扣除耐力，耐力减少同时会使你的防御和减伤暂时降低
+		耐力会在受击后5秒缓慢回复
+		当耐力清空时会失效，并需要一段时间重新启用
+		攻击会积累蒸汽并偶尔发射挖掘碎屑
+		所有阿萨福勒装备将获得部分强化
 		'''
 }
 
 MariviniumEnchant: {
-	DisplayName: Marivinium Enchantment
+	DisplayName: 渊洋魔石
 	Tooltip:
 		'''
-		Obtain 2 layers of shields, which will take 36 seconds to recover after being shattered
-		After shields shatter, consume 100 life for 50% increased damage for 10 seconds
-		Six tentacles heal you by stealing enemy life
-		[i:CalamityEntropy/WyrmToothNecklace] Effects of Wyrm Tooth Necklace
+		获得2层可以各抵挡一次伤害的渊海护盾，第一层恢复需要36秒，第二层需要18秒
+		护盾破损时，治疗100点生命值，获得10秒[cbuff:CalamityEntropy/AbyssalWrath]增益，增加50%伤害
+		护盾只会抵挡高于50点伤害的攻击
+		六只触手会窃取敌怪生命值来治疗你
+		[i:CalamityEntropy/WyrmToothNecklace] 获得幻妖龙牙项链的效果
 		'''
 }
 
 AnarchalEnchant: {
-	DisplayName: Anarchal Enchantment
+	DisplayName: 混沌魔石
 	Tooltip:
 		'''
-		When taking more than 30 damage, releases three chaos cells
-		Adds another cell for every 30 damage past the first
-		Cells will chase and attack enemies before returning and healing you
+		受到超过30点伤害时，会释放三只混沌细胞
+		每额外30点伤害会增加一只混沌细胞
+		混沌细胞会追击敌怪，并返回来治疗你
 		'''
 }
 
 NihilplasmicEnchant: {
-	DisplayName: Nihilplasmic Enchantment
+	DisplayName: 噬虚魔石
 	Tooltip:
 		'''
-		Project a shield that can withstand 80 damage
-		The nihility shield needs ten seconds to recover once broken
-		Increases life regeneration while the shield is broken
+		投射一个承受80点伤害的护盾
+		噬虚护盾破碎后需要10秒恢复
+		护盾破碎期间提升生命再生速度
 		'''
 }
 
 EntropyTwinsTooltips: {
-	Active: Active
-	Inactive: Inactive
-	Anarchal1: With the Nihilplasmic Enchantment, all attacks inflict Void Virus
-	Anarchal2: If you or another player on your team have the Nihilplasmic Enchantment, all of your team's attacks inflict Void Virus
-	Nihilplasmic1: With the Anarchal Enchantment, all attacks inflict Void Virus
-	Nihilplasmic2: If you or another player on your team have the Anarchal Enchantment, all of your team's attacks inflict Void Virus
+	Active: 激活
+	Inactive: 未激活
+	Anarchal1: 装备噬虚魔石，所有攻击施加[cbuff:CalamityEntropy/VoidVirus]减益
+	Anarchal2: 如果你或另一位同队伍的玩家有噬虚魔石，则全队攻击均能施加[cbuff:CalamityEntropy/VoidVirus]减益
+	Nihilplasmic1: 装备混沌魔石, 所有攻击施加[cbuff:CalamityEntropy/VoidVirus]减益
+	Nihilplasmic2: 如果你或另一位同队伍的玩家有混沌魔石，则全队攻击均能施加[cbuff:CalamityEntropy/VoidVirus]减益
 }
 
 SmolderingEnchant: {
-	DisplayName: Smoldering Enchantment
+	DisplayName: 灼烬魔石
 	Tooltip:
 		'''
-		You are surrounded by an inferno ring
-		Gain a demonic tail that attacks nearby enemies and inflicts [cbuff:OnFire3]
+		你被一圈狱火光环环绕
+		召唤一条灼烬之尾攻击附近敌怪并施加[cbuff:OnFire3]减益
 		'''
 }
 
 EntropicFaquirEnchant: {
-	DisplayName: Entropic Faquir Enchantment
+	DisplayName: 虚空行者魔石
 	Tooltip:
 		'''
-		Gain a void charge bar
-		Damaging enemies will fill the void charge bar
-		With 10% void, summons a wraith
-		When hurt, the wraith violently releases void
-		Wraith damage and the duration of void release and cooldown increase with void charge
-		Increases movement and flight speed based on the amount of void charge in the bar
+		获得一个虚空充能条
+		攻击命中敌怪会积攒虚空能量
+		虚空值达到10%时，召唤幻影
+		受到伤害时，幻影会释放虚空能量
+		幻影的伤害、释放虚空的持续时间与冷却时间会随虚空能量提升而增加
+		根据虚空能量提供部分移动速度和飞行速度加成
 		'''
 }
 
 SailfishEnchant: {
-	DisplayName: Sailfish Enchantment
+	DisplayName: 旗鱼魔石
 	Tooltip:
 		'''
-		All damage is buffed while mounted
-		With no other mounts equipped, summons a royal jousting Velocicampus instead
-		[i:CalamityFables/WarriorsAmphora] Effects of Warrior's Amphora
+		骑乘时增加所有伤害
+		在没有装备其他坐骑时，召唤一只皇家速龙海马
+		[i:CalamityFables/WarriorsAmphora] 获得战士的双颈瓶效果
 		'''
 }

@@ -1,31 +1,31 @@
-PlaguebringerEffect1: Plague Cloud
-PlagueReaperEffect1: Debuff Spread
-FathomSwarmerEffect1: Angler Fish
-AstralEffect1: Star Trail
-EmpyreanEffect1: Empowered Hits
-LunicCorpsEffect: Energy Shield
-LunicCorpsVisual: Shield Visual
-TarragonEffect: Tarragon Immunity
-PrismaticEffect: Refraction
-OmegaBlueEffect: Abyssal Tentacles
-GodSlayerDamage: God Slayer Damage
-DemonshadeMinions: Red Devils
-GemTechEffect: Power Gems
-GloomHeader: Force of Gloom
-HeavensHeader: Force of the Heavens
-SynthesisHeader: Force of Synthesis
-ExaltationHeader: Force of Exaltation
-IntergelacticEffect: Astroid Belt
-IntergelacticVisual: Astroid Visual
-SlipperyShogunEffect: Goozma Tendrils
-SlipperyShogunVisual: Chromatic Visual
-GeothermicEffect: Geothermic Debris
-SteamKnightEffect: Steam Buildup
-AcropolisEffect: Durability Bar
-MariviniumEffect: Abyssal Shields
-AnarchalEffect: Chaos Cells On Hit
-NihilplasmicEffect: Nihility Shield
-NihilplasmicVisual: Shield Visual
-SmolderingEffect: Demonic Tail
-SmolderingVisual: Tail Visual
-EntropicFaquirEffect: Void Charge
+PlaguebringerEffect1: 瘟疫使者 瘟疫毒云
+PlagueReaperEffect1: 瘟疫死神 减益传播
+FathomSwarmerEffect1: 幻渊鱼群 鮟鱇鱼
+AstralEffect1:  星幻 星辰拖尾
+EmpyreanEffect1: 皇天 强化攻击
+LunicCorpsEffect: 雷神之锤 能量护盾
+LunicCorpsVisual: 雷神之锤 护盾显示
+TarragonEffect: 龙蒿 龙蒿免疫
+PrismaticEffect: 光棱 折射
+OmegaBlueEffect: 蓝色欧米茄 深渊触手
+GodSlayerDamage: 弑神 弑神者伤害
+DemonshadeMinions: 魔影 红恶魔
+GemTechEffect: 天钻 强化宝石
+GloomHeader: 昏冥之力
+HeavensHeader: 天国之力
+SynthesisHeader: 构成之力
+ExaltationHeader: 凌悦之力
+IntergelacticEffect: 异宇星凝 星环
+IntergelacticVisual: 异宇星凝 星环显示
+SlipperyShogunEffect: 神胶幕府 古泽玛触须
+SlipperyShogunVisual: 神胶幕府 色彩显示
+GeothermicEffect: 地热 挖掘碎屑
+SteamKnightEffect: 蒸汽骑士 积累蒸汽
+AcropolisEffect: 卫城 耐力条
+MariviniumEffect: 渊洋 渊海护盾
+AnarchalEffect: 混沌 受击释放细胞
+NihilplasmicEffect: 噬虚 噬虚护盾
+NihilplasmicVisual: 噬虚 护盾显示
+SmolderingEffect: 灼烬 灼烬之尾
+SmolderingVisual: 灼烬 灼烬之尾显示
+EntropicFaquirEffect: 虚空行者 虚空充能条

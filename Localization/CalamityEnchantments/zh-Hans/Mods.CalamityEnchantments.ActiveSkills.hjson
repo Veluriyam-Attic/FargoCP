@@ -1,29 +1,29 @@
 MolluskEffect1: {
-	DisplayName: Clam Slam
+	DisplayName: 巨蛤猛冲
 	Tooltip:
 		'''
-		Perform a testaceous downwards slam
-		Hitting an enemy with the slam deals massive damage and gives you immunity frames
-		Only goes on cooldown on enemy hits
+		进行一次向下的贝壳猛冲
+		猛冲击中敌怪造成大量伤害并提供你短暂的无敌帧
+		仅在击中敌怪后进入冷却
 		'''
 }
 
 UmbraphileEffect1: {
-	DisplayName: Bat Swarm Transformation
+	DisplayName: 蝠群变身
 	Tooltip:
 		'''
-		Temporarily become a swarm of bats
-		While in this form, you are immune to damage, have +30% increased movement speed, and infinite flight
-		The bat swarm deals damage and steals life on hit
+		暂时变身为蝙蝠群
+		在此形态下，你免疫所有伤害，移动速度提升30%，并获得无限飞行
+		蝙蝠群会在命中时造成伤害并吸取生命
 		'''
 }
 
 BrimflameEffect1: {
-	DisplayName: Brimflame Install
-	Tooltip: Consume all of your defense and release a wave of brimstone flames in all directions
+	DisplayName: 硫火怒张
+	Tooltip: 消耗你的所有防御向所有方向释放一波硫磺火
 }
 
 AuricTeslaEffect: {
-	DisplayName: Divine Retribution
-	Tooltip: Fires various projectiles
+	DisplayName: 神罚
+	Tooltip: 释放多种弹幕
 }
