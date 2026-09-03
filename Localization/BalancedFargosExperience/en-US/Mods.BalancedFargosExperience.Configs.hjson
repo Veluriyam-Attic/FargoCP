@@ -49,11 +49,12 @@ ServerSide: {
 		EternityMode: Eternity Mode Tweaks
 		Progression: Progression Change
 		Misc: Miscellaneous
+		DLC: Fargo's Souls DLC
 	}
 
 	ChangeGlobalAI: {
 		Label: Change the AI from entities (default: true)
-		Tooltip: If activated, will disable the Eternity and Revengeance AI from all Vanilla bosses and NPCs and apply Eternity Mode effects in other mod's NPCs
+		Tooltip: If activated, will change the AI of most NPCs and apply Eternity Mode effects in other mod's NPCs
 	}
 
 	DisableEternityPenalties: {
@@ -63,7 +64,7 @@ ServerSide: {
 
 	BalanceWeaponsEMode: {
 		Label: Balance overpowered weapons (and Zenith) stats in Eternity Mode (default: false)
-		Tooltip: If activated, prevents of a lot of cross-modded weapons, from being buffed by any player effect and contributing for a better progression
+		Tooltip: If activated, prevents of a lot of cross-modded weapons from being buffed by any player effect and contributing for a better progression
 	}
 
 	MultiplyEterniaCrystalLife: {
@@ -73,11 +74,21 @@ ServerSide: {
 
 	UseDifferentProgression: {
 		Label: Modify Fargo's Progression (default: true)
-		Tooltip: If activated, will affect items recipes and stats in general, NPCs will more likely have a different AI too (Use this with AI Changer)
+		Tooltip: If activated, will affect items recipes and stats in general (Intended to be used with the AI changer)
 	}
 
 	UseCoinNotifier: {
 		Label: Notify coins after player's death (default: true)
 		Tooltip: If activated, a message will be sent when the player dies, stating how many coins they dropped
+	}
+
+	DLCPriority: {
+		Label: Force EternityAI as priority (default: true)
+		Tooltip: If activated, will force EternityAI to ALWAYS be priority in all bosses
+	}
+
+	IrondustRePrologueMusic: {
+		Label: Use RePrologue instead of IrondustRePrologue (default: false)
+		Tooltip: If activated, will disable Mutant's new theme, "IrondustRePrologue", and only play normal "RePrologue" instead
 	}
 }
