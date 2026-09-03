@@ -1,50 +1,50 @@
-Aerospec1: Crit and damage bonus doubled
-Marnite1: Increased damage and range of lasers, placement bonuses doubled
-DesertProwler1: Stronger jumps, increased knockback and damage
-Wulfrum1: Scanned enemies take even more extra damage from debuffs
-Hydrothermic1: Overheat lasts for longer, damage reduction increased to 45%, flare damage increased
-Daedalus1: Increased arrow damage, amount and speed
-SnowRuffian1: Increased wing strength
-Reaver1: Defense, life regen, and movement speed bonuses doubled, increased Reaver Rage duration
-Plaguebringer1: Plague cloud deals more damage and charges from longer away
+Aerospec1: 伤害和暴击加成翻倍
+Marnite1: 增加激光的伤害和范围，翻倍放置加成
+DesertProwler1: 更强的跳跃，提高击退和伤害
+Wulfrum1: 被扫描的敌怪受到伤害性减益时产生的额外伤害增加
+Hydrothermic1: 过热状态持续时间增加，伤害减免增加至45%，烈焰伤害增加
+Daedalus1: 增加箭矢的伤害、数量和速度
+SnowRuffian1: 增加翅膀能力
+Reaver1: 防御、生命回复和移动速度的加成翻倍，提高掠夺者之怒持续时间
+Plaguebringer1: 瘟疫毒云造成更高伤害，并增大触发充能的范围
 PlagueReaper1:
 	'''
-	Debuffs spread from farther 
-	Enemies spread debuffs for a longer amount of time
+	减益可以从更远的地方蔓延
+	敌怪将更持久的传播减益
 	'''
-Umbraphile1: Bats deal more damage and heal for more
-Sulphur1: Jumps create 3 bubbles
-Victide1: Spikes are no longer affected by gravity and inflict venom
-Statigel1: Higher maximum speed, damage bonus doubled
-TitanHeart1: Doubled damage reduction, increased grounded charge rate to 100% total
-FathomSwarmer1: Larger Light, Faster Fish
-Astral1: Longer trail, more damage
-Brimflame1: Consumes only half of your defense, but still retains effect of all of your defense
-Mollusk1: More damage, More immunity frames
-Empyrean1: Increases damage, healing, and rage generation
-LunicCorps: Doubles maximum shield durability
-Tarragon: Immunity happens after 40 hits, and lasts twice as long
-Prismatic: All projectiles are reflected, but light-based ones deal more damage
-Bloodflare: Souls deal 400 damage, and 4 more are fired
-OmegaBlue: Tentacles have increased range and aggression
-GodSlayer: Darts deal 400 damage, and 4 more are fired
-Fearmonger: Increases summon damage by 50%
+Umbraphile1: 蝙蝠造成更多伤害且治疗更多生命值
+Sulphur1: 跳跃产生3个气泡
+Victide1: 海胆尖刺不再受重力影响且会施加[cbuff:Venom]减益
+Statigel1: 更高的移动速度，伤害加成翻倍
+TitanHeart1: 伤害减免翻倍，处于地面时速度增加至100%
+FathomSwarmer1: 更大的光照范围，更快的鱼
+Astral1: 更长的
+Brimflame1: 只消耗一半的防御，但仍保留原本消耗所有防御的效果
+Mollusk1: 更高的伤害，更长的无敌时间
+Empyrean1: 增加伤害、治疗和怒气回复
+LunicCorps: 雷神之锤护盾耐久翻倍
+Tarragon: 40次攻击触发龙蒿免疫，且持续时间翻倍
+Prismatic: 所有弹幕能被反射，但是光属性弹幕能造成更多伤害
+Bloodflare: 血炎之魂造成400点伤害，且额外释放4个
+OmegaBlue: 触手的怒气和攻击欲望增强，并且总会暴击
+GodSlayer: 飞镖造成400点伤害，且额外发射4支
+Fearmonger: 增加50%召唤伤害
 Silva:
 	'''
-	Cooldown is reduced to 3 minutes. Can decrement when bosses are alive, but takes 5 minutes
-	Silva revive recovers 5% health
+	冷却时间减少至3分钟，在Boss存活时仍可开始冷却，但需要5分钟
+	始源林海复活时会恢复5%生命值
 	'''
-AuricTesla: Increased damage and distance
-Demonshade: Summons 3 red devils and doubles their health and damage
-GemTech: Each gem's cooldown is halved, and most bonuses are increased
-Intergelactic: Adds 2 more astroid belts, increases damage
-SlipperyShogun: Tendrils start faster and inflict Fusion Burn
-Geothermic: Doubles debris launched, inflicts Mechanical Trauma
-SteamKnight: Increases steam distance, inflicts Brimstone Flames
-Acropolis: Increases steam distance and debris amounts, inflicts Mechanical Trauma and Brimstone Flames
-Marivinium: Adds a third shield
-Anarchal: Doubles cell damage
-Nihilplasmic: Doubles maximum shield durability
-Smoldering: Doubles damage
-EntropicFaquir: Doubles wraith damage
-Sailfish: Increased damage boost
+AuricTesla: 增加电弧伤害和距离
+Demonshade: 召唤3只红恶魔且其生命值和伤害翻倍
+GemTech: 每个宝石冷却时间减半，且大多数增幅得到提升
+Intergelactic: 额外增加2个星环，且伤害提升
+SlipperyShogun: 触须速度更快且施加[cbuff:CalamityHunt/FusionBurn]减益
+Geothermic: 碎屑发射数量翻倍，且施加[cbuff:CalamityEntropy/MechanicalTrauma]减益
+SteamKnight: 增加蒸汽距离，且施加[cbuff:CalamityMod/BrimstoneFlames]减益
+Acropolis: 增加蒸汽距离和碎屑发射数量，且施加[cbuff:CalamityEntropy/MechanicalTrauma]和[cbuff:CalamityMod/BrimstoneFlames]减益
+Marivinium: 增加第三个渊海护盾
+Anarchal: 混沌细胞伤害翻倍
+Nihilplasmic: 噬虚护盾耐久翻倍
+Smoldering: 扩大炼狱光环的范围，灼烬之尾伤害翻倍
+EntropicFaquir: 幻影造成的伤害翻倍
+Sailfish: 增加伤害增幅
