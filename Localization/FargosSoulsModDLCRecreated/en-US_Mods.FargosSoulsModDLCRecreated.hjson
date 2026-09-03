@@ -1582,8 +1582,9 @@ Items: {
 		Tooltip:
 			'''
 			For swimming with the fishes
-			Allows you to breathe underwater
-			Grants the ability to swim
+			Increases radiant damage by 1
+			Radiant damage builds up to 25 life shield and life shielding no longer decays on you
+			Healing an ally transfers the life shield to themm
 			Effects of Sea Breeze Pendant and Bubble Magnet
 			'''
 	}
@@ -2897,6 +2898,11 @@ Configs: {
 		DisableOfficialFargoDLCEnchantments: {
 			Label: Disable Official Fargo D L C Enchantments
 			Tooltip: ""
+		}
+
+		UseAltItemArt: {
+			Label: Use Alternate Item Art
+			Tooltip: Enables the new modernly redone art by StupidRat72
 		}
 
 		EnableCalamity: {
