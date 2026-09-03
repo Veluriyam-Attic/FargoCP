@@ -29,6 +29,7 @@ namespace FargoCP.LocalizationPatch
             ["ssm"] = null,
             ["FargoThorium"] = null,
             ["NotmeCalFagDlc"] = null,
+            ["CalamityEnchantments"] = null,
 
             //官方跨模组扩展
             ["FargowiltasCrossmod"] = null,
