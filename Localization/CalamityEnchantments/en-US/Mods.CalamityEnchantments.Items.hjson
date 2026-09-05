@@ -1,4 +1,4 @@
-PlagueReaperEnchant1: {
+PlagueReaper2Enchant: {
 	DisplayName: Plague Reaper Enchantment
 	Tooltip:
 		'''
@@ -10,7 +10,7 @@ PlagueReaperEnchant1: {
 		'''
 }
 
-PlaguebringerEnchant1: {
+Plaguebringer2Enchant: {
 	DisplayName: Plaguebringer Enchantment
 	Tooltip:
 		'''
@@ -24,12 +24,12 @@ PlaguebringerEnchant1: {
 		'''
 }
 
-UmbraphileEnchant1: {
+Umbraphile2Enchant: {
 	DisplayName: Umbraphile Enchantment
 	Tooltip: ""
 }
 
-FathomSwarmerEnchant1: {
+FathomSwarmer2Enchant: {
 	DisplayName: Fathom Swarmer Enchantment
 	Tooltip:
 		'''
@@ -38,7 +38,7 @@ FathomSwarmerEnchant1: {
 		'''
 }
 
-AstralEnchant1: {
+Astral2Enchant: {
 	DisplayName: Astral Enchantment
 	Tooltip:
 		'''
@@ -47,7 +47,7 @@ AstralEnchant1: {
 		'''
 }
 
-BrimflameEnchant1: {
+Brimflame2Enchant: {
 	DisplayName: Brimflame Enchantment
 	Tooltip:
 		'''
@@ -59,12 +59,12 @@ BrimflameEnchant1: {
 	DefenseUp: +{0} defense
 }
 
-MolluskEnchant1: {
+Mollusk2Enchant: {
 	DisplayName: Mollusk Enchantment
 	Tooltip: "'The world is your oyster'"
 }
 
-EmpyreanEnchant1: {
+Empyrean2Enchant: {
 	DisplayName: Empyrean Enchantment
 	Tooltip:
 		'''
@@ -173,7 +173,7 @@ GemTechEnchant: {
 		Six gem fragments idly orbit you; one for each class, and a base gem
 		Each active gem provides a bonus for its respective class, while the defensive gem grants defensive boosts
 		A gem is lost when you take more than 100 damage in a single hit
-		The type of game lost is the same as the class of the most recently used weapon
+		The type of gem lost is the same as the class of the most recently used weapon
 		If said gem has already been lost, the base gem is lost instead
 		When a gem is lost, it breaks off and homes towards the nearest enemy or boss, dealing a base of 40000 damage
 		Gems have a 30 second delay before they appear again
@@ -198,9 +198,9 @@ GloomForce: {
 	DisplayName: Force of Gloom
 	Tooltip:
 		'''
-		[i:CalamityEnchantments/UmbraphileEnchant1] Bat swarm kills red devils, instantly enraging you
-		[i:CalamityEnchantments/FathomSwarmerEnchant1] Summons an Anglerfish familiar that follows your mouse
-		[i:CalamityEnchantments/FathomSwarmerEnchant1] The anglerfish's light slows down enemies and their projectiles
+		[i:CalamityEnchantments/Umbraphile2Enchant] Bat swarm kills red devils, instantly enraging you
+		[i:CalamityEnchantments/FathomSwarmer2Enchant] Summons an Anglerfish familiar that follows your mouse
+		[i:CalamityEnchantments/FathomSwarmer2Enchant] The anglerfish's light slows down enemies and their projectiles
 		[i:CalamityEnchantments/OmegaBlueEnchant] Six tentacles heal you by stealing enemy life
 		[i:CalamityEnchantments/DemonshadeEnchant] Three red devils follow you, firing shadowbeams and demon scythes at nearby enemies
 		[i:CalamityEnchantments/DemonshadeEnchant] Devils have 300 health, and their deaths enrages all nearby enemies with a dark magic spell for 10 seconds
@@ -216,9 +216,9 @@ HeavensForce: {
 		[i:FargowiltasCrossmod/TitanHeartEnchant] Adrenaline charges 20% faster, increased to 70% while grounded
 		[i:FargowiltasCrossmod/TitanHeartEnchant] While adrenaline is partially charged, receive up to 15% damage reduction
 		[i:FargowiltasCrossmod/TitanHeartEnchant] Increases your max movement speed and acceleration by 5%
-		[i:CalamityEnchantments/AstralEnchant1] You are followed by a trail of damaging astral stars
-		[i:CalamityEnchantments/EmpyreanEnchant1] Moving slowly or standing still for 2 seconds empowers your next hit
-		[i:CalamityEnchantments/EmpyreanEnchant1] Empowered hits deal double damage, heal 40 HP, fills up rage, and create homing empyrean stars on collision
+		[i:CalamityEnchantments/Astral2Enchant] You are followed by a trail of damaging astral stars
+		[i:CalamityEnchantments/Empyrean2Enchant] Moving slowly or standing still for 2 seconds empowers your next hit
+		[i:CalamityEnchantments/Empyrean2Enchant] Empowered hits deal double damage, heal 40 HP, fills up rage, and create homing empyrean stars on collision
 		[i:CalamityEnchantments/PrismaticEnchant] Taking damage from light-based projectiles reflects them back towards your cursor
 		'Petrichor-stained destiny, epicenter of entropy'
 		'''
@@ -231,8 +231,8 @@ SynthesisForce: {
 		[i:FargowiltasCrossmod/WulfrumEnchant] Summons a wulfrum drone that follows your cursor
 		[i:FargowiltasCrossmod/WulfrumEnchant] The drone scans enemies, telling you their debuff weaknesses and resistances
 		[i:FargowiltasCrossmod/WulfrumEnchant] Scanned enemies also take extra flat damage over time when afflicted with any debuff
-		[i:CalamityEnchantments/MolluskEnchant1] Clam Slam deals massive damage and gives you immunity frames, only going on cooldown on enemy hits
-		[i:CalamityEnchantments/BrimflameEnchant1] Brimflame Install becomes stronger the more defense is consumed
+		[i:CalamityEnchantments/Mollusk2Enchant] Clam Slam deals massive damage and gives you immunity frames, only going on cooldown on enemy hits
+		[i:CalamityEnchantments/Brimflame2Enchant] Brimflame Install becomes stronger the more defense is consumed
 		[i:CalamityEnchantments/LunicCorpsEnchant] Summons an energy shield that absorbs up to 150 damage
 		[i:CalamityEnchantments/LunicCorpsEnchant] The shield starts recharging 5 seconds after being hit
 		[i:CalamityEnchantments/GemTechEnchant] Six gem fragments idly orbit you; one for each class, and a base gem
@@ -300,11 +300,11 @@ EnchantmentNewText: {
 
 ForceNewText: {
 	DeathFearmonger: "[i:CalamityEnchantments/FearmongerEnchant] Minion attacks grant +2.5 HP/s life regen and massively accelerate life regen"
-	DeathPlagueReaper: "[i:CalamityEnchantments/PlagueReaperEnchant1] All debuffs spread between enemies"
+	DeathPlagueReaper: "[i:CalamityEnchantments/PlagueReaper2Enchant] All debuffs spread between enemies"
 	LifePlaguebringer:
 		'''
-		[i:CalamityEnchantments/PlaguebringerEnchant1] All attacks inflict plague for a short time
-		[i:CalamityEnchantments/PlaguebringerEnchant1] A plague cloud follows you, growing when nearby plagued enemies.
+		[i:CalamityEnchantments/Plaguebringer2Enchant] All attacks inflict plague for a short time
+		[i:CalamityEnchantments/Plaguebringer2Enchant] A plague cloud follows you, growing when nearby plagued enemies.
 		'''
 	ExaltationIntergelactic:
 		'''

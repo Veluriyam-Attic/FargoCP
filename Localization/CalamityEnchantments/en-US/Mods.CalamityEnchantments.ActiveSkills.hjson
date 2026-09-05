@@ -1,4 +1,4 @@
-MolluskEffect1: {
+Mollusk2Effect: {
 	DisplayName: Clam Slam
 	Tooltip:
 		'''
@@ -8,7 +8,7 @@ MolluskEffect1: {
 		'''
 }
 
-UmbraphileEffect1: {
+Umbraphile2Effect: {
 	DisplayName: Bat Swarm Transformation
 	Tooltip:
 		'''
@@ -18,7 +18,7 @@ UmbraphileEffect1: {
 		'''
 }
 
-BrimflameEffect1: {
+Brimflame2Effect: {
 	DisplayName: Brimflame Install
 	Tooltip: Consume all of your defense and release a wave of brimstone flames in all directions
 }

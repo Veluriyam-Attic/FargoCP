@@ -1,27 +1,15 @@
-Aerospec1: Crit and damage bonus doubled
-Marnite1: Increased damage and range of lasers, placement bonuses doubled
-DesertProwler1: Stronger jumps, increased knockback and damage
-Wulfrum1: Scanned enemies take even more extra damage from debuffs
-Hydrothermic1: Overheat lasts for longer, damage reduction increased to 45%, flare damage increased
-Daedalus1: Increased arrow damage, amount and speed
-SnowRuffian1: Increased wing strength
-Reaver1: Defense, life regen, and movement speed bonuses doubled, increased Reaver Rage duration
-Plaguebringer1: Plague cloud deals more damage and charges from longer away
-PlagueReaper1:
+Plaguebringer2: Plague cloud deals more damage and charges from longer away
+PlagueReaper2:
 	'''
 	Debuffs spread from farther 
 	Enemies spread debuffs for a longer amount of time
 	'''
-Umbraphile1: Bats deal more damage and heal for more
-Sulphur1: Jumps create 3 bubbles
-Victide1: Spikes are no longer affected by gravity and inflict venom
-Statigel1: Higher maximum speed, damage bonus doubled
-TitanHeart1: Doubled damage reduction, increased grounded charge rate to 100% total
-FathomSwarmer1: Larger Light, Faster Fish
-Astral1: Longer trail, more damage
-Brimflame1: Consumes only half of your defense, but still retains effect of all of your defense
-Mollusk1: More damage, More immunity frames
-Empyrean1: Increases damage, healing, and rage generation
+Umbraphile2: Bats deal more damage and heal for more
+FathomSwarmer2: Larger Light, Faster Fish
+Astral2: Longer trail, more damage
+Brimflame2: Consumes only half of your defense, but still retains effect of all of your defense
+Mollusk2: More damage, More immunity frames
+Empyrean2: Increases damage, healing, and rage generation
 LunicCorps: Doubles maximum shield durability
 Tarragon: Immunity happens after 40 hits, and lasts twice as long
 Prismatic: All projectiles are reflected, but light-based ones deal more damage
