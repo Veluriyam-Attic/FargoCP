@@ -821,11 +821,10 @@ Items: {
 			All armor bonuses from Tarragon, Bloodflare, and Brimflame
 			All armor bonuses from God Slayer, Silva, and Auric
 			'''
-		Tooltip_AddonsArmor:
-			'''
-			All armor bonuses from Frozen and Intergelactic
-			All armor bonuses from Shogun and Void Faquir
-			'''
+		Tooltip_Addon_Frozen: All armor bonuses from Frozen
+		Tooltip_Addon_Intergelactic: All armor bonuses from Intergelactic
+		Tooltip_Addon_Shogun: All armor bonuses from Shogun
+		Tooltip_Addon_VoidFaquir: All armor bonuses from Void Faquir
 		Tooltip_Shared1:
 			'''
 			+5 defense when below 50% life
@@ -890,11 +889,9 @@ Items: {
 			Effects of Void of Calamity, Slagsplitter Pauldron, Flame-Licked Shell, and Chaos Stone
 			Effects of Dragon Scales and Crushing Ego
 			'''
-		Tooltip_AddonsEffects:
-			'''
-			Effects of Influx Cluster and Splendor Jam
-			Effects of Reincarnation Badge and Oracle Deck
-			'''
+		Tooltip_Addon_IntergelacticEffects: Effects of Influx Cluster
+		Tooltip_Addon_ShogunEffects: Effects of Splendor Jam
+		Tooltip_Addon_VoidFaquirEffects: Effects of Reincarnation Badge and Oracle Deck
 	}
 
 	RogueEssence: {
@@ -1199,7 +1196,7 @@ Items: {
 	}
 
 	BulbEnchant: {
-		DisplayName: Bulb Enchantment
+		DisplayName: Blooming Enchantment
 		Tooltip:
 			'''
 			Has a surprisingly sweet aroma
@@ -1286,7 +1283,7 @@ Items: {
 			'''
 			A blazing heat, the mark of Surtr...
 			All armor bonuses from Sandstone, Danger, Flight, and Fungus
-			All armor bonuses Living Wood, Bulb, and Life Bloom
+			All armor bonuses Living Wood, Blooming, and Life Bloom
 			Effects of Blooming Shield, Kick Petal, Fragrant Corsage, and Heart of the Jungle
 			Effects of the Faberge Egg, Air Walkers, Bee Booties, Leeching Sheath, and Nightshade Flower
 			Effects of Gardener's Sheath, Seed of Hope, and Sweet Vengeance
@@ -1302,7 +1299,7 @@ Items: {
 			Nothing will stop your movement
 			Double tap to dash
 			Grants immunity to shambler chain-balls
-			Effects of Spiked Bracer and Weighted Winglets
+			Effects of Spiked Bracer, Weighted Winglets, and Thorium Shield
 			'''
 	}
 
@@ -1312,7 +1309,7 @@ Items: {
 			'''
 			Expertly forged by the Blacksmith
 			5% damage reduction
-			Effects of Spiked Bracers and Weighted Winglets
+			Effects of Thorium Shield, Spiked Bracers, and Weighted Winglets
 			'''
 	}
 
@@ -1335,7 +1332,7 @@ Items: {
 			Masterfully forged by the Blacksmith
 			18% damage reduction
 			Grants immunity to shambler chain-balls
-			Effects of Crystal Spear Tip, Incandescent Spark, Weighted Winglets, and Spiked Bracers
+			Effects of Crystal Spear Tip, Incandescent Spark, Weighted Winglets, Spiked Bracers, and Thorium Shield
 			'''
 	}
 
@@ -1376,7 +1373,7 @@ Items: {
 			Behold the craftsmanship of the Dark Elves...
 			All armor bonuses from Granite, Bronze, and Darksteel
 			All armor bonuses from Durasteel, Titan, and Conduit
-			Effects of Shock Absorber, Champion's Rebuttal, Rock Music Player, and Spiked Bracers
+			Effects of Shock Absorber, Champion's Rebuttal, Rock Music Player, Spiked Bracers, and Thorium Shield
 			Effects Crystal Spear Tip, Mask of the Crystal Eye, Jet Boots, and Abyssal Shell
 			Effects of Olympic Torch, Incandescent Spark, Weighted Winglets, and Spartan Sandals
 			'''
@@ -1578,7 +1575,7 @@ Items: {
 	}
 
 	OceanEnchant: {
-		DisplayName: Ocean Enchantment
+		DisplayName: Coral Enchantment
 		Tooltip:
 			'''
 			For swimming with the fishes
@@ -1643,7 +1640,7 @@ Items: {
 			'''
 			Made from mythical scales
 			Your attacks have a chance to unleash an explosion of Dragon's Flame
-			Effects of Dragon Talon Necklace and Disco Music Player
+			Effects of Disco Music Player
 			'''
 	}
 
@@ -1655,7 +1652,7 @@ Items: {
 			Your boots vibrate at an unreal frequency, increasing movement speed significantly
 			While moving, your damage and critical strike chance are increased
 			Your attacks have a chance to unleash an explosion of Dragon's Flame
-			Effects of Crash Boots, Disco Music Player, Dragon Talon Necklace, and Cursed Flail-Core
+			Effects of Crash Boots, Disco Music Player, and Cursed Flail-Core
 			'''
 	}
 
@@ -1783,7 +1780,7 @@ Items: {
 			Fire surrounds your armour and melee weapons
 			Enemies that you set on fire or singe will take additional damage over time
 			Effects of Spring Steps, Slag Stompers, and Molten Spear Tip
-			Effects of Beholder Gaze and Metabolic Pills
+			Effects of Exile's Helmet, Beholder Gaze, and Metabolic Pills
 			'''
 	}
 
@@ -1814,11 +1811,11 @@ Items: {
 			From the halls of Hel, a vision of the end...
 			All armor bonuses from Spirit Trapper, Malignant, Dragon, Dread, Flesh, and Demon Blood
 			All armor bonuses from Magma, Berserker, White Knight, and Harbinger
-			Effects of Inner Flame, Scrying Glass, Molten Spear Tip, Crash Boots, and Dragon Talon Necklace
+			Effects of Inner Flame, Scrying Glass, Molten Spear Tip, and Crash Boots
 			Effects of Vampire Gland, Rapier Badge, Spring Steps, and Slag Stompers
 			Effects of Murky Catalyst, Disco Music Player, Cursed-Flaire Core, and Vile-Flail Core
 			Effects of Artificer's Shield, Artificer's Rocketeers, and Artificer's Focus
-			Effects of Beholder Gaze and Metabolic Pills
+			Effects of Beholder Gaze, Metabolic Pills, and Exile's Helmet
 			Summons several pets
 			'''
 	}
@@ -1873,7 +1870,7 @@ Items: {
 			Your magma fortified army's molten gaze shall be feared
 			Your magic damage will heavily burn and damage all adjacent enemies
 			All minion damage leaves a lingering burn that deals significant damage over time
-			Effects of Pocket Fusion Generator and Inferno Lord's Focus
+			Effects of Plasma Generator, Pocket Fusion Generator, and Inferno Lord's Focus
 			'''
 	}
 
@@ -1897,7 +1894,7 @@ Items: {
 			What's this about Ragnarok?
 			All armor bonuses from Tide Turner, Assassin, and Pyromancer
 			All armor bonuses from Dream Weaver and Rhapsodist
-			Effects of Plague Lord's Flask, Pocket Fusion Generator, Inferno Lord's Focus, and The Omega Core
+			Effects of Plague Lord's Flask, Plasma Generator, Pocket Fusion Generator, Inferno Lord's Focus, and The Omega Core
 			'''
 	}
 
@@ -1907,7 +1904,7 @@ Items: {
 			'''
 			The true might of the 9 realms is yours!
 			All armor bonuses from Sandstone, Danger, Flight, and Fungus
-			All armor bonuses from Living Wood, Bulb, and Life Bloom
+			All armor bonuses from Living Wood, Blooming, and Life Bloom
 			All armor bonuses from Depth Diver, Yew Wood, and Tide Hunter
 			All armor bonuses from Naga Skin, Icy, Cryomancer, and Whispering
 			All armor bonuses from Novice Cleric, Sacred, Warlock, and Biotech
@@ -1935,7 +1932,7 @@ Items: {
 			Effects of Brass Cap, Mixtape, Lucky Rabbit's Foot, and Waxy Rosin
 			Effects of Auto Tuner, Metal Music Player, Diss Track, Traveler's Boots, and Concert Tickets
 			Effects of Jetstream Sheath, Steamkeeper Watch, and Magneto Grip
-			Effects of Shock Absorber, Champion's Rebuttal, Rock Music Player, and Spiked Bracers
+			Effects of Shock Absorber, Champion's Rebuttal, Rock Music Player, Spiked Bracers, and Thorium Shield
 			Effects of Crystal Spear Tip, Mask of the Crystal Eye, Jet Boots, and Abyssal Shell
 			Effects of Olympic Torch, Incandescent Spark, Weighted Winglets, and Spartan Sandals
 			Effects of Crietz, Band of Replenishment, Up Donw Balloon, The Ring, and Fan Letter
@@ -1944,10 +1941,10 @@ Items: {
 			Effects of Jazz Music Player, Concussive Warhead, Terrarium Particle Sprinters, Terrarium Defender, and The Nuclear Option
 			Effects of Phylactery, Hungering Blossom, Monster Charm, Guide to Expert Throwing : Volume 3, and Necrotic Skull
 			Effects of Cape of the Survivor, Greedy Goblet, Pirate's Purse, and Proof of Avarice
-			Effects of Vampire Gland, Beholder Gaze, Rapier Badge, Metabolic Pills, Spring Steps, and Slag Stompers
+			Effects of Vampire Gland, Beholder Gaze, Rapier Badge, Metabolic Pills, Spring Steps, Slag Stompers, and Exile's Helmet
 			Effects of Murky Catalyst, Disco Music Player, Cursed-Flaire Core, and Vile-Flail Core
 			Effect of Artificer's Shield, Artificer's Rocketeers, and Artificer's Focus
-			Effects of Plague Lord's Flask, Pocket Fusion Generator, Inferno Lord's Focus, and The Omega Core
+			Effects of Plague Lord's Flask, Plasma Generator, Pocket Fusion Generator, Inferno Lord's Focus, and The Omega Core
 			Summons several pets
 			'''
 	}
@@ -2419,11 +2416,21 @@ Items: {
 
 	AddonsForce: {
 		DisplayName: Community Force
-		Tooltip:
+		Tooltip: ""
+		Tooltip_Frozen: All armor bonuses from Frozen
+		Tooltip_Intergelactic:
 			'''
-			All armor bonuses from Frozen and Intergelactic
-			All armor bonuses from Shogun and Void Faquir
-			Effects of Influx Cluster and Splendor Jam
+			All armor bonuses from Intergelactic
+			Effects of Influx Cluster
+			'''
+		Tooltip_Shogun:
+			'''
+			All armor bonuses from Shogun
+			Effects of Splendor Jam
+			'''
+		Tooltip_VoidFaquir:
+			'''
+			All armor bonuses from Void Faquir
 			Effects of Reincarnation Badge and Oracle Deck
 			'''
 	}
@@ -2941,8 +2948,8 @@ Configs: {
 		}
 
 		EnableClamity: {
-			Label: Enable Clamity Content
-			Tooltip: Enable crossmod compatibility with Clamity
+			Label: Enable Cataclysm Content
+			Tooltip: Enable crossmod compatibility with Cataclysm (Clamity)
 		}
 
 		EnableCatalyst: {
