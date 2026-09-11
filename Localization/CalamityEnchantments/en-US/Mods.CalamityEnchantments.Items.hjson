@@ -333,7 +333,6 @@ ForceNewText: {
 
 TyrantSoulFlavorCheck: "'And the land grew quiet once more...'"
 TyrantSoulEffectsCheck: Effects of Fragments of Another World, Crushing Ego, Faded Idolatry, the Shattered Community and Reaper Tooth Necklace
-OmegaBlueEffectsCheck: "[i:CalamityMod/ReaperToothNecklace] Effects of Reaper Tooth Necklace"
 GloomForceEffectsCheck: Effects of the Shattered Community and Reaper Tooth Necklace
 
 IntergelacticEnchant: {
@@ -462,5 +461,25 @@ SailfishEnchant: {
 		All damage is buffed while mounted
 		With no other mounts equipped, summons a royal jousting Velocicampus instead
 		[i:CalamityFables/WarriorsAmphora] Effects of Warrior's Amphora
+		'''
+}
+
+ClamitasEnchant: {
+	DisplayName: Clamitas Enchantment
+	Tooltip:
+		'''
+		Clam Slam lasts longer, does more damage and burns enemies
+		Launches flames on impact (with floor or enemies)
+		'The world ISN'T your oyster'
+		'''
+}
+
+EndobsidianEnchant: {
+	DisplayName: Endobsidian Enchantment
+	Tooltip:
+		'''
+		Attacking enemies with On Fire! inflicts Frostburn, and Hellfire inflicts Frostbite
+		(Applies whether the enemy is already on fire or this attack sets them on fire)
+		[i:Clamity/MetalWings] Restores part of flight time when taking damage
 		'''
 }
