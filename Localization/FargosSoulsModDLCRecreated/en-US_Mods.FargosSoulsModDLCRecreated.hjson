@@ -15,8 +15,12 @@ Toggler: {
 	CrushingEgoEffects: Crushing Ego
 	TheTransformerEffects: The Transformer
 	ArcFlashRingEffects: Arc Flash Ring
+	EvolutionEffects: The Evolution
 	EvasionScarfEffects: Evasion Scarf
 	AtaxiaEffects: Hydrothermic Effects
+	ThePactEffects: The Pact
+	ProtolithBangleEffect: Protolith Bangle
+	BatholithBangleEffects: Batholith Bangle
 	HallowedRuneEffects: Hallowed Rune
 	AtaxariaVentSpirit: Chaos Spirit Minion
 	EmpyreanEffects: Empyrean Effects
@@ -28,6 +32,7 @@ Toggler: {
 	TeslasAmuletEffect: Tesla's Amulet
 	ShellfishMinionEffect: Shellfish Minion
 	GiantPearlEffect: Giant Pearl
+	DiamondOfTheDeepEffects: Diamond of the Deep
 	ManaPolarizerEffects: Mana Polarizer
 	MoonstoneCrownEffects: Moonstone Crown
 	MolluskEffect: Mollusk Effects
@@ -86,7 +91,6 @@ Toggler: {
 	MidgardForceHeader: Midgard Force
 	NiflheimForceHeader: Niflheim Force
 	SvartalfheimForceHeader: Svartalfheim Force
-	MixtapeEffects: Mixtape
 	VictideEffects: Victide Effects
 	AerospecEffects: Aerospec Effects
 	BrimflameEffects: Brimflame Effects
@@ -97,6 +101,7 @@ Toggler: {
 	PlagueReaperEffects: Plague Reaper Effects
 	StatigelEffects: Statigel Effects
 	BlazingCoreEffects: Blazing Core
+	WarbannerOfTheRighteousEffects: Warbanner of the Righteous
 	CorrosiveSpineEffects: Corrosive Spine
 	NoviceClericOrbit: Novice Cleric Effects
 	KarmicHolderEffect: Karmic Holder
@@ -112,7 +117,8 @@ Toggler: {
 	AbyssalShellEffects: Abyssal Shell
 	SpiritBandEffects: Spirit Band
 	DarksteelEffects: Darksteel Effects
-	OgreSandalEffects: Incandescent Spark
+	OgreSandalEffects: Incandescent Alacrity
+	LodestoneOgreSandalsEffects: Ogre's Sandals
 	BronzeEffects: Bronze Effects
 	ChampionsRebuttalEffects: Champions Rebuttal
 	OlympicTorchEffects: Olympic Torch
@@ -121,14 +127,21 @@ Toggler: {
 	EyeOfTheStormEffects: Shock Absorber
 	LichEffects: Lich Effects
 	PhylacteryEffects: Phylactery
+	CapeOfTheSurvivorEffects: Cape of the Survivor
 	WhiteDwarfEffects: White Dwarf Effects
 	CelestialEffects: Celestial Effects
 	JesterEffects: Jester Effects
 	FanLetterEffects: Fan Letter
-	CrietzEffects: Crietz
 	BandOfReplenishmentEffects: Band Of Replenishment
 	TerrariumEffects: Terrarium Effects
 	TerrariumSurroundSoundEffects: Terrarium Surround Sound
+	HeadsetEffects: Headset
+	LeechingSheathEffects: Leeching Sheath
+	GardenersSheathEffects: Gardener's Sheath
+	JetstreamSheathEffects: Jetstream Sheath
+	TitanSlayerSheathEffects: Titan Slayer Sheath
+	WrithingSheathEffects: Writhing Sheath
+	BlastShieldEffects: Blast Shield
 	VanaheimForceHeader: Vanaheim Force
 	CorruptionForceHeader: Corruption Force
 	ElementsForceHeader: Elements Force
@@ -259,6 +272,8 @@ Toggler: {
 	SandweaversTiaraEffect: Sandweavers Tiara
 	UpDownBalloonEffects: Up-Down Balloon
 	HungeringBlossomEffects: Hungering Blossom
+	ManaInjectionKitEffects: Mana Injection Kit
+	AstroEffects: Astro Effects
 	ProofOfAraviceEffects: Proof of Avarice
 	ProofOfAvariceEffects: Proof of Avarice
 	SunnyMinion: Sunny Pet
@@ -317,7 +332,7 @@ Items: {
 	}
 
 	DesolationForce: {
-		DisplayName: Desolation Force
+		DisplayName: Force of Desolation
 		Tooltip:
 			'''
 			When the world is barren and cold, you will be all that remains
@@ -325,10 +340,18 @@ Items: {
 			All armor bonuses from Omega Blue, Mollusk, Victide, Fathom Swarmer, and Sulphurous
 			Effects of Scuttler's Jewel, Frozen Cube, and Permafrost Concoction
 			Effects of Cryo Stone, Howls Heart, Frost Barrier, and Frost Flare
-			Effects of Thief's Dime, Vampiric Talisman, Moonstone Crown, and Evasion Scarf
+			Effects of Thief's Dime, Vampiric Talisman, and Evasion Scarf
 			'''
-		Tooltip_NoCrossmod: Effects of Radiance, Interstellar Stompers, and Ursa Sergeant
-		Tooltip_Crossmod: Effects of Hide of Asturm Deus, Interstellar Stompers, and Ursa Sergeant
+		Tooltip_NoCrossmod:
+			'''
+			Effects of Moonstone Crown and Arc Flash Ring
+			Effects of Radiance, Interstellar Stompers, and Ursa Sergeant
+			'''
+		Tooltip_Crossmod:
+			'''
+			Effects of Moonstone Crown, The Evolution, and Arc Flash Ring
+			Effects of Hide of Asturm Deus, Interstellar Stompers, and Ursa Sergeant
+			'''
 		Tooltip_NoCrossmod_2: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
 		Tooltip_Crossmod_2: Effects of Old Duke Scales and Reaper Tooth Necklace
 		Tooltip_2:
@@ -342,7 +365,7 @@ Items: {
 	}
 
 	AnnihilationForce: {
-		DisplayName: Annihilation Force
+		DisplayName: Force of Annihilation
 		Tooltip:
 			'''
 			Where once there was life and light, only ruin remains...
@@ -358,8 +381,8 @@ Items: {
 			'''
 		Tooltip_Crossmod:
 			'''
-			Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, and Shield of the High Ruler
-			Effects of Spectral Veil, Occult Skull Crown, The Community, and The Evolution
+			Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, Shield of the High Ruler, and Daawnlight Spirit Origin
+			Effects of Spectral Veil, Occult Skull Crown, and Statis' Void Sash
 			'''
 	}
 
@@ -497,7 +520,6 @@ Items: {
 		DisplayName: Plague Reaper Enchantment
 		Tooltip:
 			'''
-			Effects of Plaguebringer Armor
 			25% reduced ammo usage and 5% increased flight time
 			Enemies receive 10% more damage from ranged projectiles when afflicted by the Plague
 			Press Y to blind yourself for 5 seconds but massively boost your ranged damage
@@ -505,7 +527,6 @@ Items: {
 			'''
 		Tooltip_NoCrossmod: Effects of Plague Hive, Plagued Fuel Pack, and The Camper
 		Tooltip_Crossmod: Effects of Plague Hive, Alchemical Decanter, and The Camper
-		Tooltip_2: Effects of Unholy Tonic and Vicious Tonic
 	}
 
 	OmegaBlueEnchant: {
@@ -556,8 +577,8 @@ Items: {
 			A calamity bell floats above your head and occasionally rings while attacking
 			When the bell rings, enemies around you take 7500 true damage
 			'''
-		Tooltip_NoCrossmod: Effects of the Nebulous Core, Arc Flash Ring, and Crushing Ego
-		Tooltip_Crossmod: Effects of Crushing Ego, Arc Flash Ring and Venetrated Locket
+		Tooltip_NoCrossmod: Effects of the Nebulous Core and Crushing Ego
+		Tooltip_Crossmod: Effects of Crushing Ego and Venetrated Locket
 	}
 
 	FearmongerEnchant: {
@@ -571,7 +592,7 @@ Items: {
 			This extra damage reduction ignores the soft cap
 			'''
 		Tooltip_NoCrossmod: Effects of Spectral Veil, Occult Skull Crown, and Statis' Void Sash
-		Tooltip_Crossmod: Effects of Spectral Veil, Occult Skull Crown, and The Evolution
+		Tooltip_Crossmod: Effects of Spectral Veil, Occult Skull Crown, and Statis' Void Sash
 	}
 
 	FathomSwarmerEnchant: {
@@ -599,6 +620,7 @@ Items: {
 			Imbued with cosmic wrath when you are damaged
 			Effects of The Community, The Absorber and Shield of the High Ruler
 			'''
+		Tooltip_Crossmod: Effects of Daawnlight Spirit Origin
 	}
 
 	DemonShadeEnchant: {
@@ -706,7 +728,7 @@ Items: {
 			Increased empowerment duration by 5 seconds, increases inspiration regeneration rate by 20%, and increases the chance for inspiration notes to drop by 45%
 			'''
 		Tooltip_NoCrossmod: Effects of Heart of the Elements and The Sponge
-		Tooltip_Crossmod: Effects of Daawnlight Spirit Origian, The Transformer, and Dragon Scales
+		Tooltip_Crossmod: Effects of Heart of the Elements, The Transformer, and Dragon Scales
 	}
 
 	AtaxiaEnchant: {
@@ -762,7 +784,7 @@ Items: {
 	}
 
 	DevastationForce: {
-		DisplayName: Devastation Force
+		DisplayName: Force of Devastation
 		Tooltip:
 			'''
 			Rain hell down on those who resist your power
@@ -770,8 +792,8 @@ Items: {
 			+5 defense when below 50% life
 			Effects of Trinket of Chi, Rotten Dogtooth, Wulfrum Acrobatics Pack, and Plague Hive
 			'''
-		Tooltip_NoCrossmod: Effects of Plagued Fuel Pack, The Camper, Draedon's Heart and Profaned Soul Crystal
-		Tooltip_Crossmod: Effects of Alchemical Decanter, The Camper, and Profaned Soul Crystal
+		Tooltip_NoCrossmod: Effects of Plagued Fuel Pack, The Camper, Toxic Heart, Draedon's Heart and Profaned Soul Crystal
+		Tooltip_Crossmod: Effects of Alchemical Decanter, The Camper, Toxic Heart, and Profaned Soul Crystal
 		Tooltip_2:
 			'''
 			Effects of Bloom Stone and Necklace of Vexation
@@ -782,7 +804,7 @@ Items: {
 	}
 
 	ExaltationForce: {
-		DisplayName: Exaltation Force
+		DisplayName: Force of Exaltation
 		Tooltip:
 			'''
 			All armor bonuses from Tarragon, Bloodflare, and Brimflame
@@ -791,7 +813,7 @@ Items: {
 		Tooltip_NoCrossmod:
 			'''
 			Effects of Blazing Core, Dark Sun Ring, and Chalice of the Blood God
-			Effects of Nebulous Core and Arc Flash Ring
+			Effects of Nebulous Core
 			Effects of The Amalgam and Faded Idolatry
 			Effects of Yharim's Gift, Heart of the Elements, and The Sponge
 			Effects of Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Fragments Of Another World
@@ -800,8 +822,8 @@ Items: {
 		Tooltip_Crossmod:
 			'''
 			Effects of Blazing Core, Dark Sun Ring, Warbanner of the Righteous, and Affliction
-			Effects of Blunder Booster, Arc Flash Ring, and Faded Idolatry
-			Effects of Dynamo Stem Cells, Daawnlight Spirit Origin, and The Transformer
+			Effects of Blunder Booster and Faded Idolatry
+			Effects of Dynamo Stem Cells, Heart of the Elements, and The Transformer
 			Effects of Apollyon, Bloodflare Core, Phantomic Artifact, and Fragments Of Another World
 			Effects of Void of Calamity, Slagsplitter Pauldron, Flame-Licked Shell, and Chaos Stone
 			Effects of Dragon Scales and Crushing Ego
@@ -838,17 +860,25 @@ Items: {
 			'''
 		Tooltip_Crossmod1:
 			'''
-			Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, and Shield of the High Ruler
-			Effects of Spectral Veil, Occult Skull Crown, The Community and The Evolution
+			Effects of Flesh Totem, Ethereal Extorter, Regenator, The Absorber, Shield of the High Ruler, and Daawnlight Spirit Origin
+			Effects of Spectral Veil, Occult Skull Crown, and Statis' Void Sash
 			'''
 		Tooltip_Shared2:
 			'''
-			Effects of Scuttler's Jewel, Frozen Cube, Moonstone Crown, and Permafrost Concoction
+			Effects of Scuttler's Jewel, Frozen Cube, and Permafrost Concoction
 			Effects of Cryo Stone, Howls Heart, Frost Barrier, and Frost Flare
 			Effects of Thief's Dime, Vampiric Talisman, and Evasion Scarf
 			'''
-		Tooltip_NoCrossmod2: Effects of Radiance, Interstellar Stompers, and Ursa Sergeant
-		Tooltip_Crossmod2: Effects of Hide of Asturm Deus, Interstellar Stompers, and Ursa Sergeant
+		Tooltip_NoCrossmod2:
+			'''
+			Effects of Moonstone Crown and Arc Flash Ring
+			Effects of Radiance, Interstellar Stompers, and Ursa Sergeant
+			'''
+		Tooltip_Crossmod2:
+			'''
+			Effects of Moonstone Crown, The Evolution, and Arc Flash Ring
+			Effects of Hide of Asturm Deus, Interstellar Stompers, and Ursa Sergeant
+			'''
 		Tooltip_NoCrossmod3: Effects of the Abyssal Diving Suit and Reaper Tooth Necklace
 		Tooltip_Crossmod3: Effects of Old Duke Scales and Reaper Tooth Necklace
 		Tooltip_Shared3:
@@ -860,8 +890,8 @@ Items: {
 		Tooltip_NoCrossmod4: Effects of Sand Cloak, Old Die, Aquatic Heart, Scions Curio, Amadias Pendant, and Alluring Bait
 		Tooltip_Crossmod4: Effects of Sand Cloak, Old Die, Aquatic Heart, Scions Curio, and Amadias Pendant
 		Tooltip_Shared4: Effects of Trinket of Chi, Rotten Dogtooth, Wulfrum Acrobatics Pack, and Plague Hive
-		Tooltip_NoCrossmod5: Effects of Plagued Fuel Pack, The Camper, and Profaned Soul Crystal
-		Tooltip_Crossmod5: Effects of Alchemical Decanter, The Camper, and Profaned Soul Crystal
+		Tooltip_NoCrossmod5: Effects of Plagued Fuel Pack, The Camper, Toxic Heart, and Profaned Soul Crystal
+		Tooltip_Crossmod5: Effects of Alchemical Decanter, The Camper, Toxic Heart, and Profaned Soul Crystal
 		Tooltip_Shared5:
 			'''
 			Effects of Bloom Stone and Necklace of Vexation
@@ -874,7 +904,7 @@ Items: {
 		Tooltip_NoCrossmod6:
 			'''
 			Effects of Blazing Core, Dark Sun Ring, and Chalice of the Blood God
-			Effects of Nebulous Core, Arc Flash Ring, and Draedon's Heart
+			Effects of Nebulous Core and Draedon's Heart
 			Effects of The Amalgam and Auric Soul Artifact
 			Effects of Yharim's Gift, Heart of the Elements, and The Sponge
 			Effects of Void Of Extinction, Bloodflare Core, Phantomic Artifact, and Fragments Of Another World
@@ -883,8 +913,8 @@ Items: {
 		Tooltip_Crossmod6:
 			'''
 			Effects of Blazing Core, Dark Sun Ring, Warbanner of the Righteous, and Affliction
-			Effects of Blunder Booster, Arc Flash Ring, and Faded Idolatry
-			Effects of Dynamo Stem Cells, Daawnlight Spirit Origin, and The Transformer
+			Effects of Blunder Booster and Faded Idolatry
+			Effects of Dynamo Stem Cells, Heart of the Elements, and The Transformer
 			Effects of Apollyon, Bloodflare Core, Phantomic Artifact, and Fragments Of Another World
 			Effects of Void of Calamity, Slagsplitter Pauldron, Flame-Licked Shell, and Chaos Stone
 			Effects of Dragon Scales and Crushing Ego
@@ -1058,7 +1088,7 @@ Items: {
 			'''
 			Rich with culture
 			Inspiration notes that drop are twice as potent and increase your symphonic damage briefly
-			Effects of Ring of Unity, Brass Cap, Mixtape, and Waxy Rosin
+			Effects of Ring of Unity, Brass Cap, and Waxy Rosin
 			'''
 	}
 
@@ -1111,7 +1141,7 @@ Items: {
 			A world of mist, a sign of the dead...
 			All armor bonuses from Crier, Noble, Cyber Punk, Ornate, and Maestro
 			Effects of Ring of Unity, Metronome, Full Score and Conductor's Baton
-			Effects of  Brass Cap, Lucky Rabbit's Foot, Mixtape and Waxy Rosin
+			Effects of  Brass Cap, Lucky Rabbit's Foot, and Waxy Rosin
 			Effects of Auto Tuner, Metal Music Player, and Diss Track, Traveler's Boots, and Concert Tickets
 			Effects of Jetstream Sheath, Steamkeeper Watch, and Magneto Grip
 			'''
@@ -1125,6 +1155,7 @@ Items: {
 			Increases the duration of your symphonic empowerments by 6 seconds
 			Each unique empowerment you have increases your symphonic damage by 5%
 			Each unique empowerment you have increases your inspiration regeneration by 2%
+			Effects of Headset
 			'''
 	}
 
@@ -1136,7 +1167,7 @@ Items: {
 			Killing an enemy will release a soul fragment
 			Touching a soul fragment greatly increases your movement and throwing speed briefly
 			Your plague gas will linger in the air twice as long and your plague reactions will deal 20% more damage
-			Effects of Phylactery, Hungering Blossom, Monster Charm, and Necrotic Skull
+			Effects of Phylactery, Hungering Blossom, Mana Injection Kit, Monster Charm, and Necrotic Skull
 			Effects of Cape of the Survivor, Greedy Goblet, Pirate's Purse, and Proof of Avarice
 			'''
 	}
@@ -1147,7 +1178,7 @@ Items: {
 			'''
 			What nasty concoction could you be brewing?
 			Your plague gas will linger in the air twice as long and your plague reactions will deal 20% more damage
-			Effects of Hungering Blossom, Monster Charm, and Necrotic Skull
+			Effects of Hungering Blossom, Mana Injection Kit, Monster Charm, and Necrotic Skull
 			'''
 	}
 
@@ -1179,8 +1210,9 @@ Items: {
 			Holds a glimpse of the future...
 			All armor bonuses from Lich, Plague Doctor, and White Dwarf
 			All armor bonuses from Celestial and Shooting Star
-			Effects of Phylactery, Hungering Blossom, Monster Charm, Guide to Expert Throwing : Volume 3, and Necrotic Skull
+			Effects of Phylactery, Hungering Blossom, Mana Injection Kit, Monster Charm, Guide to Expert Throwing : Volume 3, and Necrotic Skull
 			Effects of Cape of the Survivor, Greedy Goblet, Pirate's Purse, and Proof of Avarice
+			Effects of Headset
 			'''
 	}
 
@@ -1318,11 +1350,17 @@ Items: {
 		Tooltip:
 			'''
 			Shocked out of this world
+			Summon damage has a chance to unleash a burst of damaging plasma on hit
 			Moving around generates up to 5 static rings, with each one generating life shielding
 			When fully charged, a bubble of energy will protect you from one attack
 			When the bubble blocks an attack, an electrical discharge is released at nearby enemies
 			Effects of Jet Boots
 			'''
+	}
+
+	AstroEnchant: {
+		DisplayName: Astro Enchantment
+		Tooltip: Summon damage has a chance to unleash a burst of damaging plasma on hit
 	}
 
 	DurasteelEnchant: {
@@ -1332,7 +1370,7 @@ Items: {
 			Masterfully forged by the Blacksmith
 			18% damage reduction
 			Grants immunity to shambler chain-balls
-			Effects of Crystal Spear Tip, Incandescent Spark, Weighted Winglets, Spiked Bracers, and Thorium Shield
+			Effects of Crystal Spear Tip, Incandescent Alacrity, Weighted Winglets, Spiked Bracers, and Thorium Shield
 			'''
 	}
 
@@ -1361,7 +1399,7 @@ Items: {
 		Tooltip:
 			'''
 			Infused with primordial energy
-			15% increased damage
+			18% increased damage
 			Effects of Mask of the Crystal Eye, Abyssal Shell, and Rock Music Player
 			'''
 	}
@@ -1372,10 +1410,10 @@ Items: {
 			'''
 			Behold the craftsmanship of the Dark Elves...
 			All armor bonuses from Granite, Bronze, and Darksteel
-			All armor bonuses from Durasteel, Titan, and Conduit
+			All armor bonuses from Durasteel, Titan, Astro, and Conduit
 			Effects of Shock Absorber, Champion's Rebuttal, Rock Music Player, Spiked Bracers, and Thorium Shield
 			Effects Crystal Spear Tip, Mask of the Crystal Eye, Jet Boots, and Abyssal Shell
-			Effects of Olympic Torch, Incandescent Spark, Weighted Winglets, and Spartan Sandals
+			Effects of Olympic Torch, Incandescent Alacrity, Weighted Winglets, and Spartan Sandals
 			'''
 	}
 
@@ -1397,10 +1435,10 @@ Items: {
 			The energies of Terraria will seek to protect you when you're in combat
 			Damage done increased by 10%
 			Symphonic critical strikes ring a bell over your head, slowing all nearby enemies briefly
-			Effects of Crietz and Band of Replenishment
-			Effects of Terrarium Surround Sound, The Ring, and Fan Letter
+			Effects of Band of Replenishment, The Ring, and Fan Letter
 			Effects of Terrarium Particle Sprinters, and Terrarium Defender
 			'''
+		Tooltip_NoBardHealer: Effects of Terrarium Surround Sound
 
 		Focus: {
 			Generic: {
@@ -1452,7 +1490,7 @@ Items: {
 			It pulses with energy
 			Damage done increased by 10%
 			Symphonic critical strikes ring a bell over your head, slowing all nearby enemies briefly
-			Effects of Crietz, Band of Replenishment, The Ring, and Fan Letter
+			Effects of Band of Replenishment, The Ring, and Fan Letter
 			'''
 	}
 
@@ -1462,7 +1500,7 @@ Items: {
 			'''
 			Which way is up?
 			Reverse gravity by pressing UP
-			While reversed, ranged damage is increased by 12%
+			While reversed, ranged damage is increased by 15%
 			Effects of Mirror of the Beholder and Up Down Balloon
 			'''
 	}
@@ -1496,7 +1534,7 @@ Items: {
 			Sturdy
 			Damage reduction is increased by 10% at every 25% segment of life
 			Maximum damage reduction is reached at 30% while below 50% life
-			Effects of Astro-Beetle Husk, Heart of Stone, and Obsidian Scale
+			Effects of Astro-Beetle Husk, Heart of Stone, Obsidian Scale, and Ogre's Sandals
 			'''
 	}
 
@@ -1520,13 +1558,14 @@ Items: {
 			Behold the power of Mankind...
 			All armor bonuses from Lodestone, Valadium, Illumite, and Shade Master
 			All armor bonuses from Jester, Thorium, and Terrarium
-			Effects of Crietz, Band of Replenishment, Up Down Baloon, The Ring, and Fan Letter
-			Effects of Astro-Beetle Husk, Heart of Stone, Obsidian Scale, and Mirror of the Beholder
-			Effects of Shinobi Sigil, Crystal Scorpion, and Terrarium Surround Sound
+			Effects of Band of Replenishment, Up Down Balloon, The Ring, and Fan Letter
+			Effects of Astro-Beetle Husk, Heart of Stone, Obsidian Scale, Ogre's Sandals, and Mirror of the Beholder
+			Effects of Shinobi Sigil and Crystal Scorpion
 			Effects of Jazz Music Player, Concussive Warhead, and The Nuclear Option
 			Effects of Terrarium Particle Sprinters, and Terrarium Defender
 			Summons a pet Magic Lantern and Lock Box
 			'''
+		Tooltip_NoBardHealer: Effects of Terrarium Surround Sound
 	}
 
 	YewWoodEnchant: {
@@ -1640,7 +1679,7 @@ Items: {
 			'''
 			Made from mythical scales
 			Your attacks have a chance to unleash an explosion of Dragon's Flame
-			Effects of Disco Music Player
+			Effects of Disco Music Player and Cursed Flail-Core
 			'''
 	}
 
@@ -1652,7 +1691,7 @@ Items: {
 			Your boots vibrate at an unreal frequency, increasing movement speed significantly
 			While moving, your damage and critical strike chance are increased
 			Your attacks have a chance to unleash an explosion of Dragon's Flame
-			Effects of Crash Boots, Disco Music Player, and Cursed Flail-Core
+			Effects of Crash Boots and Disco Music Player
 			'''
 	}
 
@@ -1694,7 +1733,7 @@ Items: {
 			Infused with Corrupt Blood
 			Maximum life increased by 100
 			Consecutive attacks against enemies might drop flesh, which grants bonus life and damage
-			Effects of Vampire Gland, Rapier Badge, and Vile Flail-Core
+			Effects of Vampire Gland and Rapier Badge
 			Summons a pet Flying Blister
 			'''
 	}
@@ -1705,7 +1744,7 @@ Items: {
 			'''
 			Symbiotically attached to your body
 			Consecutive attacks against enemies might drop flesh, which grants bonus life and damage
-			Effects of Vampire Gland
+			Effects of Vampire Gland, Vile Flail-Core, and Hemogoblin Shark Tooth Necklace
 			Summons a pet Flying Blister
 			'''
 	}
@@ -1717,7 +1756,7 @@ Items: {
 			Protect e-girls at all costs
 			40% of the mana you spend is stored as energy to a maximum of 400
 			Pressing the Armor Ability key will spend energy to restore up to 200 mana and 20 life at a time
-			Effects of Smothering Band
+			Effects of Murky Catalyst
 			Summons a Lil' Mog pet
 			'''
 	}
@@ -1812,8 +1851,8 @@ Items: {
 			All armor bonuses from Spirit Trapper, Malignant, Dragon, Dread, Flesh, and Demon Blood
 			All armor bonuses from Magma, Berserker, White Knight, and Harbinger
 			Effects of Inner Flame, Scrying Glass, Molten Spear Tip, and Crash Boots
-			Effects of Vampire Gland, Rapier Badge, Spring Steps, and Slag Stompers
-			Effects of Murky Catalyst, Disco Music Player, Cursed-Flaire Core, and Vile-Flail Core
+			Effects of Vampire Gland, Hemogoblin Shark Tooth Necklace, Rapier Badge, Spring Steps, and Slag Stompers
+			Effects of Murky Catalyst, Disco Music Player, Cursed Flail-Core, and Vile Flail-Core
 			Effects of Artificer's Shield, Artificer's Rocketeers, and Artificer's Focus
 			Effects of Beholder Gaze, Metabolic Pills, and Exile's Helmet
 			Summons several pets
@@ -1911,7 +1950,7 @@ Items: {
 			All armor bonuses from Iridescent, Life Binder, Templar, and Fallen Paladin
 			All armor bonuses from Crier, Noble, Cyber Punk, Ornate, and Maestro
 			All armor bonuses from Granite, Bronze, and Darksteel
-			All armor bonuses from Durasteel, Titan, and Conduit
+			All armor bonuses from Durasteel, Titan, Astro, and Conduit
 			All armor bonuses from Lich, Plague Doctor, and White Dwarf
 			All armor bonuses from Celestial and Shooting Star
 			All armor bonuses from Lodestone, Valadium, Illumite, and Shade Master
@@ -1929,24 +1968,25 @@ Items: {
 			Effects of Demon Tongue, Dark Effigy, Flawless Chrysalis, High-tech Sonar Device, Dew Collector, Equalizer, Mantle of the Protector, and Life Quartz Shield
 			Effects of Dark Heart, Karmic Holder, Nurse Purse, Sandweaver's Tiara, Spirit's Grace, Prydwen, Blast Shield, Yuma's Pendant, and Nirvana Statuette
 			Effects of Ring of Unity, Metronome, Full Score, and Conductor's Baton
-			Effects of Brass Cap, Mixtape, Lucky Rabbit's Foot, and Waxy Rosin
+			Effects of Brass Cap, Lucky Rabbit's Foot, and Waxy Rosin
 			Effects of Auto Tuner, Metal Music Player, Diss Track, Traveler's Boots, and Concert Tickets
 			Effects of Jetstream Sheath, Steamkeeper Watch, and Magneto Grip
 			Effects of Shock Absorber, Champion's Rebuttal, Rock Music Player, Spiked Bracers, and Thorium Shield
 			Effects of Crystal Spear Tip, Mask of the Crystal Eye, Jet Boots, and Abyssal Shell
-			Effects of Olympic Torch, Incandescent Spark, Weighted Winglets, and Spartan Sandals
-			Effects of Crietz, Band of Replenishment, Up Donw Balloon, The Ring, and Fan Letter
-			Effects of Astro-Beetle Husk, Heart of Stone, Obsidian Scale, and Mirror of the Beholder
-			Effects of Shinobi Sigil, Crystal Scorpion, and Terrarium Surround Sound
+			Effects of Olympic Torch, Incandescent Alacrity, Weighted Winglets, and Spartan Sandals
+			Effects of Band of Replenishment, Up Down Balloon, The Ring, and Fan Letter
+			Effects of Astro-Beetle Husk, Heart of Stone, Obsidian Scale, Ogre's Sandals, and Mirror of the Beholder
+			Effects of Shinobi Sigil and Crystal Scorpion
 			Effects of Jazz Music Player, Concussive Warhead, Terrarium Particle Sprinters, Terrarium Defender, and The Nuclear Option
-			Effects of Phylactery, Hungering Blossom, Monster Charm, Guide to Expert Throwing : Volume 3, and Necrotic Skull
-			Effects of Cape of the Survivor, Greedy Goblet, Pirate's Purse, and Proof of Avarice
-			Effects of Vampire Gland, Beholder Gaze, Rapier Badge, Metabolic Pills, Spring Steps, Slag Stompers, and Exile's Helmet
-			Effects of Murky Catalyst, Disco Music Player, Cursed-Flaire Core, and Vile-Flail Core
+			Effects of Phylactery, Hungering Blossom, Mana Injection Kit, Monster Charm, Guide to Expert Throwing : Volume 3, and Necrotic Skull
+			Effects of Cape of the Survivor, Greedy Goblet, Pirate's Purse, Headset, and Proof of Avarice
+			Effects of Vampire Gland, Hemogoblin Shark Tooth Necklace, Beholder Gaze, Rapier Badge, Metabolic Pills, Spring Steps, Slag Stompers, and Exile's Helmet
+			Effects of Murky Catalyst, Disco Music Player, Cursed Flail-Core, and Vile Flail-Core
 			Effect of Artificer's Shield, Artificer's Rocketeers, and Artificer's Focus
 			Effects of Plague Lord's Flask, Plasma Generator, Pocket Fusion Generator, Inferno Lord's Focus, and The Omega Core
 			Summons several pets
 			'''
+		Tooltip_NoBardHealer: Effects of Terrarium Surround Sound
 	}
 
 	BardEssence: {
@@ -1972,7 +2012,7 @@ Items: {
 	}
 
 	BardSoul: {
-		DisplayName: Bard Soul
+		DisplayName: Bard's Soul
 		Tooltip:
 			'''
 			Every note you produce births a new world
@@ -1991,7 +2031,7 @@ Items: {
 	}
 
 	GuardianAngelsSoul: {
-		DisplayName: Guardian Angels Soul
+		DisplayName: Guardian Angel's Soul
 		Tooltip:
 			'''
 			Divine Intervention
@@ -2004,7 +2044,9 @@ Items: {
 			Upon drinking a healing potion, all allies will recover 25 life and 50 mana
 			Nearby allies take 10% reduced damage
 			Nearby allies that die drop a wisp of spirit energy
+			Effects of Saving Grace, Soul Guard, and Medical Bag
 			'''
+		Tooltip_NoBardHealer: Effects of Arch-Demon's Curse and Archangel Heart
 		Tooltip_BardHealer: Effects of Elemental Bloom
 	}
 
@@ -2480,9 +2522,13 @@ Items: {
 		DisplayName: Plaguebringer Enchantment
 		Tooltip:
 			'''
+			25% reduced ammo usage and 5% increased flight time
+			Enemies receive 10% more damage from ranged projectiles when afflicted by the Plague
+			Press Y to blind yourself for 5 seconds but massively boost your ranged damage
+			This has a 25 second cooldown.
 			Grants a plague dash which can slam through enemies without taking damage
 			Summons a lil' plaguebringer which swarms your foes with little bees
-			Effects of Unholy Tonic, Vicious Tonic, and Alchemical Decanter
+			Effects of Unholy Tonic, Vicious Tonic, and Toxic Heart
 			'''
 	}
 
@@ -2520,8 +2566,9 @@ Items: {
 			Increased mana regeneration rate
 			Press Armor Set Bonus to unleash a barrage of death lasers at the cursor for the next 5 seconds
 			This has a 30 second cooldown
-			Effects of Moonstone Crown
 			'''
+		Tooltip_NoCrossmod: Effects of Moonstone Crown and Arc Flash Ring
+		Tooltip_Crossmod: Effects of Moonstone Crown, The Evolution, and Arc Flash Ring
 	}
 
 	TitanHeartEnchant: {
@@ -2893,7 +2940,7 @@ Configs: {
 		}
 
 		AddFargosDLCRecipeChangesWhenDisabled: {
-			Label: Add Fargos D L C Recipe Changes When Disabled
+			Label: Add Fargos DLC Recipe Changes When Disabled
 			Tooltip: ""
 		}
 
@@ -2903,7 +2950,7 @@ Configs: {
 		}
 
 		DisableOfficialFargoDLCEnchantments: {
-			Label: Disable Official Fargo D L C Enchantments
+			Label: Disable Official Fargo DLC Enchantments
 			Tooltip: ""
 		}
 
@@ -2945,6 +2992,11 @@ Configs: {
 		EnableSplit: {
 			Label: Enable Split Content
 			Tooltip: Enable crossmod compatibility with Split
+		}
+
+		EnableFargoSoulsDLC: {
+			Label: Enable Fargo's Souls DLC Content
+			Tooltip: Enable crossmod compatibility with the official Fargo's Souls DLC (Void Soul into Soul of Eternity)
 		}
 
 		EnableClamity: {
