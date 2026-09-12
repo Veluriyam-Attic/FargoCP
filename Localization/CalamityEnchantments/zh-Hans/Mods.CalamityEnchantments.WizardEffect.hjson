@@ -1,27 +1,15 @@
-Aerospec1: 伤害和暴击加成翻倍
-Marnite1: 增加激光的伤害和范围，翻倍放置加成
-DesertProwler1: 更强的跳跃，提高击退和伤害
-Wulfrum1: 被扫描的敌怪受到伤害性减益时产生的额外伤害增加
-Hydrothermic1: 过热状态持续时间增加，伤害减免增加至45%，烈焰伤害增加
-Daedalus1: 增加箭矢的伤害、数量和速度
-SnowRuffian1: 增加翅膀能力
-Reaver1: 防御、生命回复和移动速度的加成翻倍，提高掠夺者之怒持续时间
-Plaguebringer1: 瘟疫毒云造成更高伤害，并增大触发充能的范围
-PlagueReaper1:
+Plaguebringer2: 瘟疫毒云造成更高伤害，并增大触发充能的范围
+PlagueReaper2:
 	'''
 	减益可以从更远的地方蔓延
 	敌怪将更持久的传播减益
 	'''
-Umbraphile1: 蝙蝠造成更多伤害且治疗更多生命值
-Sulphur1: 跳跃产生3个气泡
-Victide1: 海胆尖刺不再受重力影响且会施加[cbuff:Venom]减益
-Statigel1: 更高的移动速度，伤害加成翻倍
-TitanHeart1: 伤害减免翻倍，处于地面时速度增加至100%
-FathomSwarmer1: 更大的光照范围，更快的鱼
-Astral1: 更长的
-Brimflame1: 只消耗一半的防御，但仍保留原本消耗所有防御的效果
-Mollusk1: 更高的伤害，更长的无敌时间
-Empyrean1: 增加伤害、治疗和怒气回复
+Umbraphile2: 蝙蝠造成更多伤害且治疗更多生命值
+FathomSwarmer2: 更大的光照范围，更快的鱼
+Astral2: 更长的星链，更高的伤害
+Brimflame2: 只消耗一半的防御，但仍保留原本消耗所有防御的效果
+Mollusk2: 更高的伤害，更长的无敌时间
+Empyrean2: 增加伤害、治疗和怒气回复
 LunicCorps: 雷神之锤护盾耐久翻倍
 Tarragon: 40次攻击触发龙蒿免疫，且持续时间翻倍
 Prismatic: 所有弹幕能被反射，但是光属性弹幕能造成更多伤害
@@ -48,3 +36,5 @@ Nihilplasmic: 噬虚护盾耐久翻倍
 Smoldering: 扩大炼狱光环的范围，灼烬之尾伤害翻倍
 EntropicFaquir: 幻影造成的伤害翻倍
 Sailfish: 增加伤害增幅
+Clamitas: 更高的伤害，更长的无敌时间
+Endobsidian: 施加敌怪[cbuff:Oiled]减益

@@ -1,4 +1,4 @@
-PlagueReaperEnchant1: {
+PlagueReaper2Enchant: {
 	DisplayName: 瘟疫死神魔石
 	Tooltip:
 		'''
@@ -10,7 +10,7 @@ PlagueReaperEnchant1: {
 		'''
 }
 
-PlaguebringerEnchant1: {
+Plaguebringer2Enchant: {
 	DisplayName: 瘟疫使者魔石
 	Tooltip:
 		'''
@@ -24,12 +24,12 @@ PlaguebringerEnchant1: {
 		'''
 }
 
-UmbraphileEnchant1: {
+Umbraphile2Enchant: {
 	DisplayName: 日影魔石
 	Tooltip: ""
 }
 
-FathomSwarmerEnchant1: {
+FathomSwarmer2Enchant: {
 	DisplayName: 幻渊鱼群魔石
 	Tooltip:
 		'''
@@ -38,7 +38,7 @@ FathomSwarmerEnchant1: {
 		'''
 }
 
-AstralEnchant1: {
+Astral2Enchant: {
 	DisplayName: 星幻魔石
 	Tooltip:
 		'''
@@ -47,7 +47,7 @@ AstralEnchant1: {
 		'''
 }
 
-BrimflameEnchant1: {
+Brimflame2Enchant: {
 	DisplayName: 硫火魔石
 	Tooltip:
 		'''
@@ -59,12 +59,12 @@ BrimflameEnchant1: {
 	DefenseUp: +{0}防御
 }
 
-MolluskEnchant1: {
+Mollusk2Enchant: {
 	DisplayName: 软壳魔石
 	Tooltip: “世界是你的掌中珠”
 }
 
-EmpyreanEnchant1: {
+Empyrean2Enchant: {
 	DisplayName: 皇天魔石
 	Tooltip:
 		'''
@@ -117,7 +117,7 @@ BloodflareEnchant: {
 }
 
 OmegaBlueEnchant: {
-	DisplayName:  蓝色欧米茄魔石
+	DisplayName: 蓝色欧米茄魔石
 	Tooltip:
 		'''
 		六只触手会窃取敌怪生命值来治疗你
@@ -199,9 +199,9 @@ GloomForce: {
 	DisplayName: 昏冥之力
 	Tooltip:
 		'''
-		[i:CalamityEnchantments/UmbraphileEnchant1] 蝙蝠群将杀死红恶魔，会立刻激怒你
-		[i:CalamityEnchantments/FathomSwarmerEnchant1] 召唤一条鮟鱇鱼伙伴，它会跟随你的光标
-		[i:CalamityEnchantments/FathomSwarmerEnchant1] 鮟鱇鱼的光芒会降低敌怪和弹幕的速度
+		[i:CalamityEnchantments/Umbraphile2Enchant] 蝙蝠群将杀死红恶魔，会立刻激怒你
+		[i:CalamityEnchantments/Umbraphile2Enchant] 召唤一条鮟鱇鱼伙伴，它会跟随你的光标
+		[i:CalamityEnchantments/FathomSwarmer2Enchant] 鮟鱇鱼的光芒会降低敌怪和弹幕的速度
 		[i:CalamityEnchantments/OmegaBlueEnchant] 六只触手会窃取敌怪生命值来治疗你
 		[i:CalamityEnchantments/DemonshadeEnchant] 3只红恶魔跟随你，向附近敌怪发射暗影光束与恶魔镰刀
 		[i:CalamityEnchantments/DemonshadeEnchant] 红恶魔拥有300点生命值，它们的死亡会使附近所有敌怪被黑魔法[cbuff:CalamityMod/Enraged]10秒
@@ -217,9 +217,9 @@ HeavensForce: {
 		[i:FargowiltasCrossmod/TitanHeartEnchant] 肾上腺素充能速度增加20%，处于地面时速度增加70%
 		[i:FargowiltasCrossmod/TitanHeartEnchant] 随着肾上腺素的充能进度增加伤害减免，最多增加15%伤害减免
 		[i:FargowiltasCrossmod/TitanHeartEnchant] 增加5%最大移动速度和加速度
-		[i:CalamityEnchantments/AstralEnchant1] 一串能造成伤害的星幻星辰会跟随在你身后
-		[i:CalamityEnchantments/EmpyreanEnchant1] 缓慢移动或静止2秒后会强化你的下一次攻击
-		[i:CalamityEnchantments/EmpyreanEnchant1] 强化攻击造成双倍伤害，回复40点生命，积攒怒气，并在碰撞时生成追踪的皇天星源
+		[i:CalamityEnchantments/Astral2Enchant] 一串能造成伤害的星幻星辰会跟随在你身后
+		[i:CalamityEnchantments/Empyrean2Enchant] 缓慢移动或静止2秒后会强化你的下一次攻击
+		[i:CalamityEnchantments/Empyrean2Enchant] 强化攻击造成双倍伤害，回复40点生命，积攒怒气，并在碰撞时生成追踪的皇天星源
 		[i:CalamityEnchantments/PrismaticEnchant] 受到光属性弹幕伤害时，会将其反弹回光标的方向
 		“雨后土壤熏染的宿命，崩乱混沌的震央”
 		'''
@@ -232,8 +232,8 @@ SynthesisForce: {
 		[i:FargowiltasCrossmod/WulfrumEnchant] 召唤一架跟随光标的钨钢无人机
 		[i:FargowiltasCrossmod/WulfrumEnchant] 无人机会扫描敌怪， 显示其对减益类型的易伤与抗性
 		[i:FargowiltasCrossmod/WulfrumEnchant] 被扫描的敌怪受到任意减益时随时间受到额外的固定伤害
-		[i:CalamityEnchantments/MolluskEnchant1] 猛冲击中敌怪造成大量伤害并提供你短暂的无敌帧，仅在击中敌怪后进入冷却
-		[i:CalamityEnchantments/BrimflameEnchant1] 消耗的防御越多，释放的硫火怒张越强
+		[i:CalamityEnchantments/Mollusk2Enchant] 猛冲击中敌怪造成大量伤害并提供你短暂的无敌帧，仅在击中敌怪后进入冷却
+		[i:CalamityEnchantments/Brimflame2Enchant] 消耗的防御越多，释放的硫火怒张越强
 		[i:CalamityEnchantments/LunicCorpsEnchant] 生成能量护盾吸收最多150点伤害
 		[i:CalamityEnchantments/LunicCorpsEnchant] 护盾会在受到攻击后5秒开始充能
 		[i:CalamityEnchantments/GemTechEnchant] 六个宝石碎片缓缓绕着你旋转；其中五个对应五个职业，还有一个基础宝石
@@ -287,25 +287,25 @@ TyrantSoul: {
 }
 
 EnchantmentNewText: {
-	DesertProwler: ""
-	SnowRuffian: ""
+	//	DesertProwler: ""
+	//	SnowRuffian: ""
 	Statigel: "'Statis’ mystical power surrounds you…'"
-	Sulphurous: ""
+	//	Sulphurous: ""
 	Victide: "'The former seas have energized you…'"
 	Aerospec: "'The sky comes to your aid…'"
 	Daedalus: "'Icy magic envelopes you...'"
 	Reaver: "'A thorny death awaits your enemies...'"
-	Hydrothermic: ""
+	//	Hydrothermic: ""
 	Wulfrum: "'Not to be confused with Tungsten魔石…'"
 }
 
 ForceNewText: {
 	DeathFearmonger: "[i:CalamityEnchantments/FearmongerEnchant] 仆从攻击会提供+2.5HP/s生命再生并大幅加速生命再生"
-	DeathPlagueReaper: "[i:CalamityEnchantments/PlagueReaperEnchant1] 所有的减益会在敌怪之间传播"
+	DeathPlagueReaper: "[i:CalamityEnchantments/PlagueReaper2Enchant] 所有的减益会在敌怪之间传播"
 	LifePlaguebringer:
 		'''
-		[i:CalamityEnchantments/PlaguebringerEnchant1] 所有攻击会施加[cbuff:CalamityMod/Plague]减益
-		[i:CalamityEnchantments/PlaguebringerEnchant1] 瘟疫毒云会跟随你，并当附近有敌怪受到[cbuff:CalamityMod/Plague]减益时变大
+		[i:CalamityEnchantments/PlagueReaper2Enchant] 所有攻击会施加[cbuff:CalamityMod/Plague]减益
+		[i:CalamityEnchantments/PlagueReaper2Enchant] 瘟疫毒云会跟随你，并当附近有敌怪受到[cbuff:CalamityMod/Plague]减益时变大
 		'''
 	ExaltationIntergelactic:
 		'''
@@ -332,9 +332,8 @@ ForceNewText: {
 	GaleSailfish: "[i:CalamityEnchantments/SailfishEnchant] 骑乘时增加所有伤害"
 }
 
-TyrantSoulFlavorCheck: "“于是最后这片大地再次归于沉寂……”"
+TyrantSoulFlavorCheck: “于是最后这片大地再次归于沉寂……”
 TyrantSoulEffectsCheck: 获得异世裂片、噬宇之傲、圣魂归寂、幻灭心元石和猎魂鲨齿项链的效果
-OmegaBlueEffectsCheck: "[i:CalamityMod/ReaperToothNecklace] 获得猎魂鲨齿项链的效果"
 GloomForceEffectsCheck: 获得获得幻灭心元石和猎魂鲨齿项链的效果
 
 IntergelacticEnchant: {
@@ -464,5 +463,25 @@ SailfishEnchant: {
 		骑乘时增加所有伤害
 		在没有装备其他坐骑时，召唤一只皇家速龙海马
 		[i:CalamityFables/WarriorsAmphora] 获得战士的双颈瓶效果
+		'''
+}
+
+ClamitasEnchant: {
+	DisplayName: 灾蛤魔石
+	Tooltip:
+		'''
+		巨蛤猛冲持续时间更久，造成更高伤害并燃烧敌怪
+		击中地面或敌怪时会释放火焰
+		“世界并非你的掌中珠”
+		'''
+}
+
+EndobsidianEnchant: {
+	DisplayName: 寒狱魔石
+	Tooltip:
+		'''
+		攻击带有[cbuff:OnFire]减益的敌怪，施加[cbuff:Frostburn]减益，若为[cbuff:OnFire3]减益则施加[cbuff:Frostburn2]减益
+		（无论敌人是已带有着火减益，还是这次攻击让其着火，效果都会生效）
+		[i:Clamity/MetalWings] 受到伤害时恢复部分飞行时间
 		'''
 }

@@ -1,4 +1,4 @@
-MolluskEffect1: {
+Mollusk2Effect: {
 	DisplayName: 巨蛤猛冲
 	Tooltip:
 		'''
@@ -8,7 +8,7 @@ MolluskEffect1: {
 		'''
 }
 
-UmbraphileEffect1: {
+Umbraphile2Effect: {
 	DisplayName: 蝠群变身
 	Tooltip:
 		'''
@@ -18,7 +18,7 @@ UmbraphileEffect1: {
 		'''
 }
 
-BrimflameEffect1: {
+Brimflame2Effect: {
 	DisplayName: 硫火怒张
 	Tooltip: 消耗你的所有防御向所有方向释放一波硫磺火
 }

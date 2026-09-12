@@ -6,7 +6,7 @@ ClamSlam1: {
 BatMode1.DisplayName: 蝙蝠模式
 FathomAngler1.DisplayName: 鮟鱇鱼
 PlagueCloud1.DisplayName: 瘟疫毒云
-AstralTrailStar1.DisplayName: 星幻星辰
+AstralTrailStar2.DisplayName: 星幻星辰
 Prism.DisplayName: 棱镜
 RefractedLightDeathray.DisplayName: 折射死亡射线
 OmegaBlueEnchantTentacle.DisplayName: 蓝色欧米茄触手
@@ -16,4 +16,6 @@ SlipperyShogunTendril.DisplayName: 神胶幕府触须
 GeothermicDebris.DisplayName: 地热碎屑
 AcropolisSteam.DisplayName: 蒸汽
 AcropolisDebris.DisplayName: 挖掘碎屑
-FaquirWraith.DisplayName: 虚空行者幻影
+FaquirWraith.DisplayName: 虚空幻影
+ClamitasSlam.DisplayName: 灾蛤猛冲
+ClamitasSlamFireball.DisplayName: 灾蛤火球
